@@ -3,8 +3,9 @@
   "model": "ariya",
   "generation": "ariya_2023",
   "source": "kb",
-  "ingested_from": "nissan/ariya",
+  "ingested_from": "nissan/2023_nissan_ariya/2023_nissan_ariya_2023",
   "ingested_at": "2026-04-21",
   "h33_fallback": true,
-  "extracted_year": 2023
+  "extracted_year": 2023,
+  "h3_junk_resolved": "Nissan Ariya 2023+"
 }

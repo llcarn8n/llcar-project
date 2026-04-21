@@ -137,9 +137,6 @@
           "han_2020",
           "han_ev"
         ],
-        "l_dmi_manual_rus": [
-          "l_dmi_manual_rus_last"
-        ],
         "seal": [
           "seal_2022"
         ],
@@ -149,6 +146,9 @@
         ],
         "song": [
           "song_l_dmi_manual_rus_last"
+        ],
+        "song_l_dmi": [
+          "song_l_dmi_2023"
         ],
         "song_plus": [
           "song_plus_ev2023_champion_edition_user_manual"
@@ -173,9 +173,6 @@
     },
     "changan": {
       "models": {
-        "2023_05_26__plus_owner_manual_rus__1": [
-          "2023_05_26__plus_owner_manual_rus__1_2023"
-        ],
         "_cs55": [
           "_cs55_plus"
         ],
@@ -183,6 +180,9 @@
           "cs35p1_2018",
           "cs55_plus",
           "cs55_plus_2019"
+        ],
+        "eado_plus": [
+          "eado_plus_2021"
         ],
         "q07": [
           "q07_2021"
@@ -314,9 +314,6 @@
     },
     "datsun": {
       "models": {
-        "1000_1200": [
-          "1000_1200_1972"
-        ],
         "on_do": [
           "gen_2014",
           "on_do_2015",
@@ -380,12 +377,6 @@
     },
     "ford": {
       "models": {
-        "2021_ford_mustang_mach_e_owners_manual_version_1_om_en": [
-          "2021_ford_mustang_mach_e_owners_manual_version_1_om_en_us"
-        ],
-        "2021_ford_mustang_mach_e_owners_manual_version_1_om_en_us_09": [
-          "2021_ford_mustang_mach_e_owners_manual_version_1_om_en_us_09_2020"
-        ],
         "escape": [
           "escape_2008",
           "escape_maverick",
@@ -413,6 +404,9 @@
         ],
         "mustang": [
           "mustang_mach_e"
+        ],
+        "mustang_mach_e": [
+          "mustang_mach_e_2021"
         ],
         "ranger": [
           "ranger_t6_2011"
@@ -523,12 +517,12 @@
           "h9_2015",
           "h9_2024"
         ],
+        "hover": [
+          "hover_2005"
+        ],
         "jolion": [
           "jol_2021",
           "jolion_2021"
-        ],
-        "misc_2ca0da3c": [
-          "misc_2ca0da3c_2005"
         ]
       }
     },
@@ -779,9 +773,6 @@
     },
     "kia": {
       "models": {
-        "2019_kia": [
-          "2019_kia_niro"
-        ],
         "carnival": [
           "carnival_2021",
           "ka4_2020"
@@ -853,8 +844,8 @@
         "2008": [
           "2008_2004"
         ],
-        "2008_d91309f0": [
-          "2008_d91309f0_2004"
+        "2110": [
+          "2110_1996"
         ],
         "granta": [
           "2190_2018",
@@ -954,20 +945,24 @@
         ]
       }
     },
+    "lifan": {
+      "models": {
+        "breez": [
+          "breez_2005"
+        ],
+        "solano": [
+          "solano_2009"
+        ]
+      }
+    },
     "livan": {
       "models": {
         "2008": [
           "2008_2005"
         ],
-        "2008_11559170": [
-          "2008_11559170_2005"
-        ],
         "9": [
           "9_2023",
           "gen_2022"
-        ],
-        "misc_7fd8c177": [
-          "misc_7fd8c177_2009"
         ],
         "s6_pro": [
           "s6_2023",
@@ -1146,9 +1141,6 @@
     },
     "nissan": {
       "models": {
-        "2023_nissan_ariya": [
-          "2023_nissan_ariya_2023"
-        ],
         "almera": [
           "latio_versa_almera_sunny_2011_2012_n17"
         ],
@@ -1529,20 +1521,12 @@
         "2008": [
           "2008_2005"
         ],
-        "2008_2cad14d8": [
-          "2008_2cad14d8_2005"
-        ],
         "hunter": [
           "hunter_2003"
         ],
-        "misc_033d20b3": [
-          "misc_033d20b3_2016"
-        ],
-        "misc_615771d0": [
-          "misc_615771d0_2003"
-        ],
         "patriot": [
           "patriot_2005",
+          "patriot_2016",
           "patriot_2024"
         ],
         "profi": [

@@ -10,11 +10,35 @@
   "facelift2": 2021,
   "platform": "УАЗ 3163 (рамная)",
   "engines": [
-    { "code": "ЗМЗ-409", "volume": "2.7L", "type": "R4 OHC", "fuel": "petrol", "power_hp": 135 },
-    { "code": "ЗМЗ-40906", "volume": "2.7L", "type": "R4 OHC Евро-5", "fuel": "petrol", "power_hp": 128 }
+    {
+      "code": "ЗМЗ-409",
+      "volume": "2.7L",
+      "type": "R4 OHC",
+      "fuel": "petrol",
+      "power_hp": 135
+    },
+    {
+      "code": "ЗМЗ-40906",
+      "volume": "2.7L",
+      "type": "R4 OHC Евро-5",
+      "fuel": "petrol",
+      "power_hp": 128
+    }
   ],
-  "transmissions": ["5MT (Dymos)", "6AT Punch Powertrain (с 2018)"],
-  "drivetrains": ["4WD part-time (Dymos)"],
+  "transmissions": [
+    "5MT (Dymos)",
+    "6AT Punch Powertrain (с 2018)"
+  ],
+  "drivetrains": [
+    "4WD part-time (Dymos)"
+  ],
   "popularity_ru": "medium",
-  "notes": "Рамный внедорожник. Подключаемый полный привод с понижающей передачей. Рестайлинги 2014 и 2021. АКПП Punch Powertrain (бывш. GM Powertrain) — с 2018 г. Евро-5 (ЗМЗ-40906) — с 2016 г."
+  "notes": "Рамный внедорожник. Подключаемый полный привод с понижающей передачей. Рестайлинги 2014 и 2021. АКПП Punch Powertrain (бывш. GM Powertrain) — с 2018 г. Евро-5 (ЗМЗ-40906) — с 2016 г.",
+  "brand": "uaz",
+  "model": "patriot",
+  "generation": "patriot_2005",
+  "source": "kb",
+  "ingested_from": "uaz/2008_2cad14d8/2008_2cad14d8_2005",
+  "ingested_at": "2026-04-21",
+  "h3_junk_resolved": "UAZ Patriot 2005+ (3MZ-409.10)"
 }

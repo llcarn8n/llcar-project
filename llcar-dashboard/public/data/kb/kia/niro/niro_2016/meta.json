@@ -3,7 +3,8 @@
   "model": "niro",
   "generation": "niro_2016",
   "source": "kb",
-  "ingested_from": "kia/niro",
+  "ingested_from": "kia/2019_kia/2019_kia_niro",
   "ingested_at": "2026-04-21",
-  "h33_manual_map": "Niro 2016+"
+  "h33_manual_map": "Niro 2016+",
+  "h3_junk_resolved": "Kia Niro Hybrid/PHEV 2019 (merge into niro_2016)"
 }

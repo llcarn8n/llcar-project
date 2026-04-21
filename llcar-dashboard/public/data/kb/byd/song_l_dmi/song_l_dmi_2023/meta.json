@@ -1,0 +1,9 @@
+{
+  "brand": "byd",
+  "model": "song_l_dmi",
+  "generation": "song_l_dmi_2023",
+  "source": "kb",
+  "ingested_from": "byd/l_dmi_manual_rus/l_dmi_manual_rus_last",
+  "ingested_at": "2026-04-21",
+  "h3_junk_resolved": "BYD Song L DMI 2023"
+}

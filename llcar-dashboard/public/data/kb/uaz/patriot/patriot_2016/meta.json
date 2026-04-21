@@ -1,0 +1,9 @@
+{
+  "brand": "uaz",
+  "model": "patriot",
+  "generation": "patriot_2016",
+  "source": "kb",
+  "ingested_from": "uaz/misc_033d20b3/misc_033d20b3_2016",
+  "ingested_at": "2026-04-21",
+  "h3_junk_resolved": "UAZ Patriot 2016+ (3MZ-40906)"
+}
