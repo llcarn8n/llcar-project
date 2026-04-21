@@ -62,6 +62,21 @@ def _load_normalizer():
 NORMALIZE = _load_normalizer()
 
 
+def _load_quality_guard():
+    here = Path(__file__).resolve().parent
+    spec = importlib.util.spec_from_file_location(
+        "s27_quality_guard", here / "s27_quality_guard.py"
+    )
+    if not spec or not spec.loader:
+        raise RuntimeError("cannot load s27_quality_guard.py")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+_QG = _load_quality_guard()
+
+
 # ---------------------------------------------------------------------------
 # KB tree index + destination resolver (same logic as s27_ingest_manuals_export)
 # ---------------------------------------------------------------------------
@@ -144,6 +159,8 @@ def main() -> int:
                     help="Skip writing if normalized result still exceeds this")
     ap.add_argument("--apply", action="store_true")
     ap.add_argument("--report", default=".omc/research/s27-oversize-ingest.md")
+    ap.add_argument("--blacklist", default=".omc/research/s27-source-blacklist.txt",
+                    help="Skip brand/gen pairs listed here (Этап G)")
     args = ap.parse_args()
 
     src_root = Path(args.src)
@@ -156,6 +173,9 @@ def main() -> int:
     kb_idx = index_kb(kb_root)
     min_bytes = args.min_input_mb * 1024 * 1024
     max_out_bytes = args.max_output_mb * 1024 * 1024
+    blacklist = _QG.load_blacklist(args.blacklist)
+    if blacklist:
+        _log(f"[info] blacklist: {len(blacklist)} entries from {args.blacklist}")
 
     rows: list[Row] = []
     for brand_dir in sorted(src_root.iterdir()):
@@ -177,16 +197,34 @@ def main() -> int:
                 _log(f"[no-dst] {brand_dir.name}/{gen_dir.name} ({size/1e6:.1f}MB)")
                 continue
 
+            key = f"{brand_dir.name}/{gen_dir.name}"
+            if key in blacklist:
+                rows.append(Row(brand_dir.name, gen_dir.name, size, dst, None, None, None, "blacklist"))
+                _log(f"[blacklist] {key} ({size/1e6:.1f}MB)")
+                continue
+
             # Read + normalize
             try:
                 text = manual.read_text(encoding="utf-8", errors="replace")
             except Exception as e:
-                _log(f"[error] {manual}: {e}", file=sys.stderr)
+                _log(f"[error] {manual}: {e}")
                 continue
             dst_brand, dst_model, dst_gen = dst
             normalized, stats = NORMALIZE(text, dst_brand, dst_model, dst_gen)
             nsize = len(normalized.encode("utf-8"))
             compression = nsize / size if size else 1.0
+
+            # Quality guard on normalized text — catches repetitive/thin/picture-book junk
+            tags, qmetrics = _QG.is_junk(normalized)
+            if _QG.should_reject(tags):
+                qpasses = dict(stats) if stats else {}
+                qpasses["_verdict"] = ",".join(tags)
+                qpasses["_uniq_ratio"] = round(qmetrics["unique_ratio"], 4)
+                rows.append(Row(brand_dir.name, gen_dir.name, size, dst, nsize, compression, qpasses, "junk"))
+                _log(f"[junk] {key}: {','.join(tags)} "
+                     f"uniq={qmetrics['unique_ratio']:.3f} "
+                     f"({size/1e6:.1f}MB → {nsize/1e6:.1f}MB)")
+                continue
 
             if nsize > max_out_bytes:
                 rows.append(Row(brand_dir.name, gen_dir.name, size, dst, nsize, compression, stats, "too-big"))
@@ -208,10 +246,13 @@ def main() -> int:
     writes = [r for r in rows if r.action == "write"]
     too_big = [r for r in rows if r.action == "too-big"]
     no_dst = [r for r in rows if r.action == "no-dst"]
+    junk_rows = [r for r in rows if r.action == "junk"]
+    blk_rows = [r for r in rows if r.action == "blacklist"]
 
     lines = ["# S27 oversize ingest + normalize — dry-run" if not args.apply else "# S27 oversize ingest + normalize — apply", ""]
     lines.append(f"**Source min size:** {args.min_input_mb}MB · **Output max size:** {args.max_output_mb}MB")
-    lines.append(f"**Totals:** write={len(writes)} too-big={len(too_big)} no-dst={len(no_dst)}")
+    lines.append(f"**Totals:** write={len(writes)} too-big={len(too_big)} "
+                 f"junk={len(junk_rows)} blacklist={len(blk_rows)} no-dst={len(no_dst)}")
     total_src = sum(r.src_size for r in writes)
     total_out = sum(r.normalized_size or 0 for r in writes)
     if writes:
@@ -237,6 +278,8 @@ def main() -> int:
         lines.append("")
 
     _table(writes, "write")
+    _table(junk_rows, "junk (rejected by quality guard — Этап G)")
+    _table(blk_rows, "blacklist (source marked as junk — Этап G)")
     _table(too_big, "too-big (requires split or aggressive dedup — S28)")
     _table(no_dst, "no-dst (no matching brand/model/gen in KB)")
 
@@ -245,7 +288,8 @@ def main() -> int:
     out.write_text("\n".join(lines), encoding="utf-8")
 
     mode = "apply" if args.apply else "dry-run"
-    _log(f"\n[{mode}] write={len(writes)} too-big={len(too_big)} no-dst={len(no_dst)} -> {out}")
+    _log(f"\n[{mode}] write={len(writes)} too-big={len(too_big)} "
+         f"junk={len(junk_rows)} blacklist={len(blk_rows)} no-dst={len(no_dst)} -> {out}")
     return 0
 
 

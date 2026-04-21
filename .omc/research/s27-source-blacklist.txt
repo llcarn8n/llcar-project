@@ -1,0 +1,55 @@
+# S27 · Этап G — source blacklist
+#
+# Список <brand>/<gen_dir> пар в D:\manuals-export/ которые НЕ ingestнуть в KB.
+# Проверка в scripts/s27_ingest_manuals_export.py + s27_ingest_oversize_normalized.py.
+#
+# Критерий: unique_lines/nonblank_lines < 0.05 (95%+ строк — дубли).
+# Проверено через scripts/s27_audit_content_quality.py на llcar-dashboard/public/data/kb.
+# Автоматический аудит D:\manuals-export см .omc/research/s27-content-quality-source.md.
+#
+# Формат: по одной записи на строку, "<brand>/<src_dir>" (как в D:\manuals-export/<brand>/<src_dir>/).
+# Пустые строки и строки с # игнорируются.
+
+# 34 репо-файла — уже удалены в коммите Этапа G. Имена src_dir в D:\ могут не совпадать
+# с dst_gen в репе (они резолвятся через canonicalize). Ingest-скрипт сравнивает
+# исходные src_dir имена. Ниже перечислены и dst_gen имена — если src_dir отличается,
+# добавь вручную после прогона audit на D:\.
+
+baic/x35_2017
+baic/x55_2022
+bmw/f22_2013
+bmw/f39_2017
+byd/yuan_2021
+changan/cs75p1_2019
+changan/unik1_2021
+datsun/gen_2014
+datsun/midodecoked_2014
+fiat/x290_2014
+forthing/friday_rhd
+forthing/t5_2020
+forthing/t5_2022
+gac/emkoo_gen_2022
+gac/gs3_2020
+gac/gs8_2021
+haval/dargo_2022
+hyundai/ad_2016
+jac/js4_gen1_2019
+kia/jf_2015
+lexus/al20_2015
+mercedes/w204_2007
+mitsubishi/ks_2016
+nissan/almera_g15_2013
+nissan/j11_2014
+porsche/95b_2014
+renault/rjl_2019
+renault/hy_2007
+skoda/ns_2016
+skoda/a8_2020
+toyota/xu70_2019
+toyota/prado_2002
+volkswagen/polo_2015
+zeekr/001_2021
+zeekr/007_2024
+
+# (после source audit добавить D:\-only файлы которые в репо не ingestились
+# но тоже имеют unique_ratio < 0.05 — их блокируем проактивно.)

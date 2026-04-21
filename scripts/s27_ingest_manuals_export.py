@@ -13,6 +13,7 @@ Policy:
 from __future__ import annotations
 
 import argparse
+import importlib.util
 import io
 import json
 import re
@@ -24,6 +25,21 @@ from typing import Optional
 
 if sys.platform == "win32":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+
+
+def _load_quality_guard():
+    here = Path(__file__).resolve().parent
+    spec = importlib.util.spec_from_file_location(
+        "s27_quality_guard", here / "s27_quality_guard.py"
+    )
+    if not spec or not spec.loader:
+        raise RuntimeError("cannot load s27_quality_guard.py")
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+_QG = _load_quality_guard()
 
 
 @dataclass
@@ -205,10 +221,14 @@ def write_report(report: Report, out_path: Path) -> None:
     out_path.write_text("\n".join(lines), encoding="utf-8")
 
 
-def apply_ingest(report: Report, create_new: bool, max_size_mb: int) -> tuple[int, int]:
-    """Returns (copied, skipped_oversize)."""
+def apply_ingest(report: Report, create_new: bool, max_size_mb: int,
+                 blacklist: set[str] | None = None) -> tuple[int, int, int, int]:
+    """Returns (copied, skipped_oversize, skipped_junk, skipped_blacklist)."""
     copied = 0
-    skipped = 0
+    skipped_oversize = 0
+    skipped_junk = 0
+    skipped_blacklist = 0
+    blacklist = blacklist or set()
     limit = max_size_mb * 1024 * 1024
     for p in report.pairs:
         if p.match_type == "unmatched":
@@ -217,18 +237,39 @@ def apply_ingest(report: Report, create_new: bool, max_size_mb: int) -> tuple[in
             continue
         if not p.dst_exists and not create_new:
             continue
+
+        key = f"{p.brand}/{p.src_dir}"
+        if key in blacklist:
+            print(f"[skip-blacklist] {key}", file=sys.stderr)
+            skipped_blacklist += 1
+            continue
+
         if p.src_manual_size > limit:
             print(
-                f"[skip-oversize] {p.brand}/{p.src_dir}: "
+                f"[skip-oversize] {key}: "
                 f"{p.src_manual_size/1024/1024:.1f}MB > {max_size_mb}MB",
                 file=sys.stderr,
             )
-            skipped += 1
+            skipped_oversize += 1
             continue
+
+        # Quality guard — reject repetitive/picture-book/thin junk before copy
+        try:
+            text = p.src_manual.read_text(encoding="utf-8", errors="replace")
+            tags, _metrics = _QG.is_junk(text)
+        except Exception as e:
+            print(f"[err-read] {key}: {e}", file=sys.stderr)
+            skipped_junk += 1
+            continue
+        if _QG.should_reject(tags):
+            print(f"[skip-junk] {key}: {','.join(tags)}", file=sys.stderr)
+            skipped_junk += 1
+            continue
+
         p.dst_path.mkdir(parents=True, exist_ok=True)
         shutil.copy2(p.src_manual, p.dst_path / "manual.md")
         copied += 1
-    return copied, skipped
+    return copied, skipped_oversize, skipped_junk, skipped_blacklist
 
 
 def main() -> int:
@@ -241,6 +282,8 @@ def main() -> int:
     ap.add_argument("--create-new", action="store_true", help="Create new gen dirs if missing")
     ap.add_argument("--max-size-mb", type=int, default=10,
                     help="Skip manuals larger than this (likely OCR garbage). Default 10MB")
+    ap.add_argument("--blacklist", default=".omc/research/s27-source-blacklist.txt",
+                    help="Blacklist of <brand>/<src_dir> pairs to skip (Этап G)")
     args = ap.parse_args()
 
     src_root = Path(args.src)
@@ -259,9 +302,14 @@ def main() -> int:
     write_report(report, Path(args.report))
     print(f"[info] Report: {args.report}")
 
+    blacklist = _QG.load_blacklist(args.blacklist)
+    if blacklist:
+        print(f"[info] Blacklist entries: {len(blacklist)} (from {args.blacklist})")
+
     if args.apply:
-        copied, skipped = apply_ingest(report, args.create_new, args.max_size_mb)
-        print(f"[apply] copied manual.md: {copied}; skipped (oversize): {skipped}")
+        copied, osz, junk, blk = apply_ingest(report, args.create_new, args.max_size_mb, blacklist)
+        print(f"[apply] copied: {copied}; skipped oversize: {osz}; "
+              f"junk: {junk}; blacklist: {blk}")
     else:
         limit = args.max_size_mb * 1024 * 1024
         eligible = sum(
