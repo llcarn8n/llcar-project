@@ -1,0 +1,1642 @@
+{
+  "version": 1,
+  "generated_at": "2026-04-21",
+  "brands": {
+    "audi": {
+      "models": {
+        "a1": [
+          "a1_2008"
+        ],
+        "a4": [
+          "a4_1998",
+          "b8_2008"
+        ],
+        "a6": [
+          "c7_2011"
+        ],
+        "q5": [
+          "8r_2008",
+          "q5_2008"
+        ],
+        "q7": [
+          "4m_2015",
+          "q7_2013",
+          "q7_f6f5067e"
+        ]
+      }
+    },
+    "baic": {
+      "models": {
+        "bj40": [
+          "bj40_2019"
+        ],
+        "bj60": [
+          "bj60_2023"
+        ],
+        "u5_plus": [
+          "u5_2021",
+          "u5_plus_plus"
+        ],
+        "x7": [
+          "x7_2020"
+        ]
+      }
+    },
+    "belgee": {
+      "models": {
+        "s50": [
+          "s50_2024",
+          "s50_2025"
+        ],
+        "x50": [
+          "x50_2023",
+          "x50_plus"
+        ],
+        "x50_plus": [
+          "x50_plus_2025"
+        ],
+        "x70": [
+          "x70_2024"
+        ]
+      }
+    },
+    "bmw": {
+      "models": {
+        "1_series": [
+          "1_series_2012",
+          "f20_2011"
+        ],
+        "3_series": [
+          "3_series_f34",
+          "f30_2012"
+        ],
+        "4_series": [
+          "4_series_g22",
+          "f32_2013"
+        ],
+        "5_series": [
+          "5_series_5604fd15",
+          "f10_2010"
+        ],
+        "6_series": [
+          "6_series_f06",
+          "f13_2010"
+        ],
+        "7_series": [
+          "7_series_bbb4f65e",
+          "g11_2015"
+        ],
+        "8_series": [
+          "g14_2018"
+        ],
+        "i4": [
+          "g26_2021"
+        ],
+        "ix": [
+          "i20_2021"
+        ],
+        "ix3": [
+          "i3"
+        ],
+        "x1": [
+          "f48_2015",
+          "x1_e84"
+        ],
+        "x3": [
+          "f25_2010",
+          "x3_e83"
+        ],
+        "x5": [
+          "f15_2013",
+          "x5_d95e08c2",
+          "x5_e53",
+          "x5_e70"
+        ],
+        "x6": [
+          "f16_2014",
+          "x6_e71"
+        ],
+        "x7": [
+          "g07_2018",
+          "x7_2002"
+        ]
+      }
+    },
+    "byd": {
+      "models": {
+        "atto_3": [
+          "yuan_2021"
+        ],
+        "dolphin": [
+          "dolphin_2",
+          "dolphin_2021",
+          "dolphin_ru_2021"
+        ],
+        "han": [
+          "han_2",
+          "han_2020",
+          "han_ev"
+        ],
+        "l_dmi_manual_rus": [
+          "l_dmi_manual_rus_last"
+        ],
+        "seal": [
+          "seal_2022"
+        ],
+        "sealion": [
+          "sealion_05",
+          "sealion_06"
+        ],
+        "song": [
+          "song_l_dmi_manual_rus_last"
+        ],
+        "song_plus": [
+          "song_plus_ev2023_champion_edition_user_manual"
+        ],
+        "tang": [
+          "tang_2018",
+          "tang_dm_ev",
+          "tang_ev"
+        ],
+        "yuan_plus": [
+          "yuan_plus_2022"
+        ]
+      }
+    },
+    "cadillac": {
+      "models": {
+        "escalade": [
+          "escalade_2002",
+          "escalade_ru_reocr"
+        ]
+      }
+    },
+    "changan": {
+      "models": {
+        "2023_05_26__plus_owner_manual_rus__1": [
+          "2023_05_26__plus_owner_manual_rus__1_2023"
+        ],
+        "_cs55": [
+          "_cs55_plus"
+        ],
+        "cs35_plus": [
+          "cs35p1_2018",
+          "cs55_plus",
+          "cs55_plus_2019"
+        ],
+        "q07": [
+          "q07_2021"
+        ],
+        "sc7": [
+          "sc7_2021"
+        ]
+      }
+    },
+    "chery": {
+      "models": {
+        "a13": [
+          "a13_2009"
+        ],
+        "arrizo_7": [
+          "arrizo_7_2013",
+          "arrizo_7_m16_service_manual"
+        ],
+        "arrizo_8": [
+          "arrizo_8_2023"
+        ],
+        "bonus": [
+          "bonus_maintenance_and_owner_s_manual_rus"
+        ],
+        "maintenance_and_owner_s_manual": [
+          "maintenance_and_owner_s_manual_rus"
+        ],
+        "qq": [
+          "qq_s11"
+        ],
+        "tiggo_4": [
+          "tiggo_4_new"
+        ],
+        "tiggo_7_pro": [
+          "t7p_2020",
+          "tiggo7pro",
+          "tiggo_4",
+          "tiggo_7",
+          "tiggo_7_pro_2019",
+          "tiggo_7_pro_max_restyled",
+          "tiggo_8"
+        ],
+        "tiggo_8_pro": [
+          "t8p_2021",
+          "tiggo_8_pro_max"
+        ],
+        "tiggo_9": [
+          "tiggo_9_2023"
+        ]
+      }
+    },
+    "chevrolet": {
+      "models": {
+        "aveo": [
+          "aveo_2004"
+        ],
+        "camaro": [
+          "camaro_2010"
+        ],
+        "captiva": [
+          "captiva_2009",
+          "captiva_c100_2006"
+        ],
+        "cobalt": [
+          "cobalt_2016",
+          "cobalt_2018"
+        ],
+        "cruze": [
+          "j400_2016"
+        ],
+        "lacetti": [
+          "lacetti_2004",
+          "lacetti_2010"
+        ],
+        "niva": [
+          "niva_2002",
+          "niva_travel",
+          "niva_travel_1070ed5b"
+        ],
+        "orlando": [
+          "orlando_2011"
+        ],
+        "rezzo": [
+          "rezzo_2004"
+        ],
+        "spark": [
+          "spark_2005"
+        ],
+        "trailblazer": [
+          "trailblazer_2019"
+        ]
+      }
+    },
+    "citroen": {
+      "models": {
+        "c3_picasso": [
+          "c3_picasso_2009"
+        ],
+        "c4": [
+          "c4_2004"
+        ],
+        "c5": [
+          "c5_2001",
+          "c5_2008",
+          "c5_aircross",
+          "c5_break",
+          "rc_2021"
+        ],
+        "xsara": [
+          "xsara_1997"
+        ],
+        "xsara_picasso": [
+          "xsara_picasso_1999"
+        ]
+      }
+    },
+    "daewoo": {
+      "models": {
+        "gentra": [
+          "daewoo_gentra__stub"
+        ],
+        "matiz": [
+          "daewoo_matiz__matiz"
+        ],
+        "nexia": [
+          "daewoo_nexia__stub"
+        ]
+      }
+    },
+    "datsun": {
+      "models": {
+        "1000_1200": [
+          "1000_1200_1972"
+        ],
+        "on_do": [
+          "gen_2014",
+          "on_do_2015",
+          "on_do_v2_ru_reocr"
+        ]
+      }
+    },
+    "exeed": {
+      "models": {
+        "es": [
+          "es_2023"
+        ],
+        "et": [
+          "et_2023"
+        ],
+        "txl": [
+          "tx",
+          "txl1_2020",
+          "txl_debug"
+        ],
+        "txtxl": [
+          "txtxl_2023"
+        ]
+      }
+    },
+    "faw_bestune": {
+      "models": {
+        "b70": [
+          "b70_2020"
+        ],
+        "t77": [
+          "t77_gen1_2018"
+        ],
+        "t90": [
+          "t90_2022"
+        ],
+        "t99": [
+          "t99_gen1_2020"
+        ]
+      }
+    },
+    "fiat": {
+      "models": {
+        "bravo": [
+          "bravo_2007"
+        ],
+        "grande_punto": [
+          "grande_punto_2004",
+          "grande_punto_2005"
+        ],
+        "ocr": [
+          "ocr_2007"
+        ],
+        "palio": [
+          "palio_2005"
+        ],
+        "tipo": [
+          "356_2015"
+        ]
+      }
+    },
+    "ford": {
+      "models": {
+        "2021_ford_mustang_mach_e_owners_manual_version_1_om_en": [
+          "2021_ford_mustang_mach_e_owners_manual_version_1_om_en_us"
+        ],
+        "2021_ford_mustang_mach_e_owners_manual_version_1_om_en_us_09": [
+          "2021_ford_mustang_mach_e_owners_manual_version_1_om_en_us_09_2020"
+        ],
+        "escape": [
+          "escape_2008",
+          "escape_maverick",
+          "escape_maverick_2000_2007"
+        ],
+        "explorer": [
+          "explorer_u502_2010"
+        ],
+        "focus": [
+          "focus_ru",
+          "mk3_2011"
+        ],
+        "kuga": [
+          "kuga_2008",
+          "kuga_ru",
+          "mk2_2013"
+        ],
+        "maverick": [
+          "maverick_2021"
+        ],
+        "mondeo": [
+          "mk5_2014",
+          "mondeo_1998",
+          "mondeo_ru"
+        ],
+        "mustang": [
+          "mustang_mach_e"
+        ],
+        "ranger": [
+          "ranger_t6_2011"
+        ],
+        "s_max": [
+          "s_max_2002"
+        ]
+      }
+    },
+    "forthing": {
+      "models": {
+        "friday": [
+          "forthing__friday"
+        ],
+        "m4": [
+          "m4_2023"
+        ],
+        "t5": [
+          "t5_sx3"
+        ],
+        "u_tour": [
+          "gen_2024",
+          "u_tour_2024"
+        ]
+      }
+    },
+    "gac": {
+      "models": {
+        "aion_lx": [
+          "aion_lx_2019",
+          "aion_y",
+          "gac_aion_lx__stub"
+        ],
+        "gs4": [
+          "gs4_2020"
+        ],
+        "gs5": [
+          "gs5"
+        ],
+        "s7": [
+          "s7_2012"
+        ]
+      }
+    },
+    "geely": {
+      "models": {
+        "atlas": [
+          "atlas_pro",
+          "nl3_2018"
+        ],
+        "cityray": [
+          "cityray_2023"
+        ],
+        "coolray": [
+          "coolray_2019",
+          "sx11_2020"
+        ],
+        "monjaro": [
+          "kx11_2022",
+          "monjaro_2023_kx11"
+        ],
+        "tugella": [
+          "fy11_2020"
+        ]
+      }
+    },
+    "genesis": {
+      "models": {
+        "g70": [
+          "g70",
+          "g70_2023"
+        ],
+        "g80": [
+          "g80_2018",
+          "g80_2023"
+        ],
+        "g90": [
+          "g90",
+          "g90_2019"
+        ],
+        "gv60": [
+          "gen_2021",
+          "gv60_2022"
+        ],
+        "gv70": [
+          "gv70_2021",
+          "gv70_2022"
+        ],
+        "gv80": [
+          "gv80_2020",
+          "gv80_2022"
+        ]
+      }
+    },
+    "haval": {
+      "models": {
+        "f7": [
+          "f7_2019",
+          "f7x"
+        ],
+        "h5": [
+          "h5_2010"
+        ],
+        "h6": [
+          "h6_2011"
+        ],
+        "h9": [
+          "h9_2015",
+          "h9_2024"
+        ],
+        "jolion": [
+          "jol_2021",
+          "jolion_2021"
+        ],
+        "misc_2ca0da3c": [
+          "misc_2ca0da3c_2005"
+        ]
+      }
+    },
+    "honda": {
+      "models": {
+        "accord": [
+          "accord_2003",
+          "accord_2003_2008",
+          "accord_baxa_maxa_prelude_m6ha"
+        ],
+        "city": [
+          "city_2001"
+        ],
+        "civic": [
+          "fc_2016"
+        ],
+        "cr_v": [
+          "cr_v_1995",
+          "crv",
+          "rw_2017"
+        ],
+        "crosstour": [
+          "crosstour_2010"
+        ],
+        "fit": [
+          "fit_2001"
+        ],
+        "freed": [
+          "freed_2001"
+        ],
+        "hr_v": [
+          "hr_v_2015"
+        ],
+        "pilot": [
+          "pilot_2001"
+        ],
+        "stepwgn": [
+          "stepwgn_2001"
+        ]
+      }
+    },
+    "hongqi": {
+      "models": {
+        "e_hs9": [
+          "e_hs9_2021",
+          "hs9_2020"
+        ],
+        "ehs9": [
+          "ehs9_2020"
+        ],
+        "h5": [
+          "h5",
+          "h5_2022"
+        ],
+        "h9": [
+          "h9",
+          "h9_main"
+        ],
+        "hq9": [
+          "hq9_2022"
+        ],
+        "hs5": [
+          "hs5_2011",
+          "hs5_2019"
+        ]
+      }
+    },
+    "hyundai": {
+      "models": {
+        "accent": [
+          "accent_1995",
+          "rb_2011"
+        ],
+        "creta": [
+          "creta_2016",
+          "creta_ru",
+          "gs_2014"
+        ],
+        "elantra": [
+          "ad_2016",
+          "elantra_ru"
+        ],
+        "i30": [
+          "i30_2012"
+        ],
+        "i40": [
+          "i40_2",
+          "i40_2011"
+        ],
+        "ioniq5": [
+          "ioniq",
+          "ioniq_5"
+        ],
+        "ix35": [
+          "ix35_2013",
+          "lm_2010"
+        ],
+        "kona": [
+          "kona_2019"
+        ],
+        "palisade": [
+          "lx2_2019",
+          "palisade_2021"
+        ],
+        "santa_fe": [
+          "cm_2005",
+          "tm_2018"
+        ],
+        "solaris": [
+          "hc_2017",
+          "solaris_2",
+          "solaris_2017",
+          "solaris_ru"
+        ],
+        "sonata": [
+          "dn8_2019",
+          "sonata_2000"
+        ],
+        "starex": [
+          "starex_h1_2007"
+        ],
+        "staria": [
+          "staria_premium",
+          "us4_2021"
+        ],
+        "tucson": [
+          "nx4_2020",
+          "tucson_2006",
+          "tucson_ru"
+        ],
+        "venue": [
+          "venue_2022"
+        ]
+      }
+    },
+    "infiniti": {
+      "models": {
+        "fx": [
+          "fx_ru",
+          "fx_s50_2002"
+        ],
+        "q50": [
+          "v37_2013"
+        ],
+        "qx50": [
+          "j55_2017"
+        ],
+        "qx60": [
+          "l50_2013",
+          "q60",
+          "qx60_2016"
+        ],
+        "qx70": [
+          "s51_2013"
+        ]
+      }
+    },
+    "jac": {
+      "models": {
+        "js6": [
+          "js6_gen1_2021"
+        ],
+        "s5": [
+          "s5_2013"
+        ]
+      }
+    },
+    "jaecoo": {
+      "models": {
+        "j7": [
+          "j7_2023"
+        ],
+        "j8": [
+          "j8_2023",
+          "j8_2024"
+        ]
+      }
+    },
+    "jaguar": {
+      "models": {
+        "f_pace": [
+          "e_pace"
+        ],
+        "xf": [
+          "xf_2011",
+          "xf_2011_2015"
+        ],
+        "xj": [
+          "xj_2010_2012"
+        ]
+      }
+    },
+    "jeep": {
+      "models": {
+        "compass": [
+          "compass_2003",
+          "mp_2017"
+        ],
+        "grand_cherokee": [
+          "cherokee",
+          "grand_cherokee_1993",
+          "wk2_2010"
+        ],
+        "wrangler": [
+          "jl_2018",
+          "wrangler_1987"
+        ]
+      }
+    },
+    "jetour": {
+      "models": {
+        "dashing": [
+          "dashing_2022",
+          "dashing_gen1_2022"
+        ],
+        "t1": [
+          "t1_2022"
+        ],
+        "t2": [
+          "t2_2024"
+        ],
+        "x50": [
+          "x50_2024"
+        ],
+        "x70": [
+          "x70_2018",
+          "x70_gen1_2018"
+        ],
+        "x90": [
+          "x90_2019"
+        ]
+      }
+    },
+    "kaiyi": {
+      "models": {
+        "e5": [
+          "e5",
+          "e5_2022"
+        ],
+        "x3": [
+          "x3_2014",
+          "x3_2020"
+        ],
+        "x7": [
+          "x7_2024"
+        ]
+      }
+    },
+    "kia": {
+      "models": {
+        "2019_kia": [
+          "2019_kia_niro"
+        ],
+        "carnival": [
+          "carnival_2021",
+          "ka4_2020"
+        ],
+        "ceed": [
+          "ceed_2012",
+          "ceed_ru",
+          "jd_2012"
+        ],
+        "cerato": [
+          "bd_2018",
+          "cerato_2008"
+        ],
+        "ev6": [
+          "cv_2021",
+          "ev6_2021"
+        ],
+        "ev9": [
+          "ev9_my24",
+          "mv_2023"
+        ],
+        "k5": [
+          ".omc",
+          "k5_ru"
+        ],
+        "k8": [
+          "k8_2021"
+        ],
+        "mohave": [
+          "hm_2019"
+        ],
+        "niro": [
+          "niro_2016"
+        ],
+        "picanto": [
+          "picanto_sa_2004"
+        ],
+        "rio": [
+          ".omc",
+          "qb_2011",
+          "rio_iii"
+        ],
+        "seltos": [
+          "seltos_2024",
+          "sp2_2020"
+        ],
+        "sorento": [
+          "sorento_ru",
+          "um_2015"
+        ],
+        "spectra": [
+          "spectra_2005"
+        ],
+        "sportage": [
+          "nq5_2022",
+          "sl_2010"
+        ],
+        "stinger": [
+          "ck_2017",
+          "stinger_2017"
+        ],
+        "venga": [
+          "venga_2009"
+        ]
+      }
+    },
+    "lada": {
+      "models": {
+        "2008": [
+          "2008_2004"
+        ],
+        "2008_d91309f0": [
+          "2008_d91309f0_2004"
+        ],
+        "granta": [
+          "2190_2018",
+          "granta_ru"
+        ],
+        "kalina": [
+          "kalina_2004",
+          "kalina_hatchback"
+        ],
+        "largus": [
+          "largus_2012",
+          "r90_2012"
+        ],
+        "niva": [
+          "2121_1977",
+          "niva_1977",
+          "niva_2011",
+          "niva_legend",
+          "niva_travel"
+        ],
+        "priora": [
+          "priora_2007"
+        ],
+        "vesta": [
+          "gfl_2015",
+          "vesta_ru"
+        ],
+        "xray": [
+          "b2_2015",
+          "xray_2011"
+        ]
+      }
+    },
+    "land_rover": {
+      "models": {
+        "discovery": [
+          "discovery_iii"
+        ],
+        "freelander": [
+          "freelander_2007"
+        ],
+        "range_rover_sport": [
+          "l494_2013",
+          "range_rover",
+          "range_rover_evoque",
+          "range_rover_sport_2008",
+          "range_rover_sport_9a642c5e"
+        ],
+        "rr_sport": [
+          "rr_sport_l320_2005"
+        ]
+      }
+    },
+    "lexus": {
+      "models": {
+        "es": [
+          "xv60_2012"
+        ],
+        "gx": [
+          "gx_urj150_2009"
+        ],
+        "is": [
+          "is_xe20_2005"
+        ],
+        "lc": [
+          "lc_2017"
+        ],
+        "nx": [
+          "az10_2014"
+        ],
+        "rx270_rx350": [
+          "rx270_rx350_2009"
+        ],
+        "toyota_mark": [
+          "toyota_mark_x_2004_2009_lexus_is250_gs300"
+        ],
+        "ux": [
+          "ux_2018"
+        ]
+      }
+    },
+    "li_auto": {
+      "models": {
+        "l7": [
+          "l7_2022"
+        ],
+        "l8": [
+          "l8_2012",
+          "l8_2022"
+        ],
+        "l9": [
+          "l9_2012",
+          "l9_2022"
+        ],
+        "misc_1503a4f7": [
+          "misc_1503a4f7_2012"
+        ]
+      }
+    },
+    "livan": {
+      "models": {
+        "2008": [
+          "2008_2005"
+        ],
+        "2008_11559170": [
+          "2008_11559170_2005"
+        ],
+        "9": [
+          "9_2023",
+          "gen_2022"
+        ],
+        "misc_7fd8c177": [
+          "misc_7fd8c177_2009"
+        ],
+        "s6_pro": [
+          "s6_2023",
+          "s6_pro_2023"
+        ],
+        "solano": [
+          "livan_solano__stub",
+          "solano_2009"
+        ],
+        "x3_pro": [
+          "x3_2022",
+          "x3_pro_2023"
+        ],
+        "x50": [
+          "x50_2023"
+        ]
+      }
+    },
+    "mazda": {
+      "models": {
+        "3": [
+          "3_2003",
+          "bm_2013"
+        ],
+        "6": [
+          "6_2002",
+          "gj_2012"
+        ],
+        "cx30": [
+          "cx_30"
+        ],
+        "cx5": [
+          "cx",
+          "cx_5",
+          "cx_5_2021"
+        ],
+        "cx7": [
+          "cx7_2006"
+        ],
+        "cx_3": [
+          "cx_3_2015"
+        ],
+        "cx_60": [
+          "cx_60_2022"
+        ],
+        "demio": [
+          "demio_1996_2002"
+        ],
+        "mazda3": [
+          "mazda3_2003"
+        ],
+        "mazda6": [
+          "mazda6_gg_2002"
+        ],
+        "mx5": [
+          "mx5_miata"
+        ]
+      }
+    },
+    "mercedes": {
+      "models": {
+        "cla": [
+          "c117_2013",
+          "cla_2014"
+        ],
+        "e_class": [
+          "e_class_1995",
+          "e_class_d0d6d3e1",
+          "e_class_w211",
+          "w212_2009"
+        ],
+        "eqs": [
+          "eqs_2014",
+          "v297_2021"
+        ],
+        "gl_class": [
+          "gl_class_2006"
+        ],
+        "gla": [
+          "gla_2014",
+          "h247_2020"
+        ],
+        "glb": [
+          "glb_2006",
+          "x247_2019"
+        ],
+        "glc": [
+          "glc_2006",
+          "x253_2015"
+        ],
+        "gle": [
+          "gle_2006",
+          "gle_coupe",
+          "w166_2011"
+        ],
+        "gls": [
+          "x166_2012"
+        ],
+        "m_class": [
+          "m_class_w164_2005"
+        ],
+        "ml_w164": [
+          "ml_w164_2005"
+        ],
+        "s_class": [
+          "w222_2013",
+          "w223_2020"
+        ],
+        "sprinter": [
+          "sprinter_w901_905_1995"
+        ],
+        "viano": [
+          "viano_w639_2003"
+        ],
+        "vito": [
+          "vito_w447_2014"
+        ]
+      }
+    },
+    "mini": {
+      "models": {
+        "cooper": [
+          "cooper_2005",
+          "f56_2013"
+        ]
+      }
+    },
+    "mitsubishi": {
+      "models": {
+        "asx": [
+          "asx_2006",
+          "ga_2010"
+        ],
+        "eclipse": [
+          "eclipse_cross"
+        ],
+        "galant": [
+          "galant_ix_2003"
+        ],
+        "l200": [
+          "l200_2005",
+          "l200_2014",
+          "l200_2015",
+          "l200_2016",
+          "l200_2017",
+          "l200_2018",
+          "l200_2019",
+          "l200_2020",
+          "l200_2021",
+          "l200_2022",
+          "l200_2023"
+        ],
+        "outlander": [
+          "gf_2012",
+          "outlander_2000",
+          "outlander_phev"
+        ],
+        "pajero": [
+          "pajero_2014",
+          "pajero_iv_ru",
+          "pajero_pinin"
+        ],
+        "pajero_sport": [
+          "ks_2016",
+          "pajero",
+          "pajero_sport_2012",
+          "pajero_sport_2014",
+          "pajero_sport_2016",
+          "pajero_sport_2017",
+          "pajero_sport_2018",
+          "pajero_sport_2019",
+          "pajero_sport_2021",
+          "pajero_sport_ru"
+        ]
+      }
+    },
+    "nissan": {
+      "models": {
+        "2023_nissan_ariya": [
+          "2023_nissan_ariya_2023"
+        ],
+        "almera": [
+          "latio_versa_almera_sunny_2011_2012_n17"
+        ],
+        "ariya": [
+          "ariya_2023"
+        ],
+        "juke": [
+          "juke_f15_2010"
+        ],
+        "kicks": [
+          "kicks_2016"
+        ],
+        "leaf": [
+          "leaf_2012",
+          "leaf_2014",
+          "leaf_2020"
+        ],
+        "murano": [
+          "murano_2003",
+          "z52_2014"
+        ],
+        "navara": [
+          "navara_v2_ru_reocr"
+        ],
+        "pathfinder": [
+          "pathfinder_2015",
+          "r52_2013"
+        ],
+        "primera": [
+          "primera_p12_2002"
+        ],
+        "qashqai": [
+          "j11_2014",
+          "qashqai_ru"
+        ],
+        "teana": [
+          "teana_j32",
+          "teana_l33"
+        ],
+        "terrano": [
+          "d10_2014"
+        ],
+        "tiida": [
+          "tiida_c11_2004"
+        ],
+        "x_trail": [
+          "t32_2015",
+          "x_trail_2007",
+          "x_trail_2021",
+          "x_trail_v2_ru_reocr"
+        ]
+      }
+    },
+    "omoda": {
+      "models": {
+        "c5": [
+          "c5_2024",
+          "c5_gen1_2022"
+        ],
+        "c7": [
+          "c7_2024"
+        ],
+        "s5": [
+          "s5_2023",
+          "s5_gen1_2023"
+        ]
+      }
+    },
+    "opel": {
+      "models": {
+        "astra_k": [
+          "astra",
+          "astra_gtc",
+          "astra_j"
+        ],
+        "combo_life": [
+          "combo_life_2001"
+        ],
+        "corsa_e": [
+          "corsa",
+          "corsa_d",
+          "corsa_d_2006_2010"
+        ],
+        "meriva": [
+          "meriva_2011"
+        ],
+        "meriva_b": [
+          "meriva_b_2011"
+        ],
+        "omega": [
+          "omega_b",
+          "omega_b_1994"
+        ],
+        "vectra": [
+          "vectra_c_2002",
+          "vectra_sedan"
+        ],
+        "vectra_c": [
+          "vectra_c_2002"
+        ]
+      }
+    },
+    "peugeot": {
+      "models": {
+        "206": [
+          "206_1998"
+        ],
+        "207": [
+          "207_2006"
+        ],
+        "3008": [
+          "3008_2008"
+        ],
+        "307": [
+          "307_2001",
+          "307_2001_2008"
+        ],
+        "308": [
+          "308_2007"
+        ],
+        "407": [
+          "407_2004"
+        ],
+        "408": [
+          "408_2012",
+          "p54_2022"
+        ],
+        "508": [
+          "508_2010"
+        ],
+        "807": [
+          "807_2002"
+        ],
+        "boxer": [
+          "boxer_2006"
+        ]
+      }
+    },
+    "porsche": {
+      "models": {
+        "911": [
+          "911_996_1997",
+          "911_ru"
+        ],
+        "boxster": [
+          "boxster_987_2004"
+        ],
+        "cayenne": [
+          "92a_2010",
+          "cayenne_2002",
+          "cayenne_coupe",
+          "porsche_cayenne_2002_2007"
+        ],
+        "macan": [
+          "95b_2014",
+          "macan_ru",
+          "porsche_macan_2015_2016"
+        ],
+        "taycan": [
+          "taycan_2019"
+        ]
+      }
+    },
+    "renault": {
+      "models": {
+        "clio": [
+          "clio_symbol_symbol",
+          "clio_symbol_symbol_1999_2008"
+        ],
+        "duster": [
+          "duster_2009",
+          "duster_2010",
+          "hm_2021"
+        ],
+        "k9k_1_5diesel": [
+          "k9k_1_5diesel_sm"
+        ],
+        "kangoo": [
+          "kangoo_2"
+        ],
+        "kaptur": [
+          "hha_2016",
+          "kaptur_2016",
+          "kaptur_2016_d",
+          "kaptur_ru"
+        ],
+        "laguna": [
+          "laguna_2001",
+          "laguna_2001_2005",
+          "laguna_7af14511"
+        ],
+        "logan": [
+          "l52_2014",
+          "logan_ii_2014",
+          "logan_ru",
+          "logan_sandero"
+        ],
+        "master": [
+          "master_ii_1998"
+        ],
+        "megane": [
+          "megane_2003",
+          "megane_ii_2003_2008",
+          "megane_scenic",
+          "megane_scenic_1999_2002",
+          "megane_scenic_1999_2003"
+        ],
+        "sandero": [
+          "b52_2014",
+          "dacia_sandero_2008",
+          "renault_sandero_2_2014",
+          "sandero_2014",
+          "sandero_ii_2014"
+        ],
+        "symbol": [
+          "symbol_thalia_2008"
+        ]
+      }
+    },
+    "skoda": {
+      "models": {
+        "fabia": [
+          "fabia_2",
+          "fabia_2006",
+          "nj_2014"
+        ],
+        "octavia": [
+          "octavia_a4",
+          "octavia_a5",
+          "octavia_a7",
+          "skoda_octavia_3"
+        ],
+        "rapid": [
+          "nh_2020",
+          "rapid_2012"
+        ],
+        "scala": [
+          "scala_2",
+          "scala_2019"
+        ],
+        "superb": [
+          "3v_2015",
+          "superb_2",
+          "superb_2008",
+          "superb_ii"
+        ]
+      }
+    },
+    "ssangyong": {
+      "models": {
+        "actyon": [
+          "gen_2006",
+          "gen_2012",
+          "rukovodstvo_po_ekspluatatsii_ssangyong_actyon_sports_actyon"
+        ],
+        "korando": [
+          "gen_2013",
+          "korando_1998"
+        ],
+        "kyron": [
+          "gen_2005",
+          "kyron_2005"
+        ],
+        "musso": [
+          "gen_2005",
+          "musso_1993"
+        ],
+        "rexton": [
+          "gen_2017",
+          "rexton2",
+          "rexton_2001",
+          "rexton_v1_ocr",
+          "rexton_v2_ocr"
+        ]
+      }
+    },
+    "subaru": {
+      "models": {
+        "forester": [
+          "forester_2014",
+          "sk_2018"
+        ],
+        "impreza": [
+          "impreza_v2_ru_reocr"
+        ],
+        "legacy": [
+          "legacy_bp_2003"
+        ],
+        "outback": [
+          "bs_2014",
+          "legacy_outback_2012",
+          "outback_2004"
+        ]
+      }
+    },
+    "suzuki": {
+      "models": {
+        "jimny": [
+          "jimny_ft_1998"
+        ],
+        "liana": [
+          "liana_2003"
+        ],
+        "vitara": [
+          "grand_vitara_2006_2011",
+          "grand_vitara_2008",
+          "ly_2015",
+          "vitara_1997"
+        ]
+      }
+    },
+    "tank": {
+      "models": {
+        "300": [
+          "gen_2020"
+        ],
+        "400": [
+          "400_2024",
+          "gen_2023"
+        ],
+        "700": [
+          "700_2024",
+          "gen_2024"
+        ]
+      }
+    },
+    "toyota": {
+      "models": {
+        "alphard": [
+          "ah30_2015"
+        ],
+        "camry": [
+          "camry_2006_ru",
+          "camry_ru",
+          "camry_v40_ru_reocr",
+          "v50_2011"
+        ],
+        "corolla": [
+          "corolla_1997",
+          "corolla_ru",
+          "e180_2013"
+        ],
+        "hilux": [
+          "hilux_2011_v2_ru_reocr"
+        ],
+        "land_cruiser": [
+          "j200_2007",
+          "land_cruiser_2007",
+          "land_cruiser_prado"
+        ],
+        "mark": [
+          "mark_x"
+        ],
+        "prado": [
+          "j150_2009",
+          "prado_2002",
+          "prado_2002_2009"
+        ],
+        "prius": [
+          "prius_v2_ru_reocr"
+        ],
+        "rav4": [
+          "rav4_2013",
+          "rav4_ru",
+          "xa40_2013"
+        ],
+        "rush": [
+          "rush_2017"
+        ],
+        "yaris": [
+          "yaris_2005",
+          "yaris_da605e90"
+        ]
+      }
+    },
+    "uaz": {
+      "models": {
+        "2008": [
+          "2008_2005"
+        ],
+        "2008_2cad14d8": [
+          "2008_2cad14d8_2005"
+        ],
+        "hunter": [
+          "hunter_2003"
+        ],
+        "misc_033d20b3": [
+          "misc_033d20b3_2016"
+        ],
+        "misc_615771d0": [
+          "misc_615771d0_2003"
+        ],
+        "patriot": [
+          "patriot_2005",
+          "patriot_2024"
+        ],
+        "profi": [
+          "profi_2017"
+        ],
+        "sgr_bukhanka": [
+          "sgr_bukhanka_2002"
+        ]
+      }
+    },
+    "volkswagen": {
+      "models": {
+        "beetle": [
+          "beetle_a5_2011"
+        ],
+        "golf": [
+          "golf_2",
+          "golf_demo",
+          "mk7_2012"
+        ],
+        "jetta": [
+          "jetta_2",
+          "jetta_2010"
+        ],
+        "passat": [
+          "at_volkswagen_passat_audi_095"
+        ],
+        "polo": [
+          "aw_2020",
+          "polo_1994",
+          "polo_2",
+          "polo_2010",
+          "polo_2015_ru",
+          "polo_sedan",
+          "polo_v2_ru_reocr"
+        ],
+        "tiguan": [
+          "ad1_2016",
+          "tiguan_ru"
+        ]
+      }
+    },
+    "volvo": {
+      "models": {
+        "s40": [
+          "s40_2001",
+          "s40_v40_ocr"
+        ],
+        "s60": [
+          "p_2018"
+        ],
+        "xc60": [
+          "su_2017",
+          "xc60_2001"
+        ],
+        "xc90": [
+          "lc_2015",
+          "xc90_2002"
+        ]
+      }
+    },
+    "voyah": {
+      "models": {
+        "dream": [
+          "dream_2022"
+        ],
+        "dreamer": [
+          "dreamer_2_2022"
+        ],
+        "ekgnqf_voyah_dream_s4_ekrannaa_versia_13": [
+          "ekgnqf_voyah_dream_s4_ekrannaa_versia_13_2024"
+        ],
+        "free": [
+          "6d3mmp__rukovodstvo_pol_zovatela__free",
+          "free_2",
+          "free_2013",
+          "free_2021"
+        ],
+        "passion": [
+          "passion_2023"
+        ]
+      }
+    },
+    "zeekr": {
+      "models": {
+        "009": [
+          "009_2020",
+          "009_2022",
+          "009_user_manual"
+        ],
+        "7x": [
+          "7x_2024"
+        ]
+      }
+    }
+  }
+}
