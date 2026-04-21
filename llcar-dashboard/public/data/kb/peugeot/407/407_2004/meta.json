@@ -1,0 +1,10 @@
+{
+  "brand": "peugeot",
+  "model": "407",
+  "generation": "407_2004",
+  "source": "kb",
+  "ingested_from": "peugeot/407",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2004
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "lexus",
+  "model": "is",
+  "generation": "is_xe20_2005",
+  "source": "kb",
+  "ingested_from": "lexus/is",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "XE20 2005-2013 (неясно — default middle gen)"
+}

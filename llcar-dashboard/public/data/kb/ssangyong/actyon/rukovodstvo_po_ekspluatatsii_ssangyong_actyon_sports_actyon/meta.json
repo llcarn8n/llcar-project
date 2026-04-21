@@ -1,0 +1,11 @@
+{
+  "brand": "ssangyong",
+  "model": "actyon",
+  "generation": "rukovodstvo_po_ekspluatatsii_ssangyong_actyon_sports_actyon",
+  "source": "kb",
+  "ingested_from": "ssangyong/rukovodstvo_po_ekspluatatsii_ssangyong_actyon_sports_actyon",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

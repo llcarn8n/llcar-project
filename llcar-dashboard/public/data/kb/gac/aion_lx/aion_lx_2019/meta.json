@@ -1,0 +1,10 @@
+{
+  "brand": "gac",
+  "model": "aion_lx",
+  "generation": "aion_lx_2019",
+  "source": "kb",
+  "ingested_from": "gac/aion_lx",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2019
+}

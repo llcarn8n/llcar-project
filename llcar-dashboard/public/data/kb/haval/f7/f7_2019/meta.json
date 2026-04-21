@@ -9,11 +9,30 @@
   "facelift": 2022,
   "platform": "GWM L.E.M.O.N.",
   "engines": [
-    { "code": "GW4C20NT", "volume": "2.0L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 190 },
-    { "code": "GW4B15", "volume": "1.5L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 150 }
+    {
+      "code": "GW4C20NT",
+      "volume": "2.0L",
+      "type": "R4 Turbo",
+      "fuel": "petrol",
+      "power_hp": 190
+    },
+    {
+      "code": "GW4B15",
+      "volume": "1.5L",
+      "type": "R4 Turbo",
+      "fuel": "petrol",
+      "power_hp": 150
+    }
   ],
-  "transmissions": ["DCT-7 (мокрое сцепление)"],
-  "drivetrains": ["FWD", "AWD"],
+  "transmissions": [
+    "DCT-7 (мокрое сцепление)"
+  ],
+  "drivetrains": [
+    "FWD",
+    "AWD"
+  ],
   "popularity_ru": "high",
-  "notes": "Полноцикловая сборка в Туле. 2.0T GW4C20NT — основной мотор. DCT-7 мокрое сцепление. AWD опционально. Рестайлинг 2022."
+  "notes": "Полноцикловая сборка в Туле. 2.0T GW4C20NT — основной мотор. DCT-7 мокрое сцепление. AWD опционально. Рестайлинг 2022.",
+  "generation": "f7_2019",
+  "fixed_by": "s27_apply_final22"
 }

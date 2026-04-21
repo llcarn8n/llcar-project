@@ -1,0 +1,253 @@
+{"i": 1, "path": "ford/ecosport", "action": "oversize", "size_mb": 14.2}
+{"i": 2, "path": "jaguar/xj", "action": "oversize", "size_mb": 13.8}
+{"i": 3, "path": "chery/7_m16_service_manual", "action": "oversize", "size_mb": 13.0}
+{"i": 4, "path": "jeep/renegade", "action": "oversize", "size_mb": 12.3}
+{"i": 5, "path": "ford/mustang", "action": "oversize", "size_mb": 12.0}
+{"i": 6, "path": "chevrolet/equinox", "action": "oversize", "size_mb": 11.8}
+{"i": 7, "path": "geely/emgrand_ev", "action": "oversize", "size_mb": 11.0}
+{"i": 8, "path": "renault/scenic", "action": "oversize", "size_mb": 10.4}
+{"i": 9, "path": "subaru/brz", "action": "oversize", "size_mb": 10.1}
+{"i": 10, "path": "byd/yuan_plus", "action": "no_year", "target_model": "yuan_plus", "decision": "create_new_model"}
+{"i": 11, "path": "peugeot/407", "action": "copy", "target": "peugeot/407/407_2004", "year": 2004}
+{"i": 12, "path": "peugeot/406", "action": "pre2001", "year": 1999}
+{"i": 13, "path": "infiniti/fx", "action": "no_year", "target_model": "fx", "decision": "create_new_model"}
+{"i": 14, "path": "mitsubishi/pajero2", "action": "pre2001", "year": 1991}
+{"i": 15, "path": "lada/kalina", "action": "copy", "target": "lada/kalina/kalina_2004", "year": 2004}
+{"i": 16, "path": "jaguar/jaguar_xf", "action": "copy", "target": "jaguar/xf/xf_2011", "year": 2011}
+{"i": 17, "path": "ford/s_max", "action": "copy", "target": "ford/s_max/s_max_2002", "year": 2002}
+{"i": 18, "path": "land_rover/freelander", "action": "copy", "target": "land_rover/freelander/freelander_2007", "year": 2007}
+{"i": 19, "path": "fiat/bravo", "action": "copy", "target": "fiat/bravo/bravo_2007", "year": 2007}
+{"i": 20, "path": "ford/explorer", "action": "no_year", "target_model": "explorer", "decision": "create_new_model"}
+{"i": 21, "path": "opel/combo_life", "action": "copy", "target": "opel/combo_life/combo_life_2001", "year": 2001}
+{"i": 22, "path": "nissan/march", "action": "pre2001", "year": 1992}
+{"i": 23, "path": "opel/vectra_c", "action": "copy_variant(manual_variant.md)", "target": "opel/vectra_c/vectra_c_2002", "year": 2002}
+{"i": 24, "path": "cadillac/cadillac_escalade", "action": "copy", "target": "cadillac/escalade/escalade_2002", "year": 2002}
+{"i": 25, "path": "cadillac/escalade", "action": "copy_variant(manual_variant.md)", "target": "cadillac/escalade/escalade_2002", "year": 2002}
+{"i": 26, "path": "opel/meriva_b", "action": "copy", "target": "opel/meriva_b/meriva_b_2011", "year": 2011}
+{"i": 27, "path": "hyundai/i30", "action": "copy", "target": "hyundai/i30/i30_2012", "year": 2012}
+{"i": 28, "path": "opel/meriva", "action": "copy", "target": "opel/meriva/meriva_2011", "year": 2011}
+{"i": 29, "path": "citroen/c3_picasso", "action": "copy", "target": "citroen/c3_picasso/c3_picasso_2009", "year": 2009}
+{"i": 30, "path": "fiat/palio", "action": "copy", "target": "fiat/palio/palio_2005", "year": 2005}
+{"i": 31, "path": "citroen/xsara", "action": "no_year", "target_model": "xsara", "decision": "create_new_model"}
+{"i": 32, "path": "voyah/dreamer_2", "action": "no_year", "target_model": "dreamer_2", "decision": "create_new_model"}
+{"i": 33, "path": "fiat/marea", "action": "pre2001", "year": 2000}
+{"i": 34, "path": "peugeot/boxer", "action": "copy", "target": "peugeot/boxer/boxer_2006", "year": 2006}
+{"i": 35, "path": "exeed/txtxl", "action": "no_year", "target_model": "txtxl", "decision": "create_new_model"}
+{"i": 36, "path": "citroen/xsara_picasso", "action": "no_year", "target_model": "xsara_picasso", "decision": "create_new_model"}
+{"i": 37, "path": "citroen/zx", "action": "pre2001", "year": 1993}
+{"i": 38, "path": "toyota/yaris", "action": "copy", "target": "toyota/yaris/yaris_2005", "year": 2005}
+{"i": 39, "path": "mazda/mazda3", "action": "copy", "target": "mazda/mazda3/mazda3_2003", "year": 2003}
+{"i": 40, "path": "volvo/s40", "action": "copy", "target": "volvo/s40/s40_2001", "year": 2001}
+{"i": 41, "path": "fiat/tempra", "action": "pre2001", "year": 1988}
+{"i": 42, "path": "livan/x50", "action": "no_year", "target_model": "x50", "decision": "create_new_model"}
+{"i": 43, "path": "haval/h6", "action": "no_year", "target_model": "h6", "decision": "create_new_model"}
+{"i": 44, "path": "peugeot/207", "action": "copy", "target": "peugeot/207/207_2006", "year": 2006}
+{"i": 45, "path": "jaguar/xf", "action": "copy_variant(manual_variant.md)", "target": "jaguar/xf/xf_2011", "year": 2011}
+{"i": 46, "path": "fiat/punto", "action": "pre2001", "year": 1999}
+{"i": 47, "path": "peugeot/405", "action": "pre2001", "year": 1991}
+{"i": 48, "path": "chevrolet/cobalt", "action": "copy", "target": "chevrolet/cobalt/cobalt_2016", "year": 2016}
+{"i": 49, "path": "ford/bronco_2_explorer_ranger", "action": "pre2001", "year": 1989}
+{"i": 50, "path": "chevrolet/orlando", "action": "copy_variant(manual_variant.md)", "target": "chevrolet/orlando/orlando_2011", "year": 2011}
+{"i": 51, "path": "audi/a1", "action": "copy", "target": "audi/a1/a1_2008", "year": 2008}
+{"i": 52, "path": "chery/arrizo_7", "action": "no_year", "target_model": "arrizo_7", "decision": "create_new_model"}
+{"i": 53, "path": "peugeot/306", "action": "pre2001", "year": 1993}
+{"i": 54, "path": "renault/laguna", "action": "copy", "target": "renault/laguna/laguna_2001", "year": 2001}
+{"i": 55, "path": "honda/pilot", "action": "copy", "target": "honda/pilot/pilot_2001", "year": 2001}
+{"i": 56, "path": "chevrolet/spark", "action": "copy", "target": "chevrolet/spark/spark_2005", "year": 2005}
+{"i": 57, "path": "chevrolet/niva", "action": "copy", "target": "chevrolet/niva/niva_2002", "year": 2002}
+{"i": 58, "path": "fiat/croma", "action": "pre2001", "year": 1985}
+{"i": 59, "path": "opel/vectra", "action": "no_year", "target_model": "vectra", "decision": "create_new_model"}
+{"i": 60, "path": "mazda/cx7", "action": "copy", "target": "mazda/cx7/cx7_2006", "year": 2006}
+{"i": 61, "path": "peugeot/605", "action": "pre2001", "year": 1998}
+{"i": 62, "path": "honda/accord", "action": "copy_variant(manual_variant.md)", "target": "honda/accord/accord_2003", "year": 2003}
+{"i": 63, "path": "renault/megane", "action": "copy", "target": "renault/megane/megane_2003", "year": 2003}
+{"i": 64, "path": "uaz/2008_2cad14d8", "action": "copy", "target": "uaz/2008_2cad14d8/2008_2cad14d8_2005", "year": 2005}
+{"i": 65, "path": "land_rover/rr_sport", "action": "no_year", "target_model": "rr_sport", "decision": "create_new_model"}
+{"i": 66, "path": "opel/vectra_b", "action": "no_year", "target_model": "vectra_b", "decision": "create_new_model"}
+{"i": 67, "path": "mazda/mx_5", "action": "pre2001", "year": 1990}
+{"i": 68, "path": "peugeot/307", "action": "no_year", "target_model": "307", "decision": "create_new_model"}
+{"i": 69, "path": "skoda/scala", "action": "no_year", "target_model": "scala", "decision": "create_new_model"}
+{"i": 70, "path": "peugeot/205", "action": "pre2001", "year": 1988}
+{"i": 71, "path": "mazda/premacy", "action": "pre2001", "year": 1999}
+{"i": 72, "path": "nissan/juke", "action": "no_year", "target_model": "juke", "decision": "create_new_model"}
+{"i": 73, "path": "honda/stepwgn", "action": "copy", "target": "honda/stepwgn/stepwgn_2001", "year": 2001}
+{"i": 74, "path": "lada/priora", "action": "no_year", "target_model": "priora", "decision": "create_new_model"}
+{"i": 75, "path": "baic/bj60", "action": "no_year", "target_model": "bj60", "decision": "create_new_model"}
+{"i": 76, "path": "zeekr/7x", "action": "no_year", "target_model": "7x", "decision": "create_new_model"}
+{"i": 77, "path": "chevrolet/camaro", "action": "no_year", "target_model": "camaro", "decision": "create_new_model"}
+{"i": 78, "path": "fiat/coupe", "action": "no_year", "target_model": "coupe", "decision": "create_new_model"}
+{"i": 79, "path": "lada/2008_d91309f0", "action": "copy", "target": "lada/2008_d91309f0/2008_d91309f0_2004", "year": 2004}
+{"i": 80, "path": "nissan/2023_nissan_ariya", "action": "copy", "target": "nissan/2023_nissan_ariya/2023_nissan_ariya_2023", "year": 2023}
+{"i": 81, "path": "nissan/ariya", "action": "copy", "target": "nissan/ariya/ariya_2023", "year": 2023}
+{"i": 82, "path": "peugeot/807", "action": "no_year", "target_model": "807", "decision": "create_new_model"}
+{"i": 83, "path": "volvo/740_760", "action": "pre2001", "year": 1985}
+{"i": 84, "path": "ford/escort", "action": "no_year", "target_model": "escort", "decision": "create_new_model"}
+{"i": 85, "path": "chery/arrizo_8", "action": "copy", "target": "chery/arrizo_8/arrizo_8_2023", "year": 2023}
+{"i": 86, "path": "ford/escape", "action": "no_year", "target_model": "escape", "decision": "create_new_model"}
+{"i": 87, "path": "nissan/tiida", "action": "no_year", "target_model": "tiida", "decision": "create_new_model"}
+{"i": 88, "path": "chevrolet/captiva", "action": "no_year", "target_model": "captiva", "decision": "create_new_model"}
+{"i": 89, "path": "mazda/demio", "action": "pre2001", "year": 1996}
+{"i": 90, "path": "fiat/uno", "action": "pre2001", "year": 1989}
+{"i": 91, "path": "mazda/mazda6", "action": "no_year", "target_model": "mazda6", "decision": "create_new_model"}
+{"i": 92, "path": "nissan/kicks", "action": "no_year", "target_model": "kicks", "decision": "create_new_model"}
+{"i": 93, "path": "peugeot/308", "action": "no_year", "target_model": "308", "decision": "create_new_model"}
+{"i": 94, "path": "byd/plus_ev2023_champion_edition_user_manual", "action": "no_year", "target_model": "plus_ev2023_champion_edition_user_manual", "decision": "create_new_model"}
+{"i": 95, "path": "uaz/misc_033d20b3", "action": "copy", "target": "uaz/misc_033d20b3/misc_033d20b3_2016", "year": 2016}
+{"i": 96, "path": "chevrolet/misc_949f8aaa", "action": "no_year", "target_model": "misc_949f8aaa", "decision": "create_new_model"}
+{"i": 97, "path": "hyundai/i40", "action": "no_year", "target_model": "i40", "decision": "create_new_model"}
+{"i": 98, "path": "voyah/passion", "action": "no_year", "target_model": "passion", "decision": "create_new_model"}
+{"i": 99, "path": "porsche/taycan", "action": "no_year", "target_model": "taycan", "decision": "create_new_model"}
+{"i": 100, "path": "ford/ranger", "action": "no_year", "target_model": "ranger", "decision": "create_new_model"}
+{"i": 101, "path": "chevrolet/aveo", "action": "copy", "target": "chevrolet/aveo/aveo_2004", "year": 2004}
+{"i": 102, "path": "kia/picanto", "action": "no_year", "target_model": "picanto", "decision": "create_new_model"}
+{"i": 103, "path": "suzuki/jimny", "action": "no_year", "target_model": "jimny", "decision": "create_new_model"}
+{"i": 104, "path": "peugeot/106", "action": "no_year", "target_model": "106", "decision": "create_new_model"}
+{"i": 105, "path": "lada/misc_a80d0524", "action": "pre2001", "year": 1997}
+{"i": 106, "path": "volkswagen/2023_volkswagen_id4_12", "action": "no_year", "target_model": "2023_volkswagen_id4_12", "decision": "create_new_model"}
+{"i": 107, "path": "chery/a13", "action": "no_year", "target_model": "a13", "decision": "create_new_model"}
+{"i": 108, "path": "mazda/cx_60", "action": "no_year", "target_model": "cx_60", "decision": "create_new_model"}
+{"i": 109, "path": "jetour/t1", "action": "no_year", "target_model": "t1", "decision": "create_new_model"}
+{"i": 110, "path": "hyundai/kona", "action": "copy", "target": "hyundai/kona/kona_2019", "year": 2019}
+{"i": 111, "path": "ford/maverick", "action": "no_year", "target_model": "maverick", "decision": "create_new_model"}
+{"i": 112, "path": "lexus/is", "action": "no_year", "target_model": "is", "decision": "create_new_model"}
+{"i": 113, "path": "kia/niro", "action": "no_year", "target_model": "niro", "decision": "create_new_model"}
+{"i": 114, "path": "livan/misc_7fd8c177", "action": "copy", "target": "livan/misc_7fd8c177/misc_7fd8c177_2009", "year": 2009}
+{"i": 115, "path": "kia/k8", "action": "no_year", "target_model": "k8", "decision": "create_new_model"}
+{"i": 116, "path": "nissan/primera_v2_ru_reocr", "action": "no_year", "target_model": "primera_v2_ru_reocr", "decision": "create_new_model"}
+{"i": 117, "path": "lada/misc_f87afd80", "action": "pre2001", "year": 1980}
+{"i": 118, "path": "nissan/elgrand", "action": "pre2001", "year": 1997}
+{"i": 119, "path": "jetour/x90", "action": "no_year", "target_model": "x90", "decision": "create_new_model"}
+{"i": 120, "path": "lexus/gx", "action": "no_year", "target_model": "gx", "decision": "create_new_model"}
+{"i": 121, "path": "uaz/2008", "action": "copy", "target": "uaz/2008/2008_2005", "year": 2005}
+{"i": 122, "path": "changan/2023_05_26__plus_owner_manual_rus__1", "action": "copy", "target": "changan/2023_05_26__plus_owner_manual_rus__1/2023_05_26__plus_owner_manual_rus__1_2023", "year": 2023}
+{"i": 123, "path": "fiat/ocr", "action": "copy", "target": "fiat/ocr/ocr_2007", "year": 2007}
+{"i": 124, "path": "omoda/c7", "action": "no_year", "target_model": "c7", "decision": "create_new_model"}
+{"i": 125, "path": "livan/2008_11559170", "action": "copy", "target": "livan/2008_11559170/2008_11559170_2005", "year": 2005}
+{"i": 126, "path": "geely/cityray", "action": "no_year", "target_model": "cityray", "decision": "create_new_model"}
+{"i": 127, "path": "lexus/ux", "action": "no_year", "target_model": "ux", "decision": "create_new_model"}
+{"i": 128, "path": "citroen/c4", "action": "copy", "target": "citroen/c4/c4_2004", "year": 2004}
+{"i": 129, "path": "lexus/lc", "action": "no_year", "target_model": "lc", "decision": "create_new_model"}
+{"i": 130, "path": "nissan/leaf", "action": "copy", "target": "nissan/leaf/leaf_2014", "year": 2014}
+{"i": 131, "path": "uaz/misc_615771d0", "action": "copy", "target": "uaz/misc_615771d0/misc_615771d0_2003", "year": 2003}
+{"i": 132, "path": "uaz/misc_66dd73e9", "action": "no_year", "target_model": "misc_66dd73e9", "decision": "create_new_model"}
+{"i": 133, "path": "subaru/legacy", "action": "no_year", "target_model": "legacy", "decision": "create_new_model"}
+{"i": 134, "path": "toyota/aristo", "action": "pre2001", "year": 1997}
+{"i": 135, "path": "mitsubishi/l200", "action": "no_year", "target_model": "l200", "decision": "create_new_model"}
+{"i": 136, "path": "hyundai/venue", "action": "copy", "target": "hyundai/venue/venue_2022", "year": 2022}
+{"i": 137, "path": "lada/misc_9c402cc0", "action": "no_year", "target_model": "misc_9c402cc0", "decision": "create_new_model"}
+{"i": 138, "path": "chevrolet/rezzo", "action": "no_year", "target_model": "rezzo", "decision": "create_new_model"}
+{"i": 139, "path": "jetour/x50", "action": "no_year", "target_model": "x50", "decision": "create_new_model"}
+{"i": 140, "path": "porsche/boxster", "action": "no_year", "target_model": "boxster", "decision": "create_new_model"}
+{"i": 141, "path": "uaz/misc_97a47f17", "action": "no_year", "target_model": "misc_97a47f17", "decision": "create_new_model"}
+{"i": 142, "path": "bmw/5_e28", "action": "pre2001", "year": 1984}
+{"i": 143, "path": "opel/omega", "action": "no_year", "target_model": "omega", "decision": "create_new_model"}
+{"i": 144, "path": "lada/2008", "action": "copy", "target": "lada/2008/2008_2004", "year": 2004}
+{"i": 145, "path": "nissan/primera", "action": "no_year", "target_model": "primera", "decision": "create_new_model"}
+{"i": 146, "path": "lada/misc_838aff7c", "action": "no_year", "target_model": "misc_838aff7c", "decision": "create_new_model"}
+{"i": 147, "path": "lada/misc_ae412d57", "action": "no_year", "target_model": "misc_ae412d57", "decision": "create_new_model"}
+{"i": 148, "path": "mitsubishi/galant", "action": "no_year", "target_model": "galant", "decision": "create_new_model"}
+{"i": 149, "path": "lada/misc_d8ae2464", "action": "no_year", "target_model": "misc_d8ae2464", "decision": "create_new_model"}
+{"i": 150, "path": "changan/changan_q07", "action": "no_year", "target_model": "q07", "decision": "create_new_model"}
+{"i": 151, "path": "lada/misc_ef2a6942", "action": "no_year", "target_model": "misc_ef2a6942", "decision": "create_new_model"}
+{"i": 152, "path": "toyota/misc_37edd5bb", "action": "no_year", "target_model": "misc_37edd5bb", "decision": "create_new_model"}
+{"i": 153, "path": "hyundai/starex", "action": "no_year", "target_model": "starex", "decision": "create_new_model"}
+{"i": 154, "path": "honda/hr_v", "action": "no_year", "target_model": "hr_v", "decision": "create_new_model"}
+{"i": 155, "path": "chery/chery_tiggo_9", "action": "no_year", "target_model": "tiggo_9", "decision": "create_new_model"}
+{"i": 156, "path": "byd/24__dmi_rus__1", "action": "no_year", "target_model": "24__dmi_rus__1", "decision": "create_new_model"}
+{"i": 157, "path": "chevrolet/misc_c8f27c4c", "action": "pre2001", "year": 1991}
+{"i": 158, "path": "lada/misc_b404cc25", "action": "pre2001", "year": 1988}
+{"i": 159, "path": "mazda/cx_3", "action": "no_year", "target_model": "cx_3", "decision": "create_new_model"}
+{"i": 160, "path": "volkswagen/beetle", "action": "no_year", "target_model": "beetle", "decision": "create_new_model"}
+{"i": 161, "path": "lada/misc_5eb070ad", "action": "no_year", "target_model": "misc_5eb070ad", "decision": "create_new_model"}
+{"i": 162, "path": "lada/misc_11f8ee81", "action": "no_year", "target_model": "misc_11f8ee81", "decision": "create_new_model"}
+{"i": 163, "path": "hongqi/hongqi_ehs9", "action": "no_year", "target_model": "ehs9", "decision": "create_new_model"}
+{"i": 164, "path": "lada/misc_ebf8b743", "action": "pre2001", "year": 1997}
+{"i": 165, "path": "hongqi/hongqi_hq9", "action": "no_year", "target_model": "hq9", "decision": "create_new_model"}
+{"i": 166, "path": "exeed/es", "action": "no_year", "target_model": "es", "decision": "create_new_model"}
+{"i": 167, "path": "lada/misc_6fdc291d", "action": "pre2001", "year": 1986}
+{"i": 168, "path": "lada/misc_f7cbfc74", "action": "pre2001", "year": 1986}
+{"i": 169, "path": "toyota/harrier", "action": "pre2001", "year": 1997}
+{"i": 170, "path": "lada/misc_87792b32", "action": "pre2001", "year": 1980}
+{"i": 171, "path": "audi/100", "action": "pre2001", "year": 1989}
+{"i": 172, "path": "exeed/exeed_et", "action": "no_year", "target_model": "et", "decision": "create_new_model"}
+{"i": 173, "path": "toyota/rush", "action": "no_year", "target_model": "rush", "decision": "create_new_model"}
+{"i": 174, "path": "uaz/misc_9c3fe8cd", "action": "pre2001", "year": 1985}
+{"i": 175, "path": "gac/gac_s7", "action": "copy", "target": "gac/s7/s7_2012", "year": 2012}
+{"i": 176, "path": "chevrolet/trailblazer", "action": "no_year", "target_model": "trailblazer", "decision": "create_new_model"}
+{"i": 177, "path": "lada/misc_a7a1745c", "action": "pre2001", "year": 1998}
+{"i": 178, "path": "voyah/dream", "action": "no_year", "target_model": "dream", "decision": "create_new_model"}
+{"i": 179, "path": "honda/misc_8201a6dc", "action": "no_year", "target_model": "misc_8201a6dc", "decision": "create_new_model"}
+{"i": 180, "path": "uaz/misc_0f7e36cf", "action": "no_year", "target_model": "misc_0f7e36cf", "decision": "create_new_model"}
+{"i": 181, "path": "haval/misc_2ca0da3c", "action": "copy", "target": "haval/misc_2ca0da3c/misc_2ca0da3c_2005", "year": 2005}
+{"i": 182, "path": "jaecoo/misc_f5237550", "action": "no_year", "target_model": "misc_f5237550", "decision": "create_new_model"}
+{"i": 183, "path": "jaecoo/misc_1d6383a3", "action": "no_year", "target_model": "misc_1d6383a3", "decision": "create_new_model"}
+{"i": 184, "path": "kia/spectra", "action": "no_year", "target_model": "spectra", "decision": "create_new_model"}
+{"i": 185, "path": "lada/misc_33dee471", "action": "pre2001", "year": 1990}
+{"i": 186, "path": "haval/h5", "action": "no_year", "target_model": "h5", "decision": "create_new_model"}
+{"i": 187, "path": "honda/misc_a58dc432", "action": "no_year", "target_model": "misc_a58dc432", "decision": "create_new_model"}
+{"i": 188, "path": "uaz/misc_1c15a50c", "action": "no_year", "target_model": "misc_1c15a50c", "decision": "create_new_model"}
+{"i": 189, "path": "uaz/misc_519e9396", "action": "no_year", "target_model": "misc_519e9396", "decision": "create_new_model"}
+{"i": 190, "path": "honda/freed", "action": "copy", "target": "honda/freed/freed_2001", "year": 2001}
+{"i": 191, "path": "honda/fit", "action": "copy", "target": "honda/fit/fit_2001", "year": 2001}
+{"i": 192, "path": "changan/misc_d52243b0", "action": "no_year", "target_model": "misc_d52243b0", "decision": "create_new_model"}
+{"i": 193, "path": "lada/misc_c99babc1", "action": "pre2001", "year": 1988}
+{"i": 194, "path": "uaz/sgr_bukhanka", "action": "no_year", "target_model": "sgr_bukhanka", "decision": "create_new_model"}
+{"i": 195, "path": "uaz/misc_8aa6e2a0", "action": "no_year", "target_model": "misc_8aa6e2a0", "decision": "create_new_model"}
+{"i": 196, "path": "uaz/hunter", "action": "no_year", "target_model": "hunter", "decision": "create_new_model"}
+{"i": 197, "path": "lada/misc_846b194a", "action": "no_year", "target_model": "misc_846b194a", "decision": "create_new_model"}
+{"i": 198, "path": "volvo/440_460_480", "action": "no_year", "target_model": "440_460_480", "decision": "create_new_model"}
+{"i": 199, "path": "peugeot/3008", "action": "no_year", "target_model": "3008", "decision": "create_new_model"}
+{"i": 200, "path": "belgee/x50plus", "action": "no_year", "target_model": "x50plus", "decision": "create_new_model"}
+{"i": 201, "path": "geely/misc_a4380e13", "action": "no_year", "target_model": "misc_a4380e13", "decision": "create_new_model"}
+{"i": 202, "path": "livan/2008", "action": "copy", "target": "livan/2008/2008_2005", "year": 2005}
+{"i": 203, "path": "jac/s5", "action": "no_year", "target_model": "s5", "decision": "create_new_model"}
+{"i": 204, "path": "peugeot/508", "action": "no_year", "target_model": "508", "decision": "create_new_model"}
+{"i": 205, "path": "uaz/misc_3ee739b1", "action": "no_year", "target_model": "misc_3ee739b1", "decision": "create_new_model"}
+{"i": 206, "path": "datsun/1000_v2_ru_reocr", "action": "no_year", "target_model": "1000_v2_ru_reocr", "decision": "create_new_model"}
+{"i": 207, "path": "honda/city", "action": "copy", "target": "honda/city/city_2001", "year": 2001}
+{"i": 208, "path": "lada/misc_a1081d71", "action": "pre2001", "year": 2000}
+{"i": 209, "path": "lada/misc_63d05cf7", "action": "pre2001", "year": 1988}
+{"i": 210, "path": "porsche/911", "action": "no_year", "target_model": "911", "decision": "create_new_model"}
+{"i": 211, "path": "jac/jac_s5_ru_manual", "action": "no_year", "target_model": "s5_ru_manual", "decision": "create_new_model"}
+{"i": 212, "path": "subaru/impreza", "action": "pre2001", "year": 1997}
+{"i": 213, "path": "honda/misc_75a329b1", "action": "no_year", "target_model": "misc_75a329b1", "decision": "create_new_model"}
+{"i": 214, "path": "kaiyi/misc_4b5cc04f", "action": "no_year", "target_model": "misc_4b5cc04f", "decision": "create_new_model"}
+{"i": 215, "path": "honda/misc_4d6339e6", "action": "no_year", "target_model": "misc_4d6339e6", "decision": "create_new_model"}
+{"i": 216, "path": "fiat/grande_punto", "action": "no_year", "target_model": "grande_punto", "decision": "create_new_model"}
+{"i": 217, "path": "lada/misc_0278f0f2", "action": "pre2001", "year": 1995}
+{"i": 218, "path": "honda/prelude", "action": "no_year", "target_model": "prelude", "decision": "create_new_model"}
+{"i": 219, "path": "peugeot/206", "action": "no_year", "target_model": "206", "decision": "create_new_model"}
+{"i": 220, "path": "renault/master", "action": "no_year", "target_model": "master", "decision": "create_new_model"}
+{"i": 221, "path": "lada/misc_68e1f39f", "action": "pre2001", "year": 1997}
+{"i": 222, "path": "lada/misc_28becbec", "action": "no_year", "target_model": "misc_28becbec", "decision": "create_new_model"}
+{"i": 223, "path": "lada/misc_fe8ef99d", "action": "no_year", "target_model": "misc_fe8ef99d", "decision": "create_new_model"}
+{"i": 224, "path": "chevrolet/lacetti", "action": "no_year", "target_model": "lacetti", "decision": "create_new_model"}
+{"i": 225, "path": "lada/misc_ec6a8d2c", "action": "no_year", "target_model": "misc_ec6a8d2c", "decision": "create_new_model"}
+{"i": 226, "path": "kia/all", "action": "no_year", "target_model": "all", "decision": "create_new_model"}
+{"i": 227, "path": "lada/misc_2740b293", "action": "no_year", "target_model": "misc_2740b293", "decision": "create_new_model"}
+{"i": 228, "path": "audi/misc_bd3f1304", "action": "no_year", "target_model": "misc_bd3f1304", "decision": "create_new_model"}
+{"i": 229, "path": "audi/misc_ac6cbbdd", "action": "pre2001", "year": 1990}
+{"i": 230, "path": "uaz/misc_d3713e3e", "action": "no_year", "target_model": "misc_d3713e3e", "decision": "create_new_model"}
+{"i": 231, "path": "byd/misc_76b7520c", "action": "no_year", "target_model": "misc_76b7520c", "decision": "create_new_model"}
+{"i": 232, "path": "voyah/ekgnqf_voyah_dream_s4_ekrannaa_versia_13", "action": "copy", "target": "voyah/ekgnqf_voyah_dream_s4_ekrannaa_versia_13/ekgnqf_voyah_dream_s4_ekrannaa_versia_13_2024", "year": 2024}
+{"i": 233, "path": "uaz/profi", "action": "no_year", "target_model": "profi", "decision": "create_new_model"}
+{"i": 234, "path": "jetour/t2", "action": "copy", "target": "jetour/t2/t2_2024", "year": 2024}
+{"i": 235, "path": "kia/venga", "action": "no_year", "target_model": "venga", "decision": "create_new_model"}
+{"i": 236, "path": "forthing/m4", "action": "no_year", "target_model": "m4", "decision": "create_new_model"}
+{"i": 237, "path": "li/l7", "action": "no_year", "target_model": "l7", "decision": "new_brand"}
+{"i": 238, "path": "mercedes_benz/190_w201", "action": "pre2001", "year": 1993}
+{"i": 239, "path": "mercedes_benz/ml_w164", "action": "copy", "target": "mercedes/ml_w164/ml_w164_2005", "year": 2005}
+{"i": 240, "path": "li/l9", "action": "copy", "target": "li_auto/l9/l9_2012", "year": 2012}
+{"i": 241, "path": "mercedes_benz/gl_class", "action": "copy", "target": "mercedes/gl_class/gl_class_2006", "year": 2006}
+{"i": 242, "path": "bestune/b70", "action": "no_year", "target_model": "b70", "decision": "new_brand"}
+{"i": 243, "path": "mercedes_benz/vito", "action": "no_year", "target_model": "vito", "decision": "new_brand"}
+{"i": 244, "path": "bestune/bestune_t90", "action": "no_year", "target_model": "t90", "decision": "new_brand"}
+{"i": 245, "path": "li/misc_1503a4f7", "action": "copy", "target": "li_auto/misc_1503a4f7/misc_1503a4f7_2012", "year": 2012}
+{"i": 246, "path": "li/l8", "action": "copy", "target": "li_auto/l8/l8_2012", "year": 2012}
+{"i": 247, "path": "mercedes_benz/190", "action": "no_year", "target_model": "190", "decision": "new_brand"}
+{"i": 248, "path": "mercedes_benz/m_class", "action": "pre2001", "year": 1997}
+{"i": 249, "path": "mercedes_benz/viano", "action": "no_year", "target_model": "viano", "decision": "new_brand"}
+{"i": 250, "path": "mercedes_benz/misc_10f87275", "action": "no_year", "target_model": "misc_10f87275", "decision": "new_brand"}
+{"i": 251, "path": "li/misc_09e77272", "action": "no_year", "target_model": "misc_09e77272", "decision": "new_brand"}
+{"i": 252, "path": "li/misc_bb1d5d1f", "action": "no_year", "target_model": "misc_bb1d5d1f", "decision": "new_brand"}
+{"i": 253, "path": "mercedes_benz/ml", "action": "no_year", "target_model": "ml", "decision": "new_brand"}

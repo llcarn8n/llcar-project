@@ -1,0 +1,11 @@
+{
+  "brand": "changan",
+  "model": "cs35_plus",
+  "generation": "cs55_plus_2019",
+  "source": "kb",
+  "ingested_from": "changan/cs55_plus_2019",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

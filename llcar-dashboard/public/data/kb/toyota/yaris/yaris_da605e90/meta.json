@@ -1,0 +1,10 @@
+{
+  "brand": "toyota",
+  "model": "yaris",
+  "generation": "yaris_da605e90",
+  "source": "kb",
+  "ingested_from": "toyota/yaris_da605e90",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:yaris"
+}

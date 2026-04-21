@@ -1,0 +1,11 @@
+{
+  "brand": "gac",
+  "model": "aion_lx",
+  "generation": "aion_y",
+  "source": "kb",
+  "ingested_from": "gac/aion_y",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

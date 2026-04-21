@@ -1,0 +1,10 @@
+{
+  "brand": "hongqi",
+  "model": "hs5",
+  "generation": "hs5_2011",
+  "source": "kb",
+  "ingested_from": "hongqi/hs5",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2011
+}

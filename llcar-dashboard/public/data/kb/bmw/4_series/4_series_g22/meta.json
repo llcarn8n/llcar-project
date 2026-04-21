@@ -1,0 +1,9 @@
+{
+  "brand": "bmw",
+  "model": "4_series",
+  "generation": "4_series_g22",
+  "source": "kb",
+  "ingested_from": "bmw/4_series",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_title_codes"
+}

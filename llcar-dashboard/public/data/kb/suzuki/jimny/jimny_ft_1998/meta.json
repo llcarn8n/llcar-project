@@ -1,0 +1,9 @@
+{
+  "brand": "suzuki",
+  "model": "jimny",
+  "generation": "jimny_ft_1998",
+  "source": "kb",
+  "ingested_from": "suzuki/jimny",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "FT 1998-2018"
+}

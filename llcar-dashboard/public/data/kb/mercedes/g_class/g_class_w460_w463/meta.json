@@ -1,0 +1,13 @@
+{
+  "brand": "mercedes",
+  "model": "g_class",
+  "generation": "g_class_w460_w463",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/g_class_w460_w463",
+  "ingested_at": "2026-04-21",
+  "h34_note": "W460/W463: 1979+ (в производстве)",
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

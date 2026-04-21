@@ -1,0 +1,9 @@
+{
+  "brand": "kia",
+  "model": "sorento",
+  "generation": "sorento_ru",
+  "source": "kb",
+  "ingested_from": "kia/sorento_ru",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_title_codes"
+}

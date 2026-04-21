@@ -1,0 +1,9 @@
+{
+  "brand": "lada",
+  "model": "priora",
+  "generation": "priora_2007",
+  "source": "kb",
+  "ingested_from": "lada/priora",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Priora 2007-2018"
+}

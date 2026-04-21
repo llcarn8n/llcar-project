@@ -1,0 +1,11 @@
+{
+  "brand": "hongqi",
+  "model": "h9",
+  "generation": "h9_main",
+  "source": "kb",
+  "ingested_from": "hongqi/h9",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22",
+  "generic_manual": true,
+  "needs_review": true
+}

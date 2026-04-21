@@ -9,11 +9,30 @@
   "facelift": null,
   "platform": "FAW B-SUV",
   "engines": [
-    { "code": "CA4GB12TD", "volume": "1.2L", "type": "R3 Turbo GDI", "fuel": "petrol", "power_hp": 130 },
-    { "code": "CA4GC15TD", "volume": "1.5L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 156 }
+    {
+      "code": "CA4GB12TD",
+      "volume": "1.2L",
+      "type": "R3 Turbo GDI",
+      "fuel": "petrol",
+      "power_hp": 130
+    },
+    {
+      "code": "CA4GC15TD",
+      "volume": "1.5L",
+      "type": "R4 Turbo GDI",
+      "fuel": "petrol",
+      "power_hp": 156
+    }
   ],
-  "transmissions": ["6DCT", "CVT"],
-  "drivetrains": ["FWD"],
+  "transmissions": [
+    "6DCT",
+    "CVT"
+  ],
+  "drivetrains": [
+    "FWD"
+  ],
   "popularity_ru": "low",
-  "notes": "Компактный кроссовер FAW Bestune. 1.2T + DCT — базовый вариант. 1.5T + CVT — основной вариант. Только передний привод."
+  "notes": "Компактный кроссовер FAW Bestune. 1.2T + DCT — базовый вариант. 1.5T + CVT — основной вариант. Только передний привод.",
+  "generation": "t77_gen1_2018",
+  "fixed_by": "s27_apply_final22"
 }

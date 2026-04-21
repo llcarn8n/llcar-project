@@ -1,0 +1,10 @@
+{
+  "brand": "ford",
+  "model": "mustang",
+  "generation": "mustang_mach_e",
+  "source": "kb",
+  "ingested_from": "ford/mustang_mach_e",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:mustang"
+}

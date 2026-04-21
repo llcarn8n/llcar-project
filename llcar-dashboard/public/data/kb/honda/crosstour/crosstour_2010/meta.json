@@ -1,0 +1,10 @@
+{
+  "brand": "honda",
+  "model": "crosstour",
+  "generation": "crosstour_2010",
+  "source": "kb",
+  "ingested_from": "honda/crosstour_2010",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:crosstour"
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "kia",
+  "model": "k8",
+  "generation": "k8_2021",
+  "source": "kb",
+  "ingested_from": "kia/k8",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "K8 2021+"
+}

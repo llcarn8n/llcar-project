@@ -1,0 +1,10 @@
+{
+  "brand": "mazda",
+  "model": "mx5",
+  "generation": "mx5_miata",
+  "source": "kb",
+  "ingested_from": "mazda/mx5_miata",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:mx5"
+}

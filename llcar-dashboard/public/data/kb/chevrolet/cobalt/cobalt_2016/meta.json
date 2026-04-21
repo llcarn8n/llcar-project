@@ -1,0 +1,10 @@
+{
+  "brand": "chevrolet",
+  "model": "cobalt",
+  "generation": "cobalt_2016",
+  "source": "kb",
+  "ingested_from": "chevrolet/cobalt",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2016
+}

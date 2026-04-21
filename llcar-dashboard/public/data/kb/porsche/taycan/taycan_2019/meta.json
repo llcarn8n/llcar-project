@@ -1,0 +1,9 @@
+{
+  "brand": "porsche",
+  "model": "taycan",
+  "generation": "taycan_2019",
+  "source": "kb",
+  "ingested_from": "porsche/taycan",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Taycan 2019+"
+}

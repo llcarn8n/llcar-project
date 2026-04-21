@@ -1,0 +1,8 @@
+{
+  "brand": "volkswagen",
+  "model": "polo",
+  "generation": "polo_sedan",
+  "source": "kb",
+  "ingested_from": "volkswagen/polo_sedan",
+  "ingested_at": "2026-04-21"
+}

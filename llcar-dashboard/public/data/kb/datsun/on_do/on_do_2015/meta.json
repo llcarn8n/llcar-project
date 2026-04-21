@@ -1,0 +1,10 @@
+{
+  "brand": "datsun",
+  "model": "on_do",
+  "generation": "on_do_2015",
+  "source": "kb",
+  "ingested_from": "datsun/on_do",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2015
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "hyundai",
+  "model": "palisade",
+  "generation": "palisade_2021",
+  "source": "kb",
+  "ingested_from": "hyundai/palisade",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2021
+}

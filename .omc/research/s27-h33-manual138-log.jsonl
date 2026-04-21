@@ -1,0 +1,107 @@
+{"src": "byd/yuan_plus", "mapping": ["byd", "yuan_plus", "yuan_plus_2022", "Atto 3 2022+"], "action": "copy", "target": "byd/yuan_plus/yuan_plus_2022"}
+{"src": "voyah/dreamer_2", "mapping": ["voyah", "dreamer", "dreamer_2_2022", "Dreamer 2 MPV 2022+"], "action": "copy", "target": "voyah/dreamer/dreamer_2_2022"}
+{"src": "exeed/txtxl", "mapping": ["exeed", "txtxl", "txtxl_2023", "TXT/TXL 2023+"], "action": "copy", "target": "exeed/txtxl/txtxl_2023"}
+{"src": "livan/x50", "mapping": ["livan", "x50", "x50_2023", "Livan X50 2023+"], "action": "copy", "target": "livan/x50/x50_2023"}
+{"src": "chery/arrizo_7", "mapping": ["chery", "arrizo_7", "arrizo_7_2013", "Arrizo 7 2013-2019"], "action": "copy", "target": "chery/arrizo_7/arrizo_7_2013"}
+{"src": "land_rover/rr_sport", "mapping": ["land_rover", "rr_sport", "rr_sport_l320_2005", "L320 2005-2013"], "action": "copy", "target": "land_rover/rr_sport/rr_sport_l320_2005"}
+{"src": "skoda/scala", "mapping": ["skoda", "scala", "scala_2019", "Scala 2019+"], "action": "copy", "target": "skoda/scala/scala_2019"}
+{"src": "lada/priora", "mapping": ["lada", "priora", "priora_2007", "Priora 2007-2018"], "action": "copy", "target": "lada/priora/priora_2007"}
+{"src": "baic/bj60", "mapping": ["baic", "bj60", "bj60_2023", "BJ60 2023+"], "action": "copy", "target": "baic/bj60/bj60_2023"}
+{"src": "zeekr/7x", "mapping": ["zeekr", "7x", "7x_2024", "Zeekr 7X 2024+"], "action": "copy", "target": "zeekr/7x/7x_2024"}
+{"src": "peugeot/307", "mapping": ["peugeot", "307", "307_2001", "307 2001-2008"], "action": "copy", "target": "peugeot/307/307_2001"}
+{"src": "peugeot/807", "mapping": ["peugeot", "807", "807_2002", "807 2002-2014"], "action": "copy", "target": "peugeot/807/807_2002"}
+{"src": "peugeot/308", "mapping": ["peugeot", "308", "308_2007", "308 first gen 2007-2013"], "action": "copy", "target": "peugeot/308/308_2007"}
+{"src": "peugeot/3008", "mapping": ["peugeot", "3008", "3008_2008", "3008 2008-2016"], "action": "copy", "target": "peugeot/3008/3008_2008"}
+{"src": "peugeot/508", "mapping": ["peugeot", "508", "508_2010", "508 2010-2018"], "action": "copy", "target": "peugeot/508/508_2010"}
+{"src": "peugeot/206", "mapping": ["peugeot", "206", "206_1998", "206 1998-2012"], "action": "copy", "target": "peugeot/206/206_1998"}
+{"src": "porsche/taycan", "mapping": ["porsche", "taycan", "taycan_2019", "Taycan 2019+"], "action": "copy", "target": "porsche/taycan/taycan_2019"}
+{"src": "porsche/911", "mapping": ["porsche", "911", "911_996_1997", "996 1997-2005"], "action": "copy", "target": "porsche/911/911_996_1997"}
+{"src": "porsche/boxster", "mapping": ["porsche", "boxster", "boxster_987_2004", "987 2004-2012"], "action": "copy", "target": "porsche/boxster/boxster_987_2004"}
+{"src": "kia/picanto", "mapping": ["kia", "picanto", "picanto_sa_2004", "SA 2004-2011"], "action": "copy", "target": "kia/picanto/picanto_sa_2004"}
+{"src": "kia/niro", "mapping": ["kia", "niro", "niro_2016", "Niro 2016+"], "action": "copy", "target": "kia/niro/niro_2016"}
+{"src": "kia/k8", "mapping": ["kia", "k8", "k8_2021", "K8 2021+"], "action": "copy", "target": "kia/k8/k8_2021"}
+{"src": "kia/venga", "mapping": ["kia", "venga", "venga_2009", "Venga 2009-2019"], "action": "copy", "target": "kia/venga/venga_2009"}
+{"src": "kia/spectra", "mapping": ["kia", "spectra", "spectra_2005", "ИжАвто 2005-2011"], "action": "copy", "target": "kia/spectra/spectra_2005"}
+{"src": "mazda/cx_60", "mapping": ["mazda", "cx_60", "cx_60_2022", "CX-60 2022+"], "action": "copy", "target": "mazda/cx_60/cx_60_2022"}
+{"src": "mazda/cx_3", "mapping": ["mazda", "cx_3", "cx_3_2015", "CX-3 2015-2020"], "action": "copy", "target": "mazda/cx_3/cx_3_2015"}
+{"src": "mazda/mazda6", "mapping": ["mazda", "mazda6", "mazda6_gg_2002", "GG 2002-2008"], "action": "copy", "target": "mazda/mazda6/mazda6_gg_2002"}
+{"src": "lexus/ux", "mapping": ["lexus", "ux", "ux_2018", "UX 2018+"], "action": "copy", "target": "lexus/ux/ux_2018"}
+{"src": "lexus/lc", "mapping": ["lexus", "lc", "lc_2017", "LC 2017+"], "action": "copy", "target": "lexus/lc/lc_2017"}
+{"src": "lexus/gx", "mapping": ["lexus", "gx", "gx_urj150_2009", "URJ150 2009-2023"], "action": "copy", "target": "lexus/gx/gx_urj150_2009"}
+{"src": "lexus/is", "mapping": ["lexus", "is", "is_xe20_2005", "XE20 2005-2013 (неясно — default middle gen)"], "action": "copy", "target": "lexus/is/is_xe20_2005"}
+{"src": "ford/ranger", "mapping": ["ford", "ranger", "ranger_t6_2011", "T6 2011-2021"], "action": "copy", "target": "ford/ranger/ranger_t6_2011"}
+{"src": "ford/escape", "mapping": ["ford", "escape", "escape_2008", "2nd gen 2008-2012"], "action": "copy", "target": "ford/escape/escape_2008"}
+{"src": "ford/maverick", "mapping": ["ford", "maverick", "maverick_2021", "2021+"], "action": "copy", "target": "ford/maverick/maverick_2021"}
+{"src": "chevrolet/captiva", "mapping": ["chevrolet", "captiva", "captiva_c100_2006", "C100 2006-2011"], "action": "copy", "target": "chevrolet/captiva/captiva_c100_2006"}
+{"src": "chevrolet/rezzo", "mapping": ["chevrolet", "rezzo", "rezzo_2004", "Rezzo 2004-2008"], "action": "copy", "target": "chevrolet/rezzo/rezzo_2004"}
+{"src": "chevrolet/lacetti", "mapping": ["chevrolet", "lacetti", "lacetti_2004", "J200 2004-2013"], "action": "copy", "target": "chevrolet/lacetti/lacetti_2004"}
+{"src": "chevrolet/trailblazer", "mapping": ["chevrolet", "trailblazer", "trailblazer_2019", "2nd gen 2019+"], "action": "copy", "target": "chevrolet/trailblazer/trailblazer_2019"}
+{"src": "nissan/tiida", "mapping": ["nissan", "tiida", "tiida_c11_2004", "C11 2004-2012"], "action": "copy", "target": "nissan/tiida/tiida_c11_2004"}
+{"src": "nissan/kicks", "mapping": ["nissan", "kicks", "kicks_2016", "P15 2016+"], "action": "copy", "target": "nissan/kicks/kicks_2016"}
+{"src": "nissan/primera", "mapping": ["nissan", "primera", "primera_p12_2002", "P12 2002-2008"], "action": "copy", "target": "nissan/primera/primera_p12_2002"}
+{"src": "nissan/juke", "mapping": ["nissan", "juke", "juke_f15_2010", "F15 2010-2019"], "action": "copy", "target": "nissan/juke/juke_f15_2010"}
+{"src": "infiniti/fx", "mapping": ["infiniti", "fx", "fx_s50_2002", "S50 2002-2008"], "action": "copy", "target": "infiniti/fx/fx_s50_2002"}
+{"src": "hyundai/starex", "mapping": ["hyundai", "starex", "starex_h1_2007", "TQ 2007-2021"], "action": "copy", "target": "hyundai/starex/starex_h1_2007"}
+{"src": "hyundai/i40", "mapping": ["hyundai", "i40", "i40_2011", "2011-2019"], "action": "copy", "target": "hyundai/i40/i40_2011"}
+{"src": "subaru/legacy", "mapping": ["subaru", "legacy", "legacy_bp_2003", "BP 2003-2009"], "action": "copy", "target": "subaru/legacy/legacy_bp_2003"}
+{"src": "mitsubishi/l200", "mapping": ["mitsubishi", "l200", "l200_2005", "KA/KB 2005-2015"], "action": "copy", "target": "mitsubishi/l200/l200_2005"}
+{"src": "mitsubishi/galant", "mapping": ["mitsubishi", "galant", "galant_ix_2003", "9th gen 2003-2012"], "action": "copy", "target": "mitsubishi/galant/galant_ix_2003"}
+{"src": "honda/hr_v", "mapping": ["honda", "hr_v", "hr_v_2015", "RU 2015+"], "action": "copy", "target": "honda/hr_v/hr_v_2015"}
+{"src": "toyota/rush", "mapping": ["toyota", "rush", "rush_2017", "F800 2017+"], "action": "copy", "target": "toyota/rush/rush_2017"}
+{"src": "citroen/xsara", "mapping": ["citroen", "xsara", "xsara_1997", "1997-2006"], "action": "copy", "target": "citroen/xsara/xsara_1997"}
+{"src": "citroen/xsara_picasso", "mapping": ["citroen", "xsara_picasso", "xsara_picasso_1999", "1999-2012"], "action": "copy", "target": "citroen/xsara_picasso/xsara_picasso_1999"}
+{"src": "opel/vectra", "mapping": ["opel", "vectra", "vectra_c_2002", "Vectra C 2002-2008"], "action": "copy", "target": "opel/vectra/vectra_c_2002"}
+{"src": "opel/omega", "mapping": ["opel", "omega", "omega_b_1994", "Omega B 1994-2003"], "action": "copy", "target": "opel/omega/omega_b_1994"}
+{"src": "renault/master", "mapping": ["renault", "master", "master_ii_1998", "Master II 1998-2010"], "action": "copy", "target": "renault/master/master_ii_1998"}
+{"src": "fiat/grande_punto", "mapping": ["fiat", "grande_punto", "grande_punto_2005", "199 2005-2018"], "action": "copy", "target": "fiat/grande_punto/grande_punto_2005"}
+{"src": "volkswagen/beetle", "mapping": ["volkswagen", "beetle", "beetle_a5_2011", "A5 2011-2019"], "action": "copy", "target": "volkswagen/beetle/beetle_a5_2011"}
+{"src": "jetour/t1", "mapping": ["jetour", "t1", "t1_2022", "T1 2022+"], "action": "copy", "target": "jetour/t1/t1_2022"}
+{"src": "jetour/x90", "mapping": ["jetour", "x90", "x90_2019", "X90 2019+"], "action": "copy", "target": "jetour/x90/x90_2019"}
+{"src": "jetour/x50", "mapping": ["jetour", "x50", "x50_2024", "X50 2024+"], "action": "copy", "target": "jetour/x50/x50_2024"}
+{"src": "jetour/dashing", "mapping": ["jetour", "dashing", "dashing_2022", "Dashing 2022+"], "action": "copy", "target": "jetour/dashing/dashing_2022"}
+{"src": "omoda/c7", "mapping": ["omoda", "c7", "c7_2024", "C7 2024+"], "action": "copy", "target": "omoda/c7/c7_2024"}
+{"src": "geely/cityray", "mapping": ["geely", "cityray", "cityray_2023", "Cityray 2023+"], "action": "copy", "target": "geely/cityray/cityray_2023"}
+{"src": "chery/a13", "mapping": ["chery", "a13", "a13_2009", "A13 Very 2009-2016"], "action": "copy", "target": "chery/a13/a13_2009"}
+{"src": "chery/chery_tiggo_9", "mapping": ["chery", "tiggo_9", "tiggo_9_2023", "Tiggo 9 2023+"], "action": "copy", "target": "chery/tiggo_9/tiggo_9_2023"}
+{"src": "exeed/es", "mapping": ["exeed", "es", "es_2023", "ES 2023+"], "action": "copy", "target": "exeed/es/es_2023"}
+{"src": "exeed/exeed_et", "mapping": ["exeed", "et", "et_2023", "ET 2023+"], "action": "copy", "target": "exeed/et/et_2023"}
+{"src": "hongqi/hongqi_ehs9", "mapping": ["hongqi", "ehs9", "ehs9_2020", "E-HS9 2020+"], "action": "copy", "target": "hongqi/ehs9/ehs9_2020"}
+{"src": "hongqi/hongqi_hq9", "mapping": ["hongqi", "hq9", "hq9_2022", "HQ9 2022+"], "action": "copy", "target": "hongqi/hq9/hq9_2022"}
+{"src": "voyah/dream", "mapping": ["voyah", "dream", "dream_2022", "Dream 2022+"], "action": "copy", "target": "voyah/dream/dream_2022"}
+{"src": "voyah/passion", "mapping": ["voyah", "passion", "passion_2023", "Passion 2023+"], "action": "copy", "target": "voyah/passion/passion_2023"}
+{"src": "forthing/m4", "mapping": ["forthing", "m4", "m4_2023", "M4 2023+"], "action": "copy", "target": "forthing/m4/m4_2023"}
+{"src": "jac/s5", "mapping": ["jac", "s5", "s5_2013", "S5 2013+"], "action": "copy", "target": "jac/s5/s5_2013"}
+{"src": "jac/jac_s5_ru_manual", "mapping": ["jac", "s5", "s5_2013", "S5 RU manual (duplicate)"], "action": "copy_variant(manual_variant.md)", "target": "jac/s5/s5_2013"}
+{"src": "haval/h6", "mapping": ["haval", "h6", "h6_2011", "1st gen 2011-2020"], "action": "copy", "target": "haval/h6/h6_2011"}
+{"src": "haval/h5", "mapping": ["haval", "h5", "h5_2010", "H5 2010-2017"], "action": "copy", "target": "haval/h5/h5_2010"}
+{"src": "belgee/x50plus", "mapping": ["belgee", "x50_plus", "x50_plus_2025", "Belgee X50 Plus 2025"], "action": "copy", "target": "belgee/x50_plus/x50_plus_2025"}
+{"src": "ford/explorer", "mapping": ["ford", "explorer", "explorer_u502_2010", "5th gen U502 2010-2019"], "action": "copy", "target": "ford/explorer/explorer_u502_2010"}
+{"src": "changan/changan_q07", "mapping": ["changan", "q07", "q07_2021", "Q07 2021+"], "action": "copy", "target": "changan/q07/q07_2021"}
+{"src": "uaz/hunter", "mapping": ["uaz", "hunter", "hunter_2003", "Hunter 2003+"], "action": "copy", "target": "uaz/hunter/hunter_2003"}
+{"src": "uaz/profi", "mapping": ["uaz", "profi", "profi_2017", "Profi 2017+"], "action": "copy", "target": "uaz/profi/profi_2017"}
+{"src": "uaz/sgr_bukhanka", "mapping": ["uaz", "sgr_bukhanka", "sgr_bukhanka_2002", "СГР Буханка 2002+"], "action": "copy", "target": "uaz/sgr_bukhanka/sgr_bukhanka_2002"}
+{"src": "suzuki/jimny", "mapping": ["suzuki", "jimny", "jimny_ft_1998", "FT 1998-2018"], "action": "copy", "target": "suzuki/jimny/jimny_ft_1998"}
+{"src": "chevrolet/camaro", "mapping": ["chevrolet", "camaro", "camaro_2010", "5th gen 2010-2015"], "action": "copy", "target": "chevrolet/camaro/camaro_2010"}
+{"src": "li/l7", "mapping": ["li_auto", "l7", "l7_2022", "L7 2022+"], "action": "copy", "target": "li_auto/l7/l7_2022"}
+{"src": "li/l8", "mapping": ["li_auto", "l8", "l8_2022", "L8 2022+"], "action": "copy", "target": "li_auto/l8/l8_2022"}
+{"src": "li/l9", "mapping": ["li_auto", "l9", "l9_2022", "L9 2022+"], "action": "copy", "target": "li_auto/l9/l9_2022"}
+{"src": "mercedes_benz/vito", "mapping": ["mercedes", "vito", "vito_w447_2014", "W447 2014+"], "action": "copy", "target": "mercedes/vito/vito_w447_2014"}
+{"src": "mercedes_benz/viano", "mapping": ["mercedes", "viano", "viano_w639_2003", "W639 2003-2014"], "action": "copy", "target": "mercedes/viano/viano_w639_2003"}
+{"src": "mercedes_benz/m_class", "mapping": ["mercedes", "m_class", "m_class_w164_2005", "W164 2005-2011"], "action": "copy", "target": "mercedes/m_class/m_class_w164_2005"}
+{"src": "mercedes_benz/misc_10f87275", "mapping": ["mercedes", "sprinter", "sprinter_w901_905_1995", "Sprinter T1N W901-905 1995-2006"], "action": "copy", "target": "mercedes/sprinter/sprinter_w901_905_1995"}
+{"src": "bestune/b70", "mapping": ["faw_bestune", "b70", "b70_2020", "B70 3rd gen 2020+"], "action": "copy", "target": "faw_bestune/b70/b70_2020"}
+{"src": "bestune/bestune_t90", "mapping": ["faw_bestune", "t90", "t90_2022", "T90 2022+"], "action": "copy", "target": "faw_bestune/t90/t90_2022"}
+{"src": "uaz/misc_66dd73e9", "mapping": ["uaz", "hunter", "hunter_2003", "UAZ Hunter УМЗ-4218 (duplicate)"], "action": "copy_variant(manual_variant.md)", "target": "uaz/hunter/hunter_2003"}
+{"src": "changan/misc_d52243b0", "mapping": ["changan", "sc7", "sc7_2021", "Changan SC7 2021"], "action": "copy", "target": "changan/sc7/sc7_2021"}
+{"src": "opel/vectra_b", "mapping": null, "action": "skip_pre2001_or_junk"}
+{"src": "fiat/coupe", "mapping": null, "action": "skip_pre2001_or_junk"}
+{"src": "ford/escort", "mapping": null, "action": "skip_pre2001_or_junk"}
+{"src": "honda/prelude", "mapping": null, "action": "skip_pre2001_or_junk"}
+{"src": "peugeot/106", "mapping": null, "action": "skip_pre2001_or_junk"}
+{"src": "datsun/1000_v2_ru_reocr", "mapping": null, "action": "skip_pre2001_or_junk"}
+{"src": "volvo/440_460_480", "mapping": null, "action": "skip_pre2001_or_junk"}
+{"src": "kia/all", "mapping": null, "action": "skip_pre2001_or_junk"}
+{"src": "nissan/primera_v2_ru_reocr", "mapping": null, "action": "skip_pre2001_or_junk"}
+{"src": "honda/misc_8201a6dc", "mapping": null, "action": "skip_pre2001_or_junk"}
+{"src": "mercedes_benz/190", "mapping": null, "action": "skip_pre2001_or_junk"}
+{"src": "mercedes_benz/ml", "mapping": null, "action": "skip_pre2001_or_junk"}

@@ -1,8 +1,10 @@
 {
   "generation_id": "lexus_es_xv60_2012",
   "generation_name": "ES VI (XV60)",
-  "year_start": 2012, "year_end": 2018,
-  "body_type": "sedan", "market": "import",
+  "year_start": 2012,
+  "year_end": 2018,
+  "body_type": "sedan",
+  "market": "import",
   "production": "Toyota Miyata, Япония / Guangzhou, Китай",
   "facelift": 2015,
   "platform": "Toyota K (shared with Camry XV50)",
@@ -17,12 +19,38 @@
     "curb_weight_kg": 1650
   },
   "engines": [
-    { "code": "2AR-FE", "volume": "2.5L", "type": "R4 DOHC (ES 250)", "fuel": "petrol", "power_hp": 181 },
-    { "code": "2GR-FE", "volume": "3.5L", "type": "V6 DOHC (ES 350)", "fuel": "petrol", "power_hp": 249 },
-    { "code": "2AR-FXE", "volume": "2.5L", "type": "R4 Hybrid (ES 300h)", "fuel": "petrol", "power_hp": 160 }
+    {
+      "code": "2AR-FE",
+      "volume": "2.5L",
+      "type": "R4 DOHC (ES 250)",
+      "fuel": "petrol",
+      "power_hp": 181
+    },
+    {
+      "code": "2GR-FE",
+      "volume": "3.5L",
+      "type": "V6 DOHC (ES 350)",
+      "fuel": "petrol",
+      "power_hp": 249
+    },
+    {
+      "code": "2AR-FXE",
+      "volume": "2.5L",
+      "type": "R4 Hybrid (ES 300h)",
+      "fuel": "petrol",
+      "power_hp": 160
+    }
   ],
-  "transmissions": ["АКПП-6 Aisin U660E (2.5)", "АКПП-6 Aisin U660E (3.5)", "E-CVT (гибрид)"],
-  "drivetrains": ["FWD"],
+  "transmissions": [
+    "АКПП-6 Aisin U660E (2.5)",
+    "АКПП-6 Aisin U660E (3.5)",
+    "E-CVT (гибрид)"
+  ],
+  "drivetrains": [
+    "FWD"
+  ],
   "popularity_ru": "very_high",
-  "notes": "Шестое поколение ES. Платформа общая с Camry XV50. ES 250 — бестселлер России. U660E — надёжная коробка, но требует регулярной замены ATF. 2AR-FE — вибрация при холодном запуске (балансирные валы). Рестайлинг 2015 — Spindle Grille."
+  "notes": "Шестое поколение ES. Платформа общая с Camry XV50. ES 250 — бестселлер России. U660E — надёжная коробка, но требует регулярной замены ATF. 2AR-FE — вибрация при холодном запуске (балансирные валы). Рестайлинг 2015 — Spindle Grille.",
+  "generation": "xv60_2012",
+  "fixed_by": "s27_apply_final22"
 }

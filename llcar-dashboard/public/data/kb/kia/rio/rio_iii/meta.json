@@ -1,0 +1,8 @@
+{
+  "brand": "kia",
+  "model": "rio",
+  "generation": "rio_iii",
+  "source": "kb",
+  "ingested_from": "kia/rio_iii",
+  "ingested_at": "2026-04-21"
+}

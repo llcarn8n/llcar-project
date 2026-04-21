@@ -1,0 +1,8 @@
+{
+  "brand": "hyundai",
+  "model": "sonata",
+  "generation": "sonata_2000",
+  "source": "kb",
+  "ingested_from": "hyundai/sonata",
+  "restored_post2001_rule": true
+}

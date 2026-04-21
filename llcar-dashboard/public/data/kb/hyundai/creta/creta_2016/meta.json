@@ -1,0 +1,10 @@
+{
+  "brand": "hyundai",
+  "model": "creta",
+  "generation": "creta_2016",
+  "source": "kb",
+  "ingested_from": "hyundai/creta",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2016
+}

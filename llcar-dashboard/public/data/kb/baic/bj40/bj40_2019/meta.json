@@ -1,0 +1,9 @@
+{
+  "brand": "baic",
+  "model": "bj40",
+  "generation": "bj40_2019",
+  "source": "kb",
+  "ingested_from": "baic/bj40",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22"
+}

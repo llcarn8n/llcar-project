@@ -1,0 +1,11 @@
+{
+  "brand": "ssangyong",
+  "model": "actyon",
+  "generation": "gen_2012",
+  "source": "kb",
+  "ingested_from": "ssangyong/actyon",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2021,
+  "merged_from_model_eq_gen": true
+}

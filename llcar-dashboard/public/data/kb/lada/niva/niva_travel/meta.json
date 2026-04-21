@@ -1,0 +1,8 @@
+{
+  "brand": "lada",
+  "model": "niva",
+  "generation": "niva_travel",
+  "source": "kb",
+  "ingested_from": "lada/niva_travel",
+  "ingested_at": "2026-04-21"
+}

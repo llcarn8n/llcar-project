@@ -1,0 +1,9 @@
+{
+  "brand": "citroen",
+  "model": "xsara",
+  "generation": "xsara_1997",
+  "source": "kb",
+  "ingested_from": "citroen/xsara",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "1997-2006"
+}

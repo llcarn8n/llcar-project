@@ -1,0 +1,9 @@
+{
+  "brand": "kia",
+  "model": "picanto",
+  "generation": "picanto_sa_2004",
+  "source": "kb",
+  "ingested_from": "kia/picanto",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "SA 2004-2011"
+}

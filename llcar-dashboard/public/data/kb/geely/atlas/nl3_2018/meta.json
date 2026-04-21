@@ -9,11 +9,34 @@
   "facelift": 2023,
   "platform": "Geely NL",
   "engines": [
-    { "code": "JLD-4G24", "volume": "2.4L", "type": "R4 Atmo", "fuel": "petrol", "power_hp": 149 },
-    { "code": "JLD-4G18T", "volume": "1.8L", "type": "R4 Turbo", "fuel": "petrol", "power_hp": 184 }
+    {
+      "code": "JLD-4G24",
+      "volume": "2.4L",
+      "type": "R4 Atmo",
+      "fuel": "petrol",
+      "power_hp": 149
+    },
+    {
+      "code": "JLD-4G18T",
+      "volume": "1.8L",
+      "type": "R4 Turbo",
+      "fuel": "petrol",
+      "power_hp": 184
+    }
   ],
-  "transmissions": ["МКПП-6", "CVT Jatco (2.4)", "АКПП-6 DSI (1.8T)"],
-  "drivetrains": ["FWD", "AWD"],
+  "transmissions": [
+    "МКПП-6",
+    "CVT Jatco (2.4)",
+    "АКПП-6 DSI (1.8T)"
+  ],
+  "drivetrains": [
+    "FWD",
+    "AWD"
+  ],
   "popularity_ru": "high",
-  "notes": "Первый массовый Geely в РФ. Сборка BelGee Борисов. 2.4 атмо + CVT Jatco — основной вариант. 1.8T + АКПП-6 DSI — топовый. Atlas Pro с 2023 — обновлённый дизайн."
+  "notes": "Первый массовый Geely в РФ. Сборка BelGee Борисов. 2.4 атмо + CVT Jatco — основной вариант. 1.8T + АКПП-6 DSI — топовый. Atlas Pro с 2023 — обновлённый дизайн.",
+  "generation": "nl3_2018",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2018,
+  "merged_from_model_eq_gen": true
 }

@@ -1,0 +1,10 @@
+{
+  "brand": "zeekr",
+  "model": "009",
+  "generation": "009_2020",
+  "source": "kb",
+  "ingested_from": "zeekr/009",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2020
+}

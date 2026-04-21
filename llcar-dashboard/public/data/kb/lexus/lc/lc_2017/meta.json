@@ -1,0 +1,9 @@
+{
+  "brand": "lexus",
+  "model": "lc",
+  "generation": "lc_2017",
+  "source": "kb",
+  "ingested_from": "lexus/lc",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "LC 2017+"
+}

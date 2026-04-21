@@ -1,0 +1,10 @@
+{
+  "brand": "mazda",
+  "model": "demio",
+  "generation": "demio_1996_2002",
+  "source": "kb",
+  "ingested_from": "mazda/mazda_demio_1996_2002",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:demio"
+}

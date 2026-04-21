@@ -1,0 +1,10 @@
+{
+  "brand": "opel",
+  "model": "vectra",
+  "generation": "vectra_sedan",
+  "source": "kb",
+  "ingested_from": "opel/vectra_sedan",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:vectra"
+}

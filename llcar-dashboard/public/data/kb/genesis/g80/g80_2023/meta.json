@@ -1,0 +1,11 @@
+{
+  "brand": "genesis",
+  "model": "g80",
+  "generation": "g80_2023",
+  "source": "kb",
+  "ingested_from": "genesis/g80",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2022,
+  "merged_from_model_eq_gen": true
+}

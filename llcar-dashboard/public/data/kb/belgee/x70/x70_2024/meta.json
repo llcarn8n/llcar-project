@@ -1,0 +1,9 @@
+{
+  "brand": "belgee",
+  "model": "x70",
+  "generation": "x70_2024",
+  "source": "kb",
+  "ingested_from": "belgee/x70",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22"
+}

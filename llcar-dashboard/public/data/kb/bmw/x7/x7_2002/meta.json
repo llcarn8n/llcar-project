@@ -1,0 +1,10 @@
+{
+  "brand": "bmw",
+  "model": "x7",
+  "generation": "x7_2002",
+  "source": "kb",
+  "ingested_from": "bmw/x7",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2002
+}

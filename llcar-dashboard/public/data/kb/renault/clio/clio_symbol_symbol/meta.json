@@ -1,0 +1,10 @@
+{
+  "brand": "renault",
+  "model": "clio",
+  "generation": "clio_symbol_symbol",
+  "source": "kb",
+  "ingested_from": "renault/clio_symbol_symbol",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:clio"
+}

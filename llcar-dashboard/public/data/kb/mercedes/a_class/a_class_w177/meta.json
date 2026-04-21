@@ -1,0 +1,13 @@
+{
+  "brand": "mercedes",
+  "model": "a_class",
+  "generation": "a_class_w177",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/a_class_w177",
+  "ingested_at": "2026-04-21",
+  "h34_note": "W177: 2018+",
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

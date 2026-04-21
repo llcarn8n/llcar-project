@@ -1,0 +1,10 @@
+{
+  "brand": "subaru",
+  "model": "outback",
+  "generation": "outback_2004",
+  "source": "kb",
+  "ingested_from": "subaru/outback",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2004
+}

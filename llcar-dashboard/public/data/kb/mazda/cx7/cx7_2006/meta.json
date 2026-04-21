@@ -1,0 +1,10 @@
+{
+  "brand": "mazda",
+  "model": "cx7",
+  "generation": "cx7_2006",
+  "source": "kb",
+  "ingested_from": "mazda/cx7",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2006
+}

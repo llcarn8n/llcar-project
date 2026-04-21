@@ -1,0 +1,10 @@
+{
+  "brand": "mitsubishi",
+  "model": "eclipse",
+  "generation": "eclipse_cross",
+  "source": "kb",
+  "ingested_from": "mitsubishi/eclipse_cross",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:eclipse"
+}

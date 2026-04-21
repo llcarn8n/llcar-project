@@ -1,0 +1,9 @@
+{
+  "brand": "nissan",
+  "model": "juke",
+  "generation": "juke_f15_2010",
+  "source": "kb",
+  "ingested_from": "nissan/juke",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "F15 2010-2019"
+}

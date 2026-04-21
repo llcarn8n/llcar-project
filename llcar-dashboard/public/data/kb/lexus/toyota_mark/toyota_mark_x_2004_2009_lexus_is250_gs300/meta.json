@@ -1,0 +1,10 @@
+{
+  "brand": "lexus",
+  "model": "toyota_mark",
+  "generation": "toyota_mark_x_2004_2009_lexus_is250_gs300",
+  "source": "kb",
+  "ingested_from": "lexus/toyota_mark_x_2004_2009_lexus_is250_gs300",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "roman+year"
+}

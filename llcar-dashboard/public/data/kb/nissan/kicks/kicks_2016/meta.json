@@ -1,0 +1,9 @@
+{
+  "brand": "nissan",
+  "model": "kicks",
+  "generation": "kicks_2016",
+  "source": "kb",
+  "ingested_from": "nissan/kicks",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "P15 2016+"
+}

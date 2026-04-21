@@ -1,0 +1,10 @@
+{
+  "brand": "livan",
+  "model": "s6_pro",
+  "generation": "s6_pro_2023",
+  "source": "kb",
+  "ingested_from": "livan/s6_pro",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2023
+}

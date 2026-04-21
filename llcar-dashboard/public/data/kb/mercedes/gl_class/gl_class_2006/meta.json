@@ -1,0 +1,14 @@
+{
+  "brand": "mercedes",
+  "model": "gl_class",
+  "generation": "gl_class_2006",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/gl_class",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2006,
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

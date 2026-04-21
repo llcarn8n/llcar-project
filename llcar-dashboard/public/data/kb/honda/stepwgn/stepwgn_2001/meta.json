@@ -1,0 +1,10 @@
+{
+  "brand": "honda",
+  "model": "stepwgn",
+  "generation": "stepwgn_2001",
+  "source": "kb",
+  "ingested_from": "honda/stepwgn",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2001
+}

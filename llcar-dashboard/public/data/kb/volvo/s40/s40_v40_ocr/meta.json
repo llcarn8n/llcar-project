@@ -1,0 +1,10 @@
+{
+  "brand": "volvo",
+  "model": "s40",
+  "generation": "s40_v40_ocr",
+  "source": "kb",
+  "ingested_from": "volvo/s40_v40_ocr",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:s40"
+}

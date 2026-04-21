@@ -1,0 +1,9 @@
+{
+  "brand": "mitsubishi",
+  "model": "l200",
+  "generation": "l200_2005",
+  "source": "kb",
+  "ingested_from": "mitsubishi/l200",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "KA/KB 2005-2015"
+}

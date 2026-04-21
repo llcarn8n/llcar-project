@@ -9,11 +9,32 @@
   "facelift": null,
   "platform": "Hyundai MPV (US4)",
   "engines": [
-    { "code": "G6CT", "volume": "3.5L", "type": "V6 GDI Smartstream", "fuel": "petrol", "power_hp": 272 },
-    { "code": "D2.2 CRDi", "volume": "2.2L", "type": "R4 Turbo Diesel", "fuel": "diesel", "power_hp": 177 }
+    {
+      "code": "G6CT",
+      "volume": "3.5L",
+      "type": "V6 GDI Smartstream",
+      "fuel": "petrol",
+      "power_hp": 272
+    },
+    {
+      "code": "D2.2 CRDi",
+      "volume": "2.2L",
+      "type": "R4 Turbo Diesel",
+      "fuel": "diesel",
+      "power_hp": 177
+    }
   ],
-  "transmissions": ["8AT Hyundai"],
-  "drivetrains": ["FWD", "AWD"],
+  "transmissions": [
+    "8AT Hyundai"
+  ],
+  "drivetrains": [
+    "FWD",
+    "AWD"
+  ],
   "popularity_ru": "low",
-  "notes": "Преемник Starex/H-1. Широкоформатный минивэн до 11 мест. Дизельная версия D2.2 популярна в Азии. В РФ единичный параллельный импорт. Подвеска: МакФерсон спереди, многорычажная сзади."
+  "notes": "Преемник Starex/H-1. Широкоформатный минивэн до 11 мест. Дизельная версия D2.2 популярна в Азии. В РФ единичный параллельный импорт. Подвеска: МакФерсон спереди, многорычажная сзади.",
+  "generation": "us4_2021",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2022,
+  "merged_from_model_eq_gen": true
 }

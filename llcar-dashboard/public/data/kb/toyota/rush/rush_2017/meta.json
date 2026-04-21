@@ -1,0 +1,9 @@
+{
+  "brand": "toyota",
+  "model": "rush",
+  "generation": "rush_2017",
+  "source": "kb",
+  "ingested_from": "toyota/rush",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "F800 2017+"
+}

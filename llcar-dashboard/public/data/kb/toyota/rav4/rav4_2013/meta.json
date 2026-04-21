@@ -1,0 +1,10 @@
+{
+  "brand": "toyota",
+  "model": "rav4",
+  "generation": "rav4_2013",
+  "source": "kb",
+  "ingested_from": "toyota/rav4",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2013
+}

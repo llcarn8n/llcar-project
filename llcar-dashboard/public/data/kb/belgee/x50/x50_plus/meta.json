@@ -1,0 +1,9 @@
+{
+  "brand": "belgee",
+  "model": "x50",
+  "generation": "x50_plus",
+  "source": "kb",
+  "ingested_from": "belgee/x50_plus",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22"
+}

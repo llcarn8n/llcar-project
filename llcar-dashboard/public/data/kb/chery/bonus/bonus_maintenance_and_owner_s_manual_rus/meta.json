@@ -1,0 +1,10 @@
+{
+  "brand": "chery",
+  "model": "bonus",
+  "generation": "bonus_maintenance_and_owner_s_manual_rus",
+  "source": "kb",
+  "ingested_from": "chery/bonus_maintenance_and_owner_s_manual_rus",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:bonus"
+}

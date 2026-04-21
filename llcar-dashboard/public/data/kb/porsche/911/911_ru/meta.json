@@ -1,0 +1,10 @@
+{
+  "brand": "porsche",
+  "model": "911",
+  "generation": "911_ru",
+  "source": "kb",
+  "ingested_from": "porsche/911_ru",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:911"
+}

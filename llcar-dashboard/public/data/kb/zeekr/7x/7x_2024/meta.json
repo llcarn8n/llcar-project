@@ -1,0 +1,9 @@
+{
+  "brand": "zeekr",
+  "model": "7x",
+  "generation": "7x_2024",
+  "source": "kb",
+  "ingested_from": "zeekr/7x",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Zeekr 7X 2024+"
+}

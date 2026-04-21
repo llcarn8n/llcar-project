@@ -1,0 +1,8 @@
+{
+  "brand": "nissan",
+  "model": "x_trail",
+  "generation": "x_trail_v2_ru_reocr",
+  "source": "kb",
+  "ingested_from": "nissan/x_trail_v2_ru_reocr",
+  "ingested_at": "2026-04-21"
+}

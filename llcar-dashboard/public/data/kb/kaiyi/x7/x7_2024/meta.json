@@ -1,0 +1,9 @@
+{
+  "brand": "kaiyi",
+  "model": "x7",
+  "generation": "x7_2024",
+  "source": "kb",
+  "ingested_from": "kaiyi/x7",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22"
+}

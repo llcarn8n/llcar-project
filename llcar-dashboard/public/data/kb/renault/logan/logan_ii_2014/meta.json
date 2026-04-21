@@ -1,0 +1,11 @@
+{
+  "brand": "renault",
+  "model": "logan",
+  "generation": "logan_ii_2014",
+  "source": "kb",
+  "ingested_from": "renault/logan_ii_2014",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

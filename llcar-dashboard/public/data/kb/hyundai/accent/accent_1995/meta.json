@@ -1,0 +1,8 @@
+{
+  "brand": "hyundai",
+  "model": "accent",
+  "generation": "accent_1995",
+  "source": "kb",
+  "ingested_from": "hyundai/accent",
+  "restored_post2001_rule": true
+}

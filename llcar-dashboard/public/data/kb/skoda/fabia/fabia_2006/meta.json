@@ -1,0 +1,10 @@
+{
+  "brand": "skoda",
+  "model": "fabia",
+  "generation": "fabia_2006",
+  "source": "kb",
+  "ingested_from": "skoda/fabia",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2006
+}

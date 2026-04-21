@@ -1,0 +1,8 @@
+{
+  "brand": "datsun",
+  "model": "on_do",
+  "generation": "on_do_v2_ru_reocr",
+  "source": "kb",
+  "ingested_from": "datsun/on_do_v2_ru_reocr",
+  "ingested_at": "2026-04-21"
+}

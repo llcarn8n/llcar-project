@@ -8,11 +8,33 @@
   "production": "Автотор Калининград 2018-2022, затем параллельный импорт",
   "facelift": 2021,
   "engines": [
-    { "code": "G4KN", "volume": "2.5L", "type": "Smartstream GDI", "fuel": "petrol", "power_hp": 180 },
-    { "code": "D4HB", "volume": "2.2L", "type": "CRDi Turbo Diesel", "fuel": "diesel", "power_hp": 200 }
+    {
+      "code": "G4KN",
+      "volume": "2.5L",
+      "type": "Smartstream GDI",
+      "fuel": "petrol",
+      "power_hp": 180
+    },
+    {
+      "code": "D4HB",
+      "volume": "2.2L",
+      "type": "CRDi Turbo Diesel",
+      "fuel": "diesel",
+      "power_hp": 200
+    }
   ],
-  "transmissions": ["АКПП-6 (2.5)", "АКПП-8 (2.2D)"],
-  "drivetrains": ["FWD", "AWD (HTRAC)"],
+  "transmissions": [
+    "АКПП-6 (2.5)",
+    "АКПП-8 (2.2D)"
+  ],
+  "drivetrains": [
+    "FWD",
+    "AWD (HTRAC)"
+  ],
   "popularity_ru": "high",
-  "notes": "Четвёртое поколение, Автотор. Рестайлинг 2021. HTRAC полный привод."
+  "notes": "Четвёртое поколение, Автотор. Рестайлинг 2021. HTRAC полный привод.",
+  "generation": "tm_2018",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2020,
+  "merged_from_model_eq_gen": true
 }

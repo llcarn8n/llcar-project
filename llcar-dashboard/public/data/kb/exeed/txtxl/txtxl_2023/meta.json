@@ -1,0 +1,9 @@
+{
+  "brand": "exeed",
+  "model": "txtxl",
+  "generation": "txtxl_2023",
+  "source": "kb",
+  "ingested_from": "exeed/txtxl",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "TXT/TXL 2023+"
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "chevrolet",
+  "model": "lacetti",
+  "generation": "lacetti_2004",
+  "source": "kb",
+  "ingested_from": "chevrolet/lacetti",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "J200 2004-2013"
+}

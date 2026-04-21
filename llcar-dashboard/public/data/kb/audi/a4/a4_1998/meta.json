@@ -1,0 +1,8 @@
+{
+  "brand": "audi",
+  "model": "a4",
+  "generation": "a4_1998",
+  "source": "kb",
+  "ingested_from": "audi/a4",
+  "restored_post2001_rule": true
+}

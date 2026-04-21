@@ -9,13 +9,46 @@
   "facelift": null,
   "platform": "Mercedes MRA2",
   "engines": [
-    { "code": "M256 E30 DEH LA", "volume": "3.0L", "type": "R6 Turbo + EQ Boost ISG (S 500)", "fuel": "petrol", "power_hp": 435 },
-    { "code": "M176 E40 LA", "volume": "4.0L", "type": "V8 Biturbo (S 580)", "fuel": "petrol", "power_hp": 510 },
-    { "code": "M177 E40 LA", "volume": "4.0L", "type": "V8 Biturbo AMG (S 63)", "fuel": "petrol", "power_hp": 612 },
-    { "code": "OM656 DE30 LA", "volume": "3.0L", "type": "R6 Turbo Diesel (S 400d)", "fuel": "diesel", "power_hp": 330 }
+    {
+      "code": "M256 E30 DEH LA",
+      "volume": "3.0L",
+      "type": "R6 Turbo + EQ Boost ISG (S 500)",
+      "fuel": "petrol",
+      "power_hp": 435
+    },
+    {
+      "code": "M176 E40 LA",
+      "volume": "4.0L",
+      "type": "V8 Biturbo (S 580)",
+      "fuel": "petrol",
+      "power_hp": 510
+    },
+    {
+      "code": "M177 E40 LA",
+      "volume": "4.0L",
+      "type": "V8 Biturbo AMG (S 63)",
+      "fuel": "petrol",
+      "power_hp": 612
+    },
+    {
+      "code": "OM656 DE30 LA",
+      "volume": "3.0L",
+      "type": "R6 Turbo Diesel (S 400d)",
+      "fuel": "diesel",
+      "power_hp": 330
+    }
   ],
-  "transmissions": ["9G-TRONIC (725.0)"],
-  "drivetrains": ["RWD", "4MATIC AWD"],
+  "transmissions": [
+    "9G-TRONIC (725.0)"
+  ],
+  "drivetrains": [
+    "RWD",
+    "4MATIC AWD"
+  ],
   "popularity_ru": "medium",
-  "notes": "Седьмое поколение флагманского седана. Платформа MRA2, задние управляемые колёса 4.5°/10° стандарт/опция. E-Active Body Control (опция). MBUX с голосовым помощником 2-го поколения. AIRMATIC пневмоподвеска стандарт. Длиннобазная V223 — основная для РФ. В РФ через параллельный импорт."
+  "notes": "Седьмое поколение флагманского седана. Платформа MRA2, задние управляемые колёса 4.5°/10° стандарт/опция. E-Active Body Control (опция). MBUX с голосовым помощником 2-го поколения. AIRMATIC пневмоподвеска стандарт. Длиннобазная V223 — основная для РФ. В РФ через параллельный импорт.",
+  "generation": "w223_2020",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2020,
+  "merged_from_model_eq_gen": true
 }

@@ -1,0 +1,8 @@
+{
+  "brand": "jeep",
+  "model": "wrangler",
+  "generation": "wrangler_1987",
+  "source": "kb",
+  "ingested_from": "jeep/wrangler",
+  "restored_post2001_rule": true
+}

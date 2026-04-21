@@ -1,0 +1,8 @@
+{
+  "brand": "faw_bestune",
+  "model": "t77",
+  "generation": "t77",
+  "source": "kb",
+  "ingested_from": "bestune/t77",
+  "ingested_at": "2026-04-21"
+}

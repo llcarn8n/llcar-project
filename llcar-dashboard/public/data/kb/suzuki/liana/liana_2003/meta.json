@@ -1,0 +1,10 @@
+{
+  "brand": "suzuki",
+  "model": "liana",
+  "generation": "liana_2003",
+  "source": "kb",
+  "ingested_from": "suzuki/liana_2003",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "year-suffix"
+}

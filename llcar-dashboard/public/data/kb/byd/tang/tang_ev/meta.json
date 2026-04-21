@@ -1,0 +1,9 @@
+{
+  "brand": "byd",
+  "model": "tang",
+  "generation": "tang_ev",
+  "source": "kb",
+  "ingested_from": "byd/tang_ev",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22"
+}

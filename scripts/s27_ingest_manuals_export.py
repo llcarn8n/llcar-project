@@ -128,12 +128,16 @@ def resolve_destination(
         if src_dir in gens:
             return "exact_gen", model, src_dir
 
-    # 2. Exact model match
+    # 2. Exact model match — create NEW gen-dir named src_dir under this model.
+    # Old buggy behavior was overwriting first existing gen — now we preserve
+    # existing gens and only add a new one when the src_dir is not already there.
     if src_dir in models:
         gens = models[src_dir]
-        if gens:
-            return "exact_model", src_dir, gens[0]
-        return "exact_model_nogens", src_dir, None
+        # Если src_dir уже используется как gen в этой модели — не трогаем
+        if src_dir in gens:
+            return "duplicate_gen", src_dir, src_dir
+        # Создаём новую gen-dir <brand>/<src_dir>/<src_dir>/ (model=src_dir, gen=src_dir)
+        return "exact_model", src_dir, src_dir
 
     # 3. Fuzzy gen match (canonicalize both sides)
     src_canon = canonicalize(src_dir)
@@ -144,7 +148,10 @@ def resolve_destination(
             if canonicalize(g) == src_canon:
                 return "fuzzy_gen", model, g
         if canonicalize(model) == src_canon and gens:
-            return "fuzzy_model", model, gens[0]
+            # Fuzzy model — create new gen-dir under this model instead of overwriting first gen
+            if src_dir in gens:
+                return "duplicate_gen", model, src_dir
+            return "fuzzy_model", model, src_dir
 
     return "unmatched", None, None
 
@@ -230,8 +237,12 @@ def apply_ingest(report: Report, create_new: bool, max_size_mb: int,
     skipped_blacklist = 0
     blacklist = blacklist or set()
     limit = max_size_mb * 1024 * 1024
+    skipped_duplicate = 0
+    skipped_occupied = 0
     for p in report.pairs:
-        if p.match_type == "unmatched":
+        if p.match_type in ("unmatched", "duplicate_gen"):
+            if p.match_type == "duplicate_gen":
+                skipped_duplicate += 1
             continue
         if not p.dst_path:
             continue
@@ -266,9 +277,43 @@ def apply_ingest(report: Report, create_new: bool, max_size_mb: int,
             skipped_junk += 1
             continue
 
+        # Не перезаписывать existing manual.md если у нас exact_model/fuzzy_model
+        # (такой файл может быть лучшего качества, уже нормализован).
+        target_md = p.dst_path / "manual.md"
+        if target_md.is_file() and p.match_type in ("exact_model", "fuzzy_model"):
+            print(f"[skip-occupied] {key}: {target_md} already exists",
+                  file=sys.stderr)
+            skipped_occupied += 1
+            continue
+
         p.dst_path.mkdir(parents=True, exist_ok=True)
-        shutil.copy2(p.src_manual, p.dst_path / "manual.md")
+        shutil.copy2(p.src_manual, target_md)
+
+        # Если это новая gen-dir без meta.json — создаём минимальный
+        meta_path = p.dst_path / "meta.json"
+        if not meta_path.is_file():
+            dst_parts = p.dst_path.parts
+            if len(dst_parts) >= 3:
+                brand_part = dst_parts[-3]
+                model_part = dst_parts[-2]
+                gen_part = dst_parts[-1]
+                meta = {
+                    "brand": brand_part,
+                    "model": model_part,
+                    "generation": gen_part,
+                    "source": "kb",
+                    "ingested_from": key,
+                    "ingested_at": "2026-04-21",
+                }
+                meta_path.write_text(
+                    json.dumps(meta, ensure_ascii=False, indent=2),
+                    encoding="utf-8",
+                )
+
         copied += 1
+    print(f"[info] duplicates skipped: {skipped_duplicate}, "
+          f"existing manual.md preserved: {skipped_occupied}",
+          file=sys.stderr)
     return copied, skipped_oversize, skipped_junk, skipped_blacklist
 
 

@@ -1,0 +1,10 @@
+{
+  "brand": "chevrolet",
+  "model": "captiva",
+  "generation": "captiva_2009",
+  "source": "kb",
+  "ingested_from": "chevrolet/captiva_2009",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:captiva"
+}

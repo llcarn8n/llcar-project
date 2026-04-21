@@ -1,0 +1,10 @@
+{
+  "brand": "renault",
+  "model": "k9k_1_5diesel",
+  "generation": "k9k_1_5diesel_sm",
+  "source": "kb",
+  "ingested_from": "renault/k9k_1_5diesel_sm",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "code-suffix"
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "mazda",
+  "model": "mazda6",
+  "generation": "mazda6_gg_2002",
+  "source": "kb",
+  "ingested_from": "mazda/mazda6",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "GG 2002-2008"
+}

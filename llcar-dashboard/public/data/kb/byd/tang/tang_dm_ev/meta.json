@@ -1,0 +1,10 @@
+{
+  "brand": "byd",
+  "model": "tang",
+  "generation": "tang_dm_ev",
+  "source": "kb",
+  "ingested_from": "byd/tang_dm_ev_en_2019",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "merge_with_existing",
+  "h33_reason": "from top_cand (merge_with_existing)"
+}

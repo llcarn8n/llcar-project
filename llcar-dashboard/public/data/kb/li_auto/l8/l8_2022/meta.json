@@ -1,0 +1,13 @@
+{
+  "brand": "li_auto",
+  "model": "l8",
+  "generation": "l8_2022",
+  "source": "kb",
+  "ingested_from": "li/l8",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "L8 2022+",
+  "brand_alias": {
+    "src": "li",
+    "dst": "li_auto"
+  }
+}

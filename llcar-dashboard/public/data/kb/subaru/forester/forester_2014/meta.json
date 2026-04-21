@@ -1,0 +1,10 @@
+{
+  "brand": "subaru",
+  "model": "forester",
+  "generation": "forester_2014",
+  "source": "kb",
+  "ingested_from": "subaru/forester",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2014
+}

@@ -1,0 +1,11 @@
+{
+  "brand": "mazda",
+  "model": "cx5",
+  "generation": "cx_5_2021",
+  "source": "kb",
+  "ingested_from": "mazda/cx_5_2021",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

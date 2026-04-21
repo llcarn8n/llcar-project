@@ -1,0 +1,10 @@
+{
+  "brand": "renault",
+  "model": "duster",
+  "generation": "duster_2009",
+  "source": "kb",
+  "ingested_from": "renault/duster",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2009
+}

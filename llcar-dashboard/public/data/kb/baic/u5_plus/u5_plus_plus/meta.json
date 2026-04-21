@@ -1,0 +1,9 @@
+{
+  "brand": "baic",
+  "model": "u5_plus",
+  "generation": "u5_plus_plus",
+  "source": "kb",
+  "ingested_from": "baic/u5_plus",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_title_codes"
+}

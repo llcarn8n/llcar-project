@@ -1,0 +1,10 @@
+{
+  "brand": "jeep",
+  "model": "compass",
+  "generation": "compass_2003",
+  "source": "kb",
+  "ingested_from": "jeep/compass",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2003
+}

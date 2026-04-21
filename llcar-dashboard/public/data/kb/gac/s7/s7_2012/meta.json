@@ -1,0 +1,10 @@
+{
+  "brand": "gac",
+  "model": "s7",
+  "generation": "s7_2012",
+  "source": "kb",
+  "ingested_from": "gac/gac_s7",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2012
+}

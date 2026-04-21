@@ -1,0 +1,13 @@
+{
+  "brand": "mercedes",
+  "model": "gle",
+  "generation": "gle_coupe",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/gle_coupe",
+  "ingested_at": "2026-04-21",
+  "h34_note": "GLE Coupe 2015+",
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

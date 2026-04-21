@@ -1,0 +1,10 @@
+{
+  "brand": "chery",
+  "model": "arrizo_8",
+  "generation": "arrizo_8_2023",
+  "source": "kb",
+  "ingested_from": "chery/arrizo_8",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2023
+}

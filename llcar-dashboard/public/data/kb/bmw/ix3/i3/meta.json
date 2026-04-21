@@ -1,0 +1,11 @@
+{
+  "brand": "bmw",
+  "model": "ix3",
+  "generation": "i3",
+  "source": "kb",
+  "ingested_from": "bmw/i3",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

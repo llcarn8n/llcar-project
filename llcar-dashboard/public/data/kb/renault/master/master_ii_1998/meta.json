@@ -1,0 +1,9 @@
+{
+  "brand": "renault",
+  "model": "master",
+  "generation": "master_ii_1998",
+  "source": "kb",
+  "ingested_from": "renault/master",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Master II 1998-2010"
+}

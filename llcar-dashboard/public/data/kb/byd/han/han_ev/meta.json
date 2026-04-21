@@ -1,0 +1,8 @@
+{
+  "brand": "byd",
+  "model": "han",
+  "generation": "han_ev",
+  "source": "kb",
+  "ingested_from": "byd/han_ev",
+  "ingested_at": "2026-04-21"
+}

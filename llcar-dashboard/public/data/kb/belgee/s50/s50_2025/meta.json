@@ -1,0 +1,10 @@
+{
+  "brand": "belgee",
+  "model": "s50",
+  "generation": "s50_2025",
+  "source": "kb",
+  "ingested_from": "belgee/s50",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2025
+}

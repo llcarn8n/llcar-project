@@ -1,0 +1,8 @@
+{
+  "brand": "ssangyong",
+  "model": "rexton",
+  "generation": "rexton_v1_ocr",
+  "source": "kb",
+  "ingested_from": "ssangyong/rexton_v1_ocr",
+  "ingested_at": "2026-04-21"
+}

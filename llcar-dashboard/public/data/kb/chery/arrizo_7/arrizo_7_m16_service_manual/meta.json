@@ -1,0 +1,10 @@
+{
+  "brand": "chery",
+  "model": "arrizo_7",
+  "generation": "arrizo_7_m16_service_manual",
+  "source": "kb",
+  "ingested_from": "chery/arrizo_7_m16_service_manual",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:arrizo_7"
+}

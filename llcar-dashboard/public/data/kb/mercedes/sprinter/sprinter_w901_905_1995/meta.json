@@ -1,0 +1,13 @@
+{
+  "brand": "mercedes",
+  "model": "sprinter",
+  "generation": "sprinter_w901_905_1995",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/misc_10f87275",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Sprinter T1N W901-905 1995-2006",
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

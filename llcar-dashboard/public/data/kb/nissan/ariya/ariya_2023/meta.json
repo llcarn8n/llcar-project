@@ -1,0 +1,10 @@
+{
+  "brand": "nissan",
+  "model": "ariya",
+  "generation": "ariya_2023",
+  "source": "kb",
+  "ingested_from": "nissan/ariya",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2023
+}

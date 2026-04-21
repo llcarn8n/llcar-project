@@ -1,0 +1,9 @@
+{
+  "brand": "kia",
+  "model": "niro",
+  "generation": "niro_2016",
+  "source": "kb",
+  "ingested_from": "kia/niro",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Niro 2016+"
+}

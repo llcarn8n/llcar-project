@@ -1,0 +1,9 @@
+{
+  "brand": "hyundai",
+  "model": "starex",
+  "generation": "starex_h1_2007",
+  "source": "kb",
+  "ingested_from": "hyundai/starex",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "TQ 2007-2021"
+}

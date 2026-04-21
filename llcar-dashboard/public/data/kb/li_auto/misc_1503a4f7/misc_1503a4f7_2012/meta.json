@@ -1,0 +1,14 @@
+{
+  "brand": "li_auto",
+  "model": "misc_1503a4f7",
+  "generation": "misc_1503a4f7_2012",
+  "source": "kb",
+  "ingested_from": "li/misc_1503a4f7",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2012,
+  "brand_alias": {
+    "src": "li",
+    "dst": "li_auto"
+  }
+}

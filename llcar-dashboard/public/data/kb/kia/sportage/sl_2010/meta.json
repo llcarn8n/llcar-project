@@ -9,12 +9,40 @@
   "facelift": 2014,
   "platform": "Hyundai ix35 platform (FWD/AWD)",
   "engines": [
-    { "code": "G4FD", "volume": "1.6L", "type": "Gamma GDI", "fuel": "petrol", "power_hp": 135 },
-    { "code": "G4KD", "volume": "2.0L", "type": "Theta II MPI", "fuel": "petrol", "power_hp": 150 },
-    { "code": "D4HA", "volume": "2.0L", "type": "R CRDi", "fuel": "diesel", "power_hp": 136 }
+    {
+      "code": "G4FD",
+      "volume": "1.6L",
+      "type": "Gamma GDI",
+      "fuel": "petrol",
+      "power_hp": 135
+    },
+    {
+      "code": "G4KD",
+      "volume": "2.0L",
+      "type": "Theta II MPI",
+      "fuel": "petrol",
+      "power_hp": 150
+    },
+    {
+      "code": "D4HA",
+      "volume": "2.0L",
+      "type": "R CRDi",
+      "fuel": "diesel",
+      "power_hp": 136
+    }
   ],
-  "transmissions": ["МКПП-6", "АКПП-6"],
-  "drivetrains": ["FWD", "AWD"],
+  "transmissions": [
+    "МКПП-6",
+    "АКПП-6"
+  ],
+  "drivetrains": [
+    "FWD",
+    "AWD"
+  ],
   "popularity_ru": "very_high",
-  "notes": "Третье поколение Sportage — одно из самых массовых и узнаваемых кроссоверов в России. Платформа общая с Hyundai ix35. Широчайшая сеть обслуживания, доступные запчасти. Рестайлинг 2014."
+  "notes": "Третье поколение Sportage — одно из самых массовых и узнаваемых кроссоверов в России. Платформа общая с Hyundai ix35. Широчайшая сеть обслуживания, доступные запчасти. Рестайлинг 2014.",
+  "generation": "sl_2010",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2010,
+  "merged_from_model_eq_gen": true
 }

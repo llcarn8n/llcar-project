@@ -1,0 +1,10 @@
+{
+  "brand": "land_rover",
+  "model": "freelander",
+  "generation": "freelander_2007",
+  "source": "kb",
+  "ingested_from": "land_rover/freelander",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2007
+}

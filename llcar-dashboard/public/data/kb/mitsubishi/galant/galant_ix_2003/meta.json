@@ -1,0 +1,9 @@
+{
+  "brand": "mitsubishi",
+  "model": "galant",
+  "generation": "galant_ix_2003",
+  "source": "kb",
+  "ingested_from": "mitsubishi/galant",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "9th gen 2003-2012"
+}

@@ -1,17 +1,46 @@
 {
   "generation_id": "chevrolet_cruze_j400_2016",
   "generation_name": "Cruze II (J400)",
-  "year_start": 2016, "year_end": 2020,
-  "body_type": "sedan/hatchback", "market": "local_assembly",
+  "year_start": 2016,
+  "year_end": 2020,
+  "body_type": "sedan/hatchback",
+  "market": "local_assembly",
   "production": "GM Россия, Санкт-Петербург",
-  "facelift": null, "platform": "GM D2XX",
+  "facelift": null,
+  "platform": "GM D2XX",
   "engines": [
-    { "code": "LFV", "volume": "1.4L", "type": "R4 Turbo Ecotec", "fuel": "petrol", "power_hp": 153 },
-    { "code": "L2B/LDE", "volume": "1.6L", "type": "R4 Ecotec", "fuel": "petrol", "power_hp": 113 },
-    { "code": "2H0/LFJ", "volume": "1.8L", "type": "R4 Ecotec", "fuel": "petrol", "power_hp": 141 }
+    {
+      "code": "LFV",
+      "volume": "1.4L",
+      "type": "R4 Turbo Ecotec",
+      "fuel": "petrol",
+      "power_hp": 153
+    },
+    {
+      "code": "L2B/LDE",
+      "volume": "1.6L",
+      "type": "R4 Ecotec",
+      "fuel": "petrol",
+      "power_hp": 113
+    },
+    {
+      "code": "2H0/LFJ",
+      "volume": "1.8L",
+      "type": "R4 Ecotec",
+      "fuel": "petrol",
+      "power_hp": 141
+    }
   ],
-  "transmissions": ["МКПП-5 (1.6)", "МКПП-6 (1.4T)", "АКПП-6 GM Hydra-Matic"],
-  "drivetrains": ["FWD"],
+  "transmissions": [
+    "МКПП-5 (1.6)",
+    "МКПП-6 (1.4T)",
+    "АКПП-6 GM Hydra-Matic"
+  ],
+  "drivetrains": [
+    "FWD"
+  ],
   "popularity_ru": "high",
-  "notes": "Второе поколение. Сборка GM СПб. LFV 1.4T Ecotec — основной. АКПП-6 Hydra-Matic 6T40. GM ушёл из РФ — огромный парк на вторичке."
+  "notes": "Второе поколение. Сборка GM СПб. LFV 1.4T Ecotec — основной. АКПП-6 Hydra-Matic 6T40. GM ушёл из РФ — огромный парк на вторичке.",
+  "generation": "j400_2016",
+  "fixed_by": "s27_apply_final22"
 }

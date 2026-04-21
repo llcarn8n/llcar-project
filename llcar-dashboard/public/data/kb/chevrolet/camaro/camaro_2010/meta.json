@@ -1,0 +1,9 @@
+{
+  "brand": "chevrolet",
+  "model": "camaro",
+  "generation": "camaro_2010",
+  "source": "kb",
+  "ingested_from": "chevrolet/camaro",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "5th gen 2010-2015"
+}

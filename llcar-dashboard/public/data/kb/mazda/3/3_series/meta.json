@@ -1,0 +1,10 @@
+{
+  "brand": "mazda",
+  "model": "3",
+  "generation": "3_series",
+  "source": "kb",
+  "ingested_from": "mazda/3_series",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:3"
+}

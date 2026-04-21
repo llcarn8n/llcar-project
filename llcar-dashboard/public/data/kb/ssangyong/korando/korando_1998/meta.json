@@ -1,0 +1,8 @@
+{
+  "brand": "ssangyong",
+  "model": "korando",
+  "generation": "korando_1998",
+  "source": "kb",
+  "ingested_from": "ssangyong/korando",
+  "restored_post2001_rule": true
+}

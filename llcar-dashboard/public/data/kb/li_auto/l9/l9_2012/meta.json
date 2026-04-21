@@ -1,0 +1,14 @@
+{
+  "brand": "li_auto",
+  "model": "l9",
+  "generation": "l9_2012",
+  "source": "kb",
+  "ingested_from": "li/l9",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2012,
+  "brand_alias": {
+    "src": "li",
+    "dst": "li_auto"
+  }
+}

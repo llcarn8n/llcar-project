@@ -9,10 +9,23 @@
   "facelift": null,
   "platform": "FAW D-SUV",
   "engines": [
-    { "code": "CA4GC20TD", "volume": "2.0L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 252 }
+    {
+      "code": "CA4GC20TD",
+      "volume": "2.0L",
+      "type": "R4 Turbo GDI",
+      "fuel": "petrol",
+      "power_hp": 252
+    }
   ],
-  "transmissions": ["8AT"],
-  "drivetrains": ["FWD", "AWD"],
+  "transmissions": [
+    "8AT"
+  ],
+  "drivetrains": [
+    "FWD",
+    "AWD"
+  ],
   "popularity_ru": "low",
-  "notes": "Флагманский кроссовер FAW Bestune. 2.0T + 8AT — единственный вариант. AWD — опция. Пневматическая подвеска на топ-комплектации."
+  "notes": "Флагманский кроссовер FAW Bestune. 2.0T + 8AT — единственный вариант. AWD — опция. Пневматическая подвеска на топ-комплектации.",
+  "generation": "t99_gen1_2020",
+  "fixed_by": "s27_apply_final22"
 }

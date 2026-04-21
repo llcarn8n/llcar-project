@@ -1,0 +1,10 @@
+{
+  "brand": "renault",
+  "model": "megane",
+  "generation": "megane_scenic",
+  "source": "kb",
+  "ingested_from": "renault/megane_scenic",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:megane"
+}

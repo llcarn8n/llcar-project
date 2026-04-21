@@ -1,0 +1,9 @@
+{
+  "brand": "ford",
+  "model": "maverick",
+  "generation": "maverick_2021",
+  "source": "kb",
+  "ingested_from": "ford/maverick",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "2021+"
+}

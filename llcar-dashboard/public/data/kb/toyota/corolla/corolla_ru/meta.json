@@ -1,0 +1,8 @@
+{
+  "brand": "toyota",
+  "model": "corolla",
+  "generation": "corolla_ru",
+  "source": "kb",
+  "ingested_from": "toyota/corolla_ru",
+  "ingested_at": "2026-04-21"
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "lexus",
+  "model": "gx",
+  "generation": "gx_urj150_2009",
+  "source": "kb",
+  "ingested_from": "lexus/gx",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "URJ150 2009-2023"
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "byd",
+  "model": "dolphin",
+  "generation": "dolphin_ru_2021",
+  "source": "kb",
+  "ingested_from": "byd/dolphin_ru_2021",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "merge_with_existing",
+  "h33_reason": "from top_cand (merge_with_existing)"
+}

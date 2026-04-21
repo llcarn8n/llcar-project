@@ -1,17 +1,47 @@
 {
   "generation_id": "nissan_terrano_d10_2014",
   "generation_name": "Terrano III (D10)",
-  "year_start": 2014, "year_end": 2022,
-  "body_type": "suv", "market": "local_assembly",
+  "year_start": 2014,
+  "year_end": 2022,
+  "body_type": "suv",
+  "market": "local_assembly",
   "production": "Renault Москва",
-  "facelift": 2017, "platform": "Renault-Nissan B0",
+  "facelift": 2017,
+  "platform": "Renault-Nissan B0",
   "engines": [
-    { "code": "K4M", "volume": "1.6L", "type": "R4 16V", "fuel": "petrol", "power_hp": 102 },
-    { "code": "F4R", "volume": "2.0L", "type": "R4 16V", "fuel": "petrol", "power_hp": 143 },
-    { "code": "H4M", "volume": "1.6L", "type": "R4 16V (HR16DE)", "fuel": "petrol", "power_hp": 114 }
+    {
+      "code": "K4M",
+      "volume": "1.6L",
+      "type": "R4 16V",
+      "fuel": "petrol",
+      "power_hp": 102
+    },
+    {
+      "code": "F4R",
+      "volume": "2.0L",
+      "type": "R4 16V",
+      "fuel": "petrol",
+      "power_hp": 143
+    },
+    {
+      "code": "H4M",
+      "volume": "1.6L",
+      "type": "R4 16V (HR16DE)",
+      "fuel": "petrol",
+      "power_hp": 114
+    }
   ],
-  "transmissions": ["МКПП-5 (1.6)", "МКПП-6 (2.0)", "АКПП-4 Jatco (2.0 AWD)"],
-  "drivetrains": ["FWD", "AWD (муфта)"],
+  "transmissions": [
+    "МКПП-5 (1.6)",
+    "МКПП-6 (2.0)",
+    "АКПП-4 Jatco (2.0 AWD)"
+  ],
+  "drivetrains": [
+    "FWD",
+    "AWD (муфта)"
+  ],
   "popularity_ru": "high",
-  "notes": "На базе Renault Duster. Сборка Москва. K4M/F4R/H4M — те же что у Duster. АКПП-4 Jatco. AWD с муфтой. LCI 2017."
+  "notes": "На базе Renault Duster. Сборка Москва. K4M/F4R/H4M — те же что у Duster. АКПП-4 Jatco. AWD с муфтой. LCI 2017.",
+  "generation": "d10_2014",
+  "fixed_by": "s27_apply_final22"
 }

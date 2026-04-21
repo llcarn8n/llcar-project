@@ -1,0 +1,9 @@
+{
+  "brand": "geely",
+  "model": "cityray",
+  "generation": "cityray_2023",
+  "source": "kb",
+  "ingested_from": "geely/cityray",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Cityray 2023+"
+}

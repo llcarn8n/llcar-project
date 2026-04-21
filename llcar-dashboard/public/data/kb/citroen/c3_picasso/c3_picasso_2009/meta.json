@@ -1,0 +1,10 @@
+{
+  "brand": "citroen",
+  "model": "c3_picasso",
+  "generation": "c3_picasso_2009",
+  "source": "kb",
+  "ingested_from": "citroen/c3_picasso",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2009
+}

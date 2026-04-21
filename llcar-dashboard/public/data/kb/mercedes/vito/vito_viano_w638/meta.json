@@ -1,0 +1,13 @@
+{
+  "brand": "mercedes",
+  "model": "vito",
+  "generation": "vito_viano_w638",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/vito_viano_w638",
+  "ingested_at": "2026-04-21",
+  "h34_note": "W638: 1996-2003 (до 2003, ОК)",
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

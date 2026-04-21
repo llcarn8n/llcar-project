@@ -1,0 +1,11 @@
+{
+  "brand": "voyah",
+  "model": "free",
+  "generation": "6d3mmp__rukovodstvo_pol_zovatela__free",
+  "source": "kb",
+  "ingested_from": "voyah/6d3mmp__rukovodstvo_pol_zovatela__free",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

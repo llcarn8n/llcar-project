@@ -1,0 +1,9 @@
+{
+  "brand": "bmw",
+  "model": "x1",
+  "generation": "x1_e84",
+  "source": "kb",
+  "ingested_from": "bmw/x1",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_title_codes"
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "mitsubishi",
+  "model": "asx",
+  "generation": "asx_2006",
+  "source": "kb",
+  "ingested_from": "mitsubishi/asx",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2006
+}

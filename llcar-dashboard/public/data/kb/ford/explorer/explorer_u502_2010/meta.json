@@ -1,0 +1,9 @@
+{
+  "brand": "ford",
+  "model": "explorer",
+  "generation": "explorer_u502_2010",
+  "source": "kb",
+  "ingested_from": "ford/explorer",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "5th gen U502 2010-2019"
+}

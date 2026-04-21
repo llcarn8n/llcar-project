@@ -1,0 +1,9 @@
+{
+  "brand": "tank",
+  "model": "300",
+  "generation": "gen_2020",
+  "source": "kb",
+  "ingested_from": "tank/300",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22"
+}

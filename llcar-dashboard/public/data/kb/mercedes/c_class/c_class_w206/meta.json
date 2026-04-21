@@ -1,0 +1,13 @@
+{
+  "brand": "mercedes",
+  "model": "c_class",
+  "generation": "c_class_w206",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/c_class_w206",
+  "ingested_at": "2026-04-21",
+  "h34_note": "W206: 2021+",
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

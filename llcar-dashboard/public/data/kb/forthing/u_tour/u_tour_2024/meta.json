@@ -1,0 +1,10 @@
+{
+  "brand": "forthing",
+  "model": "u_tour",
+  "generation": "u_tour_2024",
+  "source": "kb",
+  "ingested_from": "forthing/u_tour",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2024
+}

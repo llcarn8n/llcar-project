@@ -1,0 +1,9 @@
+{
+  "brand": "baic",
+  "model": "bj60",
+  "generation": "bj60_2023",
+  "source": "kb",
+  "ingested_from": "baic/bj60",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "BJ60 2023+"
+}

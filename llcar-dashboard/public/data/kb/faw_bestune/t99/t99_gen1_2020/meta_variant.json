@@ -1,0 +1,8 @@
+{
+  "brand": "faw_bestune",
+  "model": "t99",
+  "generation": "t99",
+  "source": "kb",
+  "ingested_from": "bestune/t99",
+  "ingested_at": "2026-04-21"
+}

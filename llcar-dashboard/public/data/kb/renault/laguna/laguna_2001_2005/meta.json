@@ -1,0 +1,10 @@
+{
+  "brand": "renault",
+  "model": "laguna",
+  "generation": "laguna_2001_2005",
+  "source": "kb",
+  "ingested_from": "renault/renault_laguna_2001_2005",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:laguna"
+}

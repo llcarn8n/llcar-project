@@ -1,0 +1,10 @@
+{
+  "brand": "lada",
+  "model": "xray",
+  "generation": "xray_2011",
+  "source": "kb",
+  "ingested_from": "lada/xray",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2011
+}

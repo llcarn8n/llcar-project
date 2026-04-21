@@ -1,0 +1,9 @@
+{
+  "brand": "kia",
+  "model": "spectra",
+  "generation": "spectra_2005",
+  "source": "kb",
+  "ingested_from": "kia/spectra",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "ИжАвто 2005-2011"
+}

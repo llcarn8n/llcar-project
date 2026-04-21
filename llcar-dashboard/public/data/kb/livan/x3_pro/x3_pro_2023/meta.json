@@ -1,0 +1,10 @@
+{
+  "brand": "livan",
+  "model": "x3_pro",
+  "generation": "x3_pro_2023",
+  "source": "kb",
+  "ingested_from": "livan/x3_pro",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2023
+}

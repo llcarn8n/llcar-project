@@ -1,0 +1,8 @@
+{
+  "brand": "forthing",
+  "model": "t5",
+  "generation": "t5_sx3",
+  "source": "kb",
+  "ingested_from": "forthing/t5_sx3",
+  "ingested_at": "2026-04-21"
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "kia",
+  "model": "carnival",
+  "generation": "carnival_2021",
+  "source": "kb",
+  "ingested_from": "kia/carnival",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_title_codes"
+}

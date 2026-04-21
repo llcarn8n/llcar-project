@@ -1,0 +1,10 @@
+{
+  "brand": "tank",
+  "model": "400",
+  "generation": "400_2024",
+  "source": "kb",
+  "ingested_from": "tank/400",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2024
+}

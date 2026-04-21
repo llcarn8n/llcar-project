@@ -9,10 +9,23 @@
   "facelift": null,
   "platform": "Chery B-SUV",
   "engines": [
-    { "code": "SQRF4J16", "volume": "1.5L", "type": "R4 Turbo GDI", "fuel": "petrol", "power_hp": 147 }
+    {
+      "code": "SQRF4J16",
+      "volume": "1.5L",
+      "type": "R4 Turbo GDI",
+      "fuel": "petrol",
+      "power_hp": 147
+    }
   ],
-  "transmissions": ["CVT", "7DCT"],
-  "drivetrains": ["FWD"],
+  "transmissions": [
+    "CVT",
+    "7DCT"
+  ],
+  "drivetrains": [
+    "FWD"
+  ],
   "popularity_ru": "medium",
-  "notes": "Компактный кроссовер Chery Jetour нового поколения. 1.5T + CVT или 7DCT. Только передний привод. Агрессивный дизайн."
+  "notes": "Компактный кроссовер Chery Jetour нового поколения. 1.5T + CVT или 7DCT. Только передний привод. Агрессивный дизайн.",
+  "generation": "dashing_gen1_2022",
+  "fixed_by": "s27_apply_final22"
 }

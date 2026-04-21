@@ -1,0 +1,9 @@
+{
+  "brand": "peugeot",
+  "model": "508",
+  "generation": "508_2010",
+  "source": "kb",
+  "ingested_from": "peugeot/508",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "508 2010-2018"
+}

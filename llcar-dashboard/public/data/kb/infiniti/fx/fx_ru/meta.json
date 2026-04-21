@@ -1,0 +1,10 @@
+{
+  "brand": "infiniti",
+  "model": "fx",
+  "generation": "fx_ru",
+  "source": "kb",
+  "ingested_from": "infiniti/fx_ru",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:fx"
+}

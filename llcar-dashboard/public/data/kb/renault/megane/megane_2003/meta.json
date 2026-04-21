@@ -1,0 +1,10 @@
+{
+  "brand": "renault",
+  "model": "megane",
+  "generation": "megane_2003",
+  "source": "kb",
+  "ingested_from": "renault/megane",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2003
+}

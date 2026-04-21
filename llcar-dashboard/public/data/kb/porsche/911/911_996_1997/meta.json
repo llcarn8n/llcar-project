@@ -1,0 +1,9 @@
+{
+  "brand": "porsche",
+  "model": "911",
+  "generation": "911_996_1997",
+  "source": "kb",
+  "ingested_from": "porsche/911",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "996 1997-2005"
+}

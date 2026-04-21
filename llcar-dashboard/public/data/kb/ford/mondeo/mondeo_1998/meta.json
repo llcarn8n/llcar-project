@@ -1,0 +1,8 @@
+{
+  "brand": "ford",
+  "model": "mondeo",
+  "generation": "mondeo_1998",
+  "source": "kb",
+  "ingested_from": "ford/mondeo",
+  "restored_post2001_rule": true
+}

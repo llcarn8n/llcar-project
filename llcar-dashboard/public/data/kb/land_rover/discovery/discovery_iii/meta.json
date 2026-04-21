@@ -1,0 +1,10 @@
+{
+  "brand": "land_rover",
+  "model": "discovery",
+  "generation": "discovery_iii",
+  "source": "kb",
+  "ingested_from": "land_rover/discovery_iii",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:discovery"
+}

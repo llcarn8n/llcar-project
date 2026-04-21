@@ -1,0 +1,11 @@
+{
+  "brand": "porsche",
+  "model": "macan",
+  "generation": "porsche_macan_2015_2016",
+  "source": "kb",
+  "ingested_from": "porsche/porsche_macan_2015_2016",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

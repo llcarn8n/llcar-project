@@ -1,0 +1,8 @@
+{
+  "brand": "suzuki",
+  "model": "vitara",
+  "generation": "vitara_1997",
+  "source": "kb",
+  "ingested_from": "suzuki/vitara",
+  "restored_post2001_rule": true
+}

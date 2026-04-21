@@ -1,0 +1,11 @@
+{
+  "brand": "porsche",
+  "model": "cayenne",
+  "generation": "cayenne_coupe",
+  "source": "kb",
+  "ingested_from": "porsche/cayenne_coupe",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

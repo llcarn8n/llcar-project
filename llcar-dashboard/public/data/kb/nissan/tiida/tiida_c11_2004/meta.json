@@ -1,0 +1,9 @@
+{
+  "brand": "nissan",
+  "model": "tiida",
+  "generation": "tiida_c11_2004",
+  "source": "kb",
+  "ingested_from": "nissan/tiida",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "C11 2004-2012"
+}

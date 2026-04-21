@@ -1,0 +1,10 @@
+{
+  "brand": "chevrolet",
+  "model": "cobalt",
+  "generation": "cobalt_2018",
+  "source": "kb",
+  "ingested_from": "chevrolet/cobalt_2018",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:cobalt"
+}

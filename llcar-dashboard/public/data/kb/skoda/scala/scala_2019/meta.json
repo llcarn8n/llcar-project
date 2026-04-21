@@ -1,0 +1,9 @@
+{
+  "brand": "skoda",
+  "model": "scala",
+  "generation": "scala_2019",
+  "source": "kb",
+  "ingested_from": "skoda/scala",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Scala 2019+"
+}

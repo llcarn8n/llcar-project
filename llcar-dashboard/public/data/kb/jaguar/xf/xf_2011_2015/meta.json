@@ -1,0 +1,10 @@
+{
+  "brand": "jaguar",
+  "model": "xf",
+  "generation": "xf_2011_2015",
+  "source": "kb",
+  "ingested_from": "jaguar/jaguar_xf_2011_2015",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:xf"
+}

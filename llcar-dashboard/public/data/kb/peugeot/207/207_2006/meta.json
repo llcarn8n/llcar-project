@@ -1,0 +1,10 @@
+{
+  "brand": "peugeot",
+  "model": "207",
+  "generation": "207_2006",
+  "source": "kb",
+  "ingested_from": "peugeot/207",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2006
+}

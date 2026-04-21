@@ -1,0 +1,9 @@
+{
+  "brand": "byd",
+  "model": "dolphin",
+  "generation": "dolphin_2",
+  "source": "kb",
+  "ingested_from": "byd/dolphin_2",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22"
+}

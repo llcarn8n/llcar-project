@@ -1,0 +1,8 @@
+{
+  "brand": "mitsubishi",
+  "model": "outlander",
+  "generation": "outlander_phev",
+  "source": "kb",
+  "ingested_from": "mitsubishi/outlander_phev",
+  "ingested_at": "2026-04-21"
+}

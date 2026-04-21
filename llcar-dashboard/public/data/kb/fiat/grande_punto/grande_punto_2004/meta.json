@@ -1,0 +1,10 @@
+{
+  "brand": "fiat",
+  "model": "grande_punto",
+  "generation": "grande_punto_2004",
+  "source": "kb",
+  "ingested_from": "fiat/grande_punto_2004",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:grande_punto"
+}

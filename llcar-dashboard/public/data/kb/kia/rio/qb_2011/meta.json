@@ -19,11 +19,34 @@
     "curb_weight_kg": 1106
   },
   "engines": [
-    { "code": "G4FA", "volume": "1.4L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 107 },
-    { "code": "G4FC", "volume": "1.6L", "type": "Gamma MPI", "fuel": "petrol", "power_hp": 123 }
+    {
+      "code": "G4FA",
+      "volume": "1.4L",
+      "type": "Gamma MPI",
+      "fuel": "petrol",
+      "power_hp": 107
+    },
+    {
+      "code": "G4FC",
+      "volume": "1.6L",
+      "type": "Gamma MPI",
+      "fuel": "petrol",
+      "power_hp": 123
+    }
   ],
-  "transmissions": ["МКПП-5", "МКПП-6", "АКПП-4", "АКПП-6"],
-  "drivetrains": ["FWD"],
+  "transmissions": [
+    "МКПП-5",
+    "МКПП-6",
+    "АКПП-4",
+    "АКПП-6"
+  ],
+  "drivetrains": [
+    "FWD"
+  ],
   "popularity_ru": "very_high",
-  "notes": "Массовая модель для РФ. Производство на заводе Hyundai в СПб. Одна платформа с Hyundai Solaris. Самое продаваемое поколение."
+  "notes": "Массовая модель для РФ. Производство на заводе Hyundai в СПб. Одна платформа с Hyundai Solaris. Самое продаваемое поколение.",
+  "generation": "qb_2011",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2012,
+  "merged_from_model_eq_gen": true
 }

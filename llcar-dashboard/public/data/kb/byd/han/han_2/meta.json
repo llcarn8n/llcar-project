@@ -1,0 +1,9 @@
+{
+  "brand": "byd",
+  "model": "han",
+  "generation": "han_2",
+  "source": "kb",
+  "ingested_from": "byd/han_2",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22"
+}

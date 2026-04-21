@@ -1,0 +1,9 @@
+{
+  "brand": "land_rover",
+  "model": "rr_sport",
+  "generation": "rr_sport_l320_2005",
+  "source": "kb",
+  "ingested_from": "land_rover/rr_sport",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "L320 2005-2013"
+}

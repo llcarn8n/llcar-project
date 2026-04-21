@@ -1,0 +1,9 @@
+{
+  "brand": "renault",
+  "model": "logan",
+  "generation": "logan_sandero",
+  "source": "kb",
+  "ingested_from": "renault/logan_sandero",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22"
+}

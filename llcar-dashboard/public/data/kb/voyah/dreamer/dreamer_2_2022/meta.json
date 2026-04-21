@@ -1,0 +1,9 @@
+{
+  "brand": "voyah",
+  "model": "dreamer",
+  "generation": "dreamer_2_2022",
+  "source": "kb",
+  "ingested_from": "voyah/dreamer_2",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Dreamer 2 MPV 2022+"
+}

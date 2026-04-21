@@ -1,0 +1,10 @@
+{
+  "brand": "hongqi",
+  "model": "e_hs9",
+  "generation": "e_hs9_2021",
+  "source": "kb",
+  "ingested_from": "hongqi/e_hs9",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2021
+}

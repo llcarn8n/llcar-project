@@ -1,0 +1,9 @@
+{
+  "brand": "chevrolet",
+  "model": "captiva",
+  "generation": "captiva_c100_2006",
+  "source": "kb",
+  "ingested_from": "chevrolet/captiva",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "C100 2006-2011"
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "honda",
+  "model": "accord",
+  "generation": "accord_baxa_maxa_prelude_m6ha",
+  "source": "kb",
+  "ingested_from": "honda/accord_baxa_maxa_prelude_m6ha",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:accord"
+}

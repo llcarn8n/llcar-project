@@ -1,0 +1,10 @@
+{
+  "brand": "cadillac",
+  "model": "escalade",
+  "generation": "escalade_2002",
+  "source": "kb",
+  "ingested_from": "cadillac/escalade",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2002
+}

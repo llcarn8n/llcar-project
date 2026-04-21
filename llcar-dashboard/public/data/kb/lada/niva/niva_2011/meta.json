@@ -1,0 +1,10 @@
+{
+  "brand": "lada",
+  "model": "niva",
+  "generation": "niva_2011",
+  "source": "kb",
+  "ingested_from": "lada/niva",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2011
+}

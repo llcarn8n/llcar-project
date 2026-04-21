@@ -1,0 +1,8 @@
+{
+  "brand": "volkswagen",
+  "model": "golf",
+  "generation": "golf_2",
+  "source": "kb",
+  "ingested_from": "volkswagen/golf_2",
+  "ingested_at": "2026-04-21"
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "hyundai",
+  "model": "venue",
+  "generation": "venue_2022",
+  "source": "kb",
+  "ingested_from": "hyundai/venue",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2022
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "exeed",
+  "model": "es",
+  "generation": "es_2023",
+  "source": "kb",
+  "ingested_from": "exeed/es",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "ES 2023+"
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "genesis",
+  "model": "gv70",
+  "generation": "gv70_2022",
+  "source": "kb",
+  "ingested_from": "genesis/gv70",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2022
+}

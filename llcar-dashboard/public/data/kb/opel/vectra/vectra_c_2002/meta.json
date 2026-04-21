@@ -1,0 +1,9 @@
+{
+  "brand": "opel",
+  "model": "vectra",
+  "generation": "vectra_c_2002",
+  "source": "kb",
+  "ingested_from": "opel/vectra",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Vectra C 2002-2008"
+}

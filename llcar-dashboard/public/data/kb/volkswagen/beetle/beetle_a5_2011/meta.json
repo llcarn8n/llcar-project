@@ -1,0 +1,9 @@
+{
+  "brand": "volkswagen",
+  "model": "beetle",
+  "generation": "beetle_a5_2011",
+  "source": "kb",
+  "ingested_from": "volkswagen/beetle",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "A5 2011-2019"
+}

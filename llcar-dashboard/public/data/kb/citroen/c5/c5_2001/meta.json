@@ -1,0 +1,8 @@
+{
+  "brand": "citroen",
+  "model": "c5",
+  "generation": "c5_2001",
+  "source": "kb",
+  "ingested_from": "citroen/c5",
+  "restored_post2001_rule": true
+}

@@ -1,0 +1,13 @@
+{
+  "brand": "faw_bestune",
+  "model": "t90",
+  "generation": "t90_2022",
+  "source": "kb",
+  "ingested_from": "bestune/bestune_t90",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "T90 2022+",
+  "brand_alias": {
+    "src": "bestune",
+    "dst": "faw_bestune"
+  }
+}

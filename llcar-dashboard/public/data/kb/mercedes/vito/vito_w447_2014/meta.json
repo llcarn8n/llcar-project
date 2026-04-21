@@ -1,0 +1,13 @@
+{
+  "brand": "mercedes",
+  "model": "vito",
+  "generation": "vito_w447_2014",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/vito",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "W447 2014+",
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "bmw",
+  "model": "x6",
+  "generation": "x6_e71",
+  "source": "kb",
+  "ingested_from": "bmw/x6",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_title_codes"
+}

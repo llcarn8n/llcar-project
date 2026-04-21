@@ -1,0 +1,10 @@
+{
+  "brand": "chevrolet",
+  "model": "spark",
+  "generation": "spark_2005",
+  "source": "kb",
+  "ingested_from": "chevrolet/spark",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2005
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "uaz",
+  "model": "misc_033d20b3",
+  "generation": "misc_033d20b3_2016",
+  "source": "kb",
+  "ingested_from": "uaz/misc_033d20b3",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2016
+}

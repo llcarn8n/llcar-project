@@ -1,0 +1,13 @@
+{
+  "brand": "faw_bestune",
+  "model": "b70",
+  "generation": "b70_2020",
+  "source": "kb",
+  "ingested_from": "bestune/b70",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "B70 3rd gen 2020+",
+  "brand_alias": {
+    "src": "bestune",
+    "dst": "faw_bestune"
+  }
+}

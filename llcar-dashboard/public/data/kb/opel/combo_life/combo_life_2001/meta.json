@@ -1,0 +1,10 @@
+{
+  "brand": "opel",
+  "model": "combo_life",
+  "generation": "combo_life_2001",
+  "source": "kb",
+  "ingested_from": "opel/combo_life",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2001
+}

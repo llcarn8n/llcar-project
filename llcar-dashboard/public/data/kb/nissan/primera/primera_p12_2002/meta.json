@@ -1,0 +1,9 @@
+{
+  "brand": "nissan",
+  "model": "primera",
+  "generation": "primera_p12_2002",
+  "source": "kb",
+  "ingested_from": "nissan/primera",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "P12 2002-2008"
+}

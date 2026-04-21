@@ -1,0 +1,10 @@
+{
+  "brand": "mazda",
+  "model": "mazda3",
+  "generation": "mazda3_2003",
+  "source": "kb",
+  "ingested_from": "mazda/mazda3",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2003
+}

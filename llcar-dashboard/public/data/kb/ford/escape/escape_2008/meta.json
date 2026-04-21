@@ -1,0 +1,9 @@
+{
+  "brand": "ford",
+  "model": "escape",
+  "generation": "escape_2008",
+  "source": "kb",
+  "ingested_from": "ford/escape",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "2nd gen 2008-2012"
+}

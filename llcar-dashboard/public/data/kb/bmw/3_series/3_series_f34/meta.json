@@ -1,0 +1,9 @@
+{
+  "brand": "bmw",
+  "model": "3_series",
+  "generation": "3_series_f34",
+  "source": "kb",
+  "ingested_from": "bmw/3_series",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_title_codes"
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "uaz",
+  "model": "profi",
+  "generation": "profi_2017",
+  "source": "kb",
+  "ingested_from": "uaz/profi",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Profi 2017+"
+}

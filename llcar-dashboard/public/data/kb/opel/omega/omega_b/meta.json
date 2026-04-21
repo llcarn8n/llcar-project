@@ -1,0 +1,10 @@
+{
+  "brand": "opel",
+  "model": "omega",
+  "generation": "omega_b",
+  "source": "kb",
+  "ingested_from": "opel/omega_b",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:omega"
+}

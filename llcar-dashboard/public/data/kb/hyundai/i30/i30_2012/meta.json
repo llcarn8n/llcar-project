@@ -1,0 +1,10 @@
+{
+  "brand": "hyundai",
+  "model": "i30",
+  "generation": "i30_2012",
+  "source": "kb",
+  "ingested_from": "hyundai/i30",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2012
+}

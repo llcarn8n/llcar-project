@@ -1,0 +1,13 @@
+{
+  "brand": "mercedes",
+  "model": "viano",
+  "generation": "viano_w639_2003",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/viano",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "W639 2003-2014",
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

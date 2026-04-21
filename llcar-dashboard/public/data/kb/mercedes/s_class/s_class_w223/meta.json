@@ -1,0 +1,13 @@
+{
+  "brand": "mercedes",
+  "model": "s_class",
+  "generation": "s_class_w223",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/s_class_w223",
+  "ingested_at": "2026-04-21",
+  "h34_note": "W223: 2020+",
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

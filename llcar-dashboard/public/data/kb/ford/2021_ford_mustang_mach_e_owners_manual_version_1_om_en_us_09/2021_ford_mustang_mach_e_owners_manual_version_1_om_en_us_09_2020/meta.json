@@ -1,0 +1,10 @@
+{
+  "brand": "ford",
+  "model": "2021_ford_mustang_mach_e_owners_manual_version_1_om_en_us_09",
+  "generation": "2021_ford_mustang_mach_e_owners_manual_version_1_om_en_us_09_2020",
+  "source": "kb",
+  "ingested_from": "ford/2021_ford_mustang_mach_e_owners_manual_version_1_om_en_us_09_2020",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "year-suffix"
+}

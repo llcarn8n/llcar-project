@@ -1,0 +1,10 @@
+{
+  "brand": "skoda",
+  "model": "scala",
+  "generation": "scala_2",
+  "source": "kb",
+  "ingested_from": "skoda/scala_2",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:scala"
+}

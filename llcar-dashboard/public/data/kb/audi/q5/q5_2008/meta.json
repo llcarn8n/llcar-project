@@ -1,0 +1,10 @@
+{
+  "brand": "audi",
+  "model": "q5",
+  "generation": "q5_2008",
+  "source": "kb",
+  "ingested_from": "audi/q5",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2008
+}

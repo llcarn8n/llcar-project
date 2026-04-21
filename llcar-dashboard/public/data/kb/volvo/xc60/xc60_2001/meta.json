@@ -1,0 +1,10 @@
+{
+  "brand": "volvo",
+  "model": "xc60",
+  "generation": "xc60_2001",
+  "source": "kb",
+  "ingested_from": "volvo/xc60",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2001
+}

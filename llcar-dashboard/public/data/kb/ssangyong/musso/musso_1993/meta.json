@@ -1,0 +1,8 @@
+{
+  "brand": "ssangyong",
+  "model": "musso",
+  "generation": "musso_1993",
+  "source": "kb",
+  "ingested_from": "ssangyong/musso",
+  "restored_post2001_rule": true
+}

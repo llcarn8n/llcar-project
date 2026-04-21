@@ -1,0 +1,10 @@
+{
+  "brand": "nissan",
+  "model": "x_trail",
+  "generation": "x_trail_2007",
+  "source": "kb",
+  "ingested_from": "nissan/x_trail",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2007
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "kia",
+  "model": "k5",
+  "generation": "k5_ru",
+  "source": "kb",
+  "ingested_from": "kia/k5_ru",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22"
+}

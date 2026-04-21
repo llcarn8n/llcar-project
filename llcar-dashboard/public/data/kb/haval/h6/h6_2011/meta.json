@@ -1,0 +1,9 @@
+{
+  "brand": "haval",
+  "model": "h6",
+  "generation": "h6_2011",
+  "source": "kb",
+  "ingested_from": "haval/h6",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "1st gen 2011-2020"
+}

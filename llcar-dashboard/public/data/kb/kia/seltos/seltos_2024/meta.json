@@ -1,0 +1,10 @@
+{
+  "brand": "kia",
+  "model": "seltos",
+  "generation": "seltos_2024",
+  "source": "kb",
+  "ingested_from": "kia/seltos",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2024
+}

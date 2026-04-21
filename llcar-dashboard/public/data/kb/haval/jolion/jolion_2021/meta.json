@@ -1,0 +1,10 @@
+{
+  "brand": "haval",
+  "model": "jolion",
+  "generation": "jolion_2021",
+  "source": "kb",
+  "ingested_from": "haval/jolion",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2021
+}

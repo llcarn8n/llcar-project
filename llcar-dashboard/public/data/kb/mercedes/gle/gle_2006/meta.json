@@ -1,0 +1,10 @@
+{
+  "brand": "mercedes",
+  "model": "gle",
+  "generation": "gle_2006",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/gle",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2006
+}

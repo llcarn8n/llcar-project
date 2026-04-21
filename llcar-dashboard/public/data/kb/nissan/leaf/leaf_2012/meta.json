@@ -1,0 +1,10 @@
+{
+  "brand": "nissan",
+  "model": "leaf",
+  "generation": "leaf_2012",
+  "source": "kb",
+  "ingested_from": "nissan/leaf_2012",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:leaf"
+}

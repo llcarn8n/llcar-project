@@ -1,0 +1,10 @@
+{
+  "brand": "chery",
+  "model": "tiggo_7_pro",
+  "generation": "tiggo_7_pro_2019",
+  "source": "kb",
+  "ingested_from": "chery/tiggo_7_pro",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2019
+}

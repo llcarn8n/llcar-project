@@ -1,0 +1,8 @@
+{
+  "brand": "volkswagen",
+  "model": "polo",
+  "generation": "polo_1994",
+  "source": "kb",
+  "ingested_from": "volkswagen/polo",
+  "restored_post2001_rule": true
+}

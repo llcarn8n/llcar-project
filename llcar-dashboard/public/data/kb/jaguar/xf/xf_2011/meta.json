@@ -1,0 +1,10 @@
+{
+  "brand": "jaguar",
+  "model": "xf",
+  "generation": "xf_2011",
+  "source": "kb",
+  "ingested_from": "jaguar/xf",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2011
+}

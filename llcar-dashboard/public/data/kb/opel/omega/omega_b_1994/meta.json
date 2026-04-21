@@ -1,0 +1,9 @@
+{
+  "brand": "opel",
+  "model": "omega",
+  "generation": "omega_b_1994",
+  "source": "kb",
+  "ingested_from": "opel/omega",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "Omega B 1994-2003"
+}

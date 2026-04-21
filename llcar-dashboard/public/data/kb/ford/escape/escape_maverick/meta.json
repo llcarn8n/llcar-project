@@ -1,0 +1,10 @@
+{
+  "brand": "ford",
+  "model": "escape",
+  "generation": "escape_maverick",
+  "source": "kb",
+  "ingested_from": "ford/escape_maverick",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:escape"
+}

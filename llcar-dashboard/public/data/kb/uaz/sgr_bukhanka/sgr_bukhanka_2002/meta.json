@@ -1,0 +1,9 @@
+{
+  "brand": "uaz",
+  "model": "sgr_bukhanka",
+  "generation": "sgr_bukhanka_2002",
+  "source": "kb",
+  "ingested_from": "uaz/sgr_bukhanka",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "СГР Буханка 2002+"
+}

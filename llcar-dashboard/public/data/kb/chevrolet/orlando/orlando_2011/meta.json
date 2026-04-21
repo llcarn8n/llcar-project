@@ -1,0 +1,12 @@
+{
+  "brand": "chevrolet",
+  "model": "orlando",
+  "generation": "orlando_2011",
+  "source": "kb",
+  "ingested_from": "chevrolet/orlando",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:orlando",
+  "h33_fallback": true,
+  "extracted_year": 2011
+}

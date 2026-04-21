@@ -1,0 +1,10 @@
+{
+  "brand": "hyundai",
+  "model": "kona",
+  "generation": "kona_2019",
+  "source": "kb",
+  "ingested_from": "hyundai/kona",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2019
+}

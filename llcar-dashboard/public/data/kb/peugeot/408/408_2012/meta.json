@@ -1,0 +1,10 @@
+{
+  "brand": "peugeot",
+  "model": "408",
+  "generation": "408_2012",
+  "source": "kb",
+  "ingested_from": "peugeot/408",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2012
+}

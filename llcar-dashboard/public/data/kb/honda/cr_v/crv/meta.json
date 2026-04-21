@@ -1,0 +1,11 @@
+{
+  "brand": "honda",
+  "model": "cr_v",
+  "generation": "crv",
+  "source": "kb",
+  "ingested_from": "honda/crv",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "byd",
+  "model": "song_plus",
+  "generation": "song_plus_ev2023_champion_edition_user_manual",
+  "source": "kb",
+  "ingested_from": "byd/song_plus_ev2023_champion_edition_user_manual",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:song_plus"
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "mitsubishi",
+  "model": "l200",
+  "generation": "l200_2018",
+  "source": "kb",
+  "ingested_from": "mitsubishi/l200_2018",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:l200"
+}

@@ -1,0 +1,8 @@
+{
+  "brand": "lada",
+  "model": "niva",
+  "generation": "niva_1977",
+  "source": "kb",
+  "ingested_from": "lada/niva",
+  "restored_post2001_rule": true
+}

@@ -1,0 +1,11 @@
+{
+  "brand": "opel",
+  "model": "astra_k",
+  "generation": "astra_gtc",
+  "source": "kb",
+  "ingested_from": "opel/astra_gtc",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

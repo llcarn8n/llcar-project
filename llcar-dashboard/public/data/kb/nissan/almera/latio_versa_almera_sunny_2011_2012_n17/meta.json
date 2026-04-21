@@ -1,0 +1,11 @@
+{
+  "brand": "nissan",
+  "model": "almera",
+  "generation": "latio_versa_almera_sunny_2011_2012_n17",
+  "source": "kb",
+  "ingested_from": "nissan/latio_versa_almera_sunny_2011_2012_n17",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "review_merge",
+  "h33_reason": "from top_cand (review_merge)",
+  "needs_review": true
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "chevrolet",
+  "model": "trailblazer",
+  "generation": "trailblazer_2019",
+  "source": "kb",
+  "ingested_from": "chevrolet/trailblazer",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "2nd gen 2019+"
+}

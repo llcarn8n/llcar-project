@@ -1,0 +1,10 @@
+{
+  "brand": "renault",
+  "model": "sandero",
+  "generation": "sandero_2014",
+  "source": "kb",
+  "ingested_from": "renault/sandero",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2014
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "chery",
+  "model": "maintenance_and_owner_s_manual",
+  "generation": "maintenance_and_owner_s_manual_rus",
+  "source": "kb",
+  "ingested_from": "chery/maintenance_and_owner_s_manual_rus",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "code-suffix"
+}

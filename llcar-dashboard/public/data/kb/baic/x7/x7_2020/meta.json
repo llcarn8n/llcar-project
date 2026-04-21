@@ -1,0 +1,9 @@
+{
+  "brand": "baic",
+  "model": "x7",
+  "generation": "x7_2020",
+  "source": "kb",
+  "ingested_from": "baic/x7",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_final22"
+}

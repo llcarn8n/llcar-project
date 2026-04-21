@@ -1,0 +1,10 @@
+{
+  "brand": "renault",
+  "model": "kaptur",
+  "generation": "kaptur_2016",
+  "source": "kb",
+  "ingested_from": "renault/kaptur",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2016
+}

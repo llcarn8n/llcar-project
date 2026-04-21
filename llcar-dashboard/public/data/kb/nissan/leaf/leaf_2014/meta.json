@@ -1,0 +1,10 @@
+{
+  "brand": "nissan",
+  "model": "leaf",
+  "generation": "leaf_2014",
+  "source": "kb",
+  "ingested_from": "nissan/leaf",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2014
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "toyota",
+  "model": "land_cruiser",
+  "generation": "land_cruiser_2007",
+  "source": "kb",
+  "ingested_from": "toyota/land_cruiser",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2007
+}

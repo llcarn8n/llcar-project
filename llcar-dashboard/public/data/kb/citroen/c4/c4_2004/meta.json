@@ -1,0 +1,10 @@
+{
+  "brand": "citroen",
+  "model": "c4",
+  "generation": "c4_2004",
+  "source": "kb",
+  "ingested_from": "citroen/c4",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2004
+}

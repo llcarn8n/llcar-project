@@ -1,0 +1,10 @@
+{
+  "brand": "changan",
+  "model": "_cs55",
+  "generation": "_cs55_plus",
+  "source": "kb",
+  "ingested_from": "changan/changan__cs55_plus",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "code-suffix"
+}

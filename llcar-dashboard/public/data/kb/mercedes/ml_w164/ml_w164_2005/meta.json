@@ -1,0 +1,14 @@
+{
+  "brand": "mercedes",
+  "model": "ml_w164",
+  "generation": "ml_w164_2005",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/ml_w164",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2005,
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

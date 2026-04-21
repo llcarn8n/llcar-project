@@ -1,0 +1,9 @@
+{
+  "brand": "omoda",
+  "model": "c7",
+  "generation": "c7_2024",
+  "source": "kb",
+  "ingested_from": "omoda/c7",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "C7 2024+"
+}

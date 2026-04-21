@@ -1,0 +1,10 @@
+{
+  "brand": "audi",
+  "model": "a1",
+  "generation": "a1_2008",
+  "source": "kb",
+  "ingested_from": "audi/a1",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2008
+}

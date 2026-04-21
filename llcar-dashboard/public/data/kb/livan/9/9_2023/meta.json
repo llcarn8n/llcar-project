@@ -1,0 +1,10 @@
+{
+  "brand": "livan",
+  "model": "9",
+  "generation": "9_2023",
+  "source": "kb",
+  "ingested_from": "livan/9",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2023
+}

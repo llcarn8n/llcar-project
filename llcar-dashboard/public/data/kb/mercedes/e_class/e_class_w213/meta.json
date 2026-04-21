@@ -1,0 +1,13 @@
+{
+  "brand": "mercedes",
+  "model": "e_class",
+  "generation": "e_class_w213",
+  "source": "kb",
+  "ingested_from": "mercedes_benz/e_class_w213",
+  "ingested_at": "2026-04-21",
+  "h34_note": "W213: 2016-2023",
+  "brand_alias": {
+    "src": "mercedes_benz",
+    "dst": "mercedes"
+  }
+}

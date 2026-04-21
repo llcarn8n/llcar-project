@@ -1,0 +1,10 @@
+{
+  "brand": "volvo",
+  "model": "xc90",
+  "generation": "xc90_2002",
+  "source": "kb",
+  "ingested_from": "volvo/xc90",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2002
+}

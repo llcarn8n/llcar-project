@@ -1,0 +1,8 @@
+{
+  "brand": "mitsubishi",
+  "model": "outlander",
+  "generation": "outlander_2000",
+  "source": "kb",
+  "ingested_from": "mitsubishi/outlander",
+  "restored_post2001_rule": true
+}

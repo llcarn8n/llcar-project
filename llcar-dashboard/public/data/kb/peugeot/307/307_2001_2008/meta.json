@@ -1,0 +1,10 @@
+{
+  "brand": "peugeot",
+  "model": "307",
+  "generation": "307_2001_2008",
+  "source": "kb",
+  "ingested_from": "peugeot/peugeot_307_2001_2008",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:307"
+}

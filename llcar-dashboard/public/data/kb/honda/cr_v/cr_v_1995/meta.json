@@ -1,0 +1,8 @@
+{
+  "brand": "honda",
+  "model": "cr_v",
+  "generation": "cr_v_1995",
+  "source": "kb",
+  "ingested_from": "honda/cr_v",
+  "restored_post2001_rule": true
+}

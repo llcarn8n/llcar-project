@@ -1,0 +1,9 @@
+{
+  "brand": "fiat",
+  "model": "grande_punto",
+  "generation": "grande_punto_2005",
+  "source": "kb",
+  "ingested_from": "fiat/grande_punto",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "199 2005-2018"
+}

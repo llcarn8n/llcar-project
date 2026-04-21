@@ -1,0 +1,10 @@
+{
+  "brand": "opel",
+  "model": "meriva",
+  "generation": "meriva_2011",
+  "source": "kb",
+  "ingested_from": "opel/meriva",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2011
+}

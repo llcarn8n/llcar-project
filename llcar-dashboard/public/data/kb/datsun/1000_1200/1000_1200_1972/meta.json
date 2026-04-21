@@ -1,0 +1,10 @@
+{
+  "brand": "datsun",
+  "model": "1000_1200",
+  "generation": "1000_1200_1972",
+  "source": "kb",
+  "ingested_from": "datsun/datsun_1000_1200_1972",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "year-suffix"
+}

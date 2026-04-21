@@ -1,0 +1,9 @@
+{
+  "brand": "hongqi",
+  "model": "hq9",
+  "generation": "hq9_2022",
+  "source": "kb",
+  "ingested_from": "hongqi/hongqi_hq9",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "HQ9 2022+"
+}

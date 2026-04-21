@@ -1,0 +1,8 @@
+{
+  "brand": "toyota",
+  "model": "land_cruiser",
+  "generation": "land_cruiser_prado",
+  "source": "kb",
+  "ingested_from": "toyota/land_cruiser_prado",
+  "ingested_at": "2026-04-21"
+}

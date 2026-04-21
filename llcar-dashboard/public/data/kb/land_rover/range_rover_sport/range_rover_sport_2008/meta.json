@@ -1,0 +1,10 @@
+{
+  "brand": "land_rover",
+  "model": "range_rover_sport",
+  "generation": "range_rover_sport_2008",
+  "source": "kb",
+  "ingested_from": "land_rover/range_rover_sport",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2008
+}

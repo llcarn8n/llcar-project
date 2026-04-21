@@ -1,0 +1,10 @@
+{
+  "brand": "toyota",
+  "model": "yaris",
+  "generation": "yaris_2005",
+  "source": "kb",
+  "ingested_from": "toyota/yaris",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2005
+}

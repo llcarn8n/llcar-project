@@ -1,0 +1,10 @@
+{
+  "brand": "haval",
+  "model": "h9",
+  "generation": "h9_2024",
+  "source": "kb",
+  "ingested_from": "haval/h9",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2024
+}

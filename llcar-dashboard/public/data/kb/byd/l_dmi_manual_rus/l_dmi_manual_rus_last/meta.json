@@ -1,0 +1,10 @@
+{
+  "brand": "byd",
+  "model": "l_dmi_manual_rus",
+  "generation": "l_dmi_manual_rus_last",
+  "source": "kb",
+  "ingested_from": "byd/l_dmi_manual_rus_last",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "code-suffix"
+}

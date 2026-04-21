@@ -1,0 +1,8 @@
+{
+  "brand": "jeep",
+  "model": "grand_cherokee",
+  "generation": "grand_cherokee_1993",
+  "source": "kb",
+  "ingested_from": "jeep/grand_cherokee",
+  "restored_post2001_rule": true
+}

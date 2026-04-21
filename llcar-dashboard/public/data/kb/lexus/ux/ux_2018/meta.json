@@ -1,0 +1,9 @@
+{
+  "brand": "lexus",
+  "model": "ux",
+  "generation": "ux_2018",
+  "source": "kb",
+  "ingested_from": "lexus/ux",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "UX 2018+"
+}

@@ -1,0 +1,10 @@
+{
+  "brand": "volvo",
+  "model": "s40",
+  "generation": "s40_2001",
+  "source": "kb",
+  "ingested_from": "volvo/s40",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2001
+}

@@ -1,0 +1,9 @@
+{
+  "brand": "subaru",
+  "model": "legacy",
+  "generation": "legacy_bp_2003",
+  "source": "kb",
+  "ingested_from": "subaru/legacy",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "BP 2003-2009"
+}

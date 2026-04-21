@@ -1,0 +1,10 @@
+{
+  "brand": "lada",
+  "model": "kalina",
+  "generation": "kalina_2004",
+  "source": "kb",
+  "ingested_from": "lada/kalina",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2004
+}

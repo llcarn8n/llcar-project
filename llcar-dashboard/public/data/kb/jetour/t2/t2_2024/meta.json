@@ -1,0 +1,10 @@
+{
+  "brand": "jetour",
+  "model": "t2",
+  "generation": "t2_2024",
+  "source": "kb",
+  "ingested_from": "jetour/t2",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2024
+}

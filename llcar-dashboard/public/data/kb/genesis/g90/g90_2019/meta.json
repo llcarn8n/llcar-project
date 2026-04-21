@@ -1,0 +1,10 @@
+{
+  "brand": "genesis",
+  "model": "g90",
+  "generation": "g90_2019",
+  "source": "kb",
+  "ingested_from": "genesis/g90",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2019
+}

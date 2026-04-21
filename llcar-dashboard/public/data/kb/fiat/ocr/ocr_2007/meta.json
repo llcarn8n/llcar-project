@@ -1,0 +1,10 @@
+{
+  "brand": "fiat",
+  "model": "ocr",
+  "generation": "ocr_2007",
+  "source": "kb",
+  "ingested_from": "fiat/ocr",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2007
+}

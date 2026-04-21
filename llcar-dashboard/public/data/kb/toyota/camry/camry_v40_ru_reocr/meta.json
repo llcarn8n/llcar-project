@@ -1,0 +1,8 @@
+{
+  "brand": "toyota",
+  "model": "camry",
+  "generation": "camry_v40_ru_reocr",
+  "source": "kb",
+  "ingested_from": "toyota/camry_v40_ru_reocr",
+  "ingested_at": "2026-04-21"
+}

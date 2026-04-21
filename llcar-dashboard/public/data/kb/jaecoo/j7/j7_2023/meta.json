@@ -1,0 +1,10 @@
+{
+  "brand": "jaecoo",
+  "model": "j7",
+  "generation": "j7_2023",
+  "source": "kb",
+  "ingested_from": "jaecoo/j7",
+  "ingested_at": "2026-04-21",
+  "fixed_by": "s27_apply_deep_findings",
+  "inferred_year": 2023
+}

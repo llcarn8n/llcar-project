@@ -1,0 +1,10 @@
+{
+  "brand": "chery",
+  "model": "qq",
+  "generation": "qq_s11",
+  "source": "kb",
+  "ingested_from": "chery/qq_s11",
+  "ingested_at": "2026-04-21",
+  "h33_decision": "create_new_model",
+  "h33_reason": "known-prefix:qq"
+}

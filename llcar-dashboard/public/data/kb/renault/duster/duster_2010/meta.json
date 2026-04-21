@@ -1,0 +1,8 @@
+{
+  "brand": "renault",
+  "model": "duster",
+  "generation": "duster_2010",
+  "source": "kb",
+  "ingested_from": "renault/duster_ru",
+  "ingested_at": "2026-04-21"
+}

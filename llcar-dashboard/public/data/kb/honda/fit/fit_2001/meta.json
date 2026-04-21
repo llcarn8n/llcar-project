@@ -1,0 +1,10 @@
+{
+  "brand": "honda",
+  "model": "fit",
+  "generation": "fit_2001",
+  "source": "kb",
+  "ingested_from": "honda/fit",
+  "ingested_at": "2026-04-21",
+  "h33_fallback": true,
+  "extracted_year": 2001
+}

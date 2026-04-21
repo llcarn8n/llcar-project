@@ -1,0 +1,9 @@
+{
+  "brand": "jac",
+  "model": "s5",
+  "generation": "s5_2013",
+  "source": "kb",
+  "ingested_from": "jac/jac_s5_ru_manual",
+  "ingested_at": "2026-04-21",
+  "h33_manual_map": "S5 RU manual (duplicate)"
+}
