@@ -1,0 +1,2695 @@
+{
+ "version": "1.0",
+ "model": "crosstour",
+ "manuals": [
+  {
+   "model": "crosstour",
+   "label": {
+    "ru": "Honda Crosstour — Руководство по ремонту",
+    "en": "Honda Crosstour — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "honda_crosstour_engine_t000_1f88af98",
+       "title": {
+        "ru": "Active Control Engine Mount (ACM) System",
+        "en": "Active Control Engine Mount (ACM) System"
+       },
+       "words": 25,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "honda_crosstour_brakes_t000_40092607",
+       "title": {
+        "ru": "A/T Gear Position Indicator Panel Assembly Replacement",
+        "en": "A/T Gear Position Indicator Panel Assembly Replacement"
+       },
+       "words": 743,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_crosstour_brakes_t001_f859007b",
+       "title": {
+        "ru": "EBD (Electronic Brake Distribution) Features",
+        "en": "EBD (Electronic Brake Distribution) Features"
+       },
+       "words": 1492,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_crosstour_brakes_t002_338efb57",
+       "title": {
+        "ru": "ABS indicator, brake system indicator, and VSA indicator do not go off",
+        "en": "ABS indicator, brake system indicator, and VSA indicator do not go off"
+       },
+       "words": 942,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_crosstour_brakes_t003_b1010fa1",
+       "title": {
+        "ru": "ABS indicator, brake system indicator, and VSA indicator do not go off",
+        "en": "ABS indicator, brake system indicator, and VSA indicator do not go off"
+       },
+       "words": 1046,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_crosstour_brakes_t004_3a338c7b",
+       "title": {
+        "ru": "ABS indicator, brake system indicator, and VSA indicator do not go off",
+        "en": "ABS indicator, brake system indicator, and VSA indicator do not go off"
+       },
+       "words": 561,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "honda_crosstour_suspension_t000_d539c4af",
+       "title": {
+        "ru": "Spring-Loaded Lock Connector",
+        "en": "Spring-Loaded Lock Connector"
+       },
+       "words": 189,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "honda_crosstour_body_t000_f513682c",
+       "title": {
+        "ru": "UNDER-HOOD FUSE/RELAY BOX CONNECTOR D (10P)",
+        "en": "UNDER-HOOD FUSE/RELAY BOX CONNECTOR D (10P)"
+       },
+       "words": 206,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "honda_crosstour_lighting_t000_60b71ea3",
+       "title": {
+        "ru": "Valve, Spring, and Valve Seal Removal",
+        "en": "Valve, Spring, and Valve Seal Removal"
+       },
+       "words": 1504,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_crosstour_lighting_t001_4dbf40cd",
+       "title": {
+        "ru": "A/F SENSOR (SENSOR 1) 6P CONNECTOR",
+        "en": "A/F SENSOR (SENSOR 1) 6P CONNECTOR"
+       },
+       "words": 2445,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_crosstour_lighting_t002_54299235",
+       "title": {
+        "ru": "Countershaft Disassembly (cont'd)",
+        "en": "Countershaft Disassembly (cont'd)"
+       },
+       "words": 1851,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_crosstour_lighting_t003_43c23120",
+       "title": {
+        "ru": "Rapid brake pad wear, vehicle vibration (after a long drive), or high, hard brak",
+        "en": "Rapid brake pad wear, vehicle vibration (after a long drive), or high, hard brak"
+       },
+       "words": 2381,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_crosstour_lighting_t004_24b7638f",
+       "title": {
+        "ru": "How to Release Locked Odometer Mileage to the Original Gauge Control Module",
+        "en": "How to Release Locked Odometer Mileage to the Original Gauge Control Module"
+       },
+       "words": 1248,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_crosstour_lighting_t005_744f0613",
+       "title": {
+        "ru": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic",
+        "en": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic"
+       },
+       "words": 1296,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_crosstour_lighting_t006_4b647068",
+       "title": {
+        "ru": "Electronic Throttle Control System",
+        "en": "Electronic Throttle Control System"
+       },
+       "words": 2313,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_crosstour_lighting_t007_c2fcc0fc",
+       "title": {
+        "ru": "Properly installed:",
+        "en": "Properly installed:"
+       },
+       "words": 2041,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_crosstour_lighting_t008_dc5d0c8c",
+       "title": {
+        "ru": "Rapid brake pad wear, vehicle vibration (after a long drive), or high, hard brak",
+        "en": "Rapid brake pad wear, vehicle vibration (after a long drive), or high, hard brak"
+       },
+       "words": 1933,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_crosstour_lighting_t009_bd354b6a",
+       "title": {
+        "ru": "Detailed Information & Setting",
+        "en": "Detailed Information & Setting"
+       },
+       "words": 1813,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "honda_crosstour_interior_t000_71fa9073",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If automatic transmission maintenance is re",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If automatic transmission maintenance is re"
+       },
+       "words": 2221,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t001_840d5a53",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If Audio, Navigation, and Telematics mainte",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If Audio, Navigation, and Telematics mainte"
+       },
+       "words": 2317,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t002_bbdcf1a8",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation",
+        "en": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation"
+       },
+       "words": 724,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t003_a8d30d76",
+       "title": {
+        "ru": "Driver's and Front Passenger's Airbag(s)",
+        "en": "Driver's and Front Passenger's Airbag(s)"
+       },
+       "words": 1129,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t004_d1086a0e",
+       "title": {
+        "ru": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 1322,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t005_bf06f0f6",
+       "title": {
+        "ru": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 769,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t006_3c3df3cf",
+       "title": {
+        "ru": "DTC 33-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 33-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 734,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t007_4faf27ae",
+       "title": {
+        "ru": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 1140,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t008_db6abf38",
+       "title": {
+        "ru": "Checking and Adjusting the Headliner/Pillar Trim Overlap",
+        "en": "Checking and Adjusting the Headliner/Pillar Trim Overlap"
+       },
+       "words": 946,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t009_81a76033",
+       "title": {
+        "ru": "Deploying Components Out of the Vehicle Disposal of Damaged Components",
+        "en": "Deploying Components Out of the Vehicle Disposal of Damaged Components"
+       },
+       "words": 1361,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t010_8742889c",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If automatic transmission maintenance is re",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If automatic transmission maintenance is re"
+       },
+       "words": 2309,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t011_596ac591",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If Audio, Navigation, and Telematics mainte",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If Audio, Navigation, and Telematics mainte"
+       },
+       "words": 1681,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t012_5e47642d",
+       "title": {
+        "ru": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 979,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t013_fe4359d9",
+       "title": {
+        "ru": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 713,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t014_bf2cea1d",
+       "title": {
+        "ru": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 650,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t015_0ab01d9d",
+       "title": {
+        "ru": "DTC 34-9x (\"x\" can be 0 thru 9 or A thru F): Short to Ground in the Right Side C",
+        "en": "DTC 34-9x (\"x\" can be 0 thru 9 or A thru F): Short to Ground in the Right Side C"
+       },
+       "words": 1219,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t016_5165894c",
+       "title": {
+        "ru": "Deploying Airbags in the Vehicle",
+        "en": "Deploying Airbags in the Vehicle"
+       },
+       "words": 1372,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t017_ca7de31d",
+       "title": {
+        "ru": "Deploying Components Out of the Vehicle Disposal of Damaged Components",
+        "en": "Deploying Components Out of the Vehicle Disposal of Damaged Components"
+       },
+       "words": 1235,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t018_2db9232f",
+       "title": {
+        "ru": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 876,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t019_326f4f6f",
+       "title": {
+        "ru": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 891,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t020_674e36f4",
+       "title": {
+        "ru": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 1174,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t021_87732f10",
+       "title": {
+        "ru": "Front Passenger's Airbag Replacement (cont'd)",
+        "en": "Front Passenger's Airbag Replacement (cont'd)"
+       },
+       "words": 868,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t022_408fd2b9",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation",
+        "en": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation"
+       },
+       "words": 1181,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t023_41eda139",
+       "title": {
+        "ru": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 1028,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t024_86926dbe",
+       "title": {
+        "ru": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 987,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t025_a4d5001e",
+       "title": {
+        "ru": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 1383,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t026_93cc3ce6",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator Replacement",
+        "en": "Passenger's Airbag Cutoff Indicator Replacement"
+       },
+       "words": 1204,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t027_ff08db4f",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation",
+        "en": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation"
+       },
+       "words": 1302,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t028_9122c8ea",
+       "title": {
+        "ru": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 1106,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t029_28ff449f",
+       "title": {
+        "ru": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 1189,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t030_abe19b37",
+       "title": {
+        "ru": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 1448,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t031_c6375ba1",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator Replacement",
+        "en": "Passenger's Airbag Cutoff Indicator Replacement"
+       },
+       "words": 985,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_crosstour_interior_t032_17975042",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 85,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "honda_crosstour_ev_t000_2d3656a9",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 94,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "honda_crosstour_general_t000_9549bc21",
+       "title": {
+        "ru": "Automatic Transmission and A/T Differential (cont'd)",
+        "en": "Automatic Transmission and A/T Differential (cont'd)"
+       },
+       "words": 5279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t001_208afe9c",
+       "title": {
+        "ru": "DTC P15AB: Engine Mount Control Unit Power Source Circuit Low Voltage",
+        "en": "DTC P15AB: Engine Mount Control Unit Power Source Circuit Low Voltage"
+       },
+       "words": 11052,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t002_8d225a71",
+       "title": {
+        "ru": "DTC P16C6: Engine Mount Actuator High Voltage During Function Test",
+        "en": "DTC P16C6: Engine Mount Actuator High Voltage During Function Test"
+       },
+       "words": 11945,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t003_07394d16",
+       "title": {
+        "ru": "Low oil pressure indicator does not come 'on with the ignition switch in ON (Il)",
+        "en": "Low oil pressure indicator does not come 'on with the ignition switch in ON (Il)"
+       },
+       "words": 12648,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t004_e08cac6b",
+       "title": {
+        "ru": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)",
+        "en": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)"
+       },
+       "words": 6787,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t005_81aebd25",
+       "title": {
+        "ru": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)",
+        "en": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)"
+       },
+       "words": 19264,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t006_25ff0332",
+       "title": {
+        "ru": "DTC P050B: Cold Start Ignition Timing Control System Performance Problem",
+        "en": "DTC P050B: Cold Start Ignition Timing Control System Performance Problem"
+       },
+       "words": 22648,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t007_7a3eec64",
+       "title": {
+        "ru": "DTC P2649: Rocker Arm Oil Control Solenoid A (Bank 1) Circuit High Voltage",
+        "en": "DTC P2649: Rocker Arm Oil Control Solenoid A (Bank 1) Circuit High Voltage"
+       },
+       "words": 14751,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t008_a8907ced",
+       "title": {
+        "ru": "DTC P0462: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit Low Voltage0 (2WD",
+        "en": "DTC P0462: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit Low Voltage0 (2WD"
+       },
+       "words": 14697,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t009_78f59573",
+       "title": {
+        "ru": "Secondary Fuel Gauge Sending Unit Removal and Installation (cont'd)",
+        "en": "Secondary Fuel Gauge Sending Unit Removal and Installation (cont'd)"
+       },
+       "words": 15765,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t010_e3ee7bb4",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 12713,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t011_b6e89961",
+       "title": {
+        "ru": "DTC P0843: Open in Transmission Fluid Pressure Switch A (2nd Clutch) Circuit, or",
+        "en": "DTC P0843: Open in Transmission Fluid Pressure Switch A (2nd Clutch) Circuit, or"
+       },
+       "words": 23384,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t012_a0a95427",
+       "title": {
+        "ru": "DTC P0848: Open in Transmission Fluid Pressure Switch B (3rd Clutch) Circuit, or",
+        "en": "DTC P0848: Open in Transmission Fluid Pressure Switch B (3rd Clutch) Circuit, or"
+       },
+       "words": 23538,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t013_338c634d",
+       "title": {
+        "ru": "Countershaft Idler Gear and 4th Gear Axial Clearance Inspection (cont'd)",
+        "en": "Countershaft Idler Gear and 4th Gear Axial Clearance Inspection (cont'd)"
+       },
+       "words": 16357,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t014_afaf860e",
+       "title": {
+        "ru": "Differential Carrier, Final Driven Gear, and Transfer Drive Gear Replacement",
+        "en": "Differential Carrier, Final Driven Gear, and Transfer Drive Gear Replacement"
+       },
+       "words": 12666,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t015_93e080e7",
+       "title": {
+        "ru": "Power Steering Hose, Line, and Pressure Switch Replacement",
+        "en": "Power Steering Hose, Line, and Pressure Switch Replacement"
+       },
+       "words": 17047,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t016_86b8193a",
+       "title": {
+        "ru": "Low tire pressure indicator does not come on, and no DTCs are stored",
+        "en": "Low tire pressure indicator does not come on, and no DTCs are stored"
+       },
+       "words": 13850,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t017_e347005e",
+       "title": {
+        "ru": "VSA Modulator-Control Unit Inputs and Outputs for 22P Connector (Connector Disco",
+        "en": "VSA Modulator-Control Unit Inputs and Outputs for 22P Connector (Connector Disco"
+       },
+       "words": 14820,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t018_f2f0410c",
+       "title": {
+        "ru": "\" Portions of materials contained herein have been reprinted under license from ",
+        "en": "\" Portions of materials contained herein have been reprinted under license from "
+       },
+       "words": 13563,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t019_1eb3f749",
+       "title": {
+        "ru": "Drain Channel Slider and Cable Assembly Replacement (cont'd)",
+        "en": "Drain Channel Slider and Cable Assembly Replacement (cont'd)"
+       },
+       "words": 13901,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t020_d8c18144",
+       "title": {
+        "ru": "Dashboard/Steering Hanger Beam Removal/Installation (cont'd)",
+        "en": "Dashboard/Steering Hanger Beam Removal/Installation (cont'd)"
+       },
+       "words": 12775,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t021_1583d924",
+       "title": {
+        "ru": "Front Grille Replacement (cont'd) Front Fender Trim Replacement",
+        "en": "Front Grille Replacement (cont'd) Front Fender Trim Replacement"
+       },
+       "words": 9668,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t022_2320cfb2",
+       "title": {
+        "ru": "DTC B1238 or DTC indicator F and A/C ON: A Problem in the Passenger's Air Mix Co",
+        "en": "DTC B1238 or DTC indicator F and A/C ON: A Problem in the Passenger's Air Mix Co"
+       },
+       "words": 11175,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t023_acb381a8",
+       "title": {
+        "ru": "DTC B2986 or DTC indicator K and A/C ON: An Open in the Recirculation Control Mo",
+        "en": "DTC B2986 or DTC indicator K and A/C ON: An Open in the Recirculation Control Mo"
+       },
+       "words": 10982,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t024_4cec5973",
+       "title": {
+        "ru": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating ",
+        "en": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating "
+       },
+       "words": 10049,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t025_2a67e477",
+       "title": {
+        "ru": "NOTE: Record allDTCs, and sort them by DTC type using the following DTC troubles",
+        "en": "NOTE: Record allDTCs, and sort them by DTC type using the following DTC troubles"
+       },
+       "words": 7139,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t026_64bee001",
+       "title": {
+        "ru": "Doors will not unlock (or lock) with the transmitter, but will unlock (or lock) ",
+        "en": "Doors will not unlock (or lock) with the transmitter, but will unlock (or lock) "
+       },
+       "words": 12197,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t027_1807d9db",
+       "title": {
+        "ru": "DTC U0199: Immobilizer-Keyless Control Unit Lost Communication With Door Multipl",
+        "en": "DTC U0199: Immobilizer-Keyless Control Unit Lost Communication With Door Multipl"
+       },
+       "words": 10655,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t028_006a4206",
+       "title": {
+        "ru": "DTC U0155: Door Multiplex Control Unit Lost Communication With Gauge Control Mod",
+        "en": "DTC U0155: Door Multiplex Control Unit Lost Communication With Gauge Control Mod"
+       },
+       "words": 9692,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t029_f493591c",
+       "title": {
+        "ru": "DTC U0151: Gauge Control Module Lost Communication With SRS Unit (SRS Message)",
+        "en": "DTC U0151: Gauge Control Module Lost Communication With SRS Unit (SRS Message)"
+       },
+       "words": 11376,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t030_f3fcef92",
+       "title": {
+        "ru": "DTC U128D: Power Seat Control Unit Lost Communication With Gauge Control Module ",
+        "en": "DTC U128D: Power Seat Control Unit Lost Communication With Gauge Control Module "
+       },
+       "words": 11948,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t031_bec29797",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 10068,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t032_f930c396",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 14549,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t033_946f0375",
+       "title": {
+        "ru": "The gas station on my corner is now a restaurant. Why is it still incorrect in t",
+        "en": "The gas station on my corner is now a restaurant. Why is it still incorrect in t"
+       },
+       "words": 10677,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t034_f64c9ac4",
+       "title": {
+        "ru": "Front HFL-Navigation-ANC/Active Sound Control Microphone Inputs and Outputs for ",
+        "en": "Front HFL-Navigation-ANC/Active Sound Control Microphone Inputs and Outputs for "
+       },
+       "words": 13788,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t035_9854dd28",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 13211,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t036_80d183bd",
+       "title": {
+        "ru": "DTC 22-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 22-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 14588,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t037_1e526888",
+       "title": {
+        "ru": "DTC 51-xx, 52-xx, 53-xx, 54-xx, 55-xx, 57-xx, 58-xx (\"x\" can be 0 thru 9 or A th",
+        "en": "DTC 51-xx, 52-xx, 53-xx, 54-xx, 55-xx, 57-xx, 58-xx (\"x\" can be 0 thru 9 or A th"
+       },
+       "words": 18148,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t038_9c2eac9b",
+       "title": {
+        "ru": "DTC 15-3x (\"x\" can be 0 thru 9 or A thru F): Internal Failure of the Front Passe",
+        "en": "DTC 15-3x (\"x\" can be 0 thru 9 or A thru F): Internal Failure of the Front Passe"
+       },
+       "words": 18048,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t039_846147fc",
+       "title": {
+        "ru": "Automatic Transmission and A/T Differential (cont'd)",
+        "en": "Automatic Transmission and A/T Differential (cont'd)"
+       },
+       "words": 7009,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t040_f25a8e7a",
+       "title": {
+        "ru": "DTC P15AB: Engine Mount Control Unit Power Source Circuit Low Voltage",
+        "en": "DTC P15AB: Engine Mount Control Unit Power Source Circuit Low Voltage"
+       },
+       "words": 12738,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t041_65aa19db",
+       "title": {
+        "ru": "DTC P16C6: Engine Mount Actuator High Voltage During Function Test",
+        "en": "DTC P16C6: Engine Mount Actuator High Voltage During Function Test"
+       },
+       "words": 13530,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t042_42c96337",
+       "title": {
+        "ru": "Low oil pressure indicator does not come 'on with the ignition switch in ON (Il)",
+        "en": "Low oil pressure indicator does not come 'on with the ignition switch in ON (Il)"
+       },
+       "words": 13932,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t043_cc223885",
+       "title": {
+        "ru": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)",
+        "en": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)"
+       },
+       "words": 9125,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t044_9bcc9b88",
+       "title": {
+        "ru": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)",
+        "en": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)"
+       },
+       "words": 20480,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t045_29781fbd",
+       "title": {
+        "ru": "DTC P050B: Cold Start Ignition Timing Control System Performance Problem",
+        "en": "DTC P050B: Cold Start Ignition Timing Control System Performance Problem"
+       },
+       "words": 24346,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t046_d74d100f",
+       "title": {
+        "ru": "DTC P2648: Rocker Arm Oil Control Solenoid A (Bank 1) Circuit Low Voltage",
+        "en": "DTC P2648: Rocker Arm Oil Control Solenoid A (Bank 1) Circuit Low Voltage"
+       },
+       "words": 15590,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t047_dfa82ac9",
+       "title": {
+        "ru": "DTC P0462: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit Low Voltage0 (2WD",
+        "en": "DTC P0462: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit Low Voltage0 (2WD"
+       },
+       "words": 17424,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t048_57708c1e",
+       "title": {
+        "ru": "Secondary Fuel Gauge Sending Unit Removal and Installation (cont'd)",
+        "en": "Secondary Fuel Gauge Sending Unit Removal and Installation (cont'd)"
+       },
+       "words": 15004,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t049_1004199d",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 16909,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t050_4bf48aa9",
+       "title": {
+        "ru": "DTC P0717: Problem in Input Shaft (Mainshaft) Speed Sensor Circuit (No Signal in",
+        "en": "DTC P0717: Problem in Input Shaft (Mainshaft) Speed Sensor Circuit (No Signal in"
+       },
+       "words": 20379,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t051_015d4fb6",
+       "title": {
+        "ru": "DTC P0843: Open in Transmission Fluid Pressure Switch A (2nd Clutch) Circuit, or",
+        "en": "DTC P0843: Open in Transmission Fluid Pressure Switch A (2nd Clutch) Circuit, or"
+       },
+       "words": 28034,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t052_ff2cd9c7",
+       "title": {
+        "ru": "Countershaft Idler Gear and 4th Gear Axial Clearance Inspection (cont'd)",
+        "en": "Countershaft Idler Gear and 4th Gear Axial Clearance Inspection (cont'd)"
+       },
+       "words": 18910,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t053_e06cb268",
+       "title": {
+        "ru": "Differential Carrier, Final Driven Gear, and Transfer Drive Gear Replacement",
+        "en": "Differential Carrier, Final Driven Gear, and Transfer Drive Gear Replacement"
+       },
+       "words": 14951,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t054_f27363c2",
+       "title": {
+        "ru": "Power Steering Hose, Line, and Pressure Switch Replacement",
+        "en": "Power Steering Hose, Line, and Pressure Switch Replacement"
+       },
+       "words": 18793,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t055_3e8635df",
+       "title": {
+        "ru": "Stabilizer Link Removal/Installation Stabilizer Bar Replacement",
+        "en": "Stabilizer Link Removal/Installation Stabilizer Bar Replacement"
+       },
+       "words": 14500,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t056_35cf4673",
+       "title": {
+        "ru": "VSA Modulator-Control Unit Inputs and Outputs for 22P Connector (Connector Disco",
+        "en": "VSA Modulator-Control Unit Inputs and Outputs for 22P Connector (Connector Disco"
+       },
+       "words": 14939,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t057_67a24c35",
+       "title": {
+        "ru": "DTC 66-11: Pressure Sensor (Inside of VSA Modulator-Control Unit) Malfunction",
+        "en": "DTC 66-11: Pressure Sensor (Inside of VSA Modulator-Control Unit) Malfunction"
+       },
+       "words": 18933,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t058_a1ae2639",
+       "title": {
+        "ru": "\" Portions of materials contained herein have been reprinted under license from ",
+        "en": "\" Portions of materials contained herein have been reprinted under license from "
+       },
+       "words": 14637,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t059_872ff40d",
+       "title": {
+        "ru": "Drain Channel Slider and Cable Assembly Replacement (cont'd)",
+        "en": "Drain Channel Slider and Cable Assembly Replacement (cont'd)"
+       },
+       "words": 15660,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t060_d9fe7733",
+       "title": {
+        "ru": "Front Grille Replacement (cont'd) Front Fender Trim Replacement",
+        "en": "Front Grille Replacement (cont'd) Front Fender Trim Replacement"
+       },
+       "words": 11689,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t061_2f738b28",
+       "title": {
+        "ru": "DTC B1227 or DTC indicator C and AUTO: An Open in the Outside Air Temperature Se",
+        "en": "DTC B1227 or DTC indicator C and AUTO: An Open in the Outside Air Temperature Se"
+       },
+       "words": 11972,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t062_cf27ea9d",
+       "title": {
+        "ru": "DTC B1238 or DTC indicator F and A/C ON: A Problem in the Passenger's Air Mix Co",
+        "en": "DTC B1238 or DTC indicator F and A/C ON: A Problem in the Passenger's Air Mix Co"
+       },
+       "words": 12520,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t063_9547a95b",
+       "title": {
+        "ru": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating ",
+        "en": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating "
+       },
+       "words": 14837,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t064_4766f39c",
+       "title": {
+        "ru": "Windshield wiper motor relay and windshield wiper intermittent relay:",
+        "en": "Windshield wiper motor relay and windshield wiper intermittent relay:"
+       },
+       "words": 9218,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t065_c3047716",
+       "title": {
+        "ru": "NOTE: Record allDTCs, and sort them by DTC type using the following DTC troubles",
+        "en": "NOTE: Record allDTCs, and sort them by DTC type using the following DTC troubles"
+       },
+       "words": 11563,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t066_d2813526",
+       "title": {
+        "ru": "DTC U0199: Immobilizer-Keyless Control Unit Lost Communication With Door Multipl",
+        "en": "DTC U0199: Immobilizer-Keyless Control Unit Lost Communication With Door Multipl"
+       },
+       "words": 11632,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t067_787ee74a",
+       "title": {
+        "ru": "DTC U0155: Door Multiplex Control Unit Lost Communication With Gauge Control Mod",
+        "en": "DTC U0155: Door Multiplex Control Unit Lost Communication With Gauge Control Mod"
+       },
+       "words": 11609,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t068_2a2f3c2b",
+       "title": {
+        "ru": "DTC U1282: Door Multiplex Control Unit Lost Communication With Driver's MICU",
+        "en": "DTC U1282: Door Multiplex Control Unit Lost Communication With Driver's MICU"
+       },
+       "words": 11936,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t069_2fb5449c",
+       "title": {
+        "ru": "DTC U0151: Gauge Control Module Lost Communication With SRS Unit (SRS Message)",
+        "en": "DTC U0151: Gauge Control Module Lost Communication With SRS Unit (SRS Message)"
+       },
+       "words": 12243,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t070_b0aac2f3",
+       "title": {
+        "ru": "DTC U128D: Power Seat Control Unit Lost Communication With Gauge Control Module ",
+        "en": "DTC U128D: Power Seat Control Unit Lost Communication With Gauge Control Module "
+       },
+       "words": 14034,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t071_70502757",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 14483,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t072_04daf846",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 14811,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t073_9ce3339c",
+       "title": {
+        "ru": "The gas station on my corner is now a restaurant. Why is it still incorrect in t",
+        "en": "The gas station on my corner is now a restaurant. Why is it still incorrect in t"
+       },
+       "words": 11622,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t074_f536c8c0",
+       "title": {
+        "ru": "Vehicle icon wanders across the map when driving (does not follow a displayed ro",
+        "en": "Vehicle icon wanders across the map when driving (does not follow a displayed ro"
+       },
+       "words": 17104,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t075_e63ed842",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 14349,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t076_bff7b20a",
+       "title": {
+        "ru": "DTC 22-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 22-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 19469,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t077_ff7c1d3f",
+       "title": {
+        "ru": "DTC 51-xx, 52-xx, 53-xx, 54-xx, 55-xx, 57-xx, 58-xx (\"x\" can be 0 thru 9 or A th",
+        "en": "DTC 51-xx, 52-xx, 53-xx, 54-xx, 55-xx, 57-xx, 58-xx (\"x\" can be 0 thru 9 or A th"
+       },
+       "words": 19535,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t078_3b41b44f",
+       "title": {
+        "ru": "DTC 15-3x (\"x\" can be 0 thru 9 or A thru F): Internal Failure of the Front Passe",
+        "en": "DTC 15-3x (\"x\" can be 0 thru 9 or A thru F): Internal Failure of the Front Passe"
+       },
+       "words": 17169,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t079_d70f6354",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS (If engine electrical maintenance is required",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS (If engine electrical maintenance is required"
+       },
+       "words": 9683,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t080_807a71f9",
+       "title": {
+        "ru": "DTC P15AB: Engine Mount Control Unit Power Source Circuit Low Voltage",
+        "en": "DTC P15AB: Engine Mount Control Unit Power Source Circuit Low Voltage"
+       },
+       "words": 13920,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t081_ae14472f",
+       "title": {
+        "ru": "Timing Belt Replacement (cont'd) Timing Belt Adjuster Replacement",
+        "en": "Timing Belt Replacement (cont'd) Timing Belt Adjuster Replacement"
+       },
+       "words": 16704,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t082_454590ae",
+       "title": {
+        "ru": "Low oil pressure indicator does not come 'on with the ignition switch in ON (Il)",
+        "en": "Low oil pressure indicator does not come 'on with the ignition switch in ON (Il)"
+       },
+       "words": 14725,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t083_6df9c2ff",
+       "title": {
+        "ru": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)",
+        "en": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)"
+       },
+       "words": 9993,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t084_e704e261",
+       "title": {
+        "ru": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)",
+        "en": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)"
+       },
+       "words": 23284,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t085_fd859dd3",
+       "title": {
+        "ru": "DTC P050B: Cold Start Ignition Timing Control System Performance Problem",
+        "en": "DTC P050B: Cold Start Ignition Timing Control System Performance Problem"
+       },
+       "words": 25551,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t086_223ab9ed",
+       "title": {
+        "ru": "DTC P2649: Rocker Arm Oil Control Solenoid A (Bank 1) Circuit High Voltage",
+        "en": "DTC P2649: Rocker Arm Oil Control Solenoid A (Bank 1) Circuit High Voltage"
+       },
+       "words": 19254,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t087_459ebbed",
+       "title": {
+        "ru": "DTC P0462: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit Low Voltage0 (2WD",
+        "en": "DTC P0462: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit Low Voltage0 (2WD"
+       },
+       "words": 17997,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t088_241f68f0",
+       "title": {
+        "ru": "Secondary Fuel Gauge Sending Unit Removal and Installation (cont'd)",
+        "en": "Secondary Fuel Gauge Sending Unit Removal and Installation (cont'd)"
+       },
+       "words": 17796,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t089_266a80fc",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If automatic transmission maintenance is re",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If automatic transmission maintenance is re"
+       },
+       "words": 17250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t090_6c748d50",
+       "title": {
+        "ru": "DTC P0717: Problem in Input Shaft (Mainshaft) Speed Sensor Circuit (No Signal in",
+        "en": "DTC P0717: Problem in Input Shaft (Mainshaft) Speed Sensor Circuit (No Signal in"
+       },
+       "words": 24279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t091_547e96a3",
+       "title": {
+        "ru": "DTC P0843: Open in Transmission Fluid Pressure Switch A (2nd Clutch) Circuit, or",
+        "en": "DTC P0843: Open in Transmission Fluid Pressure Switch A (2nd Clutch) Circuit, or"
+       },
+       "words": 28280,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t092_dfe31a48",
+       "title": {
+        "ru": "Countershaft Idler Gear and 4th Gear Axial Clearance Inspection (cont'd)",
+        "en": "Countershaft Idler Gear and 4th Gear Axial Clearance Inspection (cont'd)"
+       },
+       "words": 20276,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t093_7ca61e71",
+       "title": {
+        "ru": "Differential Carrier, Final Driven Gear, and Transfer Drive Gear Replacement",
+        "en": "Differential Carrier, Final Driven Gear, and Transfer Drive Gear Replacement"
+       },
+       "words": 16275,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t094_1a028dcc",
+       "title": {
+        "ru": "Power Steering Hose, Line, and Pressure Switch Replacement",
+        "en": "Power Steering Hose, Line, and Pressure Switch Replacement"
+       },
+       "words": 20967,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t095_2392d2c4",
+       "title": {
+        "ru": "Stabilizer Link Removal/Installation Stabilizer Bar Replacement",
+        "en": "Stabilizer Link Removal/Installation Stabilizer Bar Replacement"
+       },
+       "words": 16703,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t096_7ffa3d3b",
+       "title": {
+        "ru": "Rapid brake pad wear, vehicle vibration (after a long drive), or high, hard brak",
+        "en": "Rapid brake pad wear, vehicle vibration (after a long drive), or high, hard brak"
+       },
+       "words": 17310,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t097_c9b27ffc",
+       "title": {
+        "ru": "VSA Modulator-Control Unit Inputs and Outputs for 22P Connector (Connector Disco",
+        "en": "VSA Modulator-Control Unit Inputs and Outputs for 22P Connector (Connector Disco"
+       },
+       "words": 20256,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t098_61afbf8c",
+       "title": {
+        "ru": "\" Portions of materials contained herein have been reprinted under license from ",
+        "en": "\" Portions of materials contained herein have been reprinted under license from "
+       },
+       "words": 15264,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t099_dcfca905",
+       "title": {
+        "ru": "Drain Channel Slider and Cable Assembly Replacement (cont'd)",
+        "en": "Drain Channel Slider and Cable Assembly Replacement (cont'd)"
+       },
+       "words": 18366,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t100_fd218fd8",
+       "title": {
+        "ru": "Front Grille Replacement (cont'd) Front Fender Trim Replacement",
+        "en": "Front Grille Replacement (cont'd) Front Fender Trim Replacement"
+       },
+       "words": 14592,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t101_3a6e2dce",
+       "title": {
+        "ru": "DTC B121B or DTC indicator H and A/C ON: A Short in the Mode Control Motor Circu",
+        "en": "DTC B121B or DTC indicator H and A/C ON: A Short in the Mode Control Motor Circu"
+       },
+       "words": 13281,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t102_639d6705",
+       "title": {
+        "ru": "DTC B1238 or DTC indicator F and A/C ON: A Problem in the Passenger's Air Mix Co",
+        "en": "DTC B1238 or DTC indicator F and A/C ON: A Problem in the Passenger's Air Mix Co"
+       },
+       "words": 14108,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t103_a62990a5",
+       "title": {
+        "ru": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating ",
+        "en": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating "
+       },
+       "words": 17003,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t104_338b8a23",
+       "title": {
+        "ru": "Windshield wiper motor relay and windshield wiper intermittent relay:",
+        "en": "Windshield wiper motor relay and windshield wiper intermittent relay:"
+       },
+       "words": 10347,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t105_da028cb2",
+       "title": {
+        "ru": "NOTE: Record allDTCs, and sort them by DTC type using the following DTC troubles",
+        "en": "NOTE: Record allDTCs, and sort them by DTC type using the following DTC troubles"
+       },
+       "words": 12068,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t106_bcf7ef09",
+       "title": {
+        "ru": "Doors will not unlock (or lock) with the transmitter, but will unlock (or lock) ",
+        "en": "Doors will not unlock (or lock) with the transmitter, but will unlock (or lock) "
+       },
+       "words": 14129,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t107_7c98451e",
+       "title": {
+        "ru": "Add and Delete Keys/Keyless Transmitters, Then Select Delete or Add Keys",
+        "en": "Add and Delete Keys/Keyless Transmitters, Then Select Delete or Add Keys"
+       },
+       "words": 12729,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t108_82c85142",
+       "title": {
+        "ru": "DTC U0155: Door Multiplex Control Unit Lost Communication With Gauge Control Mod",
+        "en": "DTC U0155: Door Multiplex Control Unit Lost Communication With Gauge Control Mod"
+       },
+       "words": 13734,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t109_8b456a17",
+       "title": {
+        "ru": "DTC U0151: Gauge Control Module Lost Communication With SRS Unit (SRS Message)",
+        "en": "DTC U0151: Gauge Control Module Lost Communication With SRS Unit (SRS Message)"
+       },
+       "words": 14484,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t110_295024b8",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If Audio, Navigation, and Telematics mainte",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If Audio, Navigation, and Telematics mainte"
+       },
+       "words": 15880,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t111_f4ece362",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 14854,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t112_15b12862",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 16807,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t113_1fe3991c",
+       "title": {
+        "ru": "The gas station on my corner is now a restaurant. Why is it still incorrect in t",
+        "en": "The gas station on my corner is now a restaurant. Why is it still incorrect in t"
+       },
+       "words": 12145,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t114_5d6e7760",
+       "title": {
+        "ru": "Vehicle icon wanders across the map when driving (does not follow a displayed ro",
+        "en": "Vehicle icon wanders across the map when driving (does not follow a displayed ro"
+       },
+       "words": 20314,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t115_a555bda5",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 15624,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t116_5c755eb2",
+       "title": {
+        "ru": "DTC 22-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 22-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 18349,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t117_dc86f9c9",
+       "title": {
+        "ru": "DTC 51-xx, 52-xx, 53-xx, 54-xx, 55-xx, 57-xx, 58-xx (\"x\" can be 0 thru 9 or A th",
+        "en": "DTC 51-xx, 52-xx, 53-xx, 54-xx, 55-xx, 57-xx, 58-xx (\"x\" can be 0 thru 9 or A th"
+       },
+       "words": 21577,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t118_29e4d06d",
+       "title": {
+        "ru": "DTC 15-3x (\"x\" can be 0 thru 9 or A thru F): Internal Failure of the Front Passe",
+        "en": "DTC 15-3x (\"x\" can be 0 thru 9 or A thru F): Internal Failure of the Front Passe"
+       },
+       "words": 21778,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t119_fbae43a6",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS (If engine electrical maintenance is required",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS (If engine electrical maintenance is required"
+       },
+       "words": 10619,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t120_0ac46071",
+       "title": {
+        "ru": "DTC P15AB: Engine Mount Control Unit Power Source Circuit Low Voltage",
+        "en": "DTC P15AB: Engine Mount Control Unit Power Source Circuit Low Voltage"
+       },
+       "words": 15703,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t121_252fbf79",
+       "title": {
+        "ru": "ENGINE MOUNT CONTROL UNIT 16P CONNECTOR Wire side of female terminals",
+        "en": "ENGINE MOUNT CONTROL UNIT 16P CONNECTOR Wire side of female terminals"
+       },
+       "words": 16489,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t122_47d8ae53",
+       "title": {
+        "ru": "Low oil pressure indicator does not come 'on with the ignition switch in ON (Il)",
+        "en": "Low oil pressure indicator does not come 'on with the ignition switch in ON (Il)"
+       },
+       "words": 18805,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t123_96e91e88",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 12704,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t124_5028acb5",
+       "title": {
+        "ru": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)",
+        "en": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)"
+       },
+       "words": 18620,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t125_19d1d166",
+       "title": {
+        "ru": "DTC P0141: Rear Secondary HO2S (Bank 1, Sensor 2) Heater Circuit Malfunction",
+        "en": "DTC P0141: Rear Secondary HO2S (Bank 1, Sensor 2) Heater Circuit Malfunction"
+       },
+       "words": 29458,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t126_11118ca6",
+       "title": {
+        "ru": "DTC P2123: APP Sensor A (TP Sensor D) Circuit High Voltage",
+        "en": "DTC P2123: APP Sensor A (TP Sensor D) Circuit High Voltage"
+       },
+       "words": 20318,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t127_52dc5217",
+       "title": {
+        "ru": "DTC P0462: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit Low Voltage0 (2WD",
+        "en": "DTC P0462: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit Low Voltage0 (2WD"
+       },
+       "words": 22673,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t128_0f2b31d0",
+       "title": {
+        "ru": "Secondary Fuel Gauge Sending Unit Removal and Installation (cont'd)",
+        "en": "Secondary Fuel Gauge Sending Unit Removal and Installation (cont'd)"
+       },
+       "words": 17101,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t129_7dcdeb56",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If automatic transmission maintenance is re",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If automatic transmission maintenance is re"
+       },
+       "words": 22046,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t130_6c79e56f",
+       "title": {
+        "ru": "NOTE: When used, \"left\" or \"right\" indicates direction on the hydraulic circuit.",
+        "en": "NOTE: When used, \"left\" or \"right\" indicates direction on the hydraulic circuit."
+       },
+       "words": 19289,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t131_96de6605",
+       "title": {
+        "ru": "DTC P0843: Open in Transmission Fluid Pressure Switch A (2nd Clutch) Circuit, or",
+        "en": "DTC P0843: Open in Transmission Fluid Pressure Switch A (2nd Clutch) Circuit, or"
+       },
+       "words": 30256,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t132_fe405579",
+       "title": {
+        "ru": "DTC P1745: Problem in Shift Control System; Servo Control Valve Stuck OFF or Ser",
+        "en": "DTC P1745: Problem in Shift Control System; Servo Control Valve Stuck OFF or Ser"
+       },
+       "words": 26656,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t133_bc6272db",
+       "title": {
+        "ru": "Differential Carrier, Final Driven Gear, and Transfer Drive Gear Replacement",
+        "en": "Differential Carrier, Final Driven Gear, and Transfer Drive Gear Replacement"
+       },
+       "words": 17161,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t134_95a3cc1c",
+       "title": {
+        "ru": "Differential Housing Assembly Removal and Installation (cont'd)",
+        "en": "Differential Housing Assembly Removal and Installation (cont'd)"
+       },
+       "words": 19282,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t135_b9d39f0a",
+       "title": {
+        "ru": "Damper/Spring Disassembly, Inspection, and Reassembly (cont'd)",
+        "en": "Damper/Spring Disassembly, Inspection, and Reassembly (cont'd)"
+       },
+       "words": 22162,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t136_69d24a86",
+       "title": {
+        "ru": "Rapid brake pad wear, vehicle vibration (after a long drive), or high, hard brak",
+        "en": "Rapid brake pad wear, vehicle vibration (after a long drive), or high, hard brak"
+       },
+       "words": 19629,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t137_c18cb865",
+       "title": {
+        "ru": "VSA Modulator-Control Unit Inputs and Outputs for 22P Connector (Connector Disco",
+        "en": "VSA Modulator-Control Unit Inputs and Outputs for 22P Connector (Connector Disco"
+       },
+       "words": 20055,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t138_c8424d98",
+       "title": {
+        "ru": "\" Portions of materials contained herein have been reprinted under license from ",
+        "en": "\" Portions of materials contained herein have been reprinted under license from "
+       },
+       "words": 17676,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t139_f48a4fe5",
+       "title": {
+        "ru": "Drain Channel Slider and Cable Assembly Replacement (cont'd)",
+        "en": "Drain Channel Slider and Cable Assembly Replacement (cont'd)"
+       },
+       "words": 20352,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t140_22233a1e",
+       "title": {
+        "ru": "Dashboard/Steering Hanger Beam Removal/Installation (cont'd)",
+        "en": "Dashboard/Steering Hanger Beam Removal/Installation (cont'd)"
+       },
+       "words": 17334,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t141_6caec203",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If HVAC maintenance is required)",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If HVAC maintenance is required)"
+       },
+       "words": 14401,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t142_cf9e9c9a",
+       "title": {
+        "ru": "DTC B1238 or DTC indicator F and A/C ON: A Problem in the Passenger's Air Mix Co",
+        "en": "DTC B1238 or DTC indicator F and A/C ON: A Problem in the Passenger's Air Mix Co"
+       },
+       "words": 15581,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t143_93d07950",
+       "title": {
+        "ru": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating ",
+        "en": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating "
+       },
+       "words": 17431,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t144_74450507",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If body electrical maintenance is required)",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If body electrical maintenance is required)"
+       },
+       "words": 13062,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t145_19b05914",
+       "title": {
+        "ru": "NOTE: Record allDTCs, and sort them by DTC type using the following DTC troubles",
+        "en": "NOTE: Record allDTCs, and sort them by DTC type using the following DTC troubles"
+       },
+       "words": 12040,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t146_205ce1b5",
+       "title": {
+        "ru": "Doors will not unlock (or lock) with the transmitter, but will unlock (or lock) ",
+        "en": "Doors will not unlock (or lock) with the transmitter, but will unlock (or lock) "
+       },
+       "words": 17461,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t147_48c7f962",
+       "title": {
+        "ru": "DTC U0199: Immobilizer-Keyless Control Unit Lost Communication With Door Multipl",
+        "en": "DTC U0199: Immobilizer-Keyless Control Unit Lost Communication With Door Multipl"
+       },
+       "words": 15519,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t148_467ee18a",
+       "title": {
+        "ru": "DTC U0155: Door Multiplex Control Unit Lost Communication With Gauge Control Mod",
+        "en": "DTC U0155: Door Multiplex Control Unit Lost Communication With Gauge Control Mod"
+       },
+       "words": 15063,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t149_dbc166cb",
+       "title": {
+        "ru": "DTC U0151: Gauge Control Module Lost Communication With SRS Unit (SRS Message)",
+        "en": "DTC U0151: Gauge Control Module Lost Communication With SRS Unit (SRS Message)"
+       },
+       "words": 15968,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t150_da353992",
+       "title": {
+        "ru": "DTC U128D: Power Seat Control Unit Lost Communication With Gauge Control Module ",
+        "en": "DTC U128D: Power Seat Control Unit Lost Communication With Gauge Control Module "
+       },
+       "words": 16573,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t151_2bd23ec1",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 15217,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t152_fa0f786b",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 19400,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t153_e406af8c",
+       "title": {
+        "ru": "The gas station on my corner is now a restaurant. Why is it still incorrect in t",
+        "en": "The gas station on my corner is now a restaurant. Why is it still incorrect in t"
+       },
+       "words": 15965,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t154_5710c925",
+       "title": {
+        "ru": "Front HFL-Navigation-ANC/Active Sound Control Microphone Inputs and Outputs for ",
+        "en": "Front HFL-Navigation-ANC/Active Sound Control Microphone Inputs and Outputs for "
+       },
+       "words": 18199,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t155_13eaf111",
+       "title": {
+        "ru": "Vehicle icon wanders across the map when driving (does not follow a displayed ro",
+        "en": "Vehicle icon wanders across the map when driving (does not follow a displayed ro"
+       },
+       "words": 18466,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t156_dc2fb4ca",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 18723,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t157_238fe6d0",
+       "title": {
+        "ru": "DTC 22-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 22-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 23729,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t158_78e375d8",
+       "title": {
+        "ru": "DTC 51-xx, 52-xx, 53-xx, 54-xx, 55-xx, 57-xx, 58-xx (\"x\" can be 0 thru 9 or A th",
+        "en": "DTC 51-xx, 52-xx, 53-xx, 54-xx, 55-xx, 57-xx, 58-xx (\"x\" can be 0 thru 9 or A th"
+       },
+       "words": 23810,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t159_813e0cb4",
+       "title": {
+        "ru": "DTC 15-3x (\"x\" can be 0 thru 9 or A thru F): Internal Failure of the Front Passe",
+        "en": "DTC 15-3x (\"x\" can be 0 thru 9 or A thru F): Internal Failure of the Front Passe"
+       },
+       "words": 15418,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t160_3ef9ac2b",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS (If engine electrical maintenance is required",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS (If engine electrical maintenance is required"
+       },
+       "words": 14368,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t161_95730307",
+       "title": {
+        "ru": "DTC P15AB: Engine Mount Control Unit Power Source Circuit Low Voltage",
+        "en": "DTC P15AB: Engine Mount Control Unit Power Source Circuit Low Voltage"
+       },
+       "words": 18523,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t162_7f89a43f",
+       "title": {
+        "ru": "Connecting Rod Bearing Clearance Inspection Connecting Rod Bearing Selection",
+        "en": "Connecting Rod Bearing Clearance Inspection Connecting Rod Bearing Selection"
+       },
+       "words": 19454,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t163_d6def468",
+       "title": {
+        "ru": "Low oil pressure indicator does not come 'on with the ignition switch in ON (Il)",
+        "en": "Low oil pressure indicator does not come 'on with the ignition switch in ON (Il)"
+       },
+       "words": 17100,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t164_df8e3bec",
+       "title": {
+        "ru": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)",
+        "en": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)"
+       },
+       "words": 14155,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t165_1d0b71e0",
+       "title": {
+        "ru": "DTC P0141: Rear Secondary HO2S (Bank 1, Sensor 2) Heater Circuit Malfunction",
+        "en": "DTC P0141: Rear Secondary HO2S (Bank 1, Sensor 2) Heater Circuit Malfunction"
+       },
+       "words": 29518,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t166_496c41c0",
+       "title": {
+        "ru": "DTC P0685: PCM Power ContrOl Circuit/Internal Circuit Malfunction",
+        "en": "DTC P0685: PCM Power ContrOl Circuit/Internal Circuit Malfunction"
+       },
+       "words": 27122,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t167_b9ccc956",
+       "title": {
+        "ru": "DTC P2649: Rocker Arm Oil Control Solenoid A (Bank 1) Circuit High Voltage",
+        "en": "DTC P2649: Rocker Arm Oil Control Solenoid A (Bank 1) Circuit High Voltage"
+       },
+       "words": 23698,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t168_f997f674",
+       "title": {
+        "ru": "DTC P0462: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit Low Voltage0 (2WD",
+        "en": "DTC P0462: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit Low Voltage0 (2WD"
+       },
+       "words": 18096,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t169_67e53b2b",
+       "title": {
+        "ru": "DTC P0498: EVAP Canister Vent Shut Valve Circuit Low Voltage",
+        "en": "DTC P0498: EVAP Canister Vent Shut Valve Circuit Low Voltage"
+       },
+       "words": 23414,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t170_e1cf8776",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If automatic transmission maintenance is re",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If automatic transmission maintenance is re"
+       },
+       "words": 18936,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t171_221517f3",
+       "title": {
+        "ru": "DTC P0843: Open in Transmission Fluid Pressure Switch A (2nd Clutch) Circuit, or",
+        "en": "DTC P0843: Open in Transmission Fluid Pressure Switch A (2nd Clutch) Circuit, or"
+       },
+       "words": 32124,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t172_911a3302",
+       "title": {
+        "ru": "DTC P1745: Problem in Shift Control System; Servo Control Valve Stuck OFF or Ser",
+        "en": "DTC P1745: Problem in Shift Control System; Servo Control Valve Stuck OFF or Ser"
+       },
+       "words": 29425,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t173_c7c5de2b",
+       "title": {
+        "ru": "Differential Carrier, Final Driven Gear, and Transfer Drive Gear Replacement",
+        "en": "Differential Carrier, Final Driven Gear, and Transfer Drive Gear Replacement"
+       },
+       "words": 21584,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t174_e8efdc07",
+       "title": {
+        "ru": "Transfer Output Shaft Installation Height Inspection/Adjustment",
+        "en": "Transfer Output Shaft Installation Height Inspection/Adjustment"
+       },
+       "words": 19110,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t175_bcab3195",
+       "title": {
+        "ru": "Power Steering Hose, Line, and Pressure Switch Replacement",
+        "en": "Power Steering Hose, Line, and Pressure Switch Replacement"
+       },
+       "words": 24249,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t176_334b6ede",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If brakes maintenance is required)",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If brakes maintenance is required)"
+       },
+       "words": 21004,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t177_fcd0c847",
+       "title": {
+        "ru": "VSA Modulator-Control Unit Inputs and Outputs for 22P Connector (Connector Disco",
+        "en": "VSA Modulator-Control Unit Inputs and Outputs for 22P Connector (Connector Disco"
+       },
+       "words": 20742,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t178_21cc4b82",
+       "title": {
+        "ru": "\" Portions of materials contained herein have been reprinted under license from ",
+        "en": "\" Portions of materials contained herein have been reprinted under license from "
+       },
+       "words": 21832,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t179_147f66ba",
+       "title": {
+        "ru": "Drain Channel Slider and Cable Assembly Replacement (cont'd)",
+        "en": "Drain Channel Slider and Cable Assembly Replacement (cont'd)"
+       },
+       "words": 20316,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t180_b5974471",
+       "title": {
+        "ru": "Dashboard/Steering Hanger Beam Removal/Installation (cont'd)",
+        "en": "Dashboard/Steering Hanger Beam Removal/Installation (cont'd)"
+       },
+       "words": 19535,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t181_f19b8d0a",
+       "title": {
+        "ru": "Front Grille Replacement (cont'd) Front Fender Trim Replacement",
+        "en": "Front Grille Replacement (cont'd) Front Fender Trim Replacement"
+       },
+       "words": 16882,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t182_04f2bf00",
+       "title": {
+        "ru": "DTC B1227 or DTC indicator C and AUTO: An Open in the Outside Air Temperature Se",
+        "en": "DTC B1227 or DTC indicator C and AUTO: An Open in the Outside Air Temperature Se"
+       },
+       "words": 16900,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t183_a51ac98a",
+       "title": {
+        "ru": "DTC B1238 or DTC indicator F and A/C ON: A Problem in the Passenger's Air Mix Co",
+        "en": "DTC B1238 or DTC indicator F and A/C ON: A Problem in the Passenger's Air Mix Co"
+       },
+       "words": 17961,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t184_50dde7ff",
+       "title": {
+        "ru": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating ",
+        "en": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating "
+       },
+       "words": 19027,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t185_61b81188",
+       "title": {
+        "ru": "NOTE: Record allDTCs, and sort them by DTC type using the following DTC troubles",
+        "en": "NOTE: Record allDTCs, and sort them by DTC type using the following DTC troubles"
+       },
+       "words": 13765,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t186_b31b863b",
+       "title": {
+        "ru": "Doors will not unlock (or lock) with the transmitter, but will unlock (or lock) ",
+        "en": "Doors will not unlock (or lock) with the transmitter, but will unlock (or lock) "
+       },
+       "words": 16814,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t187_4e6aa042",
+       "title": {
+        "ru": "DTC U0199: Immobilizer-Keyless Control Unit Lost Communication With Door Multipl",
+        "en": "DTC U0199: Immobilizer-Keyless Control Unit Lost Communication With Door Multipl"
+       },
+       "words": 16433,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t188_cdfbb468",
+       "title": {
+        "ru": "DTC U0155: Door Multiplex Control Unit Lost Communication With Gauge Control Mod",
+        "en": "DTC U0155: Door Multiplex Control Unit Lost Communication With Gauge Control Mod"
+       },
+       "words": 17043,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t189_c1d31573",
+       "title": {
+        "ru": "DTC U0151: Gauge Control Module Lost Communication With SRS Unit (SRS Message)",
+        "en": "DTC U0151: Gauge Control Module Lost Communication With SRS Unit (SRS Message)"
+       },
+       "words": 17038,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t190_0fb1ed45",
+       "title": {
+        "ru": "DTC B1827: Rear Height Pulse Error (No Сhange m г e tor1 on)",
+        "en": "DTC B1827: Rear Height Pulse Error (No Сhange m г e tor1 on)"
+       },
+       "words": 17269,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t191_85bb7692",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If Audio, Navigation, and Telematics mainte",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If Audio, Navigation, and Telematics mainte"
+       },
+       "words": 18092,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t192_b9b1beb9",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 20290,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t193_1c4aa27d",
+       "title": {
+        "ru": "The gas station on my corner is now a restaurant. Why is it still incorrect in t",
+        "en": "The gas station on my corner is now a restaurant. Why is it still incorrect in t"
+       },
+       "words": 19389,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t194_9e95ca94",
+       "title": {
+        "ru": "Front HFL-Navigation-ANC/Active Sound Control Microphone Inputs and Outputs for ",
+        "en": "Front HFL-Navigation-ANC/Active Sound Control Microphone Inputs and Outputs for "
+       },
+       "words": 17126,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t195_fea309ce",
+       "title": {
+        "ru": "Vehicle icon wanders across the map when driving (does not follow a displayed ro",
+        "en": "Vehicle icon wanders across the map when driving (does not follow a displayed ro"
+       },
+       "words": 20736,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t196_cf6a1aa2",
+       "title": {
+        "ru": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H",
+        "en": "FRONT HFL-NAVIGATION-ANC/ACTIVE SOUND CONTROL MICROPHONE 7P CONNECTOR Or FRONT H"
+       },
+       "words": 19314,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t197_9ecebf17",
+       "title": {
+        "ru": "DTC 22-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 22-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 24950,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t198_d092f9e0",
+       "title": {
+        "ru": "DTC 51-xx, 52-xx, 53-xx, 54-xx, 55-xx, 57-xx, 58-xx (\"x\" can be 0 thru 9 or A th",
+        "en": "DTC 51-xx, 52-xx, 53-xx, 54-xx, 55-xx, 57-xx, 58-xx (\"x\" can be 0 thru 9 or A th"
+       },
+       "words": 24304,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t199_cb96ec8c",
+       "title": {
+        "ru": "DTC 15-3x (\"x\" can be 0 thru 9 or A thru F): Internal Failure of the Front Passe",
+        "en": "DTC 15-3x (\"x\" can be 0 thru 9 or A thru F): Internal Failure of the Front Passe"
+       },
+       "words": 20473,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_crosstour_general_t200_71fff94b",
+       "title": {
+        "ru": "Start-Up Procedure and Diagnostic Menu System Links",
+        "en": "Start-Up Procedure and Diagnostic Menu System Links"
+       },
+       "words": 53,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "honda_crosstour_infotainment_t000_630b131e",
+       "title": {
+        "ru": "Phone will not Automatically Connect the HFL",
+        "en": "Phone will not Automatically Connect the HFL"
+       },
+       "words": 1219,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_crosstour_infotainment_t001_bc382294",
+       "title": {
+        "ru": "RECIRCULATION CONTROL MOTOR 7P CONNECTOR Wire side of female terminals",
+        "en": "RECIRCULATION CONTROL MOTOR 7P CONNECTOR Wire side of female terminals"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "honda_crosstour_sensors_t000_a8c65db8",
+       "title": {
+        "ru": "DTC Troubleshooting (cont'd)",
+        "en": "DTC Troubleshooting (cont'd)"
+       },
+       "words": 45,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "honda_crosstour_drivetrain_t000_f1155f11",
+       "title": {
+        "ru": "Rear Differential Reassembly",
+        "en": "Rear Differential Reassembly"
+       },
+       "words": 167,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

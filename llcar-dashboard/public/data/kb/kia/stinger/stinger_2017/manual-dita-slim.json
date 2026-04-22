@@ -1,0 +1,815 @@
+{
+ "version": "1.0",
+ "model": "stinger",
+ "manuals": [
+  {
+   "model": "stinger",
+   "label": {
+    "ru": "Kia Stinger — Руководство по ремонту",
+    "en": "Kia Stinger — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "kia_stinger_engine_t000_1aa61d1d",
+       "title": {
+        "ru": "AIR BAG - ADVANCED SUPPLEMENTAL RESTRAINT SYSTEM",
+        "en": "AIR BAG - ADVANCED SUPPLEMENTAL RESTRAINT SYSTEM"
+       },
+       "words": 3472,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t001_13e23e91",
+       "title": {
+        "ru": "Whenever the ENGINE START/STOP",
+        "en": "Whenever the ENGINE START/STOP"
+       },
+       "words": 1627,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t002_5ba63c3f",
+       "title": {
+        "ru": "CAUTION - Exterior paint",
+        "en": "CAUTION - Exterior paint"
+       },
+       "words": 1089,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t003_aab0d4aa",
+       "title": {
+        "ru": "Check BRAKE SWITCH fuse",
+        "en": "Check BRAKE SWITCH fuse"
+       },
+       "words": 1568,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t004_c151ebe2",
+       "title": {
+        "ru": "WARNING - Driving while",
+        "en": "WARNING - Driving while"
+       },
+       "words": 1772,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t005_a31cdc89",
+       "title": {
+        "ru": "WARNING - Starting",
+        "en": "WARNING - Starting"
+       },
+       "words": 1843,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t006_419937a4",
+       "title": {
+        "ru": "ESC OFF button (ESC OFF",
+        "en": "ESC OFF button (ESC OFF"
+       },
+       "words": 1245,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t007_4c033cbf",
+       "title": {
+        "ru": "BLIND-SPOT COLLISION WARNING (BCW) (IF EQUIPPED)",
+        "en": "BLIND-SPOT COLLISION WARNING (BCW) (IF EQUIPPED)"
+       },
+       "words": 2129,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t008_1da8c69b",
+       "title": {
+        "ru": "WARNING - Running vehi-",
+        "en": "WARNING - Running vehi-"
+       },
+       "words": 3656,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t009_0b27fafd",
+       "title": {
+        "ru": "WARNING - Hot coolant",
+        "en": "WARNING - Hot coolant"
+       },
+       "words": 1916,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t010_8119f9ba",
+       "title": {
+        "ru": "CAUTION - Radiator cap",
+        "en": "CAUTION - Radiator cap"
+       },
+       "words": 962,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t011_d35f1d42",
+       "title": {
+        "ru": "WARNING - Fuse replace-",
+        "en": "WARNING - Fuse replace-"
+       },
+       "words": 1253,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_stinger_engine_t012_fa1bd4f7",
+       "title": {
+        "ru": "HYPOID GEAR OIL API GL-5 SAE 75W/85",
+        "en": "HYPOID GEAR OIL API GL-5 SAE 75W/85"
+       },
+       "words": 1280,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "kia_stinger_brakes_t000_45e34925",
+       "title": {
+        "ru": "WARNING - Driver respon-",
+        "en": "WARNING - Driver respon-"
+       },
+       "words": 1625,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_stinger_brakes_t001_867dff64",
+       "title": {
+        "ru": "LOCK RELEASE] access hole at",
+        "en": "LOCK RELEASE] access hole at"
+       },
+       "words": 1010,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_stinger_brakes_t002_d1aae56b",
+       "title": {
+        "ru": "Therefore, [AUTO HOLD] func-",
+        "en": "Therefore, [AUTO HOLD] func-"
+       },
+       "words": 1386,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_stinger_brakes_t003_b4b3e683",
+       "title": {
+        "ru": "WARNING - Maintaining",
+        "en": "WARNING - Maintaining"
+       },
+       "words": 2905,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_stinger_brakes_t004_93875e20",
+       "title": {
+        "ru": "WARNING - Following",
+        "en": "WARNING - Following"
+       },
+       "words": 1634,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_stinger_brakes_t005_81c129d9",
+       "title": {
+        "ru": "WARNING - Working on",
+        "en": "WARNING - Working on"
+       },
+       "words": 2726,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_stinger_brakes_t006_c27ae173",
+       "title": {
+        "ru": "OCK077100L",
+        "en": "OCK077100L"
+       },
+       "words": 639,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "kia_stinger_suspension_t000_2a46ebfd",
+       "title": {
+        "ru": "WARNING - Driver’s seat",
+        "en": "WARNING - Driver’s seat"
+       },
+       "words": 1544,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_stinger_suspension_t001_3673fadd",
+       "title": {
+        "ru": "ALL WHEEL DRIVE (AWD) (IF EQUIPPED)",
+        "en": "ALL WHEEL DRIVE (AWD) (IF EQUIPPED)"
+       },
+       "words": 2800,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_stinger_suspension_t002_a8d0491f",
+       "title": {
+        "ru": "LKA SYSTEM will be enable to",
+        "en": "LKA SYSTEM will be enable to"
+       },
+       "words": 1443,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_stinger_suspension_t003_9b33726a",
+       "title": {
+        "ru": "TIRE PRESSURE MONITORING SYSTEM (TPMS)",
+        "en": "TIRE PRESSURE MONITORING SYSTEM (TPMS)"
+       },
+       "words": 2817,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_stinger_suspension_t004_1dd85ab4",
+       "title": {
+        "ru": "CAUTION - Repair Agents",
+        "en": "CAUTION - Repair Agents"
+       },
+       "words": 2113,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_stinger_suspension_t005_3fa17a50",
+       "title": {
+        "ru": "WARNING - Installing a",
+        "en": "WARNING - Installing a"
+       },
+       "words": 1743,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_stinger_suspension_t006_b82617cc",
+       "title": {
+        "ru": "DOT XXXX XXXX 1617 represents",
+        "en": "DOT XXXX XXXX 1617 represents"
+       },
+       "words": 2808,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_stinger_suspension_t007_3d1de46d",
+       "title": {
+        "ru": "GAWR FRT: Gross Axle Weight",
+        "en": "GAWR FRT: Gross Axle Weight"
+       },
+       "words": 2808,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "kia_stinger_transmission_t000_f8cceaa5",
+       "title": {
+        "ru": "AUTOMATIC TRANSMISSION (SHIFT-BY-WIRE) (IF EQUIPPED)",
+        "en": "AUTOMATIC TRANSMISSION (SHIFT-BY-WIRE) (IF EQUIPPED)"
+       },
+       "words": 1014,
+       "images": 0,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "kia_stinger_hvac_t000_2ee95dd8",
+       "title": {
+        "ru": "When the “PASS AIR BAG “OFF”",
+        "en": "When the “PASS AIR BAG “OFF”"
+       },
+       "words": 1616,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_stinger_hvac_t001_0d8499f6",
+       "title": {
+        "ru": "WINDSHIELD DEFROSTING AND DEFOGGING",
+        "en": "WINDSHIELD DEFROSTING AND DEFOGGING"
+       },
+       "words": 583,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "kia_stinger_body_t000_fef56a1e",
+       "title": {
+        "ru": "WARNING - Luggage and",
+        "en": "WARNING - Luggage and"
+       },
+       "words": 1564,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_stinger_body_t001_4473fcb4",
+       "title": {
+        "ru": "WARNING - Pinched seat",
+        "en": "WARNING - Pinched seat"
+       },
+       "words": 1401,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_stinger_body_t002_9bcadbf1",
+       "title": {
+        "ru": "You will find the PASSENGER AIR",
+        "en": "You will find the PASSENGER AIR"
+       },
+       "words": 1692,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_stinger_body_t003_89b038b3",
+       "title": {
+        "ru": "WARNING - No attaching",
+        "en": "WARNING - No attaching"
+       },
+       "words": 2701,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_stinger_body_t004_069c4b63",
+       "title": {
+        "ru": "CAUTION - Outside mirror",
+        "en": "CAUTION - Outside mirror"
+       },
+       "words": 1380,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_stinger_body_t005_3929e9c8",
+       "title": {
+        "ru": "The DOOR mode and ROOM mode",
+        "en": "The DOOR mode and ROOM mode"
+       },
+       "words": 1483,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_stinger_body_t006_4b7f4adc",
+       "title": {
+        "ru": "WARNING - Open liftgate",
+        "en": "WARNING - Open liftgate"
+       },
+       "words": 2134,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_stinger_body_t007_ddf09366",
+       "title": {
+        "ru": "VEHICLE IDENTIFICATION NUMBER (VIN)",
+        "en": "VEHICLE IDENTIFICATION NUMBER (VIN)"
+       },
+       "words": 671,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "kia_stinger_lighting_t000_299bca25",
+       "title": {
+        "ru": "CAUTION - Immobilizer",
+        "en": "CAUTION - Immobilizer"
+       },
+       "words": 1863,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_stinger_lighting_t001_3298a934",
+       "title": {
+        "ru": "OCK047414N",
+        "en": "OCK047414N"
+       },
+       "words": 2785,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_stinger_lighting_t002_507ba324",
+       "title": {
+        "ru": "CAUTION - Headlamp",
+        "en": "CAUTION - Headlamp"
+       },
+       "words": 1822,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_stinger_lighting_t003_90cb03ef",
+       "title": {
+        "ru": "Lambda 3.3 T-GDI",
+        "en": "Lambda 3.3 T-GDI"
+       },
+       "words": 797,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "kia_stinger_adas_t000_c6fa3510",
+       "title": {
+        "ru": "HOW TO USE THIS MANUAL",
+        "en": "HOW TO USE THIS MANUAL"
+       },
+       "words": 2996,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_stinger_adas_t001_04dc3fb0",
+       "title": {
+        "ru": "FORWARD COLLISION-AVOIDANCE ASSIST (FCA) (IF EQUIPPED)",
+        "en": "FORWARD COLLISION-AVOIDANCE ASSIST (FCA) (IF EQUIPPED)"
+       },
+       "words": 1578,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_stinger_adas_t002_578654c1",
+       "title": {
+        "ru": "WARNING - Inclines &",
+        "en": "WARNING - Inclines &"
+       },
+       "words": 1438,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_stinger_adas_t003_b7968abd",
+       "title": {
+        "ru": "DRIVER ATTENTION WARNING (DAW, IF EQUIPPED)",
+        "en": "DRIVER ATTENTION WARNING (DAW, IF EQUIPPED)"
+       },
+       "words": 1475,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_stinger_adas_t004_305e02ce",
+       "title": {
+        "ru": "CONSUMER ASSISTANCE (U.S. ONLY)",
+        "en": "CONSUMER ASSISTANCE (U.S. ONLY)"
+       },
+       "words": 1103,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "kia_stinger_interior_t000_3eecd65c",
+       "title": {
+        "ru": "VEHICLE DATA COLLECTION AND EVENT DATA RECORDERS",
+        "en": "VEHICLE DATA COLLECTION AND EVENT DATA RECORDERS"
+       },
+       "words": 553,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "kia_stinger_chassis_t000_e978e646",
+       "title": {
+        "ru": "CAUTION - Drying vehicle",
+        "en": "CAUTION - Drying vehicle"
+       },
+       "words": 1433,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "kia_stinger_general_t000_5dc1d303",
+       "title": {
+        "ru": "CAUTION - Automatic",
+        "en": "CAUTION - Automatic"
+       },
+       "words": 618,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_stinger_general_t001_5a2e8254",
+       "title": {
+        "ru": "DRIVER’S ATTENTION",
+        "en": "DRIVER’S ATTENTION"
+       },
+       "words": 1431,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "ev_battery",
+     "title": {
+      "ru": "ev_battery",
+      "en": "ev_battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_stinger_ev_battery_t000_261aa7ac",
+       "title": {
+        "ru": "WARNING - Shoulder Belt",
+        "en": "WARNING - Shoulder Belt"
+       },
+       "words": 1566,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_stinger_ev_battery_t001_83a86003",
+       "title": {
+        "ru": "SENGER AIR BAG “OFF” indicator",
+        "en": "SENGER AIR BAG “OFF” indicator"
+       },
+       "words": 6155,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_stinger_ev_battery_t002_e47e3c2d",
+       "title": {
+        "ru": "CAUTION - Transmitter",
+        "en": "CAUTION - Transmitter"
+       },
+       "words": 1160,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_stinger_ev_battery_t003_284b810f",
+       "title": {
+        "ru": "WARNING - Portable fuel",
+        "en": "WARNING - Portable fuel"
+       },
+       "words": 1702,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_stinger_ev_battery_t004_312b95fb",
+       "title": {
+        "ru": "SURROUND VIEW MONITORING SYSTEM (SVM) (IF EQUIPPED)",
+        "en": "SURROUND VIEW MONITORING SYSTEM (SVM) (IF EQUIPPED)"
+       },
+       "words": 2896,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_stinger_ev_battery_t005_57b5fc9b",
+       "title": {
+        "ru": "WARNING - Seat warmer",
+        "en": "WARNING - Seat warmer"
+       },
+       "words": 1074,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_stinger_ev_battery_t006_e7c2fc53",
+       "title": {
+        "ru": "Do not press the ENGINE START/",
+        "en": "Do not press the ENGINE START/"
+       },
+       "words": 4416,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_stinger_ev_battery_t007_7ab016cc",
+       "title": {
+        "ru": "CRUISE ON-OFF switch was used",
+        "en": "CRUISE ON-OFF switch was used"
+       },
+       "words": 2089,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_stinger_ev_battery_t008_36a4153f",
+       "title": {
+        "ru": "IN CASE OF AN EMERGENCY WHILE DRIVING",
+        "en": "IN CASE OF AN EMERGENCY WHILE DRIVING"
+       },
+       "words": 1754,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_stinger_ev_battery_t009_6d87bb9e",
+       "title": {
+        "ru": "WARNING - Recharging",
+        "en": "WARNING - Recharging"
+       },
+       "words": 1155,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_stinger_ev_battery_t010_08fe27fd",
+       "title": {
+        "ru": "ELECTRICAL EQUIPMENT (U.S. ONLY)",
+        "en": "ELECTRICAL EQUIPMENT (U.S. ONLY)"
+       },
+       "words": 1197,
+       "images": 0,
+       "section_id": "ev_battery"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_stinger_safety_t000_f6db0605",
+       "title": {
+        "ru": "WARNING - Small children",
+        "en": "WARNING - Small children"
+       },
+       "words": 1992,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_stinger_safety_t001_5f7d716c",
+       "title": {
+        "ru": "WARNING - ODS System",
+        "en": "WARNING - ODS System"
+       },
+       "words": 18009,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_stinger_infotainment_t000_6a1ce649",
+       "title": {
+        "ru": "HEAD UP DISPLAY (HUD) (IF EQUIPPED)",
+        "en": "HEAD UP DISPLAY (HUD) (IF EQUIPPED)"
+       },
+       "words": 1730,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

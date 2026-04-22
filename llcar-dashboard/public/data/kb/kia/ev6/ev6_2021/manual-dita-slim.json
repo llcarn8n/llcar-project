@@ -1,0 +1,2375 @@
+{
+ "version": "1.0",
+ "model": "ev6",
+ "manuals": [
+  {
+   "model": "ev6",
+   "label": {
+    "ru": "Kia EV6 — Руководство по ремонту",
+    "en": "Kia EV6 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "kia_ev6_engine_t000_57bdded8",
+       "title": {
+        "ru": "Selecting a Child Restraint System (CRS)",
+        "en": "Selecting a Child Restraint System (CRS)"
+       },
+       "words": 483,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_ev6_engine_t001_b4fd1f6c",
+       "title": {
+        "ru": "Driver Assistance settings (infotainment system)",
+        "en": "Driver Assistance settings (infotainment system)"
+       },
+       "words": 534,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_ev6_engine_t002_e6d57ed3",
+       "title": {
+        "ru": "A/C Automatic Drying (if equipped)",
+        "en": "A/C Automatic Drying (if equipped)"
+       },
+       "words": 632,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_ev6_engine_t003_c6f08a93",
+       "title": {
+        "ru": "Limitations of Lane Keeping Assist",
+        "en": "Limitations of Lane Keeping Assist"
+       },
+       "words": 753,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_ev6_engine_t004_2246bf3b",
+       "title": {
+        "ru": "Navigation-based Smart Cruise Control (NSCC) (if equipped)",
+        "en": "Navigation-based Smart Cruise Control (NSCC) (if equipped)"
+       },
+       "words": 577,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_ev6_engine_t005_d3b3967e",
+       "title": {
+        "ru": "Highway Lane Change Assist standby",
+        "en": "Highway Lane Change Assist standby"
+       },
+       "words": 601,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_ev6_engine_t006_ea5d43df",
+       "title": {
+        "ru": "Matte paint finish vehicle (if equipped)",
+        "en": "Matte paint finish vehicle (if equipped)"
+       },
+       "words": 477,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_ev6_engine_t007_bf1c4c27",
+       "title": {
+        "ru": "Abbreviation",
+        "en": "Abbreviation"
+       },
+       "words": 72,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "kia_ev6_brakes_t000_4cae6346",
+       "title": {
+        "ru": "Charging door Opening and closing the charging door",
+        "en": "Charging door Opening and closing the charging door"
+       },
+       "words": 671,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t001_1a24c43c",
+       "title": {
+        "ru": "Electronic Brake force Distribution (EBD) system warning light",
+        "en": "Electronic Brake force Distribution (EBD) system warning light"
+       },
+       "words": 561,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t002_d6d0cd68",
+       "title": {
+        "ru": "Electronic Parking Brake (EPB) warning light EPB",
+        "en": "Electronic Parking Brake (EPB) warning light EPB"
+       },
+       "words": 669,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t003_c43c66d3",
+       "title": {
+        "ru": "A: Press brake pedal to change gear",
+        "en": "A: Press brake pedal to change gear"
+       },
+       "words": 455,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t004_56dd30cf",
+       "title": {
+        "ru": "A: PARK malfunction. Engage parking brake when parking vehicle",
+        "en": "A: PARK malfunction. Engage parking brake when parking vehicle"
+       },
+       "words": 561,
+       "images": 4,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t005_70b24460",
+       "title": {
+        "ru": "Turning smart regeneration sys tem off",
+        "en": "Turning smart regeneration sys tem off"
+       },
+       "words": 598,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t006_9e78dc43",
+       "title": {
+        "ru": "Releasing the parking brake with Electronic Parking Brake (EPB) switch",
+        "en": "Releasing the parking brake with Electronic Parking Brake (EPB) switch"
+       },
+       "words": 443,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t007_3c91eb64",
+       "title": {
+        "ru": "Automatic release of Electronic Parking Brake (EPB)",
+        "en": "Automatic release of Electronic Parking Brake (EPB)"
+       },
+       "words": 616,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t008_8bca8d4a",
+       "title": {
+        "ru": "When the EPB (Electronic Parking Brake) is not released",
+        "en": "When the EPB (Electronic Parking Brake) is not released"
+       },
+       "words": 1057,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t009_da7c31d4",
+       "title": {
+        "ru": "Take the following precautions when using the Brake Assist System (BAS):",
+        "en": "Take the following precautions when using the Brake Assist System (BAS):"
+       },
+       "words": 1035,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t010_0acef0f1",
+       "title": {
+        "ru": "To temporarily cancel Smart Cruise Control",
+        "en": "To temporarily cancel Smart Cruise Control"
+       },
+       "words": 794,
+       "images": 4,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t011_8e6d3e6a",
+       "title": {
+        "ru": "Rear Cross-Traffic CollisionAvoidance Assist operation",
+        "en": "Rear Cross-Traffic CollisionAvoidance Assist operation"
+       },
+       "words": 724,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t012_1330be23",
+       "title": {
+        "ru": "Don't let your parking brake freeze",
+        "en": "Don't let your parking brake freeze"
+       },
+       "words": 1288,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t013_99a525db",
+       "title": {
+        "ru": "When you are ready to leave after parking on a hill",
+        "en": "When you are ready to leave after parking on a hill"
+       },
+       "words": 599,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev6_brakes_t014_3bffcd4a",
+       "title": {
+        "ru": "Brake discs, pads and calipers",
+        "en": "Brake discs, pads and calipers"
+       },
+       "words": 563,
+       "images": 1,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "kia_ev6_suspension_t000_1bb0a700",
+       "title": {
+        "ru": "This device complies with Part 15 of the FCC rules.",
+        "en": "This device complies with Part 15 of the FCC rules."
+       },
+       "words": 315,
+       "images": 2,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev6_suspension_t001_603af272",
+       "title": {
+        "ru": "Adjusting Alarm System",
+        "en": "Adjusting Alarm System"
+       },
+       "words": 422,
+       "images": 3,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev6_suspension_t002_be0a69e9",
+       "title": {
+        "ru": "Automatic turn off function (if equipped)",
+        "en": "Automatic turn off function (if equipped)"
+       },
+       "words": 624,
+       "images": 1,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev6_suspension_t003_04be5051",
+       "title": {
+        "ru": "The radio frequency components (Front Corner Radar/Rear Corner Radar) complies: ",
+        "en": "The radio frequency components (Front Corner Radar/Rear Corner Radar) complies: "
+       },
+       "words": 729,
+       "images": 1,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev6_suspension_t004_9aae3734",
+       "title": {
+        "ru": "Steering gear box, linkage & boots/lower arm ball joint",
+        "en": "Steering gear box, linkage & boots/lower arm ball joint"
+       },
+       "words": 432,
+       "images": 6,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev6_suspension_t005_b42873da",
+       "title": {
+        "ru": "California Proposition 65",
+        "en": "California Proposition 65"
+       },
+       "words": 479,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "kia_ev6_electrical_t000_b239eae4",
+       "title": {
+        "ru": "Tampering with SRS",
+        "en": "Tampering with SRS"
+       },
+       "words": 380,
+       "images": 0,
+       "section_id": "electrical"
+      },
+      {
+       "id": "kia_ev6_electrical_t001_760cbf4e",
+       "title": {
+        "ru": "Replacing motor compartment fuse",
+        "en": "Replacing motor compartment fuse"
+       },
+       "words": 552,
+       "images": 7,
+       "section_id": "electrical"
+      },
+      {
+       "id": "kia_ev6_electrical_t002_b633b1bd",
+       "title": {
+        "ru": "Relay",
+        "en": "Relay"
+       },
+       "words": 12,
+       "images": 1,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "kia_ev6_hvac_t000_8b025538",
+       "title": {
+        "ru": "Automatic climate control system 5-101",
+        "en": "Automatic climate control system 5-101"
+       },
+       "words": 557,
+       "images": 3,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_ev6_hvac_t001_7b2d29f4",
+       "title": {
+        "ru": "Checking the amount of air con ditioner refrigerant and compres sor lubricant",
+        "en": "Checking the amount of air con ditioner refrigerant and compres sor lubricant"
+       },
+       "words": 854,
+       "images": 5,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_ev6_hvac_t002_bba21c13",
+       "title": {
+        "ru": "Use approved window washer anti-freeze in system",
+        "en": "Use approved window washer anti-freeze in system"
+       },
+       "words": 391,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_ev6_hvac_t003_9cb297d8",
+       "title": {
+        "ru": "Air conditioning system",
+        "en": "Air conditioning system"
+       },
+       "words": 10,
+       "images": 1,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "kia_ev6_body_t000_3c0fee8f",
+       "title": {
+        "ru": "A: V2L conditions not met",
+        "en": "A: V2L conditions not met"
+       },
+       "words": 769,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t001_c6a6427c",
+       "title": {
+        "ru": "How to disconnect portable charging cable (ICCB: In-Cable Control Box) (sold sep",
+        "en": "How to disconnect portable charging cable (ICCB: In-Cable Control Box) (sold sep"
+       },
+       "words": 832,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t002_4ca50332",
+       "title": {
+        "ru": "Adding equipment to or modifying your air bag-equipped vehicle",
+        "en": "Adding equipment to or modifying your air bag-equipped vehicle"
+       },
+       "words": 1009,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t003_4565d62b",
+       "title": {
+        "ru": "Electric type (if equipped)",
+        "en": "Electric type (if equipped)"
+       },
+       "words": 549,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t004_aa8d7cf5",
+       "title": {
+        "ru": "When you release the Two Press Unlock function",
+        "en": "When you release the Two Press Unlock function"
+       },
+       "words": 979,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t005_61268e74",
+       "title": {
+        "ru": "Operating door unlocks from outside the vehicle",
+        "en": "Operating door unlocks from outside the vehicle"
+       },
+       "words": 763,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t006_84dde38c",
+       "title": {
+        "ru": "Operating door locks from inside the vehicle",
+        "en": "Operating door locks from inside the vehicle"
+       },
+       "words": 564,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t007_88ed0468",
+       "title": {
+        "ru": "Additional unlock safety feature air bag deployment",
+        "en": "Additional unlock safety feature air bag deployment"
+       },
+       "words": 423,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t008_c36b9be1",
+       "title": {
+        "ru": "Driver Position Memory System (if equipped)",
+        "en": "Driver Position Memory System (if equipped)"
+       },
+       "words": 579,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t009_28785b9e",
+       "title": {
+        "ru": "Smart Liftgate with Auto Open (if equipped)",
+        "en": "Smart Liftgate with Auto Open (if equipped)"
+       },
+       "words": 523,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t010_ab367ac6",
+       "title": {
+        "ru": "Remote window opening (if equipped)",
+        "en": "Remote window opening (if equipped)"
+       },
+       "words": 558,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t011_48f73e22",
+       "title": {
+        "ru": "Front trunk Opening the front trunk",
+        "en": "Front trunk Opening the front trunk"
+       },
+       "words": 653,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t012_5a99770e",
+       "title": {
+        "ru": "Electric Chromic mirror (ECM) with HomeLink씾 system (if equipped)",
+        "en": "Electric Chromic mirror (ECM) with HomeLink씾 system (if equipped)"
+       },
+       "words": 454,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t013_17825366",
+       "title": {
+        "ru": "3) Two-Way Communication Programming (For select garage door openers)",
+        "en": "3) Two-Way Communication Programming (For select garage door openers)"
+       },
+       "words": 1063,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t014_d081ea45",
+       "title": {
+        "ru": "Resetting reverse parking aid user settings mode",
+        "en": "Resetting reverse parking aid user settings mode"
+       },
+       "words": 1169,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t015_efbe1eda",
+       "title": {
+        "ru": "Using the infotainment/climate switchable controller",
+        "en": "Using the infotainment/climate switchable controller"
+       },
+       "words": 697,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t016_3ddb6ab7",
+       "title": {
+        "ru": "Using the infotainment/climate switchable controller",
+        "en": "Using the infotainment/climate switchable controller"
+       },
+       "words": 368,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t017_d9bdcd79",
+       "title": {
+        "ru": "A: To release EPB, fasten seatbelt and close door, hood and liftgate",
+        "en": "A: To release EPB, fasten seatbelt and close door, hood and liftgate"
+       },
+       "words": 542,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t018_40c25a0c",
+       "title": {
+        "ru": "A: Check side view mirror warning light",
+        "en": "A: Check side view mirror warning light"
+       },
+       "words": 648,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t019_d4a3253a",
+       "title": {
+        "ru": "The function will pause in the following conditions when:",
+        "en": "The function will pause in the following conditions when:"
+       },
+       "words": 823,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t020_1a9ec6fa",
+       "title": {
+        "ru": "The function will pause in the following conditions when:",
+        "en": "The function will pause in the following conditions when:"
+       },
+       "words": 1042,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev6_body_t021_d7f7d7f8",
+       "title": {
+        "ru": "Specifications, Consumer information and Reporting safety defects",
+        "en": "Specifications, Consumer information and Reporting safety defects"
+       },
+       "words": 599,
+       "images": 2,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "kia_ev6_steering_t000_1e7fa6b9",
+       "title": {
+        "ru": "Vehicle handling instructions Vehicle modifications",
+        "en": "Vehicle handling instructions Vehicle modifications"
+       },
+       "words": 1035,
+       "images": 3,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_ev6_steering_t001_f2b41845",
+       "title": {
+        "ru": "Electric Power Steering (EPS) warning light",
+        "en": "Electric Power Steering (EPS) warning light"
+       },
+       "words": 384,
+       "images": 2,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_ev6_steering_t002_01d22066",
+       "title": {
+        "ru": "Evasive Steering Assist function (if equipped)",
+        "en": "Evasive Steering Assist function (if equipped)"
+       },
+       "words": 623,
+       "images": 3,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_ev6_steering_t003_610f7b8d",
+       "title": {
+        "ru": "Lane Keeping Assist (LKA)",
+        "en": "Lane Keeping Assist (LKA)"
+       },
+       "words": 518,
+       "images": 3,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_ev6_steering_t004_be2f99a4",
+       "title": {
+        "ru": "Lane Following Assist settings Turning Lane Following Assist On/Off",
+        "en": "Lane Following Assist settings Turning Lane Following Assist On/Off"
+       },
+       "words": 583,
+       "images": 4,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_ev6_steering_t005_75634d94",
+       "title": {
+        "ru": "A: Keep hands on steering wheel",
+        "en": "A: Keep hands on steering wheel"
+       },
+       "words": 1224,
+       "images": 4,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_ev6_steering_t006_584a5259",
+       "title": {
+        "ru": "Don't let ice and snow accumu late underneath",
+        "en": "Don't let ice and snow accumu late underneath"
+       },
+       "words": 510,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "kia_ev6_lighting_t000_a1f5796c",
+       "title": {
+        "ru": "A: Scheduled Charging and Target Temperature",
+        "en": "A: Scheduled Charging and Target Temperature"
+       },
+       "words": 884,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t001_43ec5416",
+       "title": {
+        "ru": "Warning and indicator lights (Related to electric vehicle)",
+        "en": "Warning and indicator lights (Related to electric vehicle)"
+       },
+       "words": 587,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t002_477e7e37",
+       "title": {
+        "ru": "Keep your vehicle in safe condition",
+        "en": "Keep your vehicle in safe condition"
+       },
+       "words": 594,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t003_5b523830",
+       "title": {
+        "ru": "To adjust the power liftgate opening height, select Setup → Vehicle Settings → D",
+        "en": "To adjust the power liftgate opening height, select Setup → Vehicle Settings → D"
+       },
+       "words": 583,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t004_bfb7482f",
+       "title": {
+        "ru": "General Settings → Unit → Temperature Unit → °C/°F",
+        "en": "General Settings → Unit → Temperature Unit → °C/°F"
+       },
+       "words": 802,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t005_4c656999",
+       "title": {
+        "ru": "Warning and indicator lights",
+        "en": "Warning and indicator lights"
+       },
+       "words": 466,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t006_6de40271",
+       "title": {
+        "ru": "Low tire pressure warning light ！",
+        "en": "Low tire pressure warning light ！"
+       },
+       "words": 433,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t007_98b38f6d",
+       "title": {
+        "ru": "Electronic Stability Control (ESC) OFF indicator light",
+        "en": "Electronic Stability Control (ESC) OFF indicator light"
+       },
+       "words": 338,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t008_975f4559",
+       "title": {
+        "ru": "Highway Lane Change Assist indicator light  (if equipped)",
+        "en": "Highway Lane Change Assist indicator light  (if equipped)"
+       },
+       "words": 428,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t009_555ef447",
+       "title": {
+        "ru": "Daytime running light (DRL)",
+        "en": "Daytime running light (DRL)"
+       },
+       "words": 553,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t010_37bd98df",
+       "title": {
+        "ru": "Heating and air conditioning automatically",
+        "en": "Heating and air conditioning automatically"
+       },
+       "words": 907,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t011_eb2eb98d",
+       "title": {
+        "ru": "Air conditioning operation tips Climate control air filter",
+        "en": "Air conditioning operation tips Climate control air filter"
+       },
+       "words": 831,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t012_05ea6759",
+       "title": {
+        "ru": "Smart regeneration system activation",
+        "en": "Smart regeneration system activation"
+       },
+       "words": 667,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t013_6f99ccdd",
+       "title": {
+        "ru": "Smart regeneration system will be temporarily canceled when:",
+        "en": "Smart regeneration system will be temporarily canceled when:"
+       },
+       "words": 798,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t014_82f74fc2",
+       "title": {
+        "ru": "Vehicle stability management (VSM) operation off",
+        "en": "Vehicle stability management (VSM) operation off"
+       },
+       "words": 769,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t015_4e00927c",
+       "title": {
+        "ru": "A: Forward Safety system disabled. Radar blocked",
+        "en": "A: Forward Safety system disabled. Radar blocked"
+       },
+       "words": 228,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t016_40cefbcf",
+       "title": {
+        "ru": "Junction Crossing, Lane-Change Oncoming, Lane-Change Side, Evasive Steering Assi",
+        "en": "Junction Crossing, Lane-Change Oncoming, Lane-Change Side, Evasive Steering Assi"
+       },
+       "words": 1155,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t017_1f73cfff",
+       "title": {
+        "ru": "A: Blind-Spot Safety system disabled. Radar blocked",
+        "en": "A: Blind-Spot Safety system disabled. Radar blocked"
+       },
+       "words": 382,
+       "images": 8,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t018_c5156e7a",
+       "title": {
+        "ru": "A: Blind-Spot Safety system disabled. Radar blocked",
+        "en": "A: Blind-Spot Safety system disabled. Radar blocked"
+       },
+       "words": 579,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t019_5ddbff9d",
+       "title": {
+        "ru": "Blind-Spot View Monitor (BVM) (if equipped)",
+        "en": "Blind-Spot View Monitor (BVM) (if equipped)"
+       },
+       "words": 333,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t020_c2bf1362",
+       "title": {
+        "ru": "A: Smart Cruise Control disabled. Radar blocked",
+        "en": "A: Smart Cruise Control disabled. Radar blocked"
+       },
+       "words": 416,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t021_f7d5775b",
+       "title": {
+        "ru": "A: Driver's grasp not detected. Driving speed will be limited",
+        "en": "A: Driver's grasp not detected. Driving speed will be limited"
+       },
+       "words": 458,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t022_ff504e55",
+       "title": {
+        "ru": "A: Rear Cross-Traffic Safety system disabled. Radar blocked",
+        "en": "A: Rear Cross-Traffic Safety system disabled. Radar blocked"
+       },
+       "words": 833,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t023_820445c3",
+       "title": {
+        "ru": "Limitations of Reverse Parking Collision-Avoidance Assist",
+        "en": "Limitations of Reverse Parking Collision-Avoidance Assist"
+       },
+       "words": 941,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t024_bde458da",
+       "title": {
+        "ru": "The function will cancel in the following conditions when:",
+        "en": "The function will cancel in the following conditions when:"
+       },
+       "words": 1985,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t025_5fd9daf0",
+       "title": {
+        "ru": "Turn signals when towing a trailer",
+        "en": "Turn signals when towing a trailer"
+       },
+       "words": 1014,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t026_1dd33ee5",
+       "title": {
+        "ru": "Explanation of scheduled maintenance items",
+        "en": "Explanation of scheduled maintenance items"
+       },
+       "words": 1216,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t027_fb458e3b",
+       "title": {
+        "ru": "For best battery service",
+        "en": "For best battery service"
+       },
+       "words": 845,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t028_95a4cdce",
+       "title": {
+        "ru": "Tire terminology and definitions",
+        "en": "Tire terminology and definitions"
+       },
+       "words": 1408,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev6_lighting_t029_9c5b38f6",
+       "title": {
+        "ru": "Replacing lights (LED type, except glove box lamp)",
+        "en": "Replacing lights (LED type, except glove box lamp)"
+       },
+       "words": 918,
+       "images": 5,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "kia_ev6_interior_t000_133d40b1",
+       "title": {
+        "ru": "Air bag advanced supplemental restraint system ................4-34",
+        "en": "Air bag advanced supplemental restraint system ................4-34"
+       },
+       "words": 490,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t001_63e94134",
+       "title": {
+        "ru": "Feature of seat leather (if equipped)",
+        "en": "Feature of seat leather (if equipped)"
+       },
+       "words": 486,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t002_669fecda",
+       "title": {
+        "ru": "Front seat adjustment for man ual seat (if equipped)",
+        "en": "Front seat adjustment for man ual seat (if equipped)"
+       },
+       "words": 521,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t003_556fc7fd",
+       "title": {
+        "ru": "Lumbar support for driver's seat (if equipped)",
+        "en": "Lumbar support for driver's seat (if equipped)"
+       },
+       "words": 571,
+       "images": 6,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t004_933d0c6c",
+       "title": {
+        "ru": "Damaging Rear Seat Belt Buckles",
+        "en": "Damaging Rear Seat Belt Buckles"
+       },
+       "words": 512,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t005_881f829d",
+       "title": {
+        "ru": "Seat belt driver's 3-point system with emergency locking retractor",
+        "en": "Seat belt driver's 3-point system with emergency locking retractor"
+       },
+       "words": 974,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t006_11c33206",
+       "title": {
+        "ru": "Seat belts - front passenger and rear seat 3-point system with combination locki",
+        "en": "Seat belts - front passenger and rear seat 3-point system with combination locki"
+       },
+       "words": 805,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t007_a247b48c",
+       "title": {
+        "ru": "Restraint of pregnant women",
+        "en": "Restraint of pregnant women"
+       },
+       "words": 735,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t008_64be2773",
+       "title": {
+        "ru": "When to replace seat belts",
+        "en": "When to replace seat belts"
+       },
+       "words": 366,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t009_dfe62172",
+       "title": {
+        "ru": "Child Restraint System (CRS)",
+        "en": "Child Restraint System (CRS)"
+       },
+       "words": 575,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t010_3634ff06",
+       "title": {
+        "ru": "Securing a child restraint seat with \"Tether Anchor\" system",
+        "en": "Securing a child restraint seat with \"Tether Anchor\" system"
+       },
+       "words": 1141,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t011_0dbc9023",
+       "title": {
+        "ru": "Do not install a child restraint on the front passenger's seat",
+        "en": "Do not install a child restraint on the front passenger's seat"
+       },
+       "words": 1730,
+       "images": 12,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t012_f8c2386c",
+       "title": {
+        "ru": "Condition and operation in the front passenger occupant detection system",
+        "en": "Condition and operation in the front passenger occupant detection system"
+       },
+       "words": 1417,
+       "images": 15,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t013_2abf2903",
+       "title": {
+        "ru": "Supplemental Restraint System (SRS) care",
+        "en": "Supplemental Restraint System (SRS) care"
+       },
+       "words": 1129,
+       "images": 7,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t014_d85abff0",
+       "title": {
+        "ru": "While resetting integrated mem ory system",
+        "en": "While resetting integrated mem ory system"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t015_34f7f41c",
+       "title": {
+        "ru": "Air ventilation seat (if equipped)",
+        "en": "Air ventilation seat (if equipped)"
+       },
+       "words": 962,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t016_d32ba3a3",
+       "title": {
+        "ru": "A: REMOTELY moving forward/back ward...",
+        "en": "A: REMOTELY moving forward/back ward..."
+       },
+       "words": 882,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t017_0366056b",
+       "title": {
+        "ru": "The function will pause in the following conditions when:",
+        "en": "The function will pause in the following conditions when:"
+       },
+       "words": 672,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev6_interior_t018_be002f29",
+       "title": {
+        "ru": "Cleaning the lap/shoulder belt webbing",
+        "en": "Cleaning the lap/shoulder belt webbing"
+       },
+       "words": 420,
+       "images": 3,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "kia_ev6_ev_t000_2c8b6a79",
+       "title": {
+        "ru": "Electric vehicle guide Overview of electric vehicle",
+        "en": "Electric vehicle guide Overview of electric vehicle"
+       },
+       "words": 328,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t001_8b2f4a11",
+       "title": {
+        "ru": "High voltage battery warmer sys tem (if equipped)",
+        "en": "High voltage battery warmer sys tem (if equipped)"
+       },
+       "words": 946,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t002_c982bdb5",
+       "title": {
+        "ru": "A: V2L has ended. Battery level has reached the set value",
+        "en": "A: V2L has ended. Battery level has reached the set value"
+       },
+       "words": 278,
+       "images": 5,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t003_0acb4f07",
+       "title": {
+        "ru": "A: V2L stopped due to excessive power use",
+        "en": "A: V2L stopped due to excessive power use"
+       },
+       "words": 1151,
+       "images": 7,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t004_e82d5315",
+       "title": {
+        "ru": "Charging connector lock Locking charging cable",
+        "en": "Charging connector lock Locking charging cable"
+       },
+       "words": 475,
+       "images": 8,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t005_942e302d",
+       "title": {
+        "ru": "Charging electric vehicle Electric charging door",
+        "en": "Charging electric vehicle Electric charging door"
+       },
+       "words": 690,
+       "images": 5,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t006_4ecd4565",
+       "title": {
+        "ru": "How to store and keep the AC charging cable (if equipped)",
+        "en": "How to store and keep the AC charging cable (if equipped)"
+       },
+       "words": 738,
+       "images": 6,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t007_5cc6f674",
+       "title": {
+        "ru": "How to connect portable charger (ICCB: In-Cable Control Box) (sold separately)",
+        "en": "How to connect portable charger (ICCB: In-Cable Control Box) (sold separately)"
+       },
+       "words": 554,
+       "images": 9,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t008_299b3f38",
+       "title": {
+        "ru": "Charging status indicator lamp for portable charger",
+        "en": "Charging status indicator lamp for portable charger"
+       },
+       "words": 909,
+       "images": 7,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t009_afd16ac1",
+       "title": {
+        "ru": "State of Charge (SOC) gauge for high voltage battery",
+        "en": "State of Charge (SOC) gauge for high voltage battery"
+       },
+       "words": 635,
+       "images": 7,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t010_99668cac",
+       "title": {
+        "ru": "A: Power limited due to low EV battery temperature. Charge battery",
+        "en": "A: Power limited due to low EV battery temperature. Charge battery"
+       },
+       "words": 218,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t011_1031dd5e",
+       "title": {
+        "ru": "Charging Stopped. Check the AC charger/Charging Stopped. Check the DC charger",
+        "en": "Charging Stopped. Check the AC charger/Charging Stopped. Check the DC charger"
+       },
+       "words": 406,
+       "images": 3,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t012_1141f6a5",
+       "title": {
+        "ru": "Other precautions for electric vehicle",
+        "en": "Other precautions for electric vehicle"
+       },
+       "words": 645,
+       "images": 3,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t013_d279aa64",
+       "title": {
+        "ru": "Resetting the power liftgate Emergency liftgate safety release",
+        "en": "Resetting the power liftgate Emergency liftgate safety release"
+       },
+       "words": 958,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t014_6cf586c9",
+       "title": {
+        "ru": "Battery discharging due to exter nal electrical devices",
+        "en": "Battery discharging due to exter nal electrical devices"
+       },
+       "words": 459,
+       "images": 7,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t015_e21a84cd",
+       "title": {
+        "ru": "Charging Stopped. Check the AC charger/Charging Stopped. Check the DC charger",
+        "en": "Charging Stopped. Check the AC charger/Charging Stopped. Check the DC charger"
+       },
+       "words": 515,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t016_f74968da",
+       "title": {
+        "ru": "Liquid in Wireless Smart Phone Charger",
+        "en": "Liquid in Wireless Smart Phone Charger"
+       },
+       "words": 737,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t017_3ad6842c",
+       "title": {
+        "ru": "When the battery (12V) is discharged",
+        "en": "When the battery (12V) is discharged"
+       },
+       "words": 286,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t018_150255d7",
+       "title": {
+        "ru": "High Voltage Components",
+        "en": "High Voltage Components"
+       },
+       "words": 803,
+       "images": 7,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t019_f4cbe27f",
+       "title": {
+        "ru": "Precautions for charging AC and Trickle charger (Portable charging cable (sold s",
+        "en": "Precautions for charging AC and Trickle charger (Portable charging cable (sold s"
+       },
+       "words": 497,
+       "images": 5,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_ev6_ev_t020_41461fd0",
+       "title": {
+        "ru": "Electric charging label symbol table",
+        "en": "Electric charging label symbol table"
+       },
+       "words": 829,
+       "images": 4,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "kia_ev6_general_t000_0992f376",
+       "title": {
+        "ru": "V2L stopped due to excessive power use",
+        "en": "V2L stopped due to excessive power use"
+       },
+       "words": 461,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t001_ec686ea3",
+       "title": {
+        "ru": "Leakage current failure (POWER Green ON, FAULT Red Blink)",
+        "en": "Leakage current failure (POWER Green ON, FAULT Red Blink)"
+       },
+       "words": 183,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t002_d40e6029",
+       "title": {
+        "ru": "Stop vehicle and check power supply",
+        "en": "Stop vehicle and check power supply"
+       },
+       "words": 124,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t003_b4dd18ea",
+       "title": {
+        "ru": "Introduction Vehicle data collection and event data recorders",
+        "en": "Introduction Vehicle data collection and event data recorders"
+       },
+       "words": 668,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t004_7e4eb3bd",
+       "title": {
+        "ru": "Adjusting the height up and down (if equipped)",
+        "en": "Adjusting the height up and down (if equipped)"
+       },
+       "words": 395,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t005_eda8fd6c",
+       "title": {
+        "ru": "Why didn't my air bag go off in a collision? (Inflation and non-inflation condit",
+        "en": "Why didn't my air bag go off in a collision? (Inflation and non-inflation condit"
+       },
+       "words": 289,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t006_517586f8",
+       "title": {
+        "ru": "Features of your vehicle Keys",
+        "en": "Features of your vehicle Keys"
+       },
+       "words": 353,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t007_b79d7ba9",
+       "title": {
+        "ru": "A: Child safety lock failure",
+        "en": "A: Child safety lock failure"
+       },
+       "words": 371,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t008_a0752e30",
+       "title": {
+        "ru": "Emergency liftgate safety release",
+        "en": "Emergency liftgate safety release"
+       },
+       "words": 433,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t009_4c4d5198",
+       "title": {
+        "ru": "Power liftgate open/close button - smart key (1)/inside the vehicle (2)",
+        "en": "Power liftgate open/close button - smart key (1)/inside the vehicle (2)"
+       },
+       "words": 695,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t010_3dffc982",
+       "title": {
+        "ru": "Type B - Auto up/down window (if equipped)",
+        "en": "Type B - Auto up/down window (if equipped)"
+       },
+       "words": 579,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t011_33b0f170",
+       "title": {
+        "ru": "HomeLink 5 Programing Flow Chart",
+        "en": "HomeLink 5 Programing Flow Chart"
+       },
+       "words": 414,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t012_e7ef6602",
+       "title": {
+        "ru": "Trip computer mode 功",
+        "en": "Trip computer mode 功"
+       },
+       "words": 214,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t013_518e09fa",
+       "title": {
+        "ru": "High Beam Assist Malfunction and limitations",
+        "en": "High Beam Assist Malfunction and limitations"
+       },
+       "words": 438,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t014_7233f146",
+       "title": {
+        "ru": "Floor/Defrost-Level (A, C, D, E)",
+        "en": "Floor/Defrost-Level (A, C, D, E)"
+       },
+       "words": 330,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t015_5840c16b",
+       "title": {
+        "ru": "Turning off the front air climate control",
+        "en": "Turning off the front air climate control"
+       },
+       "words": 303,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t016_587a0e67",
+       "title": {
+        "ru": "Aftermarket Floor Mat",
+        "en": "Aftermarket Floor Mat"
+       },
+       "words": 381,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t017_9d484bfb",
+       "title": {
+        "ru": "Blind-Spot Collision-Avoidance Assist (BCA) m 6-70",
+        "en": "Blind-Spot Collision-Avoidance Assist (BCA) m 6-70"
+       },
+       "words": 154,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t018_8e1e8201",
+       "title": {
+        "ru": "Rear Cross-Traffic Collision-Avoidance Assist (RCCA) ........6-143",
+        "en": "Rear Cross-Traffic Collision-Avoidance Assist (RCCA) ........6-143"
+       },
+       "words": 219,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t019_b49d89fc",
+       "title": {
+        "ru": "Shifting conditions not met",
+        "en": "Shifting conditions not met"
+       },
+       "words": 507,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t020_4882259d",
+       "title": {
+        "ru": "Rotary shifter turned while pressing P",
+        "en": "Rotary shifter turned while pressing P"
+       },
+       "words": 471,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t021_23b243ee",
+       "title": {
+        "ru": "Electronic stability control (ESC) operation off",
+        "en": "Electronic stability control (ESC) operation off"
+       },
+       "words": 371,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t022_43d9c71b",
+       "title": {
+        "ru": "Initial setting for each DRIVE MODE",
+        "en": "Initial setting for each DRIVE MODE"
+       },
+       "words": 396,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t023_b4d7c71a",
+       "title": {
+        "ru": "Junction Crossing function (if equipped)",
+        "en": "Junction Crossing function (if equipped)"
+       },
+       "words": 261,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t024_360483b1",
+       "title": {
+        "ru": "A: Collision Warning",
+        "en": "A: Collision Warning"
+       },
+       "words": 156,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t025_50364804",
+       "title": {
+        "ru": "Forward Collision-Avoidance Assist malfunction and limitations",
+        "en": "Forward Collision-Avoidance Assist malfunction and limitations"
+       },
+       "words": 320,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t026_5cba4971",
+       "title": {
+        "ru": "Blind-Spot Collision-Avoidance Assist malfunction and limitations",
+        "en": "Blind-Spot Collision-Avoidance Assist malfunction and limitations"
+       },
+       "words": 281,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t027_47f74bf2",
+       "title": {
+        "ru": "Safe Exit Warning malfunction and limitations",
+        "en": "Safe Exit Warning malfunction and limitations"
+       },
+       "words": 486,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t028_4dfab6f8",
+       "title": {
+        "ru": "Safe Exit Assist linked with Electronic child safety lock",
+        "en": "Safe Exit Assist linked with Electronic child safety lock"
+       },
+       "words": 241,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t029_0afe1b75",
+       "title": {
+        "ru": "Temporarily pausing Manual Speed Limit Assist",
+        "en": "Temporarily pausing Manual Speed Limit Assist"
+       },
+       "words": 673,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t030_6d53a5b8",
+       "title": {
+        "ru": "Intelligent Speed Limit Assist malfunction and limitations",
+        "en": "Intelligent Speed Limit Assist malfunction and limitations"
+       },
+       "words": 655,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t031_c44e83df",
+       "title": {
+        "ru": "Driver Attention Warning malfunction and limitations",
+        "en": "Driver Attention Warning malfunction and limitations"
+       },
+       "words": 445,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t032_63c76c8b",
+       "title": {
+        "ru": "Based on Driving Style (if equipped)",
+        "en": "Based on Driving Style (if equipped)"
+       },
+       "words": 531,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t033_c79e4b62",
+       "title": {
+        "ru": "Smart Cruise Control operation Operating conditions",
+        "en": "Smart Cruise Control operation Operating conditions"
+       },
+       "words": 236,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t034_cd5cd8b2",
+       "title": {
+        "ru": "Smart Cruise Control malfunction and limitations",
+        "en": "Smart Cruise Control malfunction and limitations"
+       },
+       "words": 1128,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t035_6ea1c9f8",
+       "title": {
+        "ru": "Lane Following Assist malfunction and limitations",
+        "en": "Lane Following Assist malfunction and limitations"
+       },
+       "words": 376,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t036_de4fa95f",
+       "title": {
+        "ru": "Highway Driving Assist malfunction and limitations",
+        "en": "Highway Driving Assist malfunction and limitations"
+       },
+       "words": 304,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t037_b9381c28",
+       "title": {
+        "ru": "Rear Cross-Traffic CollisionAvoidance Assist (RCCA) (if equipped)",
+        "en": "Rear Cross-Traffic CollisionAvoidance Assist (RCCA) (if equipped)"
+       },
+       "words": 338,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t038_2824b66f",
+       "title": {
+        "ru": "Rear Cross-Traffic CollisionAvoidance Assist malfunction and limitations",
+        "en": "Rear Cross-Traffic CollisionAvoidance Assist malfunction and limitations"
+       },
+       "words": 579,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t039_d6f63d93",
+       "title": {
+        "ru": "Smart Exit operation status",
+        "en": "Smart Exit operation status"
+       },
+       "words": 333,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t040_e281dde1",
+       "title": {
+        "ru": "Under/Overinflated Tires",
+        "en": "Under/Overinflated Tires"
+       },
+       "words": 759,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t041_24ac9931",
+       "title": {
+        "ru": "Reference weight when towing a trailer",
+        "en": "Reference weight when towing a trailer"
+       },
+       "words": 715,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t042_2e89ef89",
+       "title": {
+        "ru": "In case of an emergency while driving 7-2",
+        "en": "In case of an emergency while driving 7-2"
+       },
+       "words": 728,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t043_e483b781",
+       "title": {
+        "ru": "Effective Use of the Tire Pressure Monitoring System (TPMS)",
+        "en": "Effective Use of the Tire Pressure Monitoring System (TPMS)"
+       },
+       "words": 620,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t044_2a3f3f4c",
+       "title": {
+        "ru": "Tire Pressure Monitoring System (TPMS) malfunction indicator 1",
+        "en": "Tire Pressure Monitoring System (TPMS) malfunction indicator 1"
+       },
+       "words": 750,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t045_671c92b9",
+       "title": {
+        "ru": "Checking the tire inflation pres sure",
+        "en": "Checking the tire inflation pres sure"
+       },
+       "words": 737,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t046_363e5402",
+       "title": {
+        "ru": "Using removable towing hook",
+        "en": "Using removable towing hook"
+       },
+       "words": 482,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t047_cf621e0a",
+       "title": {
+        "ru": "Maintenance under severe usage conditions",
+        "en": "Maintenance under severe usage conditions"
+       },
+       "words": 334,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t048_9e656f77",
+       "title": {
+        "ru": "Recommended cold tire inflation pressures",
+        "en": "Recommended cold tire inflation pressures"
+       },
+       "words": 895,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t049_3a775802",
+       "title": {
+        "ru": "Wheel alignment and tire balance",
+        "en": "Wheel alignment and tire balance"
+       },
+       "words": 508,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t050_0846f8ee",
+       "title": {
+        "ru": "5. Maximum permissible inflation pressure",
+        "en": "5. Maximum permissible inflation pressure"
+       },
+       "words": 514,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t051_5b08c013",
+       "title": {
+        "ru": "Matte paint finish vehicle (if equipped)",
+        "en": "Matte paint finish vehicle (if equipped)"
+       },
+       "words": 800,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t052_cb2866f6",
+       "title": {
+        "ru": "Specifications, Consumer information and Reporting safety defects",
+        "en": "Specifications, Consumer information and Reporting safety defects"
+       },
+       "words": 518,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t053_dc23b2c8",
+       "title": {
+        "ru": "Recommended lubricants and capacities",
+        "en": "Recommended lubricants and capacities"
+       },
+       "words": 413,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev6_general_t054_b9685cc9",
+       "title": {
+        "ru": "Registering your vehicle in a foreign country",
+        "en": "Registering your vehicle in a foreign country"
+       },
+       "words": 533,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_ev6_infotainment_t000_a9bbea3a",
+       "title": {
+        "ru": "LCD display. б 5-67",
+        "en": "LCD display. б 5-67"
+       },
+       "words": 364,
+       "images": 2,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t001_dccc4b00",
+       "title": {
+        "ru": "Reduction gear shift indicator",
+        "en": "Reduction gear shift indicator"
+       },
+       "words": 532,
+       "images": 6,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t002_f008739a",
+       "title": {
+        "ru": "Sunroof open warning display (if equipped)",
+        "en": "Sunroof open warning display (if equipped)"
+       },
+       "words": 460,
+       "images": 3,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t003_d494f3a4",
+       "title": {
+        "ru": "Augmented Reality HUD (if equipped)",
+        "en": "Augmented Reality HUD (if equipped)"
+       },
+       "words": 423,
+       "images": 3,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t004_d22696b6",
+       "title": {
+        "ru": "Using a cellular phone or a twoway radio",
+        "en": "Using a cellular phone or a twoway radio"
+       },
+       "words": 663,
+       "images": 8,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t005_e9687ecc",
+       "title": {
+        "ru": "A: Shifting conditions not met, Reduce speed, then shift",
+        "en": "A: Shifting conditions not met, Reduce speed, then shift"
+       },
+       "words": 319,
+       "images": 2,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t006_9a4b7c2d",
+       "title": {
+        "ru": "Lane Keeping Assist settings Lane Safety",
+        "en": "Lane Keeping Assist settings Lane Safety"
+       },
+       "words": 936,
+       "images": 6,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t007_b1ae6cef",
+       "title": {
+        "ru": "Intelligent Speed Limit Assist (ISLA) (if equipped)",
+        "en": "Intelligent Speed Limit Assist (ISLA) (if equipped)"
+       },
+       "words": 597,
+       "images": 3,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t008_a8fa8527",
+       "title": {
+        "ru": "Blind-Spot View Monitor malfunction",
+        "en": "Blind-Spot View Monitor malfunction"
+       },
+       "words": 629,
+       "images": 3,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t009_3f93d789",
+       "title": {
+        "ru": "Navigation-based Smart Cruise Control limitations",
+        "en": "Navigation-based Smart Cruise Control limitations"
+       },
+       "words": 1184,
+       "images": 8,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t010_613f467c",
+       "title": {
+        "ru": "Highway Driving Assist operation Basic function",
+        "en": "Highway Driving Assist operation Basic function"
+       },
+       "words": 693,
+       "images": 3,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t011_38d91532",
+       "title": {
+        "ru": "Rear View Monitor malfunction",
+        "en": "Rear View Monitor malfunction"
+       },
+       "words": 418,
+       "images": 4,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t012_50e0c368",
+       "title": {
+        "ru": "Forward/Reverse Parking Distance Warning settings",
+        "en": "Forward/Reverse Parking Distance Warning settings"
+       },
+       "words": 698,
+       "images": 4,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t013_ed86f5cf",
+       "title": {
+        "ru": "How to turn off Remote Operation function while operating",
+        "en": "How to turn off Remote Operation function while operating"
+       },
+       "words": 669,
+       "images": 4,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev6_infotainment_t014_900e5325",
+       "title": {
+        "ru": "A: Check Parking Assist 1 Visit a nearby service center.",
+        "en": "A: Check Parking Assist 1 Visit a nearby service center."
+       },
+       "words": 361,
+       "images": 1,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "cooling",
+     "title": {
+      "ru": "cooling",
+      "en": "cooling"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_ev6_cooling_t000_9d051cf2",
+       "title": {
+        "ru": "Defrosting outside windshield with automatic climate control",
+        "en": "Defrosting outside windshield with automatic climate control"
+       },
+       "words": 707,
+       "images": 6,
+       "section_id": "cooling"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_ev6_sensors_t000_9d8fe979",
+       "title": {
+        "ru": "Remote Smart Parking Assist (RSPA) (6, 7) (if equipped)",
+        "en": "Remote Smart Parking Assist (RSPA) (6, 7) (if equipped)"
+       },
+       "words": 752,
+       "images": 3,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_ev6_sensors_t001_9b900781",
+       "title": {
+        "ru": "Forward/Reverse Parking Distance Warning (PDW). ...........6-154",
+        "en": "Forward/Reverse Parking Distance Warning (PDW). ...........6-154"
+       },
+       "words": 1133,
+       "images": 1,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_ev6_sensors_t002_ab879f95",
+       "title": {
+        "ru": "Limitations of Blind-Spot Collision-Avoidance Assist",
+        "en": "Limitations of Blind-Spot Collision-Avoidance Assist"
+       },
+       "words": 2594,
+       "images": 8,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_ev6_sensors_t003_d4da6894",
+       "title": {
+        "ru": "Driver Attention Warning",
+        "en": "Driver Attention Warning"
+       },
+       "words": 504,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_ev6_sensors_t004_7db516d7",
+       "title": {
+        "ru": "Limitations of Smart Cruise Control",
+        "en": "Limitations of Smart Cruise Control"
+       },
+       "words": 799,
+       "images": 5,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_ev6_sensors_t005_2be816fb",
+       "title": {
+        "ru": "Surround View Monitor operation Parking/View button",
+        "en": "Surround View Monitor operation Parking/View button"
+       },
+       "words": 412,
+       "images": 6,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_ev6_sensors_t006_cc0b05e0",
+       "title": {
+        "ru": "Forward/Reverse Parking Distance Warning (PDW) (if equipped)",
+        "en": "Forward/Reverse Parking Distance Warning (PDW) (if equipped)"
+       },
+       "words": 791,
+       "images": 2,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_ev6_sensors_t007_186430bf",
+       "title": {
+        "ru": "Forward/Reverse Parking Distance Warning malfunction and precautions",
+        "en": "Forward/Reverse Parking Distance Warning malfunction and precautions"
+       },
+       "words": 1144,
+       "images": 5,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_ev6_sensors_t008_6ce005b3",
+       "title": {
+        "ru": "Reverse Parking CollisionAvoidance Assist malfunction and limitations",
+        "en": "Reverse Parking CollisionAvoidance Assist malfunction and limitations"
+       },
+       "words": 502,
+       "images": 5,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_ev6_sensors_t009_0c55e8b4",
+       "title": {
+        "ru": "A: Searching for parking space... 1 Slowly drive forward (below 12 mph).",
+        "en": "A: Searching for parking space... 1 Slowly drive forward (below 12 mph)."
+       },
+       "words": 603,
+       "images": 9,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_ev6_sensors_t010_aac3874a",
+       "title": {
+        "ru": "Remote Smart Parking Assist malfunction and limitations",
+        "en": "Remote Smart Parking Assist malfunction and limitations"
+       },
+       "words": 765,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_ev6_sensors_t011_a1190880",
+       "title": {
+        "ru": "Side and Curtain Air Bag",
+        "en": "Side and Curtain Air Bag"
+       },
+       "words": 797,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_ev6_drivetrain_t000_1b109076",
+       "title": {
+        "ru": "Weight of the trailer tongue",
+        "en": "Weight of the trailer tongue"
+       },
+       "words": 428,
+       "images": 1,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "fuel",
+     "title": {
+      "ru": "fuel",
+      "en": "fuel"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_ev6_fuel_t000_c7065168",
+       "title": {
+        "ru": "Tires and wheels",
+        "en": "Tires and wheels"
+       },
+       "words": 50,
+       "images": 0,
+       "section_id": "fuel"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2365 @@
+{
+ "version": "1.0",
+ "model": "atto_3",
+ "manuals": [
+  {
+   "model": "atto_3",
+   "label": {
+    "ru": "Byd Atto 3 — Руководство по ремонту",
+    "en": "Byd Atto 3 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "byd_atto_3_brakes_t000_904d1193",
+       "title": {
+        "ru": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal",
+        "en": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal"
+       },
+       "words": 1549,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_atto_3_brakes_t001_6295ac99",
+       "title": {
+        "ru": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal",
+        "en": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal"
+       },
+       "words": 1272,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_atto_3_brakes_t002_9ed1d0fb",
+       "title": {
+        "ru": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal",
+        "en": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal"
+       },
+       "words": 2129,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_atto_3_brakes_t003_6911ba9e",
+       "title": {
+        "ru": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal",
+        "en": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal"
+       },
+       "words": 2206,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_atto_3_brakes_t004_9b599cab",
+       "title": {
+        "ru": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal",
+        "en": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal"
+       },
+       "words": 2879,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_atto_3_brakes_t005_2bd73364",
+       "title": {
+        "ru": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal",
+        "en": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal"
+       },
+       "words": 2956,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_atto_3_brakes_t006_5d510f61",
+       "title": {
+        "ru": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal",
+        "en": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal"
+       },
+       "words": 3629,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_atto_3_brakes_t007_02e7a86b",
+       "title": {
+        "ru": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal",
+        "en": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal"
+       },
+       "words": 3706,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_atto_3_brakes_t008_7519296b",
+       "title": {
+        "ru": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal",
+        "en": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal"
+       },
+       "words": 4379,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_atto_3_brakes_t009_faf9308d",
+       "title": {
+        "ru": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal",
+        "en": "Right Front Shock Absorber Strut Assembly – Removal and Installation Removal"
+       },
+       "words": 2569,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "byd_atto_3_lighting_t000_7b8c4596",
+       "title": {
+        "ru": "Expansion Tank Testing Testing Procedure",
+        "en": "Expansion Tank Testing Testing Procedure"
+       },
+       "words": 1767,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "byd_atto_3_lighting_t001_e840535f",
+       "title": {
+        "ru": "Left Front Door Frame Seal – Removal and Installation Removal",
+        "en": "Left Front Door Frame Seal – Removal and Installation Removal"
+       },
+       "words": 1439,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "byd_atto_3_lighting_t002_94d445a5",
+       "title": {
+        "ru": "Tailgate Frame Seal – Removal and Installation Removal",
+        "en": "Tailgate Frame Seal – Removal and Installation Removal"
+       },
+       "words": 925,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "byd_atto_3_lighting_t003_fe53df5f",
+       "title": {
+        "ru": "System overview",
+        "en": "System overview"
+       },
+       "words": 1247,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "byd_atto_3_lighting_t004_d3ac0bd6",
+       "title": {
+        "ru": "Caution:",
+        "en": "Caution:"
+       },
+       "words": 53,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "byd_atto_3_interior_t000_368265fb",
+       "title": {
+        "ru": "Precautions for Inspection and Maintenance of Supplemental Restraint System",
+        "en": "Precautions for Inspection and Maintenance of Supplemental Restraint System"
+       },
+       "words": 5655,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "byd_atto_3_interior_t001_9c72aee1",
+       "title": {
+        "ru": "Precautions for Inspection and Maintenance of Supplemental Restraint System",
+        "en": "Precautions for Inspection and Maintenance of Supplemental Restraint System"
+       },
+       "words": 5132,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "byd_atto_3_interior_t002_a2854128",
+       "title": {
+        "ru": "Front Passenger Airbag Module – Removal and Installation Removal",
+        "en": "Front Passenger Airbag Module – Removal and Installation Removal"
+       },
+       "words": 5037,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "byd_atto_3_interior_t003_ae7b857b",
+       "title": {
+        "ru": "Front Passenger Airbag Module – Removal and Installation Removal",
+        "en": "Front Passenger Airbag Module – Removal and Installation Removal"
+       },
+       "words": 13574,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "byd_atto_3_interior_t004_a9f858bb",
+       "title": {
+        "ru": "Front Passenger Airbag Module – Removal and Installation Removal",
+        "en": "Front Passenger Airbag Module – Removal and Installation Removal"
+       },
+       "words": 18238,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "byd_atto_3_interior_t005_38a6f068",
+       "title": {
+        "ru": "Front Passenger Airbag Module – Removal and Installation Removal",
+        "en": "Front Passenger Airbag Module – Removal and Installation Removal"
+       },
+       "words": 14573,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "byd_atto_3_interior_t006_c4a0d61b",
+       "title": {
+        "ru": "Front Passenger Airbag Module – Removal and Installation Removal",
+        "en": "Front Passenger Airbag Module – Removal and Installation Removal"
+       },
+       "words": 15074,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "byd_atto_3_interior_t007_86a5a5e1",
+       "title": {
+        "ru": "Front Passenger Airbag Module – Removal and Installation Removal",
+        "en": "Front Passenger Airbag Module – Removal and Installation Removal"
+       },
+       "words": 19738,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "byd_atto_3_interior_t008_37ca4bcc",
+       "title": {
+        "ru": "Front Passenger Airbag Module – Removal and Installation Removal",
+        "en": "Front Passenger Airbag Module – Removal and Installation Removal"
+       },
+       "words": 5892,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "byd_atto_3_ev_t000_758a909e",
+       "title": {
+        "ru": "Low-voltage Power Supply and Distribution",
+        "en": "Low-voltage Power Supply and Distribution"
+       },
+       "words": 4,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "byd_atto_3_general_t000_81c1cc23",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 19708,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t001_bf1995fa",
+       "title": {
+        "ru": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal",
+        "en": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal"
+       },
+       "words": 13265,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t002_627c1740",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 17089,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t003_1734b51e",
+       "title": {
+        "ru": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov",
+        "en": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov"
+       },
+       "words": 10207,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t004_617e73c7",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 9986,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t005_7b013c1c",
+       "title": {
+        "ru": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem",
+        "en": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem"
+       },
+       "words": 13158,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t006_42786931",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 14654,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t007_8d7dcb48",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 11634,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t008_29ac9b96",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 11783,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t009_cb3d0da0",
+       "title": {
+        "ru": "Precautions for Inspection and Maintenance of Front Compartment",
+        "en": "Precautions for Inspection and Maintenance of Front Compartment"
+       },
+       "words": 21063,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t010_d455ed8e",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 16884,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t011_4424180a",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 17493,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t012_a2fc79c1",
+       "title": {
+        "ru": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal",
+        "en": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal"
+       },
+       "words": 14665,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t013_05628240",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 12750,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t014_9bdae4aa",
+       "title": {
+        "ru": "Front Compartment Cover Strut Holder Component – Removal and Installation Remova",
+        "en": "Front Compartment Cover Strut Holder Component – Removal and Installation Remova"
+       },
+       "words": 14357,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t015_6d5b9674",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 12939,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t016_4ca4e2da",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 17476,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t017_79582e13",
+       "title": {
+        "ru": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal",
+        "en": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal"
+       },
+       "words": 12830,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t018_9a52c1b4",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 22997,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t019_a52bef7e",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 20059,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t020_497bcec1",
+       "title": {
+        "ru": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal",
+        "en": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal"
+       },
+       "words": 18280,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t021_c17ea292",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 18926,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t022_3d26f209",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 15368,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t023_5648f612",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 15605,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t024_d5c37c9a",
+       "title": {
+        "ru": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem",
+        "en": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem"
+       },
+       "words": 14774,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t025_2fee9594",
+       "title": {
+        "ru": "Interior Detection Antenna Assembly (Rear Mounting Bracket of Console) – Removal",
+        "en": "Interior Detection Antenna Assembly (Rear Mounting Bracket of Console) – Removal"
+       },
+       "words": 18037,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t026_056c6797",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 15366,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t027_f1a781e5",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 17065,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t028_9cad9e6c",
+       "title": {
+        "ru": "Precautions for Inspection and Maintenance of Supplemental Restraint System",
+        "en": "Precautions for Inspection and Maintenance of Supplemental Restraint System"
+       },
+       "words": 25567,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t029_e8ef2e62",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 20827,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t030_c062e46d",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 21033,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t031_6c114a5a",
+       "title": {
+        "ru": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal",
+        "en": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal"
+       },
+       "words": 19289,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t032_3e7728f1",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 16661,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t033_1a642a61",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 17895,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t034_9070ec7b",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 16816,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t035_01c2b1da",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 21357,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t036_2b02eb7e",
+       "title": {
+        "ru": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal",
+        "en": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal"
+       },
+       "words": 15931,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t037_a5706fd9",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 25889,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t038_4dd93641",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 24594,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t039_0e8764a5",
+       "title": {
+        "ru": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal",
+        "en": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal"
+       },
+       "words": 20303,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t040_fb57c9eb",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 25338,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t041_5b403bbd",
+       "title": {
+        "ru": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov",
+        "en": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov"
+       },
+       "words": 17997,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t042_39db36b5",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 17395,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t043_14d57170",
+       "title": {
+        "ru": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem",
+        "en": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem"
+       },
+       "words": 20774,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t044_dbbb80c3",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 22187,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t045_3397a844",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 19532,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t046_d6d2fa66",
+       "title": {
+        "ru": "Instrument Panel Middle Face Duct Assembly – Removal and Installation Removal",
+        "en": "Instrument Panel Middle Face Duct Assembly – Removal and Installation Removal"
+       },
+       "words": 18262,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t047_8d291d2d",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 30425,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t048_d1683327",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 24382,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t049_a97accaa",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 25439,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t050_e4faf4b6",
+       "title": {
+        "ru": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal",
+        "en": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal"
+       },
+       "words": 23164,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t051_e00768c4",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 21059,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t052_fb9ae5b9",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 21542,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t053_0d91cd77",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 20395,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t054_f1157e1d",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 24439,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t055_f4590e7a",
+       "title": {
+        "ru": "Multifunctional Video Control Module Assembly – Removal and Installation Removal",
+        "en": "Multifunctional Video Control Module Assembly – Removal and Installation Removal"
+       },
+       "words": 20455,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t056_f5b6f624",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 28707,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t057_5c284af4",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 27346,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t058_5d2b4ba2",
+       "title": {
+        "ru": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal",
+        "en": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal"
+       },
+       "words": 25064,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t059_df55d14c",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 29297,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t060_2d37705e",
+       "title": {
+        "ru": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov",
+        "en": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov"
+       },
+       "words": 21476,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t061_7fde6c1c",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 22114,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t062_88689b3a",
+       "title": {
+        "ru": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem",
+        "en": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem"
+       },
+       "words": 23765,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t063_19df740e",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 26289,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t064_583aaf87",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 23501,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t065_ac1d66ec",
+       "title": {
+        "ru": "Right Rear Window Regulator Bracket Assembly – Removal and Installation Removal",
+        "en": "Right Rear Window Regulator Bracket Assembly – Removal and Installation Removal"
+       },
+       "words": 21835,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t066_99fdf529",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 32864,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t067_0c05631d",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 29127,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t068_f0a88448",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 28552,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t069_c6d8e37c",
+       "title": {
+        "ru": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal",
+        "en": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal"
+       },
+       "words": 27497,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t070_b34aa144",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 25395,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t071_d421d1fb",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 24502,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t072_ccd56cf4",
+       "title": {
+        "ru": "Left Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Inst",
+        "en": "Left Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Inst"
+       },
+       "words": 24351,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t073_e3e60b81",
+       "title": {
+        "ru": "Interior Detection Antenna Assembly (Rear Mounting Bracket of Console) – Removal",
+        "en": "Interior Detection Antenna Assembly (Rear Mounting Bracket of Console) – Removal"
+       },
+       "words": 27427,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t074_5130fdc1",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 25101,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t075_7c66a65e",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 26334,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t076_d50f6760",
+       "title": {
+        "ru": "Precautions for Inspection and Maintenance of Supplemental Restraint System",
+        "en": "Precautions for Inspection and Maintenance of Supplemental Restraint System"
+       },
+       "words": 35456,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t077_ae82452c",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 30089,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t078_80909683",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 30760,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t079_e7f35a7b",
+       "title": {
+        "ru": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal",
+        "en": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal"
+       },
+       "words": 28153,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t080_7d5e6944",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 26101,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t081_8d9eb49a",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 27639,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t082_0fa772c2",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 26051,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t083_768db21f",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 30632,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t084_1312d2d9",
+       "title": {
+        "ru": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal",
+        "en": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal"
+       },
+       "words": 25543,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t085_f42b0211",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 35552,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t086_08bcca66",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 34070,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t087_9945136f",
+       "title": {
+        "ru": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal",
+        "en": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal"
+       },
+       "words": 30186,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t088_762e51ff",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 34121,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t089_5188cbd3",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 27849,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t090_854abb5d",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 27528,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t091_2cc91109",
+       "title": {
+        "ru": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem",
+        "en": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem"
+       },
+       "words": 29237,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t092_0ed04ab1",
+       "title": {
+        "ru": "Interior Detection Antenna Assembly (Rear Mounting Bracket of Console) – Removal",
+        "en": "Interior Detection Antenna Assembly (Rear Mounting Bracket of Console) – Removal"
+       },
+       "words": 31698,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t093_6f64b131",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 28773,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t094_6b36f54d",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 28075,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t095_a38e1ee6",
+       "title": {
+        "ru": "Precautions for Inspection and Maintenance of Supplemental Restraint System",
+        "en": "Precautions for Inspection and Maintenance of Supplemental Restraint System"
+       },
+       "words": 40254,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t096_696eec38",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 33898,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t097_582de898",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 34747,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t098_aed880c2",
+       "title": {
+        "ru": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal",
+        "en": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal"
+       },
+       "words": 32647,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t099_33d253e3",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 29834,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t100_77bb2832",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 31196,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t101_b683eb95",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 30048,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t102_c8d62311",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 34126,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t103_42660aa5",
+       "title": {
+        "ru": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal",
+        "en": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal"
+       },
+       "words": 29435,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t104_1af40922",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 38140,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t105_d4eb41da",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 37812,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t106_6e525b80",
+       "title": {
+        "ru": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal",
+        "en": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal"
+       },
+       "words": 34086,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t107_8334c404",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 38553,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t108_c9c3aaab",
+       "title": {
+        "ru": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov",
+        "en": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov"
+       },
+       "words": 31412,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t109_bbdc1f16",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 30791,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t110_fb701b53",
+       "title": {
+        "ru": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem",
+        "en": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem"
+       },
+       "words": 33674,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t111_745e503d",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 35389,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t112_5eee2733",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 32852,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t113_cddf3d33",
+       "title": {
+        "ru": "Instrument Panel Middle Face Duct Assembly – Removal and Installation Removal",
+        "en": "Instrument Panel Middle Face Duct Assembly – Removal and Installation Removal"
+       },
+       "words": 31422,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t114_5c9ad0bd",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 43299,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t115_d00237ef",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 37929,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t116_277210d0",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 38013,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t117_01c6f14d",
+       "title": {
+        "ru": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal",
+        "en": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal"
+       },
+       "words": 37453,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t118_705ff9c2",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 34235,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t119_4a3498bd",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 34222,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t120_77d6710e",
+       "title": {
+        "ru": "Left Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Inst",
+        "en": "Left Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Inst"
+       },
+       "words": 33675,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t121_8e1bf805",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 36787,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t122_d9acd942",
+       "title": {
+        "ru": "Multifunctional Video Control Module Assembly – Removal and Installation Removal",
+        "en": "Multifunctional Video Control Module Assembly – Removal and Installation Removal"
+       },
+       "words": 34327,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t123_e325dc33",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 37667,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t124_a8e58f1a",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 44945,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t125_e8066d52",
+       "title": {
+        "ru": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal",
+        "en": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal"
+       },
+       "words": 38136,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t126_b0e7850b",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 40368,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t127_e944392a",
+       "title": {
+        "ru": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal",
+        "en": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal"
+       },
+       "words": 37071,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t128_b9939293",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 35536,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t129_f573f832",
+       "title": {
+        "ru": "Front Compartment Cover Strut Holder Component – Removal and Installation Remova",
+        "en": "Front Compartment Cover Strut Holder Component – Removal and Installation Remova"
+       },
+       "words": 37009,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t130_5ccb7c0e",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 37716,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t131_a8acfe5e",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 38068,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t132_ed7debc0",
+       "title": {
+        "ru": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal",
+        "en": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal"
+       },
+       "words": 35363,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t133_e435441f",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 45206,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t134_ec82f754",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 43009,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t135_8b0e79a2",
+       "title": {
+        "ru": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal",
+        "en": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal"
+       },
+       "words": 40268,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t136_534f209f",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 42621,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t137_161498dd",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 37796,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t138_5d5faef0",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 38219,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t139_1faff248",
+       "title": {
+        "ru": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem",
+        "en": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem"
+       },
+       "words": 37742,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t140_c67ed118",
+       "title": {
+        "ru": "Interior Detection Antenna Assembly (Rear Mounting Bracket of Console) – Removal",
+        "en": "Interior Detection Antenna Assembly (Rear Mounting Bracket of Console) – Removal"
+       },
+       "words": 40700,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t141_5247d1e0",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 38090,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t142_4db3018c",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 38611,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t143_0c8c7d8f",
+       "title": {
+        "ru": "Precautions for Inspection and Maintenance of Supplemental Restraint System",
+        "en": "Precautions for Inspection and Maintenance of Supplemental Restraint System"
+       },
+       "words": 49080,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t144_25bfd7c8",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 43406,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t145_8a363ec0",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 43949,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t146_acd6911a",
+       "title": {
+        "ru": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal",
+        "en": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal"
+       },
+       "words": 41944,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t147_d70a4ecb",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 39218,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t148_12e8cef3",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 40794,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t149_cde0264e",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 39389,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t150_3296d390",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 43898,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t151_1a450521",
+       "title": {
+        "ru": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal",
+        "en": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal"
+       },
+       "words": 38739,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t152_81cd44f4",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 48178,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t153_8f2ede93",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 47027,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t154_4f7f1f62",
+       "title": {
+        "ru": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal",
+        "en": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal"
+       },
+       "words": 43474,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t155_ccd71e9f",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 47840,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t156_19122d00",
+       "title": {
+        "ru": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov",
+        "en": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov"
+       },
+       "words": 40711,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t157_23250f2d",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 40234,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t158_b6e3d359",
+       "title": {
+        "ru": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem",
+        "en": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem"
+       },
+       "words": 43453,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t159_69bcb23e",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 44853,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t160_3e8fb8f9",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 42026,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t161_1438856d",
+       "title": {
+        "ru": "Instrument Panel Middle Face Duct Assembly – Removal and Installation Removal",
+        "en": "Instrument Panel Middle Face Duct Assembly – Removal and Installation Removal"
+       },
+       "words": 40955,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t162_a280debd",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 52755,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t163_9c86e948",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 47477,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t164_8ce8ec31",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 47787,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t165_4966f8cc",
+       "title": {
+        "ru": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal",
+        "en": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal"
+       },
+       "words": 46266,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t166_9ebfddfa",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 43749,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t167_b96454b8",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 43990,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t168_6c0eb1e3",
+       "title": {
+        "ru": "Left Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Inst",
+        "en": "Left Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Inst"
+       },
+       "words": 43073,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t169_f7d9b83c",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 46222,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t170_9a265b1e",
+       "title": {
+        "ru": "Multifunctional Video Control Module Assembly – Removal and Installation Removal",
+        "en": "Multifunctional Video Control Module Assembly – Removal and Installation Removal"
+       },
+       "words": 44095,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t171_f6e4ae4c",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 47537,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t172_d9e7a633",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 53809,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t173_3cc74dbe",
+       "title": {
+        "ru": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal",
+        "en": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal"
+       },
+       "words": 47947,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t174_54fa7ff0",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 49336,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t175_52c10d90",
+       "title": {
+        "ru": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov",
+        "en": "Rear Bumper Lower Left Support Bracket Assembly – Removal and Installation Remov"
+       },
+       "words": 46436,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t176_9a03586c",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 45045,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t177_4e4a2695",
+       "title": {
+        "ru": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem",
+        "en": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem"
+       },
+       "words": 46419,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t178_11fd8539",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 48579,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t179_b65e028a",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 46651,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t180_9f86e4c8",
+       "title": {
+        "ru": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal",
+        "en": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal"
+       },
+       "words": 44465,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t181_3307c398",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 55276,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t182_4c842250",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 52045,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t183_d0e0c2c3",
+       "title": {
+        "ru": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal",
+        "en": "Right Pressing Plate of Front Stabilizer Bar – Removal and Installation Removal"
+       },
+       "words": 50597,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t184_ecc6e824",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 50813,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t185_fa48415e",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 47730,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t186_237e4744",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 47537,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t187_c56c581e",
+       "title": {
+        "ru": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem",
+        "en": "Left Connecting Plate of Upper Beam of Water Tank – Removal and Installation Rem"
+       },
+       "words": 46931,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t188_0e05a0ae",
+       "title": {
+        "ru": "Interior Detection Antenna Assembly (Rear Mounting Bracket of Console) – Removal",
+        "en": "Interior Detection Antenna Assembly (Rear Mounting Bracket of Console) – Removal"
+       },
+       "words": 50150,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t189_908ddca1",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 47473,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t190_b482bdc5",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 49323,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t191_ef0e2fa7",
+       "title": {
+        "ru": "Precautions for Inspection and Maintenance of Supplemental Restraint System",
+        "en": "Precautions for Inspection and Maintenance of Supplemental Restraint System"
+       },
+       "words": 57536,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t192_c1508029",
+       "title": {
+        "ru": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation",
+        "en": "Front Drive Motor + Transmission Assembly Repair Kit – Removal and Installation"
+       },
+       "words": 53071,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t193_2764081a",
+       "title": {
+        "ru": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel",
+        "en": "Installation Mode of Intelligent Power Braking System Installation Mode of Intel"
+       },
+       "words": 53329,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t194_d5e2e9d9",
+       "title": {
+        "ru": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal",
+        "en": "Electric Power Steering Column and Universal Joint Assembly – Removal and Instal"
+       },
+       "words": 51216,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t195_da6f28e6",
+       "title": {
+        "ru": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation",
+        "en": "Electric Front Passenger Seat Adjustment Switch Body – Removal and Installation"
+       },
+       "words": 48831,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t196_ec11b7ad",
+       "title": {
+        "ru": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal",
+        "en": "Right C-Pillar Exterior Trim Panel Assembly – Removal and Installation Removal"
+       },
+       "words": 50047,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t197_012bbdc5",
+       "title": {
+        "ru": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins",
+        "en": "Right Rear Door Front Movable Guide Rail and Mud Tank Assembly – Removal and Ins"
+       },
+       "words": 48857,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t198_720c6440",
+       "title": {
+        "ru": "Instrumentation and Alarm System System Description Combination Instrument Compo",
+        "en": "Instrumentation and Alarm System System Description Combination Instrument Compo"
+       },
+       "words": 53510,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t199_b1627ab6",
+       "title": {
+        "ru": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal",
+        "en": "Right Front Window Regulator Bracket Assembly – Removal and Installation Removal"
+       },
+       "words": 48058,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_atto_3_general_t200_cb999f7a",
+       "title": {
+        "ru": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation",
+        "en": "Battery Cooling Plate Heat Exchanger Bracket Assembly – Removal and Installation"
+       },
+       "words": 32641,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "byd_atto_3_infotainment_t000_05aa2b87",
+       "title": {
+        "ru": "Rear Face Duct Assembly I – Removal and Installation Removal",
+        "en": "Rear Face Duct Assembly I – Removal and Installation Removal"
+       },
+       "words": 961,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "byd_atto_3_infotainment_t001_7291609d",
+       "title": {
+        "ru": "Bluetooth Module Bracket – Removal and Installation Removal",
+        "en": "Bluetooth Module Bracket – Removal and Installation Removal"
+       },
+       "words": 2405,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "byd_atto_3_infotainment_t002_45e63d01",
+       "title": {
+        "ru": "Bluetooth Module Bracket – Removal and Installation Removal",
+        "en": "Bluetooth Module Bracket – Removal and Installation Removal"
+       },
+       "words": 661,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

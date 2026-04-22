@@ -1,0 +1,215 @@
+{
+ "version": "1.0",
+ "model": "lacetti",
+ "manuals": [
+  {
+   "model": "lacetti",
+   "label": {
+    "ru": "Chevrolet Lacetti — Руководство по ремонту",
+    "en": "Chevrolet Lacetti — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "chevrolet_lacetti_engine_t000_ac4e26ef",
+       "title": {
+        "ru": "Меняем предохранители",
+        "en": "Меняем предохранители"
+       },
+       "words": 2016,
+       "images": 74,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "chevrolet_lacetti_brakes_t000_9cfa79f2",
+       "title": {
+        "ru": "Регулируем ручной тормоз",
+        "en": "Регулируем ручной тормоз"
+       },
+       "words": 1400,
+       "images": 53,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "chevrolet_lacetti_electrical_t000_2be45bf3",
+       "title": {
+        "ru": "Меняем ремень",
+        "en": "Меняем ремень"
+       },
+       "words": 1372,
+       "images": 50,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "chevrolet_lacetti_body_t000_ec287345",
+       "title": {
+        "ru": "Снимаем подкрылок",
+        "en": "Снимаем подкрылок"
+       },
+       "words": 649,
+       "images": 27,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "chevrolet_lacetti_steering_t000_beb4a766",
+       "title": {
+        "ru": "CHEVROLET LACETTI",
+        "en": "CHEVROLET LACETTI"
+       },
+       "words": 96,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "chevrolet_lacetti_lighting_t000_33aa4a4a",
+       "title": {
+        "ru": "Меняем лампы/снимаем фонарь",
+        "en": "Меняем лампы/снимаем фонарь"
+       },
+       "words": 696,
+       "images": 24,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "chevrolet_lacetti_ev_t000_95d6b16d",
+       "title": {
+        "ru": "Снимаем аккумулятор",
+        "en": "Снимаем аккумулятор"
+       },
+       "words": 335,
+       "images": 11,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "chevrolet_lacetti_chassis_t000_7dbe009c",
+       "title": {
+        "ru": "Регулируем ручной тормоз",
+        "en": "Регулируем ручной тормоз"
+       },
+       "words": 554,
+       "images": 12,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "chevrolet_lacetti_general_t000_61a8e792",
+       "title": {
+        "ru": "Уважаемый владелец aвтомобиля Chevrolet Lacetti!",
+        "en": "Уважаемый владелец aвтомобиля Chevrolet Lacetti!"
+       },
+       "words": 2184,
+       "images": 79,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chevrolet_lacetti_drivetrain_t000_4bfbd74f",
+       "title": {
+        "ru": "Меняем ремень",
+        "en": "Меняем ремень"
+       },
+       "words": 147,
+       "images": 8,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

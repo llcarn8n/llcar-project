@@ -1,0 +1,1395 @@
+{
+ "version": "1.0",
+ "model": "mustang_mach_e",
+ "manuals": [
+  {
+   "model": "mustang_mach_e",
+   "label": {
+    "ru": "Ford Mustang Mach-E — Руководство по ремонту",
+    "en": "Ford Mustang Mach-E — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "ford_mustang_mach_e_brakes_t000_784e70d0",
+       "title": {
+        "ru": "Closing the Liftgate From Outside Your Vehicle",
+        "en": "Closing the Liftgate From Outside Your Vehicle"
+       },
+       "words": 1818,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ford_mustang_mach_e_brakes_t001_41543baf",
+       "title": {
+        "ru": "Less Cost to Properly Maintain Your Vehicle",
+        "en": "Less Cost to Properly Maintain Your Vehicle"
+       },
+       "words": 695,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "ford_mustang_mach_e_electrical_t000_3cebf02a",
+       "title": {
+        "ru": "Fuses – Frequently Asked Questions",
+        "en": "Fuses – Frequently Asked Questions"
+       },
+       "words": 182,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "ford_mustang_mach_e_hvac_t000_f994f56e",
+       "title": {
+        "ru": "AIR CONDITIONING SYSTEM CAPACITY AND SPECIFICATION",
+        "en": "AIR CONDITIONING SYSTEM CAPACITY AND SPECIFICATION"
+       },
+       "words": 72,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "ford_mustang_mach_e_body_t000_f8807e30",
+       "title": {
+        "ru": "CRASH SENSORS AND AIRBAG INDICATOR",
+        "en": "CRASH SENSORS AND AIRBAG INDICATOR"
+       },
+       "words": 1082,
+       "images": 25,
+       "section_id": "body"
+      },
+      {
+       "id": "ford_mustang_mach_e_body_t001_79db7cf5",
+       "title": {
+        "ru": "Individually Unlocking and Locking the Doors Using the Locking Button",
+        "en": "Individually Unlocking and Locking the Doors Using the Locking Button"
+       },
+       "words": 537,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "ford_mustang_mach_e_body_t002_a3a22abe",
+       "title": {
+        "ru": "Opening the Liftgate with Passive Key (If Equipped)",
+        "en": "Opening the Liftgate with Passive Key (If Equipped)"
+       },
+       "words": 526,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "ford_mustang_mach_e_body_t003_93be08c4",
+       "title": {
+        "ru": "FOLDING THE EXTERIOR MIRRORS - VEHICLES WITH: MANUAL FOLDING MIRRORS",
+        "en": "FOLDING THE EXTERIOR MIRRORS - VEHICLES WITH: MANUAL FOLDING MIRRORS"
+       },
+       "words": 547,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "ford_mustang_mach_e_body_t004_e9251f1f",
+       "title": {
+        "ru": "Reverse Braking Assist – Frequently Asked Questions",
+        "en": "Reverse Braking Assist – Frequently Asked Questions"
+       },
+       "words": 1518,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "ford_mustang_mach_e_body_t005_9ac71308",
+       "title": {
+        "ru": "LOCATING THE BLIND SPOT INFORMATION SYSTEM SENSORS",
+        "en": "LOCATING THE BLIND SPOT INFORMATION SYSTEM SENSORS"
+       },
+       "words": 1047,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "ford_mustang_mach_e_body_t006_f1948945",
+       "title": {
+        "ru": "Applying an Over the Air System Update",
+        "en": "Applying an Over the Air System Update"
+       },
+       "words": 2389,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "ford_mustang_mach_e_body_t007_b03bbe30",
+       "title": {
+        "ru": "Index",
+        "en": "Index"
+       },
+       "words": 860,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "ford_mustang_mach_e_steering_t000_d06c992a",
+       "title": {
+        "ru": "HOW DOES STABILITY CONTROL WORK",
+        "en": "HOW DOES STABILITY CONTROL WORK"
+       },
+       "words": 278,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "fuel_ev",
+     "title": {
+      "ru": "Топливная / ВВ система",
+      "en": "Fuel / HV System"
+     },
+     "icon": "⛽",
+     "topics": [
+      {
+       "id": "ford_mustang_mach_e_fuel_ev_t000_c1fea3cc",
+       "title": {
+        "ru": "Overnight Charging and Storage",
+        "en": "Overnight Charging and Storage"
+       },
+       "words": 1599,
+       "images": 5,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "ford_mustang_mach_e_fuel_ev_t001_9087c205",
+       "title": {
+        "ru": "Why does my vehicle have a hum or fan noise when charging?",
+        "en": "Why does my vehicle have a hum or fan noise when charging?"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "fuel_ev"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "ford_mustang_mach_e_lighting_t000_3b309e42",
+       "title": {
+        "ru": "Switching the Daytime Running Lamps On and Off - Vehicles With: Configurable Day",
+        "en": "Switching the Daytime Running Lamps On and Off - Vehicles With: Configurable Day"
+       },
+       "words": 738,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ford_mustang_mach_e_lighting_t001_7ab237f0",
+       "title": {
+        "ru": "Automatic High Beam Control Limitations",
+        "en": "Automatic High Beam Control Limitations"
+       },
+       "words": 936,
+       "images": 2,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "ford_mustang_mach_e_adas_t000_5be3e941",
+       "title": {
+        "ru": "HOW DOES ADAPTIVE CRUISE CONTROL WITH STOP AND GO WORK",
+        "en": "HOW DOES ADAPTIVE CRUISE CONTROL WITH STOP AND GO WORK"
+       },
+       "words": 848,
+       "images": 6,
+       "section_id": "adas"
+      },
+      {
+       "id": "ford_mustang_mach_e_adas_t001_3cbe515f",
+       "title": {
+        "ru": "Index",
+        "en": "Index"
+       },
+       "words": 1169,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "ford_mustang_mach_e_interior_t000_454139d5",
+       "title": {
+        "ru": "Combining the Seatbelt and Lower Anchors for Attaching Child Restraints",
+        "en": "Combining the Seatbelt and Lower Anchors for Attaching Child Restraints"
+       },
+       "words": 1500,
+       "images": 7,
+       "section_id": "interior"
+      },
+      {
+       "id": "ford_mustang_mach_e_interior_t001_f39eb249",
+       "title": {
+        "ru": "How Does Sensitive Locking Mode Work",
+        "en": "How Does Sensitive Locking Mode Work"
+       },
+       "words": 914,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "ford_mustang_mach_e_interior_t002_de73176e",
+       "title": {
+        "ru": "Switching the Seatbelt Reminder On and Off",
+        "en": "Switching the Seatbelt Reminder On and Off"
+       },
+       "words": 1008,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "ford_mustang_mach_e_interior_t003_a4779419",
+       "title": {
+        "ru": "Closing the Liftgate From Outside Your Vehicle",
+        "en": "Closing the Liftgate From Outside Your Vehicle"
+       },
+       "words": 1599,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "ford_mustang_mach_e_interior_t004_6f7b7737",
+       "title": {
+        "ru": "Switching the Heated Steering Wheel Settings On and Off",
+        "en": "Switching the Heated Steering Wheel Settings On and Off"
+       },
+       "words": 1049,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "ford_mustang_mach_e_interior_t005_4876033c",
+       "title": {
+        "ru": "How Does the Post-Crash Alert System Work",
+        "en": "How Does the Post-Crash Alert System Work"
+       },
+       "words": 1188,
+       "images": 1,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "ford_mustang_mach_e_general_t000_6964e456",
+       "title": {
+        "ru": "California Proposition 65",
+        "en": "California Proposition 65"
+       },
+       "words": 440,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t001_c355d424",
+       "title": {
+        "ru": "Liftgate Vehicles With: Hands-Free Liftgate",
+        "en": "Liftgate Vehicles With: Hands-Free Liftgate"
+       },
+       "words": 318,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t002_3dea6463",
+       "title": {
+        "ru": "Wireless Accessory Charger",
+        "en": "Wireless Accessory Charger"
+       },
+       "words": 430,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t003_50375f3f",
+       "title": {
+        "ru": "Adaptive Cruise Control",
+        "en": "Adaptive Cruise Control"
+       },
+       "words": 374,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t004_ca5bbb2a",
+       "title": {
+        "ru": "Blind Spot Information System",
+        "en": "Blind Spot Information System"
+       },
+       "words": 445,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t005_121632a6",
+       "title": {
+        "ru": "Crash and Breakdown Information",
+        "en": "Crash and Breakdown Information"
+       },
+       "words": 302,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t006_5fc01b74",
+       "title": {
+        "ru": "Information and Entertainment Display Overview",
+        "en": "Information and Entertainment Display Overview"
+       },
+       "words": 330,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t007_84819080",
+       "title": {
+        "ru": "Caribbean, Central America and Israel",
+        "en": "Caribbean, Central America and Israel"
+       },
+       "words": 280,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t008_54c4cd9d",
+       "title": {
+        "ru": "Active Drive Assist Driver Facing Camera Data (If Equipped)",
+        "en": "Active Drive Assist Driver Facing Camera Data (If Equipped)"
+       },
+       "words": 761,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t009_be0353f8",
+       "title": {
+        "ru": "Entertainment Data",
+        "en": "Entertainment Data"
+       },
+       "words": 1334,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t010_6b01d7dc",
+       "title": {
+        "ru": "Installing a Child Restraint in a Center Seat",
+        "en": "Installing a Child Restraint in a Center Seat"
+       },
+       "words": 932,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t011_fb1db29a",
+       "title": {
+        "ru": "What Is the Front Passenger Sensing System",
+        "en": "What Is the Front Passenger Sensing System"
+       },
+       "words": 819,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t012_19f91ffd",
+       "title": {
+        "ru": "WHAT IS THE PEDESTRIAN ALERT SYSTEM",
+        "en": "WHAT IS THE PEDESTRIAN ALERT SYSTEM"
+       },
+       "words": 933,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t013_3a828348",
+       "title": {
+        "ru": "Why do get a No Key Detected message in the instrument cluster display when am u",
+        "en": "Why do get a No Key Detected message in the instrument cluster display when am u"
+       },
+       "words": 714,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t014_889c400a",
+       "title": {
+        "ru": "I uninstalled my FordPass app and reinstalled it. Why am I not able to get a new",
+        "en": "I uninstalled my FordPass app and reinstalled it. Why am I not able to get a new"
+       },
+       "words": 469,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t015_f47d8646",
+       "title": {
+        "ru": "Why is the MyKey distance not accumulating?",
+        "en": "Why is the MyKey distance not accumulating?"
+       },
+       "words": 461,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t016_8f5aa43b",
+       "title": {
+        "ru": "Why am I not able to start the vehicle with a MyKey?",
+        "en": "Why am I not able to start the vehicle with a MyKey?"
+       },
+       "words": 359,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t017_5cac5844",
+       "title": {
+        "ru": "Opening the Liftgate From Outside Your Vehicle",
+        "en": "Opening the Liftgate From Outside Your Vehicle"
+       },
+       "words": 443,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t018_08aa94aa",
+       "title": {
+        "ru": "Liftgate Vehicles With: Hands-Free Liftgate",
+        "en": "Liftgate Vehicles With: Hands-Free Liftgate"
+       },
+       "words": 784,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t019_71997c55",
+       "title": {
+        "ru": "Opening the Liftgate From Outside Your Vehicle",
+        "en": "Opening the Liftgate From Outside Your Vehicle"
+       },
+       "words": 397,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t020_355b2b53",
+       "title": {
+        "ru": "What should do if there is any potential alarm problem with my vehicle?",
+        "en": "What should do if there is any potential alarm problem with my vehicle?"
+       },
+       "words": 292,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t021_fc4e3f90",
+       "title": {
+        "ru": "Adjusting the Sensitivity of the Rain Sensor",
+        "en": "Adjusting the Sensitivity of the Rain Sensor"
+       },
+       "words": 475,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t022_4b8f7c76",
+       "title": {
+        "ru": "Why are there streaks and smears on the windshield?",
+        "en": "Why are there streaks and smears on the windshield?"
+       },
+       "words": 420,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t023_86849529",
+       "title": {
+        "ru": "Why do my headlamps turn off when I have them switched on when switch my vehicle",
+        "en": "Why do my headlamps turn off when I have them switched on when switch my vehicle"
+       },
+       "words": 337,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t024_e7a1b620",
+       "title": {
+        "ru": "Switching the Interior Lamp Function On and Off",
+        "en": "Switching the Interior Lamp Function On and Off"
+       },
+       "words": 377,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t025_c373ce31",
+       "title": {
+        "ru": "What Is the Auto-Dimming Interior Mirror",
+        "en": "What Is the Auto-Dimming Interior Mirror"
+       },
+       "words": 624,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t026_f2a947c2",
+       "title": {
+        "ru": "Charge Required to Reach Destination",
+        "en": "Charge Required to Reach Destination"
+       },
+       "words": 399,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t027_95f630ba",
+       "title": {
+        "ru": "Low Washer Fluid Level",
+        "en": "Low Washer Fluid Level"
+       },
+       "words": 162,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t028_aad469b6",
+       "title": {
+        "ru": "Remotely Starting the Vehicle",
+        "en": "Remotely Starting the Vehicle"
+       },
+       "words": 624,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t029_220e4d5d",
+       "title": {
+        "ru": "Switching Climate Control Last Settings On and Off",
+        "en": "Switching Climate Control Last Settings On and Off"
+       },
+       "words": 470,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t030_511895de",
+       "title": {
+        "ru": "Directing Air to the Instrument Panel Air Vents",
+        "en": "Directing Air to the Instrument Panel Air Vents"
+       },
+       "words": 290,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t031_827573bf",
+       "title": {
+        "ru": "Defogging the Side Windows in Cold Weather",
+        "en": "Defogging the Side Windows in Cold Weather"
+       },
+       "words": 769,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t032_ed3fd0f6",
+       "title": {
+        "ru": "Moving the Seat Backward and Forward",
+        "en": "Moving the Seat Backward and Forward"
+       },
+       "words": 592,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t033_9cbe7741",
+       "title": {
+        "ru": "Switching the Heated Seats On and Off",
+        "en": "Switching the Heated Seats On and Off"
+       },
+       "words": 555,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t034_67b5748c",
+       "title": {
+        "ru": "SWITCHING REAR OCCUPANT ALERT SYSTEM ON AND OFF",
+        "en": "SWITCHING REAR OCCUPANT ALERT SYSTEM ON AND OFF"
+       },
+       "words": 440,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t035_ef82451c",
+       "title": {
+        "ru": "PROGRAMMING THE GARAGE DOOR OPENER TO YOUR GARAGE DOOR OPENER MOTOR",
+        "en": "PROGRAMMING THE GARAGE DOOR OPENER TO YOUR GARAGE DOOR OPENER MOTOR"
+       },
+       "words": 1181,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t036_4cd32845",
+       "title": {
+        "ru": "WIRELESS ACCESSORY CHARGER – TROUBLESHOOTING",
+        "en": "WIRELESS ACCESSORY CHARGER – TROUBLESHOOTING"
+       },
+       "words": 513,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t037_5b23e34f",
+       "title": {
+        "ru": "Why does the vehicle not start?",
+        "en": "Why does the vehicle not start?"
+       },
+       "words": 650,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t038_42a52d41",
+       "title": {
+        "ru": "Knowing Your Mobile Charger Indicator Lights",
+        "en": "Knowing Your Mobile Charger Indicator Lights"
+       },
+       "words": 1071,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t039_0124ad89",
+       "title": {
+        "ru": "Charge Coupler Manual Release",
+        "en": "Charge Coupler Manual Release"
+       },
+       "words": 1321,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t040_09da51bd",
+       "title": {
+        "ru": "On/Off Switch for Departure and Comfort",
+        "en": "On/Off Switch for Departure and Comfort"
+       },
+       "words": 579,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t041_afb98224",
+       "title": {
+        "ru": "Temporary Neutral Mode Limitations",
+        "en": "Temporary Neutral Mode Limitations"
+       },
+       "words": 673,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t042_1eb4e79f",
+       "title": {
+        "ru": "Automatic Return to Park (P) Limitations",
+        "en": "Automatic Return to Park (P) Limitations"
+       },
+       "words": 855,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t043_8dc07341",
+       "title": {
+        "ru": "APPLYING THE ELECTRIC PARKING BRAKE IN AN EMERGENCY",
+        "en": "APPLYING THE ELECTRIC PARKING BRAKE IN AN EMERGENCY"
+       },
+       "words": 718,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t044_89fc2cd9",
+       "title": {
+        "ru": "AUTOMATICALLY RELEASING THE ELECTRIC PARKING BRAKE",
+        "en": "AUTOMATICALLY RELEASING THE ELECTRIC PARKING BRAKE"
+       },
+       "words": 423,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t045_7206a40b",
+       "title": {
+        "ru": "Traction Control – Warning Lamps",
+        "en": "Traction Control – Warning Lamps"
+       },
+       "words": 406,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t046_c20c9bda",
+       "title": {
+        "ru": "Locating the Rear Parking Aid Sensors",
+        "en": "Locating the Rear Parking Aid Sensors"
+       },
+       "words": 637,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t047_9729058f",
+       "title": {
+        "ru": "Locating the Front Parking Aid Sensors",
+        "en": "Locating the Front Parking Aid Sensors"
+       },
+       "words": 903,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t048_60e86723",
+       "title": {
+        "ru": "Switching Rear View Camera Delay On and Off",
+        "en": "Switching Rear View Camera Delay On and Off"
+       },
+       "words": 538,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t049_d1ad3854",
+       "title": {
+        "ru": "Why does active park assist not search for a parking space?",
+        "en": "Why does active park assist not search for a parking space?"
+       },
+       "words": 539,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t050_c2fdadb4",
+       "title": {
+        "ru": "Why does active park assist not correctly position the vehicle into a parking sp",
+        "en": "Why does active park assist not correctly position the vehicle into a parking sp"
+       },
+       "words": 463,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t051_47772afe",
+       "title": {
+        "ru": "Setting the Adaptive Cruise Speed from a Complete Stop",
+        "en": "Setting the Adaptive Cruise Speed from a Complete Stop"
+       },
+       "words": 788,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t052_5a2d5644",
+       "title": {
+        "ru": "Enabling and Disabling Lane Centering",
+        "en": "Enabling and Disabling Lane Centering"
+       },
+       "words": 870,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t053_4f556256",
+       "title": {
+        "ru": "Adaptive Cruise Control – Information Messages - Vehicles With: Stop and Go",
+        "en": "Adaptive Cruise Control – Information Messages - Vehicles With: Stop and Go"
+       },
+       "words": 467,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t054_6044bcd1",
+       "title": {
+        "ru": "HOW DOES THE LANE KEEPING SYSTEM WORK",
+        "en": "HOW DOES THE LANE KEEPING SYSTEM WORK"
+       },
+       "words": 512,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t055_84b93dc7",
+       "title": {
+        "ru": "Adjusting the Steering Wheel Vibration Intensity",
+        "en": "Adjusting the Steering Wheel Vibration Intensity"
+       },
+       "words": 691,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t056_eac624b0",
+       "title": {
+        "ru": "Lane Keeping System – Information Messages",
+        "en": "Lane Keeping System – Information Messages"
+       },
+       "words": 490,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t057_7b234a66",
+       "title": {
+        "ru": "SWITCHING CROSS TRAFFIC ALERT ON AND OFF",
+        "en": "SWITCHING CROSS TRAFFIC ALERT ON AND OFF"
+       },
+       "words": 636,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t058_b3d2c1c5",
+       "title": {
+        "ru": "Adjusting the Pre-Collision Assist Settings",
+        "en": "Adjusting the Pre-Collision Assist Settings"
+       },
+       "words": 523,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t059_bc232603",
+       "title": {
+        "ru": "The windshield in front of the camera is clean, but the message remains in the i",
+        "en": "The windshield in front of the camera is clean, but the message remains in the i"
+       },
+       "words": 432,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t060_3acdf78d",
+       "title": {
+        "ru": "HOW DOES SPEED SIGN RECOGNITION WORK",
+        "en": "HOW DOES SPEED SIGN RECOGNITION WORK"
+       },
+       "words": 625,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t061_27d17cd0",
+       "title": {
+        "ru": "Why does speed sign recognition show a wrong speed limit?",
+        "en": "Why does speed sign recognition show a wrong speed limit?"
+       },
+       "words": 628,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t062_ab1072f7",
+       "title": {
+        "ru": "Helpful examples for calculating the available amount of cargo and luggage load ",
+        "en": "Helpful examples for calculating the available amount of cargo and luggage load "
+       },
+       "words": 917,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t063_430157de",
+       "title": {
+        "ru": "Opening the Front Luggage Compartment Using Phone as a key",
+        "en": "Opening the Front Luggage Compartment Using Phone as a key"
+       },
+       "words": 372,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t064_c841cb43",
+       "title": {
+        "ru": "Vehicles Sold in the United States: Getting Roadside Assistance",
+        "en": "Vehicles Sold in the United States: Getting Roadside Assistance"
+       },
+       "words": 674,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t065_033c7147",
+       "title": {
+        "ru": "Vehicles Sold in the United States: Using Roadside Assistance",
+        "en": "Vehicles Sold in the United States: Using Roadside Assistance"
+       },
+       "words": 821,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t066_b1b3b115",
+       "title": {
+        "ru": "How Does Post Impact Braking Work",
+        "en": "How Does Post Impact Braking Work"
+       },
+       "words": 477,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t067_04d9459d",
+       "title": {
+        "ru": "Identifying the Fuses in the Body Control Module Fuse Box",
+        "en": "Identifying the Fuses in the Body Control Module Fuse Box"
+       },
+       "words": 550,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t068_0d0e99ea",
+       "title": {
+        "ru": "Cooling System Capacity and",
+        "en": "Cooling System Capacity and"
+       },
+       "words": 800,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t069_d3b61850",
+       "title": {
+        "ru": "Cleaning Chrome, Aluminium or Stainless Steel",
+        "en": "Cleaning Chrome, Aluminium or Stainless Steel"
+       },
+       "words": 661,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t070_caa6daa2",
+       "title": {
+        "ru": "Cleaning Fabric Seats and the Headliner",
+        "en": "Cleaning Fabric Seats and the Headliner"
+       },
+       "words": 610,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t071_17753609",
+       "title": {
+        "ru": "PREPARING YOUR VEHICLE FOR STORAGE",
+        "en": "PREPARING YOUR VEHICLE FOR STORAGE"
+       },
+       "words": 549,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t072_cbf5c808",
+       "title": {
+        "ru": "Additional Information Contained on the Tire Sidewall for LT Type Tires",
+        "en": "Additional Information Contained on the Tire Sidewall for LT Type Tires"
+       },
+       "words": 1499,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t073_37b9ba19",
+       "title": {
+        "ru": "U.S. DOT Tire Identification Number",
+        "en": "U.S. DOT Tire Identification Number"
+       },
+       "words": 1840,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t074_2d12ac6b",
+       "title": {
+        "ru": "WHAT IS THE TIRE SEALANT AND INFLATOR KIT",
+        "en": "WHAT IS THE TIRE SEALANT AND INFLATOR KIT"
+       },
+       "words": 1179,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t075_93894f98",
+       "title": {
+        "ru": "First Stage: Reinflating the Tire with sealing compound and air",
+        "en": "First Stage: Reinflating the Tire with sealing compound and air"
+       },
+       "words": 829,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t076_b0b054a4",
+       "title": {
+        "ru": "TIRE PRESSURE MONITORING SYSTEM PRECAUTIONS",
+        "en": "TIRE PRESSURE MONITORING SYSTEM PRECAUTIONS"
+       },
+       "words": 1231,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t077_22c4c6c5",
+       "title": {
+        "ru": "CONNECTING THE VEHICLE TO A WI-FI NETWORK - VEHICLES WITH: SYNC 4",
+        "en": "CONNECTING THE VEHICLE TO A WI-FI NETWORK - VEHICLES WITH: SYNC 4"
+       },
+       "words": 449,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t078_5eb6eb65",
+       "title": {
+        "ru": "Finding the Wi-Fi Hotspot Name and Password",
+        "en": "Finding the Wi-Fi Hotspot Name and Password"
+       },
+       "words": 539,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t079_0bb3ae82",
+       "title": {
+        "ru": "Switching Automatic Time Updates On and Off",
+        "en": "Switching Automatic Time Updates On and Off"
+       },
+       "words": 297,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t080_82c9e767",
+       "title": {
+        "ru": "Switching Digital Radio Reception On and Off",
+        "en": "Switching Digital Radio Reception On and Off"
+       },
+       "words": 529,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t081_7a5e819c",
+       "title": {
+        "ru": "Satellite Radio Limitations",
+        "en": "Satellite Radio Limitations"
+       },
+       "words": 447,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t082_8aaacdb7",
+       "title": {
+        "ru": "INFORMATION AND ENTERTAINMENT DISPLAY PRECAUTIONS",
+        "en": "INFORMATION AND ENTERTAINMENT DISPLAY PRECAUTIONS"
+       },
+       "words": 387,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t083_d90dafab",
+       "title": {
+        "ru": "To accept the call, select:",
+        "en": "To accept the call, select:"
+       },
+       "words": 320,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t084_89985f47",
+       "title": {
+        "ru": "Browsing your Media Library",
+        "en": "Browsing your Media Library"
+       },
+       "words": 557,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t085_31d10a09",
+       "title": {
+        "ru": "Recalling and Changing a Profile",
+        "en": "Recalling and Changing a Profile"
+       },
+       "words": 500,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t086_7c984c42",
+       "title": {
+        "ru": "LINKING OR UNLINKING A PERSONAL PROFILE TO A REMOTE CONTROL",
+        "en": "LINKING OR UNLINKING A PERSONAL PROFILE TO A REMOTE CONTROL"
+       },
+       "words": 554,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t087_32ad27c2",
+       "title": {
+        "ru": "Setting a Destination Using a Saved Destination",
+        "en": "Setting a Destination Using a Saved Destination"
+       },
+       "words": 397,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t088_21b12bae",
+       "title": {
+        "ru": "Ford Protect Extended Service Plans United States Only",
+        "en": "Ford Protect Extended Service Plans United States Only"
+       },
+       "words": 795,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t089_502ab71a",
+       "title": {
+        "ru": "Ford Protect Extended Service Plan (Canada Only)",
+        "en": "Ford Protect Extended Service Plan (Canada Only)"
+       },
+       "words": 866,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t090_c366e134",
+       "title": {
+        "ru": "You can get more information by calling BBB AUTO LINE at 1-800-955-5100, or writ",
+        "en": "You can get more information by calling BBB AUTO LINE at 1-800-955-5100, or writ"
+       },
+       "words": 913,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t091_bcf8ddcf",
+       "title": {
+        "ru": "Radio Frequency Certifications for Tire Pressure Monitoring Sensor(s)",
+        "en": "Radio Frequency Certifications for Tire Pressure Monitoring Sensor(s)"
+       },
+       "words": 568,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t092_f8d74f79",
+       "title": {
+        "ru": "Scheduled Maintenance and Mechanical Repairs",
+        "en": "Scheduled Maintenance and Mechanical Repairs"
+       },
+       "words": 439,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t093_209f969c",
+       "title": {
+        "ru": "IF YOU DO NOT AGREE TO THIS END USER LICENSE AGREEMENT (\"EULA\") DO NOT USE THE D",
+        "en": "IF YOU DO NOT AGREE TO THIS END USER LICENSE AGREEMENT (\"EULA\") DO NOT USE THE D"
+       },
+       "words": 1273,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t094_7029c13f",
+       "title": {
+        "ru": "SYNC® Automotive Important Safety Information Read and follow instructions:",
+        "en": "SYNC® Automotive Important Safety Information Read and follow instructions:"
+       },
+       "words": 2643,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t095_e44cd138",
+       "title": {
+        "ru": "6. Arbitration and Governing Law",
+        "en": "6. Arbitration and Governing Law"
+       },
+       "words": 1301,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t096_13bcd43d",
+       "title": {
+        "ru": "9.1 End User Terms Required by HERE North America, LLC",
+        "en": "9.1 End User Terms Required by HERE North America, LLC"
+       },
+       "words": 547,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t097_209b28f9",
+       "title": {
+        "ru": "AT&T Vehicle Network Carrier Telematics Disclosure",
+        "en": "AT&T Vehicle Network Carrier Telematics Disclosure"
+       },
+       "words": 3196,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t098_ed5ef57d",
+       "title": {
+        "ru": "Customer Information",
+        "en": "Customer Information"
+       },
+       "words": 948,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t099_3cfa3d56",
+       "title": {
+        "ru": "Gracenote® End User License Agreement (EULA)",
+        "en": "Gracenote® End User License Agreement (EULA)"
+       },
+       "words": 1146,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t100_cd0af86e",
+       "title": {
+        "ru": "5. Service Continuity and Reception of the SUNA Traffic Channel",
+        "en": "5. Service Continuity and Reception of the SUNA Traffic Channel"
+       },
+       "words": 897,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t101_a4e7fafd",
+       "title": {
+        "ru": "Index",
+        "en": "Index"
+       },
+       "words": 814,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_mustang_mach_e_general_t102_d5d19d5d",
+       "title": {
+        "ru": "Index",
+        "en": "Index"
+       },
+       "words": 527,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

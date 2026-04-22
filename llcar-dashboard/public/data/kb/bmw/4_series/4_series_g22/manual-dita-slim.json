@@ -1,0 +1,625 @@
+{
+ "version": "1.0",
+ "model": "4_series_g22",
+ "manuals": [
+  {
+   "model": "4_series_g22",
+   "label": {
+    "ru": "Bmw 4 Series G22 — Руководство по ремонту",
+    "en": "Bmw 4 Series G22 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_engine_t000_ad071416",
+       "title": {
+        "ru": "There is a risk of accidents or injuries. Do not",
+        "en": "There is a risk of accidents or injuries. Do not"
+       },
+       "words": 3641,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "bmw_4_series_g22_engine_t001_b70cc748",
+       "title": {
+        "ru": "▷If selector lever position R is engaged when",
+        "en": "▷If selector lever position R is engaged when"
+       },
+       "words": 3051,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "bmw_4_series_g22_engine_t002_db965972",
+       "title": {
+        "ru": "Take care not to add too much engine oil.",
+        "en": "Take care not to add too much engine oil."
+       },
+       "words": 3432,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "bmw_4_series_g22_engine_t003_da5dbd47",
+       "title": {
+        "ru": "Temperature, automatic climate con‐",
+        "en": "Temperature, automatic climate con‐"
+       },
+       "words": 404,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_brakes_t000_99560769",
+       "title": {
+        "ru": "The vehicle is automatically held in place when it",
+        "en": "The vehicle is automatically held in place when it"
+       },
+       "words": 2861,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "bmw_4_series_g22_brakes_t001_e3542dbd",
+       "title": {
+        "ru": "All other systems can be restored to the desired",
+        "en": "All other systems can be restored to the desired"
+       },
+       "words": 3044,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_suspension_t000_36b13630",
+       "title": {
+        "ru": "Speed Limit Assistant 226",
+        "en": "Speed Limit Assistant 226"
+       },
+       "words": 415,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_body_t000_1568815c",
+       "title": {
+        "ru": "The digital remote control key must be enabled",
+        "en": "The digital remote control key must be enabled"
+       },
+       "words": 2542,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_4_series_g22_body_t001_960632d2",
+       "title": {
+        "ru": "An acoustic signal sounds before the trunk lid is",
+        "en": "An acoustic signal sounds before the trunk lid is"
+       },
+       "words": 3565,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_4_series_g22_body_t002_8e8544ba",
+       "title": {
+        "ru": "The system does not detect whether an obstacle",
+        "en": "The system does not detect whether an obstacle"
+       },
+       "words": 2746,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_4_series_g22_body_t003_a628418b",
+       "title": {
+        "ru": "With constant air recirculation mode, the air qual‐",
+        "en": "With constant air recirculation mode, the air qual‐"
+       },
+       "words": 3182,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_4_series_g22_body_t004_a3c497fd",
+       "title": {
+        "ru": "Printed onboard literature 14",
+        "en": "Printed onboard literature 14"
+       },
+       "words": 527,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_steering_t000_b61df83c",
+       "title": {
+        "ru": "The system does not provide a warning if the",
+        "en": "The system does not provide a warning if the"
+       },
+       "words": 2723,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "bmw_4_series_g22_steering_t001_ea152d31",
+       "title": {
+        "ru": "For vehicles with side collision mitigation, the",
+        "en": "For vehicles with side collision mitigation, the"
+       },
+       "words": 2979,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "bmw_4_series_g22_steering_t002_5bfcca51",
+       "title": {
+        "ru": "Turning circle lines show the course of the small‐",
+        "en": "Turning circle lines show the course of the small‐"
+       },
+       "words": 2517,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_lighting_t000_6008c4c0",
+       "title": {
+        "ru": "Wallet app. Both vehicle keys must be located in",
+        "en": "Wallet app. Both vehicle keys must be located in"
+       },
+       "words": 2700,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_4_series_g22_lighting_t001_4ed24fc0",
+       "title": {
+        "ru": "The indicator light in the instrument clus‐",
+        "en": "The indicator light in the instrument clus‐"
+       },
+       "words": 2821,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_4_series_g22_lighting_t002_d1c5602e",
+       "title": {
+        "ru": "Activate Automatic High Beam",
+        "en": "Activate Automatic High Beam"
+       },
+       "words": 3171,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_4_series_g22_lighting_t003_023ea59a",
+       "title": {
+        "ru": "If the situation allows, wait in your vehicle until",
+        "en": "If the situation allows, wait in your vehicle until"
+       },
+       "words": 2344,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_interior_t000_b368881a",
+       "title": {
+        "ru": "The process will be terminated when the switch",
+        "en": "The process will be terminated when the switch"
+       },
+       "words": 2837,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_4_series_g22_interior_t001_04e62dd4",
+       "title": {
+        "ru": "In the event of a side collision, the side airbag in",
+        "en": "In the event of a side collision, the side airbag in"
+       },
+       "words": 3147,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_4_series_g22_interior_t002_4b680c9e",
+       "title": {
+        "ru": "Safety belt reminder for driver's seat and front",
+        "en": "Safety belt reminder for driver's seat and front"
+       },
+       "words": 1937,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_maintenance_t000_07fa438a",
+       "title": {
+        "ru": "Microfilter/activated-charcoal",
+        "en": "Microfilter/activated-charcoal"
+       },
+       "words": 1187,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_ev_t000_a294c643",
+       "title": {
+        "ru": "Any collection, processing, and use of personal",
+        "en": "Any collection, processing, and use of personal"
+       },
+       "words": 3345,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "bmw_4_series_g22_ev_t001_51e45226",
+       "title": {
+        "ru": "Display, notifications, BMW Intelligent Personal",
+        "en": "Display, notifications, BMW Intelligent Personal"
+       },
+       "words": 1400,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_general_t000_20725845",
+       "title": {
+        "ru": "A selector lever lock prevents the inadvertent",
+        "en": "A selector lever lock prevents the inadvertent"
+       },
+       "words": 2409,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_4_series_g22_general_t001_829e633a",
+       "title": {
+        "ru": "Operating state of the vehicle",
+        "en": "Operating state of the vehicle"
+       },
+       "words": 2471,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_4_series_g22_general_t002_2e827433",
+       "title": {
+        "ru": "When both systems are active, a push of the but‐",
+        "en": "When both systems are active, a push of the but‐"
+       },
+       "words": 3316,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_4_series_g22_general_t003_42771048",
+       "title": {
+        "ru": "The ignition and inflation noise may lead to",
+        "en": "The ignition and inflation noise may lead to"
+       },
+       "words": 3279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_4_series_g22_general_t004_9081a35e",
+       "title": {
+        "ru": "Things to remember when driving",
+        "en": "Things to remember when driving"
+       },
+       "words": 2791,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_4_series_g22_general_t005_b724bf7e",
+       "title": {
+        "ru": "Remove the cover on the right side trim.",
+        "en": "Remove the cover on the right side trim."
+       },
+       "words": 2680,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_4_series_g22_general_t006_8eda6f94",
+       "title": {
+        "ru": "Unlocking, see Opening and Closing 82",
+        "en": "Unlocking, see Opening and Closing 82"
+       },
+       "words": 866,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_infotainment_t000_0dd94417",
+       "title": {
+        "ru": "In the vicinity of the center console",
+        "en": "In the vicinity of the center console"
+       },
+       "words": 2571,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_4_series_g22_infotainment_t001_c2642ed6",
+       "title": {
+        "ru": "A maximum of four devices can be connected to",
+        "en": "A maximum of four devices can be connected to"
+       },
+       "words": 2707,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_4_series_g22_infotainment_t002_02244486",
+       "title": {
+        "ru": "DSC Dynamic Stability Control is switched on, if",
+        "en": "DSC Dynamic Stability Control is switched on, if"
+       },
+       "words": 2634,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_drivetrain_t000_0af6a0ca",
+       "title": {
+        "ru": "In the following cases the guest profile is auto‐",
+        "en": "In the following cases the guest profile is auto‐"
+       },
+       "words": 3633,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_4_series_g22_drivetrain_t001_983568a9",
+       "title": {
+        "ru": "If the lost vehicle key has an assigned driver pro‐",
+        "en": "If the lost vehicle key has an assigned driver pro‐"
+       },
+       "words": 3315,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_4_series_g22_drivetrain_t002_47b20e38",
+       "title": {
+        "ru": "▷The function is only available on certain street",
+        "en": "▷The function is only available on certain street"
+       },
+       "words": 2972,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_4_series_g22_drivetrain_t003_34c9d409",
+       "title": {
+        "ru": "For reasons of safety, the system can only be",
+        "en": "For reasons of safety, the system can only be"
+       },
+       "words": 2005,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_sensors_t000_04d9fcde",
+       "title": {
+        "ru": "▷Turn off: press the lever down until it reaches",
+        "en": "▷Turn off: press the lever down until it reaches"
+       },
+       "words": 2831,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "bmw_4_series_g22_sensors_t001_329b5ce2",
+       "title": {
+        "ru": "Camera, see Surround View 252",
+        "en": "Camera, see Surround View 252"
+       },
+       "words": 2888,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "tires",
+     "title": {
+      "ru": "tires",
+      "en": "tires"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_tires_t000_3ae7a8e0",
+       "title": {
+        "ru": "With tires that cannot be found in the tire pres‐",
+        "en": "With tires that cannot be found in the tire pres‐"
+       },
+       "words": 3588,
+       "images": 0,
+       "section_id": "tires"
+      },
+      {
+       "id": "bmw_4_series_g22_tires_t001_92864054",
+       "title": {
+        "ru": "If there is a significant tire pressure",
+        "en": "If there is a significant tire pressure"
+       },
+       "words": 3526,
+       "images": 0,
+       "section_id": "tires"
+      },
+      {
+       "id": "bmw_4_series_g22_tires_t002_d963468e",
+       "title": {
+        "ru": "Failure performing a reset",
+        "en": "Failure performing a reset"
+       },
+       "words": 1979,
+       "images": 0,
+       "section_id": "tires"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_4_series_g22_safety_t000_7c0cf004",
+       "title": {
+        "ru": "Changing between cruise control",
+        "en": "Changing between cruise control"
+       },
+       "words": 3073,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "bmw_4_series_g22_safety_t001_150a5cee",
+       "title": {
+        "ru": "Socket for OBD Onboard",
+        "en": "Socket for OBD Onboard"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

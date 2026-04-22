@@ -1,0 +1,2475 @@
+{
+ "version": "1.0",
+ "model": "9",
+ "manuals": [
+  {
+   "model": "9",
+   "label": {
+    "ru": "Livan 9 — Руководство по ремонту",
+    "en": "Livan 9 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "livan_9_engine_t000_4d3a2410",
+       "title": {
+        "ru": "Руководство содержит",
+        "en": "Руководство содержит"
+       },
+       "words": 270,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_9_engine_t002_6d900b4e",
+       "title": {
+        "ru": "2. Поместите смарт-ключ в контейнер",
+        "en": "2. Поместите смарт-ключ в контейнер"
+       },
+       "words": 177,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_9_engine_t003_948d5a69",
+       "title": {
+        "ru": "Запуск двигателя и вождение",
+        "en": "Запуск двигателя и вождение"
+       },
+       "words": 243,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_9_engine_t005_5fccfcfe",
+       "title": {
+        "ru": "7. Минимизация",
+        "en": "7. Минимизация"
+       },
+       "words": 112,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_9_engine_t006_67a46059",
+       "title": {
+        "ru": "Неисправности",
+        "en": "Неисправности"
+       },
+       "words": 254,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_9_engine_t007_7e7c9b11",
+       "title": {
+        "ru": "Включать передачу заднего хода",
+        "en": "Включать передачу заднего хода"
+       },
+       "words": 188,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_9_engine_t008_5946353f",
+       "title": {
+        "ru": "2. Если",
+        "en": "2. Если"
+       },
+       "words": 97,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_9_engine_t010_7fab9ddf",
+       "title": {
+        "ru": "2. Включите",
+        "en": "2. Включите"
+       },
+       "words": 193,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_9_engine_t011_d28e9357",
+       "title": {
+        "ru": "Вплоть",
+        "en": "Вплоть"
+       },
+       "words": 183,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_9_engine_t012_fdbeca48",
+       "title": {
+        "ru": "Ремонт и обслуживание",
+        "en": "Ремонт и обслуживание"
+       },
+       "words": 184,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_9_engine_t013_e0e05aef",
+       "title": {
+        "ru": "5. Повторно",
+        "en": "5. Повторно"
+       },
+       "words": 219,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_9_engine_t014_54990c1b",
+       "title": {
+        "ru": "4. При",
+        "en": "4. При"
+       },
+       "words": 174,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "livan_9_brakes_t001_57b5c733",
+       "title": {
+        "ru": "Сигнальная лампа неисправности",
+        "en": "Сигнальная лампа неисправности"
+       },
+       "words": 72,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t002_f667b913",
+       "title": {
+        "ru": "ACC",
+        "en": "ACC"
+       },
+       "words": 138,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t003_b7460d36",
+       "title": {
+        "ru": "12. Нажатие",
+        "en": "12. Нажатие"
+       },
+       "words": 187,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t006_2628c885",
+       "title": {
+        "ru": "Тормоза",
+        "en": "Тормоза"
+       },
+       "words": 135,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t007_78c43440",
+       "title": {
+        "ru": "Переведите пусковой переключатель в",
+        "en": "Переведите пусковой переключатель в"
+       },
+       "words": 153,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t008_7106fc7d",
+       "title": {
+        "ru": "Никогда",
+        "en": "Никогда"
+       },
+       "words": 148,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t009_958d8b4b",
+       "title": {
+        "ru": "Торможение",
+        "en": "Торможение"
+       },
+       "words": 235,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t010_9fd5039e",
+       "title": {
+        "ru": "Вспомогательная",
+        "en": "Вспомогательная"
+       },
+       "words": 168,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t011_31cb4e28",
+       "title": {
+        "ru": "Работа",
+        "en": "Работа"
+       },
+       "words": 262,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t012_acc0afc2",
+       "title": {
+        "ru": "Установите",
+        "en": "Установите"
+       },
+       "words": 186,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t013_0bcb7161",
+       "title": {
+        "ru": "Перед движением по затяжному спуску",
+        "en": "Перед движением по затяжному спуску"
+       },
+       "words": 223,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t014_ec459f4e",
+       "title": {
+        "ru": "Звук тормозов при трогании с",
+        "en": "Звук тормозов при трогании с"
+       },
+       "words": 221,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t015_f128e632",
+       "title": {
+        "ru": "Стандартная толщина",
+        "en": "Стандартная толщина"
+       },
+       "words": 87,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_9_brakes_t016_7f54175c",
+       "title": {
+        "ru": "Поэтому доливать тормозную жидкость",
+        "en": "Поэтому доливать тормозную жидкость"
+       },
+       "words": 99,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "livan_9_hvac_t000_739a2a4d",
+       "title": {
+        "ru": "Переключатели приборной панели",
+        "en": "Переключатели приборной панели"
+       },
+       "words": 69,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "livan_9_hvac_t001_a2161a56",
+       "title": {
+        "ru": "Описание кнопки управления",
+        "en": "Описание кнопки управления"
+       },
+       "words": 130,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "livan_9_hvac_t002_f7665645",
+       "title": {
+        "ru": "Боковой",
+        "en": "Боковой"
+       },
+       "words": 145,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "livan_9_body_t000_618fdecf",
+       "title": {
+        "ru": "Система контроля и",
+        "en": "Система контроля и"
+       },
+       "words": 332,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t001_fc7b84f2",
+       "title": {
+        "ru": "Переключатель",
+        "en": "Переключатель"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t002_acc66875",
+       "title": {
+        "ru": "2. Ручка",
+        "en": "2. Ручка"
+       },
+       "words": 76,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t003_25050ea5",
+       "title": {
+        "ru": "Система контроля и управления",
+        "en": "Система контроля и управления"
+       },
+       "words": 158,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t004_323dc4bc",
+       "title": {
+        "ru": "ON и происходит переключение передач",
+        "en": "ON и происходит переключение передач"
+       },
+       "words": 94,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t005_501089ed",
+       "title": {
+        "ru": "Переместите",
+        "en": "Переместите"
+       },
+       "words": 118,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t006_807c4e61",
+       "title": {
+        "ru": "Внутреннее зеркало заднего",
+        "en": "Внутреннее зеркало заднего"
+       },
+       "words": 113,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t007_09c5f414",
+       "title": {
+        "ru": "4. Переключатель",
+        "en": "4. Переключатель"
+       },
+       "words": 129,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t008_85cc0cda",
+       "title": {
+        "ru": "1. Потяните за переключатель окна и",
+        "en": "1. Потяните за переключатель окна и"
+       },
+       "words": 183,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t009_7668c2de",
+       "title": {
+        "ru": "Переместите переключатель люка назад",
+        "en": "Переместите переключатель люка назад"
+       },
+       "words": 92,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t010_6d35884a",
+       "title": {
+        "ru": "Остановите",
+        "en": "Остановите"
+       },
+       "words": 160,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t011_5909509f",
+       "title": {
+        "ru": "Погрузка",
+        "en": "Погрузка"
+       },
+       "words": 136,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t013_85589bc1",
+       "title": {
+        "ru": "Кратковременно",
+        "en": "Кратковременно"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t015_5da1f6d6",
+       "title": {
+        "ru": "Детские",
+        "en": "Детские"
+       },
+       "words": 198,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t016_b391d1f8",
+       "title": {
+        "ru": "Камера",
+        "en": "Камера"
+       },
+       "words": 180,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t017_fb34884e",
+       "title": {
+        "ru": "Использование некорректных типов",
+        "en": "Использование некорректных типов"
+       },
+       "words": 88,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t018_489484cc",
+       "title": {
+        "ru": "Предохранитель заднего",
+        "en": "Предохранитель заднего"
+       },
+       "words": 113,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t019_dda8bdbb",
+       "title": {
+        "ru": "Ремонт и обслуживание",
+        "en": "Ремонт и обслуживание"
+       },
+       "words": 124,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t020_7bc1112d",
+       "title": {
+        "ru": "Используйте",
+        "en": "Используйте"
+       },
+       "words": 158,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t021_888fed47",
+       "title": {
+        "ru": "Стеклоочиститель может повредить",
+        "en": "Стеклоочиститель может повредить"
+       },
+       "words": 90,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_9_body_t022_74620d8d",
+       "title": {
+        "ru": "Процедура",
+        "en": "Процедура"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "livan_9_steering_t000_717faaff",
+       "title": {
+        "ru": "Система контроля и управления",
+        "en": "Система контроля и управления"
+       },
+       "words": 108,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "livan_9_steering_t001_b6290ee1",
+       "title": {
+        "ru": "Область изображения клаксона на",
+        "en": "Область изображения клаксона на"
+       },
+       "words": 184,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "livan_9_steering_t002_4a746411",
+       "title": {
+        "ru": "Управление",
+        "en": "Управление"
+       },
+       "words": 200,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "livan_9_lighting_t000_0311a4b6",
+       "title": {
+        "ru": "Система",
+        "en": "Система"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t001_1099db1b",
+       "title": {
+        "ru": "Оповещение",
+        "en": "Оповещение"
+       },
+       "words": 74,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t002_f7ec0494",
+       "title": {
+        "ru": "Включение задних",
+        "en": "Включение задних"
+       },
+       "words": 54,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t003_af2d724c",
+       "title": {
+        "ru": "Сигнальная лампа некорректного",
+        "en": "Сигнальная лампа некорректного"
+       },
+       "words": 63,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t004_3ba20f6a",
+       "title": {
+        "ru": "Когда индикатор предупреждения продолжает гореть красным после запуска",
+        "en": "Когда индикатор предупреждения продолжает гореть красным после запуска"
+       },
+       "words": 113,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t007_13a8cf22",
+       "title": {
+        "ru": "Пусковой переключатель не находится",
+        "en": "Пусковой переключатель не находится"
+       },
+       "words": 122,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t008_fe4f951b",
+       "title": {
+        "ru": "Содержите датчик в чистоте и не",
+        "en": "Содержите датчик в чистоте и не"
+       },
+       "words": 258,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t009_1695ccc7",
+       "title": {
+        "ru": "Для понимания расположения и смысла",
+        "en": "Для понимания расположения и смысла"
+       },
+       "words": 200,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t010_84c424f4",
+       "title": {
+        "ru": "3. Избегание ненужного торможения",
+        "en": "3. Избегание ненужного торможения"
+       },
+       "words": 167,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t011_c5d519c6",
+       "title": {
+        "ru": "Запуск двигателя и вождение",
+        "en": "Запуск двигателя и вождение"
+       },
+       "words": 190,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t012_c47db16d",
+       "title": {
+        "ru": "Неисправности во время вождения",
+        "en": "Неисправности во время вождения"
+       },
+       "words": 161,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t013_b27783ff",
+       "title": {
+        "ru": "Когда давление в одной или нескольких",
+        "en": "Когда давление в одной или нескольких"
+       },
+       "words": 75,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_9_lighting_t014_080ad9c1",
+       "title": {
+        "ru": "Название",
+        "en": "Название"
+       },
+       "words": 61,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "livan_9_interior_t000_b89b71da",
+       "title": {
+        "ru": "Сиденья и устройства",
+        "en": "Сиденья и устройства"
+       },
+       "words": 193,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t001_9ef1c198",
+       "title": {
+        "ru": "Задний",
+        "en": "Задний"
+       },
+       "words": 124,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t002_bfe64b9b",
+       "title": {
+        "ru": "Ручная",
+        "en": "Ручная"
+       },
+       "words": 127,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t003_c7ea32dd",
+       "title": {
+        "ru": "Сиденье",
+        "en": "Сиденье"
+       },
+       "words": 169,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t004_6939f176",
+       "title": {
+        "ru": "Поэтому",
+        "en": "Поэтому"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t005_df7a443e",
+       "title": {
+        "ru": "Не наклоняйте сиденье слишком",
+        "en": "Не наклоняйте сиденье слишком"
+       },
+       "words": 123,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t006_63383947",
+       "title": {
+        "ru": "Сиденья и устройства защиты",
+        "en": "Сиденья и устройства защиты"
+       },
+       "words": 106,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t007_57185b47",
+       "title": {
+        "ru": "1. Взять ремень безопасности заднего",
+        "en": "1. Взять ремень безопасности заднего"
+       },
+       "words": 213,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t008_6203c6c2",
+       "title": {
+        "ru": "Сохраняйте ремень безопасности сухим",
+        "en": "Сохраняйте ремень безопасности сухим"
+       },
+       "words": 199,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t009_9f11f5ca",
+       "title": {
+        "ru": "Нельзя",
+        "en": "Нельзя"
+       },
+       "words": 168,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t011_6baa49e1",
+       "title": {
+        "ru": "Любое из вышеперечисленных действий",
+        "en": "Любое из вышеперечисленных действий"
+       },
+       "words": 309,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t012_02936bb8",
+       "title": {
+        "ru": "Боковая",
+        "en": "Боковая"
+       },
+       "words": 169,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t013_34ee7c5f",
+       "title": {
+        "ru": "Срабатывание",
+        "en": "Срабатывание"
+       },
+       "words": 221,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t014_499fbbb0",
+       "title": {
+        "ru": "Если произошло срабатывание подушки",
+        "en": "Если произошло срабатывание подушки"
+       },
+       "words": 175,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t015_b2d75689",
+       "title": {
+        "ru": "Сиденья и устройства защиты",
+        "en": "Сиденья и устройства защиты"
+       },
+       "words": 211,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t016_5ae58e09",
+       "title": {
+        "ru": "Никогда",
+        "en": "Никогда"
+       },
+       "words": 211,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t018_42807abd",
+       "title": {
+        "ru": "Ремень",
+        "en": "Ремень"
+       },
+       "words": 164,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t019_5fd59050",
+       "title": {
+        "ru": "Величина в",
+        "en": "Величина в"
+       },
+       "words": 162,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_9_interior_t020_35c10be8",
+       "title": {
+        "ru": "При чистке салона автомобиля откройте",
+        "en": "При чистке салона автомобиля откройте"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "livan_9_ev_t001_f3a3f2b6",
+       "title": {
+        "ru": "Перед проведением самообучения",
+        "en": "Перед проведением самообучения"
+       },
+       "words": 229,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "livan_9_ev_t002_107a5389",
+       "title": {
+        "ru": "Если передний выключатель внутреннего",
+        "en": "Если передний выключатель внутреннего"
+       },
+       "words": 111,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "livan_9_ev_t003_d5102f78",
+       "title": {
+        "ru": "Храните",
+        "en": "Храните"
+       },
+       "words": 170,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "livan_9_ev_t004_39679b1a",
+       "title": {
+        "ru": "18. Нормальное",
+        "en": "18. Нормальное"
+       },
+       "words": 218,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "livan_9_ev_t005_2271889d",
+       "title": {
+        "ru": "Содержащаяся",
+        "en": "Содержащаяся"
+       },
+       "words": 80,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "livan_9_ev_t006_efd5d7fc",
+       "title": {
+        "ru": "7. Попытайтесь завести автомобиль с",
+        "en": "7. Попытайтесь завести автомобиль с"
+       },
+       "words": 85,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "livan_9_ev_t007_492a7d6f",
+       "title": {
+        "ru": "Предохранители",
+        "en": "Предохранители"
+       },
+       "words": 68,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "livan_9_ev_t008_0b2b804a",
+       "title": {
+        "ru": "Увэос",
+        "en": "Увэос"
+       },
+       "words": 125,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "livan_9_ev_t009_e9114bc1",
+       "title": {
+        "ru": "Автомобиль оснащен необслуживаемым",
+        "en": "Автомобиль оснащен необслуживаемым"
+       },
+       "words": 155,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "livan_9_ev_t010_8c6edd48",
+       "title": {
+        "ru": "Электронная система контроля",
+        "en": "Электронная система контроля"
+       },
+       "words": 9,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "livan_9_general_t000_ca3881b5",
+       "title": {
+        "ru": "Предисловие",
+        "en": "Предисловие"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t001_9bbb53be",
+       "title": {
+        "ru": "Технические данные",
+        "en": "Технические данные"
+       },
+       "words": 132,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t004_33537ca3",
+       "title": {
+        "ru": "Идентификация",
+        "en": "Идентификация"
+       },
+       "words": 103,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t005_0481f475",
+       "title": {
+        "ru": "1. Перевести зажигание",
+        "en": "1. Перевести зажигание"
+       },
+       "words": 74,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t007_d70fa38f",
+       "title": {
+        "ru": "Знак обращения на рынке",
+        "en": "Знак обращения на рынке"
+       },
+       "words": 66,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t008_aebadc98",
+       "title": {
+        "ru": "Переключатель",
+        "en": "Переключатель"
+       },
+       "words": 57,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t009_98b20c2b",
+       "title": {
+        "ru": "Максимальный",
+        "en": "Максимальный"
+       },
+       "words": 126,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t010_7d32cdb0",
+       "title": {
+        "ru": "Оповещение",
+        "en": "Оповещение"
+       },
+       "words": 224,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t011_19cec5d1",
+       "title": {
+        "ru": "1. Область отображения часов",
+        "en": "1. Область отображения часов"
+       },
+       "words": 136,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t012_5593faf3",
+       "title": {
+        "ru": "5. Левая",
+        "en": "5. Левая"
+       },
+       "words": 172,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t013_2f33f22a",
+       "title": {
+        "ru": "Система контроля и управления",
+        "en": "Система контроля и управления"
+       },
+       "words": 183,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t014_3761e762",
+       "title": {
+        "ru": "Единицу",
+        "en": "Единицу"
+       },
+       "words": 204,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t015_8fa2ba17",
+       "title": {
+        "ru": "4. Средняя скорость",
+        "en": "4. Средняя скорость"
+       },
+       "words": 102,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t016_b3154d68",
+       "title": {
+        "ru": "Громкость",
+        "en": "Громкость"
+       },
+       "words": 112,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t018_2b3d2a6a",
+       "title": {
+        "ru": "Происходит переход от меню более",
+        "en": "Происходит переход от меню более"
+       },
+       "words": 88,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t019_efd35548",
+       "title": {
+        "ru": "Поворачивайте",
+        "en": "Поворачивайте"
+       },
+       "words": 80,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t020_4ca90026",
+       "title": {
+        "ru": "OFF быстро переведите переключатель",
+        "en": "OFF быстро переведите переключатель"
+       },
+       "words": 71,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t021_957d27c4",
+       "title": {
+        "ru": "5. После перевода руля в подходящее",
+        "en": "5. После перевода руля в подходящее"
+       },
+       "words": 92,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t022_834dd7e7",
+       "title": {
+        "ru": "Система контроля и управления",
+        "en": "Система контроля и управления"
+       },
+       "words": 190,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t023_e4e39cee",
+       "title": {
+        "ru": "2. Перемещайте",
+        "en": "2. Перемещайте"
+       },
+       "words": 153,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t024_de6a2f0c",
+       "title": {
+        "ru": "Не пытайтесь использовать части своего",
+        "en": "Не пытайтесь использовать части своего"
+       },
+       "words": 169,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t025_e25c40b2",
+       "title": {
+        "ru": "OFF",
+        "en": "OFF"
+       },
+       "words": 88,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t026_f85b562f",
+       "title": {
+        "ru": "Установите",
+        "en": "Установите"
+       },
+       "words": 108,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t027_2b2a6f72",
+       "title": {
+        "ru": "Солнцезащитную",
+        "en": "Солнцезащитную"
+       },
+       "words": 99,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t028_3137dffa",
+       "title": {
+        "ru": "Переместите переключатель люка назад",
+        "en": "Переместите переключатель люка назад"
+       },
+       "words": 104,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t029_fb92f718",
+       "title": {
+        "ru": "Солнцезащитный козырек люка имеет",
+        "en": "Солнцезащитный козырек люка имеет"
+       },
+       "words": 56,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t030_8a8ae753",
+       "title": {
+        "ru": "2. Кнопка",
+        "en": "2. Кнопка"
+       },
+       "words": 68,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t031_5eff852a",
+       "title": {
+        "ru": "Полностью",
+        "en": "Полностью"
+       },
+       "words": 76,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t032_740990f3",
+       "title": {
+        "ru": "3. Включение",
+        "en": "3. Включение"
+       },
+       "words": 91,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t033_3871f0dd",
+       "title": {
+        "ru": "Внутреннее",
+        "en": "Внутреннее"
+       },
+       "words": 96,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t034_9df3334a",
+       "title": {
+        "ru": "Ящик для хранения в приборной панели",
+        "en": "Ящик для хранения в приборной панели"
+       },
+       "words": 126,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t035_1f3b2d92",
+       "title": {
+        "ru": "Солнцезащитная",
+        "en": "Солнцезащитная"
+       },
+       "words": 124,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t037_6645d0e4",
+       "title": {
+        "ru": "В кармане для печатных изданий",
+        "en": "В кармане для печатных изданий"
+       },
+       "words": 115,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t038_b35b30e7",
+       "title": {
+        "ru": "Рейлинги расположены с обеих сторон",
+        "en": "Рейлинги расположены с обеих сторон"
+       },
+       "words": 84,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t039_a28dd6bf",
+       "title": {
+        "ru": "2. Кнопка",
+        "en": "2. Кнопка"
+       },
+       "words": 166,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t040_dec15800",
+       "title": {
+        "ru": "8. Кнопка обдува ног в режиме подачи",
+        "en": "8. Кнопка обдува ног в режиме подачи"
+       },
+       "words": 83,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t041_f60b555b",
+       "title": {
+        "ru": "13. Клавиша A/C",
+        "en": "13. Клавиша A/C"
+       },
+       "words": 148,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t042_47e6dfd9",
+       "title": {
+        "ru": "Нажатием на различные автоматические",
+        "en": "Нажатием на различные автоматические"
+       },
+       "words": 94,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t043_216df0e7",
+       "title": {
+        "ru": "Фильтр",
+        "en": "Фильтр"
+       },
+       "words": 191,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t044_e7126a3b",
+       "title": {
+        "ru": "Держите пространство под передними",
+        "en": "Держите пространство под передними"
+       },
+       "words": 104,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t045_a4534048",
+       "title": {
+        "ru": "1. Рычаг",
+        "en": "1. Рычаг"
+       },
+       "words": 129,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t046_c9be8d5e",
+       "title": {
+        "ru": "При лобовом столкновении чрезмерный",
+        "en": "При лобовом столкновении чрезмерный"
+       },
+       "words": 65,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t047_189f87df",
+       "title": {
+        "ru": "1. Рычаг",
+        "en": "1. Рычаг"
+       },
+       "words": 147,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t048_abdd4e64",
+       "title": {
+        "ru": "После того как спинки задних сидений",
+        "en": "После того как спинки задних сидений"
+       },
+       "words": 159,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t050_49c714bd",
+       "title": {
+        "ru": "Сиденья и устройства защиты",
+        "en": "Сиденья и устройства защиты"
+       },
+       "words": 77,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t051_70c615a6",
+       "title": {
+        "ru": "Для Вашей собственной безопасности и",
+        "en": "Для Вашей собственной безопасности и"
+       },
+       "words": 103,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t053_375b1a90",
+       "title": {
+        "ru": "Все сиденья автомобиля оборудованы",
+        "en": "Все сиденья автомобиля оборудованы"
+       },
+       "words": 167,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t054_cad57e5f",
+       "title": {
+        "ru": "Регулятор",
+        "en": "Регулятор"
+       },
+       "words": 100,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t055_08ea7b90",
+       "title": {
+        "ru": "Обслуживание",
+        "en": "Обслуживание"
+       },
+       "words": 113,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t056_92ac8f37",
+       "title": {
+        "ru": "Пассажирам",
+        "en": "Пассажирам"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t057_490bd839",
+       "title": {
+        "ru": "При столкновении во время движения",
+        "en": "При столкновении во время движения"
+       },
+       "words": 76,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t058_37b8cda3",
+       "title": {
+        "ru": "Положение",
+        "en": "Положение"
+       },
+       "words": 134,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t059_7b1e61b3",
+       "title": {
+        "ru": "Сиденья и устройства защиты",
+        "en": "Сиденья и устройства защиты"
+       },
+       "words": 73,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t060_915d1b73",
+       "title": {
+        "ru": "Все находящиеся в автомобиле люди",
+        "en": "Все находящиеся в автомобиле люди"
+       },
+       "words": 206,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t061_19051261",
+       "title": {
+        "ru": "Младенец",
+        "en": "Младенец"
+       },
+       "words": 201,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t062_8102f04a",
+       "title": {
+        "ru": "Неправильное",
+        "en": "Неправильное"
+       },
+       "words": 168,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t064_374ae8f3",
+       "title": {
+        "ru": "Сиденья и устройства защиты",
+        "en": "Сиденья и устройства защиты"
+       },
+       "words": 130,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t066_0970051f",
+       "title": {
+        "ru": "6. Закрепите",
+        "en": "6. Закрепите"
+       },
+       "words": 179,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t067_4bf9bf59",
+       "title": {
+        "ru": "Livan",
+        "en": "Livan"
+       },
+       "words": 95,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t068_06160d0c",
+       "title": {
+        "ru": "1. Вставьте отвертку с прямым шлицем",
+        "en": "1. Вставьте отвертку с прямым шлицем"
+       },
+       "words": 127,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t069_a5a3d13c",
+       "title": {
+        "ru": "Противоугонную",
+        "en": "Противоугонную"
+       },
+       "words": 72,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t071_31edbc85",
+       "title": {
+        "ru": "2. Вставьте",
+        "en": "2. Вставьте"
+       },
+       "words": 99,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t072_cbc7d690",
+       "title": {
+        "ru": "Автоматическая",
+        "en": "Автоматическая"
+       },
+       "words": 113,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t073_eec30630",
+       "title": {
+        "ru": "Функция поиска автомобиля",
+        "en": "Функция поиска автомобиля"
+       },
+       "words": 119,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t074_8224fa6d",
+       "title": {
+        "ru": "Режимы",
+        "en": "Режимы"
+       },
+       "words": 110,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t076_7c241817",
+       "title": {
+        "ru": "Условия",
+        "en": "Условия"
+       },
+       "words": 78,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t077_0c8ae8bb",
+       "title": {
+        "ru": "Запуск двигателя и вождение",
+        "en": "Запуск двигателя и вождение"
+       },
+       "words": 136,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t078_2fff5354",
+       "title": {
+        "ru": "Избегайте экстренного торможения в",
+        "en": "Избегайте экстренного торможения в"
+       },
+       "words": 143,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t079_f4f70d93",
+       "title": {
+        "ru": "Плавное",
+        "en": "Плавное"
+       },
+       "words": 75,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t080_9f16f83b",
+       "title": {
+        "ru": "9. Своевременное",
+        "en": "9. Своевременное"
+       },
+       "words": 81,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t081_db18631d",
+       "title": {
+        "ru": "Соблюдайте",
+        "en": "Соблюдайте"
+       },
+       "words": 144,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t082_8118f365",
+       "title": {
+        "ru": "Запуск двигателя и вождение",
+        "en": "Запуск двигателя и вождение"
+       },
+       "words": 98,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t084_6df33807",
+       "title": {
+        "ru": "Регулярно",
+        "en": "Регулярно"
+       },
+       "words": 82,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t085_30550eec",
+       "title": {
+        "ru": "Для поддержания двигателя в чистоте и",
+        "en": "Для поддержания двигателя в чистоте и"
+       },
+       "words": 173,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t086_b6ccd33b",
+       "title": {
+        "ru": "Livan",
+        "en": "Livan"
+       },
+       "words": 84,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t087_1062fad4",
+       "title": {
+        "ru": "4. Во время заправки можно поместить",
+        "en": "4. Во время заправки можно поместить"
+       },
+       "words": 237,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t088_cfba61eb",
+       "title": {
+        "ru": "При замене пробки топливного бака",
+        "en": "При замене пробки топливного бака"
+       },
+       "words": 121,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t089_1be6b87a",
+       "title": {
+        "ru": "Во время движения автомобиля ни",
+        "en": "Во время движения автомобиля ни"
+       },
+       "words": 151,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t090_979e10af",
+       "title": {
+        "ru": "Аварийный",
+        "en": "Аварийный"
+       },
+       "words": 159,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t091_3cd8cc3a",
+       "title": {
+        "ru": "Если пусковой переключатель находится",
+        "en": "Если пусковой переключатель находится"
+       },
+       "words": 62,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t092_cd6f4894",
+       "title": {
+        "ru": "Слишком",
+        "en": "Слишком"
+       },
+       "words": 116,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t093_f9f260c2",
+       "title": {
+        "ru": "Включение",
+        "en": "Включение"
+       },
+       "words": 122,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t094_42ed4328",
+       "title": {
+        "ru": "Система",
+        "en": "Система"
+       },
+       "words": 121,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t097_53f4fb09",
+       "title": {
+        "ru": "Сначала",
+        "en": "Сначала"
+       },
+       "words": 181,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t098_f2b31060",
+       "title": {
+        "ru": "Длинное",
+        "en": "Длинное"
+       },
+       "words": 82,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t099_30e9b466",
+       "title": {
+        "ru": "Охлаждающий вентилятор и другие",
+        "en": "Охлаждающий вентилятор и другие"
+       },
+       "words": 75,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t100_cc524ec5",
+       "title": {
+        "ru": "Неисправности во время вождения",
+        "en": "Неисправности во время вождения"
+       },
+       "words": 87,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t101_4c28dd06",
+       "title": {
+        "ru": "Не буксируйте на скорости более",
+        "en": "Не буксируйте на скорости более"
+       },
+       "words": 93,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t102_6b8d2f4c",
+       "title": {
+        "ru": "Однако",
+        "en": "Однако"
+       },
+       "words": 130,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t103_1ea99ff2",
+       "title": {
+        "ru": "Изношенные шины могут стать причиной",
+        "en": "Изношенные шины могут стать причиной"
+       },
+       "words": 95,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t104_0c0e5631",
+       "title": {
+        "ru": "Табличка",
+        "en": "Табличка"
+       },
+       "words": 107,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t105_f8167a9f",
+       "title": {
+        "ru": "ДТП",
+        "en": "ДТП"
+       },
+       "words": 129,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t106_d7c18b59",
+       "title": {
+        "ru": "Неисправности во время вождения",
+        "en": "Неисправности во время вождения"
+       },
+       "words": 123,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t107_ce7b2b69",
+       "title": {
+        "ru": "Калибровка",
+        "en": "Калибровка"
+       },
+       "words": 99,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t108_21d566df",
+       "title": {
+        "ru": "Проверьте давление в шинах с помощью",
+        "en": "Проверьте давление в шинах с помощью"
+       },
+       "words": 172,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t109_4289db7e",
+       "title": {
+        "ru": "Сквозь резину шины можно увидеть",
+        "en": "Сквозь резину шины можно увидеть"
+       },
+       "words": 158,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t110_24183334",
+       "title": {
+        "ru": "Установка",
+        "en": "Установка"
+       },
+       "words": 177,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t111_5bd24aab",
+       "title": {
+        "ru": "Перестановка шин",
+        "en": "Перестановка шин"
+       },
+       "words": 235,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t112_c333d889",
+       "title": {
+        "ru": "Если автомобиль испытывает тряску при",
+        "en": "Если автомобиль испытывает тряску при"
+       },
+       "words": 202,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t113_3f23d756",
+       "title": {
+        "ru": "Зимние шины",
+        "en": "Зимние шины"
+       },
+       "words": 100,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t114_d42b2387",
+       "title": {
+        "ru": "Используйте только радиальные шины",
+        "en": "Используйте только радиальные шины"
+       },
+       "words": 154,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t115_17d8dc67",
+       "title": {
+        "ru": "1. Медленно выведите автомобиль на",
+        "en": "1. Медленно выведите автомобиль на"
+       },
+       "words": 79,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t116_6031d573",
+       "title": {
+        "ru": "Запрещается",
+        "en": "Запрещается"
+       },
+       "words": 137,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t117_6b11b298",
+       "title": {
+        "ru": "Неправильное",
+        "en": "Неправильное"
+       },
+       "words": 144,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t118_4e63237e",
+       "title": {
+        "ru": "Ржавчина или грязь на колесах или",
+        "en": "Ржавчина или грязь на колесах или"
+       },
+       "words": 121,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t119_810090e7",
+       "title": {
+        "ru": "15. Затяните колесные гайки с помощью",
+        "en": "15. Затяните колесные гайки с помощью"
+       },
+       "words": 131,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t120_6e9b5945",
+       "title": {
+        "ru": "Перегоревший",
+        "en": "Перегоревший"
+       },
+       "words": 123,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t123_8e2b4447",
+       "title": {
+        "ru": "Внутренний",
+        "en": "Внутренний"
+       },
+       "words": 58,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t127_112bcaed",
+       "title": {
+        "ru": "Неисправности во время вождения",
+        "en": "Неисправности во время вождения"
+       },
+       "words": 128,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t128_5be46e33",
+       "title": {
+        "ru": "Если автомобиль застрял",
+        "en": "Если автомобиль застрял"
+       },
+       "words": 202,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t129_411341c2",
+       "title": {
+        "ru": "Если автомобиль эксплуатируется в",
+        "en": "Если автомобиль эксплуатируется в"
+       },
+       "words": 82,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t130_f6241eb9",
+       "title": {
+        "ru": "Применение",
+        "en": "Применение"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t132_e13a8d76",
+       "title": {
+        "ru": "Техническое",
+        "en": "Техническое"
+       },
+       "words": 80,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t133_502b8789",
+       "title": {
+        "ru": "Легковоспламеняющиеся",
+        "en": "Легковоспламеняющиеся"
+       },
+       "words": 117,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t134_31272eb4",
+       "title": {
+        "ru": "Ремонт и обслуживание",
+        "en": "Ремонт и обслуживание"
+       },
+       "words": 96,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t135_ad44051d",
+       "title": {
+        "ru": "Если вы хотите проверить воздушный",
+        "en": "Если вы хотите проверить воздушный"
+       },
+       "words": 68,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t136_413418b2",
+       "title": {
+        "ru": "5. Визуально проверьте, не слишком ли",
+        "en": "5. Визуально проверьте, не слишком ли"
+       },
+       "words": 112,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t138_88122761",
+       "title": {
+        "ru": "Если требуется открыть расширительный",
+        "en": "Если требуется открыть расширительный"
+       },
+       "words": 200,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t139_c5708a34",
+       "title": {
+        "ru": "Экстренное торможение не должно",
+        "en": "Экстренное торможение не должно"
+       },
+       "words": 56,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t140_e4b6ecdd",
+       "title": {
+        "ru": "Следующие",
+        "en": "Следующие"
+       },
+       "words": 103,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t141_dded687f",
+       "title": {
+        "ru": "Откройте крышку горловины с символом",
+        "en": "Откройте крышку горловины с символом"
+       },
+       "words": 77,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t142_ac702823",
+       "title": {
+        "ru": "Обязательно",
+        "en": "Обязательно"
+       },
+       "words": 185,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t143_84d94c12",
+       "title": {
+        "ru": "Используйте",
+        "en": "Используйте"
+       },
+       "words": 167,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t144_c9407cf0",
+       "title": {
+        "ru": "Для удаления пыли можно использовать",
+        "en": "Для удаления пыли можно использовать"
+       },
+       "words": 135,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t145_5b682b78",
+       "title": {
+        "ru": "Технические данные",
+        "en": "Технические данные"
+       },
+       "words": 65,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t146_eb0d95fa",
+       "title": {
+        "ru": "Максималь",
+        "en": "Максималь"
+       },
+       "words": 52,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_9_general_t147_41177f33",
+       "title": {
+        "ru": "Общий расход",
+        "en": "Общий расход"
+       },
+       "words": 63,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "livan_9_infotainment_t000_b0dc1e63",
+       "title": {
+        "ru": "11. «Инструкция",
+        "en": "11. «Инструкция"
+       },
+       "words": 95,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "livan_9_infotainment_t001_24285a10",
+       "title": {
+        "ru": "Область",
+        "en": "Область"
+       },
+       "words": 124,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "livan_9_infotainment_t002_ccbf9257",
+       "title": {
+        "ru": "Если автомобиль обнаружит необходимость включения одного или нескольких",
+        "en": "Если автомобиль обнаружит необходимость включения одного или нескольких"
+       },
+       "words": 94,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "livan_9_infotainment_t003_9046638d",
+       "title": {
+        "ru": "7. Кнопка регулировки громкости, кнопка",
+        "en": "7. Кнопка регулировки громкости, кнопка"
+       },
+       "words": 261,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "livan_9_infotainment_t004_c9a7f6ae",
+       "title": {
+        "ru": "Система",
+        "en": "Система"
+       },
+       "words": 105,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "livan_9_infotainment_t005_b92ca7ec",
+       "title": {
+        "ru": "Выберите",
+        "en": "Выберите"
+       },
+       "words": 132,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "livan_9_drivetrain_t000_48a07a77",
+       "title": {
+        "ru": "Использование различных стилей",
+        "en": "Использование различных стилей"
+       },
+       "words": 129,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "livan_9_drivetrain_t001_daffe05f",
+       "title": {
+        "ru": "5. Поддержание низкого сопротивления",
+        "en": "5. Поддержание низкого сопротивления"
+       },
+       "words": 101,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "livan_9_sensors_t000_a696179f",
+       "title": {
+        "ru": "Зона бесключевого открытия замка",
+        "en": "Зона бесключевого открытия замка"
+       },
+       "words": 201,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "livan_9_sensors_t001_1ddacb85",
+       "title": {
+        "ru": "Система",
+        "en": "Система"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "livan_9_sensors_t002_c8dd316f",
+       "title": {
+        "ru": "Датчики",
+        "en": "Датчики"
+       },
+       "words": 87,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "livan_9_sensors_t003_db75ddc7",
+       "title": {
+        "ru": "Запуск двигателя и вождение",
+        "en": "Запуск двигателя и вождение"
+       },
+       "words": 234,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

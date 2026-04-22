@@ -1,0 +1,3615 @@
+{
+ "version": "1.0",
+ "model": "legacy",
+ "manuals": [
+  {
+   "model": "legacy",
+   "label": {
+    "ru": "Subaru Legacy — Руководство по ремонту",
+    "en": "Subaru Legacy — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "subaru_legacy_engine_t000_1a4f28ae",
+       "title": {
+        "ru": "2. THROTTLE SENSOR (METHOD WITH SUBARU SELECT MONITOR)",
+        "en": "2. THROTTLE SENSOR (METHOD WITH SUBARU SELECT MONITOR)"
+       },
+       "words": 1634,
+       "images": 23,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t001_e698ed59",
+       "title": {
+        "ru": "6. EGR Control Valve",
+        "en": "6. EGR Control Valve"
+       },
+       "words": 1312,
+       "images": 52,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t002_cd49d285",
+       "title": {
+        "ru": "Tightening torque: NбН (kgf-m, ft-lb)",
+        "en": "Tightening torque: NбН (kgf-m, ft-lb)"
+       },
+       "words": 2101,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t003_ef83d228",
+       "title": {
+        "ru": "1. FRONT CUSHION RUBBER AND ENGINE MOUNTING BRACKET",
+        "en": "1. FRONT CUSHION RUBBER AND ENGINE MOUNTING BRACKET"
+       },
+       "words": 1391,
+       "images": 26,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t004_222131a5",
+       "title": {
+        "ru": "Cylinder Head",
+        "en": "Cylinder Head"
+       },
+       "words": 1588,
+       "images": 21,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t005_345f15cf",
+       "title": {
+        "ru": "Cylinder Block",
+        "en": "Cylinder Block"
+       },
+       "words": 1310,
+       "images": 23,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t006_78229673",
+       "title": {
+        "ru": "Cylinder Block",
+        "en": "Cylinder Block"
+       },
+       "words": 1302,
+       "images": 26,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t007_6aef6c28",
+       "title": {
+        "ru": "2. PISTON AND CONNECTING ROD",
+        "en": "2. PISTON AND CONNECTING ROD"
+       },
+       "words": 1820,
+       "images": 22,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t008_fb2c6a89",
+       "title": {
+        "ru": "2. CVTF COOLER (WITH WARMER FEATURE) SIDE",
+        "en": "2. CVTF COOLER (WITH WARMER FEATURE) SIDE"
+       },
+       "words": 1693,
+       "images": 23,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t009_abbafa5e",
+       "title": {
+        "ru": "5. MODE \\$04 (CLEAR/RESET EMISSION-RELATED DIAGNOSTIC INFORMATION)",
+        "en": "5. MODE \\$04 (CLEAR/RESET EMISSION-RELATED DIAGNOSTIC INFORMATION)"
+       },
+       "words": 639,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t010_d2d263ea",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 419,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t011_af4dd14a",
+       "title": {
+        "ru": "2. THROTTLE SENSOR (METHOD WITH SUBARU SELECT MONITOR)",
+        "en": "2. THROTTLE SENSOR (METHOD WITH SUBARU SELECT MONITOR)"
+       },
+       "words": 1376,
+       "images": 33,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t012_0b027b32",
+       "title": {
+        "ru": "1. METHOD WITH SUBARU SELECT MONITOR",
+        "en": "1. METHOD WITH SUBARU SELECT MONITOR"
+       },
+       "words": 1711,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t013_8cf3cf35",
+       "title": {
+        "ru": "6. INTAKE AND EXHAUST VALVE OIL SEAL",
+        "en": "6. INTAKE AND EXHAUST VALVE OIL SEAL"
+       },
+       "words": 1832,
+       "images": 43,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t014_02220812",
+       "title": {
+        "ru": "ST1 499597100 CRANKSHAFT OIL SEAL GUIDE ST2 499587200 CRANKSHAFT OIL SEAL INSTAL",
+        "en": "ST1 499597100 CRANKSHAFT OIL SEAL GUIDE ST2 499587200 CRANKSHAFT OIL SEAL INSTAL"
+       },
+       "words": 1846,
+       "images": 36,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t015_dcaa2ad3",
+       "title": {
+        "ru": "2. ENGINE COOLANT TEMPERATURE SENSOR AND HEATER HOSE",
+        "en": "2. ENGINE COOLANT TEMPERATURE SENSOR AND HEATER HOSE"
+       },
+       "words": 1339,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t016_fd609052",
+       "title": {
+        "ru": "5. MODE \\$04 (CLEAR/RESET EMISSION-RELATED DIAGNOSTIC INFORMATION)",
+        "en": "5. MODE \\$04 (CLEAR/RESET EMISSION-RELATED DIAGNOSTIC INFORMATION)"
+       },
+       "words": 968,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t017_5f563e02",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 439,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t018_030ca924",
+       "title": {
+        "ru": "Time Needed for Diagnosis:",
+        "en": "Time Needed for Diagnosis:"
+       },
+       "words": 970,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t019_73ddebb7",
+       "title": {
+        "ru": "Removal of the test plug and installation of the ST shall be both performed quic",
+        "en": "Removal of the test plug and installation of the ST shall be both performed quic"
+       },
+       "words": 2506,
+       "images": 51,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t020_ceb86f48",
+       "title": {
+        "ru": "18.Heater and Cooling Unit",
+        "en": "18.Heater and Cooling Unit"
+       },
+       "words": 1182,
+       "images": 20,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_legacy_engine_t021_7eb95d32",
+       "title": {
+        "ru": "2. REAR GATE DAMPER STAY",
+        "en": "2. REAR GATE DAMPER STAY"
+       },
+       "words": 389,
+       "images": 2,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "subaru_legacy_brakes_t000_496e61ac",
+       "title": {
+        "ru": "4) Compress the return spring using the ST to install the snap ring. ST 18762AA0",
+        "en": "4) Compress the return spring using the ST to install the snap ring. ST 18762AA0"
+       },
+       "words": 1569,
+       "images": 19,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_legacy_brakes_t001_66101974",
+       "title": {
+        "ru": "Tightening torque:",
+        "en": "Tightening torque:"
+       },
+       "words": 1691,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_legacy_brakes_t002_d27bada5",
+       "title": {
+        "ru": "VDC Control Module and Hydraulic Control Unit (VDCCM&H/U) VEHICLE DYNAMICS CONTR",
+        "en": "VDC Control Module and Hydraulic Control Unit (VDCCM&H/U) VEHICLE DYNAMICS CONTR"
+       },
+       "words": 1532,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_legacy_brakes_t003_919a46e7",
+       "title": {
+        "ru": "1. CONDITIONS FOR COMPLETION OF ABS SEQUENCE CONTROL",
+        "en": "1. CONDITIONS FOR COMPLETION OF ABS SEQUENCE CONTROL"
+       },
+       "words": 1187,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_legacy_brakes_t004_23b4da7d",
+       "title": {
+        "ru": "B: EBD WARNING LIGHT, ABS WARNING, VDC OFF INDICATOR LIGHT, VDCWARNING LIGHT AND",
+        "en": "B: EBD WARNING LIGHT, ABS WARNING, VDC OFF INDICATOR LIGHT, VDCWARNING LIGHT AND"
+       },
+       "words": 656,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_legacy_brakes_t005_68435d81",
+       "title": {
+        "ru": "2. REAR DISC BRAKE",
+        "en": "2. REAR DISC BRAKE"
+       },
+       "words": 1238,
+       "images": 21,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_legacy_brakes_t006_e5ac5004",
+       "title": {
+        "ru": "2. DISC ROTOR THICKNESS CHECK",
+        "en": "2. DISC ROTOR THICKNESS CHECK"
+       },
+       "words": 1222,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_legacy_brakes_t007_01bf40d6",
+       "title": {
+        "ru": "Preparation items: Recommended brake fluid: FMVSS No. 116, DOT3 or DOT4",
+        "en": "Preparation items: Recommended brake fluid: FMVSS No. 116, DOT3 or DOT4"
+       },
+       "words": 1924,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_legacy_brakes_t008_cef3924e",
+       "title": {
+        "ru": "3. HYDRAULIC CONTROL UNIT",
+        "en": "3. HYDRAULIC CONTROL UNIT"
+       },
+       "words": 1189,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_legacy_brakes_t009_b8f78dc6",
+       "title": {
+        "ru": "2. Wiring diagram of each system",
+        "en": "2. Wiring diagram of each system"
+       },
+       "words": 1666,
+       "images": 10,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "subaru_legacy_suspension_t000_942858b7",
+       "title": {
+        "ru": "6. OIL LEAKAGE OF STRUT AND SHOCK ABSORBER",
+        "en": "6. OIL LEAKAGE OF STRUT AND SHOCK ABSORBER"
+       },
+       "words": 1013,
+       "images": 5,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "subaru_legacy_electrical_t000_727de42f",
+       "title": {
+        "ru": "1. CRANKSHAFT POSITION SENSOR",
+        "en": "1. CRANKSHAFT POSITION SENSOR"
+       },
+       "words": 991,
+       "images": 17,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t001_d07576e2",
+       "title": {
+        "ru": "When the maximum measurement value is less than 70 mA → Standby current is norma",
+        "en": "When the maximum measurement value is less than 70 mA → Standby current is norma"
+       },
+       "words": 1167,
+       "images": 20,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t002_e558b624",
+       "title": {
+        "ru": "F: FUEL INJECTOR CIRCUIT",
+        "en": "F: FUEL INJECTOR CIRCUIT"
+       },
+       "words": 533,
+       "images": 13,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t003_a3d006c4",
+       "title": {
+        "ru": "CAUTION:",
+        "en": "CAUTION:"
+       },
+       "words": 532,
+       "images": 14,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t004_712a7213",
+       "title": {
+        "ru": "AZ:DTC P0201 CYLINDER 1 INJECTOR \"A\" CIRCUIT",
+        "en": "AZ:DTC P0201 CYLINDER 1 INJECTOR \"A\" CIRCUIT"
+       },
+       "words": 541,
+       "images": 10,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t005_81fc44a0",
+       "title": {
+        "ru": "Trouble symptom:",
+        "en": "Trouble symptom:"
+       },
+       "words": 555,
+       "images": 17,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t006_61bd3663",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 417,
+       "images": 16,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t007_c1e456b6",
+       "title": {
+        "ru": "DE:DTC P081A STARTER DISABLE CIRCUIT LOW",
+        "en": "DE:DTC P081A STARTER DISABLE CIRCUIT LOW"
+       },
+       "words": 469,
+       "images": 21,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t008_d529070f",
+       "title": {
+        "ru": "CAUTION:",
+        "en": "CAUTION:"
+       },
+       "words": 540,
+       "images": 17,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t009_1e5b8408",
+       "title": {
+        "ru": "EP:DTC P2123 THROTTLE/PEDAL POSITION SENSOR/SWITCH \"D\" CIRCUIT HIGH",
+        "en": "EP:DTC P2123 THROTTLE/PEDAL POSITION SENSOR/SWITCH \"D\" CIRCUIT HIGH"
+       },
+       "words": 605,
+       "images": 12,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t010_fc9548fd",
+       "title": {
+        "ru": "CAUTION:",
+        "en": "CAUTION:"
+       },
+       "words": 537,
+       "images": 22,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t011_9cfa0cde",
+       "title": {
+        "ru": "When the maximum measurement value is less than 70 mA → Standby current is norma",
+        "en": "When the maximum measurement value is less than 70 mA → Standby current is norma"
+       },
+       "words": 921,
+       "images": 13,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t012_9ace5222",
+       "title": {
+        "ru": "1. MODEL WITHOUT PUSH BUTTON START",
+        "en": "1. MODEL WITHOUT PUSH BUTTON START"
+       },
+       "words": 458,
+       "images": 19,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t013_640f09a3",
+       "title": {
+        "ru": "S: DTC P0032 A/F O2 HEATER CONTROL CIRCUIT HIGH BANK 1 SENSOR 1",
+        "en": "S: DTC P0032 A/F O2 HEATER CONTROL CIRCUIT HIGH BANK 1 SENSOR 1"
+       },
+       "words": 444,
+       "images": 14,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t014_cfd97c1d",
+       "title": {
+        "ru": "AI: DTC P0108 MANIFOLD ABSOLUTE PRESSURE/BAROMETRIC PRESSURE SENSOR CIRCUIT HIGH",
+        "en": "AI: DTC P0108 MANIFOLD ABSOLUTE PRESSURE/BAROMETRIC PRESSURE SENSOR CIRCUIT HIGH"
+       },
+       "words": 453,
+       "images": 18,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t015_c43f18fd",
+       "title": {
+        "ru": "BL:DTC P0151 A/F O2 SENSOR CIRCUIT LOW VOLTAGE BANK 2 SENSOR 1",
+        "en": "BL:DTC P0151 A/F O2 SENSOR CIRCUIT LOW VOLTAGE BANK 2 SENSOR 1"
+       },
+       "words": 424,
+       "images": 14,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t016_c639868f",
+       "title": {
+        "ru": "CAUTION:",
+        "en": "CAUTION:"
+       },
+       "words": 403,
+       "images": 11,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t017_b1462402",
+       "title": {
+        "ru": "CAUTION:",
+        "en": "CAUTION:"
+       },
+       "words": 424,
+       "images": 19,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t018_71bf6dfe",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 397,
+       "images": 20,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t019_d2292ce8",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 388,
+       "images": 14,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t020_a9dc2c67",
+       "title": {
+        "ru": "FI: DTC P2099 POST CATALYST FUEL TRIM SYSTEM TOO RICH BANK 2",
+        "en": "FI: DTC P2099 POST CATALYST FUEL TRIM SYSTEM TOO RICH BANK 2"
+       },
+       "words": 548,
+       "images": 23,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t021_c670d845",
+       "title": {
+        "ru": "CAUTION:",
+        "en": "CAUTION:"
+       },
+       "words": 411,
+       "images": 14,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t022_eeb6db92",
+       "title": {
+        "ru": "CAUTION:",
+        "en": "CAUTION:"
+       },
+       "words": 413,
+       "images": 19,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t023_36df1383",
+       "title": {
+        "ru": "GJ:DTC P2530 IGNITION SWITCH RUN POSITION CIRCUIT",
+        "en": "GJ:DTC P2530 IGNITION SWITCH RUN POSITION CIRCUIT"
+       },
+       "words": 715,
+       "images": 10,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t024_95e8a592",
+       "title": {
+        "ru": "5. Steering Heater System",
+        "en": "5. Steering Heater System"
+       },
+       "words": 749,
+       "images": 4,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t025_127df715",
+       "title": {
+        "ru": "DTC detecting condition:",
+        "en": "DTC detecting condition:"
+       },
+       "words": 763,
+       "images": 5,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t026_43913467",
+       "title": {
+        "ru": "SRF(diag)-5",
+        "en": "SRF(diag)-5"
+       },
+       "words": 775,
+       "images": 5,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t027_4ea72f6b",
+       "title": {
+        "ru": "2. Relay and Fuse A: LOCATION",
+        "en": "2. Relay and Fuse A: LOCATION"
+       },
+       "words": 699,
+       "images": 8,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t028_faa9b6f4",
+       "title": {
+        "ru": "5. Keyless Access With Push Button Start System",
+        "en": "5. Keyless Access With Push Button Start System"
+       },
+       "words": 635,
+       "images": 8,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t029_fb9dac23",
+       "title": {
+        "ru": "3. General Description",
+        "en": "3. General Description"
+       },
+       "words": 642,
+       "images": 7,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t030_4672d53d",
+       "title": {
+        "ru": "4. Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "4. Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 849,
+       "images": 5,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t031_ec9a4294",
+       "title": {
+        "ru": "2. IDENTIFICATION OF TROUBLE CAUSE",
+        "en": "2. IDENTIFICATION OF TROUBLE CAUSE"
+       },
+       "words": 942,
+       "images": 2,
+       "section_id": "electrical"
+      },
+      {
+       "id": "subaru_legacy_electrical_t032_3e7469a6",
+       "title": {
+        "ru": "B: PRECAUTIONS IN TROUBLE DIAGNOSIS AND REPAIR OF ELECTRIC PARTS",
+        "en": "B: PRECAUTIONS IN TROUBLE DIAGNOSIS AND REPAIR OF ELECTRIC PARTS"
+       },
+       "words": 590,
+       "images": 5,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "subaru_legacy_transmission_t000_e36cf606",
+       "title": {
+        "ru": "Automatic transmission CVT TR690",
+        "en": "Automatic transmission CVT TR690"
+       },
+       "words": 499,
+       "images": 7,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t001_7c595417",
+       "title": {
+        "ru": "2. FRONT DIFFERENTIAL (CVT MODEL)",
+        "en": "2. FRONT DIFFERENTIAL (CVT MODEL)"
+       },
+       "words": 1505,
+       "images": 33,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t002_e4e6bb25",
+       "title": {
+        "ru": "11.TRANSMISSION HARNESS AND SENSOR",
+        "en": "11.TRANSMISSION HARNESS AND SENSOR"
+       },
+       "words": 977,
+       "images": 12,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t003_f3e9ec2d",
+       "title": {
+        "ru": "8. Secondary Pressure (Line Pressure) Test",
+        "en": "8. Secondary Pressure (Line Pressure) Test"
+       },
+       "words": 2113,
+       "images": 48,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t004_52328187",
+       "title": {
+        "ru": "ST SIDE OIL SEAL INSTALLER",
+        "en": "ST SIDE OIL SEAL INSTALLER"
+       },
+       "words": 1508,
+       "images": 24,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t005_bb97624c",
+       "title": {
+        "ru": "17.Primary Speed Sensor",
+        "en": "17.Primary Speed Sensor"
+       },
+       "words": 1423,
+       "images": 37,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t006_3e359ec0",
+       "title": {
+        "ru": "23.Transmission Control Module (TCM)",
+        "en": "23.Transmission Control Module (TCM)"
+       },
+       "words": 1160,
+       "images": 29,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t007_09bca244",
+       "title": {
+        "ru": "30.Torque Converter Assembly",
+        "en": "30.Torque Converter Assembly"
+       },
+       "words": 560,
+       "images": 10,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t008_2e1fadd1",
+       "title": {
+        "ru": "Transfer Clutch",
+        "en": "Transfer Clutch"
+       },
+       "words": 1028,
+       "images": 22,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t009_ded33660",
+       "title": {
+        "ru": "37.Transmission Control Device",
+        "en": "37.Transmission Control Device"
+       },
+       "words": 1346,
+       "images": 27,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t010_a4d0434c",
+       "title": {
+        "ru": "Primary Pulley and Secondary Pulley",
+        "en": "Primary Pulley and Secondary Pulley"
+       },
+       "words": 1556,
+       "images": 27,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t011_74a941d9",
+       "title": {
+        "ru": "1. FORWARD CLUTCH ASSEMBLY",
+        "en": "1. FORWARD CLUTCH ASSEMBLY"
+       },
+       "words": 2290,
+       "images": 40,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t012_e6a35683",
+       "title": {
+        "ru": "Starting torque:",
+        "en": "Starting torque:"
+       },
+       "words": 1921,
+       "images": 33,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t013_7a835e2f",
+       "title": {
+        "ru": "1. DIFFERENTIAL CASE ASSEMBLY",
+        "en": "1. DIFFERENTIAL CASE ASSEMBLY"
+       },
+       "words": 1506,
+       "images": 30,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t014_c75e2c2d",
+       "title": {
+        "ru": "5. REVERSE BRAKE ASSEMBLY AND INTERMEDIATE CASE",
+        "en": "5. REVERSE BRAKE ASSEMBLY AND INTERMEDIATE CASE"
+       },
+       "words": 1261,
+       "images": 6,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t015_07c69523",
+       "title": {
+        "ru": "Tightening torque: NбН (kgf-m, ft-lb)",
+        "en": "Tightening torque: NбН (kgf-m, ft-lb)"
+       },
+       "words": 1132,
+       "images": 12,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t016_bc480c8a",
+       "title": {
+        "ru": "ST1 34099AC020 ADAPTER HOSE B ST2 34099AC010 ADAPTER HOSE A ST3 18681AA000 PRESS",
+        "en": "ST1 34099AC020 ADAPTER HOSE B ST2 34099AC010 ADAPTER HOSE A ST3 18681AA000 PRESS"
+       },
+       "words": 1462,
+       "images": 37,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t017_6982e737",
+       "title": {
+        "ru": "16.Secondary Speed Sensor",
+        "en": "16.Secondary Speed Sensor"
+       },
+       "words": 1216,
+       "images": 12,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t018_0b591d77",
+       "title": {
+        "ru": "19.Secondary Pressure Sensor",
+        "en": "19.Secondary Pressure Sensor"
+       },
+       "words": 1290,
+       "images": 30,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t019_e9be44ec",
+       "title": {
+        "ru": "29.Torque Converter Assembly",
+        "en": "29.Torque Converter Assembly"
+       },
+       "words": 689,
+       "images": 16,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t020_aa01a310",
+       "title": {
+        "ru": "Transfer Clutch",
+        "en": "Transfer Clutch"
+       },
+       "words": 1017,
+       "images": 17,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t021_808e258a",
+       "title": {
+        "ru": "4) Compress the return spring using the ST to install the snap ring. ST 18762AA0",
+        "en": "4) Compress the return spring using the ST to install the snap ring. ST 18762AA0"
+       },
+       "words": 1799,
+       "images": 68,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t022_d3773a2a",
+       "title": {
+        "ru": "39.Reduction Driven Gear",
+        "en": "39.Reduction Driven Gear"
+       },
+       "words": 1410,
+       "images": 29,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t023_8e3fefe7",
+       "title": {
+        "ru": "42.Primary Pulley and Secondary Pulley",
+        "en": "42.Primary Pulley and Secondary Pulley"
+       },
+       "words": 1908,
+       "images": 29,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t024_da6ec0d2",
+       "title": {
+        "ru": "Front Differential Assembly",
+        "en": "Front Differential Assembly"
+       },
+       "words": 1440,
+       "images": 27,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t025_5da46cfa",
+       "title": {
+        "ru": "TROUBLE SYMPTOM:",
+        "en": "TROUBLE SYMPTOM:"
+       },
+       "words": 1501,
+       "images": 7,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t026_59477b39",
+       "title": {
+        "ru": "3. OUTLINE OF DIAGNOSIS (ENGINE TYPE FB)",
+        "en": "3. OUTLINE OF DIAGNOSIS (ENGINE TYPE FB)"
+       },
+       "words": 968,
+       "images": 11,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t027_2335fc98",
+       "title": {
+        "ru": "Preload of taper roller bearing (extension case side) (amount of standard protru",
+        "en": "Preload of taper roller bearing (extension case side) (amount of standard protru"
+       },
+       "words": 1696,
+       "images": 35,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t028_b33321aa",
+       "title": {
+        "ru": "B: 0.2±0.2 mm (0.01±0.01 in) from the end of transfer case",
+        "en": "B: 0.2±0.2 mm (0.01±0.01 in) from the end of transfer case"
+       },
+       "words": 2092,
+       "images": 29,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t029_b5fd0361",
+       "title": {
+        "ru": "3. TOOTH CONTACT OF HYPOID DRIVEN GEAR",
+        "en": "3. TOOTH CONTACT OF HYPOID DRIVEN GEAR"
+       },
+       "words": 1432,
+       "images": 22,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t030_f05d1553",
+       "title": {
+        "ru": "10.Rear Differential Inspection Mode A: GENERAL DESCRIPTION",
+        "en": "10.Rear Differential Inspection Mode A: GENERAL DESCRIPTION"
+       },
+       "words": 914,
+       "images": 22,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t031_b131663d",
+       "title": {
+        "ru": "11.Transfer Clutch Pressure Test",
+        "en": "11.Transfer Clutch Pressure Test"
+       },
+       "words": 874,
+       "images": 14,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t032_faa8559a",
+       "title": {
+        "ru": "5. Control Module I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "5. Control Module I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 913,
+       "images": 1,
+       "section_id": "transmission"
+      },
+      {
+       "id": "subaru_legacy_transmission_t033_e6229aa9",
+       "title": {
+        "ru": "4. TRANSMISSION CONTROL MODULE (TCM)",
+        "en": "4. TRANSMISSION CONTROL MODULE (TCM)"
+       },
+       "words": 365,
+       "images": 0,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "subaru_legacy_hvac_t000_117f9502",
+       "title": {
+        "ru": "5. Refrigerant Charging Procedure",
+        "en": "5. Refrigerant Charging Procedure"
+       },
+       "words": 1979,
+       "images": 14,
+       "section_id": "hvac"
+      },
+      {
+       "id": "subaru_legacy_hvac_t001_258568da",
+       "title": {
+        "ru": "Y: DTC B14A7 VARIABLE SOLENOID VALVE CIRCUIT",
+        "en": "Y: DTC B14A7 VARIABLE SOLENOID VALVE CIRCUIT"
+       },
+       "words": 579,
+       "images": 11,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "subaru_legacy_body_t000_8ca26b48",
+       "title": {
+        "ru": "56.BLIND SPOT DETECTION/REAR CROSS TRAFFIC ALERT (BSD/RCTA)",
+        "en": "56.BLIND SPOT DETECTION/REAR CROSS TRAFFIC ALERT (BSD/RCTA)"
+       },
+       "words": 2348,
+       "images": 13,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t001_6d7fc790",
+       "title": {
+        "ru": "11.Preparation for Overhaul",
+        "en": "11.Preparation for Overhaul"
+       },
+       "words": 1470,
+       "images": 28,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t002_e13dadf3",
+       "title": {
+        "ru": "1. MODEL WITHOUT PUSH BUTTON IGNITION SWITCH",
+        "en": "1. MODEL WITHOUT PUSH BUTTON IGNITION SWITCH"
+       },
+       "words": 1831,
+       "images": 17,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t003_620fd8f9",
+       "title": {
+        "ru": "1. GEARBOX BACKLASH ADJUSTMENT (SERVICING ON VEHICLE)",
+        "en": "1. GEARBOX BACKLASH ADJUSTMENT (SERVICING ON VEHICLE)"
+       },
+       "words": 1359,
+       "images": 15,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t004_8fa2be51",
+       "title": {
+        "ru": "L: DTC B1441 AIR MIX DOOR ACTUATOR CIRCUIT STUCK (PASSENGER)",
+        "en": "L: DTC B1441 AIR MIX DOOR ACTUATOR CIRCUIT STUCK (PASSENGER)"
+       },
+       "words": 1164,
+       "images": 8,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t005_b01f54b9",
+       "title": {
+        "ru": "3. CHECK REAR GATE LATCH SWITCH",
+        "en": "3. CHECK REAR GATE LATCH SWITCH"
+       },
+       "words": 998,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t006_058c5435",
+       "title": {
+        "ru": "Switch power window sub rear",
+        "en": "Switch power window sub rear"
+       },
+       "words": 832,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t007_73664b2d",
+       "title": {
+        "ru": "Switch power window sub rear",
+        "en": "Switch power window sub rear"
+       },
+       "words": 844,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t008_ea3c6681",
+       "title": {
+        "ru": "1. WHEN USING WINDSHIELD GLASS KNIFE",
+        "en": "1. WHEN USING WINDSHIELD GLASS KNIFE"
+       },
+       "words": 1450,
+       "images": 15,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t009_dfa5fa0c",
+       "title": {
+        "ru": "Rear Quarter Glass",
+        "en": "Rear Quarter Glass"
+       },
+       "words": 1793,
+       "images": 13,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t010_600eb5e8",
+       "title": {
+        "ru": "3. AUTOMATIC ANTI-GLARE MIRROR (HIGH BEAM ASSIST, HOME LINK & COMPASS TYPE)",
+        "en": "3. AUTOMATIC ANTI-GLARE MIRROR (HIGH BEAM ASSIST, HOME LINK & COMPASS TYPE)"
+       },
+       "words": 1352,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t011_603a9e5e",
+       "title": {
+        "ru": "Tightening torque: 5.9 NбН (0.6 kgf-m, 4.4 ft-lb)",
+        "en": "Tightening torque: 5.9 NбН (0.6 kgf-m, 4.4 ft-lb)"
+       },
+       "words": 835,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t012_3545dba4",
+       "title": {
+        "ru": "1. CHECK IMPACT SENSOR",
+        "en": "1. CHECK IMPACT SENSOR"
+       },
+       "words": 1019,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t013_8b2d55fb",
+       "title": {
+        "ru": "1. STOPPING KEYLESS ACCESS SYSTEM FUNCTION BY DOOR OPEN/CLOSE PROCEDURE",
+        "en": "1. STOPPING KEYLESS ACCESS SYSTEM FUNCTION BY DOOR OPEN/CLOSE PROCEDURE"
+       },
+       "words": 1146,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t014_2f5ab0e3",
+       "title": {
+        "ru": "23.Instrument Panel Assembly",
+        "en": "23.Instrument Panel Assembly"
+       },
+       "words": 1356,
+       "images": 11,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t015_e916a074",
+       "title": {
+        "ru": "Front Door",
+        "en": "Front Door"
+       },
+       "words": 1339,
+       "images": 14,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t016_313d54c0",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 1208,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t017_76dae7b6",
+       "title": {
+        "ru": "4. Electrical Component Location A: LOCATION",
+        "en": "4. Electrical Component Location A: LOCATION"
+       },
+       "words": 1641,
+       "images": 13,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t018_be980f66",
+       "title": {
+        "ru": "2. KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM",
+        "en": "2. KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM"
+       },
+       "words": 1733,
+       "images": 8,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_legacy_body_t019_e1debd25",
+       "title": {
+        "ru": "2. WITH KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM",
+        "en": "2. WITH KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM"
+       },
+       "words": 652,
+       "images": 6,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "subaru_legacy_steering_t000_57114326",
+       "title": {
+        "ru": "3. MAIN MOUNTING BRACKET & MAIN CUSHION RUBBER",
+        "en": "3. MAIN MOUNTING BRACKET & MAIN CUSHION RUBBER"
+       },
+       "words": 1117,
+       "images": 18,
+       "section_id": "steering"
+      },
+      {
+       "id": "subaru_legacy_steering_t001_8090411a",
+       "title": {
+        "ru": "Always use a new clevis pin.",
+        "en": "Always use a new clevis pin."
+       },
+       "words": 1673,
+       "images": 9,
+       "section_id": "steering"
+      },
+      {
+       "id": "subaru_legacy_steering_t002_b17737c0",
+       "title": {
+        "ru": "3. RACK SHAFT PLAY IN THE RADIAL DIRECTION",
+        "en": "3. RACK SHAFT PLAY IN THE RADIAL DIRECTION"
+       },
+       "words": 1615,
+       "images": 8,
+       "section_id": "steering"
+      },
+      {
+       "id": "subaru_legacy_steering_t003_0069c79e",
+       "title": {
+        "ru": "16.INSTRUMENT PANEL",
+        "en": "16.INSTRUMENT PANEL"
+       },
+       "words": 517,
+       "images": 5,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "fuel_ev",
+     "title": {
+      "ru": "Топливная / ВВ система",
+      "en": "Fuel / HV System"
+     },
+     "icon": "⛽",
+     "topics": [
+      {
+       "id": "subaru_legacy_fuel_ev_t000_a828901e",
+       "title": {
+        "ru": "FUEL INJECTION (FUEL SYSTEMS) FU(H4DO)",
+        "en": "FUEL INJECTION (FUEL SYSTEMS) FU(H4DO)"
+       },
+       "words": 1104,
+       "images": 23,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "subaru_legacy_fuel_ev_t001_79e55e92",
+       "title": {
+        "ru": "3. DRAINING FUEL (THROUGH THE FUEL FILLER HOSE)",
+        "en": "3. DRAINING FUEL (THROUGH THE FUEL FILLER HOSE)"
+       },
+       "words": 693,
+       "images": 9,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "subaru_legacy_fuel_ev_t002_53b8f0d5",
+       "title": {
+        "ru": "33.Fuel System Trouble in General A: INSPECTION",
+        "en": "33.Fuel System Trouble in General A: INSPECTION"
+       },
+       "words": 1226,
+       "images": 20,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "subaru_legacy_fuel_ev_t003_705de7b9",
+       "title": {
+        "ru": "Malfunction Criteria",
+        "en": "Malfunction Criteria"
+       },
+       "words": 1199,
+       "images": 16,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "subaru_legacy_fuel_ev_t004_4ae837cc",
+       "title": {
+        "ru": "Trouble symptom:",
+        "en": "Trouble symptom:"
+       },
+       "words": 418,
+       "images": 9,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "subaru_legacy_fuel_ev_t005_80a2b3d4",
+       "title": {
+        "ru": "FUEL INJECTION (FUEL SYSTEMS) FU(H6DO)",
+        "en": "FUEL INJECTION (FUEL SYSTEMS) FU(H6DO)"
+       },
+       "words": 1229,
+       "images": 23,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "subaru_legacy_fuel_ev_t006_5311e702",
+       "title": {
+        "ru": "3. DRAINING FUEL (THROUGH THE FUEL FILLER HOSE)",
+        "en": "3. DRAINING FUEL (THROUGH THE FUEL FILLER HOSE)"
+       },
+       "words": 902,
+       "images": 19,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "subaru_legacy_fuel_ev_t007_fc0c29ef",
+       "title": {
+        "ru": "Fuel Sub Level Sensor",
+        "en": "Fuel Sub Level Sensor"
+       },
+       "words": 1352,
+       "images": 28,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "subaru_legacy_fuel_ev_t008_0785df3b",
+       "title": {
+        "ru": "3. SOLENOID VALVE, ACTUATOR, EMISSION CONTROL SYSTEM PARTS AND IGNITION SYSTEM P",
+        "en": "3. SOLENOID VALVE, ACTUATOR, EMISSION CONTROL SYSTEM PARTS AND IGNITION SYSTEM P"
+       },
+       "words": 826,
+       "images": 15,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "subaru_legacy_fuel_ev_t009_bcea5eec",
+       "title": {
+        "ru": "General Diagnostic Table",
+        "en": "General Diagnostic Table"
+       },
+       "words": 533,
+       "images": 11,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "subaru_legacy_fuel_ev_t010_db9cd87f",
+       "title": {
+        "ru": "Tightening torque:",
+        "en": "Tightening torque:"
+       },
+       "words": 1059,
+       "images": 18,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "subaru_legacy_fuel_ev_t011_3227e12b",
+       "title": {
+        "ru": "4. Floor Under Protector",
+        "en": "4. Floor Under Protector"
+       },
+       "words": 222,
+       "images": 1,
+       "section_id": "fuel_ev"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "subaru_legacy_lighting_t000_254adbdb",
+       "title": {
+        "ru": "If you keep using the hose, perform the inspection below and replace the hose wi",
+        "en": "If you keep using the hose, perform the inspection below and replace the hose wi"
+       },
+       "words": 2269,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_legacy_lighting_t001_732452fa",
+       "title": {
+        "ru": "1. BRAKE LAMP LIGHTING OPERATION MODE BY SUBARU SELECT MONITOR",
+        "en": "1. BRAKE LAMP LIGHTING OPERATION MODE BY SUBARU SELECT MONITOR"
+       },
+       "words": 1125,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_legacy_lighting_t002_e306dd36",
+       "title": {
+        "ru": "1. DATA COMMUNICATION MODULE",
+        "en": "1. DATA COMMUNICATION MODULE"
+       },
+       "words": 785,
+       "images": 8,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_legacy_lighting_t003_f1e46bd0",
+       "title": {
+        "ru": "14.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC U0073 CONTROL ",
+        "en": "14.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC U0073 CONTROL "
+       },
+       "words": 697,
+       "images": 4,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "subaru_legacy_adas_t000_2e0093b2",
+       "title": {
+        "ru": "1. CHECK USING THE DTC CHECK SHEET",
+        "en": "1. CHECK USING THE DTC CHECK SHEET"
+       },
+       "words": 905,
+       "images": 3,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "subaru_legacy_interior_t000_ffa33275",
+       "title": {
+        "ru": "3. SEAT CUSHION AIRBAG MODULE",
+        "en": "3. SEAT CUSHION AIRBAG MODULE"
+       },
+       "words": 1748,
+       "images": 13,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_legacy_interior_t001_daf8dc1c",
+       "title": {
+        "ru": "Double-sided tape: NITTO DENKO 501L or equivalent",
+        "en": "Double-sided tape: NITTO DENKO 501L or equivalent"
+       },
+       "words": 1285,
+       "images": 13,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "subaru_legacy_general_t000_ab9cce3d",
+       "title": {
+        "ru": "4. DEFINITIONS OF “NOTE”, “CAUTION” AND “WARNING”",
+        "en": "4. DEFINITIONS OF “NOTE”, “CAUTION” AND “WARNING”"
+       },
+       "words": 1116,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t001_4093ad7e",
+       "title": {
+        "ru": "Actions to take after removing battery or disconnecting ground terminal",
+        "en": "Actions to take after removing battery or disconnecting ground terminal"
+       },
+       "words": 2382,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t002_1573f8a0",
+       "title": {
+        "ru": "Notes for the use of tie-down hook",
+        "en": "Notes for the use of tie-down hook"
+       },
+       "words": 1759,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t003_79b8ed3a",
+       "title": {
+        "ru": "8. LOCK/UNLOCK AND OPEN/CLOSE OPERATIONS OF REAR GATE",
+        "en": "8. LOCK/UNLOCK AND OPEN/CLOSE OPERATIONS OF REAR GATE"
+       },
+       "words": 2299,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t004_51a4f423",
+       "title": {
+        "ru": "63.POWER STEERING SYSTEM (ELECTRIC POWER STEERING MODEL)",
+        "en": "63.POWER STEERING SYSTEM (ELECTRIC POWER STEERING MODEL)"
+       },
+       "words": 1800,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t005_812704f8",
+       "title": {
+        "ru": "Straight-ahead position within 0.05 mm (0.0020 in)",
+        "en": "Straight-ahead position within 0.05 mm (0.0020 in)"
+       },
+       "words": 1842,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t006_517a260d",
+       "title": {
+        "ru": "4. CRANKSHAFT POSITION, CAMSHAFT POSITION AND KNOCK SENSORS",
+        "en": "4. CRANKSHAFT POSITION, CAMSHAFT POSITION AND KNOCK SENSORS"
+       },
+       "words": 1979,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t007_034d0cc0",
+       "title": {
+        "ru": "2. CHECK THE INTAKE AIR TEMPERATURE SENSOR UNIT",
+        "en": "2. CHECK THE INTAKE AIR TEMPERATURE SENSOR UNIT"
+       },
+       "words": 1854,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t008_aa92e8bc",
+       "title": {
+        "ru": "CAUTION: Be careful not to spill fuel.",
+        "en": "CAUTION: Be careful not to spill fuel."
+       },
+       "words": 1927,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t009_84c881ab",
+       "title": {
+        "ru": "1. CANISTER, PURGE CONTROL SOLENOID VALVE AND DRAIN FILTER",
+        "en": "1. CANISTER, PURGE CONTROL SOLENOID VALVE AND DRAIN FILTER"
+       },
+       "words": 2574,
+       "images": 63,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t010_6656667a",
+       "title": {
+        "ru": "Tightening torque: 6.5 NбН (0.7 kgf-m, 4.8 ft-lb)",
+        "en": "Tightening torque: 6.5 NбН (0.7 kgf-m, 4.8 ft-lb)"
+       },
+       "words": 2302,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t011_f0c09cb0",
+       "title": {
+        "ru": "Tightening torque: NбН (kgf-m, ft-lb)",
+        "en": "Tightening torque: NбН (kgf-m, ft-lb)"
+       },
+       "words": 2157,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t012_3b184ce1",
+       "title": {
+        "ru": "Tightening torque: 7 NбН (0.7 kgf-m, 5.2 ft-lb)",
+        "en": "Tightening torque: 7 NбН (0.7 kgf-m, 5.2 ft-lb)"
+       },
+       "words": 2403,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t013_8913b5af",
+       "title": {
+        "ru": "CAUTION: Perform the operation carefully since the ST comes off easily.",
+        "en": "CAUTION: Perform the operation carefully since the ST comes off easily."
+       },
+       "words": 2286,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t014_577c6946",
+       "title": {
+        "ru": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)",
+        "en": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)"
+       },
+       "words": 2837,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t015_6826ca70",
+       "title": {
+        "ru": "(3) Compress the valve spring and install the valve collet using ST. ST 09202870",
+        "en": "(3) Compress the valve spring and install the valve collet using ST. ST 09202870"
+       },
+       "words": 2851,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t016_c47edb8f",
+       "title": {
+        "ru": "4. CONNECTING ROD AND CONNECTING ROD BEARING",
+        "en": "4. CONNECTING ROD AND CONNECTING ROD BEARING"
+       },
+       "words": 2492,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t017_1bd3e7f9",
+       "title": {
+        "ru": "ST 18350AA000 CONNECTING ROD BUSHING REMOVER AND INSTALLER",
+        "en": "ST 18350AA000 CONNECTING ROD BUSHING REMOVER AND INSTALLER"
+       },
+       "words": 2348,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t018_53647315",
+       "title": {
+        "ru": "CAUTION: Be careful not to drop the muffler during removal.",
+        "en": "CAUTION: Be careful not to drop the muffler during removal."
+       },
+       "words": 2341,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t019_12dda559",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 2411,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t020_0b606007",
+       "title": {
+        "ru": "Tightening torque: NбН (kgf-m, ft-lb)",
+        "en": "Tightening torque: NбН (kgf-m, ft-lb)"
+       },
+       "words": 2139,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t021_cddaffdc",
+       "title": {
+        "ru": "2. CHECK ACCELERATOR PEDAL SENSOR AREA (METHOD WITH SUBARU SELECT MONITOR)",
+        "en": "2. CHECK ACCELERATOR PEDAL SENSOR AREA (METHOD WITH SUBARU SELECT MONITOR)"
+       },
+       "words": 2506,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t022_f20eb483",
+       "title": {
+        "ru": "Brush spring force:",
+        "en": "Brush spring force:"
+       },
+       "words": 2374,
+       "images": 65,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t023_067f2c94",
+       "title": {
+        "ru": "5. Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "5. Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 1980,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t024_b4c6da56",
+       "title": {
+        "ru": "6. MODE \\$06 (REQUEST ON-BOARD MONITORING TEST RESULTS FOR CONTINUOUSLY MONITORE",
+        "en": "6. MODE \\$06 (REQUEST ON-BOARD MONITORING TEST RESULTS FOR CONTINUOUSLY MONITORE"
+       },
+       "words": 1960,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t025_b2a13575",
+       "title": {
+        "ru": "17.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC P000A \"A\" CAMS",
+        "en": "17.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC P000A \"A\" CAMS"
+       },
+       "words": 2118,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t026_51a84354",
+       "title": {
+        "ru": "Q: DTC P0073 AMBIENT AIR TEMPERATURE SENSOR CIRCUIT \"A\" HIGH",
+        "en": "Q: DTC P0073 AMBIENT AIR TEMPERATURE SENSOR CIRCUIT \"A\" HIGH"
+       },
+       "words": 1042,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t027_39236895",
+       "title": {
+        "ru": "X: DTC P0112 INTAKE AIR TEMPERATURE SENSOR CIRCUIT LOW BANK 1",
+        "en": "X: DTC P0112 INTAKE AIR TEMPERATURE SENSOR CIRCUIT LOW BANK 1"
+       },
+       "words": 976,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t028_c351a4b0",
+       "title": {
+        "ru": "AE:DTC P0125 INSUFFICIENT COOLANT TEMPERATURE FOR CLOSED LOOP FUEL CONTROL",
+        "en": "AE:DTC P0125 INSUFFICIENT COOLANT TEMPERATURE FOR CLOSED LOOP FUEL CONTROL"
+       },
+       "words": 918,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t029_e6ae75e3",
+       "title": {
+        "ru": "AM:DTC P013B O2 SENSOR SLOW RESPONSE - LEAN TO RICH BANK 1 SENSOR 2",
+        "en": "AM:DTC P013B O2 SENSOR SLOW RESPONSE - LEAN TO RICH BANK 1 SENSOR 2"
+       },
+       "words": 1135,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t030_6567ed22",
+       "title": {
+        "ru": "AS:DTC P015A A/F / O2 SENSOR DELAYED RESPONSE RICH TO LEAN BANK 1 SENSOR 1",
+        "en": "AS:DTC P015A A/F / O2 SENSOR DELAYED RESPONSE RICH TO LEAN BANK 1 SENSOR 1"
+       },
+       "words": 1048,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t031_bda1f19e",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 872,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t032_0aeca8f8",
+       "title": {
+        "ru": "BP:DTC P0341 CAMSHAFT POSITION SENSOR \"A\" CIRCUIT RANGE/PERFOR-MANCE BANK 1 OR S",
+        "en": "BP:DTC P0341 CAMSHAFT POSITION SENSOR \"A\" CIRCUIT RANGE/PERFOR-MANCE BANK 1 OR S"
+       },
+       "words": 1000,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t033_57d5c31e",
+       "title": {
+        "ru": "Mode B (Measurement of reference pressure for setting the target negative pressu",
+        "en": "Mode B (Measurement of reference pressure for setting the target negative pressu"
+       },
+       "words": 1291,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t034_b4400bdd",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 892,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t035_ab6c900c",
+       "title": {
+        "ru": "CT:DTC P05C0 ACTIVE GRILLE AIR SHUTTER MODULE \"A\" OVER TEMPERA-TURE",
+        "en": "CT:DTC P05C0 ACTIVE GRILLE AIR SHUTTER MODULE \"A\" OVER TEMPERA-TURE"
+       },
+       "words": 814,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t036_ccfd0122",
+       "title": {
+        "ru": "CX:DTC P060A INTERNAL CONTROL MODULE MONITORING PROCESSOR PERFORMANCE",
+        "en": "CX:DTC P060A INTERNAL CONTROL MODULE MONITORING PROCESSOR PERFORMANCE"
+       },
+       "words": 976,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t037_1b0e036d",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 1047,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t038_a244dc36",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 882,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t039_a1ae3635",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 949,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t040_43ae917d",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 1507,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t041_db09f151",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 1008,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t042_b589995b",
+       "title": {
+        "ru": "FQ:DTC U0416 INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE",
+        "en": "FQ:DTC U0416 INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE"
+       },
+       "words": 1864,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t043_6b815a0d",
+       "title": {
+        "ru": "Tightening torque: 6.4 NбН (0.7 kgf-m, 4.7 ft-lb)",
+        "en": "Tightening torque: 6.4 NбН (0.7 kgf-m, 4.7 ft-lb)"
+       },
+       "words": 1558,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t044_d63d0ca3",
+       "title": {
+        "ru": "CAUTION: Be careful not to spill fuel.",
+        "en": "CAUTION: Be careful not to spill fuel."
+       },
+       "words": 2056,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t045_8839eb26",
+       "title": {
+        "ru": "1. CANISTER, PURGE CONTROL SOLENOID VALVE, EGR CONTROL VALVE, EGR PIPE AND DRAIN",
+        "en": "1. CANISTER, PURGE CONTROL SOLENOID VALVE, EGR CONTROL VALVE, EGR PIPE AND DRAIN"
+       },
+       "words": 2259,
+       "images": 56,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t046_e1aca8d9",
+       "title": {
+        "ru": "Tightening torque: 19 NбН (1.9 kgf-m, 14.0 ft-lb)",
+        "en": "Tightening torque: 19 NбН (1.9 kgf-m, 14.0 ft-lb)"
+       },
+       "words": 2795,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t047_abe9638c",
+       "title": {
+        "ru": "Tightening torque: NбН (kgf-m, ft-lb)",
+        "en": "Tightening torque: NбН (kgf-m, ft-lb)"
+       },
+       "words": 2391,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t048_a359737e",
+       "title": {
+        "ru": "Tightening torque: 6.4 NбН (0.7 kgf-m, 4.7 ft-lb)",
+        "en": "Tightening torque: 6.4 NбН (0.7 kgf-m, 4.7 ft-lb)"
+       },
+       "words": 3326,
+       "images": 71,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t049_d2f69032",
+       "title": {
+        "ru": "Limit of bend or twist per 100 mm (3.94 in) in length: 0.10 mm (0.0039 in)",
+        "en": "Limit of bend or twist per 100 mm (3.94 in) in length: 0.10 mm (0.0039 in)"
+       },
+       "words": 2352,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t050_aa32389d",
+       "title": {
+        "ru": "Tightening torque: NбН (kgf-m, ft-lb)",
+        "en": "Tightening torque: NбН (kgf-m, ft-lb)"
+       },
+       "words": 2719,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t051_6de2ef08",
+       "title": {
+        "ru": "1. RADIATOR MAIN FAN AND RADIATOR MAIN FAN MOTOR",
+        "en": "1. RADIATOR MAIN FAN AND RADIATOR MAIN FAN MOTOR"
+       },
+       "words": 2699,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t052_7f75bc41",
+       "title": {
+        "ru": "10.Engine Lubrication System Trouble in General A: INSPECTION",
+        "en": "10.Engine Lubrication System Trouble in General A: INSPECTION"
+       },
+       "words": 2103,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t053_0f4e0a2d",
+       "title": {
+        "ru": "Multemp #6129 or equivalent",
+        "en": "Multemp #6129 or equivalent"
+       },
+       "words": 2660,
+       "images": 88,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t054_37585c79",
+       "title": {
+        "ru": "5. Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "5. Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 2111,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t055_cb0581a2",
+       "title": {
+        "ru": "6. MODE \\$06 (REQUEST ON-BOARD MONITORING TEST RESULTS FOR CONTINUOUSLY MONITORE",
+        "en": "6. MODE \\$06 (REQUEST ON-BOARD MONITORING TEST RESULTS FOR CONTINUOUSLY MONITORE"
+       },
+       "words": 1502,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t056_0bab2221",
+       "title": {
+        "ru": "17.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC P000A \"A\" CAMS",
+        "en": "17.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC P000A \"A\" CAMS"
+       },
+       "words": 2352,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t057_145c83b0",
+       "title": {
+        "ru": "Judgment value",
+        "en": "Judgment value"
+       },
+       "words": 1084,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t058_def14639",
+       "title": {
+        "ru": "AD:DTC P0073 AMBIENT AIR TEMPERATURE SENSOR CIRCUIT \"A\" HIGH",
+        "en": "AD:DTC P0073 AMBIENT AIR TEMPERATURE SENSOR CIRCUIT \"A\" HIGH"
+       },
+       "words": 926,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t059_d11e315d",
+       "title": {
+        "ru": "AQ:DTC P0123 THROTTLE/PEDAL POSITION SENSOR/SWITCH \"A\" CIRCUIT HIGH",
+        "en": "AQ:DTC P0123 THROTTLE/PEDAL POSITION SENSOR/SWITCH \"A\" CIRCUIT HIGH"
+       },
+       "words": 920,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t060_e177ccf8",
+       "title": {
+        "ru": "BB:DTC P013D O2 SENSOR SLOW RESPONSE - LEAN TO RICH BANK 2 SENSOR 2",
+        "en": "BB:DTC P013D O2 SENSOR SLOW RESPONSE - LEAN TO RICH BANK 2 SENSOR 2"
+       },
+       "words": 1100,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t061_eda52834",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 1111,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t062_5b99790f",
+       "title": {
+        "ru": "FTP 1.5 times misfire (misfire occurrence level which influences exhaust gas)",
+        "en": "FTP 1.5 times misfire (misfire occurrence level which influences exhaust gas)"
+       },
+       "words": 1095,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t063_89417c28",
+       "title": {
+        "ru": "CZ:DTC P0341 CAMSHAFT POSITION SENSOR \"A\" CIRCUIT RANGE/PERFORMANCE BANK OR SING",
+        "en": "CZ:DTC P0341 CAMSHAFT POSITION SENSOR \"A\" CIRCUIT RANGE/PERFORMANCE BANK OR SING"
+       },
+       "words": 915,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t064_2dc58de9",
+       "title": {
+        "ru": "DQ:DTC P0451 EVAP SYSTEM (CPC) PRESSURE SENSOR/SWITCH CIRCUIT RANGE/PERFORMANCE",
+        "en": "DQ:DTC P0451 EVAP SYSTEM (CPC) PRESSURE SENSOR/SWITCH CIRCUIT RANGE/PERFORMANCE"
+       },
+       "words": 1299,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t065_e0963598",
+       "title": {
+        "ru": "EF:DTC P0605 INTERNAL CONTROL MODULE READ ONLY MEMORY (ROM) ERROR",
+        "en": "EF:DTC P0605 INTERNAL CONTROL MODULE READ ONLY MEMORY (ROM) ERROR"
+       },
+       "words": 806,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t066_88345a87",
+       "title": {
+        "ru": "EH:DTC P060A INTERNAL CONTROL MODULE MONITORING PROCESSOR PERFORMANCE",
+        "en": "EH:DTC P060A INTERNAL CONTROL MODULE MONITORING PROCESSOR PERFORMANCE"
+       },
+       "words": 1051,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t067_3cdd4035",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 966,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t068_7f55431b",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 1069,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t069_1b0a66b7",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 1099,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t070_082ef1d7",
+       "title": {
+        "ru": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)",
+        "en": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)"
+       },
+       "words": 1830,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t071_b8384b2a",
+       "title": {
+        "ru": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)",
+        "en": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)"
+       },
+       "words": 3239,
+       "images": 74,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t072_abe42864",
+       "title": {
+        "ru": "Removal of the test plug and installation of the ST shall be both performed quic",
+        "en": "Removal of the test plug and installation of the ST shall be both performed quic"
+       },
+       "words": 2090,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t073_5c18fa9b",
+       "title": {
+        "ru": "3. PRESSING X MODE SWITCH DOES NOT CHANGE THE X MODE DISPLAY IN THE COMBINATION ",
+        "en": "3. PRESSING X MODE SWITCH DOES NOT CHANGE THE X MODE DISPLAY IN THE COMBINATION "
+       },
+       "words": 1906,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t074_bf06881b",
+       "title": {
+        "ru": "1. PROCEDURE IN REPLACEMENT OF PRIMARY AND SECONDARY PULLEY, OR IN REPLACEMENT O",
+        "en": "1. PROCEDURE IN REPLACEMENT OF PRIMARY AND SECONDARY PULLEY, OR IN REPLACEMENT O"
+       },
+       "words": 2343,
+       "images": 73,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t075_c8f7169b",
+       "title": {
+        "ru": "9. PRIMARY PULLEY, SECONDARY PULLEY AND VARIATOR CHAIN",
+        "en": "9. PRIMARY PULLEY, SECONDARY PULLEY AND VARIATOR CHAIN"
+       },
+       "words": 2043,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t076_c3193c2b",
+       "title": {
+        "ru": "Tightening torque: 5 NбН (0.5 kgf-m, 3.7 ft-lb)",
+        "en": "Tightening torque: 5 NбН (0.5 kgf-m, 3.7 ft-lb)"
+       },
+       "words": 3110,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t077_c6b7a2aa",
+       "title": {
+        "ru": "CVTF Cooler Pipe and Hose",
+        "en": "CVTF Cooler Pipe and Hose"
+       },
+       "words": 1894,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t078_91b9ab2a",
+       "title": {
+        "ru": "4) Compress the return spring using the ST to install the snap ring. ST 18762AA0",
+        "en": "4) Compress the return spring using the ST to install the snap ring. ST 18762AA0"
+       },
+       "words": 2579,
+       "images": 73,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t079_689aab80",
+       "title": {
+        "ru": "Front Differential Assembly",
+        "en": "Front Differential Assembly"
+       },
+       "words": 2457,
+       "images": 60,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t080_807ea8b8",
+       "title": {
+        "ru": "5. Transmission Control Module (TCM) I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "5. Transmission Control Module (TCM) I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 1292,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t081_3177ee1c",
+       "title": {
+        "ru": "15.Diagnostic Procedure for Subaru Select Monitor Communication A: COMMUNICATION",
+        "en": "15.Diagnostic Procedure for Subaru Select Monitor Communication A: COMMUNICATION"
+       },
+       "words": 1109,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t082_f157c47b",
+       "title": {
+        "ru": "Use the check board when measuring the TCM/ECM terminal voltage and resistance. ",
+        "en": "Use the check board when measuring the TCM/ECM terminal voltage and resistance. "
+       },
+       "words": 932,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t083_da44fa2c",
+       "title": {
+        "ru": "S: DTC P0751 SHIFT SOLENOID \"A\" PERFORMANCE/STUCK OFF",
+        "en": "S: DTC P0751 SHIFT SOLENOID \"A\" PERFORMANCE/STUCK OFF"
+       },
+       "words": 1141,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t084_e28c6c0c",
+       "title": {
+        "ru": "3. OUTLINE OF DIAGNOSIS (ENGINE TYPE FB)",
+        "en": "3. OUTLINE OF DIAGNOSIS (ENGINE TYPE FB)"
+       },
+       "words": 881,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t085_f60f70ab",
+       "title": {
+        "ru": "Z: DTC P0842 TRANSMISSION FLUID PRESSURE SENSOR/SWITCH \"A\" CIRCUIT LOW",
+        "en": "Z: DTC P0842 TRANSMISSION FLUID PRESSURE SENSOR/SWITCH \"A\" CIRCUIT LOW"
+       },
+       "words": 890,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t086_84e4c006",
+       "title": {
+        "ru": "AI: DTC P0967 PRESSURE CONTROL SOLENOID \"B\" CONTROL CIRCUIT HIGH",
+        "en": "AI: DTC P0967 PRESSURE CONTROL SOLENOID \"B\" CONTROL CIRCUIT HIGH"
+       },
+       "words": 980,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t087_4b9ae0ce",
+       "title": {
+        "ru": "AT:DTC P2750 INTERMEDIATE SHAFT SPEED SENSOR \"C\" CIRCUIT RANGE/ PERFORMANCE",
+        "en": "AT:DTC P2750 INTERMEDIATE SHAFT SPEED SENSOR \"C\" CIRCUIT RANGE/ PERFORMANCE"
+       },
+       "words": 1041,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t088_69c2034c",
+       "title": {
+        "ru": "AV:DTC P2757 TORQUE CONVERTER CLUTCH PRESSURE CONTROL SOLE-NOID CONTROL CIRCUIT ",
+        "en": "AV:DTC P2757 TORQUE CONVERTER CLUTCH PRESSURE CONTROL SOLE-NOID CONTROL CIRCUIT "
+       },
+       "words": 932,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t089_a40dac27",
+       "title": {
+        "ru": "AY:DTC P2764 TORQUE CONVERTER CLUTCH PRESSURE CONTROL SOLE-NOID CONTROL CIRCUIT ",
+        "en": "AY:DTC P2764 TORQUE CONVERTER CLUTCH PRESSURE CONTROL SOLE-NOID CONTROL CIRCUIT "
+       },
+       "words": 1089,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t090_242db8a5",
+       "title": {
+        "ru": "BM:DTC U1235 LOST COMMUNICATION WITH EyeSight",
+        "en": "BM:DTC U1235 LOST COMMUNICATION WITH EyeSight"
+       },
+       "words": 1651,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t091_34d5b6b5",
+       "title": {
+        "ru": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)",
+        "en": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)"
+       },
+       "words": 2669,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t092_f948625d",
+       "title": {
+        "ru": "Preload of taper roller bearing (extension case side) (amount of standard protru",
+        "en": "Preload of taper roller bearing (extension case side) (amount of standard protru"
+       },
+       "words": 3322,
+       "images": 63,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t093_4931db1a",
+       "title": {
+        "ru": "1. DIFFERENTIAL BEVEL PINION GEAR BACKLASH",
+        "en": "1. DIFFERENTIAL BEVEL PINION GEAR BACKLASH"
+       },
+       "words": 4038,
+       "images": 97,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t094_bfa0e920",
+       "title": {
+        "ru": "Recommended brake fluid: New FMVSS No. 116 DOT3 or DOT4",
+        "en": "Recommended brake fluid: New FMVSS No. 116 DOT3 or DOT4"
+       },
+       "words": 2044,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t095_54fc5ff8",
+       "title": {
+        "ru": "CAUTION: Always use a new clevis pin.",
+        "en": "CAUTION: Always use a new clevis pin."
+       },
+       "words": 2535,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t096_d335d57c",
+       "title": {
+        "ru": "Tightening torque: 50 NбН (5.1 kgf-m, 36.9 ft-lb)",
+        "en": "Tightening torque: 50 NбН (5.1 kgf-m, 36.9 ft-lb)"
+       },
+       "words": 2359,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t097_e05bcf8d",
+       "title": {
+        "ru": "Tightening torque: 140 NбН (14.3 kgf-m, 103.3 ft-lb)",
+        "en": "Tightening torque: 140 NбН (14.3 kgf-m, 103.3 ft-lb)"
+       },
+       "words": 1769,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t098_df5440b3",
+       "title": {
+        "ru": "1. BUSHING A 1 TRAILING LINK",
+        "en": "1. BUSHING A 1 TRAILING LINK"
+       },
+       "words": 2328,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t099_6a0f9c07",
+       "title": {
+        "ru": "4. Control Module I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "4. Control Module I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 1546,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t100_23737f65",
+       "title": {
+        "ru": "13.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC C2021 TIRE 1 A",
+        "en": "13.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC C2021 TIRE 1 A"
+       },
+       "words": 1820,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t101_db6b6ba0",
+       "title": {
+        "ru": "Hypoid driven gear back surface runout: 0.05 mm (0.002 in)",
+        "en": "Hypoid driven gear back surface runout: 0.05 mm (0.002 in)"
+       },
+       "words": 4537,
+       "images": 84,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t102_19ee171d",
+       "title": {
+        "ru": "4. TOOTH CONTACT BETWEEN HYPOIDDRIVEN GEAR AND DRIVE PINION",
+        "en": "4. TOOTH CONTACT BETWEEN HYPOIDDRIVEN GEAR AND DRIVE PINION"
+       },
+       "words": 4726,
+       "images": 120,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t103_69fc6812",
+       "title": {
+        "ru": "ST1 41399FG061 SPECIAL TOOL RING ST2 41399FG041 SPECIAL TOOL D",
+        "en": "ST1 41399FG061 SPECIAL TOOL RING ST2 41399FG041 SPECIAL TOOL D"
+       },
+       "words": 2877,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t104_6bb4a3b6",
+       "title": {
+        "ru": "2. FRONT DRIVE SHAFT ASSEMBLY",
+        "en": "2. FRONT DRIVE SHAFT ASSEMBLY"
+       },
+       "words": 2040,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t105_ce801df9",
+       "title": {
+        "ru": "CAUTION: Be careful with the roller kit position.",
+        "en": "CAUTION: Be careful with the roller kit position."
+       },
+       "words": 1898,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t106_6db46ff8",
+       "title": {
+        "ru": "VDC Control Module and Hydraulic Control Unit (VDCCM&H/U) VEHICLE DYNAMICS CONTR",
+        "en": "VDC Control Module and Hydraulic Control Unit (VDCCM&H/U) VEHICLE DYNAMICS CONTR"
+       },
+       "words": 2289,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t107_e5b5c7f6",
+       "title": {
+        "ru": "4. CHECK HYDRAULIC UNIT VDC OPERATION WITH BRAKE TESTER",
+        "en": "4. CHECK HYDRAULIC UNIT VDC OPERATION WITH BRAKE TESTER"
+       },
+       "words": 2723,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t108_543fb667",
+       "title": {
+        "ru": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC C1211 FRONT RI",
+        "en": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC C1211 FRONT RI"
+       },
+       "words": 1147,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t109_956ec225",
+       "title": {
+        "ru": "E: DTC C1212 FRONT RIGHT ABS SENSOR SIGNAL",
+        "en": "E: DTC C1212 FRONT RIGHT ABS SENSOR SIGNAL"
+       },
+       "words": 989,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t110_ef0aca1b",
+       "title": {
+        "ru": "AO:DTC C1922 HILL HOLD SWITCH CIRCUIT",
+        "en": "AO:DTC C1922 HILL HOLD SWITCH CIRCUIT"
+       },
+       "words": 1150,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t111_daf1009f",
+       "title": {
+        "ru": "BE:DTC U0140 LOST COMMUNICATION WITH BODY CONTROL MODULE",
+        "en": "BE:DTC U0140 LOST COMMUNICATION WITH BODY CONTROL MODULE"
+       },
+       "words": 2596,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t112_9d8925c8",
+       "title": {
+        "ru": "Preparation tool: Flare nut wrench",
+        "en": "Preparation tool: Flare nut wrench"
+       },
+       "words": 2064,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t113_95d210b1",
+       "title": {
+        "ru": "Tightening torque: 8 NбН (0.8 kgf-m, 5.9 ft-lb)",
+        "en": "Tightening torque: 8 NбН (0.8 kgf-m, 5.9 ft-lb)"
+       },
+       "words": 1979,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t114_bfd869b1",
+       "title": {
+        "ru": "Tightening torque: 7 NбН (0.7 kgf-m, 5.2 ft-lb)",
+        "en": "Tightening torque: 7 NбН (0.7 kgf-m, 5.2 ft-lb)"
+       },
+       "words": 2133,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t115_4ea2d72e",
+       "title": {
+        "ru": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC C2511 TORQUE S",
+        "en": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC C2511 TORQUE S"
+       },
+       "words": 1741,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t116_9112855c",
+       "title": {
+        "ru": "L: DTC C2544 Auto Start Stop SYSTEM DTC DETECTING CONDITION:",
+        "en": "L: DTC C2544 Auto Start Stop SYSTEM DTC DETECTING CONDITION:"
+       },
+       "words": 1939,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t117_6d69aac6",
+       "title": {
+        "ru": "Preparation tool: Thermometer and hygrometer",
+        "en": "Preparation tool: Thermometer and hygrometer"
+       },
+       "words": 2059,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t118_948367fd",
+       "title": {
+        "ru": "Preparation tool: ST: SPECIAL TOOL CONDENSER (73099SG000)",
+        "en": "Preparation tool: ST: SPECIAL TOOL CONDENSER (73099SG000)"
+       },
+       "words": 2761,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t119_fb4e13d9",
+       "title": {
+        "ru": "Preparation tool: Circuit tester",
+        "en": "Preparation tool: Circuit tester"
+       },
+       "words": 2214,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t120_7d7fae52",
+       "title": {
+        "ru": "35.Diagnostics with Phenomenon A: INSPECTION",
+        "en": "35.Diagnostics with Phenomenon A: INSPECTION"
+       },
+       "words": 1748,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t121_82921e24",
+       "title": {
+        "ru": "3. THE WINDSHIELD GLASS IS NOT CLEARED EVEN WHEN THE DEF SWITCH ISPRESSED. (VEHI",
+        "en": "3. THE WINDSHIELD GLASS IS NOT CLEARED EVEN WHEN THE DEF SWITCH ISPRESSED. (VEHI"
+       },
+       "words": 1195,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t122_9c1ce6d1",
+       "title": {
+        "ru": "12.Diagnostic Procedure for Subaru Select Monitor Communication A: COMMUNICATION",
+        "en": "12.Diagnostic Procedure for Subaru Select Monitor Communication A: COMMUNICATION"
+       },
+       "words": 904,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t123_eacb9b50",
+       "title": {
+        "ru": "8. FRONT DOOR IMPACT SENSOR CAUTION: Do not reuse mounting bolts and nuts.",
+        "en": "8. FRONT DOOR IMPACT SENSOR CAUTION: Do not reuse mounting bolts and nuts."
+       },
+       "words": 1352,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t124_fbd210da",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 2794,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t125_79391475",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 4094,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t126_4977fd5c",
+       "title": {
+        "ru": "6. Airbag Control Module I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "6. Airbag Control Module I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 1857,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t127_98c0bb76",
+       "title": {
+        "ru": "17.Diagnostic Chart with Trouble Code A: DTC U0073 CONTROL MODULE COMMUNICATION ",
+        "en": "17.Diagnostic Chart with Trouble Code A: DTC U0073 CONTROL MODULE COMMUNICATION "
+       },
+       "words": 2117,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t128_ba92c753",
+       "title": {
+        "ru": "BD:DTC B1630 CURTAIN AIRBAG SENSOR RH FAILURE DIAGNOSIS START CONDITION:",
+        "en": "BD:DTC B1630 CURTAIN AIRBAG SENSOR RH FAILURE DIAGNOSIS START CONDITION:"
+       },
+       "words": 1052,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t129_b2a110b6",
+       "title": {
+        "ru": "BP:DTC B1661 PASSENGER’S AIRBAG ON/OFF INDICATOR FAILURE DIAGNOSIS START CONDITI",
+        "en": "BP:DTC B1661 PASSENGER’S AIRBAG ON/OFF INDICATOR FAILURE DIAGNOSIS START CONDITI"
+       },
+       "words": 1176,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t130_6f2f3761",
+       "title": {
+        "ru": "DF:DTC B1818 SHORT IN PASSENGER’S AIRBAG DUAL STAGE 2ND STEP CIRCUIT (TO +B)",
+        "en": "DF:DTC B1818 SHORT IN PASSENGER’S AIRBAG DUAL STAGE 2ND STEP CIRCUIT (TO +B)"
+       },
+       "words": 2012,
+       "images": 70,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t131_11856227",
+       "title": {
+        "ru": "DT:DTC B1832 SHORT IN CURTAIN AIRBAG RH SQUIB CIRCUIT (TO GROUND)",
+        "en": "DT:DTC B1832 SHORT IN CURTAIN AIRBAG RH SQUIB CIRCUIT (TO GROUND)"
+       },
+       "words": 1792,
+       "images": 66,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t132_34356673",
+       "title": {
+        "ru": "1. OCCUPANT DETECTION SYSTEM (BETWEEN AIRBAG REAR HARNESS AND SEAT HARNESS)",
+        "en": "1. OCCUPANT DETECTION SYSTEM (BETWEEN AIRBAG REAR HARNESS AND SEAT HARNESS)"
+       },
+       "words": 1898,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t133_41f37374",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) OCCUPANT DETECTION SYSTE",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) OCCUPANT DETECTION SYSTE"
+       },
+       "words": 1760,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t134_1f3fb44d",
+       "title": {
+        "ru": "3. Inspection Locations after a Collision A: INSPECTION",
+        "en": "3. Inspection Locations after a Collision A: INSPECTION"
+       },
+       "words": 3162,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t135_06f8b6de",
+       "title": {
+        "ru": "TERMINAL ARRANGEMENT OF AUTO HEADLIGHT BEAM LEVELER CM",
+        "en": "TERMINAL ARRANGEMENT OF AUTO HEADLIGHT BEAM LEVELER CM"
+       },
+       "words": 1656,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t136_55464c24",
+       "title": {
+        "ru": "23.Side Turn Signal Light Assembly",
+        "en": "23.Side Turn Signal Light Assembly"
+       },
+       "words": 1605,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t137_4e2adc6a",
+       "title": {
+        "ru": "2. TURN SIGNAL LIGHT BULB",
+        "en": "2. TURN SIGNAL LIGHT BULB"
+       },
+       "words": 1695,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t138_c48d8c98",
+       "title": {
+        "ru": "40.Auto Headlight Beam Leveler Control Module",
+        "en": "40.Auto Headlight Beam Leveler Control Module"
+       },
+       "words": 1539,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t139_21c6a5a6",
+       "title": {
+        "ru": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC U0074 CONTROL ",
+        "en": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC U0074 CONTROL "
+       },
+       "words": 1489,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t140_a98fa120",
+       "title": {
+        "ru": "Steering responsive fog light",
+        "en": "Steering responsive fog light"
+       },
+       "words": 1505,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t141_5654b256",
+       "title": {
+        "ru": "Tightening torque: 6 NбН (0.6 kgf-m, 4.4 ft-lb)",
+        "en": "Tightening torque: 6 NбН (0.6 kgf-m, 4.4 ft-lb)"
+       },
+       "words": 2647,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t142_684a6a72",
+       "title": {
+        "ru": "2. NOZZLE WINDSHIELD WASHER EyeSight (MODEL WITH EyeSight ONLY)",
+        "en": "2. NOZZLE WINDSHIELD WASHER EyeSight (MODEL WITH EyeSight ONLY)"
+       },
+       "words": 1966,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t143_0e3fba76",
+       "title": {
+        "ru": "Power supply and speaker output terminal",
+        "en": "Power supply and speaker output terminal"
+       },
+       "words": 1524,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t144_146b6db6",
+       "title": {
+        "ru": "5. CHECK VEHICLE SIGNALS WITH LINE DIAG MODE",
+        "en": "5. CHECK VEHICLE SIGNALS WITH LINE DIAG MODE"
+       },
+       "words": 2040,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t145_2cb1c80a",
+       "title": {
+        "ru": "2. XM SATELLITE RADIO/TELEMATICS ANTENNA",
+        "en": "2. XM SATELLITE RADIO/TELEMATICS ANTENNA"
+       },
+       "words": 2282,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t146_ec3c0ee5",
+       "title": {
+        "ru": "Tightening torque: 6.5 NбН (0.6 kgf-m, 4.8 ft-lb)",
+        "en": "Tightening torque: 6.5 NбН (0.6 kgf-m, 4.8 ft-lb)"
+       },
+       "words": 1216,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t147_bc83df62",
+       "title": {
+        "ru": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B2240 CAN COMM",
+        "en": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B2240 CAN COMM"
+       },
+       "words": 1443,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t148_7d606e99",
+       "title": {
+        "ru": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)",
+        "en": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)"
+       },
+       "words": 2775,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t149_8dbd424d",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 1820,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t150_105d24be",
+       "title": {
+        "ru": "3. UNIT INSPECTION (AUTOMATIC ANTI-GLARE MIRROR)",
+        "en": "3. UNIT INSPECTION (AUTOMATIC ANTI-GLARE MIRROR)"
+       },
+       "words": 2263,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t151_e59417b9",
+       "title": {
+        "ru": "Perform the steps described in (1) through (4) within 10 seconds.",
+        "en": "Perform the steps described in (1) through (4) within 10 seconds."
+       },
+       "words": 2077,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t152_20cf9031",
+       "title": {
+        "ru": "14.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC U0073 CONTROL ",
+        "en": "14.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC U0073 CONTROL "
+       },
+       "words": 1558,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t153_efd52a76",
+       "title": {
+        "ru": "2. CHECK ILLUMINATION OF PASSENGER’S SEAT BELT WARNING LIGHT",
+        "en": "2. CHECK ILLUMINATION OF PASSENGER’S SEAT BELT WARNING LIGHT"
+       },
+       "words": 3083,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t154_40aaa14d",
+       "title": {
+        "ru": "10.SOME MOTORS DO NOT OPERATE. (DRIVER’S SEAT WITH MEMORY FUNCTION)",
+        "en": "10.SOME MOTORS DO NOT OPERATE. (DRIVER’S SEAT WITH MEMORY FUNCTION)"
+       },
+       "words": 2017,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t155_d30df778",
+       "title": {
+        "ru": "13.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B2600 LIN COMM",
+        "en": "13.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B2600 LIN COMM"
+       },
+       "words": 1708,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t156_2a7754a3",
+       "title": {
+        "ru": "Keyless Access With Push Button Start System",
+        "en": "Keyless Access With Push Button Start System"
+       },
+       "words": 1371,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t157_ea9d58f4",
+       "title": {
+        "ru": "Tightening torque 4.5 NбН (0.4 kgf-m, 3.3 ft-lb)",
+        "en": "Tightening torque 4.5 NбН (0.4 kgf-m, 3.3 ft-lb)"
+       },
+       "words": 1803,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t158_70c4296a",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 2245,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t159_c4bcbbe0",
+       "title": {
+        "ru": "1. MODEL WITHOUT KEYLESS ACCESS WITH PUSH BUTTON START",
+        "en": "1. MODEL WITHOUT KEYLESS ACCESS WITH PUSH BUTTON START"
+       },
+       "words": 1578,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t160_913c21c1",
+       "title": {
+        "ru": "Incorrect reverse operation of the lid assembly sunroof while driving on rough r",
+        "en": "Incorrect reverse operation of the lid assembly sunroof while driving on rough r"
+       },
+       "words": 2195,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t161_fb06562a",
+       "title": {
+        "ru": "Tightening torque: 6 NбН (0.6 kgf-m, 4.4 ft-lb)",
+        "en": "Tightening torque: 6 NбН (0.6 kgf-m, 4.4 ft-lb)"
+       },
+       "words": 2070,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t162_16a9153f",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 2467,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t163_8ed6b374",
+       "title": {
+        "ru": "Tightening torque:",
+        "en": "Tightening torque:"
+       },
+       "words": 1917,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t164_15435a73",
+       "title": {
+        "ru": "Preparation tool: TORX® T40",
+        "en": "Preparation tool: TORX® T40"
+       },
+       "words": 2914,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t165_8b7d56f1",
+       "title": {
+        "ru": "Tightening torque: 53 NбН (5.4 kgf-m, 39.1 ft-lb)",
+        "en": "Tightening torque: 53 NбН (5.4 kgf-m, 39.1 ft-lb)"
+       },
+       "words": 2624,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t166_e5518afd",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 2327,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t167_7f4b0f91",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 2103,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t168_4a44c7c2",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 2482,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t169_cc8df2e1",
+       "title": {
+        "ru": "Tightening torque: 25 NбН (2.5 kgf-m, 18.4 ft-lb)",
+        "en": "Tightening torque: 25 NбН (2.5 kgf-m, 18.4 ft-lb)"
+       },
+       "words": 2006,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t170_9ef6ea63",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) POWER REAR GATE SYSTEM (",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) POWER REAR GATE SYSTEM ("
+       },
+       "words": 1275,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t171_2c650adf",
+       "title": {
+        "ru": "U: DTC B2527 AUTO CLOSER MOTOR CIRCUIT LAW DTC DETECTING CONDITION:",
+        "en": "U: DTC B2527 AUTO CLOSER MOTOR CIRCUIT LAW DTC DETECTING CONDITION:"
+       },
+       "words": 1304,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t172_46010cfc",
+       "title": {
+        "ru": "12.Diagnostics with Phenomenon A: INSPECTION",
+        "en": "12.Diagnostics with Phenomenon A: INSPECTION"
+       },
+       "words": 1587,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t173_40aaca0b",
+       "title": {
+        "ru": "4. Immobilizer Control Module I/O Signal A: WIRING DIAGRAM",
+        "en": "4. Immobilizer Control Module I/O Signal A: WIRING DIAGRAM"
+       },
+       "words": 1540,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t174_f5cc949b",
+       "title": {
+        "ru": "13.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B1401 METER CO",
+        "en": "13.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B1401 METER CO"
+       },
+       "words": 1119,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t175_052f9454",
+       "title": {
+        "ru": "2. EXAMPLE OF WRITING FOR THE CHECK SHEET OF COMMUNICATION FOR INITIALIZING",
+        "en": "2. EXAMPLE OF WRITING FOR THE CHECK SHEET OF COMMUNICATION FOR INITIALIZING"
+       },
+       "words": 1688,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t176_d30db728",
+       "title": {
+        "ru": "7. RELATED LINES 53 — 61 Ω (STEERING ANGLE SENSOR)",
+        "en": "7. RELATED LINES 53 — 61 Ω (STEERING ANGLE SENSOR)"
+       },
+       "words": 1139,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t177_52507e3a",
+       "title": {
+        "ru": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC U0073 CONTROL ",
+        "en": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC U0073 CONTROL "
+       },
+       "words": 674,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t178_68a4936e",
+       "title": {
+        "ru": "AO:DTC U142A <HBA>INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER (IPC) CONT",
+        "en": "AO:DTC U142A <HBA>INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER (IPC) CONT"
+       },
+       "words": 2155,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t179_e5d82c78",
+       "title": {
+        "ru": "1. PRE-COLLISION BRAKE OFF SWITCH/LANE DEPARTURE WARNING OFF SWITCH",
+        "en": "1. PRE-COLLISION BRAKE OFF SWITCH/LANE DEPARTURE WARNING OFF SWITCH"
+       },
+       "words": 2731,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t180_5bddabb9",
+       "title": {
+        "ru": "21.LANE DEPARTURE WARNING DOES NOT OPERATE / LANE DEPARTURE WARNING ISRELEASED A",
+        "en": "21.LANE DEPARTURE WARNING DOES NOT OPERATE / LANE DEPARTURE WARNING ISRELEASED A"
+       },
+       "words": 1815,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t181_abff9b81",
+       "title": {
+        "ru": "24.LANE DEPARTURE WARNING OFF INDICATOR LIGHT DOES NOT ILLUMINATE LANEDEPARTURE ",
+        "en": "24.LANE DEPARTURE WARNING OFF INDICATOR LIGHT DOES NOT ILLUMINATE LANEDEPARTURE "
+       },
+       "words": 1864,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t182_885ea320",
+       "title": {
+        "ru": "AV:DTC B28A9 STEREO CAMERA SYNCHRONIZED RECOGNITION DATA",
+        "en": "AV:DTC B28A9 STEREO CAMERA SYNCHRONIZED RECOGNITION DATA"
+       },
+       "words": 1377,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t183_2f380c96",
+       "title": {
+        "ru": "BK:DTC B28BA STEERING ANGLE AND STEREO CAMERA CORRELATION MISALIGNED",
+        "en": "BK:DTC B28BA STEERING ANGLE AND STEREO CAMERA CORRELATION MISALIGNED"
+       },
+       "words": 2308,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t184_2aeff02a",
+       "title": {
+        "ru": "15.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B2300 REAR RAD",
+        "en": "15.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B2300 REAR RAD"
+       },
+       "words": 1244,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t185_f86ed0c2",
+       "title": {
+        "ru": "16.Diagnostic Procedure with Cancel Code A: DTC B2328 REAR RADAR INTERNAL FAILUR",
+        "en": "16.Diagnostic Procedure with Cancel Code A: DTC B2328 REAR RADAR INTERNAL FAILUR"
+       },
+       "words": 1906,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t186_3da81afc",
+       "title": {
+        "ru": "16.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B2C00 SONAR CO",
+        "en": "16.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B2C00 SONAR CO"
+       },
+       "words": 1145,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t187_4ed8d10d",
+       "title": {
+        "ru": "W: DTC B2C16 RRC SONAR HARNESS HIGH RRC SONAR CONTROL MOD-ULE CIRCUIT",
+        "en": "W: DTC B2C16 RRC SONAR HARNESS HIGH RRC SONAR CONTROL MOD-ULE CIRCUIT"
+       },
+       "words": 1587,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t188_d50526e1",
+       "title": {
+        "ru": "13.List of Diagnostic Trouble Code (DTC)",
+        "en": "13.List of Diagnostic Trouble Code (DTC)"
+       },
+       "words": 1765,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t189_16509097",
+       "title": {
+        "ru": "U: DTC B2782 STEERING LOCK DRIVE REQUEST SIGNAL CORRELATION",
+        "en": "U: DTC B2782 STEERING LOCK DRIVE REQUEST SIGNAL CORRELATION"
+       },
+       "words": 1253,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t190_8e98519d",
+       "title": {
+        "ru": "AK:DTC B1571 REFERENCE CODE INCOMPATIBILITY (IMMOBILIZER CM TO ECM)",
+        "en": "AK:DTC B1571 REFERENCE CODE INCOMPATIBILITY (IMMOBILIZER CM TO ECM)"
+       },
+       "words": 938,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t191_a8f0ab1f",
+       "title": {
+        "ru": "18.POWER WILL NOT TURN ON (ACCESSORY DOES NOT TURN ON, BUT IGNITION TURNS ON)",
+        "en": "18.POWER WILL NOT TURN ON (ACCESSORY DOES NOT TURN ON, BUT IGNITION TURNS ON)"
+       },
+       "words": 1628,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t192_bdb72cbe",
+       "title": {
+        "ru": "15.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B1010 BODY CON",
+        "en": "15.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B1010 BODY CON"
+       },
+       "words": 2771,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t193_94501fed",
+       "title": {
+        "ru": "AG:DTC U0327 SOFTWARE INCOMPATIBILITY WITH VEHICLE SECURITY CONTROL MODULE",
+        "en": "AG:DTC U0327 SOFTWARE INCOMPATIBILITY WITH VEHICLE SECURITY CONTROL MODULE"
+       },
+       "words": 1748,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t194_4b89cbc8",
+       "title": {
+        "ru": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC U0073 CONTROL ",
+        "en": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC U0073 CONTROL "
+       },
+       "words": 1416,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t195_ba31fa3f",
+       "title": {
+        "ru": "1. THE SYSTEM DOES NOT NOTIFY THE TELEMATICS SERVICE PROVIDER CENTER AUTOMATICAL",
+        "en": "1. THE SYSTEM DOES NOT NOTIFY THE TELEMATICS SERVICE PROVIDER CENTER AUTOMATICAL"
+       },
+       "words": 1364,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t196_75b98bdc",
+       "title": {
+        "ru": "A: PRECAUTIONS WHEN WORKING WITH THE PARTS MOUNTED ON THE VEHICLE",
+        "en": "A: PRECAUTIONS WHEN WORKING WITH THE PARTS MOUNTED ON THE VEHICLE"
+       },
+       "words": 1308,
+       "images": 69,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t197_29dbe799",
+       "title": {
+        "ru": "10.Back-up Light System A: WIRING DIAGRAM 1. SEDAN MODEL (ENGINE TYPE FB)",
+        "en": "10.Back-up Light System A: WIRING DIAGRAM 1. SEDAN MODEL (ENGINE TYPE FB)"
+       },
+       "words": 2419,
+       "images": 75,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t198_75a6e77d",
+       "title": {
+        "ru": "18.CVT Control System A: WIRING DIAGRAM 1. ENGINE TYPE FB",
+        "en": "18.CVT Control System A: WIRING DIAGRAM 1. ENGINE TYPE FB"
+       },
+       "words": 1157,
+       "images": 112,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t199_ba201bf6",
+       "title": {
+        "ru": "6. OUTBACK MODEL (7 INCH DISPLAY WITH AUDIO AMPLIFIER)",
+        "en": "6. OUTBACK MODEL (7 INCH DISPLAY WITH AUDIO AMPLIFIER)"
+       },
+       "words": 3295,
+       "images": 86,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t200_6a6820ef",
+       "title": {
+        "ru": "54.Starter System A: WIRING DIAGRAM 1. ENGINE TYPE FB (WITHOUT PUSH BUTTON START",
+        "en": "54.Starter System A: WIRING DIAGRAM 1. ENGINE TYPE FB (WITHOUT PUSH BUTTON START"
+       },
+       "words": 1464,
+       "images": 64,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_legacy_general_t201_d015c8b5",
+       "title": {
+        "ru": "Rear Wiring Harness and Trunk Lid Cord",
+        "en": "Rear Wiring Harness and Trunk Lid Cord"
+       },
+       "words": 29,
+       "images": 18,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

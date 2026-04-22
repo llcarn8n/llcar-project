@@ -1,0 +1,515 @@
+{
+ "version": "1.0",
+ "model": "camry",
+ "manuals": [
+  {
+   "model": "camry",
+   "label": {
+    "ru": "Toyota Camry — Руководство по ремонту",
+    "en": "Toyota Camry — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "toyota_camry_engine_t000_8af21a62",
+       "title": {
+        "ru": "J/B No. 2 (Engine Compartment)",
+        "en": "J/B No. 2 (Engine Compartment)"
+       },
+       "words": 542,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "toyota_camry_engine_t001_f0cbe217",
+       "title": {
+        "ru": "4RADIATOR FAN AND CONDENSER FAN OPERATION",
+        "en": "4RADIATOR FAN AND CONDENSER FAN OPERATION"
+       },
+       "words": 1788,
+       "images": 2,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "toyota_camry_brakes_t000_5bb7ac26",
+       "title": {
+        "ru": "3 STOP LIGHT SW CIRCUIT",
+        "en": "3 STOP LIGHT SW CIRCUIT"
+       },
+       "words": 441,
+       "images": 1,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "toyota_camry_electrical_t000_7b6beb92",
+       "title": {
+        "ru": "4RADIATOR FAN AND CONDENSER FAN OPERATION",
+        "en": "4RADIATOR FAN AND CONDENSER FAN OPERATION"
+       },
+       "words": 622,
+       "images": 3,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "toyota_camry_hvac_t000_eb977488",
+       "title": {
+        "ru": "2.  OPERATION OF THE AIR VENT MODE CONTROL SERVO MOTOR (FOR PUSH SWITCH TYPE)",
+        "en": "2.  OPERATION OF THE AIR VENT MODE CONTROL SERVO MOTOR (FOR PUSH SWITCH TYPE)"
+       },
+       "words": 1801,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "toyota_camry_body_t000_fb1f2aaf",
+       "title": {
+        "ru": "Position of Parts in Body",
+        "en": "Position of Parts in Body"
+       },
+       "words": 1091,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "toyota_camry_body_t001_42d7417d",
+       "title": {
+        "ru": "1. SLIDE OPEN OPERATION",
+        "en": "1. SLIDE OPEN OPERATION"
+       },
+       "words": 408,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "toyota_camry_lighting_t000_c5b72b38",
+       "title": {
+        "ru": "TCCS ECU (ELECTRONIC CONTROLLED UNIT) VOLTAGES 'AT ECU CONNECTORS",
+        "en": "TCCS ECU (ELECTRONIC CONTROLLED UNIT) VOLTAGES 'AT ECU CONNECTORS"
+       },
+       "words": 1340,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "toyota_camry_lighting_t001_b621efbc",
+       "title": {
+        "ru": "SYSTEM OUTLINE",
+        "en": "SYSTEM OUTLINE"
+       },
+       "words": 464,
+       "images": 1,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "toyota_camry_interior_t000_e0430d7f",
+       "title": {
+        "ru": "1SEAT BELT WARNING SYSTEM",
+        "en": "1SEAT BELT WARNING SYSTEM"
+       },
+       "words": 173,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "toyota_camry_ev_t000_1fb0c065",
+       "title": {
+        "ru": "Fusible Link Box (Near the Battery)",
+        "en": "Fusible Link Box (Near the Battery)"
+       },
+       "words": 255,
+       "images": 6,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "toyota_camry_general_t000_359de7e3",
+       "title": {
+        "ru": "4. PASSENGER'S WINDOW UP OPERATION (MASTER SW) AND WINDOW LOCK SW OPERATION",
+        "en": "4. PASSENGER'S WINDOW UP OPERATION (MASTER SW) AND WINDOW LOCK SW OPERATION"
+       },
+       "words": 364,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t001_dec6435f",
+       "title": {
+        "ru": "HOW TO REPLACEMENT FOR TERMINAL (with Terminal Retainer Type)",
+        "en": "HOW TO REPLACEMENT FOR TERMINAL (with Terminal Retainer Type)"
+       },
+       "words": 1081,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t002_1298f7f7",
+       "title": {
+        "ru": ": Location of Connector Joining Wire Harness and Wire Harness",
+        "en": ": Location of Connector Joining Wire Harness and Wire Harness"
+       },
+       "words": 15,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t003_0f933453",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 16,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t004_e48d4a48",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 29,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t005_f6270fb5",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 19,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t006_b52b61d2",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 121,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t007_ec69deca",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 21,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t008_4157b3a7",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 208,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t009_5c378d2c",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 582,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t010_a2b1e41f",
+       "title": {
+        "ru": "CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": "CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 378,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t011_c8b18469",
+       "title": {
+        "ru": "7 : CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": "7 : CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 26,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t012_f962b035",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 26,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t013_384b2e66",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 24,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t014_3100fcd4",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 581,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t015_12a14c42",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 290,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t016_e5178bb7",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 56,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t017_32c303c9",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 160,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t018_a2fb11dc",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 446,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t019_ffca438c",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 28,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t020_96226a9b",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 165,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t021_8dcd7389",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 247,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t022_eb45a8ab",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 207,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_camry_general_t023_c002fa13",
+       "title": {
+        "ru": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS",
+        "en": ": CONNECTOR JOINING WIRE HARNESS AND WIRE HARNESS"
+       },
+       "words": 12,
+       "images": 9,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "toyota_camry_drivetrain_t000_731474e2",
+       "title": {
+        "ru": "(A) CRUISE CONTROL COMPUTER",
+        "en": "(A) CRUISE CONTROL COMPUTER"
+       },
+       "words": 1445,
+       "images": 2,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "toyota_camry_sensors_t000_bcf0ab6a",
+       "title": {
+        "ru": "THROTTLE POSITION SENSOR",
+        "en": "THROTTLE POSITION SENSOR"
+       },
+       "words": 2013,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "toyota_camry_infotainment_t000_904c33b3",
+       "title": {
+        "ru": "SYSTEM OUTLINE",
+        "en": "SYSTEM OUTLINE"
+       },
+       "words": 127,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

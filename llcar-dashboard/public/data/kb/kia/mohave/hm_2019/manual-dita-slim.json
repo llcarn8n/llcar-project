@@ -1,0 +1,1715 @@
+{
+ "version": "1.0",
+ "model": "mohave",
+ "manuals": [
+  {
+   "model": "mohave",
+   "label": {
+    "ru": "Kia Mohave — Руководство по ремонту",
+    "en": "Kia Mohave — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "kia_mohave_engine_t000_6ffce68a",
+       "title": {
+        "ru": "10. Передние ультразвуковые датчики....... .......  стр. 4-103",
+        "en": "10. Передние ультразвуковые датчики....... .......  стр. 4-103"
+       },
+       "words": 590,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t001_49a394a0",
+       "title": {
+        "ru": "Чтобы выключить систему, отоприте",
+        "en": "Чтобы выключить систему, отоприте"
+       },
+       "words": 612,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t002_eef3c58e",
+       "title": {
+        "ru": "Особенности вашего автомобиля",
+        "en": "Особенности вашего автомобиля"
+       },
+       "words": 774,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t003_23c506cf",
+       "title": {
+        "ru": "Если вы заметили изменение усилия,",
+        "en": "Если вы заметили изменение усилия,"
+       },
+       "words": 796,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t004_f9a9712b",
+       "title": {
+        "ru": "Если оставшийся пробег или время до‐",
+        "en": "Если оставшийся пробег или время до‐"
+       },
+       "words": 911,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t005_1e9cdafd",
+       "title": {
+        "ru": "Нажмите кнопку START еще раз",
+        "en": "Нажмите кнопку START еще раз"
+       },
+       "words": 1084,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t006_baa0ffce",
+       "title": {
+        "ru": "Если после разогрева двигателя или во",
+        "en": "Если после разогрева двигателя или во"
+       },
+       "words": 736,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t007_80544c7f",
+       "title": {
+        "ru": "В выхлопном газе содержится окись углерода — это газ без цвета и запаха, при вды",
+        "en": "В выхлопном газе содержится окись углерода — это газ без цвета и запаха, при вды"
+       },
+       "words": 919,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t008_9df1f24f",
+       "title": {
+        "ru": "Чтобы запустить двигатель, выжмите",
+        "en": "Чтобы запустить двигатель, выжмите"
+       },
+       "words": 1068,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t009_dfbee31d",
+       "title": {
+        "ru": "Если позволяет поток движения и",
+        "en": "Если позволяет поток движения и"
+       },
+       "words": 621,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t010_d8a0f712",
+       "title": {
+        "ru": "Проследите за тем, чтобы погасла сиг‐",
+        "en": "Проследите за тем, чтобы погасла сиг‐"
+       },
+       "words": 752,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t011_b61731a9",
+       "title": {
+        "ru": "Дополнительная информация приве‐",
+        "en": "Дополнительная информация приве‐"
+       },
+       "words": 623,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t012_7224e673",
+       "title": {
+        "ru": "LKA, выполните описанные ниже дей‐",
+        "en": "LKA, выполните описанные ниже дей‐"
+       },
+       "words": 941,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t013_367a3135",
+       "title": {
+        "ru": "Kia или в партнерской сервисной ком‐",
+        "en": "Kia или в партнерской сервисной ком‐"
+       },
+       "words": 834,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t014_15bac416",
+       "title": {
+        "ru": "Не открывайте капот, пока не пре‐",
+        "en": "Не открывайте капот, пока не пре‐"
+       },
+       "words": 668,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t015_5d09dbb1",
+       "title": {
+        "ru": "Они могут попасть в движу‐",
+        "en": "Они могут попасть в движу‐"
+       },
+       "words": 1544,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t016_c40b3952",
+       "title": {
+        "ru": "После установки нового фильтра дай‐",
+        "en": "После установки нового фильтра дай‐"
+       },
+       "words": 761,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t017_cfd82d3b",
+       "title": {
+        "ru": "Иногда он может работать даже при",
+        "en": "Иногда он может работать даже при"
+       },
+       "words": 665,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t018_fb40eaa3",
+       "title": {
+        "ru": "Если электрическая система не рабо‐",
+        "en": "Если электрическая система не рабо‐"
+       },
+       "words": 680,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t019_78dd514e",
+       "title": {
+        "ru": "См. раздел “Мощность ламп” на стра‐",
+        "en": "См. раздел “Мощность ламп” на стра‐"
+       },
+       "words": 739,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t020_c59b7f0d",
+       "title": {
+        "ru": "Вязкость (густота) моторного масла влияет на расход топлива и работу автомобиля ",
+        "en": "Вязкость (густота) моторного масла влияет на расход топлива и работу автомобиля "
+       },
+       "words": 838,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_mohave_engine_t021_62feadaa",
+       "title": {
+        "ru": "При выборе масла следует учитывать диапазон температур, в котором будет эксплуат",
+        "en": "При выборе масла следует учитывать диапазон температур, в котором будет эксплуат"
+       },
+       "words": 391,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "kia_mohave_brakes_t000_18ec5bcb",
+       "title": {
+        "ru": "Также, в случае если работает только",
+        "en": "Также, в случае если работает только"
+       },
+       "words": 866,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t001_e12c0098",
+       "title": {
+        "ru": "Автомобиль должен двигаться толь‐",
+        "en": "Автомобиль должен двигаться толь‐"
+       },
+       "words": 747,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t002_27bc12c1",
+       "title": {
+        "ru": "Если тормоза намокли, то ха‐",
+        "en": "Если тормоза намокли, то ха‐"
+       },
+       "words": 433,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t003_18471cc8",
+       "title": {
+        "ru": "EPB, то система EPB не вклю‐",
+        "en": "EPB, то система EPB не вклю‐"
+       },
+       "words": 774,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t004_cb4cd2fe",
+       "title": {
+        "ru": "Если электронный стояночный тормоз",
+        "en": "Если электронный стояночный тормоз"
+       },
+       "words": 694,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t005_7ec691b4",
+       "title": {
+        "ru": "Система VSM может отключиться, даже",
+        "en": "Система VSM может отключиться, даже"
+       },
+       "words": 965,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t006_8b75851f",
+       "title": {
+        "ru": "Это крайне опасно. Автомобиль дол‐",
+        "en": "Это крайне опасно. Автомобиль дол‐"
+       },
+       "words": 722,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t007_a56b9a27",
+       "title": {
+        "ru": "В пределах диапазона скоростей активации 4 ~ 30 км/ч водитель может управлять ск",
+        "en": "В пределах диапазона скоростей активации 4 ~ 30 км/ч водитель может управлять ск"
+       },
+       "words": 539,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t008_52fb413c",
+       "title": {
+        "ru": "Это может привести к ложному сра‐",
+        "en": "Это может привести к ложному сра‐"
+       },
+       "words": 931,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t009_2f06e95c",
+       "title": {
+        "ru": "Это может приводить к отсутствию",
+        "en": "Это может приводить к отсутствию"
+       },
+       "words": 565,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t010_f9f4b913",
+       "title": {
+        "ru": "Условия, при которых система SCC не",
+        "en": "Условия, при которых система SCC не"
+       },
+       "words": 837,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t011_84515dcd",
+       "title": {
+        "ru": "В этом случае необходимо поддержи‐",
+        "en": "В этом случае необходимо поддержи‐"
+       },
+       "words": 654,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t012_f3f4ea57",
+       "title": {
+        "ru": "Водитель должен помнить, что тор‐",
+        "en": "Водитель должен помнить, что тор‐"
+       },
+       "words": 767,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t013_d4be041a",
+       "title": {
+        "ru": "Тормозите плавно. Помните, что уста‐",
+        "en": "Тормозите плавно. Помните, что уста‐"
+       },
+       "words": 942,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_mohave_brakes_t014_15f83ee6",
+       "title": {
+        "ru": "Никогда не смешивайте различные ти‐",
+        "en": "Никогда не смешивайте различные ти‐"
+       },
+       "words": 435,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "kia_mohave_suspension_t000_0d957141",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего автомобиля",
+        "en": "Характеристика системы безопасности вашего автомобиля"
+       },
+       "words": 836,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t001_daae8c35",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего ав‐",
+        "en": "Характеристика системы безопасности вашего ав‐"
+       },
+       "words": 825,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t002_b227e797",
+       "title": {
+        "ru": "Блокировка срабатывает при открыва‐",
+        "en": "Блокировка срабатывает при открыва‐"
+       },
+       "words": 527,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t003_de25bc98",
+       "title": {
+        "ru": "Обязательно учитывайте приведенные",
+        "en": "Обязательно учитывайте приведенные"
+       },
+       "words": 731,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t004_bef2dd5e",
+       "title": {
+        "ru": "ESC проверяет направление, в котором",
+        "en": "ESC проверяет направление, в котором"
+       },
+       "words": 738,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t005_d06db335",
+       "title": {
+        "ru": "Эта система обеспечивает дополни‐",
+        "en": "Эта система обеспечивает дополни‐"
+       },
+       "words": 740,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t006_235a60b6",
+       "title": {
+        "ru": "Цвет индикатора изменяется в зависи‐",
+        "en": "Цвет индикатора изменяется в зависи‐"
+       },
+       "words": 655,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t007_208b79a4",
+       "title": {
+        "ru": "Вспомогательная система предотвра‐",
+        "en": "Вспомогательная система предотвра‐"
+       },
+       "words": 775,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t008_91be04e5",
+       "title": {
+        "ru": "Система LFA не будет находиться во",
+        "en": "Система LFA не будет находиться во"
+       },
+       "words": 814,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t009_92856fa5",
+       "title": {
+        "ru": "Не увеличивайте обороты двигателя и",
+        "en": "Не увеличивайте обороты двигателя и"
+       },
+       "words": 679,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t010_d8e716c0",
+       "title": {
+        "ru": "Если система определяет наличие не‐",
+        "en": "Если система определяет наличие не‐"
+       },
+       "words": 598,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t011_6250f932",
+       "title": {
+        "ru": "При первой же возможности останови‐",
+        "en": "При первой же возможности останови‐"
+       },
+       "words": 572,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t012_ae78de74",
+       "title": {
+        "ru": "Если у вас спустило колесо, загорают‐",
+        "en": "Если у вас спустило колесо, загорают‐"
+       },
+       "words": 1140,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t013_f8e7959e",
+       "title": {
+        "ru": "Следует отметить, что большинство",
+        "en": "Следует отметить, что большинство"
+       },
+       "words": 738,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t014_0a6375d0",
+       "title": {
+        "ru": "Регулярно осматривайте компактное",
+        "en": "Регулярно осматривайте компактное"
+       },
+       "words": 1280,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t015_ba7c55a7",
+       "title": {
+        "ru": "Установите на ниппель индикатор да‐",
+        "en": "Установите на ниппель индикатор да‐"
+       },
+       "words": 574,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t016_46d416bb",
+       "title": {
+        "ru": "Если шина перекачана, спустите лиш‐",
+        "en": "Если шина перекачана, спустите лиш‐"
+       },
+       "words": 645,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t017_c52757d6",
+       "title": {
+        "ru": "На колесах также имеется маркировка,",
+        "en": "На колесах также имеется маркировка,"
+       },
+       "words": 633,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t018_c1b31d9c",
+       "title": {
+        "ru": "Сцепление с поверхностью: AA, A, B и",
+        "en": "Сцепление с поверхностью: AA, A, B и"
+       },
+       "words": 596,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t019_f60fd6a0",
+       "title": {
+        "ru": "Использование шин другого размера может привести к повреждению связанных деталей",
+        "en": "Использование шин другого размера может привести к повреждению связанных деталей"
+       },
+       "words": 843,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_mohave_suspension_t020_748a05f0",
+       "title": {
+        "ru": "Тормозная жидкость/жидкость",
+        "en": "Тормозная жидкость/жидкость"
+       },
+       "words": 536,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "kia_mohave_transmission_t000_4e66120b",
+       "title": {
+        "ru": "Особенности вашего автомобиля",
+        "en": "Особенности вашего автомобиля"
+       },
+       "words": 965,
+       "images": 0,
+       "section_id": "transmission"
+      },
+      {
+       "id": "kia_mohave_transmission_t001_da812b81",
+       "title": {
+        "ru": "В ручном режиме можно быстро пере‐",
+        "en": "В ручном режиме можно быстро пере‐"
+       },
+       "words": 663,
+       "images": 0,
+       "section_id": "transmission"
+      },
+      {
+       "id": "kia_mohave_transmission_t002_deaa8f9f",
+       "title": {
+        "ru": "Система включится и перейдет в ре‐",
+        "en": "Система включится и перейдет в ре‐"
+       },
+       "words": 609,
+       "images": 0,
+       "section_id": "transmission"
+      },
+      {
+       "id": "kia_mohave_transmission_t003_e345ce95",
+       "title": {
+        "ru": "Автомобиль оборудован каталитиче‐",
+        "en": "Автомобиль оборудован каталитиче‐"
+       },
+       "words": 289,
+       "images": 0,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "kia_mohave_hvac_t000_81874124",
+       "title": {
+        "ru": "A/C на системе климат-контроля,",
+        "en": "A/C на системе климат-контроля,"
+       },
+       "words": 1034,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_mohave_hvac_t001_0e57351d",
+       "title": {
+        "ru": "Если режим кондиционирования и за‐",
+        "en": "Если режим кондиционирования и за‐"
+       },
+       "words": 1059,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_mohave_hvac_t002_7ca66707",
+       "title": {
+        "ru": "Если нажат выключатель подогрева",
+        "en": "Если нажат выключатель подогрева"
+       },
+       "words": 699,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "kia_mohave_body_t000_7d8a8091",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего ав‐",
+        "en": "Характеристика системы безопасности вашего ав‐"
+       },
+       "words": 507,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t001_78735262",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего автомобиля",
+        "en": "Характеристика системы безопасности вашего автомобиля"
+       },
+       "words": 764,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t002_23beb91a",
+       "title": {
+        "ru": "Регулировку положения сиденья нуж‐",
+        "en": "Регулировку положения сиденья нуж‐"
+       },
+       "words": 795,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t003_c830b2d9",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего автомобиля",
+        "en": "Характеристика системы безопасности вашего автомобиля"
+       },
+       "words": 828,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t004_2e79ad84",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего ав‐",
+        "en": "Характеристика системы безопасности вашего ав‐"
+       },
+       "words": 1137,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t005_96c28913",
+       "title": {
+        "ru": "Положение креплений ISOFIX не подходит для установки детского автокресла ISOFIX ",
+        "en": "Положение креплений ISOFIX не подходит для установки детского автокресла ISOFIX "
+       },
+       "words": 951,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t006_e67487eb",
+       "title": {
+        "ru": "В случае аварии младенец или ма‐",
+        "en": "В случае аварии младенец или ма‐"
+       },
+       "words": 543,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t007_4fd8a04d",
+       "title": {
+        "ru": "Чтобы убедиться, что дверь заперта,",
+        "en": "Чтобы убедиться, что дверь заперта,"
+       },
+       "words": 599,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t008_0444dc1b",
+       "title": {
+        "ru": "После отпирания дверей дважды миг‐",
+        "en": "После отпирания дверей дважды миг‐"
+       },
+       "words": 653,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t009_65599234",
+       "title": {
+        "ru": "Особенности вашего автомобиля",
+        "en": "Особенности вашего автомобиля"
+       },
+       "words": 629,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t010_342a0076",
+       "title": {
+        "ru": "Kia или партнерской сервисной компа‐",
+        "en": "Kia или партнерской сервисной компа‐"
+       },
+       "words": 538,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t011_de3b0923",
+       "title": {
+        "ru": "STOPе (Запуск/остановка двигателя) в",
+        "en": "STOPе (Запуск/остановка двигателя) в"
+       },
+       "words": 1014,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t012_0812c085",
+       "title": {
+        "ru": "Если нажата кнопка блокировки сте‐",
+        "en": "Если нажата кнопка блокировки сте‐"
+       },
+       "words": 818,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t013_03cdfd9e",
+       "title": {
+        "ru": "Чтобы отрегулировать положение ка‐",
+        "en": "Чтобы отрегулировать положение ка‐"
+       },
+       "words": 795,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t014_4929fe85",
+       "title": {
+        "ru": "Если при повороте замка зажигания в",
+        "en": "Если при повороте замка зажигания в"
+       },
+       "words": 975,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t015_6fdb39b2",
+       "title": {
+        "ru": "Если пыль или другие загрязнения на‐",
+        "en": "Если пыль или другие загрязнения на‐"
+       },
+       "words": 970,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t016_0dca8b9e",
+       "title": {
+        "ru": "Если роллет не используется, помести‐",
+        "en": "Если роллет не используется, помести‐"
+       },
+       "words": 761,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t017_8b1d2063",
+       "title": {
+        "ru": "При необходимости длительного периода работы двигателя на холостом ходу с пассаж",
+        "en": "При необходимости длительного периода работы двигателя на холостом ходу с пассаж"
+       },
+       "words": 783,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t018_c346d389",
+       "title": {
+        "ru": "При плохой фронтальной видимости",
+        "en": "При плохой фронтальной видимости"
+       },
+       "words": 740,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t019_686e36a9",
+       "title": {
+        "ru": "Езда по дорогам, которые в холодную погоду обрабатываются солью или другими корр",
+        "en": "Езда по дорогам, которые в холодную погоду обрабатываются солью или другими корр"
+       },
+       "words": 705,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t020_95d6d188",
+       "title": {
+        "ru": "После разрядки или отсоединения ак‐",
+        "en": "После разрядки или отсоединения ак‐"
+       },
+       "words": 1134,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_mohave_body_t021_e7fa43a7",
+       "title": {
+        "ru": "Технические характеристики и информация для потребителя",
+        "en": "Технические характеристики и информация для потребителя"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "kia_mohave_lighting_t000_8de931e9",
+       "title": {
+        "ru": "Если эта контрольная лампа мигает,",
+        "en": "Если эта контрольная лампа мигает,"
+       },
+       "words": 1012,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_mohave_lighting_t001_ccd64763",
+       "title": {
+        "ru": "Настройки сохранятся даже при оста‐",
+        "en": "Настройки сохранятся даже при оста‐"
+       },
+       "words": 955,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_mohave_lighting_t002_b664e343",
+       "title": {
+        "ru": "Задние противотуманные фары вклю‐",
+        "en": "Задние противотуманные фары вклю‐"
+       },
+       "words": 1047,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_mohave_lighting_t003_6a28839e",
+       "title": {
+        "ru": "Kia или партнерской сервисной ком‐",
+        "en": "Kia или партнерской сервисной ком‐"
+       },
+       "words": 1114,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_mohave_lighting_t004_c040755b",
+       "title": {
+        "ru": "Светодиодные лампы заменяются вме‐",
+        "en": "Светодиодные лампы заменяются вме‐"
+       },
+       "words": 713,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_mohave_lighting_t005_32de6c45",
+       "title": {
+        "ru": "Смазочное масло для компрессора",
+        "en": "Смазочное масло для компрессора"
+       },
+       "words": 755,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "kia_mohave_adas_t000_3c078574",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего ав‐",
+        "en": "Характеристика системы безопасности вашего ав‐"
+       },
+       "words": 695,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_mohave_adas_t001_cbd7930d",
+       "title": {
+        "ru": "Диапазон обнаружения и типы объек‐",
+        "en": "Диапазон обнаружения и типы объек‐"
+       },
+       "words": 552,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_mohave_adas_t002_310524d8",
+       "title": {
+        "ru": "Особенности вашего автомобиля",
+        "en": "Особенности вашего автомобиля"
+       },
+       "words": 578,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_mohave_adas_t003_f9cad45f",
+       "title": {
+        "ru": "STOPе (Запуск/остановка двигателя) в",
+        "en": "STOPе (Запуск/остановка двигателя) в"
+       },
+       "words": 695,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_mohave_adas_t004_6294f989",
+       "title": {
+        "ru": "Всегда поддерживайте чистоту датчи‐",
+        "en": "Всегда поддерживайте чистоту датчи‐"
+       },
+       "words": 902,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_mohave_adas_t005_0c87a27b",
+       "title": {
+        "ru": "Работа датчика может быть ограниче‐",
+        "en": "Работа датчика может быть ограниче‐"
+       },
+       "words": 1272,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_mohave_adas_t006_0fb9ae3b",
+       "title": {
+        "ru": "Эта система работает на скоростях вы‐",
+        "en": "Эта система работает на скоростях вы‐"
+       },
+       "words": 850,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_mohave_adas_t007_8cad3ab1",
+       "title": {
+        "ru": "STOPе (Запуск/остановка двигателя)",
+        "en": "STOPе (Запуск/остановка двигателя)"
+       },
+       "words": 558,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_mohave_adas_t008_215b9941",
+       "title": {
+        "ru": "Условия, при которых система",
+        "en": "Условия, при которых система"
+       },
+       "words": 664,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_mohave_adas_t009_35de6ca2",
+       "title": {
+        "ru": "Если датчик или крышка датчика по‐",
+        "en": "Если датчик или крышка датчика по‐"
+       },
+       "words": 844,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_mohave_adas_t010_b09eb5fc",
+       "title": {
+        "ru": "При плохом состоянии полосы и",
+        "en": "При плохом состоянии полосы и"
+       },
+       "words": 770,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_mohave_adas_t011_0c7c7ed4",
+       "title": {
+        "ru": "Система интегрированного управления дина‐",
+        "en": "Система интегрированного управления дина‐"
+       },
+       "words": 575,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "kia_mohave_interior_t000_3567cdbd",
+       "title": {
+        "ru": "После переключения замка зажигания",
+        "en": "После переключения замка зажигания"
+       },
+       "words": 530,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_mohave_interior_t001_e0ce8332",
+       "title": {
+        "ru": "Если вы оставили смартфон на панели",
+        "en": "Если вы оставили смартфон на панели"
+       },
+       "words": 886,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_mohave_interior_t002_6ffed78d",
+       "title": {
+        "ru": "Оператор системы ЭРА-ГЛОНАСС (АО «ГЛОНАССе) отвечает",
+        "en": "Оператор системы ЭРА-ГЛОНАСС (АО «ГЛОНАССе) отвечает"
+       },
+       "words": 924,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "kia_mohave_general_t000_df4e7ab8",
+       "title": {
+        "ru": "Общая структура руководства приве‐",
+        "en": "Общая структура руководства приве‐"
+       },
+       "words": 902,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t001_4a9dcc9c",
+       "title": {
+        "ru": "Чтобы предотвратить угон автомо‐",
+        "en": "Чтобы предотвратить угон автомо‐"
+       },
+       "words": 423,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t002_e4c7d571",
+       "title": {
+        "ru": "Раздается звуковой сигнал, и около",
+        "en": "Раздается звуковой сигнал, и около"
+       },
+       "words": 667,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t003_99b94d66",
+       "title": {
+        "ru": "Также, если потянуть рычаг управле‐",
+        "en": "Также, если потянуть рычаг управле‐"
+       },
+       "words": 629,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t004_db63e264",
+       "title": {
+        "ru": "Эта сигнальная лампа предупреждает",
+        "en": "Эта сигнальная лампа предупреждает"
+       },
+       "words": 697,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t005_924495e2",
+       "title": {
+        "ru": "Особенности вашего автомобиля",
+        "en": "Особенности вашего автомобиля"
+       },
+       "words": 601,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t006_2067f8a8",
+       "title": {
+        "ru": "FM-сигналов могут влиять здания, воз‐",
+        "en": "FM-сигналов могут влиять здания, воз‐"
+       },
+       "words": 584,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t007_bfc98000",
+       "title": {
+        "ru": "STOPе (Запуска/остановки двигателя)",
+        "en": "STOPе (Запуска/остановки двигателя)"
+       },
+       "words": 681,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t008_0a4d86bf",
+       "title": {
+        "ru": "Варианты для первичного предупре‐",
+        "en": "Варианты для первичного предупре‐"
+       },
+       "words": 466,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t009_4f1dfd84",
+       "title": {
+        "ru": "Варианты для первичного предупре‐",
+        "en": "Варианты для первичного предупре‐"
+       },
+       "words": 477,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t010_ac822d51",
+       "title": {
+        "ru": "Система FCA может не активи‐",
+        "en": "Система FCA может не активи‐"
+       },
+       "words": 775,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t011_393d7316",
+       "title": {
+        "ru": "Система предупреждения об",
+        "en": "Система предупреждения об"
+       },
+       "words": 398,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t012_8d3f9220",
+       "title": {
+        "ru": "Система BCA не будет работать, если",
+        "en": "Система BCA не будет работать, если"
+       },
+       "words": 612,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t013_53391340",
+       "title": {
+        "ru": "Система предупреждения об опасно‐",
+        "en": "Система предупреждения об опасно‐"
+       },
+       "words": 789,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t014_c4ab07ac",
+       "title": {
+        "ru": "Всегда обращайте внимание на дви‐",
+        "en": "Всегда обращайте внимание на дви‐"
+       },
+       "words": 659,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t015_a894d13d",
+       "title": {
+        "ru": "Если автомобиль, движущийся сбо‐",
+        "en": "Если автомобиль, движущийся сбо‐"
+       },
+       "words": 476,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t016_87141704",
+       "title": {
+        "ru": "Если система монитора заднего вида",
+        "en": "Если система монитора заднего вида"
+       },
+       "words": 697,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t017_1bd57b01",
+       "title": {
+        "ru": "Некорректный запуск от внешнего ис‐",
+        "en": "Некорректный запуск от внешнего ис‐"
+       },
+       "words": 790,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t018_33806d8d",
+       "title": {
+        "ru": "Система позволяет связаться с сотрудником единой дежур‐",
+        "en": "Система позволяет связаться с сотрудником единой дежур‐"
+       },
+       "words": 529,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t019_ebfce634",
+       "title": {
+        "ru": "Многократные поездки на короткие расстояния менее 8 км при нормальной температур",
+        "en": "Многократные поездки на короткие расстояния менее 8 км при нормальной температур"
+       },
+       "words": 654,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t020_cddfb014",
+       "title": {
+        "ru": "При эксплуатации автомобиля в усло‐",
+        "en": "При эксплуатации автомобиля в усло‐"
+       },
+       "words": 582,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t021_54d605d8",
+       "title": {
+        "ru": "В случае эксплуатации автомобиля в",
+        "en": "В случае эксплуатации автомобиля в"
+       },
+       "words": 591,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t022_ec7c11ce",
+       "title": {
+        "ru": "Коррозия вследствие воздействия вла‐",
+        "en": "Коррозия вследствие воздействия вла‐"
+       },
+       "words": 656,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t023_44b101fa",
+       "title": {
+        "ru": "Motors считает своим долгом предоставлять клиентам услуги на",
+        "en": "Motors считает своим долгом предоставлять клиентам услуги на"
+       },
+       "words": 886,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_mohave_general_t024_3f691ed3",
+       "title": {
+        "ru": "Вашего автомобиля. Некоторые описания и рисунки могут не отно‐",
+        "en": "Вашего автомобиля. Некоторые описания и рисунки могут не отно‐"
+       },
+       "words": 169,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_mohave_safety_t000_0f55920b",
+       "title": {
+        "ru": "Уход за системой пассивной безопасности.................... 3-81",
+        "en": "Уход за системой пассивной безопасности.................... 3-81"
+       },
+       "words": 1095,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t001_c5574117",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего автомобиля",
+        "en": "Характеристика системы безопасности вашего автомобиля"
+       },
+       "words": 659,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t002_41fddf5b",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего ав‐",
+        "en": "Характеристика системы безопасности вашего ав‐"
+       },
+       "words": 714,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t003_b9cc98cd",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего ав‐",
+        "en": "Характеристика системы безопасности вашего ав‐"
+       },
+       "words": 636,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t004_98e81182",
+       "title": {
+        "ru": "Все поврежденные части необходимо",
+        "en": "Все поврежденные части необходимо"
+       },
+       "words": 495,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t005_892c7181",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего автомобиля",
+        "en": "Характеристика системы безопасности вашего автомобиля"
+       },
+       "words": 987,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t006_46de2fe3",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего ав‐",
+        "en": "Характеристика системы безопасности вашего ав‐"
+       },
+       "words": 753,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t007_5f9f993f",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего автомобиля",
+        "en": "Характеристика системы безопасности вашего автомобиля"
+       },
+       "words": 835,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t008_28c4daaf",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего ав‐",
+        "en": "Характеристика системы безопасности вашего ав‐"
+       },
+       "words": 749,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t009_1ade1038",
+       "title": {
+        "ru": "Характеристика системы безопасности вашего автомобиля",
+        "en": "Характеристика системы безопасности вашего автомобиля"
+       },
+       "words": 653,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t010_233b78ec",
+       "title": {
+        "ru": "Если у вас на коленях или во рту на‐",
+        "en": "Если у вас на коленях или во рту на‐"
+       },
+       "words": 883,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t011_62fc182e",
+       "title": {
+        "ru": "Режим полного привода (4WD) эф‐",
+        "en": "Режим полного привода (4WD) эф‐"
+       },
+       "words": 580,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t012_0761525d",
+       "title": {
+        "ru": "Несмотря на то что автомо‐",
+        "en": "Несмотря на то что автомо‐"
+       },
+       "words": 684,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_mohave_safety_t013_fe4f076a",
+       "title": {
+        "ru": "Замена предохранителя в моторном отсеке........7-55",
+        "en": "Замена предохранителя в моторном отсеке........7-55"
+       },
+       "words": 571,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "ev_battery",
+     "title": {
+      "ru": "ev_battery",
+      "en": "ev_battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_mohave_ev_battery_t000_3e089776",
+       "title": {
+        "ru": "17. Кнопка включения/выключения системы кругово‐",
+        "en": "17. Кнопка включения/выключения системы кругово‐"
+       },
+       "words": 827,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_mohave_ev_battery_t001_4a3c24f6",
+       "title": {
+        "ru": "SРЕЕДе (Скорость открывания двери",
+        "en": "SРЕЕДе (Скорость открывания двери"
+       },
+       "words": 668,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_mohave_ev_battery_t002_fd544e8f",
+       "title": {
+        "ru": "Подача воздуха осуществляется через",
+        "en": "Подача воздуха осуществляется через"
+       },
+       "words": 955,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_mohave_ev_battery_t003_2aa436c4",
+       "title": {
+        "ru": "Когда напряжение повысится, ин‐",
+        "en": "Когда напряжение повысится, ин‐"
+       },
+       "words": 733,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_mohave_ev_battery_t004_c23241d1",
+       "title": {
+        "ru": "Если функция беспроводной зарядки",
+        "en": "Если функция беспроводной зарядки"
+       },
+       "words": 608,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_mohave_ev_battery_t005_dcf041e0",
+       "title": {
+        "ru": "В каких случаях не работает система",
+        "en": "В каких случаях не работает система"
+       },
+       "words": 566,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_mohave_ev_battery_t006_ba417929",
+       "title": {
+        "ru": "Вспомогательная система предотвра‐",
+        "en": "Вспомогательная система предотвра‐"
+       },
+       "words": 821,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_mohave_ev_battery_t007_9ebf4c73",
+       "title": {
+        "ru": "Действия в аварийных ситуациях",
+        "en": "Действия в аварийных ситуациях"
+       },
+       "words": 780,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_mohave_ev_battery_t008_b34f57ea",
+       "title": {
+        "ru": "Все права защищены. Полное или частичное вос‐",
+        "en": "Все права защищены. Полное или частичное вос‐"
+       },
+       "words": 915,
+       "images": 0,
+       "section_id": "ev_battery"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_mohave_infotainment_t000_919afef0",
+       "title": {
+        "ru": "Когда на автомобиль поступает силь‐",
+        "en": "Когда на автомобиль поступает силь‐"
+       },
+       "words": 939,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

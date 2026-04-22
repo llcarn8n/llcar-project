@@ -1,0 +1,2695 @@
+{
+ "version": "1.0",
+ "model": "jimny",
+ "manuals": [
+  {
+   "model": "jimny",
+   "label": {
+    "ru": "Suzuki Jimny — Руководство по ремонту",
+    "en": "Suzuki Jimny — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "suzuki_jimny_engine_t000_26706372",
+       "title": {
+        "ru": "If the immobilizer warning light blinks when",
+        "en": "If the immobilizer warning light blinks when"
+       },
+       "words": 320,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t001_84666c99",
+       "title": {
+        "ru": "The oil life monitoring system must be reset",
+        "en": "The oil life monitoring system must be reset"
+       },
+       "words": 305,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t002_76525b4d",
+       "title": {
+        "ru": "For details on how to change the engine oil",
+        "en": "For details on how to change the engine oil"
+       },
+       "words": 498,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t003_900dbb37",
+       "title": {
+        "ru": "An indicator light will come on when the",
+        "en": "An indicator light will come on when the"
+       },
+       "words": 281,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t004_5d03cb3e",
+       "title": {
+        "ru": "This is the position for starting the engine",
+        "en": "This is the position for starting the engine"
+       },
+       "words": 420,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t005_a6945dd6",
+       "title": {
+        "ru": "An accelerator pedal controls the speed of",
+        "en": "An accelerator pedal controls the speed of"
+       },
+       "words": 380,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t006_96902772",
+       "title": {
+        "ru": "Use this position for starting the engine if",
+        "en": "Use this position for starting the engine if"
+       },
+       "words": 285,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t007_e2762f91",
+       "title": {
+        "ru": "The air locking hubs are activated by the",
+        "en": "The air locking hubs are activated by the"
+       },
+       "words": 304,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t008_f8c1cd5d",
+       "title": {
+        "ru": "The vehicle stability control system helps",
+        "en": "The vehicle stability control system helps"
+       },
+       "words": 446,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t009_39b628be",
+       "title": {
+        "ru": "The hill descent control system is designed",
+        "en": "The hill descent control system is designed"
+       },
+       "words": 635,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t010_7f5643e4",
+       "title": {
+        "ru": "The converter is designed to last the life of",
+        "en": "The converter is designed to last the life of"
+       },
+       "words": 517,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t011_6d60eb6d",
+       "title": {
+        "ru": "Operate the air conditioner at least once a",
+        "en": "Operate the air conditioner at least once a"
+       },
+       "words": 387,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t012_6e525014",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 310,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t013_5b5856ba",
+       "title": {
+        "ru": "= I : I = I : I",
+        "en": "= I : I = I : I"
+       },
+       "words": 430,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t014_6aa6afb3",
+       "title": {
+        "ru": "A WARNING",
+        "en": "A WARNING"
+       },
+       "words": 513,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t015_01e39820",
+       "title": {
+        "ru": "Drain the engine oil while the engine is still",
+        "en": "Drain the engine oil while the engine is still"
+       },
+       "words": 425,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t016_5510dbe9",
+       "title": {
+        "ru": "This type of coolant is the best for cooling",
+        "en": "This type of coolant is the best for cooling"
+       },
+       "words": 234,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t017_08e72867",
+       "title": {
+        "ru": "Check the brake fluid level by looking at",
+        "en": "Check the brake fluid level by looking at"
+       },
+       "words": 328,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t018_d9c69485",
+       "title": {
+        "ru": "For vehicles equipped with the dual",
+        "en": "For vehicles equipped with the dual"
+       },
+       "words": 185,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t019_e4888310",
+       "title": {
+        "ru": "If the engine does not start under very cold",
+        "en": "If the engine does not start under very cold"
+       },
+       "words": 331,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "suzuki_jimny_engine_t020_4dedc776",
+       "title": {
+        "ru": "The engine serial number is stamped on",
+        "en": "The engine serial number is stamped on"
+       },
+       "words": 191,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "suzuki_jimny_brakes_t000_3f228713",
+       "title": {
+        "ru": "If the brake system warning light comes on",
+        "en": "If the brake system warning light comes on"
+       },
+       "words": 293,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t001_e5b45e9c",
+       "title": {
+        "ru": "If the light and the brake system warning",
+        "en": "If the light and the brake system warning"
+       },
+       "words": 531,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t002_4468756d",
+       "title": {
+        "ru": "OFF switch is pushed and held to turn",
+        "en": "OFF switch is pushed and held to turn"
+       },
+       "words": 486,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t003_d8e484dc",
+       "title": {
+        "ru": "Your vehicle is equipped with either front",
+        "en": "Your vehicle is equipped with either front"
+       },
+       "words": 423,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t004_a90a7852",
+       "title": {
+        "ru": "If any of the electrical systems such as",
+        "en": "If any of the electrical systems such as"
+       },
+       "words": 340,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t005_48eb66bb",
+       "title": {
+        "ru": "Changing speed temporarily",
+        "en": "Changing speed temporarily"
+       },
+       "words": 591,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t006_08fc9ef5",
+       "title": {
+        "ru": "Under the followings and a frontal collision",
+        "en": "Under the followings and a frontal collision"
+       },
+       "words": 314,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t007_c8a881f1",
+       "title": {
+        "ru": "When the function of the dual sensor brake",
+        "en": "When the function of the dual sensor brake"
+       },
+       "words": 579,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t008_e1c7609f",
+       "title": {
+        "ru": "You may feel the brake pedal move a little",
+        "en": "You may feel the brake pedal move a little"
+       },
+       "words": 529,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t009_b4b529aa",
+       "title": {
+        "ru": "The ABS will not work if vehicle speed is",
+        "en": "The ABS will not work if vehicle speed is"
+       },
+       "words": 457,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t010_c864ab2b",
+       "title": {
+        "ru": "The hill hold control system is designed to",
+        "en": "The hill hold control system is designed to"
+       },
+       "words": 572,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t011_4314d2a2",
+       "title": {
+        "ru": "The hill hold control system activates for a",
+        "en": "The hill hold control system activates for a"
+       },
+       "words": 504,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t012_f5ed027c",
+       "title": {
+        "ru": "If the vehicle goes across the river that is",
+        "en": "If the vehicle goes across the river that is"
+       },
+       "words": 328,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t013_61848f29",
+       "title": {
+        "ru": "\"SUZUKI SUPER GEAR OIL 75W-85 SYNTHETIC\"",
+        "en": "\"SUZUKI SUPER GEAR OIL 75W-85 SYNTHETIC\""
+       },
+       "words": 469,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t014_73796e98",
+       "title": {
+        "ru": "If clutch dragging is felt with the pedal fully",
+        "en": "If clutch dragging is felt with the pedal fully"
+       },
+       "words": 406,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t015_125968cf",
+       "title": {
+        "ru": "Brake fluid absorbs water over time and",
+        "en": "Brake fluid absorbs water over time and"
+       },
+       "words": 245,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t016_dc7a109f",
+       "title": {
+        "ru": "If you experience any of the following",
+        "en": "If you experience any of the following"
+       },
+       "words": 248,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_jimny_brakes_t017_f03a4ee9",
+       "title": {
+        "ru": "Operate the jack on the level ground while checking the jack",
+        "en": "Operate the jack on the level ground while checking the jack"
+       },
+       "words": 230,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "suzuki_jimny_suspension_t000_966ca372",
+       "title": {
+        "ru": "When you have a temporarily repaired",
+        "en": "When you have a temporarily repaired"
+       },
+       "words": 552,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "suzuki_jimny_hvac_t000_56b34e5d",
+       "title": {
+        "ru": "When the inside of the vehicle is very",
+        "en": "When the inside of the vehicle is very"
+       },
+       "words": 457,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "suzuki_jimny_body_t000_6b1bf372",
+       "title": {
+        "ru": "The pretensioner is located in each front",
+        "en": "The pretensioner is located in each front"
+       },
+       "words": 355,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "suzuki_jimny_body_t001_9d3dfa04",
+       "title": {
+        "ru": "Scrapping a vehicle that has an uninflated",
+        "en": "Scrapping a vehicle that has an uninflated"
+       },
+       "words": 308,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "suzuki_jimny_body_t002_752a867a",
+       "title": {
+        "ru": "You can switch the function that unlocks all",
+        "en": "You can switch the function that unlocks all"
+       },
+       "words": 305,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "suzuki_jimny_body_t003_d880af76",
+       "title": {
+        "ru": "The theft deterrent alarm system is not",
+        "en": "The theft deterrent alarm system is not"
+       },
+       "words": 387,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "suzuki_jimny_body_t004_45c33d7d",
+       "title": {
+        "ru": "The switch to control the electric mirrors is",
+        "en": "The switch to control the electric mirrors is"
+       },
+       "words": 319,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "suzuki_jimny_body_t005_e079bd6f",
+       "title": {
+        "ru": "When front visibility is poor due to that",
+        "en": "When front visibility is poor due to that"
+       },
+       "words": 504,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "suzuki_jimny_body_t006_c59b2998",
+       "title": {
+        "ru": "The light remains off even when the door is",
+        "en": "The light remains off even when the door is"
+       },
+       "words": 269,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "suzuki_jimny_body_t007_c6b5bb2f",
+       "title": {
+        "ru": "This information illustrates the necessity of",
+        "en": "This information illustrates the necessity of"
+       },
+       "words": 410,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "suzuki_jimny_body_t008_a821be89",
+       "title": {
+        "ru": "Be careful not to spill fuel containing",
+        "en": "Be careful not to spill fuel containing"
+       },
+       "words": 163,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "suzuki_jimny_steering_t000_7d8bad66",
+       "title": {
+        "ru": "The lock lever is located under the steering",
+        "en": "The lock lever is located under the steering"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "suzuki_jimny_steering_t001_6028c415",
+       "title": {
+        "ru": "When you shift the transfer fever while",
+        "en": "When you shift the transfer fever while"
+       },
+       "words": 467,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "suzuki_jimny_steering_t002_090c705a",
+       "title": {
+        "ru": "Hydroplaning is the loss of direct contact",
+        "en": "Hydroplaning is the loss of direct contact"
+       },
+       "words": 416,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "suzuki_jimny_steering_t003_6c39fd89",
+       "title": {
+        "ru": "The steering column lock is not",
+        "en": "The steering column lock is not"
+       },
+       "words": 39,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "suzuki_jimny_lighting_t000_53936796",
+       "title": {
+        "ru": "It the light still blinks after the ignition",
+        "en": "It the light still blinks after the ignition"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t001_e8bff98b",
+       "title": {
+        "ru": "By ensuring the used battery is disposed",
+        "en": "By ensuring the used battery is disposed"
+       },
+       "words": 429,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t002_b76d90a9",
+       "title": {
+        "ru": "Your vehicle has a system to automatically",
+        "en": "Your vehicle has a system to automatically"
+       },
+       "words": 342,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t003_7a5af26e",
+       "title": {
+        "ru": "If you turn the ignition switch or start to",
+        "en": "If you turn the ignition switch or start to"
+       },
+       "words": 310,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t004_a40f0020",
+       "title": {
+        "ru": "When the low tyre pressure warning light is",
+        "en": "When the low tyre pressure warning light is"
+       },
+       "words": 377,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t005_3f57c788",
+       "title": {
+        "ru": "The low tyre pressure warning light is also",
+        "en": "The low tyre pressure warning light is also"
+       },
+       "words": 293,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t006_203a2aef",
+       "title": {
+        "ru": "The activation point of this light varies",
+        "en": "The activation point of this light varies"
+       },
+       "words": 449,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t007_b94bd46d",
+       "title": {
+        "ru": "This indicator light comes on while the",
+        "en": "This indicator light comes on while the"
+       },
+       "words": 323,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t008_2303561b",
+       "title": {
+        "ru": "Theft deterrent alarm system",
+        "en": "Theft deterrent alarm system"
+       },
+       "words": 352,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t009_c5a95551",
+       "title": {
+        "ru": "Avoid covering the light sensor area of",
+        "en": "Avoid covering the light sensor area of"
+       },
+       "words": 441,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t010_dbc77689",
+       "title": {
+        "ru": "Pull the lighting control lever toward you",
+        "en": "Pull the lighting control lever toward you"
+       },
+       "words": 428,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t011_1ff12ed2",
+       "title": {
+        "ru": "If you twist the knob to the mark of rear fog",
+        "en": "If you twist the knob to the mark of rear fog"
+       },
+       "words": 260,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t012_92e8e958",
+       "title": {
+        "ru": "Push the hazard warning switch to activate",
+        "en": "Push the hazard warning switch to activate"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t013_02f86947",
+       "title": {
+        "ru": "Check that your trailer is equipped with",
+        "en": "Check that your trailer is equipped with"
+       },
+       "words": 355,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t014_c24b09cf",
+       "title": {
+        "ru": "Description of transfer lever positions and indicator light",
+        "en": "Description of transfer lever positions and indicator light"
+       },
+       "words": 320,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t015_29b4d88e",
+       "title": {
+        "ru": "The vehicle speed falls more than about",
+        "en": "The vehicle speed falls more than about"
+       },
+       "words": 376,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t016_498063e2",
+       "title": {
+        "ru": "When the lights of the vehicle in front of",
+        "en": "When the lights of the vehicle in front of"
+       },
+       "words": 228,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t017_45bce376",
+       "title": {
+        "ru": "When there is a sight of similar tone and",
+        "en": "When there is a sight of similar tone and"
+       },
+       "words": 293,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t018_e5d0d65e",
+       "title": {
+        "ru": "When there is a traffic sign where light of",
+        "en": "When there is a traffic sign where light of"
+       },
+       "words": 549,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t019_c5578397",
+       "title": {
+        "ru": "If hill descent control indicator light comes",
+        "en": "If hill descent control indicator light comes"
+       },
+       "words": 509,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t020_e85e0ff8",
+       "title": {
+        "ru": "If the light turns on again shortly after",
+        "en": "If the light turns on again shortly after"
+       },
+       "words": 409,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t021_7e3c7e64",
+       "title": {
+        "ru": "The light will automatically be turned off to",
+        "en": "The light will automatically be turned off to"
+       },
+       "words": 334,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t022_816a1dd9",
+       "title": {
+        "ru": "This pocket is provided for holding light",
+        "en": "This pocket is provided for holding light"
+       },
+       "words": 305,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t023_77401a97",
+       "title": {
+        "ru": "Your vehicle uses the air conditioning",
+        "en": "Your vehicle uses the air conditioning"
+       },
+       "words": 463,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t024_0b7e3a22",
+       "title": {
+        "ru": "To avoid blowing cold air in cold weather",
+        "en": "To avoid blowing cold air in cold weather"
+       },
+       "words": 538,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t025_77aab96e",
+       "title": {
+        "ru": "The tracks in the current folder will be",
+        "en": "The tracks in the current folder will be"
+       },
+       "words": 108,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t026_f1b4a26a",
+       "title": {
+        "ru": "The tracks in the iPod will be played in",
+        "en": "The tracks in the iPod will be played in"
+       },
+       "words": 185,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t027_0bd7ba3d",
+       "title": {
+        "ru": "Failed to establish pairing or connection",
+        "en": "Failed to establish pairing or connection"
+       },
+       "words": 407,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t028_3a9f9a18",
+       "title": {
+        "ru": "To avoid the frozen damage to the",
+        "en": "To avoid the frozen damage to the"
+       },
+       "words": 225,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t029_a5c05e43",
+       "title": {
+        "ru": "You can see the position of retaining",
+        "en": "You can see the position of retaining"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t030_444a0a1c",
+       "title": {
+        "ru": "Use jump leads to start a vehicle with",
+        "en": "Use jump leads to start a vehicle with"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t031_9e10896e",
+       "title": {
+        "ru": "Remove dirt and mud from the body",
+        "en": "Remove dirt and mud from the body"
+       },
+       "words": 394,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_jimny_lighting_t032_9fbe1785",
+       "title": {
+        "ru": "Turn signal light",
+        "en": "Turn signal light"
+       },
+       "words": 137,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "suzuki_jimny_interior_t000_ea8f691d",
+       "title": {
+        "ru": "All seatbacks should always be in an",
+        "en": "All seatbacks should always be in an"
+       },
+       "words": 264,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t001_6d0fabf6",
+       "title": {
+        "ru": "It may be necessary to fold forward the",
+        "en": "It may be necessary to fold forward the"
+       },
+       "words": 289,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t002_940c4c23",
+       "title": {
+        "ru": "3) For the split seat, pull the release strap",
+        "en": "3) For the split seat, pull the release strap"
+       },
+       "words": 383,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t003_37c9ee84",
+       "title": {
+        "ru": "Cleaning may safely be carried out",
+        "en": "Cleaning may safely be carried out"
+       },
+       "words": 404,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t004_ec4d147f",
+       "title": {
+        "ru": "When the rear seatback is in the upright",
+        "en": "When the rear seatback is in the upright"
+       },
+       "words": 332,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t005_9d7ccf9b",
+       "title": {
+        "ru": "All child restraint systems are designed to",
+        "en": "All child restraint systems are designed to"
+       },
+       "words": 567,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t006_6e9594c6",
+       "title": {
+        "ru": "If you install a child restraint system",
+        "en": "If you install a child restraint system"
+       },
+       "words": 314,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t007_e96c1d58",
+       "title": {
+        "ru": "Key of letters to be inserted in the above table",
+        "en": "Key of letters to be inserted in the above table"
+       },
+       "words": 187,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t008_0e54499f",
+       "title": {
+        "ru": "Key of letters to be inserted in the above table",
+        "en": "Key of letters to be inserted in the above table"
+       },
+       "words": 288,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t009_54a0bb70",
+       "title": {
+        "ru": "Key of letters to be inserted in the above table",
+        "en": "Key of letters to be inserted in the above table"
+       },
+       "words": 327,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t010_e7e5a906",
+       "title": {
+        "ru": "If AIRBAG light on the instrument cluster",
+        "en": "If AIRBAG light on the instrument cluster"
+       },
+       "words": 743,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t011_a393abce",
+       "title": {
+        "ru": "Front airbags are not designed to infiate in",
+        "en": "Front airbags are not designed to infiate in"
+       },
+       "words": 326,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t012_83751be2",
+       "title": {
+        "ru": "Side curtain airbags are located in the roof",
+        "en": "Side curtain airbags are located in the roof"
+       },
+       "words": 357,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t013_226e14d9",
+       "title": {
+        "ru": "Airbags must infiate quickly and forcefully",
+        "en": "Airbags must infiate quickly and forcefully"
+       },
+       "words": 580,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t014_d7da1791",
+       "title": {
+        "ru": "If your vehicle ever gets in deep water and",
+        "en": "If your vehicle ever gets in deep water and"
+       },
+       "words": 476,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t015_3418e488",
+       "title": {
+        "ru": "3) Turn the ignition switch to \"ON\" posi-",
+        "en": "3) Turn the ignition switch to \"ON\" posi-"
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t016_da057d48",
+       "title": {
+        "ru": "The light will come on and stay on if there",
+        "en": "The light will come on and stay on if there"
+       },
+       "words": 238,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t017_24e10e06",
+       "title": {
+        "ru": "The interior buzzer will intermittently beep",
+        "en": "The interior buzzer will intermittently beep"
+       },
+       "words": 253,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t018_dce85d87",
+       "title": {
+        "ru": "The driver and all passengers should be",
+        "en": "The driver and all passengers should be"
+       },
+       "words": 422,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t019_7ca10593",
+       "title": {
+        "ru": "When cleaning the interior or exterior",
+        "en": "When cleaning the interior or exterior"
+       },
+       "words": 350,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t020_703ff64d",
+       "title": {
+        "ru": "NEVER use a rearward facing child",
+        "en": "NEVER use a rearward facing child"
+       },
+       "words": 325,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "suzuki_jimny_interior_t021_ecc5c3ad",
+       "title": {
+        "ru": "INDEX",
+        "en": "INDEX"
+       },
+       "words": 7,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "suzuki_jimny_ev_t000_15a63cc8",
+       "title": {
+        "ru": "If you cannot unlock the tailgate by using",
+        "en": "If you cannot unlock the tailgate by using"
+       },
+       "words": 231,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "suzuki_jimny_ev_t001_78b310a3",
+       "title": {
+        "ru": "When you reset the indication or reconnect",
+        "en": "When you reset the indication or reconnect"
+       },
+       "words": 322,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "suzuki_jimny_ev_t002_eb7f4b6b",
+       "title": {
+        "ru": "The light will automatically be turned off to",
+        "en": "The light will automatically be turned off to"
+       },
+       "words": 480,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "suzuki_jimny_ev_t003_5a58988e",
+       "title": {
+        "ru": "If your vehicle is not going to be driven for",
+        "en": "If your vehicle is not going to be driven for"
+       },
+       "words": 283,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "suzuki_jimny_ev_t004_6386cab8",
+       "title": {
+        "ru": "Never connect the jump lead directly",
+        "en": "Never connect the jump lead directly"
+       },
+       "words": 144,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "suzuki_jimny_general_t000_bf8c628b",
+       "title": {
+        "ru": "All information in this manual is based",
+        "en": "All information in this manual is based"
+       },
+       "words": 352,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t001_b31af14e",
+       "title": {
+        "ru": "Research and further vehicle developments",
+        "en": "Research and further vehicle developments"
+       },
+       "words": 1061,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t002_55634e88",
+       "title": {
+        "ru": "When you replace the floor mats in your",
+        "en": "When you replace the floor mats in your"
+       },
+       "words": 208,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t003_018248af",
+       "title": {
+        "ru": "Adjust the head restraint to the position",
+        "en": "Adjust the head restraint to the position"
+       },
+       "words": 325,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t004_8573d3a3",
+       "title": {
+        "ru": "SUZUKI highly recommends that you use",
+        "en": "SUZUKI highly recommends that you use"
+       },
+       "words": 256,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t005_8b083357",
+       "title": {
+        "ru": "For the Installation suitability of child",
+        "en": "For the Installation suitability of child"
+       },
+       "words": 265,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t006_faac8463",
+       "title": {
+        "ru": "F2X, F2, F3",
+        "en": "F2X, F2, F3"
+       },
+       "words": 133,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t007_d637349d",
+       "title": {
+        "ru": "The following mark is shown on the child",
+        "en": "The following mark is shown on the child"
+       },
+       "words": 245,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t008_c415076c",
+       "title": {
+        "ru": "Your vehicle is equipped with the top tether",
+        "en": "Your vehicle is equipped with the top tether"
+       },
+       "words": 331,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t009_da57cb5a",
+       "title": {
+        "ru": "The number of the top tether anchorage",
+        "en": "The number of the top tether anchorage"
+       },
+       "words": 244,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t010_a629918e",
+       "title": {
+        "ru": "Collision with a fixed wall or guardrail at",
+        "en": "Collision with a fixed wall or guardrail at"
+       },
+       "words": 226,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t011_ab88ede6",
+       "title": {
+        "ru": "You can unlock the tailgate from inside by",
+        "en": "You can unlock the tailgate from inside by"
+       },
+       "words": 358,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t012_dd7eab47",
+       "title": {
+        "ru": "SUZUKI dealer as soon as possible for a",
+        "en": "SUZUKI dealer as soon as possible for a"
+       },
+       "words": 179,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t013_332a8961",
+       "title": {
+        "ru": "These features allow the driver to open or",
+        "en": "These features allow the driver to open or"
+       },
+       "words": 321,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t014_c2ec1a1d",
+       "title": {
+        "ru": "Even if you cannot close the window by the",
+        "en": "Even if you cannot close the window by the"
+       },
+       "words": 255,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t015_980d04f1",
+       "title": {
+        "ru": "If your vehicle is equipped with the heated",
+        "en": "If your vehicle is equipped with the heated"
+       },
+       "words": 189,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t016_33ce2844",
+       "title": {
+        "ru": "The indicated maximum value of the trip",
+        "en": "The indicated maximum value of the trip"
+       },
+       "words": 282,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t017_26ddb213",
+       "title": {
+        "ru": "Increased wear or damage to certain",
+        "en": "Increased wear or damage to certain"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t018_1ade15e2",
+       "title": {
+        "ru": "Default setting for time indication of clock",
+        "en": "Default setting for time indication of clock"
+       },
+       "words": 229,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t019_fa4612db",
+       "title": {
+        "ru": "You can select the timing to reset the value",
+        "en": "You can select the timing to reset the value"
+       },
+       "words": 222,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t020_685fc69e",
+       "title": {
+        "ru": "To select the setting that you want to",
+        "en": "To select the setting that you want to"
+       },
+       "words": 300,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t021_4365b96f",
+       "title": {
+        "ru": "This sequence will be repeated after the",
+        "en": "This sequence will be repeated after the"
+       },
+       "words": 136,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t022_e9ec1917",
+       "title": {
+        "ru": "This function will operate only when it is",
+        "en": "This function will operate only when it is"
+       },
+       "words": 225,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t023_0b91f9bf",
+       "title": {
+        "ru": "The turn signal and its indicator fiash",
+        "en": "The turn signal and its indicator fiash"
+       },
+       "words": 254,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t024_c791c48b",
+       "title": {
+        "ru": "Your vehicle is designed for specific weight",
+        "en": "Your vehicle is designed for specific weight"
+       },
+       "words": 344,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t025_ed520bcd",
+       "title": {
+        "ru": "Actual weight of the loaded vehicle and",
+        "en": "Actual weight of the loaded vehicle and"
+       },
+       "words": 365,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t026_e7253b8e",
+       "title": {
+        "ru": "Distribute cargo in your trailer so that the",
+        "en": "Distribute cargo in your trailer so that the"
+       },
+       "words": 312,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t027_f0747794",
+       "title": {
+        "ru": "The additional load will affect fuel",
+        "en": "The additional load will affect fuel"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t028_f6e0d266",
+       "title": {
+        "ru": "You should also be aware that the diluting",
+        "en": "You should also be aware that the diluting"
+       },
+       "words": 234,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t029_cb243feb",
+       "title": {
+        "ru": "Use this position to reverse the vehicle",
+        "en": "Use this position to reverse the vehicle"
+       },
+       "words": 216,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t030_8c54c949",
+       "title": {
+        "ru": "The gearshift lever has a lock mechanism",
+        "en": "The gearshift lever has a lock mechanism"
+       },
+       "words": 416,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t031_496840b5",
+       "title": {
+        "ru": "When the front tyres receive a big shock",
+        "en": "When the front tyres receive a big shock"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t032_95a6acfe",
+       "title": {
+        "ru": "Operate the transfer lever according to the",
+        "en": "Operate the transfer lever according to the"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t033_81b05d1b",
+       "title": {
+        "ru": "There may be a case that it is difficult to",
+        "en": "There may be a case that it is difficult to"
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t034_9b74337b",
+       "title": {
+        "ru": "If the current vehicle speed exceeds the",
+        "en": "If the current vehicle speed exceeds the"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t035_fde34c14",
+       "title": {
+        "ru": "Front visibility is poor due to that there is",
+        "en": "Front visibility is poor due to that there is"
+       },
+       "words": 197,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t036_c98248e2",
+       "title": {
+        "ru": "When there is a liner paint on the road of",
+        "en": "When there is a liner paint on the road of"
+       },
+       "words": 225,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t037_0d0eef41",
+       "title": {
+        "ru": "Under the all of the following conditions",
+        "en": "Under the all of the following conditions"
+       },
+       "words": 266,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t038_7d1b7e4e",
+       "title": {
+        "ru": "This system may not work properly outside",
+        "en": "This system may not work properly outside"
+       },
+       "words": 207,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t039_8d27f260",
+       "title": {
+        "ru": "The detection of traffic sign may be done",
+        "en": "The detection of traffic sign may be done"
+       },
+       "words": 162,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t040_b3e2caef",
+       "title": {
+        "ru": "Complies with FDA performance standards for laser products",
+        "en": "Complies with FDA performance standards for laser products"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t041_7e9b67ab",
+       "title": {
+        "ru": "When the car is no longer rapidly decelerating",
+        "en": "When the car is no longer rapidly decelerating"
+       },
+       "words": 365,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t042_90112031",
+       "title": {
+        "ru": "If the hill descent control indicator blinks",
+        "en": "If the hill descent control indicator blinks"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t043_d62e4f6e",
+       "title": {
+        "ru": "How to turn off Hill hold control system",
+        "en": "How to turn off Hill hold control system"
+       },
+       "words": 204,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t044_1e1550e0",
+       "title": {
+        "ru": "Your vehicle has also been equipped with",
+        "en": "Your vehicle has also been equipped with"
+       },
+       "words": 306,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t045_3dd07f6b",
+       "title": {
+        "ru": "If you got a fiat tyre and replaced it with the",
+        "en": "If you got a fiat tyre and replaced it with the"
+       },
+       "words": 159,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t046_bf72e0a8",
+       "title": {
+        "ru": "Additional guidelines are set out below for",
+        "en": "Additional guidelines are set out below for"
+       },
+       "words": 581,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t047_d8299d95",
+       "title": {
+        "ru": "Always inspect hills before you attempt to",
+        "en": "Always inspect hills before you attempt to"
+       },
+       "words": 309,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t048_7853a578",
+       "title": {
+        "ru": "Driving in deep or rushing water can be",
+        "en": "Driving in deep or rushing water can be"
+       },
+       "words": 224,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t049_e2ac5623",
+       "title": {
+        "ru": "Automatic heating and air conditioning system",
+        "en": "Automatic heating and air conditioning system"
+       },
+       "words": 237,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t050_2225fa9e",
+       "title": {
+        "ru": "Check that the hood is fully closed",
+        "en": "Check that the hood is fully closed"
+       },
+       "words": 220,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t051_10645b24",
+       "title": {
+        "ru": "The accessory socket will work when the",
+        "en": "The accessory socket will work when the"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t052_349a8f8c",
+       "title": {
+        "ru": "If your vehicle needs to be towed in an",
+        "en": "If your vehicle needs to be towed in an"
+       },
+       "words": 286,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t053_f524815d",
+       "title": {
+        "ru": "This selector is used to select the following",
+        "en": "This selector is used to select the following"
+       },
+       "words": 273,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t054_85c24597",
+       "title": {
+        "ru": "If your air conditioner is equipped with air",
+        "en": "If your air conditioner is equipped with air"
+       },
+       "words": 281,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t055_018d072d",
+       "title": {
+        "ru": "Automatic heating and air conditioning system",
+        "en": "Automatic heating and air conditioning system"
+       },
+       "words": 207,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t056_039459c3",
+       "title": {
+        "ru": "If your air conditioner is equipped with air",
+        "en": "If your air conditioner is equipped with air"
+       },
+       "words": 358,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t057_cc5abbb4",
+       "title": {
+        "ru": "Never stick labels on the surface of the",
+        "en": "Never stick labels on the surface of the"
+       },
+       "words": 297,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t058_0a92a92e",
+       "title": {
+        "ru": "Do not use compact discs that have large",
+        "en": "Do not use compact discs that have large"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t059_6fb49a53",
+       "title": {
+        "ru": "Information on disposal in other countries outside the European Union",
+        "en": "Information on disposal in other countries outside the European Union"
+       },
+       "words": 227,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t060_232142dc",
+       "title": {
+        "ru": "Selecting the reception band",
+        "en": "Selecting the reception band"
+       },
+       "words": 291,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t061_d462d18a",
+       "title": {
+        "ru": "2) Hold down a desired button ([1] to [6])",
+        "en": "2) Hold down a desired button ([1] to [6])"
+       },
+       "words": 340,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t062_c77294b1",
+       "title": {
+        "ru": "If no TP station can be received while the",
+        "en": "If no TP station can be received while the"
+       },
+       "words": 341,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t063_728b52c4",
+       "title": {
+        "ru": "A CD is to be inserted with its label side",
+        "en": "A CD is to be inserted with its label side"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t064_177a62dc",
+       "title": {
+        "ru": "All tracks in the currently selected folder",
+        "en": "All tracks in the currently selected folder"
+       },
+       "words": 274,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t065_1a192fa4",
+       "title": {
+        "ru": "Listening to files stored in a USB device",
+        "en": "Listening to files stored in a USB device"
+       },
+       "words": 383,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t066_cd2e3d12",
+       "title": {
+        "ru": "We cannot accept responsibility for any",
+        "en": "We cannot accept responsibility for any"
+       },
+       "words": 320,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t067_5d8b0d26",
+       "title": {
+        "ru": "The albums in the iPod will be played in",
+        "en": "The albums in the iPod will be played in"
+       },
+       "words": 354,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t068_ae347645",
+       "title": {
+        "ru": "Adjusting the listening volume",
+        "en": "Adjusting the listening volume"
+       },
+       "words": 248,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t069_63cae92b",
+       "title": {
+        "ru": "4) Turn \"TUNE/FLD PUSH SOUND\" knob",
+        "en": "4) Turn \"TUNE/FLD PUSH SOUND\" knob"
+       },
+       "words": 175,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t070_1056dfe7",
+       "title": {
+        "ru": "You can select whether or not the device",
+        "en": "You can select whether or not the device"
+       },
+       "words": 145,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t071_4a78830e",
+       "title": {
+        "ru": "Follow the instructions below to assign a",
+        "en": "Follow the instructions below to assign a"
+       },
+       "words": 189,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t072_4f009339",
+       "title": {
+        "ru": "3) Turn \"TUNE/FLD PUSH SOUND\" knob",
+        "en": "3) Turn \"TUNE/FLD PUSH SOUND\" knob"
+       },
+       "words": 144,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t073_2989709e",
+       "title": {
+        "ru": "When not entering up to the eighth",
+        "en": "When not entering up to the eighth"
+       },
+       "words": 153,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t074_cca4ac65",
+       "title": {
+        "ru": "5) Turn \"TUNE/FLO PUSH SOUND\" knob",
+        "en": "5) Turn \"TUNE/FLO PUSH SOUND\" knob"
+       },
+       "words": 249,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t075_5a92fb9a",
+       "title": {
+        "ru": "Take a note of the registered PIN and keep",
+        "en": "Take a note of the registered PIN and keep"
+       },
+       "words": 177,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t076_ec60e5be",
+       "title": {
+        "ru": "There rnay be no station emitting signals",
+        "en": "There rnay be no station emitting signals"
+       },
+       "words": 142,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t077_e2f7aa9a",
+       "title": {
+        "ru": "Switch off the wireless device or keep it",
+        "en": "Switch off the wireless device or keep it"
+       },
+       "words": 159,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t078_bdbfb59b",
+       "title": {
+        "ru": "Maintenance recommended under severe driving",
+        "en": "Maintenance recommended under severe driving"
+       },
+       "words": 224,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t079_1dc58441",
+       "title": {
+        "ru": "INSPECTION AND MAINTENANCE",
+        "en": "INSPECTION AND MAINTENANCE"
+       },
+       "words": 153,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t080_08ae5ee8",
+       "title": {
+        "ru": "INSPECTION AND MAINTENANCE",
+        "en": "INSPECTION AND MAINTENANCE"
+       },
+       "words": 146,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t081_21ba4b2c",
+       "title": {
+        "ru": "INSPECTION AND MAINTENANCE",
+        "en": "INSPECTION AND MAINTENANCE"
+       },
+       "words": 164,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t082_3cee600b",
+       "title": {
+        "ru": "INSPECTION AND MAINTENANCE",
+        "en": "INSPECTION AND MAINTENANCE"
+       },
+       "words": 285,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t083_d36896fe",
+       "title": {
+        "ru": "INSPECTION AND MAINTENANCE",
+        "en": "INSPECTION AND MAINTENANCE"
+       },
+       "words": 181,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t084_d7ea34eb",
+       "title": {
+        "ru": "INSPECTION AND MAINTENANCE",
+        "en": "INSPECTION AND MAINTENANCE"
+       },
+       "words": 350,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t085_d6a7d265",
+       "title": {
+        "ru": "INSPECTION AND MAINTENANCE",
+        "en": "INSPECTION AND MAINTENANCE"
+       },
+       "words": 212,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t086_9408b587",
+       "title": {
+        "ru": "INSPECTION AND MAINTENANCE",
+        "en": "INSPECTION AND MAINTENANCE"
+       },
+       "words": 163,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t087_e65ff061",
+       "title": {
+        "ru": "INSPECTION AND MAINTENANCE",
+        "en": "INSPECTION AND MAINTENANCE"
+       },
+       "words": 292,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t088_55ab430f",
+       "title": {
+        "ru": "INSPECTION AND MAINTENANCE",
+        "en": "INSPECTION AND MAINTENANCE"
+       },
+       "words": 197,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t089_03a8f33b",
+       "title": {
+        "ru": "The belts should also be examined to",
+        "en": "The belts should also be examined to"
+       },
+       "words": 320,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t090_45e54a46",
+       "title": {
+        "ru": "The oil on the stick should be between the",
+        "en": "The oil on the stick should be between the"
+       },
+       "words": 179,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t091_87b33274",
+       "title": {
+        "ru": "SUZUKI highly recommends the use of",
+        "en": "SUZUKI highly recommends the use of"
+       },
+       "words": 275,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t092_17a1e51a",
+       "title": {
+        "ru": "1) Disconnect the coupler (1) while push-",
+        "en": "1) Disconnect the coupler (1) while push-"
+       },
+       "words": 208,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t093_d737b5ed",
+       "title": {
+        "ru": "3) If gear oil fiows from the plug hole, the",
+        "en": "3) If gear oil fiows from the plug hole, the"
+       },
+       "words": 265,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t094_d71e4d7a",
+       "title": {
+        "ru": "Even if the tyre pressure seems to be good",
+        "en": "Even if the tyre pressure seems to be good"
+       },
+       "words": 248,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t095_6f158fdc",
+       "title": {
+        "ru": "Hitting curbs and running over rocks",
+        "en": "Hitting curbs and running over rocks"
+       },
+       "words": 301,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t096_e9301812",
+       "title": {
+        "ru": "7) Lower the jack and fully tighten the nuts",
+        "en": "7) Lower the jack and fully tighten the nuts"
+       },
+       "words": 194,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t097_5d41b468",
+       "title": {
+        "ru": "Check that the fuse box always carries",
+        "en": "Check that the fuse box always carries"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t098_c57aa77c",
+       "title": {
+        "ru": "Frequent bulb replacement indicates",
+        "en": "Frequent bulb replacement indicates"
+       },
+       "words": 178,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t099_20cdb725",
+       "title": {
+        "ru": "Some wiper blades may be different from",
+        "en": "Some wiper blades may be different from"
+       },
+       "words": 157,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t100_aa776b16",
+       "title": {
+        "ru": "Return the rear wiper arm slowly after",
+        "en": "Return the rear wiper arm slowly after"
+       },
+       "words": 214,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t101_57e19d1a",
+       "title": {
+        "ru": "Do not use radiator antifreeze in the",
+        "en": "Do not use radiator antifreeze in the"
+       },
+       "words": 155,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t102_1c39a162",
+       "title": {
+        "ru": "The tyre changing tools are stowed in the",
+        "en": "The tyre changing tools are stowed in the"
+       },
+       "words": 291,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t103_cc9828e3",
+       "title": {
+        "ru": "Your vehicle may also be towed by a tow",
+        "en": "Your vehicle may also be towed by a tow"
+       },
+       "words": 291,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t104_88c500b2",
+       "title": {
+        "ru": "Is equally important to repair any damage",
+        "en": "Is equally important to repair any damage"
+       },
+       "words": 188,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t105_2604e03b",
+       "title": {
+        "ru": "The use of mud and gravel shields will help",
+        "en": "The use of mud and gravel shields will help"
+       },
+       "words": 443,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t106_2fb08e41",
+       "title": {
+        "ru": "Remove dirt and soil as much as possible",
+        "en": "Remove dirt and soil as much as possible"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t107_cb1cff81",
+       "title": {
+        "ru": "Should you find the number difficult to",
+        "en": "Should you find the number difficult to"
+       },
+       "words": 207,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t108_a6f542ec",
+       "title": {
+        "ru": "Gasoline containing MTBE",
+        "en": "Gasoline containing MTBE"
+       },
+       "words": 142,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t109_d2d2baf8",
+       "title": {
+        "ru": "Installation of child restraint with",
+        "en": "Installation of child restraint with"
+       },
+       "words": 201,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t110_2471dd18",
+       "title": {
+        "ru": "Maintenance recommended under severe",
+        "en": "Maintenance recommended under severe"
+       },
+       "words": 203,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t111_59fd9508",
+       "title": {
+        "ru": "This symbol Indicates you never get under the",
+        "en": "This symbol Indicates you never get under the"
+       },
+       "words": 318,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_jimny_general_t112_c99e5b48",
+       "title": {
+        "ru": "SERVICE STATION INFORMATION",
+        "en": "SERVICE STATION INFORMATION"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "suzuki_jimny_infotainment_t000_6d838234",
+       "title": {
+        "ru": "The outside temperature indication is not",
+        "en": "The outside temperature indication is not"
+       },
+       "words": 263,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t001_b09711eb",
+       "title": {
+        "ru": "If you selected driving range the last time",
+        "en": "If you selected driving range the last time"
+       },
+       "words": 301,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t002_bc67ac98",
+       "title": {
+        "ru": "The information display is shown when the",
+        "en": "The information display is shown when the"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t003_9236ff70",
+       "title": {
+        "ru": "The outside temperature indication is not",
+        "en": "The outside temperature indication is not"
+       },
+       "words": 347,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t004_3f9c8d22",
+       "title": {
+        "ru": "If you selected average speed the last time",
+        "en": "If you selected average speed the last time"
+       },
+       "words": 339,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t005_73362d48",
+       "title": {
+        "ru": "The turn signal and its indicator can be set",
+        "en": "The turn signal and its indicator can be set"
+       },
+       "words": 334,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t006_05928cb7",
+       "title": {
+        "ru": "The traffic sign may be shown with delay",
+        "en": "The traffic sign may be shown with delay"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t007_d101204d",
+       "title": {
+        "ru": "You cannot activate the hill descent control",
+        "en": "You cannot activate the hill descent control"
+       },
+       "words": 403,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t008_784bad03",
+       "title": {
+        "ru": "Installation of radio frequency transmitters",
+        "en": "Installation of radio frequency transmitters"
+       },
+       "words": 320,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t009_0b2ac5e9",
+       "title": {
+        "ru": "To find the temperature at which you are",
+        "en": "To find the temperature at which you are"
+       },
+       "words": 359,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t010_6b74d397",
+       "title": {
+        "ru": "The unit stops searching for a station at a",
+        "en": "The unit stops searching for a station at a"
+       },
+       "words": 346,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t011_d272f763",
+       "title": {
+        "ru": "The track currently being played will be",
+        "en": "The track currently being played will be"
+       },
+       "words": 253,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t012_7624adc3",
+       "title": {
+        "ru": "You may encounter a trouble in playing",
+        "en": "You may encounter a trouble in playing"
+       },
+       "words": 649,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t013_c9ed545e",
+       "title": {
+        "ru": "The track currently being played will be",
+        "en": "The track currently being played will be"
+       },
+       "words": 338,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t014_53a92683",
+       "title": {
+        "ru": "Follow the instructions below to adjust the",
+        "en": "Follow the instructions below to adjust the"
+       },
+       "words": 197,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t015_b2917f5c",
+       "title": {
+        "ru": "Follow the instructions below to delete a",
+        "en": "Follow the instructions below to delete a"
+       },
+       "words": 256,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t016_a285d46a",
+       "title": {
+        "ru": "Follow the instructions below to delete the",
+        "en": "Follow the instructions below to delete the"
+       },
+       "words": 280,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t017_36423281",
+       "title": {
+        "ru": "Follow the instructions below to display the",
+        "en": "Follow the instructions below to display the"
+       },
+       "words": 215,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t018_99637051",
+       "title": {
+        "ru": "Refer to the manual of the audio player",
+        "en": "Refer to the manual of the audio player"
+       },
+       "words": 271,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t019_3398fdaa",
+       "title": {
+        "ru": "Follow the instructions below to display the",
+        "en": "Follow the instructions below to display the"
+       },
+       "words": 217,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t020_0e3b00a0",
+       "title": {
+        "ru": "It is possible to turn on the audio system",
+        "en": "It is possible to turn on the audio system"
+       },
+       "words": 411,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "suzuki_jimny_infotainment_t021_f12c81fb",
+       "title": {
+        "ru": "The distance between this unit and the",
+        "en": "The distance between this unit and the"
+       },
+       "words": 136,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "suzuki_jimny_drivetrain_t000_97aa518a",
+       "title": {
+        "ru": "When the ignition switch is turned to the",
+        "en": "When the ignition switch is turned to the"
+       },
+       "words": 661,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "suzuki_jimny_drivetrain_t001_0069f449",
+       "title": {
+        "ru": "Tightening torque for oil filler and level",
+        "en": "Tightening torque for oil filler and level"
+       },
+       "words": 373,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "suzuki_jimny_drivetrain_t002_fe6d7f3d",
+       "title": {
+        "ru": "A safety chain should always be used",
+        "en": "A safety chain should always be used"
+       },
+       "words": 167,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "suzuki_jimny_sensors_t000_bb1c242a",
+       "title": {
+        "ru": "If the dual sensor cannot detect partition",
+        "en": "If the dual sensor cannot detect partition"
+       },
+       "words": 426,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "suzuki_jimny_sensors_t001_20e97947",
+       "title": {
+        "ru": "When the visibility of the dual sensor is",
+        "en": "When the visibility of the dual sensor is"
+       },
+       "words": 339,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "suzuki_jimny_sensors_t002_b6749b8a",
+       "title": {
+        "ru": "When the following types of partition lines",
+        "en": "When the following types of partition lines"
+       },
+       "words": 456,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

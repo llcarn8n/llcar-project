@@ -1,0 +1,4805 @@
+{
+ "version": "1.0",
+ "model": "forester",
+ "manuals": [
+  {
+   "model": "forester",
+   "label": {
+    "ru": "Subaru Forester — Руководство по ремонту",
+    "en": "Subaru Forester — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "subaru_forester_engine_t000_5e44678f",
+       "title": {
+        "ru": "ENGINE (DIAGNOSTICS) EN4O(diag)",
+        "en": "ENGINE (DIAGNOSTICS) EN4O(diag)"
+       },
+       "words": 517,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_forester_engine_t001_0c2b6640",
+       "title": {
+        "ru": "ENGINE (DIAGNOSTICS) ENADO(diag)",
+        "en": "ENGINE (DIAGNOSTICS) ENADO(diag)"
+       },
+       "words": 925,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "subaru_forester_engine_t002_1c61e442",
+       "title": {
+        "ru": "• Catalyst damage misfire (Misfire occurrence level damaging catalyst)",
+        "en": "• Catalyst damage misfire (Misfire occurrence level damaging catalyst)"
+       },
+       "words": 295,
+       "images": 6,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "subaru_forester_brakes_t000_23e5b3c6",
+       "title": {
+        "ru": "S:  DTC PO108 MANIFOLD ABSOLUTE PRESSURE/BAROMETRIC PRESSURE CIRCUIT HIGH INPUT",
+        "en": "S:  DTC PO108 MANIFOLD ABSOLUTE PRESSURE/BAROMETRIC PRESSURE CIRCUIT HIGH INPUT"
+       },
+       "words": 683,
+       "images": 17,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_forester_brakes_t001_06179bff",
+       "title": {
+        "ru": "Manifold Absolute Pressure and Intake Air Temperature Sensor FUEL INJECTION (FUE",
+        "en": "Manifold Absolute Pressure and Intake Air Temperature Sensor FUEL INJECTION (FUE"
+       },
+       "words": 504,
+       "images": 10,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_forester_brakes_t002_bc2a839e",
+       "title": {
+        "ru": "AF:DTC PO108 MANIFOLD ABSOLUTE PRESSURE/BAROMETRIC PRESSURE CIRCUIT HIGH INPUT",
+        "en": "AF:DTC PO108 MANIFOLD ABSOLUTE PRESSURE/BAROMETRIC PRESSURE CIRCUIT HIGH INPUT"
+       },
+       "words": 286,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_forester_brakes_t003_813e56c2",
+       "title": {
+        "ru": "1. CHECKING THE HYDRAULIC UNIT ABS OPERATION BY PRESSURE GAUGE",
+        "en": "1. CHECKING THE HYDRAULIC UNIT ABS OPERATION BY PRESSURE GAUGE"
+       },
+       "words": 542,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_forester_brakes_t004_dac2c255",
+       "title": {
+        "ru": "/DC Control Module and Hydraulic Control Unit (VDCCM&H/U) VEHICLE DYNAMICS CONTR",
+        "en": "/DC Control Module and Hydraulic Control Unit (VDCCM&H/U) VEHICLE DYNAMICS CONTR"
+       },
+       "words": 900,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_forester_brakes_t005_c6e0ea30",
+       "title": {
+        "ru": "B:  EBD WARNING LIGHT, ABS WARNING, VDC OFF INDICATOR LIGHT, VDCWARNING LIGHT AN",
+        "en": "B:  EBD WARNING LIGHT, ABS WARNING, VDC OFF INDICATOR LIGHT, VDCWARNING LIGHT AN"
+       },
+       "words": 664,
+       "images": 10,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_forester_brakes_t006_241ed172",
+       "title": {
+        "ru": "H: DTC C1242 RL WHEEL SPEED SENSOR SYSTEM",
+        "en": "H: DTC C1242 RL WHEEL SPEED SENSOR SYSTEM"
+       },
+       "words": 395,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_forester_brakes_t007_c13ec46c",
+       "title": {
+        "ru": "AR:DTC C1711 STEERING ANGLE SENSOR ABNORMAL",
+        "en": "AR:DTC C1711 STEERING ANGLE SENSOR ABNORMAL"
+       },
+       "words": 461,
+       "images": 10,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_forester_brakes_t008_75bc3f1e",
+       "title": {
+        "ru": "E: DTC UO416 INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE",
+        "en": "E: DTC UO416 INVALID DATA RECEIVED FROM VEHICLE DYNAMICS CONTROL MODULE"
+       },
+       "words": 563,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "subaru_forester_brakes_t009_46b77173",
+       "title": {
+        "ru": "DTC DETECTING CONDITION:",
+        "en": "DTC DETECTING CONDITION:"
+       },
+       "words": 179,
+       "images": 1,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "subaru_forester_suspension_t000_b3ae9e6d",
+       "title": {
+        "ru": "Front Strut",
+        "en": "Front Strut"
+       },
+       "words": 99,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "subaru_forester_electrical_t000_e59d4e02",
+       "title": {
+        "ru": "WIRING SYSTEM",
+        "en": "WIRING SYSTEM"
+       },
+       "words": 530,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "subaru_forester_body_t000_3eb3ec52",
+       "title": {
+        "ru": "SUNROOF/T-TOP/CONVERTIBLE TOP(SUNROOF)",
+        "en": "SUNROOF/T-TOP/CONVERTIBLE TOP(SUNROOF)"
+       },
+       "words": 809,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "subaru_forester_body_t001_0c3e357f",
+       "title": {
+        "ru": "BODY CONTROL SYSTEM (DIAGNOSTICS)BCdiag)",
+        "en": "BODY CONTROL SYSTEM (DIAGNOSTICS)BCdiag)"
+       },
+       "words": 90,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "subaru_forester_steering_t000_f471e171",
+       "title": {
+        "ru": "POWER ASSISTED SYSTEM (POWER STEERING) (DIAGNOSTICS) PS(diag)",
+        "en": "POWER ASSISTED SYSTEM (POWER STEERING) (DIAGNOSTICS) PS(diag)"
+       },
+       "words": 121,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "subaru_forester_lighting_t000_6cc3ecb7",
+       "title": {
+        "ru": "2. Removal and installation operation of hoses, etc. during the inspection",
+        "en": "2. Removal and installation operation of hoses, etc. during the inspection"
+       },
+       "words": 678,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t001_ed45c036",
+       "title": {
+        "ru": "1. IDENTIFICATION NUMBER AND LABEL LOCATIONS",
+        "en": "1. IDENTIFICATION NUMBER AND LABEL LOCATIONS"
+       },
+       "words": 581,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t002_f935d452",
+       "title": {
+        "ru": "4.  LOCK/UNLOCK AND OPEN/CLOSE OPERATION CHECKS OF DOORS",
+        "en": "4.  LOCK/UNLOCK AND OPEN/CLOSE OPERATION CHECKS OF DOORS"
+       },
+       "words": 827,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t003_ab4c3760",
+       "title": {
+        "ru": "4.  CRANKSHAFT POSITION, CAMSHAFT POSITION AND KNOCK SENSORS",
+        "en": "4.  CRANKSHAFT POSITION, CAMSHAFT POSITION AND KNOCK SENSORS"
+       },
+       "words": 1123,
+       "images": 41,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t004_00c963ef",
+       "title": {
+        "ru": "Tightening torque: 6.4 N.m (0.7 kgf-m, 4.7 ft-lb)",
+        "en": "Tightening torque: 6.4 N.m (0.7 kgf-m, 4.7 ft-lb)"
+       },
+       "words": 662,
+       "images": 38,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t005_898a90b0",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 849,
+       "images": 38,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t006_580c6aab",
+       "title": {
+        "ru": "35.Fuel System Trouble in General A: INSPECTION",
+        "en": "35.Fuel System Trouble in General A: INSPECTION"
+       },
+       "words": 1327,
+       "images": 54,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t007_0a1d4479",
+       "title": {
+        "ru": "General Description A: SPECIFICATION",
+        "en": "General Description A: SPECIFICATION"
+       },
+       "words": 1154,
+       "images": 48,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t008_055e4aef",
+       "title": {
+        "ru": "ST1 42075AG690 FUEL HOSE ST2 18471AA000 FUEL PIPE ADAPTER",
+        "en": "ST1 42075AG690 FUEL HOSE ST2 18471AA000 FUEL PIPE ADAPTER"
+       },
+       "words": 1400,
+       "images": 60,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t009_7a1373da",
+       "title": {
+        "ru": "ST1 18355AA000 PULLEY WRENCH ST2 18334AA000 PULLEY WRENCH PIN SET",
+        "en": "ST1 18355AA000 PULLEY WRENCH ST2 18334AA000 PULLEY WRENCH PIN SET"
+       },
+       "words": 1525,
+       "images": 36,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t010_aef13d4d",
+       "title": {
+        "ru": "Tightening torque: 6.4 N•m (0.7 kgf-m, 4.7 ft-lb)",
+        "en": "Tightening torque: 6.4 N•m (0.7 kgf-m, 4.7 ft-lb)"
+       },
+       "words": 1286,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t011_3684cd14",
+       "title": {
+        "ru": "(3) Compress the valve spring and install the valve collet using ST. ST 09202870",
+        "en": "(3) Compress the valve spring and install the valve collet using ST. ST 09202870"
+       },
+       "words": 1594,
+       "images": 35,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t012_3e0ef30a",
+       "title": {
+        "ru": "ST 18252AA000 CRANKSHAFT SOCKET",
+        "en": "ST 18252AA000 CRANKSHAFT SOCKET"
+       },
+       "words": 2362,
+       "images": 57,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t013_e3463c75",
+       "title": {
+        "ru": "ST 18350AA000 CONNECTING ROD BUSHING REMOVER AND INSTALLER",
+        "en": "ST 18350AA000 CONNECTING ROD BUSHING REMOVER AND INSTALLER"
+       },
+       "words": 1089,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t014_e822b03f",
+       "title": {
+        "ru": "Radiator Fan System A: WIRING DIAGRAM",
+        "en": "Radiator Fan System A: WIRING DIAGRAM"
+       },
+       "words": 702,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t015_cede3b19",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 1328,
+       "images": 55,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t016_a142bb66",
+       "title": {
+        "ru": "1.  FRONT ENGINE OIL COOLER PIPE",
+        "en": "1.  FRONT ENGINE OIL COOLER PIPE"
+       },
+       "words": 2264,
+       "images": 69,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t017_1d4512d1",
+       "title": {
+        "ru": "14.Engine Lubrication System Trouble in General A: INSPECTION",
+        "en": "14.Engine Lubrication System Trouble in General A: INSPECTION"
+       },
+       "words": 380,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t018_291ea9b0",
+       "title": {
+        "ru": "Tightening torque: 10 NбН (1.0 kgf-m, 7.4 ft-lb)",
+        "en": "Tightening torque: 10 NбН (1.0 kgf-m, 7.4 ft-lb)"
+       },
+       "words": 1845,
+       "images": 86,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t019_7a9d7438",
+       "title": {
+        "ru": "5 Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "5 Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 455,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t020_26c56260",
+       "title": {
+        "ru": "Subaru Select Monitor",
+        "en": "Subaru Select Monitor"
+       },
+       "words": 1080,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t021_642b7bff",
+       "title": {
+        "ru": "16.Diagnostics for Engine Starting Failure A: PROCEDURE",
+        "en": "16.Diagnostics for Engine Starting Failure A: PROCEDURE"
+       },
+       "words": 125,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t022_67598c58",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 22,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t023_07f09c35",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 22,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t024_b3054cbb",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 65,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t025_107f1bcf",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 113,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t026_a9d5556d",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 33,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t027_d9dc03bc",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 85,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t028_1317356c",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 454,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t029_3d4186b3",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 381,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t030_95c073fe",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 452,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t031_37745225",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 471,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t032_32e47a16",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 217,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t033_f54be0f0",
+       "title": {
+        "ru": "Used for normality judgment",
+        "en": "Used for normality judgment"
+       },
+       "words": 368,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t034_e54ce1b6",
+       "title": {
+        "ru": "3.  ENABLE CONDITION (USED ONLY FOR MALFUNCTION JUDGMENT)",
+        "en": "3.  ENABLE CONDITION (USED ONLY FOR MALFUNCTION JUDGMENT)"
+       },
+       "words": 453,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t035_d1d9c4fd",
+       "title": {
+        "ru": "Map (CVT model except for PZEV)",
+        "en": "Map (CVT model except for PZEV)"
+       },
+       "words": 324,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t036_ecd7078f",
+       "title": {
+        "ru": "Map 1 (CVT model)",
+        "en": "Map 1 (CVT model)"
+       },
+       "words": 506,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t037_a455005e",
+       "title": {
+        "ru": "• FTP 1.5 times misfire (Misfire occurrence level which influences exhaust gas)",
+        "en": "• FTP 1.5 times misfire (Misfire occurrence level which influences exhaust gas)"
+       },
+       "words": 468,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t038_a3793998",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 396,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t039_cf8c6a87",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 500,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t040_82f5732d",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 169,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t041_d7092ea5",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 367,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t042_f28716fc",
+       "title": {
+        "ru": "Normality Judgment",
+        "en": "Normality Judgment"
+       },
+       "words": 436,
+       "images": 30,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t043_f55841b2",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 604,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t044_d4486985",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 500,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t045_9c1a9e5b",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 641,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t046_f7486cbe",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 461,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t047_4123320c",
+       "title": {
+        "ru": "Details of Judgment Value",
+        "en": "Details of Judgment Value"
+       },
+       "words": 461,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t048_8a6c9536",
+       "title": {
+        "ru": "Details of Judgment Value",
+        "en": "Details of Judgment Value"
+       },
+       "words": 495,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t049_4fff0b7c",
+       "title": {
+        "ru": "Map (CVT model except for PZEV)",
+        "en": "Map (CVT model except for PZEV)"
+       },
+       "words": 401,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t050_6495788e",
+       "title": {
+        "ru": "Abnormality Judgment",
+        "en": "Abnormality Judgment"
+       },
+       "words": 300,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t051_35650967",
+       "title": {
+        "ru": "General Description A: SPECIFICATION",
+        "en": "General Description A: SPECIFICATION"
+       },
+       "words": 646,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t052_5e8568e2",
+       "title": {
+        "ru": "Tumble Generator Valve Actuator A: SPECIFICATION",
+        "en": "Tumble Generator Valve Actuator A: SPECIFICATION"
+       },
+       "words": 1434,
+       "images": 60,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t053_e3e8c8b3",
+       "title": {
+        "ru": "1 CRANKSHAFT POSITION SENSOR (METHOD WITH CIRCUIT TESTER)",
+        "en": "1 CRANKSHAFT POSITION SENSOR (METHOD WITH CIRCUIT TESTER)"
+       },
+       "words": 932,
+       "images": 41,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t054_b6acec92",
+       "title": {
+        "ru": "1.  WASTEGATE CONTROL SOLENOID VALVE",
+        "en": "1.  WASTEGATE CONTROL SOLENOID VALVE"
+       },
+       "words": 914,
+       "images": 43,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t055_d537e228",
+       "title": {
+        "ru": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 NбН (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 1243,
+       "images": 55,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t056_35a8a145",
+       "title": {
+        "ru": "2. EXHAUST GAS RECIRCULATION CONTROL CIRCUIT RANGE/PERFORMANCE",
+        "en": "2. EXHAUST GAS RECIRCULATION CONTROL CIRCUIT RANGE/PERFORMANCE"
+       },
+       "words": 1524,
+       "images": 53,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t057_02900238",
+       "title": {
+        "ru": "3. INTAKE DUCT AND INTERCOOLER",
+        "en": "3. INTAKE DUCT AND INTERCOOLER"
+       },
+       "words": 1822,
+       "images": 60,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t058_702012f3",
+       "title": {
+        "ru": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)",
+        "en": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)"
+       },
+       "words": 1303,
+       "images": 54,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t059_8dce31b4",
+       "title": {
+        "ru": "ST1 42075AG690 FUEL HOSE ST2 18471AA000 FUEL PIPE ADAPTER",
+        "en": "ST1 42075AG690 FUEL HOSE ST2 18471AA000 FUEL PIPE ADAPTER"
+       },
+       "words": 702,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t060_057030d5",
+       "title": {
+        "ru": "ST1 18355AA000 PULLEY WRENCH ST2 18334AA000 PULLEY WRENCH PIN SET",
+        "en": "ST1 18355AA000 PULLEY WRENCH ST2 18334AA000 PULLEY WRENCH PIN SET"
+       },
+       "words": 2385,
+       "images": 66,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t061_db0b8f64",
+       "title": {
+        "ru": "Tightening torque: 6.4 NбН (0.7 kgf-m, 4.7 ft-lb)",
+        "en": "Tightening torque: 6.4 NбН (0.7 kgf-m, 4.7 ft-lb)"
+       },
+       "words": 2319,
+       "images": 58,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t062_708c8049",
+       "title": {
+        "ru": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)",
+        "en": "Tightening torque: 18 NбН (1.8 kgf-m, 13.3 ft-lb)"
+       },
+       "words": 1946,
+       "images": 38,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t063_4c61d058",
+       "title": {
+        "ru": "2. PISTON AND CONNECTING ROD",
+        "en": "2. PISTON AND CONNECTING ROD"
+       },
+       "words": 2170,
+       "images": 42,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t064_998b6642",
+       "title": {
+        "ru": "General Description A: COMPONENT 1. FRONT EXHAUST PIPE",
+        "en": "General Description A: COMPONENT 1. FRONT EXHAUST PIPE"
+       },
+       "words": 753,
+       "images": 30,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t065_9a39a667",
+       "title": {
+        "ru": "General Description A: SPECIFICATION",
+        "en": "General Description A: SPECIFICATION"
+       },
+       "words": 1389,
+       "images": 54,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t066_853b2678",
+       "title": {
+        "ru": "12.Engine Cooling System Trouble in General A: INSPECTION",
+        "en": "12.Engine Cooling System Trouble in General A: INSPECTION"
+       },
+       "words": 1341,
+       "images": 56,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t067_796592ff",
+       "title": {
+        "ru": "5. Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "5. Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 746,
+       "images": 35,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t068_76cdcc8f",
+       "title": {
+        "ru": "Engine Condition Data A: ELECTRICAL SPECIFICATION",
+        "en": "Engine Condition Data A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 440,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t069_73082275",
+       "title": {
+        "ru": "16.Diagnostics for Engine Starting Failure A: PROCEDURE",
+        "en": "16.Diagnostics for Engine Starting Failure A: PROCEDURE"
+       },
+       "words": 483,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t070_9d67cc7f",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 24,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t071_18dac1e8",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 41,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t072_97cd8846",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 22,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t073_9a511e4f",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 32,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t074_2fde8959",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 154,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t075_ed3b183d",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 46,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t076_78d18219",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) ENGINE (DIAGNOSTICS)"
+       },
+       "words": 41,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t077_c9783d3e",
+       "title": {
+        "ru": "2. WHEN THE SI-DRIVE MODE IS CHANGED, \"S\" \" OR \"S#\" FLASHES IN COMBINATION METER",
+        "en": "2. WHEN THE SI-DRIVE MODE IS CHANGED, \"S\" \" OR \"S#\" FLASHES IN COMBINATION METER"
+       },
+       "words": 136,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t078_4543a8d1",
+       "title": {
+        "ru": "Diagnosis 2 Judgment Value",
+        "en": "Diagnosis 2 Judgment Value"
+       },
+       "words": 470,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t079_2efc6338",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 431,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t080_9c5185af",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 503,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t081_0e0835ec",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 451,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t082_88ba734d",
+       "title": {
+        "ru": "Maр 2",
+        "en": "Maр 2"
+       },
+       "words": 506,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t083_36c6be6d",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 231,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t084_6a50c3c0",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 391,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t085_da2eaaa5",
+       "title": {
+        "ru": "3 ENABLE CONDITION (USED ONLY FOR MALFUNCTION JUDGMENT)",
+        "en": "3 ENABLE CONDITION (USED ONLY FOR MALFUNCTION JUDGMENT)"
+       },
+       "words": 385,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t086_95e7bd16",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 431,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t087_49b4e61c",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 615,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t088_554ccacc",
+       "title": {
+        "ru": "FTP 1.5 times misfire (Misfire occurrence level which influences exhaust gas)",
+        "en": "FTP 1.5 times misfire (Misfire occurrence level which influences exhaust gas)"
+       },
+       "words": 343,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t089_a77025a5",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 444,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t090_1d9857ea",
+       "title": {
+        "ru": "Diagnosis 2 Judgment Value",
+        "en": "Diagnosis 2 Judgment Value"
+       },
+       "words": 594,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t091_199c6ec4",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 476,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t092_3e2faf7e",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 219,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t093_2b9e5220",
+       "title": {
+        "ru": "DM:DTC PO463 FUEL LEVEL SENSOR \"A\" CIRCUIT HIGH",
+        "en": "DM:DTC PO463 FUEL LEVEL SENSOR \"A\" CIRCUIT HIGH"
+       },
+       "words": 384,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t094_22a913ec",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 645,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t095_4f3dbc1d",
+       "title": {
+        "ru": "3. GENERAL DRIVING CYCLE",
+        "en": "3. GENERAL DRIVING CYCLE"
+       },
+       "words": 559,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t096_b70c8f1b",
+       "title": {
+        "ru": "3. ENABLE CONDITION (USED ONLY FOR MALFUNCTION JUDGMENT)",
+        "en": "3. ENABLE CONDITION (USED ONLY FOR MALFUNCTION JUDGMENT)"
+       },
+       "words": 467,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t097_6f83ac54",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 573,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t098_b27496ad",
+       "title": {
+        "ru": "2. COMPONENT DESCRIPTION",
+        "en": "2. COMPONENT DESCRIPTION"
+       },
+       "words": 610,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t099_dafbc348",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 451,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t100_893a46ee",
+       "title": {
+        "ru": "Time Needed for Diagnosis:",
+        "en": "Time Needed for Diagnosis:"
+       },
+       "words": 467,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t101_851d54a0",
+       "title": {
+        "ru": "Diagnosis 2 Judgment Value",
+        "en": "Diagnosis 2 Judgment Value"
+       },
+       "words": 499,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t102_7b81effc",
+       "title": {
+        "ru": "Judgment Value",
+        "en": "Judgment Value"
+       },
+       "words": 508,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t103_8adbe4d5",
+       "title": {
+        "ru": "Abnormality Judgment",
+        "en": "Abnormality Judgment"
+       },
+       "words": 625,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t104_0642fcdf",
+       "title": {
+        "ru": "C:  WIRING DIAGRAM 1.  MODEL WITHOUT PUSH BUTTON IGNITION SWITCH",
+        "en": "C:  WIRING DIAGRAM 1.  MODEL WITHOUT PUSH BUTTON IGNITION SWITCH"
+       },
+       "words": 406,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t105_2d83d135",
+       "title": {
+        "ru": "Exposed length (a) of MT gear select cable: Specification: 11 mm (0.4 in)",
+        "en": "Exposed length (a) of MT gear select cable: Specification: 11 mm (0.4 in)"
+       },
+       "words": 1361,
+       "images": 71,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t106_a3624895",
+       "title": {
+        "ru": "7.  HYDRAULIC CONTROL AND LUBRICATION",
+        "en": "7.  HYDRAULIC CONTROL AND LUBRICATION"
+       },
+       "words": 707,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t107_b5fc802b",
+       "title": {
+        "ru": "Removal of the test plug and instalation of the ST shallbe both performed quickl",
+        "en": "Removal of the test plug and instalation of the ST shallbe both performed quickl"
+       },
+       "words": 1277,
+       "images": 43,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t108_8d3e8341",
+       "title": {
+        "ru": "3. PRESSING X MODE SWITCH DOES NOT CHANGE THE X MODE DISPLAY IN THE COMBINATION ",
+        "en": "3. PRESSING X MODE SWITCH DOES NOT CHANGE THE X MODE DISPLAY IN THE COMBINATION "
+       },
+       "words": 1306,
+       "images": 52,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t109_efef85f4",
+       "title": {
+        "ru": "4) Compress the return spring using the ST to install the snap ring. ST 18762AA0",
+        "en": "4) Compress the return spring using the ST to install the snap ring. ST 18762AA0"
+       },
+       "words": 2027,
+       "images": 55,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t110_5db7ede8",
+       "title": {
+        "ru": "1. procedure In Replacement of primary And Secondary pulLey, or In rePLACEMENT O",
+        "en": "1. procedure In Replacement of primary And Secondary pulLey, or In rePLACEMENT O"
+       },
+       "words": 3471,
+       "images": 123,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t111_82defb7f",
+       "title": {
+        "ru": "1.  TORQUE CONVERTER ASSEMBLY AND CONVERTER CASE",
+        "en": "1.  TORQUE CONVERTER ASSEMBLY AND CONVERTER CASE"
+       },
+       "words": 395,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t112_1bd9c953",
+       "title": {
+        "ru": "9. PRIMARY PULLEY, SECONDARY PULLEY AND VARIATOR CHAIN",
+        "en": "9. PRIMARY PULLEY, SECONDARY PULLEY AND VARIATOR CHAIN"
+       },
+       "words": 522,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t113_95acc8b7",
+       "title": {
+        "ru": "2.  TRANSMISSION REAR CROSSMEMBER AND REAR CUSHION RUBBER",
+        "en": "2.  TRANSMISSION REAR CROSSMEMBER AND REAR CUSHION RUBBER"
+       },
+       "words": 1277,
+       "images": 41,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t114_e4f7e958",
+       "title": {
+        "ru": "6 Using ST, remove transfer drive gear, parking gear and ball bearing. ST 18767A",
+        "en": "6 Using ST, remove transfer drive gear, parking gear and ball bearing. ST 18767A"
+       },
+       "words": 1912,
+       "images": 74,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t115_cb2fc24c",
+       "title": {
+        "ru": "1 procedure In replacement of primary And secondary pulley, or In rePLACEMENT OF",
+        "en": "1 procedure In replacement of primary And secondary pulley, or In rePLACEMENT OF"
+       },
+       "words": 2763,
+       "images": 97,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t116_1119c783",
+       "title": {
+        "ru": "Basic Diagnostic Procedure A: PROCEDURE",
+        "en": "Basic Diagnostic Procedure A: PROCEDURE"
+       },
+       "words": 1484,
+       "images": 49,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t117_3c457d03",
+       "title": {
+        "ru": "5. Transmission Control Module (TCM) I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "5. Transmission Control Module (TCM) I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 271,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t118_08fc2789",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) CONTINUOUSLY VARIABLE TR",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) CONTINUOUSLY VARIABLE TR"
+       },
+       "words": 224,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t119_759b5275",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) CONTINUOUSLY VARIABLE TR",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) CONTINUOUSLY VARIABLE TR"
+       },
+       "words": 354,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t120_40dc73de",
+       "title": {
+        "ru": "ST 18675AA000 DIFFERENTIAL SIDE OIL SEAL INSTALLER",
+        "en": "ST 18675AA000 DIFFERENTIAL SIDE OIL SEAL INSTALLER"
+       },
+       "words": 1242,
+       "images": 40,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t121_9a5c3ed4",
+       "title": {
+        "ru": "Press-fit depth of roller bearing: A: 5.1±0.2 mm (0.20±0.01 in) from the finishe",
+        "en": "Press-fit depth of roller bearing: A: 5.1±0.2 mm (0.20±0.01 in) from the finishe"
+       },
+       "words": 1921,
+       "images": 53,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t122_6e06dd81",
+       "title": {
+        "ru": "Press-fit depth of roller bearing: A: 0±0.2 mm (0±0.01 in) from the end of trans",
+        "en": "Press-fit depth of roller bearing: A: 0±0.2 mm (0±0.01 in) from the end of trans"
+       },
+       "words": 1860,
+       "images": 42,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t123_1c2c3bd1",
+       "title": {
+        "ru": "CAUTION: Be careful not to deform the clips.",
+        "en": "CAUTION: Be careful not to deform the clips."
+       },
+       "words": 1141,
+       "images": 35,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t124_10a0b04c",
+       "title": {
+        "ru": "Tightening torque (push rod lock nut): T: 10 NбН (1.0 kgf-m, 7.4 ft-lb)",
+        "en": "Tightening torque (push rod lock nut): T: 10 NбН (1.0 kgf-m, 7.4 ft-lb)"
+       },
+       "words": 1386,
+       "images": 36,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t125_74b35728",
+       "title": {
+        "ru": "While holding the head of the adjusting bolt, loosen the flange nut.",
+        "en": "While holding the head of the adjusting bolt, loosen the flange nut."
+       },
+       "words": 1558,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t126_770bd2a2",
+       "title": {
+        "ru": "1. IMPROPER VEHICLE POSTURE OR IMPROPER WHEEL ARCH HEIGHT",
+        "en": "1. IMPROPER VEHICLE POSTURE OR IMPROPER WHEEL ARCH HEIGHT"
+       },
+       "words": 958,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t127_9d5278c0",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) TIRE PRESSURE MONITORING",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) TIRE PRESSURE MONITORING"
+       },
+       "words": 407,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t128_d7f29153",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) TIRE PRESSURE MONITORING",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) TIRE PRESSURE MONITORING"
+       },
+       "words": 713,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t129_5c0928ec",
+       "title": {
+        "ru": "Hypoid driven gear back surface runout: 0.05 mm (0.002 in)",
+        "en": "Hypoid driven gear back surface runout: 0.05 mm (0.002 in)"
+       },
+       "words": 2409,
+       "images": 55,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t130_d0fefa5d",
+       "title": {
+        "ru": "Do not disassemble the propeller shaft.",
+        "en": "Do not disassemble the propeller shaft."
+       },
+       "words": 739,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t131_23e6a331",
+       "title": {
+        "ru": "CAUTION: Be careful not to damage the boot of the joint.",
+        "en": "CAUTION: Be careful not to damage the boot of the joint."
+       },
+       "words": 1401,
+       "images": 41,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t132_81668cb6",
+       "title": {
+        "ru": "VDC Control Module and Hydraulic Control Unit (VDCCM&H/U) VEHICLE DYNAMICS CONTR",
+        "en": "VDC Control Module and Hydraulic Control Unit (VDCCM&H/U) VEHICLE DYNAMICS CONTR"
+       },
+       "words": 867,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t133_e81c2310",
+       "title": {
+        "ru": "1.  COMMUNICATION FOR INITIALIZING IMPOSSIBLE DETECTING CONDITION:",
+        "en": "1.  COMMUNICATION FOR INITIALIZING IMPOSSIBLE DETECTING CONDITION:"
+       },
+       "words": 435,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t134_f13b529b",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) VEHICLE DYNAMICS CONTROL",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) VEHICLE DYNAMICS CONTROL"
+       },
+       "words": 186,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t135_1bbd2fd5",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) VEHICLE DYNAMICS CONTROL",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) VEHICLE DYNAMICS CONTROL"
+       },
+       "words": 147,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t136_4ea78c82",
+       "title": {
+        "ru": "Grease contained in the pad kit or WAKO grease V160",
+        "en": "Grease contained in the pad kit or WAKO grease V160"
+       },
+       "words": 1445,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t137_96d5405c",
+       "title": {
+        "ru": "5. Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "5. Engine Control Module (ECM) I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 1032,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t138_99a161e3",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) BRAKE VACUUM CONTROL (BV",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) BRAKE VACUUM CONTROL (BV"
+       },
+       "words": 601,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t139_b61f480e",
+       "title": {
+        "ru": "Preparation tool: Tie-rod ball joint puller",
+        "en": "Preparation tool: Tie-rod ball joint puller"
+       },
+       "words": 866,
+       "images": 36,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t140_160a7a1a",
+       "title": {
+        "ru": "11.List of Diagnostic Trouble Code (DTC)",
+        "en": "11.List of Diagnostic Trouble Code (DTC)"
+       },
+       "words": 344,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t141_5d799cc1",
+       "title": {
+        "ru": "1. ELECTRICAL COMPONENT (ACTUATORS AND SENSORS)",
+        "en": "1. ELECTRICAL COMPONENT (ACTUATORS AND SENSORS)"
+       },
+       "words": 1291,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t142_d0bdfef5",
+       "title": {
+        "ru": "6) Remove the bolts and remove the radiator upper bracket.",
+        "en": "6) Remove the bolts and remove the radiator upper bracket."
+       },
+       "words": 661,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t143_431f3e40",
+       "title": {
+        "ru": "Auto A/C Control Module I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "Auto A/C Control Module I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 496,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t144_86d4bf8f",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) HVAC SYSTEM (AUTO A/C) (",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) HVAC SYSTEM (AUTO A/C) ("
+       },
+       "words": 394,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t145_97230c93",
+       "title": {
+        "ru": "4) Remove the bolt, and then detach the front sub sensor. <Ref. to AB-22, FRONT ",
+        "en": "4) Remove the bolt, and then detach the front sub sensor. <Ref. to AB-22, FRONT "
+       },
+       "words": 1417,
+       "images": 45,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t146_b3533532",
+       "title": {
+        "ru": "List of Diagnostic Trouble Code (DTC)",
+        "en": "List of Diagnostic Trouble Code (DTC)"
+       },
+       "words": 59,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t147_de3a489f",
+       "title": {
+        "ru": "AM:DTC B16F3 FRONT SUB SENSOR LH RECOGNITION ERROR DTC DETECTING CONDITION:",
+        "en": "AM:DTC B16F3 FRONT SUB SENSOR LH RECOGNITION ERROR DTC DETECTING CONDITION:"
+       },
+       "words": 70,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t148_004c812c",
+       "title": {
+        "ru": "Diagnostic Chart with Trouble Code",
+        "en": "Diagnostic Chart with Trouble Code"
+       },
+       "words": 22,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t149_1fba6e00",
+       "title": {
+        "ru": "Diagnostic Chart with Trouble Code",
+        "en": "Diagnostic Chart with Trouble Code"
+       },
+       "words": 22,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t150_3cf2ddbd",
+       "title": {
+        "ru": "Basic Diagnostic Procedure A: PROCEDURE",
+        "en": "Basic Diagnostic Procedure A: PROCEDURE"
+       },
+       "words": 184,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t151_7e9be6a6",
+       "title": {
+        "ru": "General Description A: SPECIFICATION",
+        "en": "General Description A: SPECIFICATION"
+       },
+       "words": 866,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t152_4c955f0d",
+       "title": {
+        "ru": "Turn Signal Light & Hazard Light Unit",
+        "en": "Turn Signal Light & Hazard Light Unit"
+       },
+       "words": 730,
+       "images": 30,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t153_d7a8aebe",
+       "title": {
+        "ru": "Do not disassemble the sensor and lever.",
+        "en": "Do not disassemble the sensor and lever."
+       },
+       "words": 552,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t154_7f186e5c",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC)"
+       },
+       "words": 967,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t155_a3c7175c",
+       "title": {
+        "ru": "NOZZLE - WINDSHIELD WASHER EyeSight (MODEL WITH EyeSight ONLY)",
+        "en": "NOZZLE - WINDSHIELD WASHER EyeSight (MODEL WITH EyeSight ONLY)"
+       },
+       "words": 673,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t156_3a399c63",
+       "title": {
+        "ru": "PREPARATION TOOL: Circuit tester",
+        "en": "PREPARATION TOOL: Circuit tester"
+       },
+       "words": 586,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t157_3cd47ff7",
+       "title": {
+        "ru": "Front Door Glass",
+        "en": "Front Door Glass"
+       },
+       "words": 1644,
+       "images": 41,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t158_1cc5a617",
+       "title": {
+        "ru": "3.CHECK CLOCK SYSTEM COMMUNICATION CIRCUIT",
+        "en": "3.CHECK CLOCK SYSTEM COMMUNICATION CIRCUIT"
+       },
+       "words": 748,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t159_725fe847",
+       "title": {
+        "ru": "M: DTC U1650 INVALID DATA RECEIVED FROM METER (UART) DTC DETECTING CONDITION:",
+        "en": "M: DTC U1650 INVALID DATA RECEIVED FROM METER (UART) DTC DETECTING CONDITION:"
+       },
+       "words": 260,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t160_46f0d0c6",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) INSTRUMENTATION/DRIVER I",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) INSTRUMENTATION/DRIVER I"
+       },
+       "words": 1030,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t161_40fd5907",
+       "title": {
+        "ru": "7.  KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM",
+        "en": "7.  KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM"
+       },
+       "words": 528,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t162_decb5854",
+       "title": {
+        "ru": "4 CHECK BODY INTEGRATED UNIT POWER SUPPLY AND GROUND CIRCUIT",
+        "en": "4 CHECK BODY INTEGRATED UNIT POWER SUPPLY AND GROUND CIRCUIT"
+       },
+       "words": 430,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t163_df9e2b8e",
+       "title": {
+        "ru": "2. AFTER REPLACING THE BODY INTEGRATED UNIT",
+        "en": "2. AFTER REPLACING THE BODY INTEGRATED UNIT"
+       },
+       "words": 1090,
+       "images": 38,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t164_534283a6",
+       "title": {
+        "ru": "Disabling/Activating the keyless access system",
+        "en": "Disabling/Activating the keyless access system"
+       },
+       "words": 1056,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t165_6c3ca518",
+       "title": {
+        "ru": "CAUTION: Be careful not to damage the sunshade assembly.",
+        "en": "CAUTION: Be careful not to damage the sunshade assembly."
+       },
+       "words": 1480,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t166_784e97fb",
+       "title": {
+        "ru": "Be careful not to damage the clips.",
+        "en": "Be careful not to damage the clips."
+       },
+       "words": 1078,
+       "images": 36,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t167_5bf8b0bc",
+       "title": {
+        "ru": "Instrument Panel Assembly",
+        "en": "Instrument Panel Assembly"
+       },
+       "words": 1680,
+       "images": 44,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t168_a840f112",
+       "title": {
+        "ru": "Non-turbo model",
+        "en": "Non-turbo model"
+       },
+       "words": 1254,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t169_2ab59fbc",
+       "title": {
+        "ru": "Tightening torque: 33 N•m (3.36 kgf-m, 24.3 ft-lb)",
+        "en": "Tightening torque: 33 N•m (3.36 kgf-m, 24.3 ft-lb)"
+       },
+       "words": 1666,
+       "images": 39,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t170_6969c731",
+       "title": {
+        "ru": "Basic Diagnostic Procedure A: PROCEDURE",
+        "en": "Basic Diagnostic Procedure A: PROCEDURE"
+       },
+       "words": 894,
+       "images": 35,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t171_77eb53a1",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) POWER REAR GATE SYSTEM (",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) POWER REAR GATE SYSTEM ("
+       },
+       "words": 268,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t172_e1484254",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) POWER REAR GATE SYSTEM (",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) POWER REAR GATE SYSTEM ("
+       },
+       "words": 250,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t173_d0711e81",
+       "title": {
+        "ru": "Diagnostics with Phenomenon A: DIAGNOSTIC PROCEDURE WITH PHENOMENON",
+        "en": "Diagnostics with Phenomenon A: DIAGNOSTIC PROCEDURE WITH PHENOMENON"
+       },
+       "words": 421,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t174_1f2e7c94",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) IMMOBILIZER (DIAGNOSTICS",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) IMMOBILIZER (DIAGNOSTICS"
+       },
+       "words": 468,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t175_a2a0f65c",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) IMMOBILIZER (DIAGNOSTICS",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) IMMOBILIZER (DIAGNOSTICS"
+       },
+       "words": 401,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t176_61026beb",
+       "title": {
+        "ru": "When 19 is open",
+        "en": "When 19 is open"
+       },
+       "words": 112,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t177_3e80e381",
+       "title": {
+        "ru": "CAN Communication Circuit Check",
+        "en": "CAN Communication Circuit Check"
+       },
+       "words": 39,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t178_5fdadb3c",
+       "title": {
+        "ru": "List of Diagnostic Trouble Code (DTC)",
+        "en": "List of Diagnostic Trouble Code (DTC)"
+       },
+       "words": 1353,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t179_eec25af5",
+       "title": {
+        "ru": "List of Diagnostic Trouble Code (DTC)",
+        "en": "List of Diagnostic Trouble Code (DTC)"
+       },
+       "words": 1097,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t180_82c22e47",
+       "title": {
+        "ru": "H: DTC UO423 INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSб TER CONTROL MODUL",
+        "en": "H: DTC UO423 INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSб TER CONTROL MODUL"
+       },
+       "words": 448,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t181_643b0032",
+       "title": {
+        "ru": "Control Module I/O Signal",
+        "en": "Control Module I/O Signal"
+       },
+       "words": 1293,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t182_a54bef90",
+       "title": {
+        "ru": "3. CAMERA ALL ADJUSTMENT MODE (REPLACEMENT/REMOVAL)",
+        "en": "3. CAMERA ALL ADJUSTMENT MODE (REPLACEMENT/REMOVAL)"
+       },
+       "words": 1373,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t183_be1875e9",
+       "title": {
+        "ru": "7. CHECK LIST (LANE DEPARTURE WARNING, SWAY WARNING, FORWARD VEHICLE'S START MON",
+        "en": "7. CHECK LIST (LANE DEPARTURE WARNING, SWAY WARNING, FORWARD VEHICLE'S START MON"
+       },
+       "words": 156,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t184_8b3d9b2b",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) EyeSight (DIAGNOSTICS)",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) EyeSight (DIAGNOSTICS)"
+       },
+       "words": 909,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t185_f3f01225",
+       "title": {
+        "ru": "Electrical Component Location A: LOCATION",
+        "en": "Electrical Component Location A: LOCATION"
+       },
+       "words": 618,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t186_d55ff41d",
+       "title": {
+        "ru": "For replacement procedure of steering lock CM, refer to the “REGISTRATION MANUAL",
+        "en": "For replacement procedure of steering lock CM, refer to the “REGISTRATION MANUAL"
+       },
+       "words": 341,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t187_3777c9c3",
+       "title": {
+        "ru": "When the access key or keyless access CM is replaced, registration of the immobi",
+        "en": "When the access key or keyless access CM is replaced, registration of the immobi"
+       },
+       "words": 161,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t188_40e06c48",
+       "title": {
+        "ru": "Control Module /O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "Control Module /O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 203,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t189_64f6406e",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) BODY CONTROL SYSTEM (DIA",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) BODY CONTROL SYSTEM (DIA"
+       },
+       "words": 618,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t190_57186171",
+       "title": {
+        "ru": "3.  WITH PUSH BUTTON START (ENGINE COMPARTMENT SIDE)",
+        "en": "3.  WITH PUSH BUTTON START (ENGINE COMPARTMENT SIDE)"
+       },
+       "words": 495,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t191_00b8b7f7",
+       "title": {
+        "ru": "10.CAN Communication System A: WIRING DIAGRAM 1.  NON-TURBO MODEL",
+        "en": "10.CAN Communication System A: WIRING DIAGRAM 1.  NON-TURBO MODEL"
+       },
+       "words": 180,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t192_84b1dba1",
+       "title": {
+        "ru": "12.Clearance Light and Illumination Light System A:  WIRING DIAGRAM",
+        "en": "12.Clearance Light and Illumination Light System A:  WIRING DIAGRAM"
+       },
+       "words": 212,
+       "images": 39,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t193_3446c14c",
+       "title": {
+        "ru": "17.Electric Power Steering System A: WIRING DIAGRAM",
+        "en": "17.Electric Power Steering System A: WIRING DIAGRAM"
+       },
+       "words": 99,
+       "images": 51,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t194_1622f6c8",
+       "title": {
+        "ru": "20.Front Accessory Power Supply Socket System A:  WIRING DIAGRAM",
+        "en": "20.Front Accessory Power Supply Socket System A:  WIRING DIAGRAM"
+       },
+       "words": 129,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t195_87616b60",
+       "title": {
+        "ru": "27.Immobilizer System A: WIRING DIAGRAM 1.  WITHOUT PUSH BUTTON START",
+        "en": "27.Immobilizer System A: WIRING DIAGRAM 1.  WITHOUT PUSH BUTTON START"
+       },
+       "words": 411,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t196_a8b48b59",
+       "title": {
+        "ru": "35.Parking Brake / Brake Fluid Level Warning Light System A:  WIRING DIAGRAM",
+        "en": "35.Parking Brake / Brake Fluid Level Warning Light System A:  WIRING DIAGRAM"
+       },
+       "words": 206,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t197_9603ad7e",
+       "title": {
+        "ru": "39.Push Button Start System A: WIRING DIAGRAM 1.  NON-TURBO MODEL",
+        "en": "39.Push Button Start System A: WIRING DIAGRAM 1.  NON-TURBO MODEL"
+       },
+       "words": 304,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t198_91311dce",
+       "title": {
+        "ru": "54.Starter SystemA: WIRING DIAGRAM1.  NON-TURBO MODEL (WITHOUT PUSH BUTTON START",
+        "en": "54.Starter SystemA: WIRING DIAGRAM1.  NON-TURBO MODEL (WITHOUT PUSH BUTTON START"
+       },
+       "words": 258,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t199_21fe378e",
+       "title": {
+        "ru": "60.Vehicle Dynamics Control System A: WIRING DIAGRAM 1.  NON-TURBO MODEL",
+        "en": "60.Vehicle Dynamics Control System A: WIRING DIAGRAM 1.  NON-TURBO MODEL"
+       },
+       "words": 282,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t200_2fb6e53c",
+       "title": {
+        "ru": "64.Bulkhead Wiring Harness (In Engine Compartment) RH A: LOCATION",
+        "en": "64.Bulkhead Wiring Harness (In Engine Compartment) RH A: LOCATION"
+       },
+       "words": 274,
+       "images": 41,
+       "section_id": "lighting"
+      },
+      {
+       "id": "subaru_forester_lighting_t201_1fbfa97e",
+       "title": {
+        "ru": "76.Rear Wiring Harness and Rear Gate Cord A: LOCATION",
+        "en": "76.Rear Wiring Harness and Rear Gate Cord A: LOCATION"
+       },
+       "words": 446,
+       "images": 47,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "subaru_forester_interior_t000_866264d7",
+       "title": {
+        "ru": "6. AIRBAG AND SEAT BELT PRETENSIONER DISPOSAL",
+        "en": "6. AIRBAG AND SEAT BELT PRETENSIONER DISPOSAL"
+       },
+       "words": 637,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t001_58d2d848",
+       "title": {
+        "ru": "General Description",
+        "en": "General Description"
+       },
+       "words": 1391,
+       "images": 16,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t002_1b7a5ed7",
+       "title": {
+        "ru": "24.In-Vehicle Sensor (Auto A/C Model)",
+        "en": "24.In-Vehicle Sensor (Auto A/C Model)"
+       },
+       "words": 623,
+       "images": 9,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t003_3cc9ac0f",
+       "title": {
+        "ru": "General Description A: COMPONENT",
+        "en": "General Description A: COMPONENT"
+       },
+       "words": 633,
+       "images": 15,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t004_202fbd85",
+       "title": {
+        "ru": "5. DRIVER'S AIRBAG MODULE, KNEE AIRBAG MODULE, CURTAIN AIRBAG MODULE ANI PRETENS",
+        "en": "5. DRIVER'S AIRBAG MODULE, KNEE AIRBAG MODULE, CURTAIN AIRBAG MODULE ANI PRETENS"
+       },
+       "words": 659,
+       "images": 13,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t005_4b57acff",
+       "title": {
+        "ru": "8. FRONT DOOR IMPACT SENSOR, SATELLITE SAFING SENSOR, SIDE AIRBAG SENSOR AND CUR",
+        "en": "8. FRONT DOOR IMPACT SENSOR, SATELLITE SAFING SENSOR, SIDE AIRBAG SENSOR AND CUR"
+       },
+       "words": 1433,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t006_b493390b",
+       "title": {
+        "ru": "Passenger's Airbag Module",
+        "en": "Passenger's Airbag Module"
+       },
+       "words": 1338,
+       "images": 16,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t007_095346a8",
+       "title": {
+        "ru": "Curtain Airbag Module",
+        "en": "Curtain Airbag Module"
+       },
+       "words": 929,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t008_ed9c04e5",
+       "title": {
+        "ru": "Airbag Control Module I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "Airbag Control Module I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 941,
+       "images": 18,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t009_ce1cb435",
+       "title": {
+        "ru": "B: DTC B1000 AIRBAG ECU MALFUNCTION DTC DETECTING CONDITION:",
+        "en": "B: DTC B1000 AIRBAG ECU MALFUNCTION DTC DETECTING CONDITION:"
+       },
+       "words": 431,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t010_fec18cda",
+       "title": {
+        "ru": "F:  DTC B1115 AIRBAG ECU MALFUNCTION",
+        "en": "F:  DTC B1115 AIRBAG ECU MALFUNCTION"
+       },
+       "words": 389,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t011_5bb50e6f",
+       "title": {
+        "ru": "AO:DTC B1622 SIDE AIRBAG SENSOR RH LOST COMMUNICATION",
+        "en": "AO:DTC B1622 SIDE AIRBAG SENSOR RH LOST COMMUNICATION"
+       },
+       "words": 490,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t012_4f3b86f5",
+       "title": {
+        "ru": "AU:DTC B1632 CURTAIN AIRBAG SENSOR RH LOST COMMUNICATION",
+        "en": "AU:DTC B1632 CURTAIN AIRBAG SENSOR RH LOST COMMUNICATION"
+       },
+       "words": 304,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t013_588e5aa0",
+       "title": {
+        "ru": "BC:DTC B16F7 CURTAIN AIRBAG SENSOR LH RECOGNITION ERROR DTC DETECTING CONDITION:",
+        "en": "BC:DTC B16F7 CURTAIN AIRBAG SENSOR LH RECOGNITION ERROR DTC DETECTING CONDITION:"
+       },
+       "words": 292,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t014_221f90f2",
+       "title": {
+        "ru": "BI: DTC B1675 SATELLITE SAFING SENSOR FAILURE DTC DETECTING CONDITION:",
+        "en": "BI: DTC B1675 SATELLITE SAFING SENSOR FAILURE DTC DETECTING CONDITION:"
+       },
+       "words": 254,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t015_751e51b8",
+       "title": {
+        "ru": "BW:DTC B16F0 PASSENGER'S AIRBAG OFF INDICATOR FAILURE",
+        "en": "BW:DTC B16F0 PASSENGER'S AIRBAG OFF INDICATOR FAILURE"
+       },
+       "words": 323,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t016_b88418f0",
+       "title": {
+        "ru": "DTC DETECTING CONDITION:",
+        "en": "DTC DETECTING CONDITION:"
+       },
+       "words": 310,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t017_fc39d67d",
+       "title": {
+        "ru": "CL:DTC B1813 SHORT IN DRIVER'S AIRBAG DUAL STAGE - 2ND STEP CIRCUIT (TO +B)",
+        "en": "CL:DTC B1813 SHORT IN DRIVER'S AIRBAG DUAL STAGE - 2ND STEP CIRCUIT (TO +B)"
+       },
+       "words": 347,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t018_28616e37",
+       "title": {
+        "ru": "CP:DTC B1818 SHORT IN PASSENGER'S AIRBAG DUAL STAGE - 2ND STEP CIRCUIT (TO +B)",
+        "en": "CP:DTC B1818 SHORT IN PASSENGER'S AIRBAG DUAL STAGE - 2ND STEP CIRCUIT (TO +B)"
+       },
+       "words": 269,
+       "images": 13,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t019_89e7c470",
+       "title": {
+        "ru": "DTC DETECTING CONDITION:",
+        "en": "DTC DETECTING CONDITION:"
+       },
+       "words": 236,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t020_416ba451",
+       "title": {
+        "ru": "DTC DETECTING CONDITION:",
+        "en": "DTC DETECTING CONDITION:"
+       },
+       "words": 236,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t021_47df9e72",
+       "title": {
+        "ru": "DTC DETECTING CONDITION:",
+        "en": "DTC DETECTING CONDITION:"
+       },
+       "words": 239,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t022_a5d7ffd8",
+       "title": {
+        "ru": "DTC DETECTING CONDITION:",
+        "en": "DTC DETECTING CONDITION:"
+       },
+       "words": 261,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t023_9b16ff9d",
+       "title": {
+        "ru": "DTC DETECTING CONDITION:",
+        "en": "DTC DETECTING CONDITION:"
+       },
+       "words": 252,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t024_876e496b",
+       "title": {
+        "ru": "DTC DETECTING CONDITION:",
+        "en": "DTC DETECTING CONDITION:"
+       },
+       "words": 284,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t025_eb771c1d",
+       "title": {
+        "ru": "1. OCCUPANT DETECTION SYSTEM (BETWEEN AIRBAG REAR HARNESS AND SEAT HARNESS)",
+        "en": "1. OCCUPANT DETECTION SYSTEM (BETWEEN AIRBAG REAR HARNESS AND SEAT HARNESS)"
+       },
+       "words": 444,
+       "images": 1,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t026_c7db4f4f",
+       "title": {
+        "ru": "15.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC B1650 OCCUPAN",
+        "en": "15.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC B1650 OCCUPAN"
+       },
+       "words": 655,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t027_0dcf0414",
+       "title": {
+        "ru": "Before handling the airbag module, refer to \"CAUTION' of \"General Description\" i",
+        "en": "Before handling the airbag module, refer to \"CAUTION' of \"General Description\" i"
+       },
+       "words": 1271,
+       "images": 17,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t028_c54bd137",
+       "title": {
+        "ru": "Before handling the airbag module, refer to \"CAUTION\" of \"General Description\" i",
+        "en": "Before handling the airbag module, refer to \"CAUTION\" of \"General Description\" i"
+       },
+       "words": 756,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t029_e2439daf",
+       "title": {
+        "ru": "2.  DRIVER SEAT (POWER SEAT MODEL)",
+        "en": "2.  DRIVER SEAT (POWER SEAT MODEL)"
+       },
+       "words": 1426,
+       "images": 24,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t030_fe451744",
+       "title": {
+        "ru": "36.Starter Relay (Push Button Start)",
+        "en": "36.Starter Relay (Push Button Start)"
+       },
+       "words": 783,
+       "images": 18,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t031_bef800af",
+       "title": {
+        "ru": "39.Accessory Relay (Push Button Start)",
+        "en": "39.Accessory Relay (Push Button Start)"
+       },
+       "words": 1157,
+       "images": 22,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t032_978722b5",
+       "title": {
+        "ru": "Before handling the airbag module, refer to \"CAUTION'\" of \"General Description” ",
+        "en": "Before handling the airbag module, refer to \"CAUTION'\" of \"General Description” "
+       },
+       "words": 1038,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t033_98d25904",
+       "title": {
+        "ru": "Before handling the airbag module, refer to \"CAUTION\" of \"General Description\" i",
+        "en": "Before handling the airbag module, refer to \"CAUTION\" of \"General Description\" i"
+       },
+       "words": 657,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "subaru_forester_interior_t034_8abaf0e0",
+       "title": {
+        "ru": "6. Airbag System A: WIRING DIAGRAM 1. NON-TURBO MODEL",
+        "en": "6. Airbag System A: WIRING DIAGRAM 1. NON-TURBO MODEL"
+       },
+       "words": 234,
+       "images": 2,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "subaru_forester_ev_t000_24c80a72",
+       "title": {
+        "ru": "CONTINUOUSLY VARIABLE TRANSMISSION (DIAGNOSTICS) CVT(diag)",
+        "en": "CONTINUOUSLY VARIABLE TRANSMISSION (DIAGNOSTICS) CVT(diag)"
+       },
+       "words": 875,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "subaru_forester_ev_t001_e416838e",
+       "title": {
+        "ru": "KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM (DIAGNOSTICS) KPSdg)",
+        "en": "KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM (DIAGNOSTICS) KPSdg)"
+       },
+       "words": 228,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "subaru_forester_chassis_t000_f8811a39",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 46,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "subaru_forester_general_t000_ec0e3f87",
+       "title": {
+        "ru": "1. Before the removal and installation operation of hoses, etc.",
+        "en": "1. Before the removal and installation operation of hoses, etc."
+       },
+       "words": 1065,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t001_e4cf5816",
+       "title": {
+        "ru": "2. PROTECTION OF VEHICLE UNDER MAINTENANCE AND PREPARATION OF TOOLS/ EQUIPMENT",
+        "en": "2. PROTECTION OF VEHICLE UNDER MAINTENANCE AND PREPARATION OF TOOLS/ EQUIPMENT"
+       },
+       "words": 1271,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t002_190119f2",
+       "title": {
+        "ru": "Model number label",
+        "en": "Model number label"
+       },
+       "words": 1436,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t003_b5ee9b4f",
+       "title": {
+        "ru": "16.CVT FRONT DIFFERENTIAL GEAR OIL 20.WINDOW WASHER FLUID",
+        "en": "16.CVT FRONT DIFFERENTIAL GEAR OIL 20.WINDOW WASHER FLUID"
+       },
+       "words": 1462,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t004_e152e0c5",
+       "title": {
+        "ru": "34.INDICATOR AND WARNING LIGHTS",
+        "en": "34.INDICATOR AND WARNING LIGHTS"
+       },
+       "words": 1847,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t005_10291522",
+       "title": {
+        "ru": "56.POWER STEERING SYSTEM (ELECTRIC POWER STEERING MODEL)",
+        "en": "56.POWER STEERING SYSTEM (ELECTRIC POWER STEERING MODEL)"
+       },
+       "words": 1579,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t006_cca48fc0",
+       "title": {
+        "ru": "General Description A: GENERAL DESCRIPTION",
+        "en": "General Description A: GENERAL DESCRIPTION"
+       },
+       "words": 484,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t007_f3a0eff7",
+       "title": {
+        "ru": "20.Disc Brake Pad and Disc A: INSPECTION",
+        "en": "20.Disc Brake Pad and Disc A: INSPECTION"
+       },
+       "words": 1058,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t008_814ed7e0",
+       "title": {
+        "ru": "Service limit: Straight-ahead position within 0.05 mm (0.0020 in)",
+        "en": "Service limit: Straight-ahead position within 0.05 mm (0.0020 in)"
+       },
+       "words": 1715,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t009_67952e42",
+       "title": {
+        "ru": "5Engine Coolant Temperature Sensor",
+        "en": "5Engine Coolant Temperature Sensor"
+       },
+       "words": 1743,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t010_7758021f",
+       "title": {
+        "ru": "13.Mass Air Flow and Intake Air Temperature Sensor",
+        "en": "13.Mass Air Flow and Intake Air Temperature Sensor"
+       },
+       "words": 1277,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t011_22b01ede",
+       "title": {
+        "ru": "3.  DRAINING FUEL (THROUGH THE FUEL FILLER HOSE)",
+        "en": "3.  DRAINING FUEL (THROUGH THE FUEL FILLER HOSE)"
+       },
+       "words": 1572,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t012_7fa3543b",
+       "title": {
+        "ru": "1. CONNECTING THE EVAPORATION LINE QUICK CONNECTOR",
+        "en": "1. CONNECTING THE EVAPORATION LINE QUICK CONNECTOR"
+       },
+       "words": 1672,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t013_eb50fe89",
+       "title": {
+        "ru": "1. CANISTER, PURGE CONTROL SOLENOID VALVE, AND LEAK CHECK VALVE ASSEMBLY",
+        "en": "1. CANISTER, PURGE CONTROL SOLENOID VALVE, AND LEAK CHECK VALVE ASSEMBLY"
+       },
+       "words": 1532,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t014_b5874e17",
+       "title": {
+        "ru": "Leak Check Valve Assembly",
+        "en": "Leak Check Valve Assembly"
+       },
+       "words": 1394,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t015_4a2fdaaa",
+       "title": {
+        "ru": "Tightening torque: N•m (kgf-m, ft-lb)",
+        "en": "Tightening torque: N•m (kgf-m, ft-lb)"
+       },
+       "words": 2831,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t016_f1dd4d23",
+       "title": {
+        "ru": "11.Preparation for Overhaul",
+        "en": "11.Preparation for Overhaul"
+       },
+       "words": 2965,
+       "images": 60,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t017_1b48fb5b",
+       "title": {
+        "ru": "• Intake cam sprocket RH",
+        "en": "• Intake cam sprocket RH"
+       },
+       "words": 1561,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t018_8b8c5a78",
+       "title": {
+        "ru": "Rocker Cover",
+        "en": "Rocker Cover"
+       },
+       "words": 2778,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t019_9d25bbcd",
+       "title": {
+        "ru": "Liquid gasket:",
+        "en": "Liquid gasket:"
+       },
+       "words": 2225,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t020_2b13601c",
+       "title": {
+        "ru": "2.  VALVE & VALVE GUIDE",
+        "en": "2.  VALVE & VALVE GUIDE"
+       },
+       "words": 2550,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t021_c4103699",
+       "title": {
+        "ru": "Cylinder Block",
+        "en": "Cylinder Block"
+       },
+       "words": 2189,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t022_4699a211",
+       "title": {
+        "ru": "4.CONNECTING ROD AND CONNECTING ROD BEARING",
+        "en": "4.CONNECTING ROD AND CONNECTING ROD BEARING"
+       },
+       "words": 2269,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t023_c46856f9",
+       "title": {
+        "ru": "23.Intake and Exhaust Valve A: SPECIFICATION",
+        "en": "23.Intake and Exhaust Valve A: SPECIFICATION"
+       },
+       "words": 1933,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t024_a0e8ccdd",
+       "title": {
+        "ru": "1. PROCEDURE TO ADJUST THE SUBARU SUPER COOLANT CONCENTRATION",
+        "en": "1. PROCEDURE TO ADJUST THE SUBARU SUPER COOLANT CONCENTRATION"
+       },
+       "words": 2806,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t025_86dcf432",
+       "title": {
+        "ru": "Tightening torque: N.m (kgf-m, ft-Ib)",
+        "en": "Tightening torque: N.m (kgf-m, ft-Ib)"
+       },
+       "words": 2461,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t026_401ddaea",
+       "title": {
+        "ru": "Engine Oil Cooler Pipe",
+        "en": "Engine Oil Cooler Pipe"
+       },
+       "words": 1385,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t027_afcda480",
+       "title": {
+        "ru": "2 CHECK ACCELERATOR PEDAL SENSOR AREA (METHOD WITH SUBARU SELECT MONITOR",
+        "en": "2 CHECK ACCELERATOR PEDAL SENSOR AREA (METHOD WITH SUBARU SELECT MONITOR"
+       },
+       "words": 2368,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t028_a4dd6046",
+       "title": {
+        "ru": "No-load test (standard):",
+        "en": "No-load test (standard):"
+       },
+       "words": 1434,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t029_9f46b964",
+       "title": {
+        "ru": "5. MODE \\$04 (CLEAR/RESET EMISSION-RELATED DIAGNOSTIC INFORMATION)",
+        "en": "5. MODE \\$04 (CLEAR/RESET EMISSION-RELATED DIAGNOSTIC INFORMATION)"
+       },
+       "words": 1426,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t030_7a218293",
+       "title": {
+        "ru": "|Engine coolant temperature — Intake air temperature| ≤ 5°C (9°F)",
+        "en": "|Engine coolant temperature — Intake air temperature| ≤ 5°C (9°F)"
+       },
+       "words": 2172,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t031_4d182866",
+       "title": {
+        "ru": "18.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC PO0OA A CAMSH",
+        "en": "18.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC PO0OA A CAMSH"
+       },
+       "words": 996,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t032_39c89fb8",
+       "title": {
+        "ru": "H:DTC PO021 INTAKE CAMSHAFT POSITION - TIMING OVER-ADVANCED OR SYSTEM PERFORMANC",
+        "en": "H:DTC PO021 INTAKE CAMSHAFT POSITION - TIMING OVER-ADVANCED OR SYSTEM PERFORMANC"
+       },
+       "words": 708,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t033_aee0f561",
+       "title": {
+        "ru": "DTC DETECTING CONDITION:",
+        "en": "DTC DETECTING CONDITION:"
+       },
+       "words": 806,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t034_d5753f4b",
+       "title": {
+        "ru": "AI: DTC PO13A O2 SENSOR SLOW RESPONSE - RICH TO LEAN (BANK 1 SENSOR 2)",
+        "en": "AI: DTC PO13A O2 SENSOR SLOW RESPONSE - RICH TO LEAN (BANK 1 SENSOR 2)"
+       },
+       "words": 817,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t035_94a89767",
+       "title": {
+        "ru": "AK:DTC PO13E O2 SENSOR DELAYED RESPONSE - RICH TO LEAN (BANK 1 SENSOR 2)",
+        "en": "AK:DTC PO13E O2 SENSOR DELAYED RESPONSE - RICH TO LEAN (BANK 1 SENSOR 2)"
+       },
+       "words": 756,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t036_1acb3f3f",
+       "title": {
+        "ru": "BE:DTC PO301 CYLINDER 1 MISFIRE DETECTED",
+        "en": "BE:DTC PO301 CYLINDER 1 MISFIRE DETECTED"
+       },
+       "words": 670,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t037_079c5e1c",
+       "title": {
+        "ru": "BN:DTC PO341 CAMSHAFT POSITION SENSOR \"A\" CIRCUIT RANGE/PERFORMANCE (BANK 1 OR S",
+        "en": "BN:DTC PO341 CAMSHAFT POSITION SENSOR \"A\" CIRCUIT RANGE/PERFORMANCE (BANK 1 OR S"
+       },
+       "words": 702,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t038_2f365450",
+       "title": {
+        "ru": "CB:DTC PO456 EVAPORATIVE EMISSION CONTROL SYSTEM LEAK DETECTED (VERY SMALL LEAK)",
+        "en": "CB:DTC PO456 EVAPORATIVE EMISSION CONTROL SYSTEM LEAK DETECTED (VERY SMALL LEAK)"
+       },
+       "words": 781,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t039_1528cf7a",
+       "title": {
+        "ru": "CQ:DTC PO604 INTERNAL CONTROL MODULE RANDOM ACCESS MEMORY(RAM) ERROR",
+        "en": "CQ:DTC PO604 INTERNAL CONTROL MODULE RANDOM ACCESS MEMORY(RAM) ERROR"
+       },
+       "words": 818,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t040_ba3e29b0",
+       "title": {
+        "ru": "CT:DTC PO6OA INTERNAL CONTROL MODULE MONITORING PROCESSOR PERFORMANCE",
+        "en": "CT:DTC PO6OA INTERNAL CONTROL MODULE MONITORING PROCESSOR PERFORMANCE"
+       },
+       "words": 728,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t041_348e13f1",
+       "title": {
+        "ru": "DI: DTC P1493 EGR SOLENOID VALVE SIGNAL #1 CIRCUIT MALFUNCTION (HIGH INPUT)",
+        "en": "DI: DTC P1493 EGR SOLENOID VALVE SIGNAL #1 CIRCUIT MALFUNCTION (HIGH INPUT)"
+       },
+       "words": 984,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t042_331c9314",
+       "title": {
+        "ru": "ED:DTC P2109 THROTTLE/PEDAL POSITION SENSOR \"A\" MINIMUM STOP PERFORMANCE",
+        "en": "ED:DTC P2109 THROTTLE/PEDAL POSITION SENSOR \"A\" MINIMUM STOP PERFORMANCE"
+       },
+       "words": 823,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t043_195c9cd9",
+       "title": {
+        "ru": "EP:DTC P2402 EVAPORATIVE EMISSION SYSTEM LEAK DETECTION PUMP CONTROL CIRCUIT HIG",
+        "en": "EP:DTC P2402 EVAPORATIVE EMISSION SYSTEM LEAK DETECTION PUMP CONTROL CIRCUIT HIG"
+       },
+       "words": 846,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t044_ae0c49b2",
+       "title": {
+        "ru": "ES:DTC P2420 EVAPORATIVE EMISSION SYSTEM SWITCHING VALVE CONTROL CIRCUIT HIGH",
+        "en": "ES:DTC P2420 EVAPORATIVE EMISSION SYSTEM SWITCHING VALVE CONTROL CIRCUIT HIGH"
+       },
+       "words": 958,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t045_959a463f",
+       "title": {
+        "ru": "P:  DTC PO021 INTAKE CAMSHAFT POSITION - TIMING OVER-ADVANCED OR SYSTEM PERFORMA",
+        "en": "P:  DTC PO021 INTAKE CAMSHAFT POSITION - TIMING OVER-ADVANCED OR SYSTEM PERFORMA"
+       },
+       "words": 722,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t046_40fae0a5",
+       "title": {
+        "ru": "AC:DTC P0112 INTAKE AIR TEMPERATURE SENSOR 1 CIRCUIT LOW1. OUTLINE OF DIAGNOSIS",
+        "en": "AC:DTC P0112 INTAKE AIR TEMPERATURE SENSOR 1 CIRCUIT LOW1. OUTLINE OF DIAGNOSIS"
+       },
+       "words": 604,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t047_1a546e09",
+       "title": {
+        "ru": "AP:DTC PO138 02 SENSOR CIRCUIT HIGH VOLTAGE (BANK 1 SENSOR 2) 1. OUTLINE OF DIAG",
+        "en": "AP:DTC PO138 02 SENSOR CIRCUIT HIGH VOLTAGE (BANK 1 SENSOR 2) 1. OUTLINE OF DIAG"
+       },
+       "words": 634,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t048_a099c9a4",
+       "title": {
+        "ru": "BR:DTC PO328 KNOCK SENSOR 1 CIRCUIT HIGH (BANK 1 OR SINGLESENSOR)",
+        "en": "BR:DTC PO328 KNOCK SENSOR 1 CIRCUIT HIGH (BANK 1 OR SINGLESENSOR)"
+       },
+       "words": 878,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t049_924ea3da",
+       "title": {
+        "ru": "BX:DTC PO346 CAMSHAFT POSITION SENSOR \"A\" CIRCUIT RANGE/PERFORMANCE (BANK 2)",
+        "en": "BX:DTC PO346 CAMSHAFT POSITION SENSOR \"A\" CIRCUIT RANGE/PERFORMANCE (BANK 2)"
+       },
+       "words": 1025,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t050_5570a2b8",
+       "title": {
+        "ru": "Mode B (Measurement of reference pressure for setting the target negative pressu",
+        "en": "Mode B (Measurement of reference pressure for setting the target negative pressu"
+       },
+       "words": 722,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t051_c47c2509",
+       "title": {
+        "ru": "CT:DTC PO50B COLD START IGNITION TIMING PERFORMANCE1. OUTLINE OF DIAGNOSIS",
+        "en": "CT:DTC PO50B COLD START IGNITION TIMING PERFORMANCE1. OUTLINE OF DIAGNOSIS"
+       },
+       "words": 579,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t052_df8b9118",
+       "title": {
+        "ru": "DS:DTC P1495 EGR SOLENOID VALVE SIGNAL #2 CIRCUIT MALFUNCTION (HIGH INPUT)",
+        "en": "DS:DTC P1495 EGR SOLENOID VALVE SIGNAL #2 CIRCUIT MALFUNCTION (HIGH INPUT)"
+       },
+       "words": 586,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t053_71082768",
+       "title": {
+        "ru": "ER:DTC P2135 THROTTLE/PEDAL POSITION SENSOR/SWITCH “A\"/“B\" VOLTAGE CORRELATION",
+        "en": "ER:DTC P2135 THROTTLE/PEDAL POSITION SENSOR/SWITCH “A\"/“B\" VOLTAGE CORRELATION"
+       },
+       "words": 502,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t054_d54d2b78",
+       "title": {
+        "ru": "FF:DTC UO155 LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODU",
+        "en": "FF:DTC UO155 LOST COMMUNICATION WITH INSTRUMENT PANEL CLUSTER (IPC) CONTROL MODU"
+       },
+       "words": 1091,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t055_1d7c1f72",
+       "title": {
+        "ru": "FI: DTC UO423 INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE",
+        "en": "FI: DTC UO423 INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE"
+       },
+       "words": 2128,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t056_a6abfbb7",
+       "title": {
+        "ru": "2. CHECK HIGH-PRESSURE FUEL PUMP CASE",
+        "en": "2. CHECK HIGH-PRESSURE FUEL PUMP CASE"
+       },
+       "words": 2374,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t057_08decbdb",
+       "title": {
+        "ru": "2. CRANKSHAFT POSITION SENSOR (METHOD WITH OSCILLOSCOPE)",
+        "en": "2. CRANKSHAFT POSITION SENSOR (METHOD WITH OSCILLOSCOPE)"
+       },
+       "words": 1178,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t058_5bd210c1",
+       "title": {
+        "ru": "25.Engine Control Module (ECM)",
+        "en": "25.Engine Control Module (ECM)"
+       },
+       "words": 1807,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t059_2cd9c8f3",
+       "title": {
+        "ru": "1. CONNECTING THE EVAPORATION LINE QUICK CONNECTOR",
+        "en": "1. CONNECTING THE EVAPORATION LINE QUICK CONNECTOR"
+       },
+       "words": 1517,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t060_fb3220e3",
+       "title": {
+        "ru": "Leak Check Valve Assembly",
+        "en": "Leak Check Valve Assembly"
+       },
+       "words": 1214,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t061_f7b23924",
+       "title": {
+        "ru": "1. INTAKE DUCT NO. 1",
+        "en": "1. INTAKE DUCT NO. 1"
+       },
+       "words": 1302,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t062_0275c035",
+       "title": {
+        "ru": "Tightening torque: NбН (kgf-m, ft-Ib)",
+        "en": "Tightening torque: NбН (kgf-m, ft-Ib)"
+       },
+       "words": 1838,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t063_3d1f017f",
+       "title": {
+        "ru": "1.  WHEN TIMING CHAIN ASSEMBLY IS NOT REMOVED",
+        "en": "1.  WHEN TIMING CHAIN ASSEMBLY IS NOT REMOVED"
+       },
+       "words": 3053,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t064_a99733c6",
+       "title": {
+        "ru": "2.V-BELT TENSIONER ASSY",
+        "en": "2.V-BELT TENSIONER ASSY"
+       },
+       "words": 2358,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t065_8d9a0543",
+       "title": {
+        "ru": "• Intake cam sprocket RH",
+        "en": "• Intake cam sprocket RH"
+       },
+       "words": 1787,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t066_5f7dc9fd",
+       "title": {
+        "ru": "Camshaft cam lobe overall height H:",
+        "en": "Camshaft cam lobe overall height H:"
+       },
+       "words": 3318,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t067_ec83e9aa",
+       "title": {
+        "ru": "Cylinder Head",
+        "en": "Cylinder Head"
+       },
+       "words": 2887,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t068_cd2d58f1",
+       "title": {
+        "ru": "Valve outer diameter:",
+        "en": "Valve outer diameter:"
+       },
+       "words": 2144,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t069_ed8a69e8",
+       "title": {
+        "ru": "4.CONNECTING ROD AND CONNECTING ROD BEARING",
+        "en": "4.CONNECTING ROD AND CONNECTING ROD BEARING"
+       },
+       "words": 2504,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t070_f079c85d",
+       "title": {
+        "ru": "6. CRANKSHAFT AND CRANKSHAFT BEARING",
+        "en": "6. CRANKSHAFT AND CRANKSHAFT BEARING"
+       },
+       "words": 1576,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t071_c8e6d771",
+       "title": {
+        "ru": "1. PROCEDURE TO ADJUST THE SUBARU SUPER COOLANT CONCENTRATION",
+        "en": "1. PROCEDURE TO ADJUST THE SUBARU SUPER COOLANT CONCENTRATION"
+       },
+       "words": 2322,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t072_b79bbb27",
+       "title": {
+        "ru": "General Description A: SPECIFICATION",
+        "en": "General Description A: SPECIFICATION"
+       },
+       "words": 1431,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t073_a5d38163",
+       "title": {
+        "ru": "5 MODE \\$04 (CLEAR/RESET EMISSION-RELATED DIAGNOSTIC INFORMATION)",
+        "en": "5 MODE \\$04 (CLEAR/RESET EMISSION-RELATED DIAGNOSTIC INFORMATION)"
+       },
+       "words": 1704,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t074_a81e1b54",
+       "title": {
+        "ru": "|Engine coolant temperature — Intake air temperature| ≤ 5°C (9°F)",
+        "en": "|Engine coolant temperature — Intake air temperature| ≤ 5°C (9°F)"
+       },
+       "words": 1823,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t075_ea431b4c",
+       "title": {
+        "ru": "18.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC PO0OA A CAMSHA",
+        "en": "18.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC PO0OA A CAMSHA"
+       },
+       "words": 796,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t076_f95cc53d",
+       "title": {
+        "ru": "S: DTC PO032 HO2S HEATER CONTROL CIRCUIT HIGH (BANK 1 SENSOR 1)",
+        "en": "S: DTC PO032 HO2S HEATER CONTROL CIRCUIT HIGH (BANK 1 SENSOR 1)"
+       },
+       "words": 844,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t077_0e8148ed",
+       "title": {
+        "ru": "DTC DETECTING CONDITION:",
+        "en": "DTC DETECTING CONDITION:"
+       },
+       "words": 753,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t078_651b2b55",
+       "title": {
+        "ru": "DTC DETECTING CONDITION:",
+        "en": "DTC DETECTING CONDITION:"
+       },
+       "words": 816,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t079_06a32bde",
+       "title": {
+        "ru": "AY:DTC PO13E O2 SENSOR DELAYED RESPONSE - RICH TO LEAN (BANK 1 SENSOR 2)",
+        "en": "AY:DTC PO13E O2 SENSOR DELAYED RESPONSE - RICH TO LEAN (BANK 1 SENSOR 2)"
+       },
+       "words": 1008,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t080_cb64bb3a",
+       "title": {
+        "ru": "BG:DTC P0171 SYSTEM TOO LEAN (BANK 1)",
+        "en": "BG:DTC P0171 SYSTEM TOO LEAN (BANK 1)"
+       },
+       "words": 799,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t081_937b8b4e",
+       "title": {
+        "ru": "BS:DTC PO244 TURBO/SUPER CHARGER WASTEGATE SOLENOID “A\" RANGE/PERFORMANCE",
+        "en": "BS:DTC PO244 TURBO/SUPER CHARGER WASTEGATE SOLENOID “A\" RANGE/PERFORMANCE"
+       },
+       "words": 855,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t082_eef1b16c",
+       "title": {
+        "ru": "CH:DTC PO341 CAMSHAFT POSITION SENSOR \"A\" CIRCUIT RANGE/PERFORMANCE (BANK 1 OR S",
+        "en": "CH:DTC PO341 CAMSHAFT POSITION SENSOR \"A\" CIRCUIT RANGE/PERFORMANCE (BANK 1 OR S"
+       },
+       "words": 802,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t083_39b8fd22",
+       "title": {
+        "ru": "CZ:DTC PO456 EVAPORATIVE EMISSION CONTROL SYSTEM LEAK DETECTED (VERY SMALL LEAK)",
+        "en": "CZ:DTC PO456 EVAPORATIVE EMISSION CONTROL SYSTEM LEAK DETECTED (VERY SMALL LEAK)"
+       },
+       "words": 816,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t084_00b34b34",
+       "title": {
+        "ru": "DO:DTC PO604 INTERNAL CONTROL MODULE RANDOM ACCESS MEMORY(RAM) ERROR",
+        "en": "DO:DTC PO604 INTERNAL CONTROL MODULE RANDOM ACCESS MEMORY(RAM) ERROR"
+       },
+       "words": 790,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t085_9bf4ed2c",
+       "title": {
+        "ru": "DR:DTC PO6OA INTERNAL CONTROL MODULE MONITORING PROCESSOR PERFORMANCE",
+        "en": "DR:DTC PO6OA INTERNAL CONTROL MODULE MONITORING PROCESSOR PERFORMANCE"
+       },
+       "words": 785,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t086_7bedff40",
+       "title": {
+        "ru": "EN:DTC P1493 EGR SOLENOID VALVE SIGNAL #1 CIRCUIT MALFUNCTION (HIGH INPUT)",
+        "en": "EN:DTC P1493 EGR SOLENOID VALVE SIGNAL #1 CIRCUIT MALFUNCTION (HIGH INPUT)"
+       },
+       "words": 928,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t087_c4b32960",
+       "title": {
+        "ru": "EZ:DTC P2006 INTAKE MANIFOLD RUNNER CONTROL STUCK CLOSED(BANK 1)",
+        "en": "EZ:DTC P2006 INTAKE MANIFOLD RUNNER CONTROL STUCK CLOSED(BANK 1)"
+       },
+       "words": 962,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t088_ea3e3009",
+       "title": {
+        "ru": "FS:DTC P2135 THROTTLE/PEDAL POSITION SENSOR/SWITCH “A\"/“B” VOLTAGE CORRELATION",
+        "en": "FS:DTC P2135 THROTTLE/PEDAL POSITION SENSOR/SWITCH “A\"/“B” VOLTAGE CORRELATION"
+       },
+       "words": 847,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t089_624293dd",
+       "title": {
+        "ru": "GC:DTC P2402 EVAPORATIVE EMISSION SYSTEM LEAK DETECTION PUMP CONTROL CIRCUIT HIG",
+        "en": "GC:DTC P2402 EVAPORATIVE EMISSION SYSTEM LEAK DETECTION PUMP CONTROL CIRCUIT HIG"
+       },
+       "words": 1015,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t090_3fc1dca9",
+       "title": {
+        "ru": "K: DTC PO0OC A CAMSHAFT POSITION SLOW RESPONSE (BANK 2)",
+        "en": "K: DTC PO0OC A CAMSHAFT POSITION SLOW RESPONSE (BANK 2)"
+       },
+       "words": 1035,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t091_1f8c1dbd",
+       "title": {
+        "ru": "V:  DTC PO021 INTAKE CAMSHAFT POSITION - TIMING OVER-ADVANCED OR SYSTEM PERFORMA",
+        "en": "V:  DTC PO021 INTAKE CAMSHAFT POSITION - TIMING OVER-ADVANCED OR SYSTEM PERFORMA"
+       },
+       "words": 943,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t092_348c8cb2",
+       "title": {
+        "ru": "BD:DTC P0138 02 SENSOR CIRCUIT HIGH VOLTAGE (BANK 1 SENSOR 2) 1. OUTLINE OF DIAG",
+        "en": "BD:DTC P0138 02 SENSOR CIRCUIT HIGH VOLTAGE (BANK 1 SENSOR 2) 1. OUTLINE OF DIAG"
+       },
+       "words": 679,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t093_b668fd5e",
+       "title": {
+        "ru": "CQ:DTC PO345 CAMSHAFT POSITION SENSOR “A\" CIRCUIT (BANK 2) 1. OUTLINE OF DIAGNOS",
+        "en": "CQ:DTC PO345 CAMSHAFT POSITION SENSOR “A\" CIRCUIT (BANK 2) 1. OUTLINE OF DIAGNOS"
+       },
+       "words": 996,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t094_f686a783",
+       "title": {
+        "ru": "Mode B (Measurement of reference pressure for setting the target negative pressu",
+        "en": "Mode B (Measurement of reference pressure for setting the target negative pressu"
+       },
+       "words": 961,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t095_72cb82e7",
+       "title": {
+        "ru": "EV:DTC P1493 EGR SOLENOID VALVE SIGNAL #1 CIRCUIT MALFUNCTION (HIGH INPUT)",
+        "en": "EV:DTC P1493 EGR SOLENOID VALVE SIGNAL #1 CIRCUIT MALFUNCTION (HIGH INPUT)"
+       },
+       "words": 540,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t096_f6c49657",
+       "title": {
+        "ru": "Time Needed for Diagnosis: 26000 ms Characteristics malfunction (Discharge side)",
+        "en": "Time Needed for Diagnosis: 26000 ms Characteristics malfunction (Discharge side)"
+       },
+       "words": 877,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t097_50000ffc",
+       "title": {
+        "ru": "GL:DTC P2404 EVAPORATIVE EMISSION SYSTEM LEAK DETECTION PUMP SENSE CIRCUIT RANGE",
+        "en": "GL:DTC P2404 EVAPORATIVE EMISSION SYSTEM LEAK DETECTION PUMP SENSE CIRCUIT RANGE"
+       },
+       "words": 1053,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t098_6540a459",
+       "title": {
+        "ru": "Body Integrated Unit",
+        "en": "Body Integrated Unit"
+       },
+       "words": 2887,
+       "images": 68,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t099_0a38b123",
+       "title": {
+        "ru": "AWD ON/OFF Switching Mode A: GENERAL DESCRIPTION",
+        "en": "AWD ON/OFF Switching Mode A: GENERAL DESCRIPTION"
+       },
+       "words": 1865,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t100_77c1a344",
+       "title": {
+        "ru": "2. TRANSMISSION REAR CROSSMEMBER AND REAR CUSHION RUBBER",
+        "en": "2. TRANSMISSION REAR CROSSMEMBER AND REAR CUSHION RUBBER"
+       },
+       "words": 3301,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t101_8a34c270",
+       "title": {
+        "ru": "18.Secondary Pressure Sensor",
+        "en": "18.Secondary Pressure Sensor"
+       },
+       "words": 1735,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t102_a720240d",
+       "title": {
+        "ru": "Tightening torque: 7.5 N•m (0.8 kgf-m, 5.5 ft-lb)",
+        "en": "Tightening torque: 7.5 N•m (0.8 kgf-m, 5.5 ft-lb)"
+       },
+       "words": 1802,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t103_dffa70fd",
+       "title": {
+        "ru": "Transfer Clutch",
+        "en": "Transfer Clutch"
+       },
+       "words": 1578,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t104_020ca0a6",
+       "title": {
+        "ru": "2. PROCEDURE WHEN REPLACING ONLY DRIVE PINION RETAINER OR REVERSE BRAKE HOUSING",
+        "en": "2. PROCEDURE WHEN REPLACING ONLY DRIVE PINION RETAINER OR REVERSE BRAKE HOUSING"
+       },
+       "words": 2538,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t105_cb677246",
+       "title": {
+        "ru": "2.  PLANETARY CARRIER ASSY",
+        "en": "2.  PLANETARY CARRIER ASSY"
+       },
+       "words": 3093,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t106_74ec8467",
+       "title": {
+        "ru": "Tightening torque: NбН (kgf-m, ft-Ib)",
+        "en": "Tightening torque: NбН (kgf-m, ft-Ib)"
+       },
+       "words": 2923,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t107_32938189",
+       "title": {
+        "ru": "AWD ON/OFF Switching Mode A: GENERAL DESCRIPTION",
+        "en": "AWD ON/OFF Switching Mode A: GENERAL DESCRIPTION"
+       },
+       "words": 3195,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t108_c19411da",
+       "title": {
+        "ru": "19.Secondary Pressure Sensor",
+        "en": "19.Secondary Pressure Sensor"
+       },
+       "words": 2287,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t109_907b26f7",
+       "title": {
+        "ru": "24.CVTF Cooler (With Warmer Function)",
+        "en": "24.CVTF Cooler (With Warmer Function)"
+       },
+       "words": 1118,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t110_36d44733",
+       "title": {
+        "ru": "Rear Drive Shaft",
+        "en": "Rear Drive Shaft"
+       },
+       "words": 1362,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t111_18e04806",
+       "title": {
+        "ru": "2 PROCEDURE WHEN REPLACING ONLY DRIVE PINION RETAINER OR CONVERTER CASE",
+        "en": "2 PROCEDURE WHEN REPLACING ONLY DRIVE PINION RETAINER OR CONVERTER CASE"
+       },
+       "words": 2619,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t112_97670eb5",
+       "title": {
+        "ru": "Front Differential Assembly",
+        "en": "Front Differential Assembly"
+       },
+       "words": 2434,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t113_de5eefdb",
+       "title": {
+        "ru": "Inspection Mode A: PROCEDURE",
+        "en": "Inspection Mode A: PROCEDURE"
+       },
+       "words": 1892,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t114_f35717f9",
+       "title": {
+        "ru": "15.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC PO705 TRANSMIS",
+        "en": "15.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC PO705 TRANSMIS"
+       },
+       "words": 763,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t115_d1ebb91f",
+       "title": {
+        "ru": "S: DTC P0966 FORWARD & REVERSE SOLENOID CIRCUIT (LOW)",
+        "en": "S: DTC P0966 FORWARD & REVERSE SOLENOID CIRCUIT (LOW)"
+       },
+       "words": 667,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t116_93e299a7",
+       "title": {
+        "ru": "AR:DTC UO423 INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE",
+        "en": "AR:DTC UO423 INVALID DATA RECEIVED FROM INSTRUMENT PANEL CLUSTER CONTROL MODULE"
+       },
+       "words": 2030,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t117_582ff413",
+       "title": {
+        "ru": "1.  BACK-UP LIGHT AND NEUTRAL POSITION SWITCH",
+        "en": "1.  BACK-UP LIGHT AND NEUTRAL POSITION SWITCH"
+       },
+       "words": 1591,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t118_7ef440ee",
+       "title": {
+        "ru": "B: INSTALLATION",
+        "en": "B: INSTALLATION"
+       },
+       "words": 3179,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t119_c938e55a",
+       "title": {
+        "ru": "3. TOOTH CONTACT OF HYPOID GEAR 2. HYPOID GEAR BACKLASH",
+        "en": "3. TOOTH CONTACT OF HYPOID GEAR 2. HYPOID GEAR BACKLASH"
+       },
+       "words": 4065,
+       "images": 83,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t120_487d87d1",
+       "title": {
+        "ru": "NICHIMOLY N-130 or equivalent",
+        "en": "NICHIMOLY N-130 or equivalent"
+       },
+       "words": 1811,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t121_6a4be0f8",
+       "title": {
+        "ru": "Recommended clutch fluid: New FMVSS No. 116 DOT3 or DOT4",
+        "en": "Recommended clutch fluid: New FMVSS No. 116 DOT3 or DOT4"
+       },
+       "words": 1897,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t122_d7b98e0e",
+       "title": {
+        "ru": "Tightening torque:",
+        "en": "Tightening torque:"
+       },
+       "words": 1820,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t123_8dd94148",
+       "title": {
+        "ru": "1.  BUSHING FRONT - FRONT ARM",
+        "en": "1.  BUSHING FRONT - FRONT ARM"
+       },
+       "words": 1414,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t124_49a3490a",
+       "title": {
+        "ru": "1.  BUSHING A - TRAILING LINK",
+        "en": "1.  BUSHING A - TRAILING LINK"
+       },
+       "words": 1366,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t125_ab887db1",
+       "title": {
+        "ru": "Tire Pressure Monitoring System",
+        "en": "Tire Pressure Monitoring System"
+       },
+       "words": 1214,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t126_18cc5bac",
+       "title": {
+        "ru": "14.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC C2021 TIRE 1 A",
+        "en": "14.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC C2021 TIRE 1 A"
+       },
+       "words": 1138,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t127_e6f0377b",
+       "title": {
+        "ru": "Q: DTC C2421 TRANSMITTER 1 BATTERY VOLTAGE DECREASE",
+        "en": "Q: DTC C2421 TRANSMITTER 1 BATTERY VOLTAGE DECREASE"
+       },
+       "words": 2549,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t128_1c65b20c",
+       "title": {
+        "ru": "4.  TOOTH CONTACT BETWEEN HYPOIDDRIVEN GEAR AND DRIVE PINION",
+        "en": "4.  TOOTH CONTACT BETWEEN HYPOIDDRIVEN GEAR AND DRIVE PINION"
+       },
+       "words": 2637,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t129_3e2102f1",
+       "title": {
+        "ru": "10.Rear Differential Inspection Mode A: GENERAL DESCRIPTION",
+        "en": "10.Rear Differential Inspection Mode A: GENERAL DESCRIPTION"
+       },
+       "words": 1749,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t130_c075f953",
+       "title": {
+        "ru": "11.Transfer Clutch Pressure Test",
+        "en": "11.Transfer Clutch Pressure Test"
+       },
+       "words": 1600,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t131_e6ef426c",
+       "title": {
+        "ru": "Tightening torque:",
+        "en": "Tightening torque:"
+       },
+       "words": 1505,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t132_e1c15658",
+       "title": {
+        "ru": "Front Drive Shaft",
+        "en": "Front Drive Shaft"
+       },
+       "words": 1652,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t133_5f9eb7ff",
+       "title": {
+        "ru": "3Vehicle Dynamics Control System",
+        "en": "3Vehicle Dynamics Control System"
+       },
+       "words": 1748,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t134_10c007c1",
+       "title": {
+        "ru": "/DC Control Module and Hydraulic Control Unit (VDCCM&H/U) VEHICLE DYNAMICS CONTR",
+        "en": "/DC Control Module and Hydraulic Control Unit (VDCCM&H/U) VEHICLE DYNAMICS CONTR"
+       },
+       "words": 2212,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t135_859dc31e",
+       "title": {
+        "ru": "Basic Diagnostic Procedure",
+        "en": "Basic Diagnostic Procedure"
+       },
+       "words": 1253,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t136_64775645",
+       "title": {
+        "ru": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC C1211 FR WHEEL",
+        "en": "12.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC C1211 FR WHEEL"
+       },
+       "words": 999,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t137_164412af",
+       "title": {
+        "ru": "AA:DTC C1422 VDC INTERRUPTION FOR ENGINE CONVENIENCE",
+        "en": "AA:DTC C1422 VDC INTERRUPTION FOR ENGINE CONVENIENCE"
+       },
+       "words": 1059,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t138_76328030",
+       "title": {
+        "ru": "Front Disc Brake Assembly",
+        "en": "Front Disc Brake Assembly"
+       },
+       "words": 2486,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t139_ddf26f14",
+       "title": {
+        "ru": "Recommended brake fluid: FMVSS No. 116, DOT3 or DOT4",
+        "en": "Recommended brake fluid: FMVSS No. 116, DOT3 or DOT4"
+       },
+       "words": 1735,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t140_a911b688",
+       "title": {
+        "ru": "Specification of pedal stroke:",
+        "en": "Specification of pedal stroke:"
+       },
+       "words": 1649,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t141_12748f06",
+       "title": {
+        "ru": "11.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC 11 SENSOR OUT",
+        "en": "11.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC 11 SENSOR OUT"
+       },
+       "words": 2599,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t142_acde65f6",
+       "title": {
+        "ru": "Electric Power Steering Gearbox",
+        "en": "Electric Power Steering Gearbox"
+       },
+       "words": 2213,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t143_b9d8232d",
+       "title": {
+        "ru": "1.  COMMUNICATION FOR INITIALIZING IMPOSSIBLE DETECTING CONDITION:",
+        "en": "1.  COMMUNICATION FOR INITIALIZING IMPOSSIBLE DETECTING CONDITION:"
+       },
+       "words": 1306,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t144_c8fa92e6",
+       "title": {
+        "ru": "C: DTC C2513 TORQUE SENSOR FAILURE 3 (MUCH TOLERANCE)",
+        "en": "C: DTC C2513 TORQUE SENSOR FAILURE 3 (MUCH TOLERANCE)"
+       },
+       "words": 2358,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t145_1767e0d5",
+       "title": {
+        "ru": "Confirm that the connections are secure.",
+        "en": "Confirm that the connections are secure."
+       },
+       "words": 1584,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t146_5e08f40d",
+       "title": {
+        "ru": "1. MAGNET CLUTCH CLEARANCE INSPECTION",
+        "en": "1. MAGNET CLUTCH CLEARANCE INSPECTION"
+       },
+       "words": 1749,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t147_a4fb4847",
+       "title": {
+        "ru": "The value changes depending on the angle of light.",
+        "en": "The value changes depending on the angle of light."
+       },
+       "words": 1489,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t148_295a5427",
+       "title": {
+        "ru": "10.COOL AIR DOES NOT COME OUT WHEN PRESSING THE A/C SWITCH. FOG CANNOT BECLEARED",
+        "en": "10.COOL AIR DOES NOT COME OUT WHEN PRESSING THE A/C SWITCH. FOG CANNOT BECLEARED"
+       },
+       "words": 1220,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t149_140b0c0d",
+       "title": {
+        "ru": "13.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC B1430 ROOM TE",
+        "en": "13.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC B1430 ROOM TE"
+       },
+       "words": 928,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t150_38fedfa5",
+       "title": {
+        "ru": "10.COLUMN ASSEMBLY - STEERING & STEERING WHEEL",
+        "en": "10.COLUMN ASSEMBLY - STEERING & STEERING WHEEL"
+       },
+       "words": 2322,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t151_aad8960a",
+       "title": {
+        "ru": "2. UNIT INSPECTION OF ROLL CONNECTOR",
+        "en": "2. UNIT INSPECTION OF ROLL CONNECTOR"
+       },
+       "words": 1630,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t152_d5e98266",
+       "title": {
+        "ru": "16.Diagnostic Chart with Trouble Code A:  DTC UOO73 CONTROL MODULE COMMUNICATION",
+        "en": "16.Diagnostic Chart with Trouble Code A:  DTC UOO73 CONTROL MODULE COMMUNICATION"
+       },
+       "words": 859,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t153_5e7beeac",
+       "title": {
+        "ru": "BS:DTC B1697 LOST COMMUNICATION WITH DOOR SENSOR LH",
+        "en": "BS:DTC B1697 LOST COMMUNICATION WITH DOOR SENSOR LH"
+       },
+       "words": 1454,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t154_dafac96e",
+       "title": {
+        "ru": "Clearance Light and Illumination Light System",
+        "en": "Clearance Light and Illumination Light System"
+       },
+       "words": 1660,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t155_1d01cfb6",
+       "title": {
+        "ru": "11.Auto Headlight Beam Leveler System",
+        "en": "11.Auto Headlight Beam Leveler System"
+       },
+       "words": 1638,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t156_5ce602d8",
+       "title": {
+        "ru": "1.  HEADLIGHT BEAM ADJUSTMENT",
+        "en": "1.  HEADLIGHT BEAM ADJUSTMENT"
+       },
+       "words": 1767,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t157_d78a97eb",
+       "title": {
+        "ru": "24.Rear Combination Light Assembly",
+        "en": "24.Rear Combination Light Assembly"
+       },
+       "words": 789,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t158_faed068a",
+       "title": {
+        "ru": "11.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC UO073 CONTROL ",
+        "en": "11.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC UO073 CONTROL "
+       },
+       "words": 908,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t159_5eb2c7ba",
+       "title": {
+        "ru": "Wiper and Washer System",
+        "en": "Wiper and Washer System"
+       },
+       "words": 2137,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t160_593c2367",
+       "title": {
+        "ru": "Tightening torque: 8 N•m (0.82 kgf-m, 5.9 ft-lb)",
+        "en": "Tightening torque: 8 N•m (0.82 kgf-m, 5.9 ft-lb)"
+       },
+       "words": 1428,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t161_fbe8416d",
+       "title": {
+        "ru": "1. CHECK NAVIGATION OPERATION",
+        "en": "1. CHECK NAVIGATION OPERATION"
+       },
+       "words": 1240,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t162_0d2b2dbe",
+       "title": {
+        "ru": "15.Front Accessory Power Supply Socket",
+        "en": "15.Front Accessory Power Supply Socket"
+       },
+       "words": 1598,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t163_f25bda7f",
+       "title": {
+        "ru": "Switch - power window sub front",
+        "en": "Switch - power window sub front"
+       },
+       "words": 1226,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t164_96224bbd",
+       "title": {
+        "ru": "Remote Control Mirror Switch",
+        "en": "Remote Control Mirror Switch"
+       },
+       "words": 1866,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t165_160a43ac",
+       "title": {
+        "ru": "General Description A: SPECIFICATION",
+        "en": "General Description A: SPECIFICATION"
+       },
+       "words": 2521,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t166_8c10497b",
+       "title": {
+        "ru": "13.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC UO073 CONTROL",
+        "en": "13.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC UO073 CONTROL"
+       },
+       "words": 1313,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t167_ef58d0a1",
+       "title": {
+        "ru": "T: DTC B1507 EXTERNAL AIR TEMPERATURE OPEN/SHORT-CIRCUIT DETECTION",
+        "en": "T: DTC B1507 EXTERNAL AIR TEMPERATURE OPEN/SHORT-CIRCUIT DETECTION"
+       },
+       "words": 2137,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t168_96c2d916",
+       "title": {
+        "ru": "3.CHECK REMOTE CONTROL BACK REST SYSTEM FUSE",
+        "en": "3.CHECK REMOTE CONTROL BACK REST SYSTEM FUSE"
+       },
+       "words": 1375,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t169_e5b23a19",
+       "title": {
+        "ru": "1.  KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM",
+        "en": "1.  KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM"
+       },
+       "words": 1010,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t170_28af4cd1",
+       "title": {
+        "ru": "15.Rear Gate Latch and Actuator Assembly",
+        "en": "15.Rear Gate Latch and Actuator Assembly"
+       },
+       "words": 1168,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t171_f5ff33bb",
+       "title": {
+        "ru": "1.  REGISTRATION OF KEYLESS TRANSMITTER WITH SUBARU SELECT MONITOR",
+        "en": "1.  REGISTRATION OF KEYLESS TRANSMITTER WITH SUBARU SELECT MONITOR"
+       },
+       "words": 1414,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t172_238e1789",
+       "title": {
+        "ru": "2. CLEARING ACCESS KEY REGISTRATION",
+        "en": "2. CLEARING ACCESS KEY REGISTRATION"
+       },
+       "words": 1250,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t173_ff3b016e",
+       "title": {
+        "ru": "43.Keyless Access With Push Button Start System A: DIAGNOSTIC PROCEDURE WITH PHE",
+        "en": "43.Keyless Access With Push Button Start System A: DIAGNOSTIC PROCEDURE WITH PHE"
+       },
+       "words": 981,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t174_eb2d2645",
+       "title": {
+        "ru": "1.  MOVING LOAD OF SUNSHADE ASSEMBLY",
+        "en": "1.  MOVING LOAD OF SUNSHADE ASSEMBLY"
+       },
+       "words": 1185,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t175_c4cecd87",
+       "title": {
+        "ru": "Roof Spoiler",
+        "en": "Roof Spoiler"
+       },
+       "words": 1255,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t176_71bdcfda",
+       "title": {
+        "ru": "Instrument Panel Assembly",
+        "en": "Instrument Panel Assembly"
+       },
+       "words": 1761,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t177_3d81f88f",
+       "title": {
+        "ru": "General Description A: SPECIFICATION",
+        "en": "General Description A: SPECIFICATION"
+       },
+       "words": 1681,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t178_97c45395",
+       "title": {
+        "ru": "Tightening torque:",
+        "en": "Tightening torque:"
+       },
+       "words": 2027,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t179_519c812f",
+       "title": {
+        "ru": "Power Rear Gate System",
+        "en": "Power Rear Gate System"
+       },
+       "words": 1933,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t180_5bd65c64",
+       "title": {
+        "ru": "B: INSTALLATION",
+        "en": "B: INSTALLATION"
+       },
+       "words": 979,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t181_26f3804b",
+       "title": {
+        "ru": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) POWER REAR GATE SYSTEM (",
+        "en": "Diagnostic Procedure with Diagnostic Trouble Code (DTC) POWER REAR GATE SYSTEM ("
+       },
+       "words": 871,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t182_6afb7dc8",
+       "title": {
+        "ru": "X:  DTC B251A LIN CONNECTION FAILURE (NO-RECEIVE DATA FAILURE)",
+        "en": "X:  DTC B251A LIN CONNECTION FAILURE (NO-RECEIVE DATA FAILURE)"
+       },
+       "words": 1091,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t183_9873554b",
+       "title": {
+        "ru": "Engine Control Module (ECM) /O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "Engine Control Module (ECM) /O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 1026,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t184_142bbcf7",
+       "title": {
+        "ru": "2.READ DIAGNOSTIC TROUBLE CODE (DTC) FOR ENGINE AND BODY INTEGRATED UNIT",
+        "en": "2.READ DIAGNOSTIC TROUBLE CODE (DTC) FOR ENGINE AND BODY INTEGRATED UNIT"
+       },
+       "words": 688,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t185_d530c3d7",
+       "title": {
+        "ru": "10.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B1570 ANTENNA",
+        "en": "10.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A: DTC B1570 ANTENNA"
+       },
+       "words": 643,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t186_ce6ac4d1",
+       "title": {
+        "ru": "Control Module I/O Signal A: ELECTRICAL SPECIFICATION",
+        "en": "Control Module I/O Signal A: ELECTRICAL SPECIFICATION"
+       },
+       "words": 4489,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t187_c92ebf0d",
+       "title": {
+        "ru": "16.RELATED LINES 53 — 61 2 (HEADLIGHT BEAM LEVELER) WIRING DIAGRAM:",
+        "en": "16.RELATED LINES 53 — 61 2 (HEADLIGHT BEAM LEVELER) WIRING DIAGRAM:"
+       },
+       "words": 8742,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t188_4d0982b7",
+       "title": {
+        "ru": "11.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC U1201 CAN-HS ",
+        "en": "11.Diagnostic Procedure with Diagnostic Trouble Code (DTC) A:  DTC U1201 CAN-HS "
+       },
+       "words": 2817,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t189_9a4569d1",
+       "title": {
+        "ru": "11.VDC Control Module and Hydraulic Control Unit (VDCCM&H/U)",
+        "en": "11.VDC Control Module and Hydraulic Control Unit (VDCCM&H/U)"
+       },
+       "words": 1556,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t190_98cf3cf7",
+       "title": {
+        "ru": "•When performing adjustment or inspection by afixing RANDOM CHART onto wall.",
+        "en": "•When performing adjustment or inspection by afixing RANDOM CHART onto wall."
+       },
+       "words": 2079,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t191_38dca0e4",
+       "title": {
+        "ru": "2.  LIST OF CONTENTS FOR CAMERA TEMPORARY STOP: 0 — 23 COUNTS",
+        "en": "2.  LIST OF CONTENTS FOR CAMERA TEMPORARY STOP: 0 — 23 COUNTS"
+       },
+       "words": 1949,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t192_fbecc7eb",
+       "title": {
+        "ru": "AI: DTC B28A5 ADAPTIVE CC ECM COMMUNICATION DATA ERROR",
+        "en": "AI: DTC B28A5 ADAPTIVE CC ECM COMMUNICATION DATA ERROR"
+       },
+       "words": 844,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t193_c86dabfb",
+       "title": {
+        "ru": "2. KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM",
+        "en": "2. KEYLESS ACCESS WITH PUSH BUTTON START SYSTEM"
+       },
+       "words": 1713,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t194_6e3b8d5d",
+       "title": {
+        "ru": "Q:  DTC B2284 BRAKE SIGNAL (CABLE-INFORMATION DOES NOT MATCH TO BEAN-INFORMATION",
+        "en": "Q:  DTC B2284 BRAKE SIGNAL (CABLE-INFORMATION DOES NOT MATCH TO BEAN-INFORMATION"
+       },
+       "words": 822,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t195_26bf96c6",
+       "title": {
+        "ru": "V: DTC B2782 STEERING LOCK POWER SUPPLY CIRCUIT ABNORMAL (SMART ECU-SIDE ABNORMA",
+        "en": "V: DTC B2782 STEERING LOCK POWER SUPPLY CIRCUIT ABNORMAL (SMART ECU-SIDE ABNORMA"
+       },
+       "words": 662,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t196_a51beff2",
+       "title": {
+        "ru": "16.POWER WILL NOT TURN ON (ACCESSORY DOES NOT TURN ON, BUT IGNITION TURNS ON)",
+        "en": "16.POWER WILL NOT TURN ON (ACCESSORY DOES NOT TURN ON, BUT IGNITION TURNS ON)"
+       },
+       "words": 1155,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t197_97df3dc3",
+       "title": {
+        "ru": "F: DTC B1105 KEY INTERLOCK CIRCUIT ABNORMAL",
+        "en": "F: DTC B1105 KEY INTERLOCK CIRCUIT ABNORMAL"
+       },
+       "words": 1560,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t198_f6584ccc",
+       "title": {
+        "ru": "A:  PRECAUTIONS WHEN WORKING WITH THE PARTS MOUNTED ON THE VEHICLE",
+        "en": "A:  PRECAUTIONS WHEN WORKING WITH THE PARTS MOUNTED ON THE VEHICLE"
+       },
+       "words": 2942,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t199_f5cc7508",
+       "title": {
+        "ru": "3.  TURBO MODEL (WITHOUT PUSH BUTTON START)",
+        "en": "3.  TURBO MODEL (WITHOUT PUSH BUTTON START)"
+       },
+       "words": 4397,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t200_34a2fd09",
+       "title": {
+        "ru": "LIST OF CONNECTORS",
+        "en": "LIST OF CONNECTORS"
+       },
+       "words": 3202,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t201_19508320",
+       "title": {
+        "ru": "Time Needed for Diagnosis:",
+        "en": "Time Needed for Diagnosis:"
+       },
+       "words": 1063,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t202_c3c290c7",
+       "title": {
+        "ru": "19.Diagnostic Procedure without Diagnostic Trouble Code (DTC) A:  CHECK SI-DRIVE",
+        "en": "19.Diagnostic Procedure without Diagnostic Trouble Code (DTC) A:  CHECK SI-DRIVE"
+       },
+       "words": 329,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "subaru_forester_general_t203_f4c7a08e",
+       "title": {
+        "ru": "Y: DTC UO327 SOFTWARE INCOMPATIBILITY WITH VEHICLE SECURITY CONTROL MODULE",
+        "en": "Y: DTC UO327 SOFTWARE INCOMPATIBILITY WITH VEHICLE SECURITY CONTROL MODULE"
+       },
+       "words": 403,
+       "images": 2,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "subaru_forester_sensors_t000_131e0caa",
+       "title": {
+        "ru": "EMISSION CONTROL (AUX. EMISSION CONTROL DEVICES) EC(4DOT)",
+        "en": "EMISSION CONTROL (AUX. EMISSION CONTROL DEVICES) EC(4DOT)"
+       },
+       "words": 150,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "subaru_forester_drivetrain_t000_602beb4c",
+       "title": {
+        "ru": "CONTINUOUSLY VARIABLE TRANSMISSION CVT(TR580)",
+        "en": "CONTINUOUSLY VARIABLE TRANSMISSION CVT(TR580)"
+       },
+       "words": 395,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "subaru_forester_infotainment_t000_5c5ff5fa",
+       "title": {
+        "ru": "IDI",
+        "en": "IDI"
+       },
+       "words": 129,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

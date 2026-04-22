@@ -1,0 +1,275 @@
+{
+ "version": "1.0",
+ "model": "compass",
+ "manuals": [
+  {
+   "model": "compass",
+   "label": {
+    "ru": "Jeep Compass — Руководство по ремонту",
+    "en": "Jeep Compass — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "jeep_compass_engine_t000_2dd58539",
+       "title": {
+        "ru": "ВЕРСІЇ З ЕЛЕКТРОННИМ КЛЮЧЕМ (система Enter-N-Go без ключів)",
+        "en": "ВЕРСІЇ З ЕЛЕКТРОННИМ КЛЮЧЕМ (система Enter-N-Go без ключів)"
+       },
+       "words": 287,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "jeep_compass_brakes_t000_dcd5a961",
+       "title": {
+        "ru": "ЖОВТІ ПОПЕРЕДЖУВАЛЬНІ ІНДИКАТОРИ/СИМВОЛИ",
+        "en": "ЖОВТІ ПОПЕРЕДЖУВАЛЬНІ ІНДИКАТОРИ/СИМВОЛИ"
+       },
+       "words": 374,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "jeep_compass_body_t000_0db93704",
+       "title": {
+        "ru": "МІСЦЕ ДЛЯ ЗБЕРІГАННЯ ДОМКРАТА/ ЗАПАСНОГО КОЛЕСА",
+        "en": "МІСЦЕ ДЛЯ ЗБЕРІГАННЯ ДОМКРАТА/ ЗАПАСНОГО КОЛЕСА"
+       },
+       "words": 952,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "jeep_compass_lighting_t000_1aeba4ac",
+       "title": {
+        "ru": "МИГАННЯ ФАРАМИ",
+        "en": "МИГАННЯ ФАРАМИ"
+       },
+       "words": 106,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "jeep_compass_interior_t000_2723cc57",
+       "title": {
+        "ru": "ПОДУШКА БЕЗПЕКИ ПАСАЖИРА НА ПЕРЕДНЬОМУ СИДІННІ ТА ДИТЯЧІ УТРИМУЮЧІ СИСТЕМИ",
+        "en": "ПОДУШКА БЕЗПЕКИ ПАСАЖИРА НА ПЕРЕДНЬОМУ СИДІННІ ТА ДИТЯЧІ УТРИМУЮЧІ СИСТЕМИ"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "jeep_compass_ev_t000_83b2c3af",
+       "title": {
+        "ru": "Power flow",
+        "en": "Power flow"
+       },
+       "words": 54,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "jeep_compass_general_t000_392afa47",
+       "title": {
+        "ru": "ПОРЯДОК ЗАРЯДЖАННЯ ВІД ПОБУТОВОЇ РОЗЕТКИ (ЗМІННИЙ СТРУМ) ... 24",
+        "en": "ПОРЯДОК ЗАРЯДЖАННЯ ВІД ПОБУТОВОЇ РОЗЕТКИ (ЗМІННИЙ СТРУМ) ... 24"
+       },
+       "words": 652,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_compass_general_t001_1e3ffc99",
+       "title": {
+        "ru": "РЕЖИМИ РОБОТИ, ПЛАГІНГІБРИДНА ВЕРСІЯ СОМРАSS",
+        "en": "РЕЖИМИ РОБОТИ, ПЛАГІНГІБРИДНА ВЕРСІЯ СОМРАSS"
+       },
+       "words": 344,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_compass_general_t002_fcb56eae",
+       "title": {
+        "ru": "АВТОМАТИЧНА ТРАНСМІСІЯ / АВТОМАТИЧНА ТРАНСМІСІЯ З ДВОМА МУФТАМИ ЗЧЕПЛЕННЯ / ЕЛЕК",
+        "en": "АВТОМАТИЧНА ТРАНСМІСІЯ / АВТОМАТИЧНА ТРАНСМІСІЯ З ДВОМА МУФТАМИ ЗЧЕПЛЕННЯ / ЕЛЕК"
+       },
+       "words": 889,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_compass_general_t003_456e1d62",
+       "title": {
+        "ru": "ВИКЛИК ДОПОМОГИ ВРУЧНУ (якщо є для певних версій/ринків)",
+        "en": "ВИКЛИК ДОПОМОГИ ВРУЧНУ (якщо є для певних версій/ринків)"
+       },
+       "words": 1249,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_compass_general_t004_1c2df81e",
+       "title": {
+        "ru": "ПОПЕРЕДЖЕННЯ Завжди спочатку підключайте кабель до зарядного порту домашньої еле",
+        "en": "ПОПЕРЕДЖЕННЯ Завжди спочатку підключайте кабель до зарядного порту домашньої еле"
+       },
+       "words": 1027,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_compass_general_t005_e2444be3",
+       "title": {
+        "ru": "ВІД'ЄДНАННЯ ЗАРЯДНОГО КАБЕЛЮ РЕЖИМУ 2",
+        "en": "ВІД'ЄДНАННЯ ЗАРЯДНОГО КАБЕЛЮ РЕЖИМУ 2"
+       },
+       "words": 1488,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_compass_general_t006_5efd8294",
+       "title": {
+        "ru": "Процедура накачування",
+        "en": "Процедура накачування"
+       },
+       "words": 693,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_compass_general_t007_a5e8724e",
+       "title": {
+        "ru": "ГРАФІК ТЕХНІЧНОГО ОБСЛУГОВУВАННЯ (версії з бензиновим двигуном/ плагін-гібридні ",
+        "en": "ГРАФІК ТЕХНІЧНОГО ОБСЛУГОВУВАННЯ (версії з бензиновим двигуном/ плагін-гібридні "
+       },
+       "words": 816,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_compass_general_t008_cf416001",
+       "title": {
+        "ru": "ЕКРАНИ ГІБРИДНИХ СИСТЕМ (м'які гібридні версії)",
+        "en": "ЕКРАНИ ГІБРИДНИХ СИСТЕМ (м'які гібридні версії)"
+       },
+       "words": 385,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "jeep_compass_infotainment_t000_7faa1c03",
+       "title": {
+        "ru": "СИСТЕМА КЛІМАТ-КОНТРОЛЮ З АВТОМАТИЧНИМ КЕРУВАННЯМ .. 6",
+        "en": "СИСТЕМА КЛІМАТ-КОНТРОЛЮ З АВТОМАТИЧНИМ КЕРУВАННЯМ .. 6"
+       },
+       "words": 28,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "jeep_compass_sensors_t000_55f5241e",
+       "title": {
+        "ru": "СЕНСОРНИЙ ЕКРАН",
+        "en": "СЕНСОРНИЙ ЕКРАН"
+       },
+       "words": 235,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1845 @@
+{
+ "version": "1.0",
+ "model": "rav4",
+ "manuals": [
+  {
+   "model": "rav4",
+   "label": {
+    "ru": "Toyota RAV4 — Руководство по ремонту",
+    "en": "Toyota RAV4 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "toyota_rav4_steering_t000_11ce9ef1",
+       "title": {
+        "ru": "2.6.1. Подключение/ отключение телефона",
+        "en": "2.6.1. Подключение/ отключение телефона"
+       },
+       "words": 927,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "toyota_rav4_steering_t001_12770541",
+       "title": {
+        "ru": "1.2. Описание кнопок рулевого колеса",
+        "en": "1.2. Описание кнопок рулевого колеса"
+       },
+       "words": 2070,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "toyota_rav4_lighting_t000_4e53bb17",
+       "title": {
+        "ru": "ПРИМЕЧАНИЕ",
+        "en": "ПРИМЕЧАНИЕ"
+       },
+       "words": 33,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "toyota_rav4_ev_t000_6937ac25",
+       "title": {
+        "ru": "Выключение устройства",
+        "en": "Выключение устройства"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "toyota_rav4_general_t000_4ccedef7",
+       "title": {
+        "ru": "ВАЖНАЯ ИНФОРМАЦИЯ ОБ ЭТОМ РУКОВОДСТВЕ",
+        "en": "ВАЖНАЯ ИНФОРМАЦИЯ ОБ ЭТОМ РУКОВОДСТВЕ"
+       },
+       "words": 893,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t001_49f84df6",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 547,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t002_2329c473",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 439,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t003_ab9fc6fc",
+       "title": {
+        "ru": "2.3.2. Контекстный виджет",
+        "en": "2.3.2. Контекстный виджет"
+       },
+       "words": 295,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t004_a0edb3f4",
+       "title": {
+        "ru": "2.7.5. Воспроизведение CD / MP3 дисков",
+        "en": "2.7.5. Воспроизведение CD / MP3 дисков"
+       },
+       "words": 716,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t005_a7f5bbaa",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 879,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t006_17693168",
+       "title": {
+        "ru": "Напряжение питания: . .11-14VDC",
+        "en": "Напряжение питания: . .11-14VDC"
+       },
+       "words": 519,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t007_4de7e96a",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 1220,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t008_9c1c6974",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 704,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t009_7fed926a",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 503,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t010_de71c854",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 563,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t011_1160eea8",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 772,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t012_72cfb2c1",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 777,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t013_731ea8ab",
+       "title": {
+        "ru": "3.2. Подключение к беспроводной сети",
+        "en": "3.2. Подключение к беспроводной сети"
+       },
+       "words": 1019,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t014_61bb0c3e",
+       "title": {
+        "ru": "Напряжение питания: . .11-14VDC",
+        "en": "Напряжение питания: . .11-14VDC"
+       },
+       "words": 852,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t015_1db62caf",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 1098,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t016_a692b814",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 1154,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t017_6ef12108",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 662,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t018_5ae2c766",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 798,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t019_d3c9d3ca",
+       "title": {
+        "ru": "2.3.2. Контекстный виджет",
+        "en": "2.3.2. Контекстный виджет"
+       },
+       "words": 680,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t020_09d5686e",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 1047,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t021_6d54b3c5",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 952,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t022_3ccf3680",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 761,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t023_9ce6c90b",
+       "title": {
+        "ru": "3.2. Подключение к беспроводной сети",
+        "en": "3.2. Подключение к беспроводной сети"
+       },
+       "words": 1399,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t024_14e7017a",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 746,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t025_7f42d621",
+       "title": {
+        "ru": "Напряжение питания: . .11-14VDC",
+        "en": "Напряжение питания: . .11-14VDC"
+       },
+       "words": 889,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t026_f02ff612",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 1388,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t027_1eaa82dc",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 1272,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t028_f9cbed37",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 830,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t029_d57ce1eb",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 939,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t030_d113af45",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 766,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t031_0c841804",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 1169,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t032_48b59846",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 1203,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t033_3b838737",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 909,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t034_b905a04b",
+       "title": {
+        "ru": "3.2. Подключение к беспроводной сети",
+        "en": "3.2. Подключение к беспроводной сети"
+       },
+       "words": 1379,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t035_6e66d711",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 1083,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t036_d70f12c4",
+       "title": {
+        "ru": "Напряжение питания: . .11-14VDC",
+        "en": "Напряжение питания: . .11-14VDC"
+       },
+       "words": 1009,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t037_2b3f24e0",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 1532,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t038_739f7ab3",
+       "title": {
+        "ru": "Выключение устройства",
+        "en": "Выключение устройства"
+       },
+       "words": 1455,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t039_30e733f9",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 989,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t040_aed396db",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 985,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t041_55f4115c",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 992,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t042_c262423d",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 1336,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t043_6068c783",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 1330,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t044_1c45b9c4",
+       "title": {
+        "ru": "2.7.5. Воспроизведение CD / MP3 дисков",
+        "en": "2.7.5. Воспроизведение CD / MP3 дисков"
+       },
+       "words": 1088,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t045_734c1b2b",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 1456,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t046_01aefbcf",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 1265,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t047_d36cd1ff",
+       "title": {
+        "ru": "Напряжение питания: . .11-14VDC",
+        "en": "Напряжение питания: . .11-14VDC"
+       },
+       "words": 1020,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t048_beb58529",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 1844,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t049_931323d8",
+       "title": {
+        "ru": "Выключение устройства",
+        "en": "Выключение устройства"
+       },
+       "words": 1470,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t050_2095fbf9",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 1219,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t051_dd36e4f0",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 1179,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t052_1c71baf4",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 1134,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t053_478bb278",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 1428,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t054_05645ab5",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 1472,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t055_b09be128",
+       "title": {
+        "ru": "2.7.5. Воспроизведение CD / MP3 дисков",
+        "en": "2.7.5. Воспроизведение CD / MP3 дисков"
+       },
+       "words": 1298,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t056_4abd07da",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 1614,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t057_1b3105aa",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 1441,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t058_9cc0414c",
+       "title": {
+        "ru": "Напряжение питания: . .11-14VDC",
+        "en": "Напряжение питания: . .11-14VDC"
+       },
+       "words": 1153,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t059_3e5fe155",
+       "title": {
+        "ru": "1. Описание устройства .",
+        "en": "1. Описание устройства ."
+       },
+       "words": 2002,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t060_02f15774",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 1569,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t061_e36201e0",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 1408,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t062_0c209bbd",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 1341,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t063_512b20e5",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 1261,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t064_7f72c0b7",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 1559,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t065_a4b9cdb4",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 1477,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t066_f658e2b6",
+       "title": {
+        "ru": "2.7.5. Воспроизведение CD / MP3 дисков",
+        "en": "2.7.5. Воспроизведение CD / MP3 дисков"
+       },
+       "words": 1624,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t067_0dfa83ee",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 1742,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t068_d09dd9d3",
+       "title": {
+        "ru": "3.2. Подключение к беспроводной сети",
+        "en": "3.2. Подключение к беспроводной сети"
+       },
+       "words": 1576,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t069_b22a4fac",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 1310,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t070_8e098758",
+       "title": {
+        "ru": "1. Описание устройства .",
+        "en": "1. Описание устройства ."
+       },
+       "words": 1922,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t071_4beb028b",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 1905,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t072_da157782",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 1616,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t073_09f3b0e7",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 1486,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t074_a858c508",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 1406,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t075_af59c5e0",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 1728,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t076_c540413c",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 1607,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t077_ab5e501e",
+       "title": {
+        "ru": "2.7.5. Воспроизведение CD / MP3 дисков",
+        "en": "2.7.5. Воспроизведение CD / MP3 дисков"
+       },
+       "words": 1728,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t078_9dc0e361",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 1950,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t079_7bcc927a",
+       "title": {
+        "ru": "3.2. Подключение к беспроводной сети",
+        "en": "3.2. Подключение к беспроводной сети"
+       },
+       "words": 1689,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t080_20feee5c",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 1472,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t081_91844d6a",
+       "title": {
+        "ru": "1. Описание устройства .",
+        "en": "1. Описание устройства ."
+       },
+       "words": 2075,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t082_655247c1",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 2055,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t083_f88e992b",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 1721,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t084_10bbcb05",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 1685,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t085_12af2e98",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 1536,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t086_2e501b12",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 1831,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t087_84cf9281",
+       "title": {
+        "ru": "2.6.7. Быстрый набор (Избранные номера)",
+        "en": "2.6.7. Быстрый набор (Избранные номера)"
+       },
+       "words": 1791,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t088_d63e5be5",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 1875,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t089_88f7ed13",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 2143,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t090_b212514a",
+       "title": {
+        "ru": "3.2. Подключение к беспроводной сети",
+        "en": "3.2. Подключение к беспроводной сети"
+       },
+       "words": 1728,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t091_e00f18fb",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 1712,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t092_f4a21a11",
+       "title": {
+        "ru": "ВАЖНАЯ ИНФОРМАЦИЯ ОБ ЭТОМ РУКОВОДСТВЕ",
+        "en": "ВАЖНАЯ ИНФОРМАЦИЯ ОБ ЭТОМ РУКОВОДСТВЕ"
+       },
+       "words": 2036,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t093_a8f71208",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 2296,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t094_150d5bf5",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 1966,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t095_dfb9746b",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 1745,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t096_7d9e1ebb",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 1768,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t097_61450b88",
+       "title": {
+        "ru": "2.6.1. Подключение/ отключение телефона",
+        "en": "2.6.1. Подключение/ отключение телефона"
+       },
+       "words": 1884,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t098_69548117",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 2012,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t099_47a9d237",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 2060,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t100_dc487623",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 2302,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t101_50af0de6",
+       "title": {
+        "ru": "3.2. Подключение к беспроводной сети",
+        "en": "3.2. Подключение к беспроводной сети"
+       },
+       "words": 1875,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t102_3889eece",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 1830,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t103_2d51fd5d",
+       "title": {
+        "ru": "ВАЖНАЯ ИНФОРМАЦИЯ ОБ ЭТОМ РУКОВОДСТВЕ",
+        "en": "ВАЖНАЯ ИНФОРМАЦИЯ ОБ ЭТОМ РУКОВОДСТВЕ"
+       },
+       "words": 2170,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t104_487e0ae0",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 2475,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t105_c99c6176",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 2099,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t106_d4671507",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 1912,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t107_47042e5e",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 1898,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t108_ddcf8988",
+       "title": {
+        "ru": "2.6.1. Подключение/ отключение телефона",
+        "en": "2.6.1. Подключение/ отключение телефона"
+       },
+       "words": 1984,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t109_4abcad66",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 2190,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t110_dfe4b614",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 2144,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t111_39ae6723",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 2352,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t112_ac76e68d",
+       "title": {
+        "ru": "3.2. Подключение к беспроводной сети",
+        "en": "3.2. Подключение к беспроводной сети"
+       },
+       "words": 2192,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t113_321598d7",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 1979,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t114_a2e2ed19",
+       "title": {
+        "ru": "Напряжение питания: . .11-14VDC",
+        "en": "Напряжение питания: . .11-14VDC"
+       },
+       "words": 2302,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t115_5504e925",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 2466,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t116_4b225eba",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 2413,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t117_60435160",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 2102,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t118_033cdf1c",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 2056,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t119_793c5ab8",
+       "title": {
+        "ru": "2.3.2. Контекстный виджет",
+        "en": "2.3.2. Контекстный виджет"
+       },
+       "words": 2079,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t120_a3f716f3",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 2395,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t121_f046561d",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 2277,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t122_55908b54",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 2336,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t123_38fc972c",
+       "title": {
+        "ru": "3.2. Подключение к беспроводной сети",
+        "en": "3.2. Подключение к беспроводной сети"
+       },
+       "words": 2525,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t124_54ea43bd",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 2063,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t125_1c815b74",
+       "title": {
+        "ru": "Напряжение питания: . .11-14VDC",
+        "en": "Напряжение питания: . .11-14VDC"
+       },
+       "words": 2419,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t126_5d0ccb31",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 2598,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t127_2e230a01",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 2654,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t128_7d366cb5",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 2162,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t129_9c184546",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 2298,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t130_3b676d51",
+       "title": {
+        "ru": "2.3.2. Контекстный виджет",
+        "en": "2.3.2. Контекстный виджет"
+       },
+       "words": 2180,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t131_ef890f35",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 2547,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t132_95e8637d",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 2452,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t133_39da490d",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 2261,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t134_eeb174a0",
+       "title": {
+        "ru": "3.2. Подключение к беспроводной сети",
+        "en": "3.2. Подключение к беспроводной сети"
+       },
+       "words": 2899,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t135_2172c61d",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 2246,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t136_8387bb48",
+       "title": {
+        "ru": "Напряжение питания: . .11-14VDC",
+        "en": "Напряжение питания: . .11-14VDC"
+       },
+       "words": 2389,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t137_1a1a9a69",
+       "title": {
+        "ru": "1.3.Включение/ выключение устройства",
+        "en": "1.3.Включение/ выключение устройства"
+       },
+       "words": 2888,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t138_051806f6",
+       "title": {
+        "ru": "2.1. Радиоприемник и музыкальный плеер",
+        "en": "2.1. Радиоприемник и музыкальный плеер"
+       },
+       "words": 2772,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t139_bdb46ba9",
+       "title": {
+        "ru": "Подключение / отключение USB-носителя",
+        "en": "Подключение / отключение USB-носителя"
+       },
+       "words": 2330,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t140_4ba7e367",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 2439,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t141_31957309",
+       "title": {
+        "ru": "2. Если активно приложение Яндекс.Навигатор",
+        "en": "2. Если активно приложение Яндекс.Навигатор"
+       },
+       "words": 2266,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t142_2bac76ae",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 2669,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t143_77ab0a2f",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 2703,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t144_f85dfe9d",
+       "title": {
+        "ru": "Кнопки управления воспроизведением файлов формата JPEG:",
+        "en": "Кнопки управления воспроизведением файлов формата JPEG:"
+       },
+       "words": 2409,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t145_38054193",
+       "title": {
+        "ru": "3.2. Подключение к беспроводной сети",
+        "en": "3.2. Подключение к беспроводной сети"
+       },
+       "words": 2879,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t146_6c18d327",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 2583,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_rav4_general_t147_44470792",
+       "title": {
+        "ru": "Напряжение питания: . .11-14VDC",
+        "en": "Напряжение питания: . .11-14VDC"
+       },
+       "words": 959,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "toyota_rav4_infotainment_t000_ac1083ce",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 698,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t001_9594b8a7",
+       "title": {
+        "ru": "2.1.7. Воспроизведение аудио- и видеофайлов",
+        "en": "2.1.7. Воспроизведение аудио- и видеофайлов"
+       },
+       "words": 472,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t002_1228aae9",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 689,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t003_af13cbcd",
+       "title": {
+        "ru": "2.6.8. Воспроизведение музыки с телефона",
+        "en": "2.6.8. Воспроизведение музыки с телефона"
+       },
+       "words": 784,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t004_52088e80",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 447,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t005_3744f07c",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 774,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t006_335cdb17",
+       "title": {
+        "ru": "2.2.1. Выбор навигационной программы",
+        "en": "2.2.1. Выбор навигационной программы"
+       },
+       "words": 691,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t007_a891aea4",
+       "title": {
+        "ru": "Ввод имени и пароля устройства",
+        "en": "Ввод имени и пароля устройства"
+       },
+       "words": 733,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t008_8699d0e2",
+       "title": {
+        "ru": "Настройка запуска программы нави- гации",
+        "en": "Настройка запуска программы нави- гации"
+       },
+       "words": 830,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t009_049aa3ca",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 775,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t010_afc88f04",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 890,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t011_79498bb5",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 1045,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t012_64361f1b",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 1161,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t013_8de76963",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 1284,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t014_5655c625",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 1446,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t015_438d7017",
+       "title": {
+        "ru": "2.1.7. Воспроизведение аудио- и видеофайлов",
+        "en": "2.1.7. Воспроизведение аудио- и видеофайлов"
+       },
+       "words": 1571,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t016_5bb5ce8a",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 1677,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t017_694e9e3a",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 1844,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t018_e0244cbd",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 2001,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t019_a764114a",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 2079,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t020_bf16f104",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 2297,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t021_328549c2",
+       "title": {
+        "ru": "2.1.5. Режим воспроизведения через Bluetooth",
+        "en": "2.1.5. Режим воспроизведения через Bluetooth"
+       },
+       "words": 2390,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_rav4_infotainment_t022_16858d23",
+       "title": {
+        "ru": "2.7.4. Воспроизведение аудиофайлов",
+        "en": "2.7.4. Воспроизведение аудиофайлов"
+       },
+       "words": 971,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "toyota_rav4_sensors_t000_e7202d10",
+       "title": {
+        "ru": "Задний ход (камера заднего вида)",
+        "en": "Задний ход (камера заднего вида)"
+       },
+       "words": 875,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "toyota_rav4_sensors_t001_0112bec1",
+       "title": {
+        "ru": "Задний ход (камера заднего вида)",
+        "en": "Задний ход (камера заднего вида)"
+       },
+       "words": 770,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

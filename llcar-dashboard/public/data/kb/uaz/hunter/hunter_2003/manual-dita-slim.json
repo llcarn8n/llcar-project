@@ -1,0 +1,214 @@
+{
+ "version": "1.0",
+ "model": "hunter",
+ "manuals": [
+  {
+   "model": "hunter",
+   "label": {
+    "ru": "Uaz Hunter — Руководство по ремонту",
+    "en": "Uaz Hunter — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": []
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": []
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": []
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": []
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "uaz_hunter_hvac_t000_26d743ce",
+       "title": {
+        "ru": "Page 37",
+        "en": "Page 37"
+       },
+       "words": 297,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": []
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "uaz_hunter_steering_t000_9cc7125b",
+       "title": {
+        "ru": "Page 27",
+        "en": "Page 27"
+       },
+       "words": 1159,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": []
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "uaz_hunter_interior_t000_0f3d37cd",
+       "title": {
+        "ru": "Page 24",
+        "en": "Page 24"
+       },
+       "words": 883,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": []
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "uaz_hunter_general_t000_4160c372",
+       "title": {
+        "ru": "Page 10",
+        "en": "Page 10"
+       },
+       "words": 3845,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "fuel",
+     "title": {
+      "ru": "fuel",
+      "en": "fuel"
+     },
+     "icon": "📦",
+     "topics": []
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": []
+    },
+    {
+     "id": "cooling",
+     "title": {
+      "ru": "cooling",
+      "en": "cooling"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "uaz_hunter_cooling_t000_d6eb00d8",
+       "title": {
+        "ru": "Page 66",
+        "en": "Page 66"
+       },
+       "words": 164,
+       "images": 0,
+       "section_id": "cooling"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": []
+    },
+    {
+     "id": "exhaust",
+     "title": {
+      "ru": "exhaust",
+      "en": "exhaust"
+     },
+     "icon": "📦",
+     "topics": []
+    }
+   ]
+  }
+ ]
+}

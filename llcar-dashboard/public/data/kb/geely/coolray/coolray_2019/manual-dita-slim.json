@@ -1,0 +1,245 @@
+{
+ "version": "1.0",
+ "model": "coolray",
+ "manuals": [
+  {
+   "model": "coolray",
+   "label": {
+    "ru": "Geely Coolray — Руководство по ремонту",
+    "en": "Geely Coolray — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "geely_coolray_engine_t000_a43a25e0",
+       "title": {
+        "ru": "Схема расположения клемм в разъемах жгута проводов моторного отсека (Часть 1)",
+        "en": "Схема расположения клемм в разъемах жгута проводов моторного отсека (Часть 1)"
+       },
+       "words": 1021,
+       "images": 74,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "geely_coolray_electrical_t000_cfc9bebe",
+       "title": {
+        "ru": "Замена клеммы (при наличии держателя клеммы или вторичного блокировочного механи",
+        "en": "Замена клеммы (при наличии держателя клеммы или вторичного блокировочного механи"
+       },
+       "words": 1174,
+       "images": 35,
+       "section_id": "electrical"
+      },
+      {
+       "id": "geely_coolray_electrical_t001_36f91eff",
+       "title": {
+        "ru": "Схема расположения клемм в разъемах жгута проводов приборной панели (Часть 3)",
+        "en": "Схема расположения клемм в разъемах жгута проводов приборной панели (Часть 3)"
+       },
+       "words": 1045,
+       "images": 83,
+       "section_id": "electrical"
+      },
+      {
+       "id": "geely_coolray_electrical_t002_3e1e789f",
+       "title": {
+        "ru": "Схема расположения клемм в разъемах напольного жгута проводов (Часть 1)",
+        "en": "Схема расположения клемм в разъемах напольного жгута проводов (Часть 1)"
+       },
+       "words": 1712,
+       "images": 102,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "geely_coolray_hvac_t000_f2df513d",
+       "title": {
+        "ru": "Питание и данные (Авто HVAC)",
+        "en": "Питание и данные (Авто HVAC)"
+       },
+       "words": 48,
+       "images": 18,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "geely_coolray_body_t000_8dd9b866",
+       "title": {
+        "ru": "Схема расположения клемм в разъемах напольного жгута проводов (Часть 7)",
+        "en": "Схема расположения клемм в разъемах напольного жгута проводов (Часть 7)"
+       },
+       "words": 312,
+       "images": 41,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "geely_coolray_steering_t000_4e6222ad",
+       "title": {
+        "ru": "Рулевой механизм с усилителем",
+        "en": "Рулевой механизм с усилителем"
+       },
+       "words": 28,
+       "images": 15,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "geely_coolray_lighting_t000_82bb233c",
+       "title": {
+        "ru": "Схема расположения клемм в разъемах жгута проводов приборной панели (Часть 2)",
+        "en": "Схема расположения клемм в разъемах жгута проводов приборной панели (Часть 2)"
+       },
+       "words": 232,
+       "images": 10,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "geely_coolray_interior_t000_0773da07",
+       "title": {
+        "ru": "Сиденье с электроприводом",
+        "en": "Сиденье с электроприводом"
+       },
+       "words": 9,
+       "images": 5,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "geely_coolray_ev_t000_e720d304",
+       "title": {
+        "ru": "Список разъемов жгутов проводов отрицательной клеммы аккумуляторной батареи",
+        "en": "Список разъемов жгутов проводов отрицательной клеммы аккумуляторной батареи"
+       },
+       "words": 203,
+       "images": 36,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "geely_coolray_general_t000_294f3c4b",
+       "title": {
+        "ru": "Порядок диагностики неисправностей",
+        "en": "Порядок диагностики неисправностей"
+       },
+       "words": 350,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_coolray_general_t001_93ccd5a6",
+       "title": {
+        "ru": "Габаритные огни 2",
+        "en": "Габаритные огни 2"
+       },
+       "words": 182,
+       "images": 82,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "geely_coolray_sensors_t000_d15eb566",
+       "title": {
+        "ru": "Схема расположения клемм в разъемах напольного жгута проводов (Часть 2)",
+        "en": "Схема расположения клемм в разъемах напольного жгута проводов (Часть 2)"
+       },
+       "words": 649,
+       "images": 99,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

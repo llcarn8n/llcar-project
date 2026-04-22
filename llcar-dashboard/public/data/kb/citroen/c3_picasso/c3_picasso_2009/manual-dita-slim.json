@@ -1,0 +1,1965 @@
+{
+ "version": "1.0",
+ "model": "c3_picasso",
+ "manuals": [
+  {
+   "model": "c3_picasso",
+   "label": {
+    "ru": "Citroen C3 Picasso — Руководство по ремонту",
+    "en": "Citroen C3 Picasso — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_engine_t000_f4af77dc",
+       "title": {
+        "ru": "Двигатель не запускается, коленчатый вал проворачивается.",
+        "en": "Двигатель не запускается, коленчатый вал проворачивается."
+       },
+       "words": 1208,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t001_8b081311",
+       "title": {
+        "ru": "Характеристики моторного масла",
+        "en": "Характеристики моторного масла"
+       },
+       "words": 515,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t002_7f3e186a",
+       "title": {
+        "ru": "Снятие и установка головки блока цилиндров",
+        "en": "Снятие и установка головки блока цилиндров"
+       },
+       "words": 873,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t003_13d6a9c4",
+       "title": {
+        "ru": "Болт крепления головки блока цилиндров",
+        "en": "Болт крепления головки блока цилиндров"
+       },
+       "words": 595,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t004_b9113c58",
+       "title": {
+        "ru": "Двигатели с кодом DV6ATED4 или DV6TED4",
+        "en": "Двигатели с кодом DV6ATED4 или DV6TED4"
+       },
+       "words": 1114,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t005_b6d7a6fd",
+       "title": {
+        "ru": "Двигатели с кодом DV6ATED4 или DV6TED4",
+        "en": "Двигатели с кодом DV6ATED4 или DV6TED4"
+       },
+       "words": 469,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t006_4fd2dcae",
+       "title": {
+        "ru": "4.Система наддува воздуха",
+        "en": "4.Система наддува воздуха"
+       },
+       "words": 606,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t007_c91d5d1f",
+       "title": {
+        "ru": "Выпускной коллөктор / турбокомпрессор",
+        "en": "Выпускной коллөктор / турбокомпрессор"
+       },
+       "words": 732,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t008_6b2f3aa4",
+       "title": {
+        "ru": "Главный цилиндр привода сцепления шарнирной связью с педалью сцепления",
+        "en": "Главный цилиндр привода сцепления шарнирной связью с педалью сцепления"
+       },
+       "words": 359,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t009_2b3e73f0",
+       "title": {
+        "ru": "Снятие: со стороны очего цилиндра привода сцепления(система прокачки С ВИНТОМ ис",
+        "en": "Снятие: со стороны очего цилиндра привода сцепления(система прокачки С ВИНТОМ ис"
+       },
+       "words": 234,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t010_f5e9721b",
+       "title": {
+        "ru": "Включите централизованнук истему подушек безопасности.",
+        "en": "Включите централизованнук истему подушек безопасности."
+       },
+       "words": 639,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t011_9f8bd9c5",
+       "title": {
+        "ru": "Включите централизованную систему подушекбезопасности.",
+        "en": "Включите централизованную систему подушекбезопасности."
+       },
+       "words": 509,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_c3_picasso_engine_t012_bc49a825",
+       "title": {
+        "ru": "Регулировка",
+        "en": "Регулировка"
+       },
+       "words": 201,
+       "images": 1,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_brakes_t000_59f1bc41",
+       "title": {
+        "ru": "Массы автомобилей и буксируемых прицепов, кг",
+        "en": "Массы автомобилей и буксируемых прицепов, кг"
+       },
+       "words": 630,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_c3_picasso_brakes_t001_97aa810f",
+       "title": {
+        "ru": "Система прокачки с винтом (система с 6-гранным винтом – исполнение 1)",
+        "en": "Система прокачки с винтом (система с 6-гранным винтом – исполнение 1)"
+       },
+       "words": 443,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_c3_picasso_brakes_t002_9a8fb72e",
+       "title": {
+        "ru": "Передние тормоза",
+        "en": "Передние тормоза"
+       },
+       "words": 448,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_c3_picasso_brakes_t003_93dfecf2",
+       "title": {
+        "ru": "Иятоматическая прокачка",
+        "en": "Иятоматическая прокачка"
+       },
+       "words": 357,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_c3_picasso_brakes_t004_e5461216",
+       "title": {
+        "ru": "Педаль тормоза отпущена",
+        "en": "Педаль тормоза отпущена"
+       },
+       "words": 560,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_c3_picasso_brakes_t005_58b4d2db",
+       "title": {
+        "ru": "5. Задние тормозные механизмы",
+        "en": "5. Задние тормозные механизмы"
+       },
+       "words": 274,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_c3_picasso_brakes_t006_7ceb1e54",
+       "title": {
+        "ru": "При каждом снятии заменяйте аждый раз болты (1).",
+        "en": "При каждом снятии заменяйте аждый раз болты (1)."
+       },
+       "words": 262,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_c3_picasso_brakes_t007_b8fb66fb",
+       "title": {
+        "ru": "При каждом снятии заме аждый раз болты (1).",
+        "en": "При каждом снятии заме аждый раз болты (1)."
+       },
+       "words": 320,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_c3_picasso_brakes_t008_a15b7ca7",
+       "title": {
+        "ru": "6. Антиблокировочная МОЗОВ с ме стабилизации устойчивости",
+        "en": "6. Антиблокировочная МОЗОВ с ме стабилизации устойчивости"
+       },
+       "words": 654,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_c3_picasso_brakes_t009_4dda810e",
+       "title": {
+        "ru": "Рывки автомобиля при торможении",
+        "en": "Рывки автомобиля при торможении"
+       },
+       "words": 1703,
+       "images": 8,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_suspension_t000_35175db3",
+       "title": {
+        "ru": "Установка щеток стеклоочистителя в вертикальное положение",
+        "en": "Установка щеток стеклоочистителя в вертикальное положение"
+       },
+       "words": 469,
+       "images": 4,
+       "section_id": "suspension"
+      },
+      {
+       "id": "citroen_c3_picasso_suspension_t001_61cdc460",
+       "title": {
+        "ru": "Гидравлическая трубка сцепления",
+        "en": "Гидравлическая трубка сцепления"
+       },
+       "words": 798,
+       "images": 4,
+       "section_id": "suspension"
+      },
+      {
+       "id": "citroen_c3_picasso_suspension_t002_25224db9",
+       "title": {
+        "ru": "Установка первичного и вторичного валов",
+        "en": "Установка первичного и вторичного валов"
+       },
+       "words": 475,
+       "images": 8,
+       "section_id": "suspension"
+      },
+      {
+       "id": "citroen_c3_picasso_suspension_t003_fdf7fdd7",
+       "title": {
+        "ru": "Заменяйте после каждого сняия гайку (1).",
+        "en": "Заменяйте после каждого сняия гайку (1)."
+       },
+       "words": 500,
+       "images": 2,
+       "section_id": "suspension"
+      },
+      {
+       "id": "citroen_c3_picasso_suspension_t004_98be841f",
+       "title": {
+        "ru": "Эталонное значение: передняя подвеска",
+        "en": "Эталонное значение: передняя подвеска"
+       },
+       "words": 501,
+       "images": 10,
+       "section_id": "suspension"
+      },
+      {
+       "id": "citroen_c3_picasso_suspension_t005_56b5509d",
+       "title": {
+        "ru": "Снятие и установка привода открытия капота",
+        "en": "Снятие и установка привода открытия капота"
+       },
+       "words": 697,
+       "images": 4,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_electrical_t000_c99000d7",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 627,
+       "images": 1,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_hvac_t000_906f41c6",
+       "title": {
+        "ru": "8.Сервисные данные и спецификация",
+        "en": "8.Сервисные данные и спецификация"
+       },
+       "words": 514,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_body_t000_2022be30",
+       "title": {
+        "ru": "Замена щетки переднего или заднего стеклоочистителя",
+        "en": "Замена щетки переднего или заднего стеклоочистителя"
+       },
+       "words": 211,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "citroen_c3_picasso_body_t001_c8debacd",
+       "title": {
+        "ru": "ИHCТPУКЦИЯ ПО ЭКСПЛУАТАЦИИ И ТЕХНИЧЕСКОМУ ОBSЛУЖИВАНИЮ АВТОМОБИЛЯ",
+        "en": "ИHCТPУКЦИЯ ПО ЭКСПЛУАТАЦИИ И ТЕХНИЧЕСКОМУ ОBSЛУЖИВАНИЮ АВТОМОБИЛЯ"
+       },
+       "words": 473,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "citroen_c3_picasso_body_t002_60cb8149",
+       "title": {
+        "ru": "Обустройство багажного отделения",
+        "en": "Обустройство багажного отделения"
+       },
+       "words": 673,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "citroen_c3_picasso_body_t003_1b4e589c",
+       "title": {
+        "ru": "Проверка аккумуляторной батарей с помощью тестера или вольтметра (рисунок 2):",
+        "en": "Проверка аккумуляторной батарей с помощью тестера или вольтметра (рисунок 2):"
+       },
+       "words": 698,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "citroen_c3_picasso_body_t004_33133d61",
+       "title": {
+        "ru": "Высота кузова автомобиля при его установке на рабочую высоту",
+        "en": "Высота кузова автомобиля при его установке на рабочую высоту"
+       },
+       "words": 418,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "citroen_c3_picasso_body_t005_d8e11715",
+       "title": {
+        "ru": "Звукоизолирующий элемент / Упор капота:",
+        "en": "Звукоизолирующий элемент / Упор капота:"
+       },
+       "words": 412,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "citroen_c3_picasso_body_t006_fcfe4ac0",
+       "title": {
+        "ru": "Снятие и установка верхней накладки переднего крыла",
+        "en": "Снятие и установка верхней накладки переднего крыла"
+       },
+       "words": 821,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "citroen_c3_picasso_body_t007_f6a745e8",
+       "title": {
+        "ru": "Накладка стойки проема ветрового стекла",
+        "en": "Накладка стойки проема ветрового стекла"
+       },
+       "words": 527,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "citroen_c3_picasso_body_t008_467d350e",
+       "title": {
+        "ru": "Стекло, управляемое электрическим стеклоподъемником:",
+        "en": "Стекло, управляемое электрическим стеклоподъемником:"
+       },
+       "words": 434,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "citroen_c3_picasso_body_t009_dc7f619a",
+       "title": {
+        "ru": "Стекло, управляемое механичеИм стеклоподъемником:",
+        "en": "Стекло, управляемое механичеИм стеклоподъемником:"
+       },
+       "words": 927,
+       "images": 23,
+       "section_id": "body"
+      },
+      {
+       "id": "citroen_c3_picasso_body_t010_f1a19cb0",
+       "title": {
+        "ru": "Проверка зазоров (пример) Проверка выравнивания (пример)",
+        "en": "Проверка зазоров (пример) Проверка выравнивания (пример)"
+       },
+       "words": 1008,
+       "images": 32,
+       "section_id": "body"
+      },
+      {
+       "id": "citroen_c3_picasso_body_t011_dc0642fd",
+       "title": {
+        "ru": "Снятие и установка замка двери багажного отделения",
+        "en": "Снятие и установка замка двери багажного отделения"
+       },
+       "words": 419,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_steering_t000_98dadd3d",
+       "title": {
+        "ru": "Обустройство передней части салона",
+        "en": "Обустройство передней части салона"
+       },
+       "words": 545,
+       "images": 7,
+       "section_id": "steering"
+      },
+      {
+       "id": "citroen_c3_picasso_steering_t001_e6757070",
+       "title": {
+        "ru": "Особенности, связанные с системой",
+        "en": "Особенности, связанные с системой"
+       },
+       "words": 442,
+       "images": 6,
+       "section_id": "steering"
+      },
+      {
+       "id": "citroen_c3_picasso_steering_t002_260a4c46",
+       "title": {
+        "ru": "Повторное использование снятого подрулевого переключателя:",
+        "en": "Повторное использование снятого подрулевого переключателя:"
+       },
+       "words": 425,
+       "images": 30,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_lighting_t000_d99ceff2",
+       "title": {
+        "ru": "22 ЭЛЕКТРООБОРУДОВАНИЕ И ЭЛЕКТРОСИСТЕМЫ",
+        "en": "22 ЭЛЕКТРООБОРУДОВАНИЕ И ЭЛЕКТРОСИСТЕМЫ"
+       },
+       "words": 950,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t001_42a0f004",
+       "title": {
+        "ru": "Замена ламп стопсигналов/стояночных огней указателей поворотов",
+        "en": "Замена ламп стопсигналов/стояночных огней указателей поворотов"
+       },
+       "words": 390,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t002_6e7c5b83",
+       "title": {
+        "ru": "Блок электрических предохранителей в приборной панели",
+        "en": "Блок электрических предохранителей в приборной панели"
+       },
+       "words": 341,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t003_2cfd310f",
+       "title": {
+        "ru": "ИНСТРУКЦИЯ ПО ЭКСПЛУАТАЦИИ И ТЕХНИЧЕСКОМУ ОБСЛУЖИВАНИЮ АВТОМОБИЛЯ ③39",
+        "en": "ИНСТРУКЦИЯ ПО ЭКСПЛУАТАЦИИ И ТЕХНИЧЕСКОМУ ОБСЛУЖИВАНИЮ АВТОМОБИЛЯ ③39"
+       },
+       "words": 269,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t004_b757583e",
+       "title": {
+        "ru": "Информация, отображаемая на цветном дисплее системы МуWау",
+        "en": "Информация, отображаемая на цветном дисплее системы МуWау"
+       },
+       "words": 435,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t005_fbd0cf21",
+       "title": {
+        "ru": "Включение сопровождающего освещения вручную",
+        "en": "Включение сопровождающего освещения вручную"
+       },
+       "words": 579,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t006_e2e3b1bb",
+       "title": {
+        "ru": "Открытие ящикап отанмако доводоп",
+        "en": "Открытие ящикап отанмако доводоп"
+       },
+       "words": 216,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t007_0ab13340",
+       "title": {
+        "ru": "Меры предосторожности твращения ажения электрическим",
+        "en": "Меры предосторожности твращения ажения электрическим"
+       },
+       "words": 513,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t008_1f8418ab",
+       "title": {
+        "ru": "Уплотнительная манжета коленчатого вала (со стороны маховика)",
+        "en": "Уплотнительная манжета коленчатого вала (со стороны маховика)"
+       },
+       "words": 218,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t009_25f72ccf",
+       "title": {
+        "ru": "Ориентируйте опоры овальным тверстием в зоне “\" вверх.",
+        "en": "Ориентируйте опоры овальным тверстием в зоне “\" вверх."
+       },
+       "words": 519,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t010_3693ffe9",
+       "title": {
+        "ru": "Уплотнительная манжета коленчатого вала (со стороны маховика)",
+        "en": "Уплотнительная манжета коленчатого вала (со стороны маховика)"
+       },
+       "words": 414,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t011_bdac6eef",
+       "title": {
+        "ru": "Порядок затяжки болтов крепления впускного коллектора (1) к маслоотделителю (2):",
+        "en": "Порядок затяжки болтов крепления впускного коллектора (1) к маслоотделителю (2):"
+       },
+       "words": 248,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t012_37cafa8d",
+       "title": {
+        "ru": "Дизельные двигатели с КОДOм DV6ATED4 или DV6TED4",
+        "en": "Дизельные двигатели с КОДOм DV6ATED4 или DV6TED4"
+       },
+       "words": 481,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t013_3a415cbf",
+       "title": {
+        "ru": "Дизельные двигатели с кОДОМ DV6ATED4 или DV6TED4",
+        "en": "Дизельные двигатели с кОДОМ DV6ATED4 или DV6TED4"
+       },
+       "words": 755,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t014_9003dbf4",
+       "title": {
+        "ru": "Дизельные двигатели скодом DC или DVDTED",
+        "en": "Дизельные двигатели скодом DC или DVDTED"
+       },
+       "words": 804,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t015_d710106f",
+       "title": {
+        "ru": "Дизельные двигатели с КОДОм DV6TED4 ИЛИ DV6ATED4",
+        "en": "Дизельные двигатели с КОДОм DV6TED4 ИЛИ DV6ATED4"
+       },
+       "words": 91,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t016_b1e265d6",
+       "title": {
+        "ru": "Дизельные двигатели с кОДОм DV6ATED4 или DV6TED4",
+        "en": "Дизельные двигатели с кОДОм DV6ATED4 или DV6TED4"
+       },
+       "words": 402,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t017_326b7712",
+       "title": {
+        "ru": "Специальный инструмент и приспособления",
+        "en": "Специальный инструмент и приспособления"
+       },
+       "words": 447,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t018_8c595bf7",
+       "title": {
+        "ru": "Специальные инструменты и приспособления",
+        "en": "Специальные инструменты и приспособления"
+       },
+       "words": 402,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t019_27ce7f67",
+       "title": {
+        "ru": "Специальный инструмент и приспособления",
+        "en": "Специальный инструмент и приспособления"
+       },
+       "words": 438,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t020_60503df0",
+       "title": {
+        "ru": "Бензиновые двигатели",
+        "en": "Бензиновые двигатели"
+       },
+       "words": 455,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t021_e5ad3a0c",
+       "title": {
+        "ru": "Специальный инструмент иприспособления",
+        "en": "Специальный инструмент иприспособления"
+       },
+       "words": 129,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t022_6777e90d",
+       "title": {
+        "ru": "Центральный перчаточный ящик панели управления:",
+        "en": "Центральный перчаточный ящик панели управления:"
+       },
+       "words": 363,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t023_2900f2ec",
+       "title": {
+        "ru": "Случай 1: Повторное использование стеклянной панели панорамной",
+        "en": "Случай 1: Повторное использование стеклянной панели панорамной"
+       },
+       "words": 363,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t024_90ea869e",
+       "title": {
+        "ru": "Боковая часть",
+        "en": "Боковая часть"
+       },
+       "words": 277,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t025_e048f78a",
+       "title": {
+        "ru": "Момент затяжки резьбовых соединений",
+        "en": "Момент затяжки резьбовых соединений"
+       },
+       "words": 468,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_c3_picasso_lighting_t026_3d26b9b5",
+       "title": {
+        "ru": "Коробка дифференциала",
+        "en": "Коробка дифференциала"
+       },
+       "words": 1144,
+       "images": 34,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_interior_t000_da97c503",
+       "title": {
+        "ru": "3 ИНСТРУКЦИЯ ПО ЭКСПЛУАТАЦИИ И ТЕХНИЧЕСКОМУ ОБСЛУЖИВАНИЮ АВТОМОБИЛЯ",
+        "en": "3 ИНСТРУКЦИЯ ПО ЭКСПЛУАТАЦИИ И ТЕХНИЧЕСКОМУ ОБСЛУЖИВАНИЮ АВТОМОБИЛЯ"
+       },
+       "words": 312,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "citroen_c3_picasso_interior_t001_21916811",
+       "title": {
+        "ru": "Замена ремня привода газораспределительного механизма (двигатели с кодом DV6ATED",
+        "en": "Замена ремня привода газораспределительного механизма (двигатели с кодом DV6ATED"
+       },
+       "words": 608,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "citroen_c3_picasso_interior_t002_e7e0d3b4",
+       "title": {
+        "ru": "Уплотнительная манжета распределительного вала",
+        "en": "Уплотнительная манжета распределительного вала"
+       },
+       "words": 681,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "citroen_c3_picasso_interior_t003_7f3f6c23",
+       "title": {
+        "ru": "Бензиновые двигатели (с кондиционером)",
+        "en": "Бензиновые двигатели (с кондиционером)"
+       },
+       "words": 638,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "citroen_c3_picasso_interior_t004_fde4c2e5",
+       "title": {
+        "ru": "Панель автоматического кондиционера:",
+        "en": "Панель автоматического кондиционера:"
+       },
+       "words": 470,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "citroen_c3_picasso_interior_t005_f873c2e8",
+       "title": {
+        "ru": "5. Модули подушек безопасности",
+        "en": "5. Модули подушек безопасности"
+       },
+       "words": 524,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "citroen_c3_picasso_interior_t006_8a562338",
+       "title": {
+        "ru": "Задиий ремень безопасности (центральный)",
+        "en": "Задиий ремень безопасности (центральный)"
+       },
+       "words": 509,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "citroen_c3_picasso_interior_t007_e52a6ee9",
+       "title": {
+        "ru": "Меры предосторожности при определении утечек при помощи красителя",
+        "en": "Меры предосторожности при определении утечек при помощи красителя"
+       },
+       "words": 1021,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "citroen_c3_picasso_interior_t008_f256cbbe",
+       "title": {
+        "ru": "Автоматическая климатическая установка (RFTA):",
+        "en": "Автоматическая климатическая установка (RFTA):"
+       },
+       "words": 768,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "citroen_c3_picasso_interior_t009_af7b568d",
+       "title": {
+        "ru": "Подогревающий зистор воздуха в салоне (при наличии)",
+        "en": "Подогревающий зистор воздуха в салоне (при наличии)"
+       },
+       "words": 150,
+       "images": 4,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_ev_t000_639b1776",
+       "title": {
+        "ru": "Монтаж дополнительного электрооборудования",
+        "en": "Монтаж дополнительного электрооборудования"
+       },
+       "words": 449,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t001_997ea4ff",
+       "title": {
+        "ru": "Меры предосторожности с токсичными и материалами",
+        "en": "Меры предосторожности с токсичными и материалами"
+       },
+       "words": 861,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t002_29abbfe9",
+       "title": {
+        "ru": "Электромагнитный клапан системы регулирования фаз ГРМ (выпуск)",
+        "en": "Электромагнитный клапан системы регулирования фаз ГРМ (выпуск)"
+       },
+       "words": 547,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t003_104f4fbe",
+       "title": {
+        "ru": "Дополнительные операции",
+        "en": "Дополнительные операции"
+       },
+       "words": 592,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t004_2adca0d9",
+       "title": {
+        "ru": "Установка",
+        "en": "Установка"
+       },
+       "words": 617,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t005_cdde5666",
+       "title": {
+        "ru": "С помощью диагностического прибора введите классификационные номера новых форсун",
+        "en": "С помощью диагностического прибора введите классификационные номера новых форсун"
+       },
+       "words": 674,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t006_aec065eb",
+       "title": {
+        "ru": "Необходимые операции после замены блока управления двигателем",
+        "en": "Необходимые операции после замены блока управления двигателем"
+       },
+       "words": 477,
+       "images": 3,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t007_3c807801",
+       "title": {
+        "ru": "Датчик температуры впускного воздуха:",
+        "en": "Датчик температуры впускного воздуха:"
+       },
+       "words": 386,
+       "images": 6,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t008_251e5782",
+       "title": {
+        "ru": "Версия с теплообменником системы рециркуляции отработавших га30B",
+        "en": "Версия с теплообменником системы рециркуляции отработавших га30B"
+       },
+       "words": 633,
+       "images": 5,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t009_780dc082",
+       "title": {
+        "ru": "Расположение аккумуляторной ба тареи (рисунок 1):",
+        "en": "Расположение аккумуляторной ба тареи (рисунок 1):"
+       },
+       "words": 611,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t010_afbdc639",
+       "title": {
+        "ru": "Издательство «Монолит»",
+        "en": "Издательство «Монолит»"
+       },
+       "words": 929,
+       "images": 6,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t011_856978a2",
+       "title": {
+        "ru": "Обшивка потолка (с панорамной крышей)",
+        "en": "Обшивка потолка (с панорамной крышей)"
+       },
+       "words": 885,
+       "images": 13,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t012_0fb126ed",
+       "title": {
+        "ru": "Излательство «Монолит»",
+        "en": "Излательство «Монолит»"
+       },
+       "words": 453,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t013_1ea9b8eb",
+       "title": {
+        "ru": "Снятие и установка бачка омывателя",
+        "en": "Снятие и установка бачка омывателя"
+       },
+       "words": 546,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "citroen_c3_picasso_ev_t014_0cd19995",
+       "title": {
+        "ru": "12 ЭЛЕКТРООБОРУДОВАНИЕ ДВИГАТЕЛЯ",
+        "en": "12 ЭЛЕКТРООБОРУДОВАНИЕ ДВИГАТЕЛЯ"
+       },
+       "words": 114,
+       "images": 2,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_chassis_t000_f3bce379",
+       "title": {
+        "ru": "ВНИМАНИЕ",
+        "en": "ВНИМАНИЕ"
+       },
+       "words": 925,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_general_t000_8edabcc3",
+       "title": {
+        "ru": "1. Комплект принадлежностей для временного устранения прокола шины",
+        "en": "1. Комплект принадлежностей для временного устранения прокола шины"
+       },
+       "words": 794,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t001_53ec3cd9",
+       "title": {
+        "ru": "Контрольная проверка давления/подкачивание и накачивание в быту",
+        "en": "Контрольная проверка давления/подкачивание и накачивание в быту"
+       },
+       "words": 479,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t002_3cd50ec0",
+       "title": {
+        "ru": "Заряд батареи и запуск двигателя от до-",
+        "en": "Заряд батареи и запуск двигателя от до-"
+       },
+       "words": 501,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t003_160e95b2",
+       "title": {
+        "ru": "ЕЖЕДНЕВНЫЕ ПРОВЕРКИ И ОПРЕДЕЛЕНИЕ НЕИСПРАВНОСТЕЙ",
+        "en": "ЕЖЕДНЕВНЫЕ ПРОВЕРКИ И ОПРЕДЕЛЕНИЕ НЕИСПРАВНОСТЕЙ"
+       },
+       "words": 465,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t004_192fc7b9",
+       "title": {
+        "ru": "•В случае если было принято решение продолжать эксплуатацию автомобиля, также не",
+        "en": "•В случае если было принято решение продолжать эксплуатацию автомобиля, также не"
+       },
+       "words": 3901,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t005_4a7669f8",
+       "title": {
+        "ru": "Установка на ноль указателя планового технического обслуживан",
+        "en": "Установка на ноль указателя планового технического обслуживан"
+       },
+       "words": 447,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t006_1f3d0847",
+       "title": {
+        "ru": "3 44 ИНСТРУКЦИЯ ПО ЭКСПЛУАТАЦИИ И ТЕХНИЧЕСКОМУ ОБСЛУЖИВАНИЮ АВТОМОБИЛЯ",
+        "en": "3 44 ИНСТРУКЦИЯ ПО ЭКСПЛУАТАЦИИ И ТЕХНИЧЕСКОМУ ОБСЛУЖИВАНИЮ АВТОМОБИЛЯ"
+       },
+       "words": 366,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t007_b7dc28d4",
+       "title": {
+        "ru": "Настройка параметров бортовых систем",
+        "en": "Настройка параметров бортовых систем"
+       },
+       "words": 385,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t008_9a88a4fc",
+       "title": {
+        "ru": "Передний и задний плафоны общего освещения",
+        "en": "Передний и задний плафоны общего освещения"
+       },
+       "words": 363,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t009_23f27e30",
+       "title": {
+        "ru": "Люк для перевозки лыж",
+        "en": "Люк для перевозки лыж"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t010_7d2cda06",
+       "title": {
+        "ru": "Характеристики охлаждающей жидкости",
+        "en": "Характеристики охлаждающей жидкости"
+       },
+       "words": 340,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t011_c4416df6",
+       "title": {
+        "ru": "Уровень присадки дизтоплиВ (касается сажевым фильтром)",
+        "en": "Уровень присадки дизтоплиВ (касается сажевым фильтром)"
+       },
+       "words": 326,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t012_5c0b6423",
+       "title": {
+        "ru": "ПРЕДОСТЕРЕЖЕНИЯ И ПРАВИЛА ТЕХНИКИ БЕЗОПАСНОСТИ ПРИ ВЫПОЛНЕНИИ РАБОТ НА АВТОМОБИЛ",
+        "en": "ПРЕДОСТЕРЕЖЕНИЯ И ПРАВИЛА ТЕХНИКИ БЕЗОПАСНОСТИ ПРИ ВЫПОЛНЕНИИ РАБОТ НА АВТОМОБИЛ"
+       },
+       "words": 1310,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t013_c39f4a10",
+       "title": {
+        "ru": "ВНИМАНИЕ Закройте отверстие впускного коллектора с помощью пробок.",
+        "en": "ВНИМАНИЕ Закройте отверстие впускного коллектора с помощью пробок."
+       },
+       "words": 754,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t014_a3dba6f3",
+       "title": {
+        "ru": "64. Установите по порядку:",
+        "en": "64. Установите по порядку:"
+       },
+       "words": 543,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t015_f64b3daa",
+       "title": {
+        "ru": "Проверка запирания механизмов изменения фазы:",
+        "en": "Проверка запирания механизмов изменения фазы:"
+       },
+       "words": 719,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t016_d0ef8cf8",
+       "title": {
+        "ru": "Ориентируйте опоры овальным отверстием зоне \"а\" наружу.",
+        "en": "Ориентируйте опоры овальным отверстием зоне \"а\" наружу."
+       },
+       "words": 784,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t017_be1aae9d",
+       "title": {
+        "ru": "Натяжитель цепи должен быть снят.",
+        "en": "Натяжитель цепи должен быть снят."
+       },
+       "words": 490,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t018_8be9fd03",
+       "title": {
+        "ru": "Специальные инструменты и приспособления",
+        "en": "Специальные инструменты и приспособления"
+       },
+       "words": 485,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t019_da893612",
+       "title": {
+        "ru": "ВНИМАНИЕ",
+        "en": "ВНИМАНИЕ"
+       },
+       "words": 533,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t020_bf02aa7c",
+       "title": {
+        "ru": "Уплотнительная манжета распределительного вала",
+        "en": "Уплотнительная манжета распределительного вала"
+       },
+       "words": 464,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t021_d33905ce",
+       "title": {
+        "ru": "Уплотнительная манжета коленчатого вала (со стороны маховика)",
+        "en": "Уплотнительная манжета коленчатого вала (со стороны маховика)"
+       },
+       "words": 760,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t022_1d7a687b",
+       "title": {
+        "ru": "ВНИМАНИЕ",
+        "en": "ВНИМАНИЕ"
+       },
+       "words": 764,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t023_9487a2dd",
+       "title": {
+        "ru": "Залив и прокачка контура",
+        "en": "Залив и прокачка контура"
+       },
+       "words": 967,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t024_0db2385f",
+       "title": {
+        "ru": "Бензиновые двигатели",
+        "en": "Бензиновые двигатели"
+       },
+       "words": 834,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t025_cd7d8cdb",
+       "title": {
+        "ru": "ВНИМАНИЕ Закройте отверстия при помощи приспособления [8].",
+        "en": "ВНИМАНИЕ Закройте отверстия при помощи приспособления [8]."
+       },
+       "words": 579,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t026_cd4dd27f",
+       "title": {
+        "ru": "Установка",
+        "en": "Установка"
+       },
+       "words": 568,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t027_ffe30ae9",
+       "title": {
+        "ru": "Бензиновые двигатели",
+        "en": "Бензиновые двигатели"
+       },
+       "words": 687,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t028_f8281499",
+       "title": {
+        "ru": "Особенности автомобилей, оснащенных сажевым фильтром",
+        "en": "Особенности автомобилей, оснащенных сажевым фильтром"
+       },
+       "words": 386,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t029_6ed52ccf",
+       "title": {
+        "ru": "Прокачка и обслуживание (наличие Жидкости):",
+        "en": "Прокачка и обслуживание (наличие Жидкости):"
+       },
+       "words": 586,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t030_77ccd56e",
+       "title": {
+        "ru": "Создание рабочего давления ипрокачка топливной системы",
+        "en": "Создание рабочего давления ипрокачка топливной системы"
+       },
+       "words": 675,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t031_852adb3c",
+       "title": {
+        "ru": "ВНИМАНИЕ С помощыю заглушек закройте гнезда форсунок.",
+        "en": "ВНИМАНИЕ С помощыю заглушек закройте гнезда форсунок."
+       },
+       "words": 666,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t032_91f8729d",
+       "title": {
+        "ru": "Замена уплотнительного кольца форсунки",
+        "en": "Замена уплотнительного кольца форсунки"
+       },
+       "words": 608,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t033_9a2f47d5",
+       "title": {
+        "ru": "Дизельные двигатели с коДОм DV6ATED4 или DV6TED4",
+        "en": "Дизельные двигатели с коДОм DV6ATED4 или DV6TED4"
+       },
+       "words": 482,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t034_abaaabf1",
+       "title": {
+        "ru": "Телезагрузка блока управления двигателем",
+        "en": "Телезагрузка блока управления двигателем"
+       },
+       "words": 491,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t035_9f6a4552",
+       "title": {
+        "ru": "Установите пробку на вход впускного коллектора.",
+        "en": "Установите пробку на вход впускного коллектора."
+       },
+       "words": 425,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t036_4eb1872d",
+       "title": {
+        "ru": "Установите новые топливные трубки высокого давления.",
+        "en": "Установите новые топливные трубки высокого давления."
+       },
+       "words": 637,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t037_f49f1fa8",
+       "title": {
+        "ru": "Инструкции по отправке сажевого фильтра (отработавшего)",
+        "en": "Инструкции по отправке сажевого фильтра (отработавшего)"
+       },
+       "words": 739,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t038_8ee74547",
+       "title": {
+        "ru": "Версия без теплообменника систе мы рециркуляции отработавших га зов:",
+        "en": "Версия без теплообменника систе мы рециркуляции отработавших га зов:"
+       },
+       "words": 500,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t039_ef23aa7e",
+       "title": {
+        "ru": "Установка",
+        "en": "Установка"
+       },
+       "words": 640,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t040_4ead6d1b",
+       "title": {
+        "ru": "Система прокачки с винтом (система с 6-гранным винтом - исполнение 2)",
+        "en": "Система прокачки с винтом (система с 6-гранным винтом - исполнение 2)"
+       },
+       "words": 614,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t041_a625a432",
+       "title": {
+        "ru": "Система прокачки с винтом (система с 6-гранным винтом - исполнение 2)",
+        "en": "Система прокачки с винтом (система с 6-гранным винтом - исполнение 2)"
+       },
+       "words": 461,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t042_6070a213",
+       "title": {
+        "ru": "5. Кожух сцепления (с автоматической енсацией зазора)",
+        "en": "5. Кожух сцепления (с автоматической енсацией зазора)"
+       },
+       "words": 342,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t043_28694aaf",
+       "title": {
+        "ru": "Установка коробки дифференциала",
+        "en": "Установка коробки дифференциала"
+       },
+       "words": 607,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t044_0f0e5729",
+       "title": {
+        "ru": "Вторая установка:",
+        "en": "Вторая установка:"
+       },
+       "words": 812,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t045_5e85eb45",
+       "title": {
+        "ru": "Наружное кольцо подшипника (со стороны корпуса сцепления):",
+        "en": "Наружное кольцо подшипника (со стороны корпуса сцепления):"
+       },
+       "words": 479,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t046_b1894da6",
+       "title": {
+        "ru": "Поворотный кулак",
+        "en": "Поворотный кулак"
+       },
+       "words": 354,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t047_417a9764",
+       "title": {
+        "ru": "Издательство«Монолит»",
+        "en": "Издательство«Монолит»"
+       },
+       "words": 615,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t048_e4bb4409",
+       "title": {
+        "ru": "Выключите зажигание.",
+        "en": "Выключите зажигание."
+       },
+       "words": 401,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t049_ab1cceae",
+       "title": {
+        "ru": "Соблюдайте требования обе спечения безопасност",
+        "en": "Соблюдайте требования обе спечения безопасност"
+       },
+       "words": 505,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t050_8de9b126",
+       "title": {
+        "ru": "Воздух в рабочем помещении",
+        "en": "Воздух в рабочем помещении"
+       },
+       "words": 331,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t051_1a557a8b",
+       "title": {
+        "ru": "Облицовка стоек ветрового стекла (сверху)",
+        "en": "Облицовка стоек ветрового стекла (сверху)"
+       },
+       "words": 523,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t052_5171f9f2",
+       "title": {
+        "ru": "Снятие и установка переднего подкрылка",
+        "en": "Снятие и установка переднего подкрылка"
+       },
+       "words": 250,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t053_d584c612",
+       "title": {
+        "ru": "Случай 1: Повторно используемое ветровое стек 0:",
+        "en": "Случай 1: Повторно используемое ветровое стек 0:"
+       },
+       "words": 529,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t054_9b0a9647",
+       "title": {
+        "ru": "Случай 1: При наличии остатка клейкого шва:",
+        "en": "Случай 1: При наличии остатка клейкого шва:"
+       },
+       "words": 355,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t055_787db2b8",
+       "title": {
+        "ru": "Подготовка паза (при наличии остатка клейкого шва)",
+        "en": "Подготовка паза (при наличии остатка клейкого шва)"
+       },
+       "words": 562,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t056_2f20923d",
+       "title": {
+        "ru": "Случай 2: Установка нового стекла двери багажного отделения:",
+        "en": "Случай 2: Установка нового стекла двери багажного отделения:"
+       },
+       "words": 1085,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t057_6f97a930",
+       "title": {
+        "ru": "Необходимые меры 7 ОЖНО с ремнями безопасности с пиротехническими натяжителями",
+        "en": "Необходимые меры 7 ОЖНО с ремнями безопасности с пиротехническими натяжителями"
+       },
+       "words": 770,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t058_8ea971da",
+       "title": {
+        "ru": "Включитецентрализованную систему подушек безопасности.",
+        "en": "Включитецентрализованную систему подушек безопасности."
+       },
+       "words": 257,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t059_d62328a9",
+       "title": {
+        "ru": "Установка",
+        "en": "Установка"
+       },
+       "words": 303,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t060_e8d8430d",
+       "title": {
+        "ru": "Меры предосторожности, которые следует принимать при открытий контура",
+        "en": "Меры предосторожности, которые следует принимать при открытий контура"
+       },
+       "words": 535,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t061_7ee5e44b",
+       "title": {
+        "ru": "Проверка блоком ЕххосLIM",
+        "en": "Проверка блоком ЕххосLIM"
+       },
+       "words": 261,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t062_8425b36a",
+       "title": {
+        "ru": "Работа с контуром (без утечек)",
+        "en": "Работа с контуром (без утечек)"
+       },
+       "words": 410,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t063_3c0ea2e4",
+       "title": {
+        "ru": "Установка",
+        "en": "Установка"
+       },
+       "words": 514,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t064_e99e7994",
+       "title": {
+        "ru": "Специальные инструменты и приспособления",
+        "en": "Специальные инструменты и приспособления"
+       },
+       "words": 668,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t065_7059f6be",
+       "title": {
+        "ru": "Жидкость в бачке омывателей стекол и фар",
+        "en": "Жидкость в бачке омывателей стекол и фар"
+       },
+       "words": 387,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_c3_picasso_general_t066_3824262a",
+       "title": {
+        "ru": "Меры предосторожности, которые следует принимать при подсоединении штуцеров",
+        "en": "Меры предосторожности, которые следует принимать при подсоединении штуцеров"
+       },
+       "words": 112,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_sensors_t000_db94f427",
+       "title": {
+        "ru": "Неисправность датчика уровнямасла",
+        "en": "Неисправность датчика уровнямасла"
+       },
+       "words": 486,
+       "images": 2,
+       "section_id": "sensors"
+      },
+      {
+       "id": "citroen_c3_picasso_sensors_t001_089d7f82",
+       "title": {
+        "ru": "Датчик уровня и температуры масла",
+        "en": "Датчик уровня и температуры масла"
+       },
+       "words": 662,
+       "images": 1,
+       "section_id": "sensors"
+      },
+      {
+       "id": "citroen_c3_picasso_sensors_t002_f244a7dd",
+       "title": {
+        "ru": "Датчик положения распределительного двигатели DV6C или DV6DTED)",
+        "en": "Датчик положения распределительного двигатели DV6C или DV6DTED)"
+       },
+       "words": 550,
+       "images": 4,
+       "section_id": "sensors"
+      },
+      {
+       "id": "citroen_c3_picasso_sensors_t003_7cf2d2db",
+       "title": {
+        "ru": "Пометьте расположение тру бок (4) на датчике давления (1).",
+        "en": "Пометьте расположение тру бок (4) на датчике давления (1)."
+       },
+       "words": 575,
+       "images": 1,
+       "section_id": "sensors"
+      },
+      {
+       "id": "citroen_c3_picasso_sensors_t004_a275e7f8",
+       "title": {
+        "ru": "Датчики частоты вращения колес",
+        "en": "Датчики частоты вращения колес"
+       },
+       "words": 665,
+       "images": 1,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_drivetrain_t000_4cb3575a",
+       "title": {
+        "ru": "Установка на место имитатора натяжителя приводной цепи ГРМ",
+        "en": "Установка на место имитатора натяжителя приводной цепи ГРМ"
+       },
+       "words": 733,
+       "images": 4,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "citroen_c3_picasso_drivetrain_t001_65bb1d4f",
+       "title": {
+        "ru": "Визуальный контроль",
+        "en": "Визуальный контроль"
+       },
+       "words": 649,
+       "images": 4,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "citroen_c3_picasso_drivetrain_t002_9abb4207",
+       "title": {
+        "ru": "Автомобили с коробкой передач МСМ:",
+        "en": "Автомобили с коробкой передач МСМ:"
+       },
+       "words": 642,
+       "images": 3,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "citroen_c3_picasso_drivetrain_t003_023ee2ef",
+       "title": {
+        "ru": "Телекодирование блока управления двигателем",
+        "en": "Телекодирование блока управления двигателем"
+       },
+       "words": 505,
+       "images": 1,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "citroen_c3_picasso_drivetrain_t004_e8212b27",
+       "title": {
+        "ru": "Коробка передач с системой запрета на включение пятой передачи передачи заднего ",
+        "en": "Коробка передач с системой запрета на включение пятой передачи передачи заднего "
+       },
+       "words": 552,
+       "images": 4,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "citroen_c3_picasso_drivetrain_t005_1cdb4bb2",
+       "title": {
+        "ru": "Приводные валы PSA и NTN",
+        "en": "Приводные валы PSA и NTN"
+       },
+       "words": 519,
+       "images": 7,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "citroen_c3_picasso_drivetrain_t006_e758cbd2",
+       "title": {
+        "ru": "15 ПРИВОДНЫЕ ВАЛЫ И ГЛАВНАЯ ПЕРЕДАЧА",
+        "en": "15 ПРИВОДНЫЕ ВАЛЫ И ГЛАВНАЯ ПЕРЕДАЧА"
+       },
+       "words": 828,
+       "images": 2,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "citroen_c3_picasso_infotainment_t000_33495599",
+       "title": {
+        "ru": "Остаток пути до пункта назначения (км)",
+        "en": "Остаток пути до пункта назначения (км)"
+       },
+       "words": 450,
+       "images": 1,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "citroen_c3_picasso_infotainment_t001_ec76c0f7",
+       "title": {
+        "ru": "Автомобили с бензиновыми двигателями:",
+        "en": "Автомобили с бензиновыми двигателями:"
+       },
+       "words": 470,
+       "images": 1,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

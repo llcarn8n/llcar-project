@@ -1,0 +1,2635 @@
+{
+ "version": "1.0",
+ "model": "almera",
+ "manuals": [
+  {
+   "model": "almera",
+   "label": {
+    "ru": "Nissan Almera — Руководство по ремонту",
+    "en": "Nissan Almera — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "nissan_almera_engine_t000_ee8e230d",
+       "title": {
+        "ru": "ENGINE COMPRESSION PRESSURE",
+        "en": "ENGINE COMPRESSION PRESSURE"
+       },
+       "words": 1035,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_almera_engine_t001_4c2117b8",
+       "title": {
+        "ru": "CD ENGINE LHD MODEL",
+        "en": "CD ENGINE LHD MODEL"
+       },
+       "words": 2394,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_almera_engine_t002_bc6e9824",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 745,
+       "images": 1,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "nissan_almera_brakes_t000_f1832e33",
+       "title": {
+        "ru": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY",
+        "en": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY"
+       },
+       "words": 809,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t001_1108d2f5",
+       "title": {
+        "ru": "Removal and Installation (Cont'd) ABS ACTUATOR",
+        "en": "Removal and Installation (Cont'd) ABS ACTUATOR"
+       },
+       "words": 372,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t002_36abe8f4",
+       "title": {
+        "ru": "How to Perform Trouble Diagnoses for Quick and Accurate Repair INTRODUCTION",
+        "en": "How to Perform Trouble Diagnoses for Quick and Accurate Repair INTRODUCTION"
+       },
+       "words": 632,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t003_920bb052",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 1354,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t004_16dd329e",
+       "title": {
+        "ru": "Turn Signal and Hazard Warning Lamps/Wiring Diagram — TURN — (Cont'd)",
+        "en": "Turn Signal and Hazard Warning Lamps/Wiring Diagram — TURN — (Cont'd)"
+       },
+       "words": 981,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t005_afeeff61",
+       "title": {
+        "ru": "Removal and Installation (Cont'd) ABS ACTUATOR",
+        "en": "Removal and Installation (Cont'd) ABS ACTUATOR"
+       },
+       "words": 384,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t006_eb79172d",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 1293,
+       "images": 4,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t007_1ba84435",
+       "title": {
+        "ru": "Turn Signal and Hazard Warning Lamps/Wiring Diagram — TURN — (Cont'd)",
+        "en": "Turn Signal and Hazard Warning Lamps/Wiring Diagram — TURN — (Cont'd)"
+       },
+       "words": 1032,
+       "images": 4,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t008_a69be74f",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 868,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t009_7c62f28f",
+       "title": {
+        "ru": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY",
+        "en": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY"
+       },
+       "words": 645,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t010_3a2b32c7",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 1228,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t011_30c36b7b",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 1221,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t012_7b43fd28",
+       "title": {
+        "ru": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY",
+        "en": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY"
+       },
+       "words": 894,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t013_a402105d",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 1559,
+       "images": 4,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t014_93977f59",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 1620,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t015_8bb7ad75",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 1618,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t016_dd0f9085",
+       "title": {
+        "ru": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY",
+        "en": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY"
+       },
+       "words": 1395,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t017_1bcdf46a",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 1978,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t018_dbe3b6e6",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 1971,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t019_a8e1c656",
+       "title": {
+        "ru": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY",
+        "en": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY"
+       },
+       "words": 1644,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t020_60b75265",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 2309,
+       "images": 4,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t021_0d2582e6",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 2370,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t022_4edb971f",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 2368,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t023_f3a0b53b",
+       "title": {
+        "ru": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY",
+        "en": "Coil Spring and Shock Absorber (Cont'd) DISASSEMBLY"
+       },
+       "words": 2145,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t024_871cc8f8",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 2728,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t025_92ca49b4",
+       "title": {
+        "ru": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,",
+        "en": "Diagnostic Procedure 3 ABS ACTUATOR SOLENOID VALVE (Malfunction code No. 41, 45,"
+       },
+       "words": 2468,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_almera_brakes_t026_e58cb934",
+       "title": {
+        "ru": "Removal and Installation (Cont'd)",
+        "en": "Removal and Installation (Cont'd)"
+       },
+       "words": 19,
+       "images": 4,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "nissan_almera_suspension_t000_80d2fd9e",
+       "title": {
+        "ru": "Support bearing",
+        "en": "Support bearing"
+       },
+       "words": 107,
+       "images": 2,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "nissan_almera_electrical_t000_c6b94543",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 39,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "nissan_almera_hvac_t000_3d700e70",
+       "title": {
+        "ru": "Changing Positive Crankcase Ventilation (PCV) Filter",
+        "en": "Changing Positive Crankcase Ventilation (PCV) Filter"
+       },
+       "words": 8,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "nissan_almera_body_t000_bcade0e6",
+       "title": {
+        "ru": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) PROCEDURE ",
+        "en": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) PROCEDURE "
+       },
+       "words": 735,
+       "images": 7,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "nissan_almera_steering_t000_7be2d776",
+       "title": {
+        "ru": "Power Steering Oil Pressure Switch (Cont'd) COMPONENT DESCRIPTION",
+        "en": "Power Steering Oil Pressure Switch (Cont'd) COMPONENT DESCRIPTION"
+       },
+       "words": 24,
+       "images": 3,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "nissan_almera_lighting_t000_d29eb111",
+       "title": {
+        "ru": "Measuring voltage drop — Step by step",
+        "en": "Measuring voltage drop — Step by step"
+       },
+       "words": 623,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_almera_lighting_t001_64a532a4",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve"
+       },
+       "words": 776,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_almera_lighting_t002_de40dab0",
+       "title": {
+        "ru": "Coil Spring and Strut Assembly REMOVAL AND INSTALLATION",
+        "en": "Coil Spring and Strut Assembly REMOVAL AND INSTALLATION"
+       },
+       "words": 451,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_almera_lighting_t003_625380dd",
+       "title": {
+        "ru": "Front Fog Lamp Bulb Replacement",
+        "en": "Front Fog Lamp Bulb Replacement"
+       },
+       "words": 774,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_almera_lighting_t004_2a0b8f83",
+       "title": {
+        "ru": "System Description (For models with daytime light system)",
+        "en": "System Description (For models with daytime light system)"
+       },
+       "words": 745,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_almera_lighting_t005_1722ea0a",
+       "title": {
+        "ru": "Distributor Ignition (DI) System (Cont'd) SYSTEM DESCRIPTION",
+        "en": "Distributor Ignition (DI) System (Cont'd) SYSTEM DESCRIPTION"
+       },
+       "words": 865,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_almera_lighting_t006_2913a46a",
+       "title": {
+        "ru": "Coil Spring and Strut Assembly REMOVAL AND INSTALLATION",
+        "en": "Coil Spring and Strut Assembly REMOVAL AND INSTALLATION"
+       },
+       "words": 750,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_almera_lighting_t007_ae8add3a",
+       "title": {
+        "ru": "Hoodledge (Partial Replacement)",
+        "en": "Hoodledge (Partial Replacement)"
+       },
+       "words": 657,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_almera_lighting_t008_942f35fe",
+       "title": {
+        "ru": "Vehicle Speed Sensor (VSS) (Cont'd)",
+        "en": "Vehicle Speed Sensor (VSS) (Cont'd)"
+       },
+       "words": 1566,
+       "images": 8,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "nissan_almera_interior_t000_050f1bf5",
+       "title": {
+        "ru": "CAUTION:",
+        "en": "CAUTION:"
+       },
+       "words": 452,
+       "images": 2,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "nissan_almera_ev_t000_bb6856e2",
+       "title": {
+        "ru": "Ignition Signal (Cont'd)",
+        "en": "Ignition Signal (Cont'd)"
+       },
+       "words": 144,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "nissan_almera_chassis_t000_7b966d52",
+       "title": {
+        "ru": "Synchronizer",
+        "en": "Synchronizer"
+       },
+       "words": 70,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "nissan_almera_general_t000_70d5e042",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 11684,
+       "images": 128,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t001_88dd41c2",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 12673,
+       "images": 237,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t002_5ceba9a0",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 10440,
+       "images": 263,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t003_f521ee68",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 11750,
+       "images": 172,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t004_450d34a7",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 14757,
+       "images": 150,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t005_27074616",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 12384,
+       "images": 168,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t006_544d32a4",
+       "title": {
+        "ru": "Install oil seals so that dimensions \"A” and \"B\" are within specifications.",
+        "en": "Install oil seals so that dimensions \"A” and \"B\" are within specifications."
+       },
+       "words": 10887,
+       "images": 282,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t007_a75e75c3",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 10164,
+       "images": 433,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t008_9439b416",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 10820,
+       "images": 179,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t009_7609de9e",
+       "title": {
+        "ru": "Install motor & limit SW assembly and sunroof rail assembly in the following seq",
+        "en": "Install motor & limit SW assembly and sunroof rail assembly in the following seq"
+       },
+       "words": 10697,
+       "images": 154,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t010_69dbd56c",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 12216,
+       "images": 110,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t011_c93e3e32",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 9671,
+       "images": 153,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t012_bef16afc",
+       "title": {
+        "ru": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP",
+        "en": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP"
+       },
+       "words": 10249,
+       "images": 151,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t013_efa340be",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 14257,
+       "images": 131,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t014_d8801175",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 15681,
+       "images": 236,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t015_0b381a43",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 13466,
+       "images": 260,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t016_d127f66c",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 14446,
+       "images": 173,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t017_ea120dcd",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 17796,
+       "images": 149,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t018_1e4999c4",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 15441,
+       "images": 171,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t019_4cef5c85",
+       "title": {
+        "ru": "Supplemental Restraint System (SRS) \"AIR BAG' (Single Air Bag System)",
+        "en": "Supplemental Restraint System (SRS) \"AIR BAG' (Single Air Bag System)"
+       },
+       "words": 13506,
+       "images": 271,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t020_4a95e165",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 13779,
+       "images": 433,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t021_26d1edb3",
+       "title": {
+        "ru": "Thickness variation (At least 8 positions): Maximum 0.02 mm (0.0008 in)",
+        "en": "Thickness variation (At least 8 positions): Maximum 0.02 mm (0.0008 in)"
+       },
+       "words": 12608,
+       "images": 176,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t022_f5247a6d",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 13937,
+       "images": 169,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t023_a3f7a8f4",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 15174,
+       "images": 118,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t024_22336f26",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 13455,
+       "images": 144,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t025_09770696",
+       "title": {
+        "ru": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP",
+        "en": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP"
+       },
+       "words": 13063,
+       "images": 138,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t026_33e19ad2",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 16681,
+       "images": 134,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t027_3f351160",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 17653,
+       "images": 210,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t028_61e59b79",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 17866,
+       "images": 294,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t029_3cef2910",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 16131,
+       "images": 165,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t030_3ae8ea12",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 20624,
+       "images": 147,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t031_6f35e82c",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 19798,
+       "images": 178,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t032_0d74d3d9",
+       "title": {
+        "ru": "Supplemental Restraint System (SRS) \"AIR BAG' (Single Air Bag System)",
+        "en": "Supplemental Restraint System (SRS) \"AIR BAG' (Single Air Bag System)"
+       },
+       "words": 15916,
+       "images": 260,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t033_dce1130c",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 16261,
+       "images": 381,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t034_abf26693",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) \"AIR BAG\" (DUAL AIR BAG SYSTEM)",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) \"AIR BAG\" (DUAL AIR BAG SYSTEM)"
+       },
+       "words": 15364,
+       "images": 226,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t035_4548a9b4",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 18528,
+       "images": 170,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t036_d24d8ae9",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 16826,
+       "images": 130,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t037_4cfe5467",
+       "title": {
+        "ru": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY",
+        "en": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY"
+       },
+       "words": 15855,
+       "images": 152,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t038_89d6880f",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 17699,
+       "images": 111,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t039_87e9f08b",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 17781,
+       "images": 137,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t040_36c9534a",
+       "title": {
+        "ru": "TOWING AN AUTOMATIC TRANSAXLE MODEL WITH REAR WHEELS RAISED (With front wheels o",
+        "en": "TOWING AN AUTOMATIC TRANSAXLE MODEL WITH REAR WHEELS RAISED (With front wheels o"
+       },
+       "words": 19244,
+       "images": 175,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t041_195b885d",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 23398,
+       "images": 278,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t042_40bf8e95",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 16229,
+       "images": 220,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t043_00c8fe76",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 23030,
+       "images": 157,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t044_b098849d",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 23956,
+       "images": 161,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t045_d2009fab",
+       "title": {
+        "ru": "Power Steering Oil Pressure Switch (Cont'd) COMPONENT DESCRIPTION",
+        "en": "Power Steering Oil Pressure Switch (Cont'd) COMPONENT DESCRIPTION"
+       },
+       "words": 18965,
+       "images": 192,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t046_368cd893",
+       "title": {
+        "ru": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E",
+        "en": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E"
+       },
+       "words": 20161,
+       "images": 358,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t047_f9713f2b",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 17971,
+       "images": 336,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t048_18284e1f",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 20910,
+       "images": 151,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t049_414e7760",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 19767,
+       "images": 159,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t050_aad5f653",
+       "title": {
+        "ru": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY",
+        "en": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY"
+       },
+       "words": 20510,
+       "images": 123,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t051_7aa216a9",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 19065,
+       "images": 124,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t052_aca37f98",
+       "title": {
+        "ru": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP",
+        "en": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP"
+       },
+       "words": 20001,
+       "images": 156,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t053_aee39f29",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 22261,
+       "images": 136,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t054_be33ea5e",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 24689,
+       "images": 252,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t055_48a9cbcd",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 21507,
+       "images": 252,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t056_bd349f26",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 23745,
+       "images": 167,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t057_71ab9a62",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 26535,
+       "images": 146,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t058_45061075",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 23739,
+       "images": 168,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t059_db48e743",
+       "title": {
+        "ru": "Install oil seals so that dimensions \"A” and \"B\" are within specifications.",
+        "en": "Install oil seals so that dimensions \"A” and \"B\" are within specifications."
+       },
+       "words": 22166,
+       "images": 271,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t060_e633de98",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 22278,
+       "images": 436,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t061_c7c35295",
+       "title": {
+        "ru": "Thickness variation (At least 8 positions): Maximum 0.02 mm (0.0008 in)",
+        "en": "Thickness variation (At least 8 positions): Maximum 0.02 mm (0.0008 in)"
+       },
+       "words": 21716,
+       "images": 171,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t062_d281874f",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 23038,
+       "images": 168,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t063_604af89e",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 24572,
+       "images": 119,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t064_5fc82378",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 21335,
+       "images": 140,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t065_62ed3a4f",
+       "title": {
+        "ru": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP",
+        "en": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP"
+       },
+       "words": 22017,
+       "images": 134,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t066_d4e75357",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 25161,
+       "images": 135,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t067_194867fc",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 25539,
+       "images": 184,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t068_1a651360",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 28538,
+       "images": 296,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t069_a5fa589b",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 22785,
+       "images": 185,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t070_2dfa84a6",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 29538,
+       "images": 162,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t071_43a2086b",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 29546,
+       "images": 166,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t072_78ee0cff",
+       "title": {
+        "ru": "Differential side gear thrust washer GA16DE and CD20 engine models",
+        "en": "Differential side gear thrust washer GA16DE and CD20 engine models"
+       },
+       "words": 24472,
+       "images": 267,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t073_da8f5daa",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 24782,
+       "images": 338,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t074_14ce0016",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) \"AIR BAG\" (DUAL AIR BAG SYSTEM)",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) \"AIR BAG\" (DUAL AIR BAG SYSTEM)"
+       },
+       "words": 23591,
+       "images": 267,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t075_9c657d30",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 27979,
+       "images": 176,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t076_4b7ac6ea",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 25273,
+       "images": 132,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t077_2e6c550c",
+       "title": {
+        "ru": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY",
+        "en": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY"
+       },
+       "words": 25021,
+       "images": 148,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t078_a483cbac",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 25451,
+       "images": 110,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t079_ea232b75",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 27198,
+       "images": 142,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t080_55e1be67",
+       "title": {
+        "ru": "TOWING AN AUTOMATIC TRANSAXLE MODEL WITH REAR WHEELS RAISED (With front wheels o",
+        "en": "TOWING AN AUTOMATIC TRANSAXLE MODEL WITH REAR WHEELS RAISED (With front wheels o"
+       },
+       "words": 25962,
+       "images": 147,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t081_838387bc",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 32844,
+       "images": 290,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t082_5b138bf1",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 25263,
+       "images": 235,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t083_dd316d23",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 30959,
+       "images": 152,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t084_76b26dda",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 33452,
+       "images": 157,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t085_bd5649f3",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 27306,
+       "images": 159,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t086_5af7578b",
+       "title": {
+        "ru": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E",
+        "en": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E"
+       },
+       "words": 29693,
+       "images": 375,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t087_c3095123",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 26464,
+       "images": 350,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t088_b9b0cfa3",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 29311,
+       "images": 156,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t089_de2d6280",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 28287,
+       "images": 159,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t090_18730548",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DISPOSING OF AIR",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DISPOSING OF AIR"
+       },
+       "words": 29473,
+       "images": 111,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t091_6793eb76",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 27822,
+       "images": 143,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t092_0bd9366d",
+       "title": {
+        "ru": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP",
+        "en": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP"
+       },
+       "words": 27175,
+       "images": 157,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t093_9cb528d3",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 31954,
+       "images": 128,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t094_bffe756c",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 32845,
+       "images": 235,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t095_b52ce4c5",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 31007,
+       "images": 262,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t096_955ac81c",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 31135,
+       "images": 170,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t097_62b35b95",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 35891,
+       "images": 149,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t098_afabaf91",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 33566,
+       "images": 171,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t099_c0d8d059",
+       "title": {
+        "ru": "Supplemental Restraint System (SRS) \"AIR BAG' (Single Air Bag System)",
+        "en": "Supplemental Restraint System (SRS) \"AIR BAG' (Single Air Bag System)"
+       },
+       "words": 30039,
+       "images": 259,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t100_f0606134",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 31354,
+       "images": 416,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t101_0d070a61",
+       "title": {
+        "ru": "Thickness variation (At least 8 positions): Maximum 0.02 mm (0.0008 in)",
+        "en": "Thickness variation (At least 8 positions): Maximum 0.02 mm (0.0008 in)"
+       },
+       "words": 30034,
+       "images": 195,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t102_1a17862e",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 31889,
+       "images": 168,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t103_246d687a",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 32846,
+       "images": 132,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t104_d3988893",
+       "title": {
+        "ru": "Front Fog Lamp/Wiring Diagram — F/FOG — LHD MODELS WITH DAYTIME LIGHT SYSTEM",
+        "en": "Front Fog Lamp/Wiring Diagram — F/FOG — LHD MODELS WITH DAYTIME LIGHT SYSTEM"
+       },
+       "words": 29258,
+       "images": 141,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t105_2f732c48",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 32290,
+       "images": 122,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t106_0050b0ec",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 32598,
+       "images": 132,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t107_ab398763",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 33612,
+       "images": 178,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t108_46df5636",
+       "title": {
+        "ru": "Camshaft Timing Belt (Cont'd) Belt tensioner, tensioner spring and idler",
+        "en": "Camshaft Timing Belt (Cont'd) Belt tensioner, tensioner spring and idler"
+       },
+       "words": 38476,
+       "images": 294,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t109_60f3d89d",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 30487,
+       "images": 197,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t110_20151a88",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 37455,
+       "images": 163,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t111_69dfbce0",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 38966,
+       "images": 160,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t112_e9f6e5f8",
+       "title": {
+        "ru": "Partial Load Advance (PLA) Control (Cont'd) COMPONENT INSPECTION",
+        "en": "Partial Load Advance (PLA) Control (Cont'd) COMPONENT INSPECTION"
+       },
+       "words": 33674,
+       "images": 238,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t113_1e541d78",
+       "title": {
+        "ru": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E",
+        "en": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E"
+       },
+       "words": 33701,
+       "images": 331,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t114_6d800966",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 32200,
+       "images": 313,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t115_baa3feed",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 36016,
+       "images": 159,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t116_262b6852",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 34895,
+       "images": 155,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t117_d7963079",
+       "title": {
+        "ru": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY",
+        "en": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY"
+       },
+       "words": 33716,
+       "images": 129,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t118_0185dc5f",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 33653,
+       "images": 111,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t119_6c2d0a95",
+       "title": {
+        "ru": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP",
+        "en": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP"
+       },
+       "words": 34701,
+       "images": 161,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t120_02c8d97f",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 36268,
+       "images": 130,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t121_32f0f2f0",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 40169,
+       "images": 264,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t122_eac2349b",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 35206,
+       "images": 255,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t123_c82e154c",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 38530,
+       "images": 168,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t124_6e4c3070",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 41793,
+       "images": 147,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t125_212dd00a",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 37427,
+       "images": 163,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t126_e60ccbc3",
+       "title": {
+        "ru": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E",
+        "en": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E"
+       },
+       "words": 37653,
+       "images": 355,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t127_d7e39790",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 35308,
+       "images": 364,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t128_19733ea2",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 36844,
+       "images": 164,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t129_c1da9197",
+       "title": {
+        "ru": "Install motor & limit SW assembly and sunroof rail assembly in the following seq",
+        "en": "Install motor & limit SW assembly and sunroof rail assembly in the following seq"
+       },
+       "words": 37817,
+       "images": 160,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t130_127cd306",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 38711,
+       "images": 117,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t131_01edc8f6",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 36128,
+       "images": 144,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t132_d7e7d77d",
+       "title": {
+        "ru": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP",
+        "en": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP"
+       },
+       "words": 36368,
+       "images": 134,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t133_d1490625",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 39632,
+       "images": 135,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t134_f58700a2",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 40932,
+       "images": 200,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t135_cedd5ee1",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 41242,
+       "images": 305,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t136_4c16af48",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 38844,
+       "images": 161,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t137_02af884b",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 43973,
+       "images": 153,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t138_e285a717",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 43095,
+       "images": 174,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t139_24efbaa6",
+       "title": {
+        "ru": "Supplemental Restraint System (SRS) \"AIR BAG' (Single Air Bag System)",
+        "en": "Supplemental Restraint System (SRS) \"AIR BAG' (Single Air Bag System)"
+       },
+       "words": 39060,
+       "images": 264,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t140_54f3451e",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 39070,
+       "images": 371,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t141_7633cd66",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) \"AIR BAG\" (DUAL AIR BAG SYSTEM)",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) \"AIR BAG\" (DUAL AIR BAG SYSTEM)"
+       },
+       "words": 38829,
+       "images": 236,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t142_5b905506",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 41707,
+       "images": 171,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t143_5f4c9c7f",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 39636,
+       "images": 129,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t144_795d2f83",
+       "title": {
+        "ru": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY",
+        "en": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY"
+       },
+       "words": 39447,
+       "images": 150,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t145_7f0bf388",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 40919,
+       "images": 113,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t146_eab86e23",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 40683,
+       "images": 136,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t147_8ea71d87",
+       "title": {
+        "ru": "TOWING AN AUTOMATIC TRANSAXLE MODEL WITH REAR WHEELS RAISED (With front wheels o",
+        "en": "TOWING AN AUTOMATIC TRANSAXLE MODEL WITH REAR WHEELS RAISED (With front wheels o"
+       },
+       "words": 42308,
+       "images": 174,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t148_83d4b69a",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 46368,
+       "images": 279,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t149_0311ecc2",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 39726,
+       "images": 221,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t150_7a285949",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 45824,
+       "images": 154,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t151_252c2d45",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 47551,
+       "images": 162,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t152_6347d73b",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV)-FICD Solenoid Valve (Cont'd) COMPONENT DуSCRIPTION",
+        "en": "Idle Air Control Valve (IACV)-FICD Solenoid Valve (Cont'd) COMPONENT DуSCRIPTION"
+       },
+       "words": 42044,
+       "images": 184,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t153_ac13aa4e",
+       "title": {
+        "ru": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E",
+        "en": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E"
+       },
+       "words": 43275,
+       "images": 355,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t154_6a888d3b",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 41179,
+       "images": 347,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t155_37ded905",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 44049,
+       "images": 151,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t156_60bae9da",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 42805,
+       "images": 156,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t157_43988804",
+       "title": {
+        "ru": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY",
+        "en": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY"
+       },
+       "words": 43805,
+       "images": 122,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t158_bd0a710d",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 42366,
+       "images": 131,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t159_9437c331",
+       "title": {
+        "ru": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP",
+        "en": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP"
+       },
+       "words": 42736,
+       "images": 153,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t160_7eb6fe93",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 45689,
+       "images": 137,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t161_af770954",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 47618,
+       "images": 242,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t162_0cc6220e",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 44834,
+       "images": 259,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t163_8338c798",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 46791,
+       "images": 167,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t164_8af5ee35",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 49851,
+       "images": 146,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t165_ddf2f38f",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 46747,
+       "images": 170,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t166_662210fe",
+       "title": {
+        "ru": "Supplemental Restraint System (SRS) \"AIR BAG' (Single Air Bag System)",
+        "en": "Supplemental Restraint System (SRS) \"AIR BAG' (Single Air Bag System)"
+       },
+       "words": 45501,
+       "images": 269,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t167_ef9a060b",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 45568,
+       "images": 437,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t168_27338306",
+       "title": {
+        "ru": "Thickness variation (At least 8 positions): Maximum 0.02 mm (0.0008 in)",
+        "en": "Thickness variation (At least 8 positions): Maximum 0.02 mm (0.0008 in)"
+       },
+       "words": 44707,
+       "images": 167,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t169_62289e1a",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 46024,
+       "images": 174,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t170_d8f8bfd9",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 47701,
+       "images": 117,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t171_bdf050e5",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 44384,
+       "images": 145,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t172_ac4ea50c",
+       "title": {
+        "ru": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP",
+        "en": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP"
+       },
+       "words": 45570,
+       "images": 131,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t173_4cc83a3e",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 47988,
+       "images": 134,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t174_6a3f5be9",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 48714,
+       "images": 179,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t175_5a11aaf9",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 52034,
+       "images": 301,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t176_475c0bbf",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 45679,
+       "images": 180,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t177_68dfa748",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 51885,
+       "images": 171,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t178_353dbdd4",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 53526,
+       "images": 161,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t179_4a0d9030",
+       "title": {
+        "ru": "Differential side gear thrust washer GA16DE and CD20 engine models",
+        "en": "Differential side gear thrust washer GA16DE and CD20 engine models"
+       },
+       "words": 47855,
+       "images": 264,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t180_ca5b0cbe",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 47787,
+       "images": 335,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t181_2560ebf1",
+       "title": {
+        "ru": "Output Shaft, Idler Gear, Reduction Pinion Gear and Bearing Retainer — Model 34X",
+        "en": "Output Shaft, Idler Gear, Reduction Pinion Gear and Bearing Retainer — Model 34X"
+       },
+       "words": 46796,
+       "images": 275,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t182_b242acbc",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 50998,
+       "images": 175,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t183_65f9200a",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 48605,
+       "images": 131,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t184_a962ef6c",
+       "title": {
+        "ru": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY",
+        "en": "Main Power Supply and Ground Circuit Check POWER SUPPLY CIRCUIT CHECK FOR A/C SY"
+       },
+       "words": 48041,
+       "images": 149,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t185_09b58722",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 48248,
+       "images": 111,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t186_e394c15d",
+       "title": {
+        "ru": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection",
+        "en": "HOW TO PERFORM EFFICIENT DIAGNOSIS FOR AN ELECTRICAL INCIDENT Circuit Inspection"
+       },
+       "words": 50606,
+       "images": 144,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t187_8a508957",
+       "title": {
+        "ru": "TOWING AN AUTOMATIC TRANSAXLE MODEL WITH REAR WHEELS RAISED (With front wheels o",
+        "en": "TOWING AN AUTOMATIC TRANSAXLE MODEL WITH REAR WHEELS RAISED (With front wheels o"
+       },
+       "words": 49213,
+       "images": 139,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t188_d7571056",
+       "title": {
+        "ru": "Use the valve guide center for reaming to ensure valve seat will have the correc",
+        "en": "Use the valve guide center for reaming to ensure valve seat will have the correc"
+       },
+       "words": 55785,
+       "images": 290,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t189_d69d68f8",
+       "title": {
+        "ru": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin",
+        "en": "Inspection and Adjustment (Cont'd) PISTON, PISTON RING AND PISTON PIN Piston rin"
+       },
+       "words": 48833,
+       "images": 235,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t190_150a30af",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) MIXTURE RATIO FEEDBACK CONTROL (C"
+       },
+       "words": 54087,
+       "images": 159,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t191_e4a45332",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) IACV-"
+       },
+       "words": 56329,
+       "images": 155,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t192_8fe3c59d",
+       "title": {
+        "ru": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO",
+        "en": "Idle Air Control Valve (IACV) — Auxiliary Air Control (AAC) Valve (Cont'd) COMPO"
+       },
+       "words": 50571,
+       "images": 148,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t193_9c65658d",
+       "title": {
+        "ru": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E",
+        "en": "Locations of Adjusting Shims, Needle Bearings, Thrust Washers and Snap Rings — E"
+       },
+       "words": 52683,
+       "images": 380,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t194_dc054157",
+       "title": {
+        "ru": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine",
+        "en": "Output Shaft, Output Gear, Idler Gear, Reduction Pinion Gear and Bearing Retaine"
+       },
+       "words": 49765,
+       "images": 353,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t195_ee6189bd",
+       "title": {
+        "ru": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun",
+        "en": "Self-diagnosis (For Europe) (Cont'd) HOW TO READ SELF-DIAGNOSTIC RESULTS (Malfun"
+       },
+       "words": 52348,
+       "images": 162,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t196_b7d874b7",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DEPLOYMENT PROCE"
+       },
+       "words": 51528,
+       "images": 157,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t197_b9f276d0",
+       "title": {
+        "ru": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DISPOSING OF AIR",
+        "en": "Disposal of Air Bag Module and Seat Belt Pre-tensioner (Cont'd) DISPOSING OF AIR"
+       },
+       "words": 52854,
+       "images": 109,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t198_fa326f8a",
+       "title": {
+        "ru": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)",
+        "en": "Speedometer, Tachometer, Temp. and Fuel Gauges/Wiring Diagram — METER — (Cont'd)"
+       },
+       "words": 50936,
+       "images": 145,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t199_3946483a",
+       "title": {
+        "ru": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP",
+        "en": "Trouble Diagnoses — Type 2 (Except for Europe and Australia) (Cont'd) POWER SUPP"
+       },
+       "words": 50468,
+       "images": 157,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_almera_general_t200_eba22144",
+       "title": {
+        "ru": "Multiport Fuel Injection (MFl) System (Cont'd) FUEL INJECTION TIMING",
+        "en": "Multiport Fuel Injection (MFl) System (Cont'd) FUEL INJECTION TIMING"
+       },
+       "words": 2374,
+       "images": 11,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_almera_infotainment_t000_7023da01",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 299,
+       "images": 3,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

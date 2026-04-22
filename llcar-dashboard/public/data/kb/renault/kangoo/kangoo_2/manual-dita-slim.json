@@ -1,0 +1,905 @@
+{
+ "version": "1.0",
+ "model": "kangoo",
+ "manuals": [
+  {
+   "model": "kangoo",
+   "label": {
+    "ru": "Renault Kangoo — Руководство по ремонту",
+    "en": "Renault Kangoo — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "renault_kangoo_engine_t000_90fc0429",
+       "title": {
+        "ru": "Частота вращения коленчатого вала дизельного двигателя",
+        "en": "Частота вращения коленчатого вала дизельного двигателя"
+       },
+       "words": 646,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_kangoo_engine_t001_348a93f6",
+       "title": {
+        "ru": "Расположение идентификационной табличке на двигателе",
+        "en": "Расположение идентификационной табличке на двигателе"
+       },
+       "words": 390,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_kangoo_engine_t002_1a31f779",
+       "title": {
+        "ru": "1.7.2. Двигатель со шкивом распределительного вала без меток",
+        "en": "1.7.2. Двигатель со шкивом распределительного вала без меток"
+       },
+       "words": 788,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_kangoo_engine_t003_a371700b",
+       "title": {
+        "ru": "1.8. ЗАТЯЖКА БОЛТОВ КРЕПЛЕНИЯ ГОЛОВКИ БЛОКА ЦИЛИНДРОВ",
+        "en": "1.8. ЗАТЯЖКА БОЛТОВ КРЕПЛЕНИЯ ГОЛОВКИ БЛОКА ЦИЛИНДРОВ"
+       },
+       "words": 804,
+       "images": 20,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_kangoo_engine_t004_ce4ad706",
+       "title": {
+        "ru": "2.12. УПРАВЛЕНИЕ ТЕМПЕРАТУРОЙ ОХЛАЖДАЮЩЕЙ \\*идкости",
+        "en": "2.12. УПРАВЛЕНИЕ ТЕМПЕРАТУРОЙ ОХЛАЖДАЮЩЕЙ \\*идкости"
+       },
+       "words": 1187,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_kangoo_engine_t005_f6ea8d36",
+       "title": {
+        "ru": "Установка двигателя на опорной плите",
+        "en": "Установка двигателя на опорной плите"
+       },
+       "words": 1607,
+       "images": 25,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_kangoo_engine_t006_aa227538",
+       "title": {
+        "ru": "Абсорбер паров топлива Проверка",
+        "en": "Абсорбер паров топлива Проверка"
+       },
+       "words": 765,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_kangoo_engine_t007_cdb35ecd",
+       "title": {
+        "ru": "Проверка зазоров в меха низме привода клапанов",
+        "en": "Проверка зазоров в меха низме привода клапанов"
+       },
+       "words": 745,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_kangoo_engine_t008_4ccd55e7",
+       "title": {
+        "ru": "1.2. Постоянный режим пред- арительного подогрева",
+        "en": "1.2. Постоянный режим пред- арительного подогрева"
+       },
+       "words": 1054,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_kangoo_engine_t009_32abc44a",
+       "title": {
+        "ru": "Установка начального угла опережения впрыска на ТНВД СО ШКИВОМ РАМ",
+        "en": "Установка начального угла опережения впрыска на ТНВД СО ШКИВОМ РАМ"
+       },
+       "words": 1331,
+       "images": 24,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_kangoo_engine_t010_73e3ce22",
+       "title": {
+        "ru": "9.2 СИСТЕМА КОНДИЦИОНИРОВАНИЯ",
+        "en": "9.2 СИСТЕМА КОНДИЦИОНИРОВАНИЯ"
+       },
+       "words": 809,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_kangoo_engine_t011_391fad96",
+       "title": {
+        "ru": "2. БЕНЗИНОВЫЙ ДВИГАТЕЛЬ D7F 35",
+        "en": "2. БЕНЗИНОВЫЙ ДВИГАТЕЛЬ D7F 35"
+       },
+       "words": 1754,
+       "images": 3,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "renault_kangoo_brakes_t000_30989dcf",
+       "title": {
+        "ru": "Необходимый специальный инструмент",
+        "en": "Необходимый специальный инструмент"
+       },
+       "words": 1163,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_kangoo_brakes_t001_d162b21d",
+       "title": {
+        "ru": "Трубопроводы и штуцерные соединения",
+        "en": "Трубопроводы и штуцерные соединения"
+       },
+       "words": 492,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_kangoo_brakes_t002_a82c5623",
+       "title": {
+        "ru": "8.3. ТОРМОЗНЫЕ КОЛОДКИ (БАРАБАННЫЙ ТОРМОЗ)",
+        "en": "8.3. ТОРМОЗНЫЕ КОЛОДКИ (БАРАБАННЫЙ ТОРМОЗ)"
+       },
+       "words": 555,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_kangoo_brakes_t003_9d68c1d0",
+       "title": {
+        "ru": "Необходимый специальный инструмент",
+        "en": "Необходимый специальный инструмент"
+       },
+       "words": 405,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_kangoo_brakes_t004_c649c499",
+       "title": {
+        "ru": "Снятие и установка гидравлического блока",
+        "en": "Снятие и установка гидравлического блока"
+       },
+       "words": 709,
+       "images": 12,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "renault_kangoo_suspension_t000_7c44032f",
+       "title": {
+        "ru": "Регулировка холостого хода и минимальной подачи (предотвращение остановки двигат",
+        "en": "Регулировка холостого хода и минимальной подачи (предотвращение остановки двигат"
+       },
+       "words": 597,
+       "images": 6,
+       "section_id": "suspension"
+      },
+      {
+       "id": "renault_kangoo_suspension_t001_40da7530",
+       "title": {
+        "ru": "Необходимый специальный инструмент и оборудование",
+        "en": "Необходимый специальный инструмент и оборудование"
+       },
+       "words": 542,
+       "images": 7,
+       "section_id": "suspension"
+      },
+      {
+       "id": "renault_kangoo_suspension_t002_71156b98",
+       "title": {
+        "ru": "Необходимый специальный инструмент",
+        "en": "Необходимый специальный инструмент"
+       },
+       "words": 416,
+       "images": 4,
+       "section_id": "suspension"
+      },
+      {
+       "id": "renault_kangoo_suspension_t003_ae66c0ac",
+       "title": {
+        "ru": "9.5. СТЕКЛООЧИСТИТЕЛИ И ОМЫВАТЕЛИ",
+        "en": "9.5. СТЕКЛООЧИСТИТЕЛИ И ОМЫВАТЕЛИ"
+       },
+       "words": 691,
+       "images": 7,
+       "section_id": "suspension"
+      },
+      {
+       "id": "renault_kangoo_suspension_t004_027d7be8",
+       "title": {
+        "ru": "Особенности",
+        "en": "Особенности"
+       },
+       "words": 160,
+       "images": 8,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "renault_kangoo_electrical_t000_4f3bb7f6",
+       "title": {
+        "ru": "Наружные зеркала заднего вида с электрической регулировкой",
+        "en": "Наружные зеркала заднего вида с электрической регулировкой"
+       },
+       "words": 351,
+       "images": 3,
+       "section_id": "electrical"
+      },
+      {
+       "id": "renault_kangoo_electrical_t001_22b53bf8",
+       "title": {
+        "ru": "Необходимый специальный инструмент и оборудование",
+        "en": "Необходимый специальный инструмент и оборудование"
+       },
+       "words": 470,
+       "images": 6,
+       "section_id": "electrical"
+      },
+      {
+       "id": "renault_kangoo_electrical_t002_48d81708",
+       "title": {
+        "ru": "Алгоритм включения KOMpressora",
+        "en": "Алгоритм включения KOMpressora"
+       },
+       "words": 804,
+       "images": 15,
+       "section_id": "electrical"
+      },
+      {
+       "id": "renault_kangoo_electrical_t003_e90aa8b3",
+       "title": {
+        "ru": "Снятие",
+        "en": "Снятие"
+       },
+       "words": 142,
+       "images": 8,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "renault_kangoo_hvac_t000_5d3ad366",
+       "title": {
+        "ru": "Вентиляционная решетка со стороны сиденья водителя",
+        "en": "Вентиляционная решетка со стороны сиденья водителя"
+       },
+       "words": 235,
+       "images": 4,
+       "section_id": "hvac"
+      },
+      {
+       "id": "renault_kangoo_hvac_t001_f5fb1c82",
+       "title": {
+        "ru": "Диагностика",
+        "en": "Диагностика"
+       },
+       "words": 368,
+       "images": 4,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "renault_kangoo_body_t000_a4c130e9",
+       "title": {
+        "ru": "Замена элементов питания пульта дистанционного управления",
+        "en": "Замена элементов питания пульта дистанционного управления"
+       },
+       "words": 300,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_kangoo_body_t001_fe0c301e",
+       "title": {
+        "ru": "Блокировка открывания двери при заправке тОпЛиВОМ",
+        "en": "Блокировка открывания двери при заправке тОпЛиВОМ"
+       },
+       "words": 473,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_kangoo_body_t002_82ebcb77",
+       "title": {
+        "ru": "4.15. СИСТЕМА РЕЦИРКУЛЯЦИИ ОТРАБОТАВШИХ ГАЗОВ",
+        "en": "4.15. СИСТЕМА РЕЦИРКУЛЯЦИИ ОТРАБОТАВШИХ ГАЗОВ"
+       },
+       "words": 1311,
+       "images": 26,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_kangoo_body_t003_a3853e17",
+       "title": {
+        "ru": "Положение контрольных точек нижней части кузова",
+        "en": "Положение контрольных точек нижней части кузова"
+       },
+       "words": 550,
+       "images": 12,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_kangoo_body_t004_0463d130",
+       "title": {
+        "ru": "Двигатель заднего стекло- очистителя",
+        "en": "Двигатель заднего стекло- очистителя"
+       },
+       "words": 360,
+       "images": 15,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_kangoo_body_t005_e4136ba7",
+       "title": {
+        "ru": "Снятие стекла зеркала заднего вида",
+        "en": "Снятие стекла зеркала заднего вида"
+       },
+       "words": 30,
+       "images": 8,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "renault_kangoo_steering_t000_3892cad6",
+       "title": {
+        "ru": "32.5. Уровень масла в бачке гидроусилителя рулевого управления",
+        "en": "32.5. Уровень масла в бачке гидроусилителя рулевого управления"
+       },
+       "words": 559,
+       "images": 4,
+       "section_id": "steering"
+      },
+      {
+       "id": "renault_kangoo_steering_t001_7ebf96a0",
+       "title": {
+        "ru": "7.1. ВНУТРЕННИЙ ШАРНИР РУЛЕВОЙ ТЯГИ",
+        "en": "7.1. ВНУТРЕННИЙ ШАРНИР РУЛЕВОЙ ТЯГИ"
+       },
+       "words": 966,
+       "images": 16,
+       "section_id": "steering"
+      },
+      {
+       "id": "renault_kangoo_steering_t002_2b9787f8",
+       "title": {
+        "ru": "7.2. РУЛЕВОЙ МЕХАНИЗМ БЕЗ УСИЛИТЕЛЯ",
+        "en": "7.2. РУЛЕВОЙ МЕХАНИЗМ БЕЗ УСИЛИТЕЛЯ"
+       },
+       "words": 781,
+       "images": 3,
+       "section_id": "steering"
+      },
+      {
+       "id": "renault_kangoo_steering_t003_5c82f63e",
+       "title": {
+        "ru": "7.7. ШКИВ НАСОСА УСИЛИТЕЛЯ РУЛЕВОГО УПРАВЛЕНИЯ",
+        "en": "7.7. ШКИВ НАСОСА УСИЛИТЕЛЯ РУЛЕВОГО УПРАВЛЕНИЯ"
+       },
+       "words": 956,
+       "images": 13,
+       "section_id": "steering"
+      },
+      {
+       "id": "renault_kangoo_steering_t004_5a053359",
+       "title": {
+        "ru": "3. Воздухораспределитель ный блок",
+        "en": "3. Воздухораспределитель ный блок"
+       },
+       "words": 346,
+       "images": 15,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "renault_kangoo_lighting_t000_e34b4b51",
+       "title": {
+        "ru": "Контрольная лампа отработавших газов.",
+        "en": "Контрольная лампа отработавших газов."
+       },
+       "words": 706,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "renault_kangoo_lighting_t001_4eaeed17",
+       "title": {
+        "ru": "Сигнальные лампы системы противоугонной блокировки запуска двигателя",
+        "en": "Сигнальные лампы системы противоугонной блокировки запуска двигателя"
+       },
+       "words": 566,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "renault_kangoo_lighting_t002_7b57b215",
+       "title": {
+        "ru": "4.11. ДАТЧИК ТЕМПЕРА- ТУРЫ ОХЛАЖДАЮЩЕЙ \\*идкости",
+        "en": "4.11. ДАТЧИК ТЕМПЕРА- ТУРЫ ОХЛАЖДАЮЩЕЙ \\*идкости"
+       },
+       "words": 343,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "renault_kangoo_interior_t000_a5e27297",
+       "title": {
+        "ru": "Регулирование количества воздуха, поступающего в салон",
+        "en": "Регулирование количества воздуха, поступающего в салон"
+       },
+       "words": 774,
+       "images": 22,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "renault_kangoo_ev_t000_1bffefc2",
+       "title": {
+        "ru": "22. СИСТЕМА ЭЛЕКТРОННОЙ ПРОТИВОУГОННОЙ БЛОКИРОВКИ ЗАПУСКА ДВИГАТЕЛЯ",
+        "en": "22. СИСТЕМА ЭЛЕКТРОННОЙ ПРОТИВОУГОННОЙ БЛОКИРОВКИ ЗАПУСКА ДВИГАТЕЛЯ"
+       },
+       "words": 803,
+       "images": 3,
+       "section_id": "ev"
+      },
+      {
+       "id": "renault_kangoo_ev_t001_a552abde",
+       "title": {
+        "ru": "Электромагнитный клапан опорожнения абсорбера",
+        "en": "Электромагнитный клапан опорожнения абсорбера"
+       },
+       "words": 982,
+       "images": 18,
+       "section_id": "ev"
+      },
+      {
+       "id": "renault_kangoo_ev_t002_d7f782c7",
+       "title": {
+        "ru": "4.18. КОДИРОВАННЫЙ ЭЛЕКТРОМАГНИТНЫЙ КЛАПАН",
+        "en": "4.18. КОДИРОВАННЫЙ ЭЛЕКТРОМАГНИТНЫЙ КЛАПАН"
+       },
+       "words": 632,
+       "images": 16,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "renault_kangoo_chassis_t000_b61b44ad",
+       "title": {
+        "ru": "Массовые характеристики двигателя",
+        "en": "Массовые характеристики двигателя"
+       },
+       "words": 1109,
+       "images": 17,
+       "section_id": "chassis"
+      },
+      {
+       "id": "renault_kangoo_chassis_t001_74c2135f",
+       "title": {
+        "ru": "Моменты затяжки, Н-м:",
+        "en": "Моменты затяжки, Н-м:"
+       },
+       "words": 815,
+       "images": 8,
+       "section_id": "chassis"
+      },
+      {
+       "id": "renault_kangoo_chassis_t002_b030c4d2",
+       "title": {
+        "ru": "Моменты затяжки, Н-м",
+        "en": "Моменты затяжки, Н-м"
+       },
+       "words": 417,
+       "images": 3,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "renault_kangoo_general_t000_3fdadc33",
+       "title": {
+        "ru": "Открытие стекла боковой сдвижной двери",
+        "en": "Открытие стекла боковой сдвижной двери"
+       },
+       "words": 211,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t001_b9dfb375",
+       "title": {
+        "ru": "28.2. Особенности функцио- нирования автомобилей с бензиновым двигателем",
+        "en": "28.2. Особенности функцио- нирования автомобилей с бензиновым двигателем"
+       },
+       "words": 409,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t002_9c8315c8",
+       "title": {
+        "ru": "Автомобили, оборудованные устройством подогрева дизельного топлива",
+        "en": "Автомобили, оборудованные устройством подогрева дизельного топлива"
+       },
+       "words": 218,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t003_71428d3f",
+       "title": {
+        "ru": "Наличие следов конденсата на отражателях фар",
+        "en": "Наличие следов конденсата на отражателях фар"
+       },
+       "words": 210,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t004_61ea6f91",
+       "title": {
+        "ru": "Восстановление рабочего со- стояние выключателя",
+        "en": "Восстановление рабочего со- стояние выключателя"
+       },
+       "words": 658,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t005_7da1deee",
+       "title": {
+        "ru": "Необходимый специальный инструмент",
+        "en": "Необходимый специальный инструмент"
+       },
+       "words": 754,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t006_1b5802d7",
+       "title": {
+        "ru": "2. Подготовка групп «поршень- палеце",
+        "en": "2. Подготовка групп «поршень- палеце"
+       },
+       "words": 1083,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t007_1f3aa546",
+       "title": {
+        "ru": "2.24. СИСТЕМА ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ",
+        "en": "2.24. СИСТЕМА ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ"
+       },
+       "words": 640,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t008_4eb2f267",
+       "title": {
+        "ru": "7. Детали, которые должны заменяться при снятии",
+        "en": "7. Детали, которые должны заменяться при снятии"
+       },
+       "words": 776,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t009_73703fe7",
+       "title": {
+        "ru": "Условия опорожнения a6copбepa",
+        "en": "Условия опорожнения a6copбepa"
+       },
+       "words": 205,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t010_13a65d70",
+       "title": {
+        "ru": "Необходимый специальнь инструмент",
+        "en": "Необходимый специальнь инструмент"
+       },
+       "words": 725,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t011_30417b46",
+       "title": {
+        "ru": "4.10. НАСОС СИСТЕМЫ ОХЛАЖДЕНИЯ",
+        "en": "4.10. НАСОС СИСТЕМЫ ОХЛАЖДЕНИЯ"
+       },
+       "words": 409,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t012_fb1fea34",
+       "title": {
+        "ru": "Управление предваритель- ным и последующим подогревом",
+        "en": "Управление предваритель- ным и последующим подогревом"
+       },
+       "words": 892,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t013_2bde24ea",
+       "title": {
+        "ru": "29. Клапан, предохраняющий от создания повышенного давле- ния и разрежения",
+        "en": "29. Клапан, предохраняющий от создания повышенного давле- ния и разрежения"
+       },
+       "words": 669,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t014_efe0f920",
+       "title": {
+        "ru": "Используемые материалы",
+        "en": "Используемые материалы"
+       },
+       "words": 408,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t015_c102ad17",
+       "title": {
+        "ru": "Необходимый специальный инструмент",
+        "en": "Необходимый специальный инструмент"
+       },
+       "words": 614,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t016_9bc1f2fa",
+       "title": {
+        "ru": "Необходимый специальный инструмент",
+        "en": "Необходимый специальный инструмент"
+       },
+       "words": 751,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t017_13c69e67",
+       "title": {
+        "ru": "Замена воздушного фильтра",
+        "en": "Замена воздушного фильтра"
+       },
+       "words": 416,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t018_0d979453",
+       "title": {
+        "ru": "10.3. ЗАЩИТНЫЕ НАКЛАДКИ ЗАДНЕЙ ДВЕРИ",
+        "en": "10.3. ЗАЩИТНЫЕ НАКЛАДКИ ЗАДНЕЙ ДВЕРИ"
+       },
+       "words": 278,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_kangoo_general_t019_462fa472",
+       "title": {
+        "ru": "Наружная ручка сдвижной двери",
+        "en": "Наружная ручка сдвижной двери"
+       },
+       "words": 1175,
+       "images": 54,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "renault_kangoo_infotainment_t000_0538330c",
+       "title": {
+        "ru": "31. КОНТРОЛЬ УРОВНЯ МАСЛА В ДВИГАТЕЛЕ",
+        "en": "31. КОНТРОЛЬ УРОВНЯ МАСЛА В ДВИГАТЕЛЕ"
+       },
+       "words": 120,
+       "images": 1,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "renault_kangoo_drivetrain_t000_fc1e6f45",
+       "title": {
+        "ru": "2.6. РЕМЕНЬ ПРИВОДА ГАЗОРАСПРЕДЕЛИТЕЛЬ- НОГО МЕХАНИЗМА",
+        "en": "2.6. РЕМЕНЬ ПРИВОДА ГАЗОРАСПРЕДЕЛИТЕЛЬ- НОГО МЕХАНИЗМА"
+       },
+       "words": 634,
+       "images": 6,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "renault_kangoo_drivetrain_t001_33272d4b",
+       "title": {
+        "ru": "Детали, которые должны заменяться при снятии:",
+        "en": "Детали, которые должны заменяться при снятии:"
+       },
+       "words": 683,
+       "images": 11,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "renault_kangoo_drivetrain_t002_26796028",
+       "title": {
+        "ru": "Внутренняя ручка привода замка сдвижной двери",
+        "en": "Внутренняя ручка привода замка сдвижной двери"
+       },
+       "words": 227,
+       "images": 4,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "renault_kangoo_sensors_t000_731f0781",
+       "title": {
+        "ru": "3.20. ТОПЛИВНЫЙ НАСОС В СБОРЕ С ДАТЧИКОМ УРОВНЯ ТОПЛИВА",
+        "en": "3.20. ТОПЛИВНЫЙ НАСОС В СБОРЕ С ДАТЧИКОМ УРОВНЯ ТОПЛИВА"
+       },
+       "words": 581,
+       "images": 14,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

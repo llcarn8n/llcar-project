@@ -1,0 +1,2245 @@
+{
+ "version": "1.0",
+ "model": "primera",
+ "manuals": [
+  {
+   "model": "primera",
+   "label": {
+    "ru": "Nissan Primera — Руководство по ремонту",
+    "en": "Nissan Primera — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "nissan_primera_brakes_t000_af3a0aab",
+       "title": {
+        "ru": "9.8. Wymontowanie kolumny resorujacej zawieszenia tylnego",
+        "en": "9.8. Wymontowanie kolumny resorujacej zawieszenia tylnego"
+       },
+       "words": 2491,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_primera_brakes_t001_365a3549",
+       "title": {
+        "ru": "[21 Uktad przeciw/blokujacy ABS - informacje ogólne",
+        "en": "[21 Uktad przeciw/blokujacy ABS - informacje ogólne"
+       },
+       "words": 2085,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_primera_brakes_t002_cccb9fc3",
+       "title": {
+        "ru": "[21 Uktad przeciw/blokujacy ABS - informacje ogólne",
+        "en": "[21 Uktad przeciw/blokujacy ABS - informacje ogólne"
+       },
+       "words": 2835,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_primera_brakes_t003_6c60a76b",
+       "title": {
+        "ru": "[21 Uktad przeciw/blokujacy ABS - informacje ogólne",
+        "en": "[21 Uktad przeciw/blokujacy ABS - informacje ogólne"
+       },
+       "words": 2168,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "nissan_primera_lighting_t000_c94c6034",
+       "title": {
+        "ru": "11.12. ruby o rednicy 6 mm zamocowane z przodu gtowicy silnika",
+        "en": "11.12. ruby o rednicy 6 mm zamocowane z przodu gtowicy silnika"
+       },
+       "words": 2039,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_primera_lighting_t001_06859527",
+       "title": {
+        "ru": "Zamontowanie",
+        "en": "Zamontowanie"
+       },
+       "words": 1233,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_primera_lighting_t002_9e59478f",
+       "title": {
+        "ru": "Kolektor paliwa i wtryskiwacze paliwa",
+        "en": "Kolektor paliwa i wtryskiwacze paliwa"
+       },
+       "words": 1391,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_primera_lighting_t003_8d64b80a",
+       "title": {
+        "ru": "10 Elementy zawieszenia tylnego - wymontowanie, naprawa i zamontowanie",
+        "en": "10 Elementy zawieszenia tylnego - wymontowanie, naprawa i zamontowanie"
+       },
+       "words": 709,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_primera_lighting_t004_e5ebfc1a",
+       "title": {
+        "ru": "Naprawa wgnieceñ",
+        "en": "Naprawa wgnieceñ"
+       },
+       "words": 836,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_primera_lighting_t005_d00c657e",
+       "title": {
+        "ru": "Zamontowanie",
+        "en": "Zamontowanie"
+       },
+       "words": 830,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_primera_lighting_t006_ea3bd19f",
+       "title": {
+        "ru": "Zamontowanie",
+        "en": "Zamontowanie"
+       },
+       "words": 602,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_primera_lighting_t007_c0b949fd",
+       "title": {
+        "ru": "Nakretki samozabezpieczajace, zawlczki i podktadki",
+        "en": "Nakretki samozabezpieczajace, zawlczki i podktadki"
+       },
+       "words": 1537,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_primera_lighting_t008_d456dfe8",
+       "title": {
+        "ru": "Modele fazy III z silnikiem 2,0",
+        "en": "Modele fazy III z silnikiem 2,0"
+       },
+       "words": 1476,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_primera_lighting_t009_87c2de6d",
+       "title": {
+        "ru": "Nakretki samozabezpieczajace, zawlczki i podktadki",
+        "en": "Nakretki samozabezpieczajace, zawlczki i podktadki"
+       },
+       "words": 1349,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_primera_lighting_t010_84a39bcf",
+       "title": {
+        "ru": "Wzgledy ochrony rodowiska",
+        "en": "Wzgledy ochrony rodowiska"
+       },
+       "words": 3525,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_primera_lighting_t011_6a669fad",
+       "title": {
+        "ru": "Wzgledy ochrony rodowiska",
+        "en": "Wzgledy ochrony rodowiska"
+       },
+       "words": 1157,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "nissan_primera_general_t000_446319d9",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 15297,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t001_f438998a",
+       "title": {
+        "ru": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza",
+        "en": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza"
+       },
+       "words": 20134,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t002_8e6190d6",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 27300,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t003_17f3798f",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 15302,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t004_11ab9970",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 15555,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t005_97c5aab1",
+       "title": {
+        "ru": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow",
+        "en": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow"
+       },
+       "words": 16996,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t006_2c1e8bf2",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 19558,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t007_b0b10a88",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 16690,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t008_db7e4d4b",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 8373,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t009_6b4b6161",
+       "title": {
+        "ru": "4.3. Wysuwanie przetacznika wycieraczek i spryskiwaczy ze wspornika kolumny kier",
+        "en": "4.3. Wysuwanie przetacznika wycieraczek i spryskiwaczy ze wspornika kolumny kier"
+       },
+       "words": 9948,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t010_4fb63ae2",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 8426,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t011_478fef16",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 9436,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t012_2ea1fdf5",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 7661,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t013_4e8109c0",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 17696,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t014_1b52df3f",
+       "title": {
+        "ru": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza",
+        "en": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza"
+       },
+       "words": 22714,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t015_201e1b32",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 28712,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t016_ad4583d7",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 17209,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t017_2a4775c3",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 17402,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t018_a5e4f00c",
+       "title": {
+        "ru": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow",
+        "en": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow"
+       },
+       "words": 18935,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t019_0ee8a8c6",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 19626,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t020_a3f0e405",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 19822,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t021_ba0c3bba",
+       "title": {
+        "ru": "26.3. Wykrecanie wkretu mocujacego z naktadki prowadnicy wewnetrznej siedzenia p",
+        "en": "26.3. Wykrecanie wkretu mocujacego z naktadki prowadnicy wewnetrznej siedzenia p"
+       },
+       "words": 10328,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t022_ce503f38",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 9973,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t023_1073633f",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 11140,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t024_bac5a561",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 11177,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t025_26bee66e",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 10060,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t026_cf4b9e25",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 18011,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t027_227c1957",
+       "title": {
+        "ru": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza",
+        "en": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza"
+       },
+       "words": 24271,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t028_db068349",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 30619,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t029_3da9f250",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 19247,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t030_34e89693",
+       "title": {
+        "ru": "Stycznik potoenia neutralnego -wеrсjе z тесhанисзна скрzуnка przektadniowa",
+        "en": "Stycznik potoenia neutralnego -wеrсjе z тесhанисзна скрzуnка przektadniowa"
+       },
+       "words": 20144,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t031_96c985b0",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 18601,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t032_81725eee",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 24248,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t033_4298d62d",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 20581,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t034_252da2a6",
+       "title": {
+        "ru": "16 Ostony gumowe przektadni kierowniczej - wymiana",
+        "en": "16 Ostony gumowe przektadni kierowniczej - wymiana"
+       },
+       "words": 15352,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t035_a9bfb0bf",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 12572,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t036_bf9431b2",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 12878,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t037_8df6ee44",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 12164,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t038_d376b019",
+       "title": {
+        "ru": "Przedwczesnyzapton lub spalanie stukowe w czasie przypiészania lub pod obciaenie",
+        "en": "Przedwczesnyzapton lub spalanie stukowe w czasie przypiészania lub pod obciaenie"
+       },
+       "words": 13598,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t039_7ae58c9c",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 13002,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t040_aa879213",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 24330,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t041_732e857a",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 27604,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t042_2c37bdfa",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 28692,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t043_1a7b65d8",
+       "title": {
+        "ru": "Regulacjaustawienia przepustnicy1.przelotupodczas szybkiego biegujatowego",
+        "en": "Regulacjaustawienia przepustnicy1.przelotupodczas szybkiego biegujatowego"
+       },
+       "words": 20870,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t044_1580150c",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 21508,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t045_4d202a65",
+       "title": {
+        "ru": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow",
+        "en": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow"
+       },
+       "words": 23119,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t046_ac4c60b8",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 24424,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t047_556011bd",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 21164,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t048_d9ff761d",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 14031,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t049_291f0c81",
+       "title": {
+        "ru": "Pokrywa przedziatu silnika - wymontowanie, zamontowanie i regulacja",
+        "en": "Pokrywa przedziatu silnika - wymontowanie, zamontowanie i regulacja"
+       },
+       "words": 13653,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t050_741ba4bf",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 14019,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t051_48a0a3de",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 15613,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t052_0e65bbe4",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 13174,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t053_4238ca9b",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 22421,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t054_9df764b0",
+       "title": {
+        "ru": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza",
+        "en": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza"
+       },
+       "words": 27463,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t055_65fc7eeb",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 35367,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t056_676acf41",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 22294,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t057_efdf4c03",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 24076,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t058_4bf763c0",
+       "title": {
+        "ru": "2.79. Zawór kompensacyjny biegu jatowego (strzatka) jest zamontowany do podstawy",
+        "en": "2.79. Zawór kompensacyjny biegu jatowego (strzatka) jest zamontowany do podstawy"
+       },
+       "words": 22770,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t059_2f64aace",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 26336,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t060_6ff27cbb",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 25138,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t061_574ef1ee",
+       "title": {
+        "ru": "Szyby przednia i tylna oraz inne szyby nieruchome - informacje ogólne",
+        "en": "Szyby przednia i tylna oraz inne szyby nieruchome - informacje ogólne"
+       },
+       "words": 17945,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t062_6fd5ab94",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 16008,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t063_af2b6d0e",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 16558,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t064_6ced49af",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 16087,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t065_67a11a40",
+       "title": {
+        "ru": "Przedwczesnyzapton lub spalanie stukowe w czasie przypiészania lub pod obciaenie",
+        "en": "Przedwczesnyzapton lub spalanie stukowe w czasie przypiészania lub pod obciaenie"
+       },
+       "words": 16856,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t066_995d9cf6",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 17593,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t067_c0bd234a",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 28754,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t068_a97f6d59",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 30023,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t069_f7538529",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 32814,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t070_3976aab5",
+       "title": {
+        "ru": "Regulacjaustawienia przepustnicy1.przelotupodczas szybkiego biegujatowego",
+        "en": "Regulacjaustawienia przepustnicy1.przelotupodczas szybkiego biegujatowego"
+       },
+       "words": 24771,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t071_778aa368",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 25255,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t072_95a19547",
+       "title": {
+        "ru": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow",
+        "en": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow"
+       },
+       "words": 28410,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t073_6ae5fca1",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 26570,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t074_4815dbd1",
+       "title": {
+        "ru": "15 Zespót przektadni kierowniczej - wymontowanie, naprawa i zamontowanie",
+        "en": "15 Zespót przektadni kierowniczej - wymontowanie, naprawa i zamontowanie"
+       },
+       "words": 24151,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t075_463a4b06",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 17257,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t076_4c024ce1",
+       "title": {
+        "ru": "4.3. Wysuwanie przetacznika wycieraczek i spryskiwaczy ze wspornika kolumny kier",
+        "en": "4.3. Wysuwanie przetacznika wycieraczek i spryskiwaczy ze wspornika kolumny kier"
+       },
+       "words": 18856,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t077_10174867",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 16898,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t078_2d2bd65a",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 19084,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t079_e4ef6d17",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 16602,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t080_dd5ded5c",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 26000,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t081_5147d990",
+       "title": {
+        "ru": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza",
+        "en": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza"
+       },
+       "words": 32293,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t082_3fb06ab8",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 38251,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t083_8025a7ec",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 26087,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t084_80f8060e",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 27147,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t085_7cc325e0",
+       "title": {
+        "ru": "2.79. Zawór kompensacyjny biegu jatowego (strzatka) jest zamontowany do podstawy",
+        "en": "2.79. Zawór kompensacyjny biegu jatowego (strzatka) jest zamontowany do podstawy"
+       },
+       "words": 26913,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t086_ad81a544",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 29250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t087_5c26eaff",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 30042,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t088_544719fa",
+       "title": {
+        "ru": "26.3. Wykrecanie wkretu mocujacego z naktadki prowadnicy wewnetrznej siedzenia p",
+        "en": "26.3. Wykrecanie wkretu mocujacego z naktadki prowadnicy wewnetrznej siedzenia p"
+       },
+       "words": 19973,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t089_2e3fa64b",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 19562,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t090_b3ce3689",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 20330,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t091_d3fa64ce",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 19708,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t092_d9a6547f",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 20323,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t093_59541b97",
+       "title": {
+        "ru": "Silnika nie mona uruchomi na adnym biegu lub silnik mona uruchomi na biegah inny",
+        "en": "Silnika nie mona uruchomi na adnym biegu lub silnik mona uruchomi na biegah inny"
+       },
+       "words": 21767,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t094_7998eb3b",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 33440,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t095_092cf4a3",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 33092,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t096_09d80593",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 36782,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t097_a18047de",
+       "title": {
+        "ru": "Stycznik potoenia neutralnego -wеrсjе z тесhанисзна скрzуnка przektadniowa",
+        "en": "Stycznik potoenia neutralnego -wеrсjе z тесhанисзна скрzуnка przektadniowa"
+       },
+       "words": 27380,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t098_41fbf986",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 29115,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t099_622ab929",
+       "title": {
+        "ru": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow",
+        "en": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow"
+       },
+       "words": 34115,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t100_68653a9e",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 28251,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t101_bf5e4166",
+       "title": {
+        "ru": "15 Zespót przektadni kierowniczej - wymontowanie, naprawa i zamontowanie",
+        "en": "15 Zespót przektadni kierowniczej - wymontowanie, naprawa i zamontowanie"
+       },
+       "words": 27597,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t102_657d26f4",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 21232,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t103_220c1571",
+       "title": {
+        "ru": "4.3. Wysuwanie przetacznika wycieraczek i spryskiwaczy ze wspornika kolumny kier",
+        "en": "4.3. Wysuwanie przetacznika wycieraczek i spryskiwaczy ze wspornika kolumny kier"
+       },
+       "words": 22250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t104_1735b814",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 21164,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t105_4c8eb88b",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 22028,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t106_da74478a",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 20849,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t107_3e4a1cbf",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 30693,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t108_39a1c84a",
+       "title": {
+        "ru": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza",
+        "en": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza"
+       },
+       "words": 34955,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t109_0c6142f3",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 41400,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t110_7446af24",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 30272,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t111_aa59d3e3",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 30308,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t112_cd1bef2f",
+       "title": {
+        "ru": "1 Naprawa gtówna automatycне кrzynki przekаniowej - informacje ogólne",
+        "en": "1 Naprawa gtówna automatycне кrzynki przekаniowej - informacje ogólne"
+       },
+       "words": 31153,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t113_60398665",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 32769,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t114_1873dd22",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 33253,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t115_839c96af",
+       "title": {
+        "ru": "26.3. Wykrecanie wkretu mocujacego z naktadki prowadnicy wewnetrznej siedzenia p",
+        "en": "26.3. Wykrecanie wkretu mocujacego z naktadki prowadnicy wewnetrznej siedzenia p"
+       },
+       "words": 23165,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t116_c0c79b96",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 22917,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t117_6ae6111c",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 23949,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t118_632da57e",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 23451,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t119_f9c3be89",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 23851,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t120_6049775b",
+       "title": {
+        "ru": "Zapadka zamka blokuje sie, lecz nie daje sie otworzy albo daje si otworzy, lecz ",
+        "en": "Zapadka zamka blokuje sie, lecz nie daje sie otworzy albo daje si otworzy, lecz "
+       },
+       "words": 26148,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t121_367f9ca7",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 37351,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t122_5d7561a4",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 39686,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t123_e2eb779d",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 38514,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t124_e61b1be9",
+       "title": {
+        "ru": "Stycznik potoenia neutralnego -wеrсjе z тесhанисзна скрzуnка przektadniowa",
+        "en": "Stycznik potoenia neutralnego -wеrсjе z тесhанисзна скрzуnка przektadniowa"
+       },
+       "words": 30179,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t125_9ff6afd9",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 32876,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t126_a7d11507",
+       "title": {
+        "ru": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow",
+        "en": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow"
+       },
+       "words": 37690,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t127_db48a88f",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 31908,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t128_3030d406",
+       "title": {
+        "ru": "15 Zespót przektadni kierowniczej - wymontowanie, naprawa i zamontowanie",
+        "en": "15 Zespót przektadni kierowniczej - wymontowanie, naprawa i zamontowanie"
+       },
+       "words": 30409,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t129_72147852",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 24725,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t130_8d9f07fb",
+       "title": {
+        "ru": "4.3. Wysuwanie przetacznika wycieraczek i spryskiwaczy ze wspornika kolumny kier",
+        "en": "4.3. Wysuwanie przetacznika wycieraczek i spryskiwaczy ze wspornika kolumny kier"
+       },
+       "words": 26027,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t131_71ae0e38",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 24602,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t132_97e34f04",
+       "title": {
+        "ru": "3 Sprawdzenia dokonywane przy podniesionym samochodzie z kotami zwisajacymi swob",
+        "en": "3 Sprawdzenia dokonywane przy podniesionym samochodzie z kotami zwisajacymi swob"
+       },
+       "words": 25987,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t133_4b95e8a8",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 24826,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t134_7e48d9a9",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 35029,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t135_1fa49322",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele sédan i hatchback fazy I i ll oraz modele ",
+        "en": "Przedni wspornik zawieszenia - modele sédan i hatchback fazy I i ll oraz modele "
+       },
+       "words": 40099,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t136_31c930bd",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 43617,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t137_3efcbfe9",
+       "title": {
+        "ru": "Dane do sprawdzania elementów uktadu zasilania (ECC) - wersje z katalizatorem",
+        "en": "Dane do sprawdzania elementów uktadu zasilania (ECC) - wersje z katalizatorem"
+       },
+       "words": 32988,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t138_07f81ad0",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 34147,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t139_24d58e4a",
+       "title": {
+        "ru": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow",
+        "en": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow"
+       },
+       "words": 35803,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t140_52f7544f",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 35422,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t141_2242561f",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 36803,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t142_1aa92962",
+       "title": {
+        "ru": "26.3. Wykrecanie wkretu mocujacego z naktadki prowadnicy wewnetrznej siedzenia p",
+        "en": "26.3. Wykrecanie wkretu mocujacego z naktadki prowadnicy wewnetrznej siedzenia p"
+       },
+       "words": 26703,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t143_1b01b3af",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 26219,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t144_50ad7eb7",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 27679,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t145_680b9fc2",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 27255,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t146_29184f01",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 26857,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t147_04b3cd6e",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 31875,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t148_890d5000",
+       "title": {
+        "ru": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza",
+        "en": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza"
+       },
+       "words": 41644,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t149_29d5518a",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 44436,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t150_6c07b0e0",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 38988,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t151_d20fe177",
+       "title": {
+        "ru": "Stycznik potoenia neutralnego -wеrсjе z тесhанисзна скрzуnка przektadniowa",
+        "en": "Stycznik potoenia neutralnego -wеrсjе z тесhанисзна скрzуnка przektadniowa"
+       },
+       "words": 35107,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t152_9da92848",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 35767,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t153_da1ecd86",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 40873,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t154_a82ce114",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 36470,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t155_d4ad4cb1",
+       "title": {
+        "ru": "15 Zespót przektadni kierowniczej - wymontowanie, naprawa i zamontowanie",
+        "en": "15 Zespót przektadni kierowniczej - wymontowanie, naprawa i zamontowanie"
+       },
+       "words": 32645,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t156_ab27a4c7",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 28991,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t157_84f41090",
+       "title": {
+        "ru": "5.56. Wyjmowanie arówki gniazda wiatet cofania i tylnego przeciwmgtowego - model",
+        "en": "5.56. Wyjmowanie arówki gniazda wiatet cofania i tylnego przeciwmgtowego - model"
+       },
+       "words": 28998,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t158_a08a1b17",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 28554,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t159_1a1df73a",
+       "title": {
+        "ru": "3 Sprawdzenia dokonywane przy podniesionym samochodzie z kotami zwisajacymi swob",
+        "en": "3 Sprawdzenia dokonywane przy podniesionym samochodzie z kotami zwisajacymi swob"
+       },
+       "words": 29707,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t160_ca82c0e1",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 28645,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t161_2f79989e",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 39781,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t162_ad316912",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele sédan i hatchback fazy I i ll oraz modele ",
+        "en": "Przedni wspornik zawieszenia - modele sédan i hatchback fazy I i ll oraz modele "
+       },
+       "words": 44625,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t163_f52f088b",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 45028,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t164_e385785f",
+       "title": {
+        "ru": "Dane do sprawdzania elementów uktadu zasilania (ECC) - wersje z katalizatorem",
+        "en": "Dane do sprawdzania elementów uktadu zasilania (ECC) - wersje z katalizatorem"
+       },
+       "words": 36705,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t165_6751b5b4",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 38640,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t166_7181aac4",
+       "title": {
+        "ru": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow",
+        "en": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow"
+       },
+       "words": 38878,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t167_f5bf52e6",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 40556,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t168_003ec079",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 38754,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t169_c88bf1e0",
+       "title": {
+        "ru": "26.3. Wykrecanie wkretu mocujacego z naktadki prowadnicy wewnetrznej siedzenia p",
+        "en": "26.3. Wykrecanie wkretu mocujacego z naktadki prowadnicy wewnetrznej siedzenia p"
+       },
+       "words": 30003,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t170_5060f56f",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 30050,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t171_a4299747",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 30917,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t172_8311003e",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 31113,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t173_23ab4052",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 30108,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t174_ff238942",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 37976,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t175_15a33929",
+       "title": {
+        "ru": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza",
+        "en": "Ustawienie zbienoci kót tylnych (modele sedan i hatchback fazy I i I) - sprawdza"
+       },
+       "words": 44236,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t176_287bbd50",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 50584,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t177_dda3efea",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 39212,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t178_fc5783a4",
+       "title": {
+        "ru": "Stycznik potoenia neutralnego -wеrсjе z тесhанисзна скрzуnка przektadniowa",
+        "en": "Stycznik potoenia neutralnego -wеrсjе z тесhанисзна скрzуnка przektadniowa"
+       },
+       "words": 40109,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t179_f5eacf01",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 38566,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t180_08261eaa",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 44213,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t181_0b8cdf06",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 40546,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t182_40255e31",
+       "title": {
+        "ru": "16 Ostony gumowe przektadni kierowniczej - wymiana",
+        "en": "16 Ostony gumowe przektadni kierowniczej - wymiana"
+       },
+       "words": 35317,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t183_d854c5c6",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 32537,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t184_2619cc37",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 32843,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t185_57b976fe",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 32129,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t186_f3042aa3",
+       "title": {
+        "ru": "Przedwczesnyzapton lub spalanie stukowe w czasie przypiészania lub pod obciaenie",
+        "en": "Przedwczesnyzapton lub spalanie stukowe w czasie przypiészania lub pod obciaenie"
+       },
+       "words": 33563,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t187_cb81acc4",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 32967,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t188_a1f7efc3",
+       "title": {
+        "ru": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l (",
+        "en": "Widok od spodu przedniej czeci samochodu - wersje z si.nikiem 2,0 model fazy l ("
+       },
+       "words": 44295,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t189_1f74870f",
+       "title": {
+        "ru": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p",
+        "en": "Przedni wspornik zawieszenia - modele fazy I i ll kombi z mechaniczna skrzynka p"
+       },
+       "words": 47569,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t190_2852f0f8",
+       "title": {
+        "ru": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws",
+        "en": "9.25. Wykrecanie rub mocujacych wspornik przewodu elektrycznego do metalowego ws"
+       },
+       "words": 48657,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t191_30a56152",
+       "title": {
+        "ru": "Regulacjaustawienia przepustnicy1.przelotupodczas szybkiego biegujatowego",
+        "en": "Regulacjaustawienia przepustnicy1.przelotupodczas szybkiego biegujatowego"
+       },
+       "words": 40835,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t192_4d756353",
+       "title": {
+        "ru": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr",
+        "en": "Wymiana elektromagnetycznego zaworu sterujacego - wersje z wtryskiem paliwa (opr"
+       },
+       "words": 41473,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t193_dbdd23dc",
+       "title": {
+        "ru": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow",
+        "en": "Lewa póto napedowa - wersje z silnikiem 2,0 z automatyczna skrzynka przektadniow"
+       },
+       "words": 43084,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t194_abf3c3db",
+       "title": {
+        "ru": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw",
+        "en": "15 Zawór zwrotny podcinieniowego urzadzenia wspomagajacego - wymontowanie, spraw"
+       },
+       "words": 44389,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t195_26e4e42b",
+       "title": {
+        "ru": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego ",
+        "en": "9.29. Potoenie podktadki mimorodowej (strzatka) na rubie mocowania wewnetrznego "
+       },
+       "words": 41129,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t196_ac1bc675",
+       "title": {
+        "ru": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek",
+        "en": "30.25b. ... odczepianie elementu wyktadziny mocujacego wytacznik zaptonu i zamek"
+       },
+       "words": 33996,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t197_e1e8d8b3",
+       "title": {
+        "ru": "Pokrywa przedziatu silnika - wymontowanie, zamontowanie i regulacja",
+        "en": "Pokrywa przedziatu silnika - wymontowanie, zamontowanie i regulacja"
+       },
+       "words": 33618,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t198_8acc17eb",
+       "title": {
+        "ru": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w",
+        "en": "6.26. Wyjmowanie arówki owietlenia ostony sterowania nagrzewnicy poprzez otwór w"
+       },
+       "words": 33984,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t199_88d19d49",
+       "title": {
+        "ru": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego",
+        "en": "Zarówka tylnego wiatta pozycyjnego i hamowania oraz kierunkowskazu tylnego"
+       },
+       "words": 35578,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t200_792434bb",
+       "title": {
+        "ru": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk",
+        "en": "Sprzegto sie lizga (predko jazdy samochodu nie zwieksza sie po zwiekszeniu predk"
+       },
+       "words": 32349,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_primera_general_t201_ea3dd7c1",
+       "title": {
+        "ru": "18Elementy zamka i klamka drzwi tytu nadwozia - wymontowanie i zamontowanie",
+        "en": "18Elementy zamka i klamka drzwi tytu nadwozia - wymontowanie i zamontowanie"
+       },
+       "words": 2635,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_primera_drivetrain_t000_11cfa850",
+       "title": {
+        "ru": "Sprawdzanie cinienia spreania w cylindrach",
+        "en": "Sprawdzanie cinienia spreania w cylindrach"
+       },
+       "words": 7,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

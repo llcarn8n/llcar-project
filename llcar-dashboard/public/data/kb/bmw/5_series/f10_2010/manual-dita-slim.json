@@ -1,0 +1,555 @@
+{
+ "version": "1.0",
+ "model": "5_series_f10",
+ "manuals": [
+  {
+   "model": "5_series_f10",
+   "label": {
+    "ru": "Bmw 5 Series F10 — Руководство по ремонту",
+    "en": "Bmw 5 Series F10 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_engine_t000_897f6a0e",
+       "title": {
+        "ru": "Автомобиль автоматически удерживается в",
+        "en": "Автомобиль автоматически удерживается в"
+       },
+       "words": 2268,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "bmw_5_series_f10_engine_t001_3dd675e5",
+       "title": {
+        "ru": "Уберите стояночный тормоз, см. стр. 66,",
+        "en": "Уберите стояночный тормоз, см. стр. 66,"
+       },
+       "words": 1016,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_brakes_t000_11f685a9",
+       "title": {
+        "ru": "Пораженные коррозией тормозные диски при",
+        "en": "Пораженные коррозией тормозные диски при"
+       },
+       "words": 2265,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_suspension_t000_030a7201",
+       "title": {
+        "ru": "Нажмите на запорный рычаг и откройте",
+        "en": "Нажмите на запорный рычаг и откройте"
+       },
+       "words": 1856,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_body_t000_e9e96195",
+       "title": {
+        "ru": "Предупреждение о переходе на другую по‐",
+        "en": "Предупреждение о переходе на другую по‐"
+       },
+       "words": 2319,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_5_series_f10_body_t001_5baf5166",
+       "title": {
+        "ru": "Стабилизатор курсовой ус‐",
+        "en": "Стабилизатор курсовой ус‐"
+       },
+       "words": 2282,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_steering_t000_4824d4ec",
+       "title": {
+        "ru": "Определение цепей противоскольжения по‐",
+        "en": "Определение цепей противоскольжения по‐"
+       },
+       "words": 2292,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "bmw_5_series_f10_steering_t001_e732323b",
+       "title": {
+        "ru": "Не буксировать автомобиль с приподня‐",
+        "en": "Не буксировать автомобиль с приподня‐"
+       },
+       "words": 862,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_lighting_t000_79360376",
+       "title": {
+        "ru": "При этом пучок света, излучаемый фарами,",
+        "en": "При этом пучок света, излучаемый фарами,"
+       },
+       "words": 2226,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_5_series_f10_lighting_t001_8f50e0b0",
+       "title": {
+        "ru": "Система включается только в течение сле‐",
+        "en": "Система включается только в течение сле‐"
+       },
+       "words": 2654,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_5_series_f10_lighting_t002_54a0d11d",
+       "title": {
+        "ru": "Берите лампу за цоколь и используйте чистую",
+        "en": "Берите лампу за цоколь и используйте чистую"
+       },
+       "words": 2409,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_interior_t000_657dae3c",
+       "title": {
+        "ru": "Не допускайте, чтобы ремень охватывал шею,",
+        "en": "Не допускайте, чтобы ремень охватывал шею,"
+       },
+       "words": 2154,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_5_series_f10_interior_t001_04a73424",
+       "title": {
+        "ru": "Автоматический кондиционер расширенного объема*",
+        "en": "Автоматический кондиционер расширенного объема*"
+       },
+       "words": 2149,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_5_series_f10_interior_t002_0d4505d5",
+       "title": {
+        "ru": "Включить ведение к цели можно только в пе‐",
+        "en": "Включить ведение к цели можно только в пе‐"
+       },
+       "words": 1626,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_maintenance_t000_87f75fb0",
+       "title": {
+        "ru": "Вызовите „Поиск А-Я“ и введите нуж‐",
+        "en": "Вызовите „Поиск А-Я“ и введите нуж‐"
+       },
+       "words": 1471,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_ev_t000_3347d467",
+       "title": {
+        "ru": "Чтобы избежать травмирования людей и по‐",
+        "en": "Чтобы избежать травмирования людей и по‐"
+       },
+       "words": 2174,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_general_t000_99416865",
+       "title": {
+        "ru": "Белые стрелки влево или вправо пока ы‐",
+        "en": "Белые стрелки влево или вправо пока ы‐"
+       },
+       "words": 1855,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_5_series_f10_general_t001_90c7cbaf",
+       "title": {
+        "ru": "Указание: гостевой профиль невозможно пе‐",
+        "en": "Указание: гостевой профиль невозможно пе‐"
+       },
+       "words": 2472,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_5_series_f10_general_t002_8df4e7dd",
+       "title": {
+        "ru": "Если во время движения задается предел ско‐",
+        "en": "Если во время движения задается предел ско‐"
+       },
+       "words": 2134,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_5_series_f10_general_t003_d8028885",
+       "title": {
+        "ru": "В начале поворота система может кратковре‐",
+        "en": "В начале поворота система может кратковре‐"
+       },
+       "words": 3231,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_5_series_f10_general_t004_c8c4f29c",
+       "title": {
+        "ru": "Когда функция снова становится доступной,",
+        "en": "Когда функция снова становится доступной,"
+       },
+       "words": 2375,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_5_series_f10_general_t005_eb23f164",
+       "title": {
+        "ru": "В случае представления подробной ин‐",
+        "en": "В случае представления подробной ин‐"
+       },
+       "words": 1984,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_5_series_f10_general_t006_ca796557",
+       "title": {
+        "ru": "Заполненный треугольник: оптимальная",
+        "en": "Заполненный треугольник: оптимальная"
+       },
+       "words": 2435,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_5_series_f10_general_t007_216224e0",
+       "title": {
+        "ru": "В зависимости от способа хранения контактов",
+        "en": "В зависимости от способа хранения контактов"
+       },
+       "words": 2615,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_5_series_f10_general_t008_2ec9f721",
+       "title": {
+        "ru": "Повторная загрузка страницы",
+        "en": "Повторная загрузка страницы"
+       },
+       "words": 2271,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_5_series_f10_general_t009_fc0e122e",
+       "title": {
+        "ru": "При сильных загрязнениях, например, пятнах",
+        "en": "При сильных загрязнениях, например, пятнах"
+       },
+       "words": 1707,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_5_series_f10_general_t010_31e1c8dd",
+       "title": {
+        "ru": "Ускоренные команды для голосового",
+        "en": "Ускоренные команды для голосового"
+       },
+       "words": 1001,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_infotainment_t000_3b3f8359",
+       "title": {
+        "ru": "Комбинация приборов, электронная индикация",
+        "en": "Комбинация приборов, электронная индикация"
+       },
+       "words": 1497,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_5_series_f10_infotainment_t001_56a1226d",
+       "title": {
+        "ru": "В навигационной системе Professional: в",
+        "en": "В навигационной системе Professional: в"
+       },
+       "words": 2714,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_5_series_f10_infotainment_t002_e1bc2d52",
+       "title": {
+        "ru": "Станции можно сохранить на клавишах бы‐",
+        "en": "Станции можно сохранить на клавишах бы‐"
+       },
+       "words": 1724,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_5_series_f10_infotainment_t003_833f3d9d",
+       "title": {
+        "ru": "Выберите нужные виды соединений ус‐",
+        "en": "Выберите нужные виды соединений ус‐"
+       },
+       "words": 3074,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_5_series_f10_infotainment_t004_4bffb0ad",
+       "title": {
+        "ru": "При погрузке вещей на задние сиденья",
+        "en": "При погрузке вещей на задние сиденья"
+       },
+       "words": 2488,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_5_series_f10_infotainment_t005_6bca0dc8",
+       "title": {
+        "ru": "Ведение к пункту назначения с промежуточными пунктами назначения",
+        "en": "Ведение к пункту назначения с промежуточными пунктами назначения"
+       },
+       "words": 1661,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_5_series_f10_infotainment_t006_da8dabe7",
+       "title": {
+        "ru": "Монитор, см. Дисплей упра‐",
+        "en": "Монитор, см. Дисплей упра‐"
+       },
+       "words": 399,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_safety_t000_4f036091",
+       "title": {
+        "ru": "Следите за тем, чтобы замок-выключатель",
+        "en": "Следите за тем, чтобы замок-выключатель"
+       },
+       "words": 1746,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_drivetrain_t000_3ad2e299",
+       "title": {
+        "ru": "Включена передняя передача или вы‐",
+        "en": "Включена передняя передача или вы‐"
+       },
+       "words": 968,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "tires",
+     "title": {
+      "ru": "tires",
+      "en": "tires"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_tires_t000_f8c16a33",
+       "title": {
+        "ru": "В следующих ситуациях реакция системы мо‐",
+        "en": "В следующих ситуациях реакция системы мо‐"
+       },
+       "words": 3058,
+       "images": 0,
+       "section_id": "tires"
+      },
+      {
+       "id": "bmw_5_series_f10_tires_t001_30655a9f",
+       "title": {
+        "ru": "Компьютер, см. Бортовой",
+        "en": "Компьютер, см. Бортовой"
+       },
+       "words": 734,
+       "images": 0,
+       "section_id": "tires"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_5_series_f10_sensors_t000_954f8707",
+       "title": {
+        "ru": "Система PDC оказывает помощь при пар‐",
+        "en": "Система PDC оказывает помощь при пар‐"
+       },
+       "words": 722,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2254 @@
+{
+ "version": "1.0",
+ "model": "hongqi_h5",
+ "manuals": [
+  {
+   "model": "hongqi_h5",
+   "label": {
+    "ru": "Hongqi H5 — Руководство по ремонту",
+    "en": "Hongqi H5 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_engine_t000_a067a046",
+       "title": {
+        "ru": "4 Acceleration / deceleration and reverse towing fuel cutoff control",
+        "en": "4 Acceleration / deceleration and reverse towing fuel cutoff control"
+       },
+       "words": 2349,
+       "images": 26,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t001_0401e203",
+       "title": {
+        "ru": "Check charge air pressure and temperature sensor",
+        "en": "Check charge air pressure and temperature sensor"
+       },
+       "words": 874,
+       "images": 42,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t002_fe0136de",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 729,
+       "images": 42,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t003_45afa22d",
+       "title": {
+        "ru": "Check charge air pressure and temperature sensor",
+        "en": "Check charge air pressure and temperature sensor"
+       },
+       "words": 1123,
+       "images": 26,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t004_9415a518",
+       "title": {
+        "ru": "16 Install the rear oil seal assembly and crankshaft speed target wheel",
+        "en": "16 Install the rear oil seal assembly and crankshaft speed target wheel"
+       },
+       "words": 1486,
+       "images": 41,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t005_2ce5f454",
+       "title": {
+        "ru": "7. Crankshaft axial play and crankshaft rotation torque measurement",
+        "en": "7. Crankshaft axial play and crankshaft rotation torque measurement"
+       },
+       "words": 1373,
+       "images": 19,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t006_d5693468",
+       "title": {
+        "ru": "Variable displacement oil pump solenoid valve",
+        "en": "Variable displacement oil pump solenoid valve"
+       },
+       "words": 1216,
+       "images": 25,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t008_07e6a08c",
+       "title": {
+        "ru": "Ignition system 2.0T and 1.8T",
+        "en": "Ignition system 2.0T and 1.8T"
+       },
+       "words": 862,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t009_e9243274",
+       "title": {
+        "ru": "16 Remove transmission oil cooler metal pipe assembly (only for 1.5 T model)",
+        "en": "16 Remove transmission oil cooler metal pipe assembly (only for 1.5 T model)"
+       },
+       "words": 1579,
+       "images": 29,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t010_de77e949",
+       "title": {
+        "ru": "Low-temperature coolant temperature sensor assembly Parts",
+        "en": "Low-temperature coolant temperature sensor assembly Parts"
+       },
+       "words": 1420,
+       "images": 31,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t011_349fe860",
+       "title": {
+        "ru": "Do not attempt to increase the oil temperature by idling the engine",
+        "en": "Do not attempt to increase the oil temperature by idling the engine"
+       },
+       "words": 912,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t012_ba8a62a7",
+       "title": {
+        "ru": "1 ENGINE START/STOP button (ignition switch) representation",
+        "en": "1 ENGINE START/STOP button (ignition switch) representation"
+       },
+       "words": 1056,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t013_8710e816",
+       "title": {
+        "ru": "4 Check whether the heat dissipation oil ircuit is blocked",
+        "en": "4 Check whether the heat dissipation oil ircuit is blocked"
+       },
+       "words": 1561,
+       "images": 38,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t014_2c7f338f",
+       "title": {
+        "ru": "Install the output shaft seal",
+        "en": "Install the output shaft seal"
+       },
+       "words": 1440,
+       "images": 30,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t015_dc3039d9",
+       "title": {
+        "ru": "Use the manifold pressure gauge assembly to check the refrigerant pressure",
+        "en": "Use the manifold pressure gauge assembly to check the refrigerant pressure"
+       },
+       "words": 1122,
+       "images": 54,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t017_9df96614",
+       "title": {
+        "ru": "Replace MCU (motor assembly) (See page MC-74)",
+        "en": "Replace MCU (motor assembly) (See page MC-74)"
+       },
+       "words": 423,
+       "images": 25,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t018_c4039d4d",
+       "title": {
+        "ru": "ENGINE START/STOP button (ignition switch) representation: HEV",
+        "en": "ENGINE START/STOP button (ignition switch) representation: HEV"
+       },
+       "words": 1554,
+       "images": 22,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t021_0084aa58",
+       "title": {
+        "ru": "4 Replace driver seat massage lumbar support control unit, and driver and front",
+        "en": "4 Replace driver seat massage lumbar support control unit, and driver and front"
+       },
+       "words": 815,
+       "images": 46,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t023_28e79a12",
+       "title": {
+        "ru": "Remove the engine hood heat insulation pad",
+        "en": "Remove the engine hood heat insulation pad"
+       },
+       "words": 2276,
+       "images": 52,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hongqi_h5_engine_t024_36e77bf9",
+       "title": {
+        "ru": "ENGINE START/STOP buton assembl ... ... TD-10",
+        "en": "ENGINE START/STOP buton assembl ... ... TD-10"
+       },
+       "words": 603,
+       "images": 14,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_brakes_t000_8a21bf4c",
+       "title": {
+        "ru": "Replace the brake vacum sensor (ee page BR-26)",
+        "en": "Replace the brake vacum sensor (ee page BR-26)"
+       },
+       "words": 1306,
+       "images": 34,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hongqi_hongqi_h5_brakes_t001_a3805bbc",
+       "title": {
+        "ru": "Maintenance of failure without DTC",
+        "en": "Maintenance of failure without DTC"
+       },
+       "words": 1218,
+       "images": 43,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hongqi_hongqi_h5_brakes_t002_245661a7",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 1921,
+       "images": 37,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hongqi_hongqi_h5_brakes_t003_8e20640d",
+       "title": {
+        "ru": "Front brake caliper assembly ..BR-11",
+        "en": "Front brake caliper assembly ..BR-11"
+       },
+       "words": 771,
+       "images": 16,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hongqi_hongqi_h5_brakes_t004_dd553e43",
+       "title": {
+        "ru": "Brake pipe assembly Part (only for HEV)",
+        "en": "Brake pipe assembly Part (only for HEV)"
+       },
+       "words": 1259,
+       "images": 29,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_suspension_t000_63de1620",
+       "title": {
+        "ru": "Electric coolant pump assembly Parts",
+        "en": "Electric coolant pump assembly Parts"
+       },
+       "words": 1533,
+       "images": 22,
+       "section_id": "suspension"
+      },
+      {
+       "id": "hongqi_hongqi_h5_suspension_t001_8aab6a40",
+       "title": {
+        "ru": "Remove movable ball cage universal joint",
+        "en": "Remove movable ball cage universal joint"
+       },
+       "words": 1469,
+       "images": 60,
+       "section_id": "suspension"
+      },
+      {
+       "id": "hongqi_hongqi_h5_suspension_t002_ea29b9a9",
+       "title": {
+        "ru": "Remove B pillar upper guard plate",
+        "en": "Remove B pillar upper guard plate"
+       },
+       "words": 289,
+       "images": 4,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": []
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_body_t001_eed09308",
+       "title": {
+        "ru": "Remove body metal pipe assembly Il",
+        "en": "Remove body metal pipe assembly Il"
+       },
+       "words": 854,
+       "images": 32,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t002_31d2ab30",
+       "title": {
+        "ru": "6 Check the operating status of shift solenoid valve (SR)",
+        "en": "6 Check the operating status of shift solenoid valve (SR)"
+       },
+       "words": 454,
+       "images": 29,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t003_37c9524a",
+       "title": {
+        "ru": "4 Check the electronic transmission fluid pump resistance",
+        "en": "4 Check the electronic transmission fluid pump resistance"
+       },
+       "words": 733,
+       "images": 32,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t004_fda16621",
+       "title": {
+        "ru": "Install the valve body assembly",
+        "en": "Install the valve body assembly"
+       },
+       "words": 1113,
+       "images": 34,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t005_6171209a",
+       "title": {
+        "ru": "General repair instructions",
+        "en": "General repair instructions"
+       },
+       "words": 1222,
+       "images": 32,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t006_64ea4e69",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 832,
+       "images": 48,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t008_a687f1fd",
+       "title": {
+        "ru": "Repair according to the fault",
+        "en": "Repair according to the fault"
+       },
+       "words": 692,
+       "images": 43,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t010_1fdb1100",
+       "title": {
+        "ru": "Front left door control system .. . ED-1",
+        "en": "Front left door control system .. . ED-1"
+       },
+       "words": 907,
+       "images": 39,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t011_70d7d20c",
+       "title": {
+        "ru": "Replace the driver door power window switch (See page IR-6)",
+        "en": "Replace the driver door power window switch (See page IR-6)"
+       },
+       "words": 1438,
+       "images": 44,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t013_d80d015b",
+       "title": {
+        "ru": "Replace the right exterior rearview mirror (See page IM-)",
+        "en": "Replace the right exterior rearview mirror (See page IM-)"
+       },
+       "words": 678,
+       "images": 42,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t014_747245cf",
+       "title": {
+        "ru": "Trunk lamp assembly . и ..LI-128",
+        "en": "Trunk lamp assembly . и ..LI-128"
+       },
+       "words": 753,
+       "images": 26,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t015_b61e9e7d",
+       "title": {
+        "ru": "Requirements for placing body positioning device",
+        "en": "Requirements for placing body positioning device"
+       },
+       "words": 1162,
+       "images": 22,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t016_47a39dbb",
+       "title": {
+        "ru": "Remove the rear bumper right trim strip I",
+        "en": "Remove the rear bumper right trim strip I"
+       },
+       "words": 1839,
+       "images": 61,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t017_c768a45c",
+       "title": {
+        "ru": "Door B pillar trim panel assembly Parts",
+        "en": "Door B pillar trim panel assembly Parts"
+       },
+       "words": 1895,
+       "images": 40,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t018_1592c349",
+       "title": {
+        "ru": "Rear power window regulator assembly",
+        "en": "Rear power window regulator assembly"
+       },
+       "words": 1026,
+       "images": 27,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_hongqi_h5_body_t019_c4c3e68a",
+       "title": {
+        "ru": "Install front windshield assembly",
+        "en": "Install front windshield assembly"
+       },
+       "words": 850,
+       "images": 11,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_steering_t000_fe6db886",
+       "title": {
+        "ru": "Double gear type electric power steering gear & tie rod assembly . PS-25",
+        "en": "Double gear type electric power steering gear & tie rod assembly . PS-25"
+       },
+       "words": 1098,
+       "images": 23,
+       "section_id": "steering"
+      },
+      {
+       "id": "hongqi_hongqi_h5_steering_t001_c9f8b82c",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 217,
+       "images": 11,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_lighting_t000_cad5b1f4",
+       "title": {
+        "ru": "Check crankshaftpositio sensor signal plate",
+        "en": "Check crankshaftpositio sensor signal plate"
+       },
+       "words": 1760,
+       "images": 55,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hongqi_hongqi_h5_lighting_t001_80cb09d0",
+       "title": {
+        "ru": "Desorption pipe and venturi valve & pressure sensor assembly",
+        "en": "Desorption pipe and venturi valve & pressure sensor assembly"
+       },
+       "words": 1390,
+       "images": 39,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hongqi_hongqi_h5_lighting_t003_69b8e661",
+       "title": {
+        "ru": "1 Check left and right position lamps and daytime running lamps",
+        "en": "1 Check left and right position lamps and daytime running lamps"
+       },
+       "words": 696,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hongqi_hongqi_h5_lighting_t006_05ec5581",
+       "title": {
+        "ru": "7 Check left rear combination lamp harness and connector for circuit shorted to",
+        "en": "7 Check left rear combination lamp harness and connector for circuit shorted to"
+       },
+       "words": 691,
+       "images": 41,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hongqi_hongqi_h5_lighting_t007_ac8c0121",
+       "title": {
+        "ru": "6 Replace combination lamp (See page LI-115) (See page LI-124) (See page LI-126)",
+        "en": "6 Replace combination lamp (See page LI-115) (See page LI-124) (See page LI-126)"
+       },
+       "words": 634,
+       "images": 45,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hongqi_hongqi_h5_lighting_t008_8074f0de",
+       "title": {
+        "ru": "6 Preservation of calibration cloth after calibration",
+        "en": "6 Preservation of calibration cloth after calibration"
+       },
+       "words": 879,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hongqi_hongqi_h5_lighting_t009_778d664b",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 408,
+       "images": 19,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_interior_t000_a566eeab",
+       "title": {
+        "ru": "Check V-ribbed belt and elastic V-ribbed belt",
+        "en": "Check V-ribbed belt and elastic V-ribbed belt"
+       },
+       "words": 1946,
+       "images": 35,
+       "section_id": "interior"
+      },
+      {
+       "id": "hongqi_hongqi_h5_interior_t001_7997c414",
+       "title": {
+        "ru": "9 Replace the front passenger seat airbag (See page RS-226)",
+        "en": "9 Replace the front passenger seat airbag (See page RS-226)"
+       },
+       "words": 750,
+       "images": 48,
+       "section_id": "interior"
+      },
+      {
+       "id": "hongqi_hongqi_h5_interior_t002_c7d4e426",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 743,
+       "images": 40,
+       "section_id": "interior"
+      },
+      {
+       "id": "hongqi_hongqi_h5_interior_t003_ebf5c6ed",
+       "title": {
+        "ru": "2 Check rear middle seat belt buckle and rear seat occupancy sensor harness and",
+        "en": "2 Check rear middle seat belt buckle and rear seat occupancy sensor harness and"
+       },
+       "words": 672,
+       "images": 26,
+       "section_id": "interior"
+      },
+      {
+       "id": "hongqi_hongqi_h5_interior_t004_abedb333",
+       "title": {
+        "ru": "Replace the front passenger seat belt buckle I (See page SB-1)",
+        "en": "Replace the front passenger seat belt buckle I (See page SB-1)"
+       },
+       "words": 771,
+       "images": 36,
+       "section_id": "interior"
+      },
+      {
+       "id": "hongqi_hongqi_h5_interior_t006_d2ddb283",
+       "title": {
+        "ru": "Rear seat middle seat belt assembly",
+        "en": "Rear seat middle seat belt assembly"
+       },
+       "words": 1254,
+       "images": 31,
+       "section_id": "interior"
+      },
+      {
+       "id": "hongqi_hongqi_h5_interior_t007_f0191096",
+       "title": {
+        "ru": "4 Replace driver seat cushion heater/driver seat back heater (See page SE-91)",
+        "en": "4 Replace driver seat cushion heater/driver seat back heater (See page SE-91)"
+       },
+       "words": 697,
+       "images": 34,
+       "section_id": "interior"
+      },
+      {
+       "id": "hongqi_hongqi_h5_interior_t009_6beccb1f",
+       "title": {
+        "ru": "Front interior lamp assembly .LI-111",
+        "en": "Front interior lamp assembly .LI-111"
+       },
+       "words": 1327,
+       "images": 39,
+       "section_id": "interior"
+      },
+      {
+       "id": "hongqi_hongqi_h5_interior_t010_d039360c",
+       "title": {
+        "ru": "Removal",
+        "en": "Removal"
+       },
+       "words": 39,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_ev_t000_c0168d87",
+       "title": {
+        "ru": "DC system insulation resistance check (except traction battery)",
+        "en": "DC system insulation resistance check (except traction battery)"
+       },
+       "words": 1740,
+       "images": 14,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t004_79cec3b1",
+       "title": {
+        "ru": "Electric coolant pump assembly Parts",
+        "en": "Electric coolant pump assembly Parts"
+       },
+       "words": 1530,
+       "images": 51,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t005_8ac55c17",
+       "title": {
+        "ru": "3|Check harness and connector (TCU-output speed sensor)",
+        "en": "3|Check harness and connector (TCU-output speed sensor)"
+       },
+       "words": 2008,
+       "images": 35,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t007_ff0c3dc6",
+       "title": {
+        "ru": "3|Check harness and connector (TCU-electronic transmission fluid pump)",
+        "en": "3|Check harness and connector (TCU-electronic transmission fluid pump)"
+       },
+       "words": 923,
+       "images": 29,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t008_7505e5c7",
+       "title": {
+        "ru": "Precautions when handling electronic parts",
+        "en": "Precautions when handling electronic parts"
+       },
+       "words": 929,
+       "images": 38,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t009_75d62701",
+       "title": {
+        "ru": "Removal and installation of battery terminal",
+        "en": "Removal and installation of battery terminal"
+       },
+       "words": 971,
+       "images": 28,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t010_a2f8af41",
+       "title": {
+        "ru": "4 Check evaporator temperature sensor harness and connector for circuit shorted",
+        "en": "4 Check evaporator temperature sensor harness and connector for circuit shorted"
+       },
+       "words": 673,
+       "images": 24,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t012_54f39311",
+       "title": {
+        "ru": "3 Check DCDC control unit low-voltage power supply fuse",
+        "en": "3 Check DCDC control unit low-voltage power supply fuse"
+       },
+       "words": 694,
+       "images": 65,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t017_2fed3487",
+       "title": {
+        "ru": "5|Check and compare the resistance of maximum and minimum temperature modules",
+        "en": "5|Check and compare the resistance of maximum and minimum temperature modules"
+       },
+       "words": 603,
+       "images": 40,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t018_c4e2e790",
+       "title": {
+        "ru": "Scrapped traction battery transportation precautions",
+        "en": "Scrapped traction battery transportation precautions"
+       },
+       "words": 1562,
+       "images": 32,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t019_e46038e1",
+       "title": {
+        "ru": "4 Check E-CALL switch harness and connector for circuit shorted to power supply",
+        "en": "4 Check E-CALL switch harness and connector for circuit shorted to power supply"
+       },
+       "words": 579,
+       "images": 32,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t020_51b4bd5a",
+       "title": {
+        "ru": "5 Check fuel filler cap electric lock harness and connector for open circuit",
+        "en": "5 Check fuel filler cap electric lock harness and connector for open circuit"
+       },
+       "words": 629,
+       "images": 36,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t021_0313aa0e",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 577,
+       "images": 42,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t022_6bb444ee",
+       "title": {
+        "ru": "Precautions for plugging and unplugging ESC and sensor harness",
+        "en": "Precautions for plugging and unplugging ESC and sensor harness"
+       },
+       "words": 865,
+       "images": 36,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t023_d6e0b00e",
+       "title": {
+        "ru": "Overhaul the charging system",
+        "en": "Overhaul the charging system"
+       },
+       "words": 756,
+       "images": 44,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t025_db0ec436",
+       "title": {
+        "ru": "Safety precautions for high voltage operation",
+        "en": "Safety precautions for high voltage operation"
+       },
+       "words": 677,
+       "images": 22,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t026_3c6090da",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 715,
+       "images": 37,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t027_99c9b25f",
+       "title": {
+        "ru": "3 Check rear leftright corner MMW radar power supply",
+        "en": "3 Check rear leftright corner MMW radar power supply"
+       },
+       "words": 735,
+       "images": 38,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t028_cbde8826",
+       "title": {
+        "ru": "3 Check the instrument cluster display power supply",
+        "en": "3 Check the instrument cluster display power supply"
+       },
+       "words": 1533,
+       "images": 43,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hongqi_h5_ev_t029_f08888c8",
+       "title": {
+        "ru": "Removal",
+        "en": "Removal"
+       },
+       "words": 124,
+       "images": 2,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_chassis_t003_3b258923",
+       "title": {
+        "ru": "10 Remove muffler weldment (See page EX-8)",
+        "en": "10 Remove muffler weldment (See page EX-8)"
+       },
+       "words": 804,
+       "images": 24,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_general_t000_f1263513",
+       "title": {
+        "ru": "Precautions for using jack and bracket",
+        "en": "Precautions for using jack and bracket"
+       },
+       "words": 2358,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t002_0a10aabc",
+       "title": {
+        "ru": "Circuit diagram",
+        "en": "Circuit diagram"
+       },
+       "words": 650,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t003_af8cbacc",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 386,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t004_1c0c2ffe",
+       "title": {
+        "ru": "3 he lte aess an ceco t he tac",
+        "en": "3 he lte aess an ceco t he tac"
+       },
+       "words": 447,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t005_2c5b5da7",
+       "title": {
+        "ru": "Replace the thermal management module (See page CO-25)",
+        "en": "Replace the thermal management module (See page CO-25)"
+       },
+       "words": 425,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t006_ed20aa11",
+       "title": {
+        "ru": "10 Replace turbocharger bleed valve (See page IT-16)",
+        "en": "10 Replace turbocharger bleed valve (See page IT-16)"
+       },
+       "words": 610,
+       "images": 53,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t007_d57367c7",
+       "title": {
+        "ru": "Circuit diagram",
+        "en": "Circuit diagram"
+       },
+       "words": 398,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t008_f4e19a94",
+       "title": {
+        "ru": "No DTC is output",
+        "en": "No DTC is output"
+       },
+       "words": 323,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t009_a50ab0a5",
+       "title": {
+        "ru": "Check high-/low-load desorption pipeline check valve",
+        "en": "Check high-/low-load desorption pipeline check valve"
+       },
+       "words": 422,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t010_b35f21bd",
+       "title": {
+        "ru": "5| Check whether cooling fan harness and connector circuit is shorted to ground",
+        "en": "5| Check whether cooling fan harness and connector circuit is shorted to ground"
+       },
+       "words": 348,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t011_ee88bd1e",
+       "title": {
+        "ru": "Check high-/low-load desorption pipeline check valv",
+        "en": "Check high-/low-load desorption pipeline check valv"
+       },
+       "words": 557,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t012_5c25ba0e",
+       "title": {
+        "ru": "3 Check fuel pump relay harness and connector for circuit shorted to ground",
+        "en": "3 Check fuel pump relay harness and connector for circuit shorted to ground"
+       },
+       "words": 396,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t013_d5903d48",
+       "title": {
+        "ru": "Replace the ECM (See page ES-450)",
+        "en": "Replace the ECM (See page ES-450)"
+       },
+       "words": 450,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t014_067d3022",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 519,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t016_3dd36585",
+       "title": {
+        "ru": "3 Check fuel injector harness and connector for circuit shorted to each other",
+        "en": "3 Check fuel injector harness and connector for circuit shorted to each other"
+       },
+       "words": 373,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t017_adfa506f",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 594,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t018_d5b5309a",
+       "title": {
+        "ru": "Replace the ECM (See page ES-450)",
+        "en": "Replace the ECM (See page ES-450)"
+       },
+       "words": 522,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t019_ac65935b",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 437,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t020_14932222",
+       "title": {
+        "ru": "6 Grouping table of crankshaft main bearing journal and connecting rod journal",
+        "en": "6 Grouping table of crankshaft main bearing journal and connecting rod journal"
+       },
+       "words": 1329,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t023_2dce63b7",
+       "title": {
+        "ru": "Check diagnosis conduit 3 harness and connector for circuit shorted to ground",
+        "en": "Check diagnosis conduit 3 harness and connector for circuit shorted to ground"
+       },
+       "words": 519,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t024_82b5b46d",
+       "title": {
+        "ru": "Catalytic converter weldment (exhaust manifold hot end assembly)",
+        "en": "Catalytic converter weldment (exhaust manifold hot end assembly)"
+       },
+       "words": 767,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t025_7458f252",
+       "title": {
+        "ru": "Thermal management module assembly CO-23",
+        "en": "Thermal management module assembly CO-23"
+       },
+       "words": 481,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t026_117ac9a8",
+       "title": {
+        "ru": "Remove DCDC assembly (only for 1.5 T and 2.0 T models)",
+        "en": "Remove DCDC assembly (only for 1.5 T and 2.0 T models)"
+       },
+       "words": 609,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t027_e6dd9d69",
+       "title": {
+        "ru": "Shift control learning: perform the following procedures",
+        "en": "Shift control learning: perform the following procedures"
+       },
+       "words": 941,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t028_2c1c01dd",
+       "title": {
+        "ru": "Circuit diagram",
+        "en": "Circuit diagram"
+       },
+       "words": 244,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t031_5f64428b",
+       "title": {
+        "ru": "Check TCU ground",
+        "en": "Check TCU ground"
+       },
+       "words": 328,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t032_0987218d",
+       "title": {
+        "ru": "Check whether the DTC in the table below appears",
+        "en": "Check whether the DTC in the table below appears"
+       },
+       "words": 471,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t033_109b65ae",
+       "title": {
+        "ru": "1 Remove the differential gear O-ring",
+        "en": "1 Remove the differential gear O-ring"
+       },
+       "words": 1585,
+       "images": 58,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t035_7f2fd638",
+       "title": {
+        "ru": "4 Check TCU harness connector for short circuit",
+        "en": "4 Check TCU harness connector for short circuit"
+       },
+       "words": 356,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t036_094b2203",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 551,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t039_f7182dc8",
+       "title": {
+        "ru": "Check TCU harness and connector for circuit shorted to each other",
+        "en": "Check TCU harness and connector for circuit shorted to each other"
+       },
+       "words": 547,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t040_8416493b",
+       "title": {
+        "ru": "Check connector fit and clean connector",
+        "en": "Check connector fit and clean connector"
+       },
+       "words": 348,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t041_27c64d3c",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 449,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t042_6e58489f",
+       "title": {
+        "ru": "Selection of front snap ring input shaft",
+        "en": "Selection of front snap ring input shaft"
+       },
+       "words": 625,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t043_b22d71a1",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 285,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t044_add70eea",
+       "title": {
+        "ru": "Remove the ACM bracket",
+        "en": "Remove the ACM bracket"
+       },
+       "words": 343,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t045_8f73c70d",
+       "title": {
+        "ru": "Function description of P gear button",
+        "en": "Function description of P gear button"
+       },
+       "words": 333,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t047_02bf3d6c",
+       "title": {
+        "ru": "3 Vehicle speed signal receiving function",
+        "en": "3 Vehicle speed signal receiving function"
+       },
+       "words": 323,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t048_118d705f",
+       "title": {
+        "ru": "Replace ACU (See page RS-218)",
+        "en": "Replace ACU (See page RS-218)"
+       },
+       "words": 277,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t049_c314af22",
+       "title": {
+        "ru": "2 hek driveeel buckle aess an cocf iit hted t eac",
+        "en": "2 hek driveeel buckle aess an cocf iit hted t eac"
+       },
+       "words": 179,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t050_598cd6ec",
+       "title": {
+        "ru": "Replace ACU (See page RS-218)",
+        "en": "Replace ACU (See page RS-218)"
+       },
+       "words": 259,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t051_1a78fd3d",
+       "title": {
+        "ru": "Circuit diagram",
+        "en": "Circuit diagram"
+       },
+       "words": 374,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t052_ad92e483",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 567,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t053_07f0aa61",
+       "title": {
+        "ru": "Check whether the refrigerant gas leaks",
+        "en": "Check whether the refrigerant gas leaks"
+       },
+       "words": 360,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t054_02b0978c",
+       "title": {
+        "ru": "4 Replace the blower speed control module (See page AC-141)",
+        "en": "4 Replace the blower speed control module (See page AC-141)"
+       },
+       "words": 309,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t055_cc21c4ac",
+       "title": {
+        "ru": "Replace the A/C compressor (See page AC-120)",
+        "en": "Replace the A/C compressor (See page AC-120)"
+       },
+       "words": 500,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t056_0dc71a36",
+       "title": {
+        "ru": "Front A/C control unit assembly Parts",
+        "en": "Front A/C control unit assembly Parts"
+       },
+       "words": 550,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t057_081d37b5",
+       "title": {
+        "ru": "Fragrance generator assembly Parts",
+        "en": "Fragrance generator assembly Parts"
+       },
+       "words": 809,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t059_def99f88",
+       "title": {
+        "ru": "Advanced ADV assembly Parts",
+        "en": "Advanced ADV assembly Parts"
+       },
+       "words": 528,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t060_e8d56fa2",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 330,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t063_02d3466d",
+       "title": {
+        "ru": "DMS function overview",
+        "en": "DMS function overview"
+       },
+       "words": 548,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t065_cda852f0",
+       "title": {
+        "ru": "3| Check whether cooling fan harness and connector circuit is shorted to ground",
+        "en": "3| Check whether cooling fan harness and connector circuit is shorted to ground"
+       },
+       "words": 382,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t066_bfa1414c",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 446,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t069_61516a9c",
+       "title": {
+        "ru": "3 hek propooal realve haess an coctf uitshoed ac",
+        "en": "3 hek propooal realve haess an coctf uitshoed ac"
+       },
+       "words": 466,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t070_f8657e7a",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 783,
+       "images": 53,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t073_d1e38ee8",
+       "title": {
+        "ru": "Remove the left output shaft seal",
+        "en": "Remove the left output shaft seal"
+       },
+       "words": 340,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t074_12a8ebe6",
+       "title": {
+        "ru": "4 Check harness ad connector (module -BMS)",
+        "en": "4 Check harness ad connector (module -BMS)"
+       },
+       "words": 306,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t075_bef9b816",
+       "title": {
+        "ru": "Circuit diagram",
+        "en": "Circuit diagram"
+       },
+       "words": 198,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t077_c70aaac0",
+       "title": {
+        "ru": "Relationship between throughput and SOH",
+        "en": "Relationship between throughput and SOH"
+       },
+       "words": 210,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t078_6f1eeec2",
+       "title": {
+        "ru": "Description",
+        "en": "Description"
+       },
+       "words": 250,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t079_667bc89f",
+       "title": {
+        "ru": "Standard value",
+        "en": "Standard value"
+       },
+       "words": 242,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t080_5625c995",
+       "title": {
+        "ru": "Precautions of CAN communication system",
+        "en": "Precautions of CAN communication system"
+       },
+       "words": 902,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t081_b7648341",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 283,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t082_0182825e",
+       "title": {
+        "ru": "Function brief description",
+        "en": "Function brief description"
+       },
+       "words": 357,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t084_f72c90bd",
+       "title": {
+        "ru": "Criteria: No DTC is output",
+        "en": "Criteria: No DTC is output"
+       },
+       "words": 361,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t085_a7c2b58d",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 563,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t091_0a4650e1",
+       "title": {
+        "ru": "Criteria: No DTC is output",
+        "en": "Criteria: No DTC is output"
+       },
+       "words": 514,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t092_a027cfd5",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 288,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t093_eb21ee1b",
+       "title": {
+        "ru": "Replace the DDCU (See page ED-32)",
+        "en": "Replace the DDCU (See page ED-32)"
+       },
+       "words": 391,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t094_5daf0a12",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 197,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t095_2069344d",
+       "title": {
+        "ru": "System diagram RLDCU",
+        "en": "System diagram RLDCU"
+       },
+       "words": 293,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t097_0aab83e3",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 262,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t100_e1a71840",
+       "title": {
+        "ru": "Troubleshooting precautions",
+        "en": "Troubleshooting precautions"
+       },
+       "words": 286,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t101_1ad246e8",
+       "title": {
+        "ru": "Replace ESC (See page BC-87)",
+        "en": "Replace ESC (See page BC-87)"
+       },
+       "words": 674,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t103_76dedff4",
+       "title": {
+        "ru": "Repair and replace harness or connector",
+        "en": "Repair and replace harness or connector"
+       },
+       "words": 943,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t104_f1665ce4",
+       "title": {
+        "ru": "Circuit diagram",
+        "en": "Circuit diagram"
+       },
+       "words": 566,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t105_4eb2799d",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 719,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t107_bbe42ae5",
+       "title": {
+        "ru": "Location of parts",
+        "en": "Location of parts"
+       },
+       "words": 170,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t109_c9b3744f",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 214,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t110_0ef09799",
+       "title": {
+        "ru": "|Check the left and right front low beam, high beam harnesses and connectors",
+        "en": "|Check the left and right front low beam, high beam harnesses and connectors"
+       },
+       "words": 242,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t111_0324b0f8",
+       "title": {
+        "ru": "Circuit diagram",
+        "en": "Circuit diagram"
+       },
+       "words": 164,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t112_4093c1e8",
+       "title": {
+        "ru": "Location of parts",
+        "en": "Location of parts"
+       },
+       "words": 199,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t113_8f42a2f4",
+       "title": {
+        "ru": "Remove microphone assembly",
+        "en": "Remove microphone assembly"
+       },
+       "words": 358,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t115_b19167cf",
+       "title": {
+        "ru": "3 Check rearlef/right corner MMW radar ground",
+        "en": "3 Check rearlef/right corner MMW radar ground"
+       },
+       "words": 510,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t116_29d28984",
+       "title": {
+        "ru": "Location of parts",
+        "en": "Location of parts"
+       },
+       "words": 677,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t117_44128db6",
+       "title": {
+        "ru": "2|Check front EnHost harness and connector for circuit shorted to ground",
+        "en": "2|Check front EnHost harness and connector for circuit shorted to ground"
+       },
+       "words": 422,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t118_27803527",
+       "title": {
+        "ru": "Squawker and tweeter assembly Parts",
+        "en": "Squawker and tweeter assembly Parts"
+       },
+       "words": 225,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t119_11d6ea84",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 209,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t120_e7de56f6",
+       "title": {
+        "ru": "Instrument cluster Parts",
+        "en": "Instrument cluster Parts"
+       },
+       "words": 320,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t121_2572231e",
+       "title": {
+        "ru": "Replace PDC (See page PM-57)",
+        "en": "Replace PDC (See page PM-57)"
+       },
+       "words": 272,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t122_2626e0ca",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 240,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t123_3b0b25e2",
+       "title": {
+        "ru": "Replace PA ECU (See page PM-59)",
+        "en": "Replace PA ECU (See page PM-59)"
+       },
+       "words": 581,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t126_972f816c",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 349,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t127_6fcabfc9",
+       "title": {
+        "ru": "Check comfort CAN bus for circuit shorted to ground",
+        "en": "Check comfort CAN bus for circuit shorted to ground"
+       },
+       "words": 346,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t128_16428c3e",
+       "title": {
+        "ru": "Circuit diagram",
+        "en": "Circuit diagram"
+       },
+       "words": 351,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t129_27c1e601",
+       "title": {
+        "ru": "Check GW power supply",
+        "en": "Check GW power supply"
+       },
+       "words": 311,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t130_0914e53d",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 362,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t136_13a44f60",
+       "title": {
+        "ru": "4 Replace rear leftright corner MMW radar (See page BS-19)",
+        "en": "4 Replace rear leftright corner MMW radar (See page BS-19)"
+       },
+       "words": 400,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t137_519e1122",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 343,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t139_a1d56baa",
+       "title": {
+        "ru": "4 Replace the DCDC control unit (ee page DC-32)",
+        "en": "4 Replace the DCDC control unit (ee page DC-32)"
+       },
+       "words": 399,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t140_20d7a5f6",
+       "title": {
+        "ru": "Replace alternator /EBS (See page CH-6)(See page CH-17)",
+        "en": "Replace alternator /EBS (See page CH-6)(See page CH-17)"
+       },
+       "words": 364,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t141_1198e57d",
+       "title": {
+        "ru": "Rotate the inner tie rod to make its toe-in value reach standard value",
+        "en": "Rotate the inner tie rod to make its toe-in value reach standard value"
+       },
+       "words": 1785,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t143_292895e1",
+       "title": {
+        "ru": "Fuel filler cap assembly Parts",
+        "en": "Fuel filler cap assembly Parts"
+       },
+       "words": 569,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t144_e5d31e89",
+       "title": {
+        "ru": "Exterior low frequency antenna .…. .. TD4",
+        "en": "Exterior low frequency antenna .…. .. TD4"
+       },
+       "words": 620,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t145_45aabb9f",
+       "title": {
+        "ru": "Remove front windshield assembly",
+        "en": "Remove front windshield assembly"
+       },
+       "words": 679,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hongqi_h5_general_t146_c23d5b50",
+       "title": {
+        "ru": "Glonass system controller assembly",
+        "en": "Glonass system controller assembly"
+       },
+       "words": 208,
+       "images": 9,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_sensors_t000_1e12e451",
+       "title": {
+        "ru": "Check the upstream oxygen sensor heating resistance",
+        "en": "Check the upstream oxygen sensor heating resistance"
+       },
+       "words": 658,
+       "images": 42,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t003_f54c4b1a",
+       "title": {
+        "ru": "Replace the upstream oxygen sensor (Seepage ES-455)",
+        "en": "Replace the upstream oxygen sensor (Seepage ES-455)"
+       },
+       "words": 828,
+       "images": 47,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t005_6702a6a2",
+       "title": {
+        "ru": "Check the wheel speed sensor signal ring gear",
+        "en": "Check the wheel speed sensor signal ring gear"
+       },
+       "words": 685,
+       "images": 19,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t007_680f1c3b",
+       "title": {
+        "ru": "Check TCU harness and connector fo circuit shorted to each other",
+        "en": "Check TCU harness and connector fo circuit shorted to each other"
+       },
+       "words": 780,
+       "images": 38,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t008_df67ac8d",
+       "title": {
+        "ru": "5 Replace the driver side acceleration front impact sensor (See page RS-229)",
+        "en": "5 Replace the driver side acceleration front impact sensor (See page RS-229)"
+       },
+       "words": 1842,
+       "images": 37,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t010_0b0281ce",
+       "title": {
+        "ru": "3 Check outside temperature sensor harness and connector for circuit shorted to",
+        "en": "3 Check outside temperature sensor harness and connector for circuit shorted to"
+       },
+       "words": 579,
+       "images": 38,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t012_ab7ce43e",
+       "title": {
+        "ru": "Replace the lef front wheel speed sensor (See page BC-90)",
+        "en": "Replace the lef front wheel speed sensor (See page BC-90)"
+       },
+       "words": 1510,
+       "images": 30,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t014_f754fa40",
+       "title": {
+        "ru": "Check reversing camera harness and connector",
+        "en": "Check reversing camera harness and connector"
+       },
+       "words": 1359,
+       "images": 64,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t015_b399c8af",
+       "title": {
+        "ru": "Rear camera and bracket assembly . ..PA-82",
+        "en": "Rear camera and bracket assembly . ..PA-82"
+       },
+       "words": 1249,
+       "images": 59,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t016_61b30dcd",
+       "title": {
+        "ru": "5 Replace the right front corner ultrasonic sensor (See page PM-59)",
+        "en": "5 Replace the right front corner ultrasonic sensor (See page PM-59)"
+       },
+       "words": 847,
+       "images": 47,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t017_45e613c9",
+       "title": {
+        "ru": "Inspection procedure",
+        "en": "Inspection procedure"
+       },
+       "words": 885,
+       "images": 50,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t018_3a75e8a2",
+       "title": {
+        "ru": "Washer fluid reservoir assembly Parts",
+        "en": "Washer fluid reservoir assembly Parts"
+       },
+       "words": 727,
+       "images": 33,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hongqi_hongqi_h5_sensors_t019_e2309419",
+       "title": {
+        "ru": "Tire pressure monitoring sensor Parts",
+        "en": "Tire pressure monitoring sensor Parts"
+       },
+       "words": 63,
+       "images": 2,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_infotainment_t000_5dc49ee8",
+       "title": {
+        "ru": "Main display assembly Parts",
+        "en": "Main display assembly Parts"
+       },
+       "words": 527,
+       "images": 22,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hongqi_hongqi_h5_infotainment_t001_7ad299e2",
+       "title": {
+        "ru": "4 Replace instrument cluster display (See page ME-39)",
+        "en": "4 Replace instrument cluster display (See page ME-39)"
+       },
+       "words": 541,
+       "images": 24,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hongqi_hongqi_h5_drivetrain_t000_992dba20",
+       "title": {
+        "ru": "3 Remove the hydraulic torque converter assembly",
+        "en": "3 Remove the hydraulic torque converter assembly"
+       },
+       "words": 940,
+       "images": 34,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hongqi_hongqi_h5_drivetrain_t001_ea14f154",
+       "title": {
+        "ru": "CA7CM270D1 dual clutch transmission",
+        "en": "CA7CM270D1 dual clutch transmission"
+       },
+       "words": 1534,
+       "images": 30,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hongqi_hongqi_h5_drivetrain_t002_82ce676c",
+       "title": {
+        "ru": "Standard value",
+        "en": "Standard value"
+       },
+       "words": 771,
+       "images": 42,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hongqi_hongqi_h5_drivetrain_t003_0568feca",
+       "title": {
+        "ru": "5|4th transmission harness side detection solenoid valve resistance",
+        "en": "5|4th transmission harness side detection solenoid valve resistance"
+       },
+       "words": 563,
+       "images": 43,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hongqi_hongqi_h5_drivetrain_t004_1ba1b5af",
+       "title": {
+        "ru": "Remove clutch seal cover assembly",
+        "en": "Remove clutch seal cover assembly"
+       },
+       "words": 899,
+       "images": 40,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hongqi_hongqi_h5_drivetrain_t005_21c632c9",
+       "title": {
+        "ru": "Front driving axle Part (only for models with DCT)",
+        "en": "Front driving axle Part (only for models with DCT)"
+       },
+       "words": 479,
+       "images": 5,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

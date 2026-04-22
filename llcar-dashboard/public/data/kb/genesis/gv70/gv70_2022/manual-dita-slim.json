@@ -1,0 +1,5095 @@
+{
+ "version": "1.0",
+ "model": "gv70",
+ "manuals": [
+  {
+   "model": "gv70",
+   "label": {
+    "ru": "Genesis gv70 — Руководство по ремонту",
+    "en": "Genesis gv70 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "genesis_gv70_engine_t001_141e101c",
+       "title": {
+        "ru": "Fuel Additives",
+        "en": "Fuel Additives"
+       },
+       "words": 612,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t003_df69fbd0",
+       "title": {
+        "ru": "Load And Speed Capacity Tires (For Europe)",
+        "en": "Load And Speed Capacity Tires (For Europe)"
+       },
+       "words": 330,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t004_843c214a",
+       "title": {
+        "ru": "Temperature Range for SAE Viscosity Numbers",
+        "en": "Temperature Range for SAE Viscosity Numbers"
+       },
+       "words": 118,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t005_19a2b52c",
+       "title": {
+        "ru": "Diesel engine",
+        "en": "Diesel engine"
+       },
+       "words": 179,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t006_803b1005",
+       "title": {
+        "ru": "The air ventilation seat automatically",
+        "en": "The air ventilation seat automatically"
+       },
+       "words": 518,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t007_d198c168",
+       "title": {
+        "ru": "SRS care",
+        "en": "SRS care"
+       },
+       "words": 122,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t008_9c6726f3",
+       "title": {
+        "ru": "Use the tachometer to select the correct",
+        "en": "Use the tachometer to select the correct"
+       },
+       "words": 94,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t009_1955eb12",
+       "title": {
+        "ru": "Type B",
+        "en": "Type B"
+       },
+       "words": 297,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t010_adcf16ab",
+       "title": {
+        "ru": "With only one of the dual systems",
+        "en": "With only one of the dual systems"
+       },
+       "words": 229,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t011_95c6be97",
+       "title": {
+        "ru": "If the engine is not stopped",
+        "en": "If the engine is not stopped"
+       },
+       "words": 187,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t012_9bba0947",
+       "title": {
+        "ru": "If the Malfunction Indicator Lamp",
+        "en": "If the Malfunction Indicator Lamp"
+       },
+       "words": 354,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t013_d2ad9570",
+       "title": {
+        "ru": "This warning light illuminates",
+        "en": "This warning light illuminates"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t014_ae8a1205",
+       "title": {
+        "ru": "When the vehicle detects the smart key",
+        "en": "When the vehicle detects the smart key"
+       },
+       "words": 169,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t015_2a9382a8",
+       "title": {
+        "ru": "This indicator light illuminates",
+        "en": "This indicator light illuminates"
+       },
+       "words": 138,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t016_7a7a873f",
+       "title": {
+        "ru": "Key not detected",
+        "en": "Key not detected"
+       },
+       "words": 147,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t017_25f1f779",
+       "title": {
+        "ru": "It is recommended to look for the nearest",
+        "en": "It is recommended to look for the nearest"
+       },
+       "words": 158,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t018_10864726",
+       "title": {
+        "ru": "Type B",
+        "en": "Type B"
+       },
+       "words": 178,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t019_a3183b4c",
+       "title": {
+        "ru": "3. The engine will start",
+        "en": "3. The engine will start"
+       },
+       "words": 407,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t020_d7fa9904",
+       "title": {
+        "ru": "1. Stop the vehicle and open the driver’s",
+        "en": "1. Stop the vehicle and open the driver’s"
+       },
+       "words": 263,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t021_fd9224da",
+       "title": {
+        "ru": "Do not fold the electric type outside",
+        "en": "Do not fold the electric type outside"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t022_e866efc6",
+       "title": {
+        "ru": "Any tools or other loose objects",
+        "en": "Any tools or other loose objects"
+       },
+       "words": 400,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t023_333d5b22",
+       "title": {
+        "ru": "Start/Stop button is in the ON position",
+        "en": "Start/Stop button is in the ON position"
+       },
+       "words": 244,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t024_c26ad599",
+       "title": {
+        "ru": "The wiper operation time will be",
+        "en": "The wiper operation time will be"
+       },
+       "words": 371,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t025_13215afa",
+       "title": {
+        "ru": "If the engine temperature is still cold",
+        "en": "If the engine temperature is still cold"
+       },
+       "words": 213,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t026_ddabd746",
+       "title": {
+        "ru": "Convenience features",
+        "en": "Convenience features"
+       },
+       "words": 418,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t027_382f863d",
+       "title": {
+        "ru": "Rapidly press and release the Engine",
+        "en": "Rapidly press and release the Engine"
+       },
+       "words": 230,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t028_a3bc44a8",
+       "title": {
+        "ru": "Starting the engine",
+        "en": "Starting the engine"
+       },
+       "words": 259,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t029_41be4205",
+       "title": {
+        "ru": "If the Engine Start/Stop button is pressed",
+        "en": "If the Engine Start/Stop button is pressed"
+       },
+       "words": 230,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t030_2e93b898",
+       "title": {
+        "ru": "Turning off the engine",
+        "en": "Turning off the engine"
+       },
+       "words": 312,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t031_d0383c0a",
+       "title": {
+        "ru": "The engine can be started with the gear",
+        "en": "The engine can be started with the gear"
+       },
+       "words": 156,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t032_39b220df",
+       "title": {
+        "ru": "2. Release the Electronic Parking Brake",
+        "en": "2. Release the Electronic Parking Brake"
+       },
+       "words": 215,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t033_9cf7b064",
+       "title": {
+        "ru": "Drive at steady speed or stop the vehicle",
+        "en": "Drive at steady speed or stop the vehicle"
+       },
+       "words": 368,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t034_7d444e70",
+       "title": {
+        "ru": "EPB malfunction",
+        "en": "EPB malfunction"
+       },
+       "words": 391,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t035_88f8212b",
+       "title": {
+        "ru": "Reduce engine power and do not",
+        "en": "Reduce engine power and do not"
+       },
+       "words": 283,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t036_4a83b5d4",
+       "title": {
+        "ru": "Driving through water",
+        "en": "Driving through water"
+       },
+       "words": 235,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t037_92448628",
+       "title": {
+        "ru": "Idle Stop and Go helps reduce fuel",
+        "en": "Idle Stop and Go helps reduce fuel"
+       },
+       "words": 149,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t038_ab544fdb",
+       "title": {
+        "ru": "Auto start",
+        "en": "Auto start"
+       },
+       "words": 274,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t039_46d46b7a",
+       "title": {
+        "ru": "Hold is activated",
+        "en": "Hold is activated"
+       },
+       "words": 190,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t040_545faf5f",
+       "title": {
+        "ru": "COMFORT mode. If SPORT mode is",
+        "en": "COMFORT mode. If SPORT mode is"
+       },
+       "words": 238,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t041_aa2b2fa5",
+       "title": {
+        "ru": "The system will be limited to gain",
+        "en": "The system will be limited to gain"
+       },
+       "words": 205,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t042_71f2dc5f",
+       "title": {
+        "ru": "Active Sound Design",
+        "en": "Active Sound Design"
+       },
+       "words": 204,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t043_432ebe40",
+       "title": {
+        "ru": "Snow or icy conditions",
+        "en": "Snow or icy conditions"
+       },
+       "words": 304,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t044_4c39c525",
+       "title": {
+        "ru": "When the vehicle is stopped for a",
+        "en": "When the vehicle is stopped for a"
+       },
+       "words": 454,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t045_4f32a6ac",
+       "title": {
+        "ru": "Important items to pay particular",
+        "en": "Important items to pay particular"
+       },
+       "words": 213,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t046_fa0adf13",
+       "title": {
+        "ru": "Press and hold the button again to",
+        "en": "Press and hold the button again to"
+       },
+       "words": 170,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t047_115274e7",
+       "title": {
+        "ru": "Safe Exit Warning will operate normally",
+        "en": "Safe Exit Warning will operate normally"
+       },
+       "words": 151,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t048_b1938943",
+       "title": {
+        "ru": "Driver Attention Warning",
+        "en": "Driver Attention Warning"
+       },
+       "words": 150,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t049_d37ba426",
+       "title": {
+        "ru": "Smart Cruise Control will operate",
+        "en": "Smart Cruise Control will operate"
+       },
+       "words": 144,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t050_c37e18eb",
+       "title": {
+        "ru": "Operating conditions",
+        "en": "Operating conditions"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t051_8fdb9a71",
+       "title": {
+        "ru": "Basic function",
+        "en": "Basic function"
+       },
+       "words": 410,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t052_55fd02c0",
+       "title": {
+        "ru": "Forward/Reverse Parking Distance",
+        "en": "Forward/Reverse Parking Distance"
+       },
+       "words": 260,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t054_03eaff6b",
+       "title": {
+        "ru": "If the engine stalls at a crossroads or",
+        "en": "If the engine stalls at a crossroads or"
+       },
+       "words": 136,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t055_935d7d71",
+       "title": {
+        "ru": "10. Start the engine of the assisting",
+        "en": "10. Start the engine of the assisting"
+       },
+       "words": 227,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t056_deae92e2",
+       "title": {
+        "ru": "6. If you cannot find the cause of the",
+        "en": "6. If you cannot find the cause of the"
+       },
+       "words": 212,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t058_9c2ea87b",
+       "title": {
+        "ru": "Diesel Engine",
+        "en": "Diesel Engine"
+       },
+       "words": 638,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t059_84b47714",
+       "title": {
+        "ru": "Fuel additives *5",
+        "en": "Fuel additives *5"
+       },
+       "words": 516,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t060_a15643de",
+       "title": {
+        "ru": "Rear differential oil *2",
+        "en": "Rear differential oil *2"
+       },
+       "words": 227,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t061_d0ce7f65",
+       "title": {
+        "ru": "K. Frequently driving in stop-and-go conditions",
+        "en": "K. Frequently driving in stop-and-go conditions"
+       },
+       "words": 658,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t062_e8b335fc",
+       "title": {
+        "ru": "Engine coolant *1",
+        "en": "Engine coolant *1"
+       },
+       "words": 183,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t064_83fc01f3",
+       "title": {
+        "ru": "Drive belts should be checked",
+        "en": "Drive belts should be checked"
+       },
+       "words": 175,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t065_cd148056",
+       "title": {
+        "ru": "Checking the engine oil level",
+        "en": "Checking the engine oil level"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t066_7a774b22",
+       "title": {
+        "ru": "Recommended to contact an",
+        "en": "Recommended to contact an"
+       },
+       "words": 305,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t067_1403322e",
+       "title": {
+        "ru": "When the oil pressure is low due to",
+        "en": "When the oil pressure is low due to"
+       },
+       "words": 244,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t068_2b32797d",
+       "title": {
+        "ru": "Never remove the engine",
+        "en": "Never remove the engine"
+       },
+       "words": 150,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t069_77b48df9",
+       "title": {
+        "ru": "Recommended coolant",
+        "en": "Recommended coolant"
+       },
+       "words": 261,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t070_322fce07",
+       "title": {
+        "ru": "If the vehicle is operated in extremely",
+        "en": "If the vehicle is operated in extremely"
+       },
+       "words": 332,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t071_b0e060dc",
+       "title": {
+        "ru": "6. Check the removed fuse; replace it if",
+        "en": "6. Check the removed fuse; replace it if"
+       },
+       "words": 173,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t072_17c916bc",
+       "title": {
+        "ru": "Head Lamp RH",
+        "en": "Head Lamp RH"
+       },
+       "words": 248,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t073_37b3605c",
+       "title": {
+        "ru": "Ign Coil",
+        "en": "Ign Coil"
+       },
+       "words": 323,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t074_a2709aa9",
+       "title": {
+        "ru": "Prevent caustic solutions such as",
+        "en": "Prevent caustic solutions such as"
+       },
+       "words": 213,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t075_f97b3421",
+       "title": {
+        "ru": "PCSV closes so that evaporated fuel",
+        "en": "PCSV closes so that evaporated fuel"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_gv70_engine_t076_0a03718e",
+       "title": {
+        "ru": "Examples of misuse are coasting with",
+        "en": "Examples of misuse are coasting with"
+       },
+       "words": 478,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "genesis_gv70_brakes_t002_c66fbef5",
+       "title": {
+        "ru": "There are certain types of accidents in",
+        "en": "There are certain types of accidents in"
+       },
+       "words": 362,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t003_4fb5e3f9",
+       "title": {
+        "ru": "When the ABS warning and",
+        "en": "When the ABS warning and"
+       },
+       "words": 264,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t004_2857148d",
+       "title": {
+        "ru": "AUTO HOLD indicator light",
+        "en": "AUTO HOLD indicator light"
+       },
+       "words": 261,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t005_9326b6d7",
+       "title": {
+        "ru": "1. Make sure the vehicle is stopped",
+        "en": "1. Make sure the vehicle is stopped"
+       },
+       "words": 353,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t006_134abc59",
+       "title": {
+        "ru": "This may cause the battery to",
+        "en": "This may cause the battery to"
+       },
+       "words": 252,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t007_5d0a169f",
+       "title": {
+        "ru": "1. Remove other items, including the",
+        "en": "1. Remove other items, including the"
+       },
+       "words": 457,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t008_69901fee",
+       "title": {
+        "ru": "Use this position to drive the vehicle",
+        "en": "Use this position to drive the vehicle"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t009_07b227d0",
+       "title": {
+        "ru": "Take the following precautions",
+        "en": "Take the following precautions"
+       },
+       "words": 315,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t010_65e70907",
+       "title": {
+        "ru": "Applying the parking brake",
+        "en": "Applying the parking brake"
+       },
+       "words": 137,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t011_f64559d1",
+       "title": {
+        "ru": "Start/Stop button to the OFF",
+        "en": "Start/Stop button to the OFF"
+       },
+       "words": 245,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t012_a4a47719",
+       "title": {
+        "ru": "1. Depress and hold the brake pedal",
+        "en": "1. Depress and hold the brake pedal"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t013_12a2645e",
+       "title": {
+        "ru": "Using ABS",
+        "en": "Using ABS"
+       },
+       "words": 231,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t014_434fd5c6",
+       "title": {
+        "ru": "Restart the vehicle. If the ABS warning",
+        "en": "Restart the vehicle. If the ABS warning"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t015_eb9a83f9",
+       "title": {
+        "ru": "The system is activated when",
+        "en": "The system is activated when"
+       },
+       "words": 186,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t016_8e40893b",
+       "title": {
+        "ru": "Ten seconds have passed since",
+        "en": "Ten seconds have passed since"
+       },
+       "words": 223,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t017_eb14cf32",
+       "title": {
+        "ru": "Yellow light on",
+        "en": "Yellow light on"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t018_1c06570a",
+       "title": {
+        "ru": "Keep your foot firmly on the brake pedal",
+        "en": "Keep your foot firmly on the brake pedal"
+       },
+       "words": 290,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t019_9f8e3abd",
+       "title": {
+        "ru": "Powertrain in the CUSTOM menu",
+        "en": "Powertrain in the CUSTOM menu"
+       },
+       "words": 515,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t020_a61639cb",
+       "title": {
+        "ru": "This is most likely to happen when there",
+        "en": "This is most likely to happen when there"
+       },
+       "words": 261,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t021_a47ba077",
+       "title": {
+        "ru": "Driving on hills",
+        "en": "Driving on hills"
+       },
+       "words": 155,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t022_fa8da292",
+       "title": {
+        "ru": "Always have your eyes on the road",
+        "en": "Always have your eyes on the road"
+       },
+       "words": 267,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t024_ac625ab1",
+       "title": {
+        "ru": "Adjust your vehicle speed by",
+        "en": "Adjust your vehicle speed by"
+       },
+       "words": 218,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t025_0f670a3d",
+       "title": {
+        "ru": "When Remote Forward/Backward",
+        "en": "When Remote Forward/Backward"
+       },
+       "words": 335,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t026_84a271aa",
+       "title": {
+        "ru": "Smart Parking Assist will temporarily",
+        "en": "Smart Parking Assist will temporarily"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t027_6ecb9ac7",
+       "title": {
+        "ru": "2. Disconnect the other end of the",
+        "en": "2. Disconnect the other end of the"
+       },
+       "words": 136,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t028_d870620d",
+       "title": {
+        "ru": "Use extreme caution when towing the",
+        "en": "Use extreme caution when towing the"
+       },
+       "words": 379,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t029_c16b12ec",
+       "title": {
+        "ru": "Inspect more frequently",
+        "en": "Inspect more frequently"
+       },
+       "words": 196,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t030_3a97ae98",
+       "title": {
+        "ru": "If the brake system requires frequent",
+        "en": "If the brake system requires frequent"
+       },
+       "words": 468,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_gv70_brakes_t031_2480341f",
+       "title": {
+        "ru": "Try to avoid excessive sunlight and",
+        "en": "Try to avoid excessive sunlight and"
+       },
+       "words": 123,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "genesis_gv70_suspension_t001_ec29d6cc",
+       "title": {
+        "ru": "Electronic Control Suspension controls",
+        "en": "Electronic Control Suspension controls"
+       },
+       "words": 223,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "genesis_gv70_suspension_t002_c66b741a",
+       "title": {
+        "ru": "Suspension: Comfort/Sport",
+        "en": "Suspension: Comfort/Sport"
+       },
+       "words": 157,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "genesis_gv70_hvac_t000_4cb2427c",
+       "title": {
+        "ru": "If there is heavy accumulation of snow",
+        "en": "If there is heavy accumulation of snow"
+       },
+       "words": 252,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "genesis_gv70_hvac_t001_6088c048",
+       "title": {
+        "ru": "Windshield heating",
+        "en": "Windshield heating"
+       },
+       "words": 335,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "genesis_gv70_body_t004_2e8ce59d",
+       "title": {
+        "ru": "If the message appears after removing",
+        "en": "If the message appears after removing"
+       },
+       "words": 223,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t005_091240ac",
+       "title": {
+        "ru": "2. Put your hand in the door handle or",
+        "en": "2. Put your hand in the door handle or"
+       },
+       "words": 254,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t006_dc397de1",
+       "title": {
+        "ru": "Mechanical key",
+        "en": "Mechanical key"
+       },
+       "words": 165,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t007_7d4a3be8",
+       "title": {
+        "ru": "Put your hand in the front outside door",
+        "en": "Put your hand in the front outside door"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t008_bef5a5b0",
+       "title": {
+        "ru": "Leaving your vehicle unlocked increases",
+        "en": "Leaving your vehicle unlocked increases"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t009_cd6892dd",
+       "title": {
+        "ru": "When the electronic child safety lock",
+        "en": "When the electronic child safety lock"
+       },
+       "words": 364,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t010_c850d0a2",
+       "title": {
+        "ru": "System precautions",
+        "en": "System precautions"
+       },
+       "words": 310,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t011_4605364c",
+       "title": {
+        "ru": "Your vehicle is equipped with both left-",
+        "en": "Your vehicle is equipped with both left-"
+       },
+       "words": 190,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t012_351a4bbc",
+       "title": {
+        "ru": "Folding button",
+        "en": "Folding button"
+       },
+       "words": 184,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t013_000f34bc",
+       "title": {
+        "ru": "3. Press either L or R button to select the",
+        "en": "3. Press either L or R button to select the"
+       },
+       "words": 238,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t014_7ece1bc6",
+       "title": {
+        "ru": "Start/Stop button is in the ACC or OFF",
+        "en": "Start/Stop button is in the ACC or OFF"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t015_cd8c0945",
+       "title": {
+        "ru": "If the power windows do not operate",
+        "en": "If the power windows do not operate"
+       },
+       "words": 157,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t016_1698bd04",
+       "title": {
+        "ru": "The driver can disable the power window",
+        "en": "The driver can disable the power window"
+       },
+       "words": 333,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t017_2c9e1b02",
+       "title": {
+        "ru": "Start/Stop button is in the ACC or OFF",
+        "en": "Start/Stop button is in the ACC or OFF"
+       },
+       "words": 543,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t018_fa36857a",
+       "title": {
+        "ru": "Never intentionally place any object",
+        "en": "Never intentionally place any object"
+       },
+       "words": 225,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t019_c52dff66",
+       "title": {
+        "ru": "Make sure to be aware of how to",
+        "en": "Make sure to be aware of how to"
+       },
+       "words": 361,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t020_98700773",
+       "title": {
+        "ru": "The system automatically turns off the",
+        "en": "The system automatically turns off the"
+       },
+       "words": 319,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t021_2555ad30",
+       "title": {
+        "ru": "When you put your hand in the",
+        "en": "When you put your hand in the"
+       },
+       "words": 188,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t022_1dae8074",
+       "title": {
+        "ru": "Front windshield defroster",
+        "en": "Front windshield defroster"
+       },
+       "words": 333,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t023_a3f6747c",
+       "title": {
+        "ru": "To use the sunvisor to block the sun",
+        "en": "To use the sunvisor to block the sun"
+       },
+       "words": 535,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t024_e4b3cc49",
+       "title": {
+        "ru": "Have the files backed up before",
+        "en": "Have the files backed up before"
+       },
+       "words": 315,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t025_ae57142c",
+       "title": {
+        "ru": "2. Press the remote start (",
+        "en": "2. Press the remote start ("
+       },
+       "words": 321,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t026_e3374915",
+       "title": {
+        "ru": "Press brake pedal to deactivate AUTO",
+        "en": "Press brake pedal to deactivate AUTO"
+       },
+       "words": 342,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t027_a462653a",
+       "title": {
+        "ru": "Here are some rules to follow",
+        "en": "Here are some rules to follow"
+       },
+       "words": 414,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t028_1d864f67",
+       "title": {
+        "ru": "Collision warning when exiting vehicle",
+        "en": "Collision warning when exiting vehicle"
+       },
+       "words": 268,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t029_f51b790d",
+       "title": {
+        "ru": "Parking Assist. A message ‘Under",
+        "en": "Parking Assist. A message ‘Under"
+       },
+       "words": 244,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t030_e8c40424",
+       "title": {
+        "ru": "At least once a year",
+        "en": "At least once a year"
+       },
+       "words": 549,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t031_4c1db926",
+       "title": {
+        "ru": "Electronic ATM Shift Lever Dial",
+        "en": "Electronic ATM Shift Lever Dial"
+       },
+       "words": 282,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_gv70_body_t032_129d3abe",
+       "title": {
+        "ru": "Appearance Care",
+        "en": "Appearance Care"
+       },
+       "words": 588,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "genesis_gv70_steering_t001_1b582ed4",
+       "title": {
+        "ru": "Front seats",
+        "en": "Front seats"
+       },
+       "words": 193,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t002_0e07b212",
+       "title": {
+        "ru": "This warning light illuminates",
+        "en": "This warning light illuminates"
+       },
+       "words": 225,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t003_ca4fb666",
+       "title": {
+        "ru": "The information is accumulated starting",
+        "en": "The information is accumulated starting"
+       },
+       "words": 357,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t004_7b330b03",
+       "title": {
+        "ru": "Steering wheel",
+        "en": "Steering wheel"
+       },
+       "words": 474,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t005_4af68c6a",
+       "title": {
+        "ru": "Setup → Vehicle Settings → Seat",
+        "en": "Setup → Vehicle Settings → Seat"
+       },
+       "words": 235,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t006_b2238474",
+       "title": {
+        "ru": "1. Pull down the lock-release lever (1)",
+        "en": "1. Pull down the lock-release lever (1)"
+       },
+       "words": 146,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t007_37ee0cf0",
+       "title": {
+        "ru": "2. Continue pushing the switch (1) for",
+        "en": "2. Continue pushing the switch (1) for"
+       },
+       "words": 179,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t008_5b355d99",
+       "title": {
+        "ru": "The heated steering wheel",
+        "en": "The heated steering wheel"
+       },
+       "words": 121,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t009_1c0d35ed",
+       "title": {
+        "ru": "The temperature of the driver’s seat",
+        "en": "The temperature of the driver’s seat"
+       },
+       "words": 415,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t010_9a0b9aff",
+       "title": {
+        "ru": "Always steer moderately when braking",
+        "en": "Always steer moderately when braking"
+       },
+       "words": 370,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t011_ee7badde",
+       "title": {
+        "ru": "Do not drive across the contour of steep",
+        "en": "Do not drive across the contour of steep"
+       },
+       "words": 209,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t012_c520499f",
+       "title": {
+        "ru": "Electronic Limited Slip Differential (If Equipped)",
+        "en": "Electronic Limited Slip Differential (If Equipped)"
+       },
+       "words": 89,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t013_5bfa44a9",
+       "title": {
+        "ru": "Rocking the vehicle",
+        "en": "Rocking the vehicle"
+       },
+       "words": 440,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t014_e8ede7fd",
+       "title": {
+        "ru": "Do not let ice and snow accumulate",
+        "en": "Do not let ice and snow accumulate"
+       },
+       "words": 241,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t015_e5bdedee",
+       "title": {
+        "ru": "Collision Warning",
+        "en": "Collision Warning"
+       },
+       "words": 468,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t017_4741202f",
+       "title": {
+        "ru": "This may result in unnecessary",
+        "en": "This may result in unnecessary"
+       },
+       "words": 335,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t018_c6a0f3de",
+       "title": {
+        "ru": "Hands-off warning",
+        "en": "Hands-off warning"
+       },
+       "words": 537,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t019_b93653b6",
+       "title": {
+        "ru": "Volume’ from the Settings menu to",
+        "en": "Volume’ from the Settings menu to"
+       },
+       "words": 413,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t020_0c8ba2f7",
+       "title": {
+        "ru": "If the driver still does not have their",
+        "en": "If the driver still does not have their"
+       },
+       "words": 318,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t022_f3291952",
+       "title": {
+        "ru": "Collision Warning",
+        "en": "Collision Warning"
+       },
+       "words": 417,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t023_351bd670",
+       "title": {
+        "ru": "Remote Forward/Backward function",
+        "en": "Remote Forward/Backward function"
+       },
+       "words": 463,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t024_683a932e",
+       "title": {
+        "ru": "Smart Parking function has started",
+        "en": "Smart Parking function has started"
+       },
+       "words": 758,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t025_6bd5cf46",
+       "title": {
+        "ru": "Always check the TPMS malfunction",
+        "en": "Always check the TPMS malfunction"
+       },
+       "words": 257,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t026_36165aff",
+       "title": {
+        "ru": "4. Remove the wheel lug wrench, jack",
+        "en": "4. Remove the wheel lug wrench, jack"
+       },
+       "words": 215,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t027_dcb5bdb8",
+       "title": {
+        "ru": "Your vehicle has metric threads on the",
+        "en": "Your vehicle has metric threads on the"
+       },
+       "words": 251,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t028_a6191b2b",
+       "title": {
+        "ru": "When reinstalling the repaired or replaced",
+        "en": "When reinstalling the repaired or replaced"
+       },
+       "words": 374,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t029_189ffe4a",
+       "title": {
+        "ru": "5. Adjust the tire pressure to the",
+        "en": "5. Adjust the tire pressure to the"
+       },
+       "words": 363,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t030_8ce1922a",
+       "title": {
+        "ru": "The wheels on your vehicle were aligned",
+        "en": "The wheels on your vehicle were aligned"
+       },
+       "words": 275,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t031_3d267415",
+       "title": {
+        "ru": "Tire maintenance",
+        "en": "Tire maintenance"
+       },
+       "words": 455,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_gv70_steering_t032_acbe5abd",
+       "title": {
+        "ru": "Steering Tilt & Telescopic Unit",
+        "en": "Steering Tilt & Telescopic Unit"
+       },
+       "words": 215,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "genesis_gv70_lighting_t000_58c06ec2",
+       "title": {
+        "ru": "This may be dangerous and threaten your life!",
+        "en": "This may be dangerous and threaten your life!"
+       },
+       "words": 105,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t003_0fa6a6b7",
+       "title": {
+        "ru": "When the vehicle’s position lights or",
+        "en": "When the vehicle’s position lights or"
+       },
+       "words": 174,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t004_fa3d0fdc",
+       "title": {
+        "ru": "If the Malfunction Indicator Lamp",
+        "en": "If the Malfunction Indicator Lamp"
+       },
+       "words": 137,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t005_7b61ea95",
+       "title": {
+        "ru": "This warning light remains ON after",
+        "en": "This warning light remains ON after"
+       },
+       "words": 160,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t006_60a72022",
+       "title": {
+        "ru": "If the Icy Road warning light appears",
+        "en": "If the Icy Road warning light appears"
+       },
+       "words": 164,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t007_63ab35ef",
+       "title": {
+        "ru": "High beam indicator light",
+        "en": "High beam indicator light"
+       },
+       "words": 140,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t008_9585228b",
+       "title": {
+        "ru": "Setup → Vehicle Settings → Cluster",
+        "en": "Setup → Vehicle Settings → Cluster"
+       },
+       "words": 140,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t010_d9076234",
+       "title": {
+        "ru": "2. Press either the tailgate open/close",
+        "en": "2. Press either the tailgate open/close"
+       },
+       "words": 135,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t011_37f72931",
+       "title": {
+        "ru": "When the keyhole freezes and does not",
+        "en": "When the keyhole freezes and does not"
+       },
+       "words": 172,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t012_40186cf3",
+       "title": {
+        "ru": "Use the power sunshade to block direct",
+        "en": "Use the power sunshade to block direct"
+       },
+       "words": 243,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t013_0885dfcd",
+       "title": {
+        "ru": "3. Automatic opening",
+        "en": "3. Automatic opening"
+       },
+       "words": 373,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t014_6b9c63cf",
+       "title": {
+        "ru": "AUTO headlamp",
+        "en": "AUTO headlamp"
+       },
+       "words": 184,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t015_64c89eaf",
+       "title": {
+        "ru": "To turn on the rear fog lamp",
+        "en": "To turn on the rear fog lamp"
+       },
+       "words": 214,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t016_ed4888d7",
+       "title": {
+        "ru": "Do not use the interior lights when",
+        "en": "Do not use the interior lights when"
+       },
+       "words": 143,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t017_daf2df7c",
+       "title": {
+        "ru": "Escort light",
+        "en": "Escort light"
+       },
+       "words": 208,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t018_8ff5e45b",
+       "title": {
+        "ru": "Front-Lighting System and deselect to",
+        "en": "Front-Lighting System and deselect to"
+       },
+       "words": 193,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t019_07428138",
+       "title": {
+        "ru": "Front-Lighting System may temporarily",
+        "en": "Front-Lighting System may temporarily"
+       },
+       "words": 497,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t020_06db3489",
+       "title": {
+        "ru": "High Beam Assist operates as follow",
+        "en": "High Beam Assist operates as follow"
+       },
+       "words": 414,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t021_41000e37",
+       "title": {
+        "ru": "1. Select AUTO",
+        "en": "1. Select AUTO"
+       },
+       "words": 134,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t022_4e861489",
+       "title": {
+        "ru": "The temperature can be increased or",
+        "en": "The temperature can be increased or"
+       },
+       "words": 156,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t023_3aa9845b",
+       "title": {
+        "ru": "Auto Defogging System indicator will",
+        "en": "Auto Defogging System indicator will"
+       },
+       "words": 158,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t024_212b8561",
+       "title": {
+        "ru": "Wireless Charging",
+        "en": "Wireless Charging"
+       },
+       "words": 123,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t025_a5ef4cda",
+       "title": {
+        "ru": "Exterior Features",
+        "en": "Exterior Features"
+       },
+       "words": 214,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t026_666679f3",
+       "title": {
+        "ru": "Built-in Cam operating status can be",
+        "en": "Built-in Cam operating status can be"
+       },
+       "words": 211,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t027_cac998ab",
+       "title": {
+        "ru": "Press the ESC OFF button briefly. The",
+        "en": "Press the ESC OFF button briefly. The"
+       },
+       "words": 165,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t028_e009e484",
+       "title": {
+        "ru": "Drive slowly and NEVER attempt to",
+        "en": "Drive slowly and NEVER attempt to"
+       },
+       "words": 203,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t029_8ce69cfc",
+       "title": {
+        "ru": "Warning messages",
+        "en": "Warning messages"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t030_61e5b643",
+       "title": {
+        "ru": "Please note that the mechanical",
+        "en": "Please note that the mechanical"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t031_f415e54b",
+       "title": {
+        "ru": "If this occurs the ‘Forward Safety system",
+        "en": "If this occurs the ‘Forward Safety system"
+       },
+       "words": 149,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t032_be585a77",
+       "title": {
+        "ru": "Refer to the picture above for the",
+        "en": "Refer to the picture above for the"
+       },
+       "words": 211,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t033_2b72bdcb",
+       "title": {
+        "ru": "Forward Attention Warning (Faw) (If Equipped)",
+        "en": "Forward Attention Warning (Faw) (If Equipped)"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t034_de9c86c5",
+       "title": {
+        "ru": "Smart Cruise Control will be temporarily",
+        "en": "Smart Cruise Control will be temporarily"
+       },
+       "words": 370,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t035_da3992b0",
+       "title": {
+        "ru": "Highway Lane Change Assist function",
+        "en": "Highway Lane Change Assist function"
+       },
+       "words": 263,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t036_c5e1b230",
+       "title": {
+        "ru": "Safety system disabled. Radar blocked’",
+        "en": "Safety system disabled. Radar blocked’"
+       },
+       "words": 126,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t037_9ff43246",
+       "title": {
+        "ru": "Parking Safety button indicator light",
+        "en": "Parking Safety button indicator light"
+       },
+       "words": 253,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t038_34bab401",
+       "title": {
+        "ru": "Smart Parking Assist will return to",
+        "en": "Smart Parking Assist will return to"
+       },
+       "words": 364,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t039_d8d9cee2",
+       "title": {
+        "ru": "Jack label",
+        "en": "Jack label"
+       },
+       "words": 385,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t040_39cfd756",
+       "title": {
+        "ru": "European Parliament and of the",
+        "en": "European Parliament and of the"
+       },
+       "words": 272,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t041_c8834451",
+       "title": {
+        "ru": "Crash signal",
+        "en": "Crash signal"
+       },
+       "words": 333,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t042_177ea9d7",
+       "title": {
+        "ru": "You should retain documents that show",
+        "en": "You should retain documents that show"
+       },
+       "words": 155,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t043_7e9fe946",
+       "title": {
+        "ru": "Luggage compartment",
+        "en": "Luggage compartment"
+       },
+       "words": 369,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t044_18cb2830",
+       "title": {
+        "ru": "A/Bag Ind",
+        "en": "A/Bag Ind"
+       },
+       "words": 253,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t045_7f1f5c80",
+       "title": {
+        "ru": "Light Bulbs",
+        "en": "Light Bulbs"
+       },
+       "words": 290,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t046_da7e561c",
+       "title": {
+        "ru": "3. Draw vertical lines (Vertical lines",
+        "en": "3. Draw vertical lines (Vertical lines"
+       },
+       "words": 227,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t047_465f060c",
+       "title": {
+        "ru": "Puddle lamp replacement",
+        "en": "Puddle lamp replacement"
+       },
+       "words": 159,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t048_07f4cdd4",
+       "title": {
+        "ru": "The LED lamps cannot be replaced as",
+        "en": "The LED lamps cannot be replaced as"
+       },
+       "words": 117,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t050_697b9cc9",
+       "title": {
+        "ru": "For the Inspection and Maintenance",
+        "en": "For the Inspection and Maintenance"
+       },
+       "words": 187,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_gv70_lighting_t051_00d95730",
+       "title": {
+        "ru": "Second warning",
+        "en": "Second warning"
+       },
+       "words": 129,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "genesis_gv70_adas_t001_6f1b640f",
+       "title": {
+        "ru": "Front air bags",
+        "en": "Front air bags"
+       },
+       "words": 357,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t002_0dde64ea",
+       "title": {
+        "ru": "If your vehicle detects oncoming or",
+        "en": "If your vehicle detects oncoming or"
+       },
+       "words": 205,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t003_6c067aec",
+       "title": {
+        "ru": "For more details on the limitations of the",
+        "en": "For more details on the limitations of the"
+       },
+       "words": 404,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t004_e1a7483f",
+       "title": {
+        "ru": "Forward Collision-Avoidance Assist is",
+        "en": "Forward Collision-Avoidance Assist is"
+       },
+       "words": 168,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t005_b8908785",
+       "title": {
+        "ru": "Lane-Change Side function helps avoid",
+        "en": "Lane-Change Side function helps avoid"
+       },
+       "words": 148,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t006_45782188",
+       "title": {
+        "ru": "Collision-Avoidance Assist will always",
+        "en": "Collision-Avoidance Assist will always"
+       },
+       "words": 257,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t007_323acc45",
+       "title": {
+        "ru": "Assist judges that avoiding a collision",
+        "en": "Assist judges that avoiding a collision"
+       },
+       "words": 178,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t008_59f868b4",
+       "title": {
+        "ru": "Take the following precautions when",
+        "en": "Take the following precautions when"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t009_c3ed3f83",
+       "title": {
+        "ru": "Collision-Avoidance Assist may",
+        "en": "Collision-Avoidance Assist may"
+       },
+       "words": 608,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t011_e377c36a",
+       "title": {
+        "ru": "If the vehicle in front of you has",
+        "en": "If the vehicle in front of you has"
+       },
+       "words": 154,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t012_289c7cf3",
+       "title": {
+        "ru": "Lane Safety",
+        "en": "Lane Safety"
+       },
+       "words": 143,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t013_b9883067",
+       "title": {
+        "ru": "When Lane Keeping Assist is not working",
+        "en": "When Lane Keeping Assist is not working"
+       },
+       "words": 363,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t014_8d6a2a56",
+       "title": {
+        "ru": "Keeping Assist is turned on or right",
+        "en": "Keeping Assist is turned on or right"
+       },
+       "words": 155,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t015_a5e984cb",
+       "title": {
+        "ru": "Blind-Spot Collision-Avoidance Assist",
+        "en": "Blind-Spot Collision-Avoidance Assist"
+       },
+       "words": 334,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t016_5f439c9a",
+       "title": {
+        "ru": "Driver assistance system",
+        "en": "Driver assistance system"
+       },
+       "words": 517,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t017_7fd9bd41",
+       "title": {
+        "ru": "Assist. Maintain a safe braking",
+        "en": "Assist. Maintain a safe braking"
+       },
+       "words": 577,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t018_76a0c979",
+       "title": {
+        "ru": "Blind-Spot Collision-Avoidance",
+        "en": "Blind-Spot Collision-Avoidance"
+       },
+       "words": 147,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t019_209a973c",
+       "title": {
+        "ru": "Always pay attention to road and",
+        "en": "Always pay attention to road and"
+       },
+       "words": 130,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t020_3d5dc9ac",
+       "title": {
+        "ru": "Assist sensor or the sensor",
+        "en": "Assist sensor or the sensor"
+       },
+       "words": 197,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t021_9adaf1ab",
+       "title": {
+        "ru": "Collision warning when exiting vehicle",
+        "en": "Collision warning when exiting vehicle"
+       },
+       "words": 288,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t022_6d0e4412",
+       "title": {
+        "ru": "Turn off Safe Exit Assist to install or",
+        "en": "Turn off Safe Exit Assist to install or"
+       },
+       "words": 219,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t023_040af98e",
+       "title": {
+        "ru": "Type B",
+        "en": "Type B"
+       },
+       "words": 274,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t024_f42e8091",
+       "title": {
+        "ru": "Intelligent Speed Limit Assist warning and",
+        "en": "Intelligent Speed Limit Assist warning and"
+       },
+       "words": 739,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t025_3b07ba1e",
+       "title": {
+        "ru": "Driver Attention Warning may not work",
+        "en": "Driver Attention Warning may not work"
+       },
+       "words": 147,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t026_9da1e547",
+       "title": {
+        "ru": "Smart Cruise Control is designed to",
+        "en": "Smart Cruise Control is designed to"
+       },
+       "words": 188,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t027_fb8cfebc",
+       "title": {
+        "ru": "Smart Cruise Control. However Manual",
+        "en": "Smart Cruise Control. However Manual"
+       },
+       "words": 286,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t028_46615b5f",
+       "title": {
+        "ru": "Assist will operate when the",
+        "en": "Assist will operate when the"
+       },
+       "words": 222,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t029_386505e0",
+       "title": {
+        "ru": "If the headway distance is too close",
+        "en": "If the headway distance is too close"
+       },
+       "words": 405,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t030_75e4e3fe",
+       "title": {
+        "ru": "Driver assistance system",
+        "en": "Driver assistance system"
+       },
+       "words": 175,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t031_61dd1734",
+       "title": {
+        "ru": "Always pay attention to road and",
+        "en": "Always pay attention to road and"
+       },
+       "words": 179,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t032_f63a30de",
+       "title": {
+        "ru": "For more details on Lane Following",
+        "en": "For more details on Lane Following"
+       },
+       "words": 160,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t033_0dbf9ad7",
+       "title": {
+        "ru": "For more details on the display refer to",
+        "en": "For more details on the display refer to"
+       },
+       "words": 290,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t034_7e612ac6",
+       "title": {
+        "ru": "Following Assist by pressing the Lane",
+        "en": "Following Assist by pressing the Lane"
+       },
+       "words": 295,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t035_149f0da8",
+       "title": {
+        "ru": "Highway Lane Change Assist function",
+        "en": "Highway Lane Change Assist function"
+       },
+       "words": 390,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t036_8ff64383",
+       "title": {
+        "ru": "Assist or Blind-Spot Collision-",
+        "en": "Assist or Blind-Spot Collision-"
+       },
+       "words": 319,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t037_dfdb2993",
+       "title": {
+        "ru": "Rear Cross-Traffic Collision-Avoidance",
+        "en": "Rear Cross-Traffic Collision-Avoidance"
+       },
+       "words": 160,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t038_c3c325c9",
+       "title": {
+        "ru": "Assist will operate when all the",
+        "en": "Assist will operate when all the"
+       },
+       "words": 310,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t039_3baffe6a",
+       "title": {
+        "ru": "Cross-Traffic Collision-Avoidance",
+        "en": "Cross-Traffic Collision-Avoidance"
+       },
+       "words": 582,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t042_5bca1cf1",
+       "title": {
+        "ru": "Reverse Parking Collision-Avoidance",
+        "en": "Reverse Parking Collision-Avoidance"
+       },
+       "words": 623,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t045_156e1b08",
+       "title": {
+        "ru": "Collision-Avoidance Assist may",
+        "en": "Collision-Avoidance Assist may"
+       },
+       "words": 133,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "genesis_gv70_adas_t046_d425e0d6",
+       "title": {
+        "ru": "Assist or Rear Cross-Traffic Collision-",
+        "en": "Assist or Rear Cross-Traffic Collision-"
+       },
+       "words": 297,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "genesis_gv70_interior_t002_b0088509",
+       "title": {
+        "ru": "Safety precautions",
+        "en": "Safety precautions"
+       },
+       "words": 149,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t003_9a11af97",
+       "title": {
+        "ru": "Take the following precautions when",
+        "en": "Take the following precautions when"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t004_60c7e129",
+       "title": {
+        "ru": "Push the front portion of the control",
+        "en": "Push the front portion of the control"
+       },
+       "words": 181,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t005_7ea0eb03",
+       "title": {
+        "ru": "Seat cushion extension adjustment",
+        "en": "Seat cushion extension adjustment"
+       },
+       "words": 67,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t006_02b88dc0",
+       "title": {
+        "ru": "Select 'Ergo-Motion Seat' from the",
+        "en": "Select 'Ergo-Motion Seat' from the"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t007_ed8ddc08",
+       "title": {
+        "ru": "This could result in serious injury",
+        "en": "This could result in serious injury"
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t008_5b2a9a05",
+       "title": {
+        "ru": "Folding the rear seats",
+        "en": "Folding the rear seats"
+       },
+       "words": 147,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t009_b5142f89",
+       "title": {
+        "ru": "The armrest is located in the center of",
+        "en": "The armrest is located in the center of"
+       },
+       "words": 268,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t010_c8687f12",
+       "title": {
+        "ru": "To remove the headrest",
+        "en": "To remove the headrest"
+       },
+       "words": 74,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t011_fa56dca5",
+       "title": {
+        "ru": "Passengers must be able to feel if the",
+        "en": "Passengers must be able to feel if the"
+       },
+       "words": 146,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t012_fd24e0ed",
+       "title": {
+        "ru": "You may lower the seat warmer",
+        "en": "You may lower the seat warmer"
+       },
+       "words": 207,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t013_9df8b60d",
+       "title": {
+        "ru": "When the operation of the air ventilation",
+        "en": "When the operation of the air ventilation"
+       },
+       "words": 300,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t014_30b325a0",
+       "title": {
+        "ru": "Off High ( ) Medium ( ) Low ( )",
+        "en": "Off High ( ) Medium ( ) Low ( )"
+       },
+       "words": 503,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t015_4d20ddd7",
+       "title": {
+        "ru": "Instrument cluster",
+        "en": "Instrument cluster"
+       },
+       "words": 301,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t016_b01e65a3",
+       "title": {
+        "ru": "Engine Start/Stop button is in the ON",
+        "en": "Engine Start/Stop button is in the ON"
+       },
+       "words": 317,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t017_ea6130a9",
+       "title": {
+        "ru": "Improperly positioned seat belts may",
+        "en": "Improperly positioned seat belts may"
+       },
+       "words": 292,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t018_26aed0df",
+       "title": {
+        "ru": "Pre-tensioner seat belt",
+        "en": "Pre-tensioner seat belt"
+       },
+       "words": 289,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t019_0047642e",
+       "title": {
+        "ru": "Body work on the front area of the",
+        "en": "Body work on the front area of the"
+       },
+       "words": 283,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t020_e54079b2",
+       "title": {
+        "ru": "Pre-Active Seat Belt is a supplementary",
+        "en": "Pre-Active Seat Belt is a supplementary"
+       },
+       "words": 149,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t021_b525d673",
+       "title": {
+        "ru": "Pregnant women should always wear",
+        "en": "Pregnant women should always wear"
+       },
+       "words": 383,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t022_a82cd04c",
+       "title": {
+        "ru": "Seat belt use and injured people",
+        "en": "Seat belt use and injured people"
+       },
+       "words": 228,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t023_dfcc1e78",
+       "title": {
+        "ru": "Keep belts clean and dry",
+        "en": "Keep belts clean and dry"
+       },
+       "words": 297,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t024_e8605c1a",
+       "title": {
+        "ru": "A Child Restraint System in a closed",
+        "en": "A Child Restraint System in a closed"
+       },
+       "words": 394,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t025_157c52d3",
+       "title": {
+        "ru": "System. The ISOFIX system eliminates",
+        "en": "System. The ISOFIX system eliminates"
+       },
+       "words": 155,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t026_97ba87d1",
+       "title": {
+        "ru": "Restraint System manufacturer’s",
+        "en": "Restraint System manufacturer’s"
+       },
+       "words": 222,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t027_3ba30142",
+       "title": {
+        "ru": "The air bags are labeled with the letters",
+        "en": "The air bags are labeled with the letters"
+       },
+       "words": 576,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t028_247e0dcd",
+       "title": {
+        "ru": "They are designed to help protect the",
+        "en": "They are designed to help protect the"
+       },
+       "words": 210,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t029_39b810ed",
+       "title": {
+        "ru": "Additional safety precautions",
+        "en": "Additional safety precautions"
+       },
+       "words": 177,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t030_dcde724f",
+       "title": {
+        "ru": "3. Press the SET button and push",
+        "en": "3. Press the SET button and push"
+       },
+       "words": 373,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t031_89b52c94",
+       "title": {
+        "ru": "Recirculating air when washer fluid",
+        "en": "Recirculating air when washer fluid"
+       },
+       "words": 254,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t032_0075e2dc",
+       "title": {
+        "ru": "Front seat mode selection",
+        "en": "Front seat mode selection"
+       },
+       "words": 196,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t033_d1868cda",
+       "title": {
+        "ru": "Adjusting the temperature and air flow",
+        "en": "Adjusting the temperature and air flow"
+       },
+       "words": 305,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t034_f85f227e",
+       "title": {
+        "ru": "Touch the OFF icon or press the OFF",
+        "en": "Touch the OFF icon or press the OFF"
+       },
+       "words": 173,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t035_295f7bd1",
+       "title": {
+        "ru": "Checking the amount of air",
+        "en": "Checking the amount of air"
+       },
+       "words": 140,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t036_8720aef4",
+       "title": {
+        "ru": "System will be enabled. The following",
+        "en": "System will be enabled. The following"
+       },
+       "words": 309,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t037_f35de06e",
+       "title": {
+        "ru": "An open glove box door can cause",
+        "en": "An open glove box door can cause"
+       },
+       "words": 320,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t038_686dc0c7",
+       "title": {
+        "ru": "Multi-Collision Brake controls the brake",
+        "en": "Multi-Collision Brake controls the brake"
+       },
+       "words": 205,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t039_1ad57fb6",
+       "title": {
+        "ru": "Parking/View button is pressed",
+        "en": "Parking/View button is pressed"
+       },
+       "words": 409,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t041_d1d7c055",
+       "title": {
+        "ru": "Check the fluid level in the washer fluid",
+        "en": "Check the fluid level in the washer fluid"
+       },
+       "words": 268,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t042_ee4f1594",
+       "title": {
+        "ru": "P/Seat Pass1",
+        "en": "P/Seat Pass1"
+       },
+       "words": 158,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_gv70_interior_t043_3ca1878e",
+       "title": {
+        "ru": "If your napa leather seat is bright",
+        "en": "If your napa leather seat is bright"
+       },
+       "words": 35,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "genesis_gv70_ev_t000_991dad7c",
+       "title": {
+        "ru": "10.\tWireless charging system indicator.....5-112",
+        "en": "10.\tWireless charging system indicator.....5-112"
+       },
+       "words": 218,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "genesis_gv70_ev_t001_54ad5236",
+       "title": {
+        "ru": "3. Remove the old battery and insert the",
+        "en": "3. Remove the old battery and insert the"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "genesis_gv70_ev_t002_e561a978",
+       "title": {
+        "ru": "The electric type outside rearview",
+        "en": "The electric type outside rearview"
+       },
+       "words": 389,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "genesis_gv70_ev_t003_5a0445bb",
+       "title": {
+        "ru": "Leaving the accessory or equipment",
+        "en": "Leaving the accessory or equipment"
+       },
+       "words": 405,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "genesis_gv70_ev_t004_6425cf6b",
+       "title": {
+        "ru": "Check battery and cables",
+        "en": "Check battery and cables"
+       },
+       "words": 104,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "genesis_gv70_ev_t005_b9c24b16",
+       "title": {
+        "ru": "8. Connect the second jumper cable to",
+        "en": "8. Connect the second jumper cable to"
+       },
+       "words": 172,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "genesis_gv70_ev_t006_8e75c506",
+       "title": {
+        "ru": "Emergency power supply of the Pan-",
+        "en": "Emergency power supply of the Pan-"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "genesis_gv70_ev_t007_db833879",
+       "title": {
+        "ru": "Hydrogen is always present",
+        "en": "Hydrogen is always present"
+       },
+       "words": 215,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "genesis_gv70_ev_t008_915f14a5",
+       "title": {
+        "ru": "An inappropriately disposed",
+        "en": "An inappropriately disposed"
+       },
+       "words": 90,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "genesis_gv70_general_t000_a50ecb59",
+       "title": {
+        "ru": "These titles indicate the following",
+        "en": "These titles indicate the following"
+       },
+       "words": 234,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t004_2fa0bc3b",
+       "title": {
+        "ru": "7. Windshield washer fluid reservoir....... 9-37",
+        "en": "7. Windshield washer fluid reservoir....... 9-37"
+       },
+       "words": 332,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t005_0724149a",
+       "title": {
+        "ru": "Mixture of antifreeze and water",
+        "en": "Mixture of antifreeze and water"
+       },
+       "words": 187,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t006_b3e77514",
+       "title": {
+        "ru": "A.\tOctane rating of unleaded gasoline",
+        "en": "A.\tOctane rating of unleaded gasoline"
+       },
+       "words": 92,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t007_2b39ac6b",
+       "title": {
+        "ru": "To adjust cushion support",
+        "en": "To adjust cushion support"
+       },
+       "words": 126,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t008_115ff689",
+       "title": {
+        "ru": "2. Raise the headrest as far as it can go",
+        "en": "2. Raise the headrest as far as it can go"
+       },
+       "words": 79,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t009_07f8df90",
+       "title": {
+        "ru": "Failure to follow all warnings and",
+        "en": "Failure to follow all warnings and"
+       },
+       "words": 81,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t010_578050a6",
+       "title": {
+        "ru": "The purpose of the switch is to disable",
+        "en": "The purpose of the switch is to disable"
+       },
+       "words": 165,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t012_c958fc13",
+       "title": {
+        "ru": "Instrument cluster control",
+        "en": "Instrument cluster control"
+       },
+       "words": 103,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t013_60e0a448",
+       "title": {
+        "ru": "Type B",
+        "en": "Type B"
+       },
+       "words": 116,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t014_397e2252",
+       "title": {
+        "ru": "MODE button for changing View modes",
+        "en": "MODE button for changing View modes"
+       },
+       "words": 101,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t016_f3e38a97",
+       "title": {
+        "ru": "To open the tailgate",
+        "en": "To open the tailgate"
+       },
+       "words": 319,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t017_398fc4b9",
+       "title": {
+        "ru": "If you suspect your smart key might have",
+        "en": "If you suspect your smart key might have"
+       },
+       "words": 155,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t018_0d6a5f94",
+       "title": {
+        "ru": "Touch control",
+        "en": "Touch control"
+       },
+       "words": 129,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t019_0a671513",
+       "title": {
+        "ru": "The automatic reverse feature is only",
+        "en": "The automatic reverse feature is only"
+       },
+       "words": 171,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t020_f6bacc77",
+       "title": {
+        "ru": "To stop the sunroof movement at any",
+        "en": "To stop the sunroof movement at any"
+       },
+       "words": 117,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t021_c2c78523",
+       "title": {
+        "ru": "Make sure the sunroof is closed fully",
+        "en": "Make sure the sunroof is closed fully"
+       },
+       "words": 216,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t022_bd2ee166",
+       "title": {
+        "ru": "Press the power tailgate open/close",
+        "en": "Press the power tailgate open/close"
+       },
+       "words": 180,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t023_09d1bdf0",
+       "title": {
+        "ru": "Power tailgate opening height",
+        "en": "Power tailgate opening height"
+       },
+       "words": 162,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t024_6f94de44",
+       "title": {
+        "ru": "3. Slowly close the tailgate manually",
+        "en": "3. Slowly close the tailgate manually"
+       },
+       "words": 91,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t025_a599259c",
+       "title": {
+        "ru": "3. Tailgate open/close",
+        "en": "3. Tailgate open/close"
+       },
+       "words": 99,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t026_1e887b12",
+       "title": {
+        "ru": "We recommend that the system be",
+        "en": "We recommend that the system be"
+       },
+       "words": 130,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t027_edf0065f",
+       "title": {
+        "ru": "Air intake control is used to select either",
+        "en": "Air intake control is used to select either"
+       },
+       "words": 104,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t028_4132502b",
+       "title": {
+        "ru": "If the",
+        "en": "If the"
+       },
+       "words": 77,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t029_244ed5de",
+       "title": {
+        "ru": "Infotainment system",
+        "en": "Infotainment system"
+       },
+       "words": 146,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t031_98b5b283",
+       "title": {
+        "ru": "To clean the ashtray",
+        "en": "To clean the ashtray"
+       },
+       "words": 102,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t032_44c94b08",
+       "title": {
+        "ru": "These hooks are not designed to hold",
+        "en": "These hooks are not designed to hold"
+       },
+       "words": 235,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t033_ab9f284b",
+       "title": {
+        "ru": "The roof side rails crossbars are an",
+        "en": "The roof side rails crossbars are an"
+       },
+       "words": 191,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t034_30c851da",
+       "title": {
+        "ru": "If the SEEK/PRESET switch is pressed up",
+        "en": "If the SEEK/PRESET switch is pressed up"
+       },
+       "words": 125,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t035_6cad1b45",
+       "title": {
+        "ru": "FAT32 / NTFS / exFAT format files. In",
+        "en": "FAT32 / NTFS / exFAT format files. In"
+       },
+       "words": 162,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t036_9abd7c86",
+       "title": {
+        "ru": "We recommend that you have the",
+        "en": "We recommend that you have the"
+       },
+       "words": 86,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t037_d029146d",
+       "title": {
+        "ru": "When the conversion from Auto Hold to",
+        "en": "When the conversion from Auto Hold to"
+       },
+       "words": 88,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t038_78575c18",
+       "title": {
+        "ru": "When EPB is applied while Auto Hold",
+        "en": "When EPB is applied while Auto Hold"
+       },
+       "words": 108,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t039_9df0884e",
+       "title": {
+        "ru": "Keep away from the front of the vehicle",
+        "en": "Keep away from the front of the vehicle"
+       },
+       "words": 121,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t040_283e9e6f",
+       "title": {
+        "ru": "Coasting setting",
+        "en": "Coasting setting"
+       },
+       "words": 98,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t041_fe70000c",
+       "title": {
+        "ru": "SPORT mode",
+        "en": "SPORT mode"
+       },
+       "words": 99,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t043_2cd6943d",
+       "title": {
+        "ru": "Under-inflation may overheat or damage",
+        "en": "Under-inflation may overheat or damage"
+       },
+       "words": 350,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t044_3e01bcad",
+       "title": {
+        "ru": "Your vehicle is delivered with high",
+        "en": "Your vehicle is delivered with high"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t045_b5e347e8",
+       "title": {
+        "ru": "Information - For Europe",
+        "en": "Information - For Europe"
+       },
+       "words": 458,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t046_7b1937a5",
+       "title": {
+        "ru": "Making turns",
+        "en": "Making turns"
+       },
+       "words": 150,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t047_8e610da7",
+       "title": {
+        "ru": "Cargo Weight",
+        "en": "Cargo Weight"
+       },
+       "words": 129,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t048_f26f7376",
+       "title": {
+        "ru": "Always check the traffic conditions",
+        "en": "Always check the traffic conditions"
+       },
+       "words": 85,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t049_f1c1bc15",
+       "title": {
+        "ru": "Always pay attention to road and",
+        "en": "Always pay attention to road and"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t050_f973e946",
+       "title": {
+        "ru": "Type B",
+        "en": "Type B"
+       },
+       "words": 169,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t051_064a7950",
+       "title": {
+        "ru": "Leading vehicle departure alert function",
+        "en": "Leading vehicle departure alert function"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t052_045d0c4a",
+       "title": {
+        "ru": "The setting of the Warning Timing",
+        "en": "The setting of the Warning Timing"
+       },
+       "words": 79,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t053_51cbc34e",
+       "title": {
+        "ru": "To increase speed",
+        "en": "To increase speed"
+       },
+       "words": 212,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t054_eca3fdf3",
+       "title": {
+        "ru": "In traffic situation",
+        "en": "In traffic situation"
+       },
+       "words": 145,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t055_338ddfbc",
+       "title": {
+        "ru": "Speed Auto Change function may not",
+        "en": "Speed Auto Change function may not"
+       },
+       "words": 129,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t056_aa0f1b11",
+       "title": {
+        "ru": "Type B",
+        "en": "Type B"
+       },
+       "words": 89,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t057_5dba5d34",
+       "title": {
+        "ru": "Always check your surroundings",
+        "en": "Always check your surroundings"
+       },
+       "words": 74,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t058_25fb5a14",
+       "title": {
+        "ru": "Remote Forward/Backward",
+        "en": "Remote Forward/Backward"
+       },
+       "words": 354,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t059_f2294bd2",
+       "title": {
+        "ru": "Push or pull starting the vehicle may",
+        "en": "Push or pull starting the vehicle may"
+       },
+       "words": 242,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t060_db9989a0",
+       "title": {
+        "ru": "Genesis Branded products should be",
+        "en": "Genesis Branded products should be"
+       },
+       "words": 264,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t061_962c11fe",
+       "title": {
+        "ru": "1. The Low Tire Pressure Telltale/ TPMS",
+        "en": "1. The Low Tire Pressure Telltale/ TPMS"
+       },
+       "words": 105,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t062_c1071677",
+       "title": {
+        "ru": "The TPMS Malfunction Indicator",
+        "en": "The TPMS Malfunction Indicator"
+       },
+       "words": 156,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t063_e1d85591",
+       "title": {
+        "ru": "Follow the instructions in this section",
+        "en": "Follow the instructions in this section"
+       },
+       "words": 120,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t064_8b02b884",
+       "title": {
+        "ru": "Check the tire pressure as soon as",
+        "en": "Check the tire pressure as soon as"
+       },
+       "words": 145,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t065_3c0986ae",
+       "title": {
+        "ru": "If You Have A Flat Tire (With Tire Mobility Kit",
+        "en": "If You Have A Flat Tire (With Tire Mobility Kit"
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t066_752002cb",
+       "title": {
+        "ru": "5. Unscrew the valve cap from the",
+        "en": "5. Unscrew the valve cap from the"
+       },
+       "words": 79,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t067_e435f087",
+       "title": {
+        "ru": "13.\tAfter driving approximately 7~10 km",
+        "en": "13.\tAfter driving approximately 7~10 km"
+       },
+       "words": 64,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t068_6c13964a",
+       "title": {
+        "ru": "To reduce the inflation pressure",
+        "en": "To reduce the inflation pressure"
+       },
+       "words": 85,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t069_700b92ba",
+       "title": {
+        "ru": "Failure to properly tighten the towing",
+        "en": "Failure to properly tighten the towing"
+       },
+       "words": 112,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t070_d41dc591",
+       "title": {
+        "ru": "Triangle reflector",
+        "en": "Triangle reflector"
+       },
+       "words": 186,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t071_be3bd2f0",
+       "title": {
+        "ru": "Parliament and of the Council of",
+        "en": "Parliament and of the Council of"
+       },
+       "words": 193,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t072_f3137074",
+       "title": {
+        "ru": "Modalities for exercising data",
+        "en": "Modalities for exercising data"
+       },
+       "words": 243,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t073_3300a0c6",
+       "title": {
+        "ru": "Types of data and its recipients",
+        "en": "Types of data and its recipients"
+       },
+       "words": 171,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t074_19e124b8",
+       "title": {
+        "ru": "The 999-based eCall in-vehicle system is",
+        "en": "The 999-based eCall in-vehicle system is"
+       },
+       "words": 226,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t075_edb3571e",
+       "title": {
+        "ru": "You should exercise the utmost care",
+        "en": "You should exercise the utmost care"
+       },
+       "words": 94,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t076_8f80b8b9",
+       "title": {
+        "ru": "Owner maintenance precautions",
+        "en": "Owner maintenance precautions"
+       },
+       "words": 246,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t077_29aa4989",
+       "title": {
+        "ru": "For Russia",
+        "en": "For Russia"
+       },
+       "words": 308,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t078_2026ad30",
+       "title": {
+        "ru": "Air cleaner filter",
+        "en": "Air cleaner filter"
+       },
+       "words": 171,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t079_60850c5e",
+       "title": {
+        "ru": "Vapor hose and fuel filler cap",
+        "en": "Vapor hose and fuel filler cap"
+       },
+       "words": 100,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t080_93cc3e8f",
+       "title": {
+        "ru": "Step back while the pressure is released",
+        "en": "Step back while the pressure is released"
+       },
+       "words": 119,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t081_b8e365ac",
+       "title": {
+        "ru": "When accumulated water is not drained",
+        "en": "When accumulated water is not drained"
+       },
+       "words": 87,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t082_c5215052",
+       "title": {
+        "ru": "Replace the cabin air filter by following",
+        "en": "Replace the cabin air filter by following"
+       },
+       "words": 88,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t083_9325741b",
+       "title": {
+        "ru": "This vehicle has a “hidden” wiper design",
+        "en": "This vehicle has a “hidden” wiper design"
+       },
+       "words": 320,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t084_ff6c646d",
+       "title": {
+        "ru": "Always use a tire pressure gauge to",
+        "en": "Always use a tire pressure gauge to"
+       },
+       "words": 243,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t085_861e5176",
+       "title": {
+        "ru": "Remove the valve cap from the tire valve",
+        "en": "Remove the valve cap from the tire valve"
+       },
+       "words": 310,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t086_64a6d8cd",
+       "title": {
+        "ru": "Example tire size designation",
+        "en": "Example tire size designation"
+       },
+       "words": 164,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t087_d178deaa",
+       "title": {
+        "ru": "For example",
+        "en": "For example"
+       },
+       "words": 137,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t088_b57a7614",
+       "title": {
+        "ru": "These grades are molded on the",
+        "en": "These grades are molded on the"
+       },
+       "words": 239,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t089_7ab624e4",
+       "title": {
+        "ru": "3. Open the fuse panel cover",
+        "en": "3. Open the fuse panel cover"
+       },
+       "words": 153,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t090_b631b1aa",
+       "title": {
+        "ru": "Not all fuse panel descriptions in this",
+        "en": "Not all fuse panel descriptions in this"
+       },
+       "words": 181,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t092_d710e0ab",
+       "title": {
+        "ru": "To help protect your vehicle’s finish from",
+        "en": "To help protect your vehicle’s finish from"
+       },
+       "words": 226,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t093_9f118c80",
+       "title": {
+        "ru": "By using the most advanced design",
+        "en": "By using the most advanced design"
+       },
+       "words": 239,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t094_b635b7c5",
+       "title": {
+        "ru": "The best way to prevent corrosion is",
+        "en": "The best way to prevent corrosion is"
+       },
+       "words": 274,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t095_1b235b4c",
+       "title": {
+        "ru": "Harden the gum with ice and",
+        "en": "Harden the gum with ice and"
+       },
+       "words": 241,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t096_07cdb1bf",
+       "title": {
+        "ru": "The Evaporative Emission Control System",
+        "en": "The Evaporative Emission Control System"
+       },
+       "words": 102,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t097_284764d5",
+       "title": {
+        "ru": "Low urea warning message",
+        "en": "Low urea warning message"
+       },
+       "words": 99,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t098_2bf7b0bb",
+       "title": {
+        "ru": "Urea system failure",
+        "en": "Urea system failure"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_gv70_general_t099_ca9fd7d6",
+       "title": {
+        "ru": "CR-Ni steel",
+        "en": "CR-Ni steel"
+       },
+       "words": 359,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "genesis_gv70_safety_t000_a3b50459",
+       "title": {
+        "ru": "Owner’S Manual",
+        "en": "Owner’S Manual"
+       },
+       "words": 536,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t001_08d5ad55",
+       "title": {
+        "ru": "Air bag hazards",
+        "en": "Air bag hazards"
+       },
+       "words": 165,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t002_66428b0c",
+       "title": {
+        "ru": "Always properly restrain children in the",
+        "en": "Always properly restrain children in the"
+       },
+       "words": 189,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t003_9b8627ca",
+       "title": {
+        "ru": "A Child Restraint System may only",
+        "en": "A Child Restraint System may only"
+       },
+       "words": 182,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t004_c2d26b8c",
+       "title": {
+        "ru": "Keep using Child Restraint Systems in",
+        "en": "Keep using Child Restraint Systems in"
+       },
+       "words": 138,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t005_001b20b5",
+       "title": {
+        "ru": "System to the vehicle. All Child",
+        "en": "System to the vehicle. All Child"
+       },
+       "words": 218,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t006_f57aacdd",
+       "title": {
+        "ru": "Restraint System easier and reduce",
+        "en": "Restraint System easier and reduce"
+       },
+       "words": 175,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t007_9c93031a",
+       "title": {
+        "ru": "4. Follow the instructions of the Child",
+        "en": "4. Follow the instructions of the Child"
+       },
+       "words": 108,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t008_273e3d22",
+       "title": {
+        "ru": "System’s manufacturer to firmly",
+        "en": "System’s manufacturer to firmly"
+       },
+       "words": 405,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t009_ddf80f5e",
+       "title": {
+        "ru": "Never install a Child Restraint System in",
+        "en": "Never install a Child Restraint System in"
+       },
+       "words": 282,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t010_4dbf4636",
+       "title": {
+        "ru": "If children accidently open the rear",
+        "en": "If children accidently open the rear"
+       },
+       "words": 464,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t011_4969b0c1",
+       "title": {
+        "ru": "3. Push the tailgate to open",
+        "en": "3. Push the tailgate to open"
+       },
+       "words": 224,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t012_4357d9a2",
+       "title": {
+        "ru": "Instructions about safety chains may",
+        "en": "Instructions about safety chains may"
+       },
+       "words": 328,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t014_4f1a82f5",
+       "title": {
+        "ru": "Emergency situations",
+        "en": "Emergency situations"
+       },
+       "words": 166,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t015_12540bc9",
+       "title": {
+        "ru": "1. Pull out the safety pin at the top of the",
+        "en": "1. Pull out the safety pin at the top of the"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t016_c02b9ca9",
+       "title": {
+        "ru": "Emergency situations",
+        "en": "Emergency situations"
+       },
+       "words": 475,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t017_ab1c57d7",
+       "title": {
+        "ru": "UAE emergency number 999. Additional",
+        "en": "UAE emergency number 999. Additional"
+       },
+       "words": 496,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "genesis_gv70_safety_t018_c1671d82",
+       "title": {
+        "ru": "Tire care",
+        "en": "Tire care"
+       },
+       "words": 193,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "genesis_gv70_drivetrain_t000_375b507e",
+       "title": {
+        "ru": "Operation in foreign countries",
+        "en": "Operation in foreign countries"
+       },
+       "words": 79,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t001_03f36bcc",
+       "title": {
+        "ru": "Right-hand drive",
+        "en": "Right-hand drive"
+       },
+       "words": 446,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t003_53209052",
+       "title": {
+        "ru": "The odometer indicates the total",
+        "en": "The odometer indicates the total"
+       },
+       "words": 184,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t004_031bb69a",
+       "title": {
+        "ru": "Driving Assist",
+        "en": "Driving Assist"
+       },
+       "words": 142,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t005_ce237e8c",
+       "title": {
+        "ru": "3. After selecting the items to be",
+        "en": "3. After selecting the items to be"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t006_5eaa6455",
+       "title": {
+        "ru": "1. Turn on the vehicle",
+        "en": "1. Turn on the vehicle"
+       },
+       "words": 177,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t007_e6da571e",
+       "title": {
+        "ru": "Such a burn to the driver could cause",
+        "en": "Such a burn to the driver could cause"
+       },
+       "words": 266,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t009_5d312942",
+       "title": {
+        "ru": "You are much more likely to have a",
+        "en": "You are much more likely to have a"
+       },
+       "words": 167,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t010_15060197",
+       "title": {
+        "ru": "Shift-lock system",
+        "en": "Shift-lock system"
+       },
+       "words": 186,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t011_b83f1a8b",
+       "title": {
+        "ru": "Take the following precautions when",
+        "en": "Take the following precautions when"
+       },
+       "words": 263,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t012_8b21bc8b",
+       "title": {
+        "ru": "Multi terrain mode",
+        "en": "Multi terrain mode"
+       },
+       "words": 469,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t013_03555c36",
+       "title": {
+        "ru": "An AWD vehicle should not be tested",
+        "en": "An AWD vehicle should not be tested"
+       },
+       "words": 150,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t014_b1378549",
+       "title": {
+        "ru": "Launch Control will be automatically",
+        "en": "Launch Control will be automatically"
+       },
+       "words": 200,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t015_0933ca65",
+       "title": {
+        "ru": "Fuel efficiency varies according",
+        "en": "Fuel efficiency varies according"
+       },
+       "words": 219,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t016_ad217b8d",
+       "title": {
+        "ru": "If your trailer weighs more than the",
+        "en": "If your trailer weighs more than the"
+       },
+       "words": 86,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t017_7c1e6af8",
+       "title": {
+        "ru": "Avoidance Assist will automatically",
+        "en": "Avoidance Assist will automatically"
+       },
+       "words": 288,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t018_f2c0af64",
+       "title": {
+        "ru": "If the driver presses the electronic child",
+        "en": "If the driver presses the electronic child"
+       },
+       "words": 171,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t019_8ce29299",
+       "title": {
+        "ru": "Basic function",
+        "en": "Basic function"
+       },
+       "words": 98,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t020_0322e820",
+       "title": {
+        "ru": "Inattentive driving",
+        "en": "Inattentive driving"
+       },
+       "words": 454,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t021_8148cea8",
+       "title": {
+        "ru": "If you pass a tollgate or intersection",
+        "en": "If you pass a tollgate or intersection"
+       },
+       "words": 224,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t022_f1a4a087",
+       "title": {
+        "ru": "When there is an object right in front",
+        "en": "When there is an object right in front"
+       },
+       "words": 206,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t023_4fb736a2",
+       "title": {
+        "ru": "Drive mode",
+        "en": "Drive mode"
+       },
+       "words": 334,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t024_87c41287",
+       "title": {
+        "ru": "Control to react to a vehicle actually",
+        "en": "Control to react to a vehicle actually"
+       },
+       "words": 238,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t025_9610ef4d",
+       "title": {
+        "ru": "Navigation-based Smart Cruise",
+        "en": "Navigation-based Smart Cruise"
+       },
+       "words": 246,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t026_384ea2bf",
+       "title": {
+        "ru": "Operating conditions",
+        "en": "Operating conditions"
+       },
+       "words": 150,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t027_5fdadd28",
+       "title": {
+        "ru": "Surround View Monitor will turn off",
+        "en": "Surround View Monitor will turn off"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t028_f5c594fc",
+       "title": {
+        "ru": "Warning Volume of Reverse Parking",
+        "en": "Warning Volume of Reverse Parking"
+       },
+       "words": 224,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t029_d8854f19",
+       "title": {
+        "ru": "Forward Parking Distance Warning",
+        "en": "Forward Parking Distance Warning"
+       },
+       "words": 259,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t030_19ffc8fb",
+       "title": {
+        "ru": "Driver assistance system",
+        "en": "Driver assistance system"
+       },
+       "words": 354,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t031_5f8059f0",
+       "title": {
+        "ru": "Take the following precautions when",
+        "en": "Take the following precautions when"
+       },
+       "words": 331,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t032_bcab7cef",
+       "title": {
+        "ru": "Indicator will illuminate after blinking",
+        "en": "Indicator will illuminate after blinking"
+       },
+       "words": 257,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t033_42cea742",
+       "title": {
+        "ru": "Do not attempt to drive your vehicle if",
+        "en": "Do not attempt to drive your vehicle if"
+       },
+       "words": 297,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t034_65e9709b",
+       "title": {
+        "ru": "Pan-European Ecall System (For Europe, If Equipped)",
+        "en": "Pan-European Ecall System (For Europe, If Equipped)"
+       },
+       "words": 159,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t035_b9b9a532",
+       "title": {
+        "ru": "Automatic transmission fluid",
+        "en": "Automatic transmission fluid"
+       },
+       "words": 117,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t036_5374e17a",
+       "title": {
+        "ru": "Do not use a screwdriver or any other",
+        "en": "Do not use a screwdriver or any other"
+       },
+       "words": 86,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "genesis_gv70_drivetrain_t037_a8a6e964",
+       "title": {
+        "ru": "This is particularly true if you wash your",
+        "en": "This is particularly true if you wash your"
+       },
+       "words": 41,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "genesis_gv70_sensors_t001_d6127184",
+       "title": {
+        "ru": "With rollover sensor",
+        "en": "With rollover sensor"
+       },
+       "words": 403,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t002_f3833446",
+       "title": {
+        "ru": "Declaration of Conformity",
+        "en": "Declaration of Conformity"
+       },
+       "words": 270,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t003_8eaa356c",
+       "title": {
+        "ru": "The rain sensor located on the upper",
+        "en": "The rain sensor located on the upper"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t004_dc23a3c6",
+       "title": {
+        "ru": "Detecting sensor",
+        "en": "Detecting sensor"
+       },
+       "words": 966,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t005_38ff7ec1",
+       "title": {
+        "ru": "The illustration above shows the image",
+        "en": "The illustration above shows the image"
+       },
+       "words": 705,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t006_c9cbe929",
+       "title": {
+        "ru": "Assist may not operate for 15 seconds",
+        "en": "Assist may not operate for 15 seconds"
+       },
+       "words": 196,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t007_bf4cbccf",
+       "title": {
+        "ru": "Attention Warning may not work",
+        "en": "Attention Warning may not work"
+       },
+       "words": 307,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t008_815315e3",
+       "title": {
+        "ru": "For more details on the precautions of",
+        "en": "For more details on the precautions of"
+       },
+       "words": 709,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t009_7a44fde0",
+       "title": {
+        "ru": "Rear View Monitor shows the area",
+        "en": "Rear View Monitor shows the area"
+       },
+       "words": 112,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t010_0073d9b7",
+       "title": {
+        "ru": "Limitations of Rear View Monitor",
+        "en": "Limitations of Rear View Monitor"
+       },
+       "words": 243,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t011_825c834a",
+       "title": {
+        "ru": "Assistance → Parking Safety → Surround",
+        "en": "Assistance → Parking Safety → Surround"
+       },
+       "words": 159,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t012_07a0fa1a",
+       "title": {
+        "ru": "Always check your surroundings",
+        "en": "Always check your surroundings"
+       },
+       "words": 137,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t013_71c53015",
+       "title": {
+        "ru": "Beeps more",
+        "en": "Beeps more"
+       },
+       "words": 520,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t014_f19b4b89",
+       "title": {
+        "ru": "Forward/Reverse Parking Distance",
+        "en": "Forward/Reverse Parking Distance"
+       },
+       "words": 390,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t015_999d9fb5",
+       "title": {
+        "ru": "Limitations of Forward/Reverse",
+        "en": "Limitations of Forward/Reverse"
+       },
+       "words": 302,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t016_d07a4907",
+       "title": {
+        "ru": "The rear ultrasonic sensors are located",
+        "en": "The rear ultrasonic sensors are located"
+       },
+       "words": 300,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t017_1b9a26e9",
+       "title": {
+        "ru": "Assist may not operate properly",
+        "en": "Assist may not operate properly"
+       },
+       "words": 226,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t018_59f6022a",
+       "title": {
+        "ru": "Parking function may be operated",
+        "en": "Parking function may be operated"
+       },
+       "words": 235,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t019_1a01fad0",
+       "title": {
+        "ru": "Reverse Parking Distance warning will automatically",
+        "en": "Reverse Parking Distance warning will automatically"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t020_b259e17e",
+       "title": {
+        "ru": "Parking Assist may not be able to",
+        "en": "Parking Assist may not be able to"
+       },
+       "words": 437,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t021_bb2fb078",
+       "title": {
+        "ru": "Parking Assist. Always look around and",
+        "en": "Parking Assist. Always look around and"
+       },
+       "words": 124,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t022_67dee34f",
+       "title": {
+        "ru": "If Remote Smart Parking Assist is",
+        "en": "If Remote Smart Parking Assist is"
+       },
+       "words": 165,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t023_c43bf43b",
+       "title": {
+        "ru": "Declaration Of Conformity (If Equipped)",
+        "en": "Declaration Of Conformity (If Equipped)"
+       },
+       "words": 177,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_gv70_sensors_t024_46eff1cc",
+       "title": {
+        "ru": "MTS E-Call Module",
+        "en": "MTS E-Call Module"
+       },
+       "words": 162,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "genesis_gv70_infotainment_t001_5a6af246",
+       "title": {
+        "ru": "System malfunction",
+        "en": "System malfunction"
+       },
+       "words": 142,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t002_305e57df",
+       "title": {
+        "ru": "Tire Pressure Monitoring System",
+        "en": "Tire Pressure Monitoring System"
+       },
+       "words": 102,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t003_7cd42796",
+       "title": {
+        "ru": "Turn by Turn",
+        "en": "Turn by Turn"
+       },
+       "words": 114,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t004_4dc3e91f",
+       "title": {
+        "ru": "6. When the fingerprint enrollment",
+        "en": "6. When the fingerprint enrollment"
+       },
+       "words": 216,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t005_cea91fc1",
+       "title": {
+        "ru": "Head-up display settings",
+        "en": "Head-up display settings"
+       },
+       "words": 204,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t006_e5f911f1",
+       "title": {
+        "ru": "Pull out the cargo security screen with the",
+        "en": "Pull out the cargo security screen with the"
+       },
+       "words": 179,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t007_eab47116",
+       "title": {
+        "ru": "This message is displayed when the shift",
+        "en": "This message is displayed when the shift"
+       },
+       "words": 116,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t008_a3e53dd1",
+       "title": {
+        "ru": "Settings after parking the vehicle at a",
+        "en": "Settings after parking the vehicle at a"
+       },
+       "words": 190,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t009_c4f6a59e",
+       "title": {
+        "ru": "Warning overspeed",
+        "en": "Warning overspeed"
+       },
+       "words": 176,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t010_ce1ce60d",
+       "title": {
+        "ru": "When Based on Driving Style is",
+        "en": "When Based on Driving Style is"
+       },
+       "words": 121,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t011_cddc0b34",
+       "title": {
+        "ru": "If temporary deceleration is required in",
+        "en": "If temporary deceleration is required in"
+       },
+       "words": 179,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t012_b8a61d85",
+       "title": {
+        "ru": "Highway Curve Zone Auto Slowdown",
+        "en": "Highway Curve Zone Auto Slowdown"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t013_920d15cf",
+       "title": {
+        "ru": "Highway Driving Assist will be displayed",
+        "en": "Highway Driving Assist will be displayed"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t014_d718eb2f",
+       "title": {
+        "ru": "Extended rear view monitor",
+        "en": "Extended rear view monitor"
+       },
+       "words": 183,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t015_84e691e9",
+       "title": {
+        "ru": "Rear View Parking Guidance",
+        "en": "Rear View Parking Guidance"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t016_647a4367",
+       "title": {
+        "ru": "Rear view",
+        "en": "Rear view"
+       },
+       "words": 204,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t017_914e3077",
+       "title": {
+        "ru": "Surround View Monitor malfunction",
+        "en": "Surround View Monitor malfunction"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t018_bc741008",
+       "title": {
+        "ru": "If Remote Smart Parking Assist cannot",
+        "en": "If Remote Smart Parking Assist cannot"
+       },
+       "words": 218,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t019_fb5252a3",
+       "title": {
+        "ru": "Genesis Branded products as soon as",
+        "en": "Genesis Branded products as soon as"
+       },
+       "words": 164,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_gv70_infotainment_t020_516726e8",
+       "title": {
+        "ru": "Type B",
+        "en": "Type B"
+       },
+       "words": 79,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

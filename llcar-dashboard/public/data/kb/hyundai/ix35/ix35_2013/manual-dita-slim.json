@@ -1,0 +1,2625 @@
+{
+ "version": "1.0",
+ "model": "ix35",
+ "manuals": [
+  {
+   "model": "ix35",
+   "label": {
+    "ru": "Hyundai ix35 — Руководство по ремонту",
+    "en": "Hyundai ix35 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "hyundai_ix35_engine_t000_9fbbedf9",
+       "title": {
+        "ru": "Introduction",
+        "en": "Introduction"
+       },
+       "words": 1129,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t001_8a902b4b",
+       "title": {
+        "ru": "2. Make sure that all doors (and tailgate)",
+        "en": "2. Make sure that all doors (and tailgate)"
+       },
+       "words": 2359,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t002_36818dac",
+       "title": {
+        "ru": "3. Lower the bonnet until it is about 30",
+        "en": "3. Lower the bonnet until it is about 30"
+       },
+       "words": 1498,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t003_a8590200",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 863,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t004_8210ddb1",
+       "title": {
+        "ru": "2. With the engine off, check the engine",
+        "en": "2. With the engine off, check the engine"
+       },
+       "words": 1696,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t005_f5439ed2",
+       "title": {
+        "ru": "3. The engine stops.",
+        "en": "3. The engine stops."
+       },
+       "words": 1284,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t006_9c73b8b8",
+       "title": {
+        "ru": "WARNING - ENGINE EXHAUST CAN BE DANGEROUS!",
+        "en": "WARNING - ENGINE EXHAUST CAN BE DANGEROUS!"
+       },
+       "words": 1280,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t007_63076666",
+       "title": {
+        "ru": "3. Turn the ignition switch to the ON posi-",
+        "en": "3. Turn the ignition switch to the ON posi-"
+       },
+       "words": 614,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t008_0b0131dd",
+       "title": {
+        "ru": "2. After high speed or extended driving,",
+        "en": "2. After high speed or extended driving,"
+       },
+       "words": 1305,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t009_d8ee1e58",
+       "title": {
+        "ru": "3.Have all passengers get out of the",
+        "en": "3.Have all passengers get out of the"
+       },
+       "words": 1665,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t010_6169f113",
+       "title": {
+        "ru": "5. Do not push or pull the vehicle to start",
+        "en": "5. Do not push or pull the vehicle to start"
+       },
+       "words": 583,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t011_0fd68521",
+       "title": {
+        "ru": "2. Shift the shift lever into R",
+        "en": "2. Shift the shift lever into R"
+       },
+       "words": 1292,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t012_b9612417",
+       "title": {
+        "ru": "EXPLANATION OF SCHEDULED MAINTENANCE ITEMS",
+        "en": "EXPLANATION OF SCHEDULED MAINTENANCE ITEMS"
+       },
+       "words": 1345,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t013_541ba7ad",
+       "title": {
+        "ru": "2. Extract air from the fuel filter by remov-",
+        "en": "2. Extract air from the fuel filter by remov-"
+       },
+       "words": 863,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t014_a4366fbc",
+       "title": {
+        "ru": "TYRES AND WHEELS",
+        "en": "TYRES AND WHEELS"
+       },
+       "words": 663,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t015_b63e82cc",
+       "title": {
+        "ru": "5. Push in a new fuse of the same rating,",
+        "en": "5. Push in a new fuse of the same rating,"
+       },
+       "words": 831,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t016_46832fa7",
+       "title": {
+        "ru": "APPEARANCE CARE",
+        "en": "APPEARANCE CARE"
+       },
+       "words": 486,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t017_1e38de89",
+       "title": {
+        "ru": "RECOMMENDED LUBRICANTS AND CAPACITIES",
+        "en": "RECOMMENDED LUBRICANTS AND CAPACITIES"
+       },
+       "words": 1186,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t018_59672126",
+       "title": {
+        "ru": "3. Leaded fuel or leaded gasohol.",
+        "en": "3. Leaded fuel or leaded gasohol."
+       },
+       "words": 1166,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t019_6e2e88c7",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 1659,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t020_e4722054",
+       "title": {
+        "ru": "2. Go to the front of the vehicle, raise the",
+        "en": "2. Go to the front of the vehicle, raise the"
+       },
+       "words": 1667,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t021_494fea08",
+       "title": {
+        "ru": "1. Before closing the hood, check the fol-",
+        "en": "1. Before closing the hood, check the fol-"
+       },
+       "words": 1228,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t022_39587d1c",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1292,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t023_aa863c66",
+       "title": {
+        "ru": "2. With the engine off, check the engine",
+        "en": "2. With the engine off, check the engine"
+       },
+       "words": 1951,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t024_5e31501f",
+       "title": {
+        "ru": "WARNING - ENGINE EXHAUST CAN BE DANGEROUS!",
+        "en": "WARNING - ENGINE EXHAUST CAN BE DANGEROUS!"
+       },
+       "words": 2174,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t025_3140a3ac",
+       "title": {
+        "ru": "2. After high speed or extended driving,",
+        "en": "2. After high speed or extended driving,"
+       },
+       "words": 1086,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t026_e8fd00fe",
+       "title": {
+        "ru": "ACTIVE ECO SYSTEM (IF EQUIPPED)",
+        "en": "ACTIVE ECO SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1995,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t027_1655df06",
+       "title": {
+        "ru": "5. Start the engine of the vehicle with the",
+        "en": "5. Start the engine of the vehicle with the"
+       },
+       "words": 776,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t028_e4c0c384",
+       "title": {
+        "ru": "5. Adjust the tire pressures to the speci-",
+        "en": "5. Adjust the tire pressures to the speci-"
+       },
+       "words": 1967,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t029_2543b780",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE - GASOLINE 2.0 ENGINE, FOR EUROPE",
+        "en": "NORMAL MAINTENANCE SCHEDULE - GASOLINE 2.0 ENGINE, FOR EUROPE"
+       },
+       "words": 1817,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t030_7d367718",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE - EXCEPT EUROPE (CONT.)",
+        "en": "NORMAL MAINTENANCE SCHEDULE - EXCEPT EUROPE (CONT.)"
+       },
+       "words": 1200,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t031_734a1865",
+       "title": {
+        "ru": "MAINTENANCE UNDER SEVERE USAGE CONDITIONS - EXCEPT EUROPE",
+        "en": "MAINTENANCE UNDER SEVERE USAGE CONDITIONS - EXCEPT EUROPE"
+       },
+       "words": 1197,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t032_2380a085",
+       "title": {
+        "ru": "EXPLANATION OF SCHEDULED MAINTENANCE ITEMS",
+        "en": "EXPLANATION OF SCHEDULED MAINTENANCE ITEMS"
+       },
+       "words": 1294,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t033_e5bebd55",
+       "title": {
+        "ru": "TIRES AND WHEELS",
+        "en": "TIRES AND WHEELS"
+       },
+       "words": 720,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t034_2d542ec7",
+       "title": {
+        "ru": "5. Push in a new fuse of the same rating,",
+        "en": "5. Push in a new fuse of the same rating,"
+       },
+       "words": 337,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t035_8bdc5b9a",
+       "title": {
+        "ru": "RECOMMENDED LUBRICANTS AND CAPACITIES",
+        "en": "RECOMMENDED LUBRICANTS AND CAPACITIES"
+       },
+       "words": 864,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t036_e7fb165d",
+       "title": {
+        "ru": "ENGINE NUMBER",
+        "en": "ENGINE NUMBER"
+       },
+       "words": 1309,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t037_131d8f15",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 2117,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t038_b3b16d39",
+       "title": {
+        "ru": "2. Go to the front of the vehicle, raise the",
+        "en": "2. Go to the front of the vehicle, raise the"
+       },
+       "words": 1571,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t039_147080c8",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1496,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t040_eb4dd306",
+       "title": {
+        "ru": "2. With the engine off, check the engine",
+        "en": "2. With the engine off, check the engine"
+       },
+       "words": 1957,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t041_6e1b8c49",
+       "title": {
+        "ru": "WARNING - ENGINE EXHAUST CAN BE DANGEROUS!",
+        "en": "WARNING - ENGINE EXHAUST CAN BE DANGEROUS!"
+       },
+       "words": 2313,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t042_68152ec3",
+       "title": {
+        "ru": "ENGINE START/STOP BUTTON (IF EQUIPPED)",
+        "en": "ENGINE START/STOP BUTTON (IF EQUIPPED)"
+       },
+       "words": 1405,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t043_549ba637",
+       "title": {
+        "ru": "4. Do not attempt to push or tow start the",
+        "en": "4. Do not attempt to push or tow start the"
+       },
+       "words": 1310,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t044_bc208b55",
+       "title": {
+        "ru": "3.Turn off all unnecessary electrical loads.",
+        "en": "3.Turn off all unnecessary electrical loads."
+       },
+       "words": 1148,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t045_7cd7bab8",
+       "title": {
+        "ru": "EXPLANATION OF SCHEDULED MAINTENANCE ITEMS",
+        "en": "EXPLANATION OF SCHEDULED MAINTENANCE ITEMS"
+       },
+       "words": 1674,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t046_fa366097",
+       "title": {
+        "ru": "5. Pull the dipstick out again and check",
+        "en": "5. Pull the dipstick out again and check"
+       },
+       "words": 939,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t047_2072ba5b",
+       "title": {
+        "ru": "TYRES AND WHEELS",
+        "en": "TYRES AND WHEELS"
+       },
+       "words": 1137,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t048_527d0956",
+       "title": {
+        "ru": "5. Push in a new fuse of the same rating,",
+        "en": "5. Push in a new fuse of the same rating,"
+       },
+       "words": 478,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t049_34d6fda1",
+       "title": {
+        "ru": "RECOMMENDED LUBRICANTS AND CAPACITIES",
+        "en": "RECOMMENDED LUBRICANTS AND CAPACITIES"
+       },
+       "words": 1186,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_ix35_engine_t050_312e65b4",
+       "title": {
+        "ru": "HYPOID GEAR OIL API GL-5, SAE 75W/90",
+        "en": "HYPOID GEAR OIL API GL-5, SAE 75W/90"
+       },
+       "words": 348,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "hyundai_ix35_brakes_t000_ad0a1898",
+       "title": {
+        "ru": "6. Brake/clutch* fluid reservoir ............7-26",
+        "en": "6. Brake/clutch* fluid reservoir ............7-26"
+       },
+       "words": 1054,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t001_79d9534b",
+       "title": {
+        "ru": "3. Do not drive the vehicle if leaks are",
+        "en": "3. Do not drive the vehicle if leaks are"
+       },
+       "words": 1205,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t002_c052e459",
+       "title": {
+        "ru": "2. Manual Transaxle - Depress the",
+        "en": "2. Manual Transaxle - Depress the"
+       },
+       "words": 888,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t003_6b2d880c",
+       "title": {
+        "ru": "4. Continue depressing the brake pedal",
+        "en": "4. Continue depressing the brake pedal"
+       },
+       "words": 1302,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t004_0705cbdb",
+       "title": {
+        "ru": "BRAKE SYSTEM",
+        "en": "BRAKE SYSTEM"
+       },
+       "words": 1754,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t005_8b6ffd17",
+       "title": {
+        "ru": "(ESC OFF",
+        "en": "(ESC OFF"
+       },
+       "words": 1034,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t006_1249e4bf",
+       "title": {
+        "ru": "TRAILER TOWING",
+        "en": "TRAILER TOWING"
+       },
+       "words": 2066,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t007_c5639631",
+       "title": {
+        "ru": "1.Take your foot off the accelerator pedal",
+        "en": "1.Take your foot off the accelerator pedal"
+       },
+       "words": 984,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t008_e2fc822b",
+       "title": {
+        "ru": "2. Place the shift lever in P (automatic",
+        "en": "2. Place the shift lever in P (automatic"
+       },
+       "words": 2134,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t009_23816e4a",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE (CONT.)",
+        "en": "NORMAL MAINTENANCE SCHEDULE (CONT.)"
+       },
+       "words": 1465,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t010_82d5099d",
+       "title": {
+        "ru": "4. Insert a new bulb by inserting it into",
+        "en": "4. Insert a new bulb by inserting it into"
+       },
+       "words": 481,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t011_4c69b45e",
+       "title": {
+        "ru": "6. Brake/clutch* fluid reservoir ............7-55",
+        "en": "6. Brake/clutch* fluid reservoir ............7-55"
+       },
+       "words": 1235,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t012_4ee0c95d",
+       "title": {
+        "ru": "3. Do not drive the vehicle if leaks are",
+        "en": "3. Do not drive the vehicle if leaks are"
+       },
+       "words": 1373,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t013_6c05c42a",
+       "title": {
+        "ru": "2. Objects which tend to absorb the sen-",
+        "en": "2. Objects which tend to absorb the sen-"
+       },
+       "words": 979,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t014_0eca54c4",
+       "title": {
+        "ru": "5. Steering wheel control support",
+        "en": "5. Steering wheel control support"
+       },
+       "words": 826,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t015_38746a87",
+       "title": {
+        "ru": "2. Manual Transaxle - Depress the",
+        "en": "2. Manual Transaxle - Depress the"
+       },
+       "words": 1117,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t016_3861883e",
+       "title": {
+        "ru": "4. Continue depressing the brake pedal",
+        "en": "4. Continue depressing the brake pedal"
+       },
+       "words": 992,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t017_67a555fd",
+       "title": {
+        "ru": "BRAKE SYSTEM",
+        "en": "BRAKE SYSTEM"
+       },
+       "words": 1888,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t018_09fff0b9",
+       "title": {
+        "ru": "WARNING - ABS",
+        "en": "WARNING - ABS"
+       },
+       "words": 2113,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t019_d881e2b0",
+       "title": {
+        "ru": "1.Take your foot off the accelerator pedal",
+        "en": "1.Take your foot off the accelerator pedal"
+       },
+       "words": 2337,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t020_915fb741",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE - GASOLINE 1.6 ENGINE/DIESEL ENGINE, FOR EUROPE (CON",
+        "en": "NORMAL MAINTENANCE SCHEDULE - GASOLINE 1.6 ENGINE/DIESEL ENGINE, FOR EUROPE (CON"
+       },
+       "words": 1251,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t021_e6e6e581",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE - GASOLINE 1.6 ENGINE/DIESEL ENGINE, FOR EUROPE (CON",
+        "en": "NORMAL MAINTENANCE SCHEDULE - GASOLINE 1.6 ENGINE/DIESEL ENGINE, FOR EUROPE (CON"
+       },
+       "words": 2334,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t022_fcd53ac0",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE - FOR RUSSIA (CONT.)",
+        "en": "NORMAL MAINTENANCE SCHEDULE - FOR RUSSIA (CONT.)"
+       },
+       "words": 1679,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t023_344665c8",
+       "title": {
+        "ru": "1. Turn off the engine and open the hood.",
+        "en": "1. Turn off the engine and open the hood."
+       },
+       "words": 1497,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t024_fb61d91e",
+       "title": {
+        "ru": "6. Brake/clutch* fluid reservoir ............7-19",
+        "en": "6. Brake/clutch* fluid reservoir ............7-19"
+       },
+       "words": 1235,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t025_d7da394f",
+       "title": {
+        "ru": "3. Do not drive the vehicle if leaks are",
+        "en": "3. Do not drive the vehicle if leaks are"
+       },
+       "words": 1443,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t026_3f8afb2d",
+       "title": {
+        "ru": "START",
+        "en": "START"
+       },
+       "words": 1291,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t027_7bd14419",
+       "title": {
+        "ru": "AUTOMATIC TRANSAXLE (IF EQUIPPED)",
+        "en": "AUTOMATIC TRANSAXLE (IF EQUIPPED)"
+       },
+       "words": 2052,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t028_2821fde3",
+       "title": {
+        "ru": "(ESC OFF",
+        "en": "(ESC OFF"
+       },
+       "words": 2131,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t029_c325af96",
+       "title": {
+        "ru": "1. Bring the car to rest as soon as it is",
+        "en": "1. Bring the car to rest as soon as it is"
+       },
+       "words": 2164,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t030_e00e8a23",
+       "title": {
+        "ru": "5. Block both the front and rear of the",
+        "en": "5. Block both the front and rear of the"
+       },
+       "words": 2057,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_ix35_brakes_t031_46cebfed",
+       "title": {
+        "ru": "4. Insert a new bulb by inserting it into",
+        "en": "4. Insert a new bulb by inserting it into"
+       },
+       "words": 1357,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "hyundai_ix35_hvac_t000_81d52555",
+       "title": {
+        "ru": "7. Air intake control button",
+        "en": "7. Air intake control button"
+       },
+       "words": 874,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_ix35_hvac_t001_413e66e9",
+       "title": {
+        "ru": "6. If air conditioning is desired, turn the",
+        "en": "6. If air conditioning is desired, turn the"
+       },
+       "words": 937,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_ix35_hvac_t002_a9d9f9c9",
+       "title": {
+        "ru": "CLIMATE CONTROL AIR FILTER (IF EQUIPPED)",
+        "en": "CLIMATE CONTROL AIR FILTER (IF EQUIPPED)"
+       },
+       "words": 422,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_ix35_hvac_t003_2d75cc85",
+       "title": {
+        "ru": "7. Air intake control button",
+        "en": "7. Air intake control button"
+       },
+       "words": 950,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_ix35_hvac_t004_9d6fcb71",
+       "title": {
+        "ru": "6. If air conditioning is desired, turn the",
+        "en": "6. If air conditioning is desired, turn the"
+       },
+       "words": 869,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_ix35_hvac_t005_86a7ae02",
+       "title": {
+        "ru": "7. Air intake control button",
+        "en": "7. Air intake control button"
+       },
+       "words": 661,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_ix35_hvac_t006_83c07248",
+       "title": {
+        "ru": "3. If it is near of at L (Low), add enough",
+        "en": "3. If it is near of at L (Low), add enough"
+       },
+       "words": 770,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "hyundai_ix35_body_t000_6c291b45",
+       "title": {
+        "ru": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)",
+        "en": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1923,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_ix35_body_t001_d66259c3",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1479,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_ix35_body_t002_c3b43b11",
+       "title": {
+        "ru": "WINTER DRIVING",
+        "en": "WINTER DRIVING"
+       },
+       "words": 1296,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_ix35_body_t003_9fecc823",
+       "title": {
+        "ru": "3. Exhaust emission control",
+        "en": "3. Exhaust emission control"
+       },
+       "words": 599,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_ix35_body_t004_f2921056",
+       "title": {
+        "ru": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)",
+        "en": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1687,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_ix35_body_t005_2706c90e",
+       "title": {
+        "ru": "OLM039040/OLM039041/OEL033061/OEL039044",
+        "en": "OLM039040/OLM039041/OEL033061/OEL039044"
+       },
+       "words": 1521,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_ix35_body_t006_9ccbb319",
+       "title": {
+        "ru": "3. Exhaust emission control",
+        "en": "3. Exhaust emission control"
+       },
+       "words": 1566,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_ix35_body_t007_e28a88ff",
+       "title": {
+        "ru": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)",
+        "en": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1712,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_ix35_body_t008_40fb58cf",
+       "title": {
+        "ru": "OLM032312L",
+        "en": "OLM032312L"
+       },
+       "words": 1845,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_ix35_body_t009_09ad7099",
+       "title": {
+        "ru": "1. After driving approximately 4~6",
+        "en": "1. After driving approximately 4~6"
+       },
+       "words": 515,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "hyundai_ix35_lighting_t000_8eb9c4dd",
+       "title": {
+        "ru": "9. Air bag warning light",
+        "en": "9. Air bag warning light"
+       },
+       "words": 1078,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t001_b4f3cbbb",
+       "title": {
+        "ru": "3. Rear Light Sensor",
+        "en": "3. Rear Light Sensor"
+       },
+       "words": 1289,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t002_88fa36fa",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1261,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t003_95bb1a99",
+       "title": {
+        "ru": "3. Set the air intake control at \"Fresh\", the air flow control at \"Floor\" or \"Fa",
+        "en": "3. Set the air intake control at \"Fresh\", the air flow control at \"Floor\" or \"Fa"
+       },
+       "words": 1668,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t004_359385c2",
+       "title": {
+        "ru": "2. Install the new blade assembly by",
+        "en": "2. Install the new blade assembly by"
+       },
+       "words": 734,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t005_743d2f9c",
+       "title": {
+        "ru": "3. Draw vertical lines (Vertical lines pass-",
+        "en": "3. Draw vertical lines (Vertical lines pass-"
+       },
+       "words": 637,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t006_87d70173",
+       "title": {
+        "ru": "3. When aiming the low beam, vertical aiming should be adjusted after adjusting ",
+        "en": "3. When aiming the low beam, vertical aiming should be adjusted after adjusting "
+       },
+       "words": 447,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t007_01e90ec3",
+       "title": {
+        "ru": "12. Passenger’s front air bag ON/OFF",
+        "en": "12. Passenger’s front air bag ON/OFF"
+       },
+       "words": 1201,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t008_20164267",
+       "title": {
+        "ru": "LCD DISPLAY",
+        "en": "LCD DISPLAY"
+       },
+       "words": 1377,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t009_bfdc2fb5",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1282,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t010_b7b3e54a",
+       "title": {
+        "ru": "3. Set the air intake control at \"Fresh\", the air flow control at \"Floor\" or \"Fa",
+        "en": "3. Set the air intake control at \"Fresh\", the air flow control at \"Floor\" or \"Fa"
+       },
+       "words": 1264,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t011_10a3dd62",
+       "title": {
+        "ru": "6. Install a new headlight bulb and snap",
+        "en": "6. Install a new headlight bulb and snap"
+       },
+       "words": 1097,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t012_99236bd3",
+       "title": {
+        "ru": "3. When aiming the low beam, vertical aiming should be adjusted after adjusting ",
+        "en": "3. When aiming the low beam, vertical aiming should be adjusted after adjusting "
+       },
+       "words": 528,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t013_1c15cb53",
+       "title": {
+        "ru": "1. Turn the front fog lamp on with the driver (75 kg) aboard.",
+        "en": "1. Turn the front fog lamp on with the driver (75 kg) aboard."
+       },
+       "words": 557,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t014_8d5dc54b",
+       "title": {
+        "ru": "12. Passenger’s front air bag ON/OFF",
+        "en": "12. Passenger’s front air bag ON/OFF"
+       },
+       "words": 1231,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t015_f343b2aa",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1281,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t016_3000affd",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1321,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t017_199cb05b",
+       "title": {
+        "ru": "3. Move the lever (1) down (to SET-), and",
+        "en": "3. Move the lever (1) down (to SET-), and"
+       },
+       "words": 1330,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t018_50805cfc",
+       "title": {
+        "ru": "7. Reinstall the front bumper under cover.",
+        "en": "7. Reinstall the front bumper under cover."
+       },
+       "words": 532,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_ix35_lighting_t019_1d6e8287",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 284,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "hyundai_ix35_adas_t000_30653783",
+       "title": {
+        "ru": "REAR PARKING ASSIST SYSTEM (IF EQUIPPED)",
+        "en": "REAR PARKING ASSIST SYSTEM (IF EQUIPPED)"
+       },
+       "words": 368,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "hyundai_ix35_adas_t001_41a5e735",
+       "title": {
+        "ru": "6.Smart parking assist system complete",
+        "en": "6.Smart parking assist system complete"
+       },
+       "words": 437,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "hyundai_ix35_adas_t002_4b3df6c3",
+       "title": {
+        "ru": "1. Cruise indicator",
+        "en": "1. Cruise indicator"
+       },
+       "words": 96,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "hyundai_ix35_interior_t000_de0b7146",
+       "title": {
+        "ru": "3. Release the lever and make sure the",
+        "en": "3. Release the lever and make sure the"
+       },
+       "words": 1060,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t001_1145b080",
+       "title": {
+        "ru": "5. Individuals taking medication",
+        "en": "5. Individuals taking medication"
+       },
+       "words": 887,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t002_749ba31b",
+       "title": {
+        "ru": "1. Insert the rear seat belt buckle in the",
+        "en": "1. Insert the rear seat belt buckle in the"
+       },
+       "words": 1284,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t003_c7fc62a5",
+       "title": {
+        "ru": "1. Extract the tongue plate from the hole",
+        "en": "1. Extract the tongue plate from the hole"
+       },
+       "words": 699,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t004_337e1b35",
+       "title": {
+        "ru": "3.Insert the tongue plate (A) into the hole",
+        "en": "3.Insert the tongue plate (A) into the hole"
+       },
+       "words": 808,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t005_acfb0a9d",
+       "title": {
+        "ru": "1. Place the child restraint system in the",
+        "en": "1. Place the child restraint system in the"
+       },
+       "words": 1580,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t006_c32961b8",
+       "title": {
+        "ru": "1. To engage the child restraint seat to",
+        "en": "1. To engage the child restraint seat to"
+       },
+       "words": 931,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t007_d13c2127",
+       "title": {
+        "ru": "2.Insert the key into hole of the outside",
+        "en": "2.Insert the key into hole of the outside"
+       },
+       "words": 1818,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t008_59e2b65c",
+       "title": {
+        "ru": "2. Close the driver’s window and contin-",
+        "en": "2. Close the driver’s window and contin-"
+       },
+       "words": 963,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t009_ebbc3aa2",
+       "title": {
+        "ru": "4.When cleaning the mirror, use a",
+        "en": "4.When cleaning the mirror, use a"
+       },
+       "words": 593,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t010_ae4f4dc4",
+       "title": {
+        "ru": "1. Press the [SETUP CLOCK] button.",
+        "en": "1. Press the [SETUP CLOCK] button."
+       },
+       "words": 1084,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t011_66b3cd97",
+       "title": {
+        "ru": "5. To aim the low/high beam left or right,",
+        "en": "5. To aim the low/high beam left or right,"
+       },
+       "words": 1049,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t012_ed69fafd",
+       "title": {
+        "ru": "5. Outside rearview mirror control",
+        "en": "5. Outside rearview mirror control"
+       },
+       "words": 1033,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t013_337df9cf",
+       "title": {
+        "ru": "5. Individuals taking medication",
+        "en": "5. Individuals taking medication"
+       },
+       "words": 1285,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t014_4cf4bcb6",
+       "title": {
+        "ru": "1.Press the release button on the buckle",
+        "en": "1.Press the release button on the buckle"
+       },
+       "words": 1638,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t015_3ed993ff",
+       "title": {
+        "ru": "1. Place the child restraint system in the",
+        "en": "1. Place the child restraint system in the"
+       },
+       "words": 1517,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t016_84f050a8",
+       "title": {
+        "ru": "3. Buckle the seat belt and allow the seat",
+        "en": "3. Buckle the seat belt and allow the seat"
+       },
+       "words": 770,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t017_5f0fd638",
+       "title": {
+        "ru": "2. Connect the tether strap hook to the",
+        "en": "2. Connect the tether strap hook to the"
+       },
+       "words": 1142,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t018_32802248",
+       "title": {
+        "ru": "KEYS",
+        "en": "KEYS"
+       },
+       "words": 1837,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t019_58ba0361",
+       "title": {
+        "ru": "2. Close the driver’s window and contin-",
+        "en": "2. Close the driver’s window and contin-"
+       },
+       "words": 1257,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t020_29ef933a",
+       "title": {
+        "ru": "REARVIEW CAMERA (IF EQUIPPED)",
+        "en": "REARVIEW CAMERA (IF EQUIPPED)"
+       },
+       "words": 913,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t021_360e22a9",
+       "title": {
+        "ru": "AUDIO SYSTEM",
+        "en": "AUDIO SYSTEM"
+       },
+       "words": 1739,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t022_75d026a7",
+       "title": {
+        "ru": "8. Insert the jack handle into the jack",
+        "en": "8. Insert the jack handle into the jack"
+       },
+       "words": 1550,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t023_b69e180d",
+       "title": {
+        "ru": "10.Digital clock and Audio/AVN*",
+        "en": "10.Digital clock and Audio/AVN*"
+       },
+       "words": 841,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t024_4dbdacaf",
+       "title": {
+        "ru": "7. When the seatback is completely",
+        "en": "7. When the seatback is completely"
+       },
+       "words": 1044,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t025_0e8084f2",
+       "title": {
+        "ru": "1.Press the release button on the buckle",
+        "en": "1.Press the release button on the buckle"
+       },
+       "words": 1746,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t026_236520bd",
+       "title": {
+        "ru": "1. Place the child restraint system in the",
+        "en": "1. Place the child restraint system in the"
+       },
+       "words": 1365,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t027_a79c4993",
+       "title": {
+        "ru": "ON/OFF",
+        "en": "ON/OFF"
+       },
+       "words": 1643,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t028_9aede886",
+       "title": {
+        "ru": "OEL039039",
+        "en": "OEL039039"
+       },
+       "words": 1788,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t029_3b114dd2",
+       "title": {
+        "ru": "2. Close the driver’s window and contin-",
+        "en": "2. Close the driver’s window and contin-"
+       },
+       "words": 959,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t030_bdc0fe6d",
+       "title": {
+        "ru": "SETUP",
+        "en": "SETUP"
+       },
+       "words": 1581,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t031_d3294377",
+       "title": {
+        "ru": "8. Insert the jack handle into the jack",
+        "en": "8. Insert the jack handle into the jack"
+       },
+       "words": 1847,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_ix35_interior_t032_8059c1d4",
+       "title": {
+        "ru": "5. Close the cover of blade.",
+        "en": "5. Close the cover of blade."
+       },
+       "words": 235,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "hyundai_ix35_chassis_t000_73519500",
+       "title": {
+        "ru": "10. Heated steering wheel button* ............4-35",
+        "en": "10. Heated steering wheel button* ............4-35"
+       },
+       "words": 1260,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t001_27c004f3",
+       "title": {
+        "ru": "4. Changing Mirror Angle setting",
+        "en": "4. Changing Mirror Angle setting"
+       },
+       "words": 872,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t002_af537d74",
+       "title": {
+        "ru": "1. Push the Cruise ON-OFF symbol but-",
+        "en": "1. Push the Cruise ON-OFF symbol but-"
+       },
+       "words": 1385,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t003_10b28bcc",
+       "title": {
+        "ru": "1. Pull the vehicle into the parking space.",
+        "en": "1. Pull the vehicle into the parking space."
+       },
+       "words": 1024,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t004_78998d46",
+       "title": {
+        "ru": "3. Checking tyre life",
+        "en": "3. Checking tyre life"
+       },
+       "words": 966,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t005_2eb6f884",
+       "title": {
+        "ru": "*1 LI  : LOAD INDEX",
+        "en": "*1 LI  : LOAD INDEX"
+       },
+       "words": 918,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t006_261545fb",
+       "title": {
+        "ru": "STEERING WHEEL",
+        "en": "STEERING WHEEL"
+       },
+       "words": 1271,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t007_cf44840c",
+       "title": {
+        "ru": "3. Text Display (Based on Unicode)",
+        "en": "3. Text Display (Based on Unicode)"
+       },
+       "words": 1855,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t008_b781adf4",
+       "title": {
+        "ru": "CAUTION - 4WD",
+        "en": "CAUTION - 4WD"
+       },
+       "words": 1362,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t009_6c926d88",
+       "title": {
+        "ru": "TIRE PRESSURE MONITORING SYSTEM (TPMS, IF EQUIPPED) (TYPE A)",
+        "en": "TIRE PRESSURE MONITORING SYSTEM (TPMS, IF EQUIPPED) (TYPE A)"
+       },
+       "words": 1737,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t010_c7b9be27",
+       "title": {
+        "ru": "IF YOU HAVE A FLAT TIRE (WITH TIRE MOBILITY KIT, IF EQUIPPED)",
+        "en": "IF YOU HAVE A FLAT TIRE (WITH TIRE MOBILITY KIT, IF EQUIPPED)"
+       },
+       "words": 1319,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t011_56021ac3",
+       "title": {
+        "ru": "1.Detach the speed restriction label",
+        "en": "1.Detach the speed restriction label"
+       },
+       "words": 723,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t012_f82e2c1e",
+       "title": {
+        "ru": "4. Sweep the nozzle back and forth at the",
+        "en": "4. Sweep the nozzle back and forth at the"
+       },
+       "words": 1141,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t013_6fd61f14",
+       "title": {
+        "ru": "4. Tire ply composition and material",
+        "en": "4. Tire ply composition and material"
+       },
+       "words": 956,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t014_a3ec2b0c",
+       "title": {
+        "ru": "7. Uniform tire quality grading",
+        "en": "7. Uniform tire quality grading"
+       },
+       "words": 750,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t015_ce8978df",
+       "title": {
+        "ru": "STEERING WHEEL",
+        "en": "STEERING WHEEL"
+       },
+       "words": 1399,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t016_8ef3f23a",
+       "title": {
+        "ru": "✽NOTICE - USING VOICE COM-",
+        "en": "✽NOTICE - USING VOICE COM-"
+       },
+       "words": 2196,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t017_0babb484",
+       "title": {
+        "ru": "2. If the vehicle is creating a hazard and",
+        "en": "2. If the vehicle is creating a hazard and"
+       },
+       "words": 1429,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t018_cc39dd1d",
+       "title": {
+        "ru": "9. Hose to connect compressor and",
+        "en": "9. Hose to connect compressor and"
+       },
+       "words": 993,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_ix35_chassis_t019_ed5d48f3",
+       "title": {
+        "ru": "*1 LI  : LOAD INDEX",
+        "en": "*1 LI  : LOAD INDEX"
+       },
+       "words": 693,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "hyundai_ix35_general_t000_ce5ba24c",
+       "title": {
+        "ru": "2. Fasten the lap/shoulder belt latch into",
+        "en": "2. Fasten the lap/shoulder belt latch into"
+       },
+       "words": 1711,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t001_16dba0e3",
+       "title": {
+        "ru": "6. Push the sunroof control lever forward",
+        "en": "6. Push the sunroof control lever forward"
+       },
+       "words": 672,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t002_044d0ba5",
+       "title": {
+        "ru": "3. Press the button until the new zone",
+        "en": "3. Press the button until the new zone"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t003_2f925eab",
+       "title": {
+        "ru": "5. If dehumidified heating is desired, turn",
+        "en": "5. If dehumidified heating is desired, turn"
+       },
+       "words": 438,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t004_b6129dfe",
+       "title": {
+        "ru": "1. Press the DUAL button to operate the",
+        "en": "1. Press the DUAL button to operate the"
+       },
+       "words": 329,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t005_a773a1da",
+       "title": {
+        "ru": "INTERIOR FEATURES",
+        "en": "INTERIOR FEATURES"
+       },
+       "words": 461,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t006_f44a91b9",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1880,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t007_c0664908",
+       "title": {
+        "ru": "7.Proceed with caution, keeping alert for",
+        "en": "7.Proceed with caution, keeping alert for"
+       },
+       "words": 1362,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t008_0557f0c6",
+       "title": {
+        "ru": "4. Tyre ply composition and material",
+        "en": "4. Tyre ply composition and material"
+       },
+       "words": 865,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t009_25eef7f1",
+       "title": {
+        "ru": "4. Push in a new fuse of the same rating,",
+        "en": "4. Push in a new fuse of the same rating,"
+       },
+       "words": 674,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t010_db5a5b58",
+       "title": {
+        "ru": "10. Idle Stop and Go system OFF",
+        "en": "10. Idle Stop and Go system OFF"
+       },
+       "words": 447,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t011_46d856d9",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1672,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t012_cc49572d",
+       "title": {
+        "ru": "2.If the compass deviates from the",
+        "en": "2.If the compass deviates from the"
+       },
+       "words": 746,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t013_8a657171",
+       "title": {
+        "ru": "5. If dehumidified heating is desired, turn",
+        "en": "5. If dehumidified heating is desired, turn"
+       },
+       "words": 479,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t014_a976ca7a",
+       "title": {
+        "ru": "2. Operate the driver side temperature",
+        "en": "2. Operate the driver side temperature"
+       },
+       "words": 365,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t015_c805a9aa",
+       "title": {
+        "ru": "6. PWR/VOL knob",
+        "en": "6. PWR/VOL knob"
+       },
+       "words": 828,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t016_f02197e0",
+       "title": {
+        "ru": "F.RDM]",
+        "en": "F.RDM]"
+       },
+       "words": 530,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t017_1137f4e4",
+       "title": {
+        "ru": "1. In all cases except when creating mul-",
+        "en": "1. In all cases except when creating mul-"
+       },
+       "words": 371,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t018_beb6cfca",
+       "title": {
+        "ru": "2. Operation State",
+        "en": "2. Operation State"
+       },
+       "words": 1173,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t019_2a169980",
+       "title": {
+        "ru": "5. Delete all paired devices, pair and",
+        "en": "5. Delete all paired devices, pair and"
+       },
+       "words": 691,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t020_e8ca5827",
+       "title": {
+        "ru": "7.Proceed with caution, keeping alert for",
+        "en": "7.Proceed with caution, keeping alert for"
+       },
+       "words": 1173,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t021_dc523d53",
+       "title": {
+        "ru": "1. Pull the pin at the top of the extin-",
+        "en": "1. Pull the pin at the top of the extin-"
+       },
+       "words": 572,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t022_19a7fd09",
+       "title": {
+        "ru": "4. Push in a new fuse of the same rating,",
+        "en": "4. Push in a new fuse of the same rating,"
+       },
+       "words": 599,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t023_2d8bbed8",
+       "title": {
+        "ru": "TAILGATE",
+        "en": "TAILGATE"
+       },
+       "words": 1935,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t024_1586db5a",
+       "title": {
+        "ru": "2.If the compass deviates from the",
+        "en": "2.If the compass deviates from the"
+       },
+       "words": 510,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t025_8e74f486",
+       "title": {
+        "ru": "3. Undetectable objects smaller than 40 in.",
+        "en": "3. Undetectable objects smaller than 40 in."
+       },
+       "words": 498,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t026_30c26cd5",
+       "title": {
+        "ru": "2. Select desired temperature.",
+        "en": "2. Select desired temperature."
+       },
+       "words": 684,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t027_92b440d0",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1626,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t028_3608a169",
+       "title": {
+        "ru": "TYRE PRESSURE MONITORING SYSTEM (TPMS, IF EQUIPPED) (TYPE A)",
+        "en": "TYRE PRESSURE MONITORING SYSTEM (TPMS, IF EQUIPPED) (TYPE A)"
+       },
+       "words": 1702,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t029_504fc28b",
+       "title": {
+        "ru": "IF YOU HAVE A FLAT TYRE (WITH TYREMOBILITYKIT, IF EQUIPPED)",
+        "en": "IF YOU HAVE A FLAT TYRE (WITH TYREMOBILITYKIT, IF EQUIPPED)"
+       },
+       "words": 954,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t030_b0a62c37",
+       "title": {
+        "ru": "11. Immediately drive approximately",
+        "en": "11. Immediately drive approximately"
+       },
+       "words": 1623,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_ix35_general_t031_bff5e6f6",
+       "title": {
+        "ru": "4. Push in a new fuse of the same rating,",
+        "en": "4. Push in a new fuse of the same rating,"
+       },
+       "words": 261,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_ix35_sensors_t000_1c88911e",
+       "title": {
+        "ru": "1. Moisture is frozen to the sensor. (It will",
+        "en": "1. Moisture is frozen to the sensor. (It will"
+       },
+       "words": 1641,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_ix35_sensors_t001_8afc4235",
+       "title": {
+        "ru": "5. Do not push, scratch or strike the sen-",
+        "en": "5. Do not push, scratch or strike the sen-"
+       },
+       "words": 807,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_ix35_sensors_t002_e5fb0eb3",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1717,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_ix35_sensors_t003_ff837280",
+       "title": {
+        "ru": "1. The sensor is stained with foreign mat-",
+        "en": "1. The sensor is stained with foreign mat-"
+       },
+       "words": 1327,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_ix35_sensors_t004_58e702ac",
+       "title": {
+        "ru": "(TPMS).",
+        "en": "(TPMS)."
+       },
+       "words": 1058,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_ix35_sensors_t005_82b5f196",
+       "title": {
+        "ru": "2. Petrol or gasohol containing methanol.",
+        "en": "2. Petrol or gasohol containing methanol."
+       },
+       "words": 2101,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_ix35_sensors_t006_01414c5f",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 979,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_ix35_sensors_t007_423d50f5",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 150,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_ix35_drivetrain_t000_93b37539",
+       "title": {
+        "ru": "MANUAL TRANSAXLE (IF EQUIPPED)",
+        "en": "MANUAL TRANSAXLE (IF EQUIPPED)"
+       },
+       "words": 1251,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_ix35_drivetrain_t001_02d06910",
+       "title": {
+        "ru": "2. Place the front wheels on the roll",
+        "en": "2. Place the front wheels on the roll"
+       },
+       "words": 1043,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_ix35_drivetrain_t002_e869b8b9",
+       "title": {
+        "ru": "MANUAL TRANSAXLE (IF EQUIPPED)",
+        "en": "MANUAL TRANSAXLE (IF EQUIPPED)"
+       },
+       "words": 1330,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_ix35_drivetrain_t003_b4e294e0",
+       "title": {
+        "ru": "2. Place the front wheels on the roll",
+        "en": "2. Place the front wheels on the roll"
+       },
+       "words": 582,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_ix35_drivetrain_t004_35b104f7",
+       "title": {
+        "ru": "3. Move the shift lever.",
+        "en": "3. Move the shift lever."
+       },
+       "words": 1380,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_ix35_drivetrain_t005_ba95fe20",
+       "title": {
+        "ru": "ECONOMICAL OPERATION",
+        "en": "ECONOMICAL OPERATION"
+       },
+       "words": 648,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "battery",
+     "title": {
+      "ru": "battery",
+      "en": "battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_ix35_battery_t000_f0f36228",
+       "title": {
+        "ru": "2. Replace the battery with a new battery",
+        "en": "2. Replace the battery with a new battery"
+       },
+       "words": 1045,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_ix35_battery_t001_a9e4b05d",
+       "title": {
+        "ru": "2. Operate the driver side temperature",
+        "en": "2. Operate the driver side temperature"
+       },
+       "words": 985,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_ix35_battery_t002_c3c93b98",
+       "title": {
+        "ru": "4. With the head lamp and battery in nor-",
+        "en": "4. With the head lamp and battery in nor-"
+       },
+       "words": 734,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_ix35_battery_t003_3a8e92a8",
+       "title": {
+        "ru": "2. Operate the driver side temperature",
+        "en": "2. Operate the driver side temperature"
+       },
+       "words": 1194,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_ix35_battery_t004_45d386ee",
+       "title": {
+        "ru": "SAUDI, UAE, OMAN, KUWAIT, BAHRAIN, QATAR, IRAN, YEMEN",
+        "en": "SAUDI, UAE, OMAN, KUWAIT, BAHRAIN, QATAR, IRAN, YEMEN"
+       },
+       "words": 1148,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_ix35_battery_t005_099ab963",
+       "title": {
+        "ru": "2. Replace the battery with a new battery",
+        "en": "2. Replace the battery with a new battery"
+       },
+       "words": 1214,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_ix35_battery_t006_32eb1265",
+       "title": {
+        "ru": "1. CMF60L-BCI : HYUNDAI model name",
+        "en": "1. CMF60L-BCI : HYUNDAI model name"
+       },
+       "words": 648,
+       "images": 0,
+       "section_id": "battery"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_ix35_infotainment_t000_98cfe354",
+       "title": {
+        "ru": "3. Bluetooth phone controls* ....4-180, 233",
+        "en": "3. Bluetooth phone controls* ....4-180, 233"
+       },
+       "words": 984,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t001_c492fee1",
+       "title": {
+        "ru": "SYSTEM CONTROLLERS AND",
+        "en": "SYSTEM CONTROLLERS AND"
+       },
+       "words": 1386,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t002_b17eb463",
+       "title": {
+        "ru": "✽NOTICE - USING THE AUX",
+        "en": "✽NOTICE - USING THE AUX"
+       },
+       "words": 1492,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t003_649ab6cb",
+       "title": {
+        "ru": "SYSTEM CONTROLLERS AND",
+        "en": "SYSTEM CONTROLLERS AND"
+       },
+       "words": 911,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t004_57dfb0fd",
+       "title": {
+        "ru": "3. Maximum number of recognized fold-",
+        "en": "3. Maximum number of recognized fold-"
+       },
+       "words": 794,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t005_5417748a",
+       "title": {
+        "ru": "2. Operation State",
+        "en": "2. Operation State"
+       },
+       "words": 747,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t006_410ff15e",
+       "title": {
+        "ru": "2. Operation State",
+        "en": "2. Operation State"
+       },
+       "words": 659,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t007_829d1336",
+       "title": {
+        "ru": "1. Turn off the Bluetooth® Wireless",
+        "en": "1. Turn off the Bluetooth® Wireless"
+       },
+       "words": 1009,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t008_8247ad61",
+       "title": {
+        "ru": "4. After a few moments, a screen is dis-",
+        "en": "4. After a few moments, a screen is dis-"
+       },
+       "words": 920,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t009_2a0c0e99",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1393,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t010_f2bfce6b",
+       "title": {
+        "ru": "APPENDIX",
+        "en": "APPENDIX"
+       },
+       "words": 1875,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t011_3166f2e6",
+       "title": {
+        "ru": "2. Folder playing order :",
+        "en": "2. Folder playing order :"
+       },
+       "words": 1804,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t012_e5ee6a33",
+       "title": {
+        "ru": "✽NOTICE - USING THE AUX",
+        "en": "✽NOTICE - USING THE AUX"
+       },
+       "words": 1043,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t013_26a47336",
+       "title": {
+        "ru": "APPENDIX",
+        "en": "APPENDIX"
+       },
+       "words": 1640,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t014_41f976c5",
+       "title": {
+        "ru": "3. Maximum number of recognized fold-",
+        "en": "3. Maximum number of recognized fold-"
+       },
+       "words": 635,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t015_94e17078",
+       "title": {
+        "ru": "2. Operation State",
+        "en": "2. Operation State"
+       },
+       "words": 727,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t016_5b0da943",
+       "title": {
+        "ru": "TRACK",
+        "en": "TRACK"
+       },
+       "words": 1387,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t017_1b9a4914",
+       "title": {
+        "ru": "PHONE",
+        "en": "PHONE"
+       },
+       "words": 1496,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_ix35_infotainment_t018_4fb6b420",
+       "title": {
+        "ru": "APPENDIX",
+        "en": "APPENDIX"
+       },
+       "words": 1489,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

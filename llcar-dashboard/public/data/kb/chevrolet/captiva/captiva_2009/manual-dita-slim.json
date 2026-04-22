@@ -1,0 +1,1255 @@
+{
+ "version": "1.0",
+ "model": "captiva",
+ "manuals": [
+  {
+   "model": "captiva",
+   "label": {
+    "ru": "Chevrolet Captiva — Руководство по ремонту",
+    "en": "Chevrolet Captiva — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_engine_t000_fb94c966",
+       "title": {
+        "ru": "Engine Covers and Component Assemblies (1 of 2) (LY7)",
+        "en": "Engine Covers and Component Assemblies (1 of 2) (LY7)"
+       },
+       "words": 1190,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t001_1a6d1980",
+       "title": {
+        "ru": "Engine Mount Replacement - Right Side Removal Procedure",
+        "en": "Engine Mount Replacement - Right Side Removal Procedure"
+       },
+       "words": 947,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t002_cbc3ca88",
+       "title": {
+        "ru": "Positive Crankcase Ventilation Hose/Pipe/Tube Replacement (Air Cleaner Duct/Valv",
+        "en": "Positive Crankcase Ventilation Hose/Pipe/Tube Replacement (Air Cleaner Duct/Valv"
+       },
+       "words": 571,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t003_4efe857f",
+       "title": {
+        "ru": "Oil Filter Adapter Replacement Removal Procedure",
+        "en": "Oil Filter Adapter Replacement Removal Procedure"
+       },
+       "words": 787,
+       "images": 23,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t004_9ed40d74",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1789,
+       "images": 24,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t005_2fabc451",
+       "title": {
+        "ru": "Primary Camshaft Drive Chain and Sprockets Replacement",
+        "en": "Primary Camshaft Drive Chain and Sprockets Replacement"
+       },
+       "words": 656,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t006_f9d6fa55",
+       "title": {
+        "ru": "Timing Chain Idler Sprocket Replacement - Left Side Removal Procedure",
+        "en": "Timing Chain Idler Sprocket Replacement - Left Side Removal Procedure"
+       },
+       "words": 1321,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t007_aaa74ad5",
+       "title": {
+        "ru": "Camshaft Position Actuator Replacement - Bank 1 (Right Side) Intake",
+        "en": "Camshaft Position Actuator Replacement - Bank 1 (Right Side) Intake"
+       },
+       "words": 2180,
+       "images": 30,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t008_a37a9ae0",
+       "title": {
+        "ru": "Valve Rocker Arm Replacement - Left Side Removal Procedure",
+        "en": "Valve Rocker Arm Replacement - Left Side Removal Procedure"
+       },
+       "words": 1438,
+       "images": 22,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t009_d496f278",
+       "title": {
+        "ru": "Valve Rocker Arm Replacement - Right Side Removal Procedure",
+        "en": "Valve Rocker Arm Replacement - Right Side Removal Procedure"
+       },
+       "words": 653,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t010_7812b911",
+       "title": {
+        "ru": "Crankshaft Rear Oil Seal and Housing Replacement Removal Procedure",
+        "en": "Crankshaft Rear Oil Seal and Housing Replacement Removal Procedure"
+       },
+       "words": 742,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t011_7bb27c8d",
+       "title": {
+        "ru": "Engine Oil Pressure Sensor and/or Switch Replacement Removal Procedure",
+        "en": "Engine Oil Pressure Sensor and/or Switch Replacement Removal Procedure"
+       },
+       "words": 1619,
+       "images": 36,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t012_c3325a2d",
+       "title": {
+        "ru": "Left Cylinder Head Camshaft Cover Face (LY7)",
+        "en": "Left Cylinder Head Camshaft Cover Face (LY7)"
+       },
+       "words": 271,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t013_e147465c",
+       "title": {
+        "ru": "Left Cylinder Head Exhaust Face (LY7)",
+        "en": "Left Cylinder Head Exhaust Face (LY7)"
+       },
+       "words": 10,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t014_cacaaff5",
+       "title": {
+        "ru": "Right Cylinder Head Camshaft Cover Face",
+        "en": "Right Cylinder Head Camshaft Cover Face"
+       },
+       "words": 10,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t015_51be5ca8",
+       "title": {
+        "ru": "Engine Block Right Side",
+        "en": "Engine Block Right Side"
+       },
+       "words": 15,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t016_dfdeb71a",
+       "title": {
+        "ru": "Engine Identification Vehicle Identification Number",
+        "en": "Engine Identification Vehicle Identification Number"
+       },
+       "words": 485,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t017_f14ed40f",
+       "title": {
+        "ru": "Crankshaft Balancer Removal Special Tools",
+        "en": "Crankshaft Balancer Removal Special Tools"
+       },
+       "words": 1538,
+       "images": 37,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t018_40e5109f",
+       "title": {
+        "ru": "Piston, Connecting Rod, and Bearing Removal Tools Required",
+        "en": "Piston, Connecting Rod, and Bearing Removal Tools Required"
+       },
+       "words": 1636,
+       "images": 31,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t019_0a9ffe38",
+       "title": {
+        "ru": "Cylinder Head Cleaning and Inspection Valve Cleaning and Inspection",
+        "en": "Cylinder Head Cleaning and Inspection Valve Cleaning and Inspection"
+       },
+       "words": 2139,
+       "images": 29,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t020_13f013b3",
+       "title": {
+        "ru": "Crankshaft Rear Oil Seal Installation Tools Required",
+        "en": "Crankshaft Rear Oil Seal Installation Tools Required"
+       },
+       "words": 1457,
+       "images": 29,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t021_0d5ce8bf",
+       "title": {
+        "ru": "Intake and Exhaust Camshaft, Bearing Cap, and Lash Adjuster Installation",
+        "en": "Intake and Exhaust Camshaft, Bearing Cap, and Lash Adjuster Installation"
+       },
+       "words": 2130,
+       "images": 45,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t022_18a1d713",
+       "title": {
+        "ru": "Oil Filter with Cap and Seal Installation Special Tools",
+        "en": "Oil Filter with Cap and Seal Installation Special Tools"
+       },
+       "words": 873,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t023_abfb01c9",
+       "title": {
+        "ru": "Positive Crankcase Ventilation Hose/Pipe/Tube Replacement (LAT)",
+        "en": "Positive Crankcase Ventilation Hose/Pipe/Tube Replacement (LAT)"
+       },
+       "words": 765,
+       "images": 18,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t024_ac2879c8",
+       "title": {
+        "ru": "Crankshaft Front Oil Seal Replacement Tools Required",
+        "en": "Crankshaft Front Oil Seal Replacement Tools Required"
+       },
+       "words": 582,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t025_7ef5d32a",
+       "title": {
+        "ru": "Camshaft Timing Chain, Sprocket, and Tensioner Replacement",
+        "en": "Camshaft Timing Chain, Sprocket, and Tensioner Replacement"
+       },
+       "words": 2255,
+       "images": 57,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t026_0fda8228",
+       "title": {
+        "ru": "Exhaust Camshaft and Valve Lifter Replacement Removal Procedure",
+        "en": "Exhaust Camshaft and Valve Lifter Replacement Removal Procedure"
+       },
+       "words": 908,
+       "images": 31,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t027_376e00e9",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1903,
+       "images": 42,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t028_001a9bfe",
+       "title": {
+        "ru": "Crankshaft Rear Oil Seal Replacement Tools Required",
+        "en": "Crankshaft Rear Oil Seal Replacement Tools Required"
+       },
+       "words": 2653,
+       "images": 61,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t029_fdc0398d",
+       "title": {
+        "ru": "Engine Oil and Oil Filter Replacement Removal Procedure",
+        "en": "Engine Oil and Oil Filter Replacement Removal Procedure"
+       },
+       "words": 261,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t030_0d0aa1ac",
+       "title": {
+        "ru": "Cylinder Head - Exhaust Manifold Deck View",
+        "en": "Cylinder Head - Exhaust Manifold Deck View"
+       },
+       "words": 10,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t031_5f5617f0",
+       "title": {
+        "ru": "Lower Intake Manifold, Cylinder Head, and Components",
+        "en": "Lower Intake Manifold, Cylinder Head, and Components"
+       },
+       "words": 1311,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t032_5f490e66",
+       "title": {
+        "ru": "Water Inlet and Engine Coolant Thermostat Removal",
+        "en": "Water Inlet and Engine Coolant Thermostat Removal"
+       },
+       "words": 614,
+       "images": 19,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t033_efb288bf",
+       "title": {
+        "ru": "Piston, Connecting Rod, and Bearing Removal Special Tools",
+        "en": "Piston, Connecting Rod, and Bearing Removal Special Tools"
+       },
+       "words": 665,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t034_dedf3277",
+       "title": {
+        "ru": "Crankshaft and Bearing Cleaning and Inspection Special Tools",
+        "en": "Crankshaft and Bearing Cleaning and Inspection Special Tools"
+       },
+       "words": 1928,
+       "images": 30,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t035_33264203",
+       "title": {
+        "ru": "Camshaft and Bearings Cleaning and Inspection Special Tools",
+        "en": "Camshaft and Bearings Cleaning and Inspection Special Tools"
+       },
+       "words": 2260,
+       "images": 36,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t036_3d74317f",
+       "title": {
+        "ru": "Crankshaft Rear Oil Seal Installation Special Tools",
+        "en": "Crankshaft Rear Oil Seal Installation Special Tools"
+       },
+       "words": 1530,
+       "images": 23,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t037_1c06eedb",
+       "title": {
+        "ru": "Cylinder Head Installation - Right Side Special Tools",
+        "en": "Cylinder Head Installation - Right Side Special Tools"
+       },
+       "words": 1160,
+       "images": 21,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t038_1bbad82e",
+       "title": {
+        "ru": "Water Inlet and Engine Coolant Thermostat Installation",
+        "en": "Water Inlet and Engine Coolant Thermostat Installation"
+       },
+       "words": 1352,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t039_88759dd3",
+       "title": {
+        "ru": "Valve Stem Oil Seal and Valve Spring Replacement Tools Required",
+        "en": "Valve Stem Oil Seal and Valve Spring Replacement Tools Required"
+       },
+       "words": 934,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t040_a8f0e362",
+       "title": {
+        "ru": "Engine Oil Pressure Sensor and/or Switch Replacement Removal Procedure",
+        "en": "Engine Oil Pressure Sensor and/or Switch Replacement Removal Procedure"
+       },
+       "words": 1121,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t041_4cb77247",
+       "title": {
+        "ru": "Camshaft Position Actuator Magnet Replacement Removal Procedure",
+        "en": "Camshaft Position Actuator Magnet Replacement Removal Procedure"
+       },
+       "words": 1042,
+       "images": 23,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t042_3aa9e54b",
+       "title": {
+        "ru": "Camshaft Rear Bearing Hole Plug Replacement Removal Procedure",
+        "en": "Camshaft Rear Bearing Hole Plug Replacement Removal Procedure"
+       },
+       "words": 1424,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_captiva_engine_t043_62ad752a",
+       "title": {
+        "ru": "Transmission Mount Replacement - Left Side Removal Procedure",
+        "en": "Transmission Mount Replacement - Left Side Removal Procedure"
+       },
+       "words": 1644,
+       "images": 33,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_brakes_t000_bc0fd209",
+       "title": {
+        "ru": "Drive Sprocket, Driven Sprocket, and Drive Link Installation",
+        "en": "Drive Sprocket, Driven Sprocket, and Drive Link Installation"
+       },
+       "words": 719,
+       "images": 7,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_suspension_t000_0d81b274",
+       "title": {
+        "ru": "Driven Sprocket Support Assembly and 2nd Clutch",
+        "en": "Driven Sprocket Support Assembly and 2nd Clutch"
+       },
+       "words": 1824,
+       "images": 38,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_captiva_suspension_t001_d448f3b2",
+       "title": {
+        "ru": "Reverse Input and Second Roller Clutch Disassemble Special Tools",
+        "en": "Reverse Input and Second Roller Clutch Disassemble Special Tools"
+       },
+       "words": 2911,
+       "images": 53,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_captiva_suspension_t002_62f8741b",
+       "title": {
+        "ru": "Driven Sprocket Support Assembly Disassemble Special Tools",
+        "en": "Driven Sprocket Support Assembly Disassemble Special Tools"
+       },
+       "words": 1457,
+       "images": 30,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_captiva_suspension_t003_b6df88f0",
+       "title": {
+        "ru": "2-6, Low and Reverse and 1-2-3-4 Clutch Plate Assemblies",
+        "en": "2-6, Low and Reverse and 1-2-3-4 Clutch Plate Assemblies"
+       },
+       "words": 1157,
+       "images": 9,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_captiva_suspension_t004_729c55d1",
+       "title": {
+        "ru": "Park System Components",
+        "en": "Park System Components"
+       },
+       "words": 471,
+       "images": 5,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_electrical_t000_72918b31",
+       "title": {
+        "ru": "Drive Belt Tensioner Replacement (LAT) Removal Procedure",
+        "en": "Drive Belt Tensioner Replacement (LAT) Removal Procedure"
+       },
+       "words": 843,
+       "images": 25,
+       "section_id": "electrical"
+      },
+      {
+       "id": "chevrolet_captiva_electrical_t001_310653f4",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 153,
+       "images": 1,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_hvac_t000_5024a293",
+       "title": {
+        "ru": "Positive Crankcase Ventilation (PCV) Valve Cleaning and Inspection",
+        "en": "Positive Crankcase Ventilation (PCV) Valve Cleaning and Inspection"
+       },
+       "words": 651,
+       "images": 18,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_body_t000_47c79bd0",
+       "title": {
+        "ru": "Valve Rocker Arm and Push Rod Cleaning and Inspection",
+        "en": "Valve Rocker Arm and Push Rod Cleaning and Inspection"
+       },
+       "words": 1256,
+       "images": 13,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_captiva_body_t001_8565bcb7",
+       "title": {
+        "ru": "Control Valve Body Spacer Plate and 4-3 Downshift On/Off Solenoid Installation",
+        "en": "Control Valve Body Spacer Plate and 4-3 Downshift On/Off Solenoid Installation"
+       },
+       "words": 1096,
+       "images": 20,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_captiva_body_t002_98634043",
+       "title": {
+        "ru": "Transmission Fluid Pressure Manual Valve Position Switch Replacement",
+        "en": "Transmission Fluid Pressure Manual Valve Position Switch Replacement"
+       },
+       "words": 912,
+       "images": 12,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_captiva_body_t003_9cda5982",
+       "title": {
+        "ru": "Control Solenoid (With Body and TCM) Valve Assembly Removal",
+        "en": "Control Solenoid (With Body and TCM) Valve Assembly Removal"
+       },
+       "words": 1149,
+       "images": 17,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_captiva_body_t004_21bb7b90",
+       "title": {
+        "ru": "Control Valve Body Cleaning and Inspection",
+        "en": "Control Valve Body Cleaning and Inspection"
+       },
+       "words": 263,
+       "images": 17,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_lighting_t000_356cef6d",
+       "title": {
+        "ru": "Measuring Connecting Rod Bearing Clearance Using J 43690 and J 43690-100",
+        "en": "Measuring Connecting Rod Bearing Clearance Using J 43690 and J 43690-100"
+       },
+       "words": 1835,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_captiva_lighting_t001_30758f5c",
+       "title": {
+        "ru": "Driven Sprocket Support Assembly Installation",
+        "en": "Driven Sprocket Support Assembly Installation"
+       },
+       "words": 610,
+       "images": 8,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_interior_t000_2142a7d5",
+       "title": {
+        "ru": "Valve Guide Reaming, and Valve and Seat Grinding Special Tools",
+        "en": "Valve Guide Reaming, and Valve and Seat Grinding Special Tools"
+       },
+       "words": 819,
+       "images": 12,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_ev_t000_6dd52aaf",
+       "title": {
+        "ru": "Drive Belt Idler Pulley Replacement Removal Procedure",
+        "en": "Drive Belt Idler Pulley Replacement Removal Procedure"
+       },
+       "words": 3869,
+       "images": 74,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_captiva_ev_t001_6926860f",
+       "title": {
+        "ru": "Range Selector Lever Cable Bracket Replacement Removal Procedure",
+        "en": "Range Selector Lever Cable Bracket Replacement Removal Procedure"
+       },
+       "words": 1354,
+       "images": 31,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_chassis_t000_4f2ab83c",
+       "title": {
+        "ru": "Front Wheel Drive Shaft Seal and Output Shaft Sleeve Replacement - Right Side",
+        "en": "Front Wheel Drive Shaft Seal and Output Shaft Sleeve Replacement - Right Side"
+       },
+       "words": 1483,
+       "images": 22,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_captiva_chassis_t001_ced0a1c9",
+       "title": {
+        "ru": "Front Wheel Drive Shaft Seal Replacement - Torque Converter Housing Side",
+        "en": "Front Wheel Drive Shaft Seal Replacement - Torque Converter Housing Side"
+       },
+       "words": 13,
+       "images": 13,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_general_t000_4e544677",
+       "title": {
+        "ru": "Oil Level Indicator Tube Replacement Removal Procedure",
+        "en": "Oil Level Indicator Tube Replacement Removal Procedure"
+       },
+       "words": 844,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t001_8f7426d6",
+       "title": {
+        "ru": "Fastener Tightening Specifications",
+        "en": "Fastener Tightening Specifications"
+       },
+       "words": 238,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t002_098b6fc2",
+       "title": {
+        "ru": "Upper Intake Manifold - Front (LY7)",
+        "en": "Upper Intake Manifold - Front (LY7)"
+       },
+       "words": 10,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t003_aae6ef55",
+       "title": {
+        "ru": "Intake Manifold - Right (LCS)",
+        "en": "Intake Manifold - Right (LCS)"
+       },
+       "words": 10,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t004_844c3610",
+       "title": {
+        "ru": "Water Pump and Balance Shaft Chain and Tensioner Removal",
+        "en": "Water Pump and Balance Shaft Chain and Tensioner Removal"
+       },
+       "words": 374,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t005_443de899",
+       "title": {
+        "ru": "Water Pump and Balance Shaft Chain and Sprocket Cleaning and Inspection",
+        "en": "Water Pump and Balance Shaft Chain and Sprocket Cleaning and Inspection"
+       },
+       "words": 1928,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t006_44dbdee4",
+       "title": {
+        "ru": "Piston, Connecting Rod, and Bearing Installation (2.4L) Special Tools",
+        "en": "Piston, Connecting Rod, and Bearing Installation (2.4L) Special Tools"
+       },
+       "words": 1497,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t007_658d4a11",
+       "title": {
+        "ru": "Oil Level Indicator Tube Replacement (LAT) Removal Procedure",
+        "en": "Oil Level Indicator Tube Replacement (LAT) Removal Procedure"
+       },
+       "words": 1134,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t008_1bd1e2a9",
+       "title": {
+        "ru": "Piston, Connecting Rod, and Bearing Replacement Special Tools",
+        "en": "Piston, Connecting Rod, and Bearing Replacement Special Tools"
+       },
+       "words": 1126,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t009_7730b86f",
+       "title": {
+        "ru": "Lower Crankcase - Bottom View",
+        "en": "Lower Crankcase - Bottom View"
+       },
+       "words": 22,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t010_78055e0d",
+       "title": {
+        "ru": "Timing Chain and Sprocket Removal Tools Required",
+        "en": "Timing Chain and Sprocket Removal Tools Required"
+       },
+       "words": 1133,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t011_055f30ba",
+       "title": {
+        "ru": "Valve Rocker Arm Cover Installation - Right Side",
+        "en": "Valve Rocker Arm Cover Installation - Right Side"
+       },
+       "words": 1246,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t012_85f73ffe",
+       "title": {
+        "ru": "Oil Level Indicator Tube Replacement Removal Procedure",
+        "en": "Oil Level Indicator Tube Replacement Removal Procedure"
+       },
+       "words": 1515,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t013_cf4caec4",
+       "title": {
+        "ru": "Valve Rocker Arm Cover Replacement - Left Side Removal Procedure",
+        "en": "Valve Rocker Arm Cover Replacement - Left Side Removal Procedure"
+       },
+       "words": 1466,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t014_49740163",
+       "title": {
+        "ru": "Oil Pump and Oil Pump Shaft Removal",
+        "en": "Oil Pump and Oil Pump Shaft Removal"
+       },
+       "words": 622,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t015_96df3ad1",
+       "title": {
+        "ru": "Manual Shift Shaft Pin, Detent Lever, and Park Pawl Actuator Assembly Installati",
+        "en": "Manual Shift Shaft Pin, Detent Lever, and Park Pawl Actuator Assembly Installati"
+       },
+       "words": 617,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t016_4b9957a3",
+       "title": {
+        "ru": "Side Cover/Gaskets, Disassemble, Assemble, Install Special Tools",
+        "en": "Side Cover/Gaskets, Disassemble, Assemble, Install Special Tools"
+       },
+       "words": 804,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t017_7c839246",
+       "title": {
+        "ru": "Caution: Do not damage the case bore when removing the axle seal.",
+        "en": "Caution: Do not damage the case bore when removing the axle seal."
+       },
+       "words": 1632,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t018_1bf223ec",
+       "title": {
+        "ru": "Floor Shift Control Cable Replacement Removal Procedure",
+        "en": "Floor Shift Control Cable Replacement Removal Procedure"
+       },
+       "words": 750,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t019_0467d338",
+       "title": {
+        "ru": "Auxiliary Fluid Pump Outlet Pipe Replacement",
+        "en": "Auxiliary Fluid Pump Outlet Pipe Replacement"
+       },
+       "words": 985,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t020_f09a041d",
+       "title": {
+        "ru": "Fastener Tightening Specifications",
+        "en": "Fastener Tightening Specifications"
+       },
+       "words": 1519,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t021_e37fd355",
+       "title": {
+        "ru": "Manual Shift Detent Lever with Shaft Position Switch Assembly Replacement",
+        "en": "Manual Shift Detent Lever with Shaft Position Switch Assembly Replacement"
+       },
+       "words": 185,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t022_3b632325",
+       "title": {
+        "ru": "Range Selector Lever Cable Replacement Removal Procedure",
+        "en": "Range Selector Lever Cable Replacement Removal Procedure"
+       },
+       "words": 1163,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t023_b81b72d4",
+       "title": {
+        "ru": "Manual Shift Detent Lever with Shaft Position Switch Assembly and Park Pawl Actu",
+        "en": "Manual Shift Detent Lever with Shaft Position Switch Assembly and Park Pawl Actu"
+       },
+       "words": 54,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t024_be51c962",
+       "title": {
+        "ru": "Manual Shift Detent Lever with Shaft Position Switch Assembly and Park Pawl Actu",
+        "en": "Manual Shift Detent Lever with Shaft Position Switch Assembly and Park Pawl Actu"
+       },
+       "words": 35,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t025_16e36eb7",
+       "title": {
+        "ru": "Drive Sprocket, Driven Sprocket, and Drive Link Cleaning and Inspection",
+        "en": "Drive Sprocket, Driven Sprocket, and Drive Link Cleaning and Inspection"
+       },
+       "words": 29,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t026_44a14595",
+       "title": {
+        "ru": "Torque Converter Fluid Seal and Fluid Filter Assembly Assemble",
+        "en": "Torque Converter Fluid Seal and Fluid Filter Assembly Assemble"
+       },
+       "words": 30,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_captiva_general_t027_a030acf4",
+       "title": {
+        "ru": "Line PC Solenoid Valve Pressure",
+        "en": "Line PC Solenoid Valve Pressure"
+       },
+       "words": 3,
+       "images": 3,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_sensors_t000_44ce8bd4",
+       "title": {
+        "ru": "Input and Output Speed Sensor Installation",
+        "en": "Input and Output Speed Sensor Installation"
+       },
+       "words": 481,
+       "images": 16,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_infotainment_t000_cad580e7",
+       "title": {
+        "ru": "Oil Pump Suction Pipe and Screen Assembly Replacement",
+        "en": "Oil Pump Suction Pipe and Screen Assembly Replacement"
+       },
+       "words": 60,
+       "images": 3,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chevrolet_captiva_drivetrain_t000_b5d43304",
+       "title": {
+        "ru": "Engine Flywheel Installation (Manual Transmission) Special Tools",
+        "en": "Engine Flywheel Installation (Manual Transmission) Special Tools"
+       },
+       "words": 975,
+       "images": 14,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t001_08598cb2",
+       "title": {
+        "ru": "Automatic Transmission Fluid Filter, Seal, and Level Control Valve Removal",
+        "en": "Automatic Transmission Fluid Filter, Seal, and Level Control Valve Removal"
+       },
+       "words": 485,
+       "images": 10,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t002_3ac6c706",
+       "title": {
+        "ru": "Manual Shift Shaft Pin, Detent Lever, and Park Pawl Actuator Assembly Removal",
+        "en": "Manual Shift Shaft Pin, Detent Lever, and Park Pawl Actuator Assembly Removal"
+       },
+       "words": 1021,
+       "images": 17,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t003_4939ffd5",
+       "title": {
+        "ru": "Input Internal Gear, Forward Clutch Hub Assemble Special Tools",
+        "en": "Input Internal Gear, Forward Clutch Hub Assemble Special Tools"
+       },
+       "words": 854,
+       "images": 16,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t004_05146343",
+       "title": {
+        "ru": "Selective Washer Measurement and Installation Special Tools",
+        "en": "Selective Washer Measurement and Installation Special Tools"
+       },
+       "words": 774,
+       "images": 17,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t005_95e0bf96",
+       "title": {
+        "ru": "Control Valve Assembly and Transmission Fluid Pressure Switch Installation",
+        "en": "Control Valve Assembly and Transmission Fluid Pressure Switch Installation"
+       },
+       "words": 475,
+       "images": 26,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t006_02e21166",
+       "title": {
+        "ru": "Transmission Fluid Cooler Hose/Pipe Quick-Connect Fitting Disconnection and Conn",
+        "en": "Transmission Fluid Cooler Hose/Pipe Quick-Connect Fitting Disconnection and Conn"
+       },
+       "words": 629,
+       "images": 17,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t007_238ff62a",
+       "title": {
+        "ru": "Transmission Fluid Pressure Manual Valve Position Switch Logic",
+        "en": "Transmission Fluid Pressure Manual Valve Position Switch Logic"
+       },
+       "words": 207,
+       "images": 17,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t008_67a6a72b",
+       "title": {
+        "ru": "Automatic Transmission Control Indicator Replacement (Without Traction Control)",
+        "en": "Automatic Transmission Control Indicator Replacement (Without Traction Control)"
+       },
+       "words": 500,
+       "images": 15,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t009_c6801a08",
+       "title": {
+        "ru": "Transmission Fluid Cooler Hose/Pipe Quick-Connect Fitting Disconnection and Conn",
+        "en": "Transmission Fluid Cooler Hose/Pipe Quick-Connect Fitting Disconnection and Conn"
+       },
+       "words": 339,
+       "images": 19,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t010_e995b28d",
+       "title": {
+        "ru": "Low and Reverse and 1-2-3-4 Clutch Housing, Low and Reverse Clutch Assembly, Out",
+        "en": "Low and Reverse and 1-2-3-4 Clutch Housing, Low and Reverse Clutch Assembly, Out"
+       },
+       "words": 137,
+       "images": 24,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t011_db0ed526",
+       "title": {
+        "ru": "3-5-Reverse and 4-5-6 Clutch Housing Disassemble",
+        "en": "3-5-Reverse and 4-5-6 Clutch Housing Disassemble"
+       },
+       "words": 82,
+       "images": 8,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t012_2153363f",
+       "title": {
+        "ru": "3-5-Reverse and 4-5-6 Clutch Housing, and Input, Reaction, and Output Carrier In",
+        "en": "3-5-Reverse and 4-5-6 Clutch Housing, and Input, Reaction, and Output Carrier In"
+       },
+       "words": 30,
+       "images": 12,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t013_5c3d14d9",
+       "title": {
+        "ru": "Low and Reverse and 1-2-3-4 Clutch Housing, and 1-2- 3-4 Clutch Plate Installati",
+        "en": "Low and Reverse and 1-2-3-4 Clutch Housing, and 1-2- 3-4 Clutch Plate Installati"
+       },
+       "words": 131,
+       "images": 17,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_captiva_drivetrain_t014_c8d4e40d",
+       "title": {
+        "ru": "Transmission Fluid Pump, Front Differential Carrier Baffle, and Front Differenti",
+        "en": "Transmission Fluid Pump, Front Differential Carrier Baffle, and Front Differenti"
+       },
+       "words": 131,
+       "images": 10,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1465 @@
+{
+ "version": "1.0",
+ "model": "ev9",
+ "manuals": [
+  {
+   "model": "ev9",
+   "label": {
+    "ru": "Kia EV9 — Руководство по ремонту",
+    "en": "Kia EV9 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "kia_ev9_engine_t000_48ef29f0",
+       "title": {
+        "ru": "OSVQ014093L",
+        "en": "OSVQ014093L"
+       },
+       "words": 1092,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_ev9_engine_t001_2e4f1b48",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1388,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "kia_ev9_brakes_t000_4d92dd97",
+       "title": {
+        "ru": "OMVQ014042R",
+        "en": "OMVQ014042R"
+       },
+       "words": 2125,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev9_brakes_t001_21914279",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1919,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev9_brakes_t002_576da931",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1643,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev9_brakes_t003_bd9575ff",
+       "title": {
+        "ru": "NORMAL / SPORT *",
+        "en": "NORMAL / SPORT *"
+       },
+       "words": 1954,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev9_brakes_t004_b1cd0add",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1063,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev9_brakes_t005_3932a169",
+       "title": {
+        "ru": "When EPB is applied whilst AUTO HOLD is",
+        "en": "When EPB is applied whilst AUTO HOLD is"
+       },
+       "words": 1575,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev9_brakes_t006_9a181123",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1602,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev9_brakes_t007_59fd6a69",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 2094,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev9_brakes_t008_6714139c",
+       "title": {
+        "ru": "OMV073151L",
+        "en": "OMV073151L"
+       },
+       "words": 1426,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev9_brakes_t009_1429ae59",
+       "title": {
+        "ru": "OMV074205R",
+        "en": "OMV074205R"
+       },
+       "words": 1867,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev9_brakes_t010_9887a981",
+       "title": {
+        "ru": "KIAWARRANTYPOLICY",
+        "en": "KIAWARRANTYPOLICY"
+       },
+       "words": 1267,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_ev9_brakes_t011_d93ac326",
+       "title": {
+        "ru": "DELIVERY DATE(Month-Day-Year)",
+        "en": "DELIVERY DATE(Month-Day-Year)"
+       },
+       "words": 69,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "kia_ev9_suspension_t000_8b928a60",
+       "title": {
+        "ru": "OMV034044R_3",
+        "en": "OMV034044R_3"
+       },
+       "words": 1975,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev9_suspension_t001_1ee68d3c",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 2038,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev9_suspension_t002_97f1b373",
+       "title": {
+        "ru": "Operating VSM",
+        "en": "Operating VSM"
+       },
+       "words": 1824,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev9_suspension_t003_58d98dcc",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 2514,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev9_suspension_t004_a3b26e7b",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 2188,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev9_suspension_t005_ba9771e6",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 1234,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev9_suspension_t006_5c588bd3",
+       "title": {
+        "ru": "OMV073168L",
+        "en": "OMV073168L"
+       },
+       "words": 1339,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev9_suspension_t007_fc39167d",
+       "title": {
+        "ru": "OMV074279L_4",
+        "en": "OMV074279L_4"
+       },
+       "words": 1200,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev9_suspension_t008_18e9caf0",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 2490,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_ev9_suspension_t009_77b9ca9b",
+       "title": {
+        "ru": "LI 1",
+        "en": "LI 1"
+       },
+       "words": 498,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "kia_ev9_transmission_t000_bb980ad5",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 614,
+       "images": 0,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "kia_ev9_hvac_t000_69081ca9",
+       "title": {
+        "ru": "OMV054096L",
+        "en": "OMV054096L"
+       },
+       "words": 1416,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_ev9_hvac_t001_13e932e3",
+       "title": {
+        "ru": "OMV053257L_2",
+        "en": "OMV053257L_2"
+       },
+       "words": 1678,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_ev9_hvac_t002_74832959",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1389,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_ev9_hvac_t003_ad6fefdd",
+       "title": {
+        "ru": "SRS care",
+        "en": "SRS care"
+       },
+       "words": 1160,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "kia_ev9_body_t000_2f848fb2",
+       "title": {
+        "ru": "OMVQ014012",
+        "en": "OMVQ014012"
+       },
+       "words": 1451,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t001_49cd480a",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 2235,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t002_ca7eac53",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 949,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t003_6b872ec2",
+       "title": {
+        "ru": "OMV044066L_2",
+        "en": "OMV044066L_2"
+       },
+       "words": 1109,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t004_4365024a",
+       "title": {
+        "ru": "OMV044097L",
+        "en": "OMV044097L"
+       },
+       "words": 1392,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t005_d2241ccd",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 1056,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t006_e6e19365",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 1818,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t007_af5e6394",
+       "title": {
+        "ru": "OMV043121R",
+        "en": "OMV043121R"
+       },
+       "words": 1842,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t008_d19faad0",
+       "title": {
+        "ru": "ISO CRF:",
+        "en": "ISO CRF:"
+       },
+       "words": 3107,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t009_0dbe4731",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1439,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t010_dab6e318",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 2321,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t011_1c7e5420",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1220,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t012_294f3300",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1556,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t013_915f8285",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 2095,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t014_a60b27c5",
+       "title": {
+        "ru": "OMV053128L",
+        "en": "OMV053128L"
+       },
+       "words": 1211,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_ev9_body_t015_611846a3",
+       "title": {
+        "ru": "AC 3",
+        "en": "AC 3"
+       },
+       "words": 2460,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "kia_ev9_lighting_t000_26b62360",
+       "title": {
+        "ru": "OMVQ014013R",
+        "en": "OMVQ014013R"
+       },
+       "words": 1376,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev9_lighting_t001_54405684",
+       "title": {
+        "ru": "OMV054122R",
+        "en": "OMV054122R"
+       },
+       "words": 1545,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev9_lighting_t002_d748ae30",
+       "title": {
+        "ru": "OMV034058L_6",
+        "en": "OMV034058L_6"
+       },
+       "words": 2146,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev9_lighting_t003_2dc6c17b",
+       "title": {
+        "ru": "Operating ESC",
+        "en": "Operating ESC"
+       },
+       "words": 1226,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev9_lighting_t004_b07276f5",
+       "title": {
+        "ru": "ERA-GLONASS system",
+        "en": "ERA-GLONASS system"
+       },
+       "words": 2703,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_ev9_lighting_t005_28b70ad0",
+       "title": {
+        "ru": "REPLACEMENTPARTSWARRANTY",
+        "en": "REPLACEMENTPARTSWARRANTY"
+       },
+       "words": 1513,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "kia_ev9_adas_t000_b776f762",
+       "title": {
+        "ru": "OMV034004L",
+        "en": "OMV034004L"
+       },
+       "words": 1004,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t001_2e208c3e",
+       "title": {
+        "ru": "OMV054002L",
+        "en": "OMV054002L"
+       },
+       "words": 1455,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t002_3d593b25",
+       "title": {
+        "ru": "OMV054347R",
+        "en": "OMV054347R"
+       },
+       "words": 1135,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t003_189071d4",
+       "title": {
+        "ru": "Assist (PCA)*",
+        "en": "Assist (PCA)*"
+       },
+       "words": 1084,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t004_853f2549",
+       "title": {
+        "ru": "OMV073220L",
+        "en": "OMV073220L"
+       },
+       "words": 1103,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t005_a17183e8",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 2556,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t006_bd41e46e",
+       "title": {
+        "ru": "OMV054330L",
+        "en": "OMV054330L"
+       },
+       "words": 1048,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t007_ed6a74ea",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1551,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t008_8d786366",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 1769,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t009_2e0661e1",
+       "title": {
+        "ru": "OMV073251L",
+        "en": "OMV073251L"
+       },
+       "words": 891,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t010_56f4bb21",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 1256,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t011_c91cc02a",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 996,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t012_828768bd",
+       "title": {
+        "ru": "OMV074123R",
+        "en": "OMV074123R"
+       },
+       "words": 1040,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t013_7e5f5ed8",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1169,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t014_d606ed8f",
+       "title": {
+        "ru": "OMV074273R",
+        "en": "OMV074273R"
+       },
+       "words": 1161,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t015_ffb5841f",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1010,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t016_cb63ecf5",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 1597,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t017_2d45d281",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 844,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t018_9109a385",
+       "title": {
+        "ru": "OMV074174L",
+        "en": "OMV074174L"
+       },
+       "words": 1910,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t019_bf85d485",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1327,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t020_63cd7f45",
+       "title": {
+        "ru": "OMV074023R",
+        "en": "OMV074023R"
+       },
+       "words": 1350,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t021_621c0fa1",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1036,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t022_8588eb90",
+       "title": {
+        "ru": "OMV073182L",
+        "en": "OMV073182L"
+       },
+       "words": 1404,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t023_77272872",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1201,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t024_54f14c49",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 2177,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t025_b4be355b",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 2560,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t026_7dde3f84",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 941,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t027_ef05dc32",
+       "title": {
+        "ru": "OMV073202L_2",
+        "en": "OMV073202L_2"
+       },
+       "words": 1944,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t028_5f17a5c7",
+       "title": {
+        "ru": "OMV073210L",
+        "en": "OMV073210L"
+       },
+       "words": 1177,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_ev9_adas_t029_5c98ee3b",
+       "title": {
+        "ru": "ADAS Driving ECU, VESS (Virtual Engine Sound",
+        "en": "ADAS Driving ECU, VESS (Virtual Engine Sound"
+       },
+       "words": 597,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "kia_ev9_interior_t000_8680286e",
+       "title": {
+        "ru": "OFF mode",
+        "en": "OFF mode"
+       },
+       "words": 2285,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_ev9_interior_t001_bb278877",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 225,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "kia_ev9_chassis_t000_39d42766",
+       "title": {
+        "ru": "OMV044073L",
+        "en": "OMV044073L"
+       },
+       "words": 2124,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "kia_ev9_general_t000_1d4d0523",
+       "title": {
+        "ru": "ISOFIX with Support Leg",
+        "en": "ISOFIX with Support Leg"
+       },
+       "words": 1332,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev9_general_t001_718c850e",
+       "title": {
+        "ru": "OMV054109L_3",
+        "en": "OMV054109L_3"
+       },
+       "words": 1008,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev9_general_t002_d4257048",
+       "title": {
+        "ru": "OMV053172R_3",
+        "en": "OMV053172R_3"
+       },
+       "words": 692,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev9_general_t003_c8bd2d85",
+       "title": {
+        "ru": "OMV073161R",
+        "en": "OMV073161R"
+       },
+       "words": 1884,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_ev9_general_t004_29fc9754",
+       "title": {
+        "ru": "KIAEXTENDEDWARRANTY*",
+        "en": "KIAEXTENDEDWARRANTY*"
+       },
+       "words": 180,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_ev9_safety_t000_3550d8ae",
+       "title": {
+        "ru": "You will find various DANGERS, WARNINGS, CAUTIONS, NOTICES, INFORMATIONS in",
+        "en": "You will find various DANGERS, WARNINGS, CAUTIONS, NOTICES, INFORMATIONS in"
+       },
+       "words": 1918,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_ev9_safety_t001_28870fca",
+       "title": {
+        "ru": "ISOFIX and Vehicle belt",
+        "en": "ISOFIX and Vehicle belt"
+       },
+       "words": 1666,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_ev9_safety_t002_81016182",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 390,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "ev_battery",
+     "title": {
+      "ru": "ev_battery",
+      "en": "ev_battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_ev9_ev_battery_t000_1c332cd0",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1703,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t001_aad14018",
+       "title": {
+        "ru": "OMVQ014016L",
+        "en": "OMVQ014016L"
+       },
+       "words": 1824,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t002_803e06f8",
+       "title": {
+        "ru": "AC Charge",
+        "en": "AC Charge"
+       },
+       "words": 1414,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t003_f2f84cfa",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1727,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t004_57a2fe14",
+       "title": {
+        "ru": "Green ON, FAULT Red Blink)",
+        "en": "Green ON, FAULT Red Blink)"
+       },
+       "words": 2093,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t005_deade799",
+       "title": {
+        "ru": "OMVQ013034L",
+        "en": "OMVQ013034L"
+       },
+       "words": 1159,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t006_b013fc03",
+       "title": {
+        "ru": "AC Charge",
+        "en": "AC Charge"
+       },
+       "words": 1499,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t007_42b3bc62",
+       "title": {
+        "ru": "OMV023006L",
+        "en": "OMV023006L"
+       },
+       "words": 2044,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t008_8072a591",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 1395,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t009_9a4ac5fe",
+       "title": {
+        "ru": "OMV044096L",
+        "en": "OMV044096L"
+       },
+       "words": 1527,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t010_ab8a3a74",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 2584,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t011_87efe1bf",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 3263,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t012_179357f1",
+       "title": {
+        "ru": "SRS care",
+        "en": "SRS care"
+       },
+       "words": 2362,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t013_6a3b03a9",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1296,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t014_fac7af86",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 2291,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t015_3c7e1ced",
+       "title": {
+        "ru": "OMV054101R",
+        "en": "OMV054101R"
+       },
+       "words": 1702,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t016_fa4eb607",
+       "title": {
+        "ru": "OMV054221L",
+        "en": "OMV054221L"
+       },
+       "words": 2196,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t017_f48c0807",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1545,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t018_eb63d4e6",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 1339,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t019_8b38a56d",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1818,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t020_43270411",
+       "title": {
+        "ru": "DRIVE",
+        "en": "DRIVE"
+       },
+       "words": 3339,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t021_8006e701",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1120,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t022_951c6552",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 1540,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t023_1c47918d",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 1900,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t024_296bfa65",
+       "title": {
+        "ru": "AWD (AWD/TERRAIN MODE) (if equipped)",
+        "en": "AWD (AWD/TERRAIN MODE) (if equipped)"
+       },
+       "words": 1282,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t025_b50e4920",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 2354,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t026_96bb48a5",
+       "title": {
+        "ru": "OMV073124L",
+        "en": "OMV073124L"
+       },
+       "words": 1393,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t027_2161ca6d",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 2065,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t028_a5243e1d",
+       "title": {
+        "ru": "Smart key LED",
+        "en": "Smart key LED"
+       },
+       "words": 1170,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t029_e24e22ee",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 3430,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t030_08646944",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 2241,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t031_07af6390",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1339,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t032_c379981c",
+       "title": {
+        "ru": "IG1 Relay",
+        "en": "IG1 Relay"
+       },
+       "words": 1136,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t033_f292a6b4",
+       "title": {
+        "ru": "IMPORTER & DISTRIBUTOR INFORMATION (EU 2023/1542)",
+        "en": "IMPORTER & DISTRIBUTOR INFORMATION (EU 2023/1542)"
+       },
+       "words": 885,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_ev9_ev_battery_t034_47cbc87d",
+       "title": {
+        "ru": "DELIVERY DATE(Month-Day-Year)",
+        "en": "DELIVERY DATE(Month-Day-Year)"
+       },
+       "words": 1208,
+       "images": 0,
+       "section_id": "ev_battery"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_ev9_infotainment_t000_672de808",
+       "title": {
+        "ru": "On/Off",
+        "en": "On/Off"
+       },
+       "words": 941,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev9_infotainment_t001_7ccc9224",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 702,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev9_infotainment_t002_6f443aad",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 970,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_ev9_infotainment_t003_91de84bf",
+       "title": {
+        "ru": "AIR BAG1",
+        "en": "AIR BAG1"
+       },
+       "words": 1073,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

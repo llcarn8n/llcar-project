@@ -1,0 +1,945 @@
+{
+ "version": "1.0",
+ "model": "rexton",
+ "manuals": [
+  {
+   "model": "rexton",
+   "label": {
+    "ru": "Ssangyong Rexton — Руководство по ремонту",
+    "en": "Ssangyong Rexton — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "ssangyong_rexton_engine_t000_0b351606",
+       "title": {
+        "ru": "#1 Exhaust Pipe Removal and Installation",
+        "en": "#1 Exhaust Pipe Removal and Installation"
+       },
+       "words": 12,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "ssangyong_rexton_brakes_t000_d50c3381",
+       "title": {
+        "ru": "Must absolutely not operate the turbo charger with the compressor outlet and inl",
+        "en": "Must absolutely not operate the turbo charger with the compressor outlet and inl"
+       },
+       "words": 398,
+       "images": 6,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "ssangyong_rexton_lighting_t000_d1688348",
+       "title": {
+        "ru": "ELECTRICAL COMPONENTS AND PRE HEATING SYSTEM",
+        "en": "ELECTRICAL COMPONENTS AND PRE HEATING SYSTEM"
+       },
+       "words": 536,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t001_228baa06",
+       "title": {
+        "ru": "Major Components and Service Interval",
+        "en": "Major Components and Service Interval"
+       },
+       "words": 263,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t002_f770dbce",
+       "title": {
+        "ru": "Fuel and lubrication system",
+        "en": "Fuel and lubrication system"
+       },
+       "words": 572,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t003_a801f4b3",
+       "title": {
+        "ru": "Major Components in Engine and Engine Compartment",
+        "en": "Major Components in Engine and Engine Compartment"
+       },
+       "words": 390,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t004_ceee98ca",
+       "title": {
+        "ru": "Permissible Pressure Leakage",
+        "en": "Permissible Pressure Leakage"
+       },
+       "words": 79,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t005_4ebaa122",
+       "title": {
+        "ru": "Before unscrewing the transmission mounting bolts, remove the starter motor.",
+        "en": "Before unscrewing the transmission mounting bolts, remove the starter motor."
+       },
+       "words": 290,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t006_7da45e99",
+       "title": {
+        "ru": "Accessories - Removal and Installation",
+        "en": "Accessories - Removal and Installation"
+       },
+       "words": 232,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t007_968b7072",
+       "title": {
+        "ru": "Engine - Disassembly and Reassembly",
+        "en": "Engine - Disassembly and Reassembly"
+       },
+       "words": 186,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t008_43c70f34",
+       "title": {
+        "ru": "Installation Notice",
+        "en": "Installation Notice"
+       },
+       "words": 566,
+       "images": 51,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t009_968702d2",
+       "title": {
+        "ru": "Cylinder Head Pressure Leakage Test",
+        "en": "Cylinder Head Pressure Leakage Test"
+       },
+       "words": 172,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t010_11e30734",
+       "title": {
+        "ru": "•Apply the sealant to the bolts for the vacuum pump and the timing chain cover.",
+        "en": "•Apply the sealant to the bolts for the vacuum pump and the timing chain cover."
+       },
+       "words": 461,
+       "images": 41,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t011_51fd9a81",
+       "title": {
+        "ru": "Special Tools and Equipment",
+        "en": "Special Tools and Equipment"
+       },
+       "words": 621,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t012_0701af63",
+       "title": {
+        "ru": "Matching Crankshaft Bearing Shells to Basic Bearing Journal of Crankshaft",
+        "en": "Matching Crankshaft Bearing Shells to Basic Bearing Journal of Crankshaft"
+       },
+       "words": 163,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t013_172e7ad1",
+       "title": {
+        "ru": "DUAL MASS FLYWHEEL (DMF, MANUAL TRANSMISSION EQUIPPED VEHICLE)",
+        "en": "DUAL MASS FLYWHEEL (DMF, MANUAL TRANSMISSION EQUIPPED VEHICLE)"
+       },
+       "words": 443,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t014_4ffc3297",
+       "title": {
+        "ru": "CYLINDER INNER DIAMETER AND PISTON SIZE",
+        "en": "CYLINDER INNER DIAMETER AND PISTON SIZE"
+       },
+       "words": 376,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t015_56458bb3",
+       "title": {
+        "ru": "Intake Air Outlet Hose (Turbo Charger) - Removal and Installation",
+        "en": "Intake Air Outlet Hose (Turbo Charger) - Removal and Installation"
+       },
+       "words": 187,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t016_02dadcc0",
+       "title": {
+        "ru": "Intake Air Inlet Duct (Intake Manifold) - Removal and Installation",
+        "en": "Intake Air Inlet Duct (Intake Manifold) - Removal and Installation"
+       },
+       "words": 288,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t017_f31d9dcc",
+       "title": {
+        "ru": "Booster Pressure Control Valve Unit (Turbo Charger Actuator)",
+        "en": "Booster Pressure Control Valve Unit (Turbo Charger Actuator)"
+       },
+       "words": 855,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t018_396d338b",
+       "title": {
+        "ru": "3. Turbine Side: Inflow of foreign materials from engine Compressor Side: such a",
+        "en": "3. Turbine Side: Inflow of foreign materials from engine Compressor Side: such a"
+       },
+       "words": 246,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t019_aee2644d",
+       "title": {
+        "ru": "IDI engine vacuum modulator (hoover EGR system - K2004)",
+        "en": "IDI engine vacuum modulator (hoover EGR system - K2004)"
+       },
+       "words": 266,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t020_7a20070a",
+       "title": {
+        "ru": "Catalytic Converter Removal and Installation",
+        "en": "Catalytic Converter Removal and Installation"
+       },
+       "words": 397,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t021_4dcd0d98",
+       "title": {
+        "ru": "•Apply the Loctite onto the thread of the switch and check for oil leaks.",
+        "en": "•Apply the Loctite onto the thread of the switch and check for oil leaks."
+       },
+       "words": 218,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t022_98256550",
+       "title": {
+        "ru": "After driving, the engine oil temperature may be high enough to burn you. Wait u",
+        "en": "After driving, the engine oil temperature may be high enough to burn you. Wait u"
+       },
+       "words": 151,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t023_9d5734b3",
+       "title": {
+        "ru": "When fully opened (above 100°C)",
+        "en": "When fully opened (above 100°C)"
+       },
+       "words": 376,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t024_745878ee",
+       "title": {
+        "ru": "When partially opened (85°C \\~ 100°C)",
+        "en": "When partially opened (85°C \\~ 100°C)"
+       },
+       "words": 399,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t025_642e3af6",
+       "title": {
+        "ru": "Water Pump - Assembly",
+        "en": "Water Pump - Assembly"
+       },
+       "words": 420,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t026_dab353ed",
+       "title": {
+        "ru": "Fuel Filter and Water Separator",
+        "en": "Fuel Filter and Water Separator"
+       },
+       "words": 258,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t027_77b850f6",
+       "title": {
+        "ru": "Hydraulic cycle in Fuel Line (Transfer and High Pressure Line)",
+        "en": "Hydraulic cycle in Fuel Line (Transfer and High Pressure Line)"
+       },
+       "words": 555,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t028_16d785c0",
+       "title": {
+        "ru": "To prevent oil leaks, store the removed auto tensioner in upright position.",
+        "en": "To prevent oil leaks, store the removed auto tensioner in upright position."
+       },
+       "words": 595,
+       "images": 30,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t029_168a26b8",
+       "title": {
+        "ru": "Check the timing chain and guide pin for contact.",
+        "en": "Check the timing chain and guide pin for contact."
+       },
+       "words": 411,
+       "images": 37,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t030_67f30daa",
+       "title": {
+        "ru": "Fuel Temperature Sensor",
+        "en": "Fuel Temperature Sensor"
+       },
+       "words": 582,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t031_4d95b13e",
+       "title": {
+        "ru": "Maximum fuel volume at each injector cycle",
+        "en": "Maximum fuel volume at each injector cycle"
+       },
+       "words": 373,
+       "images": 30,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t032_e8363a18",
+       "title": {
+        "ru": "INDIVIDUAL INJECTOR CALIBRATION (C2I)",
+        "en": "INDIVIDUAL INJECTOR CALIBRATION (C2I)"
+       },
+       "words": 805,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t033_d981b6f7",
+       "title": {
+        "ru": "CIRCUIT DIAGRAM OF STARTING AND ALTERNATOR",
+        "en": "CIRCUIT DIAGRAM OF STARTING AND ALTERNATOR"
+       },
+       "words": 233,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t034_00db256a",
+       "title": {
+        "ru": "SCAN-I OPERATING PROCEDURES - D27DT ENGINE",
+        "en": "SCAN-I OPERATING PROCEDURES - D27DT ENGINE"
+       },
+       "words": 265,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t035_77278107",
+       "title": {
+        "ru": "Trouble Code Clear",
+        "en": "Trouble Code Clear"
+       },
+       "words": 1092,
+       "images": 130,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t036_d19ea526",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 22,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t037_fabd0bca",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 57,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t038_6ddf3248",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 27,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t039_57547a3f",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 21,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t040_81a8b632",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 16,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t041_3b6bd9be",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 54,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t042_032293ef",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 45,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t043_f377a964",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 16,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t044_fa723073",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 15,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t045_34f07842",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 23,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t046_d6fcd871",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 53,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t047_df1f8f5d",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 33,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t048_7bfe07b8",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 17,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t049_a776d54f",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 16,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t050_9e913f54",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 21,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t051_ef251f6e",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 40,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t052_9920144b",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 24,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t053_45da2471",
+       "title": {
+        "ru": "Trouble Code and Symptom",
+        "en": "Trouble Code and Symptom"
+       },
+       "words": 15,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t054_5da11fd2",
+       "title": {
+        "ru": "Example of Pressure/Volume Loss in Pump",
+        "en": "Example of Pressure/Volume Loss in Pump"
+       },
+       "words": 100,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_rexton_lighting_t055_cf3d8301",
+       "title": {
+        "ru": "If the measured value is out of specified value, replace the injector.",
+        "en": "If the measured value is out of specified value, replace the injector."
+       },
+       "words": 573,
+       "images": 31,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "ssangyong_rexton_ev_t000_01b7b999",
+       "title": {
+        "ru": "TROUBLE DIAGNOSIS PROCEDURES",
+        "en": "TROUBLE DIAGNOSIS PROCEDURES"
+       },
+       "words": 6,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "ssangyong_rexton_general_t000_7d91d211",
+       "title": {
+        "ru": "Cleanness of DI Engine Fuel System and Service Procedures",
+        "en": "Cleanness of DI Engine Fuel System and Service Procedures"
+       },
+       "words": 997,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t001_13324597",
+       "title": {
+        "ru": "During Service Work - Inspection",
+        "en": "During Service Work - Inspection"
+       },
+       "words": 1302,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t002_8da5e20a",
+       "title": {
+        "ru": "DIAGNOSTIC INFORMATION AND PROCEDURE .. DI01-15",
+        "en": "DIAGNOSTIC INFORMATION AND PROCEDURE .. DI01-15"
+       },
+       "words": 558,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t003_a37c47e8",
+       "title": {
+        "ru": "COMPRESSION PRESSURE TEST",
+        "en": "COMPRESSION PRESSURE TEST"
+       },
+       "words": 648,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t004_3f7f95b2",
+       "title": {
+        "ru": "Removal and Installation Order of Major Accessories",
+        "en": "Removal and Installation Order of Major Accessories"
+       },
+       "words": 461,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t005_83430d6c",
+       "title": {
+        "ru": "CYLINDE HEA/.YLIN DE BLOCK . MI2-3",
+        "en": "CYLINDE HEA/.YLIN DE BLOCK . MI2-3"
+       },
+       "words": 545,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t006_260c6df1",
+       "title": {
+        "ru": "PISTON AND CONNECTING. ROD . . 4",
+        "en": "PISTON AND CONNECTING. ROD . . 4"
+       },
+       "words": 403,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t007_db727d1a",
+       "title": {
+        "ru": "Removal and Installation",
+        "en": "Removal and Installation"
+       },
+       "words": 541,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t008_c91deb1f",
+       "title": {
+        "ru": "Crankshaft  Disassembly",
+        "en": "Crankshaft  Disassembly"
+       },
+       "words": 482,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t009_2b45d8e6",
+       "title": {
+        "ru": "HP Pump - Disassembly and Reassembly",
+        "en": "HP Pump - Disassembly and Reassembly"
+       },
+       "words": 624,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t010_2e3c7d9e",
+       "title": {
+        "ru": "Air Cleaner Housing - Removal and Installation",
+        "en": "Air Cleaner Housing - Removal and Installation"
+       },
+       "words": 934,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t011_0fe93bb5",
+       "title": {
+        "ru": "EGR VALVE AND VACUUM MODULATOR .. DMI04-27",
+        "en": "EGR VALVE AND VACUUM MODULATOR .. DMI04-27"
+       },
+       "words": 916,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t012_84faf949",
+       "title": {
+        "ru": "Operating principle: Balance between original vacuum pressure and magnetic force",
+        "en": "Operating principle: Balance between original vacuum pressure and magnetic force"
+       },
+       "words": 1388,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t013_e27fd984",
+       "title": {
+        "ru": "Catalytic converter and temperature",
+        "en": "Catalytic converter and temperature"
+       },
+       "words": 695,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t014_dcf7ccc7",
+       "title": {
+        "ru": "Purification of catalytic converter",
+        "en": "Purification of catalytic converter"
+       },
+       "words": 571,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t015_02e792d4",
+       "title": {
+        "ru": "Scalding hot coolant and steam could be blown out under pressure, which could ca",
+        "en": "Scalding hot coolant and steam could be blown out under pressure, which could ca"
+       },
+       "words": 879,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t016_02544ab4",
+       "title": {
+        "ru": "Draining and Adding of Coolant",
+        "en": "Draining and Adding of Coolant"
+       },
+       "words": 421,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t017_517484eb",
+       "title": {
+        "ru": "Conditions for using Priming Pump",
+        "en": "Conditions for using Priming Pump"
+       },
+       "words": 626,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t018_1ea46608",
+       "title": {
+        "ru": "High pressure pump (including IMV and limit valve)",
+        "en": "High pressure pump (including IMV and limit valve)"
+       },
+       "words": 696,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t019_2df788a5",
+       "title": {
+        "ru": "Phasing of HP pump required and offer 2 advantages",
+        "en": "Phasing of HP pump required and offer 2 advantages"
+       },
+       "words": 1195,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t020_dc63a245",
+       "title": {
+        "ru": "Align the oil galleries in cylinder block and bearing bracket.",
+        "en": "Align the oil galleries in cylinder block and bearing bracket."
+       },
+       "words": 635,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t021_5b89d790",
+       "title": {
+        "ru": "Fuel De-Waxing – Improving starting performance in cold weather",
+        "en": "Fuel De-Waxing – Improving starting performance in cold weather"
+       },
+       "words": 528,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t022_a924eb3b",
+       "title": {
+        "ru": "Start of injection",
+        "en": "Start of injection"
+       },
+       "words": 801,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t023_592e9c89",
+       "title": {
+        "ru": "ECU IОРХФУбOХФРХФУ",
+        "en": "ECU IОРХФУбOХФРХФУ"
+       },
+       "words": 641,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t024_e8a41d0d",
+       "title": {
+        "ru": "Fuel Pressure Control Elements",
+        "en": "Fuel Pressure Control Elements"
+       },
+       "words": 2136,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t025_baf88696",
+       "title": {
+        "ru": "<When depressing the accelerator pedal and brake pedal simultaneously>",
+        "en": "<When depressing the accelerator pedal and brake pedal simultaneously>"
+       },
+       "words": 1174,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t026_d21b47ef",
+       "title": {
+        "ru": "SCAN-I OPERATING PROCE-DURES XDi270 ENGINE",
+        "en": "SCAN-I OPERATING PROCE-DURES XDi270 ENGINE"
+       },
+       "words": 759,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t027_1134261f",
+       "title": {
+        "ru": "Pressure/Volume Loss in High Pressure Pump",
+        "en": "Pressure/Volume Loss in High Pressure Pump"
+       },
+       "words": 2782,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_rexton_general_t028_7f5dbee8",
+       "title": {
+        "ru": "PRESSURE LEAKAGE TEST WITH SCAN-100",
+        "en": "PRESSURE LEAKAGE TEST WITH SCAN-100"
+       },
+       "words": 198,
+       "images": 5,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,585 @@
+{
+ "version": "1.0",
+ "model": "es",
+ "manuals": [
+  {
+   "model": "es",
+   "label": {
+    "ru": "Lexus Es — Руководство по ремонту",
+    "en": "Lexus Es — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "lexus_es_engine_t000_5fe355d9",
+       "title": {
+        "ru": "ACCESSORY or IGNITION ON",
+        "en": "ACCESSORY or IGNITION ON"
+       },
+       "words": 2596,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_es_engine_t001_06c23395",
+       "title": {
+        "ru": "ACCESSORY or IGNITION ON",
+        "en": "ACCESSORY or IGNITION ON"
+       },
+       "words": 2192,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_es_engine_t002_55c3a7bb",
+       "title": {
+        "ru": "FMVSS No.116 DOT 4",
+        "en": "FMVSS No.116 DOT 4"
+       },
+       "words": 1372,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_es_engine_t003_210d6928",
+       "title": {
+        "ru": "FMVSS No.116 DOT 4 or SAE J1704",
+        "en": "FMVSS No.116 DOT 4 or SAE J1704"
+       },
+       "words": 1453,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_es_engine_t004_5eba059c",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1646,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "lexus_es_brakes_t000_9bd3c3b0",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1893,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lexus_es_brakes_t001_e5ac0b30",
+       "title": {
+        "ru": "ABS, TRAC, VSC and EPS.",
+        "en": "ABS, TRAC, VSC and EPS."
+       },
+       "words": 2093,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lexus_es_brakes_t002_83d903b5",
+       "title": {
+        "ru": "ACCESSORY or IGNITION ON",
+        "en": "ACCESSORY or IGNITION ON"
+       },
+       "words": 2025,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "lexus_es_hvac_t000_b66df6d8",
+       "title": {
+        "ru": "(P.79)",
+        "en": "(P.79)"
+       },
+       "words": 7390,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "lexus_es_body_t000_0ea5493b",
+       "title": {
+        "ru": "*2: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.",
+        "en": "*2: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”."
+       },
+       "words": 2500,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_es_body_t001_1be6bbfe",
+       "title": {
+        "ru": "ACCESSORY",
+        "en": "ACCESSORY"
+       },
+       "words": 5341,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_es_body_t002_5fdd82c0",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 4711,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_es_body_t003_810518bf",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 5344,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_es_body_t004_b72140fb",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 4806,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_es_body_t005_f2281a66",
+       "title": {
+        "ru": "GAS STATION INFORMATION",
+        "en": "GAS STATION INFORMATION"
+       },
+       "words": 132,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "lexus_es_steering_t000_f39ea40e",
+       "title": {
+        "ru": "NOTICE:",
+        "en": "NOTICE:"
+       },
+       "words": 1559,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "lexus_es_lighting_t000_48deee78",
+       "title": {
+        "ru": "TABLE OF CONTENTS",
+        "en": "TABLE OF CONTENTS"
+       },
+       "words": 758,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_es_lighting_t001_b46ec274",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2948,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_es_lighting_t002_5afabf67",
+       "title": {
+        "ru": "U.S.A.",
+        "en": "U.S.A."
+       },
+       "words": 6051,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_es_lighting_t003_3d96db6e",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 4536,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "lexus_es_adas_t000_5c0b2940",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 630,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "lexus_es_adas_t001_4bc7714c",
+       "title": {
+        "ru": "• TRAC",
+        "en": "• TRAC"
+       },
+       "words": 2980,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "lexus_es_interior_t000_fbc1bfed",
+       "title": {
+        "ru": "*: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.",
+        "en": "*: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”."
+       },
+       "words": 4471,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_es_interior_t001_eb784bdc",
+       "title": {
+        "ru": "MULTIMEDIA SYSTEM OWNER’S",
+        "en": "MULTIMEDIA SYSTEM OWNER’S"
+       },
+       "words": 1537,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_es_interior_t002_2a42fcd7",
+       "title": {
+        "ru": "AVERTISSEMENT",
+        "en": "AVERTISSEMENT"
+       },
+       "words": 1872,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "wheels",
+     "title": {
+      "ru": "Колёса и шины",
+      "en": "Wheels & Tires"
+     },
+     "icon": "🛞",
+     "topics": [
+      {
+       "id": "lexus_es_wheels_t000_4930785e",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1931,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_es_wheels_t001_ab86af94",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 5494,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_es_wheels_t002_4ded689a",
+       "title": {
+        "ru": "FMVSS No.116 DOT 3 or SAE J1703",
+        "en": "FMVSS No.116 DOT 3 or SAE J1703"
+       },
+       "words": 779,
+       "images": 0,
+       "section_id": "wheels"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "lexus_es_maintenance_t000_562d4f8c",
+       "title": {
+        "ru": "OWNER’S",
+        "en": "OWNER’S"
+       },
+       "words": 914,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "lexus_es_ev_t000_766a599a",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2708,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "lexus_es_general_t000_e634ae11",
+       "title": {
+        "ru": "FMVSS225 or CMVSS210.2.",
+        "en": "FMVSS225 or CMVSS210.2."
+       },
+       "words": 3438,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_es_general_t001_26f0a5c7",
+       "title": {
+        "ru": "●If “ACCESSORY” or “IGNITION",
+        "en": "●If “ACCESSORY” or “IGNITION"
+       },
+       "words": 1741,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_es_general_t002_5496eb7d",
+       "title": {
+        "ru": "“TEMPORARY USE ONLY”",
+        "en": "“TEMPORARY USE ONLY”"
+       },
+       "words": 3578,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_es_general_t003_0d16cb04",
+       "title": {
+        "ru": "AVERTISSEMENT",
+        "en": "AVERTISSEMENT"
+       },
+       "words": 277,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_es_infotainment_t000_aff11343",
+       "title": {
+        "ru": "*2: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”.",
+        "en": "*2: Refer to “NAVIGATION AND MULTIMEDIA SYSTEM OWNER’S MANUAL”."
+       },
+       "words": 2247,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_es_infotainment_t001_4a4d243d",
+       "title": {
+        "ru": "TION AND MULTIMEDIA SYSTEM",
+        "en": "TION AND MULTIMEDIA SYSTEM"
+       },
+       "words": 830,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_es_safety_t000_0d8e7e80",
+       "title": {
+        "ru": "“PASSENGER AIR BAG OFF” indi-",
+        "en": "“PASSENGER AIR BAG OFF” indi-"
+       },
+       "words": 2049,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_es_safety_t001_b0d0fac4",
+       "title": {
+        "ru": "(P.24)",
+        "en": "(P.24)"
+       },
+       "words": 2420,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_es_safety_t002_11137bd0",
+       "title": {
+        "ru": "AVERTISSEMENT",
+        "en": "AVERTISSEMENT"
+       },
+       "words": 596,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_es_drivetrain_t000_dc745802",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 5639,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_es_sensors_t000_e431af81",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 4842,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

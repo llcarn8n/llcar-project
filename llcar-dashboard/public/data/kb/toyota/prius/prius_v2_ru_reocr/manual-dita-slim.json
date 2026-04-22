@@ -1,0 +1,645 @@
+{
+ "version": "1.0",
+ "model": "prius",
+ "manuals": [
+  {
+   "model": "prius",
+   "label": {
+    "ru": "Toyota Prius — Руководство по ремонту",
+    "en": "Toyota Prius — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "toyota_prius_engine_t000_4ad5770f",
+       "title": {
+        "ru": "Use the \"A/C\" mode (with the \"A/C\" button only on) when you use the air conditio",
+        "en": "Use the \"A/C\" mode (with the \"A/C\" button only on) when you use the air conditio"
+       },
+       "words": 1235,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "toyota_prius_engine_t001_c9ebfa93",
+       "title": {
+        "ru": "For economical and environment-friendly use",
+        "en": "For economical and environment-friendly use"
+       },
+       "words": 919,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "toyota_prius_engine_t002_2298b4ef",
+       "title": {
+        "ru": "The amount of engine oil consumed depends on the viscosity of the oil, the quali",
+        "en": "The amount of engine oil consumed depends on the viscosity of the oil, the quali"
+       },
+       "words": 845,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "toyota_prius_engine_t003_a72966c8",
+       "title": {
+        "ru": "Oil identification marks Either or both APl registered marks are added to some o",
+        "en": "Oil identification marks Either or both APl registered marks are added to some o"
+       },
+       "words": 954,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "toyota_prius_engine_t004_54905e9a",
+       "title": {
+        "ru": "COOLING SYSTEM",
+        "en": "COOLING SYSTEM"
+       },
+       "words": 308,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "toyota_prius_brakes_t000_3f5b8a2f",
+       "title": {
+        "ru": "CHECKING SERVICE REMINDER INDICATORs (except the low fuel level indicator light)",
+        "en": "CHECKING SERVICE REMINDER INDICATORs (except the low fuel level indicator light)"
+       },
+       "words": 1006,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "toyota_prius_brakes_t001_06eb108d",
+       "title": {
+        "ru": "(g) If you cannot shift lever out of \"p\" position",
+        "en": "(g) If you cannot shift lever out of \"p\" position"
+       },
+       "words": 836,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "toyota_prius_brakes_t002_367c52d6",
+       "title": {
+        "ru": "If the instrument cluster dims or the instrument cluster display turns off with ",
+        "en": "If the instrument cluster dims or the instrument cluster display turns off with "
+       },
+       "words": 1212,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "toyota_prius_brakes_t003_ec06942e",
+       "title": {
+        "ru": "Automatic transmission \"Park\" mechanism",
+        "en": "Automatic transmission \"Park\" mechanism"
+       },
+       "words": 313,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "toyota_prius_suspension_t000_83b222f2",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 22,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "toyota_prius_hvac_t000_5c31486f",
+       "title": {
+        "ru": "Checking and replacing the air conditioning filter",
+        "en": "Checking and replacing the air conditioning filter"
+       },
+       "words": 438,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "toyota_prius_body_t000_2b4cf789",
+       "title": {
+        "ru": "REAR DOOR CHILD-PROTECTORS Move the lock lever to the “LOCK\" position as shown o",
+        "en": "REAR DOOR CHILD-PROTECTORS Move the lock lever to the “LOCK\" position as shown o"
+       },
+       "words": 933,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "toyota_prius_body_t001_16e04e2c",
+       "title": {
+        "ru": "To open the trunk lid from the outside, insert the key and turn it clockwise.",
+        "en": "To open the trunk lid from the outside, insert the key and turn it clockwise."
+       },
+       "words": 768,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "toyota_prius_body_t002_340f2ec2",
+       "title": {
+        "ru": "To turn on the windshield wipers, move the lever to the desired setting.",
+        "en": "To turn on the windshield wipers, move the lever to the desired setting."
+       },
+       "words": 848,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "toyota_prius_body_t003_38160f66",
+       "title": {
+        "ru": "Keep the door locks from freezing.",
+        "en": "Keep the door locks from freezing."
+       },
+       "words": 923,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "toyota_prius_steering_t000_d63dc5dc",
+       "title": {
+        "ru": "Keep ice and snow from accumulating under the fenders.",
+        "en": "Keep ice and snow from accumulating under the fenders."
+       },
+       "words": 1744,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "toyota_prius_steering_t001_a2e6668b",
+       "title": {
+        "ru": "2. Block the wheel diagonally opposite the flat tire to keep the vehicle from ro",
+        "en": "2. Block the wheel diagonally opposite the flat tire to keep the vehicle from ro"
+       },
+       "words": 1014,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "toyota_prius_steering_t002_d5ea35bc",
+       "title": {
+        "ru": "Aluminum wheel precautions",
+        "en": "Aluminum wheel precautions"
+       },
+       "words": 433,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "toyota_prius_lighting_t000_e31ec413",
+       "title": {
+        "ru": "Instrument cluster and multi—information display overview",
+        "en": "Instrument cluster and multi—information display overview"
+       },
+       "words": 752,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "toyota_prius_lighting_t001_5cdb4714",
+       "title": {
+        "ru": "To adjust the brightness of the instrument panel lights, turn the dial.",
+        "en": "To adjust the brightness of the instrument panel lights, turn the dial."
+       },
+       "words": 926,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "toyota_prius_lighting_t002_94629874",
+       "title": {
+        "ru": "4. Position the jack at the jack points as shown.",
+        "en": "4. Position the jack at the jack points as shown."
+       },
+       "words": 1246,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "toyota_prius_lighting_t003_86a1118a",
+       "title": {
+        "ru": "Checking auxiliary battery condition Tools:",
+        "en": "Checking auxiliary battery condition Tools:"
+       },
+       "words": 577,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "toyota_prius_lighting_t004_98839cf4",
+       "title": {
+        "ru": "—Checking auxiliary battery exterior",
+        "en": "—Checking auxiliary battery exterior"
+       },
+       "words": 617,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "toyota_prius_interior_t000_fb4e71c9",
+       "title": {
+        "ru": "For your safety and comfort, adjust the head restraint before driving,",
+        "en": "For your safety and comfort, adjust the head restraint before driving,"
+       },
+       "words": 832,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "toyota_prius_interior_t001_ba9a7ecf",
+       "title": {
+        "ru": "SRS driver and front passenger airbags",
+        "en": "SRS driver and front passenger airbags"
+       },
+       "words": 3155,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "toyota_prius_interior_t002_ea886fd3",
+       "title": {
+        "ru": "—Types of child restraint system",
+        "en": "—Types of child restraint system"
+       },
+       "words": 2124,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "toyota_prius_interior_t003_266ae933",
+       "title": {
+        "ru": "Instrument panel light control Interior light",
+        "en": "Instrument panel light control Interior light"
+       },
+       "words": 978,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "toyota_prius_interior_t004_5f140797",
+       "title": {
+        "ru": "Washing and waxing your Toyota",
+        "en": "Washing and waxing your Toyota"
+       },
+       "words": 806,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "toyota_prius_ev_t000_3a04ab7f",
+       "title": {
+        "ru": "Do not put the luggage on the package tray behind the rear seatback.",
+        "en": "Do not put the luggage on the package tray behind the rear seatback."
+       },
+       "words": 1001,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "toyota_prius_ev_t001_50e6e4b5",
+       "title": {
+        "ru": "For vehicles sold in Canada",
+        "en": "For vehicles sold in Canada"
+       },
+       "words": 644,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "toyota_prius_ev_t002_0ff3a700",
+       "title": {
+        "ru": "\"ACC\"—Accessories such as the radio operate, but the hybrid system is off.",
+        "en": "\"ACC\"—Accessories such as the radio operate, but the hybrid system is off."
+       },
+       "words": 1041,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "toyota_prius_ev_t003_60bf8de4",
+       "title": {
+        "ru": "Operate the multi-information display with the ignition switch on.",
+        "en": "Operate the multi-information display with the ignition switch on."
+       },
+       "words": 938,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "toyota_prius_ev_t004_79687bc4",
+       "title": {
+        "ru": "Theft prevention labels Your new vehicle carries theft prevention labels which a",
+        "en": "Theft prevention labels Your new vehicle carries theft prevention labels which a"
+       },
+       "words": 696,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "toyota_prius_ev_t005_5a873434",
+       "title": {
+        "ru": "You can purchase a new key at your Toyota dealer if you can give' them' the key ",
+        "en": "You can purchase a new key at your Toyota dealer if you can give' them' the key "
+       },
+       "words": 1121,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "toyota_prius_ev_t006_09b5e6ec",
+       "title": {
+        "ru": "Any tires which are over 6 years old must be checked by a qualified technician e",
+        "en": "Any tires which are over 6 years old must be checked by a qualified technician e"
+       },
+       "words": 745,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "toyota_prius_ev_t007_12bfddc9",
+       "title": {
+        "ru": "Uniform tire quality grading",
+        "en": "Uniform tire quality grading"
+       },
+       "words": 1196,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "toyota_prius_general_t000_423d679d",
+       "title": {
+        "ru": "Accessories, spare parts and modification of your Toyota",
+        "en": "Accessories, spare parts and modification of your Toyota"
+       },
+       "words": 1279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_prius_general_t001_c5f36baa",
+       "title": {
+        "ru": "Child restraint — —Child restraint precautions Toyota strongly urges the use of ",
+        "en": "Child restraint — —Child restraint precautions Toyota strongly urges the use of "
+       },
+       "words": 906,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_prius_general_t002_f3bc6a8b",
+       "title": {
+        "ru": "Anti—glare inside rear view mirror",
+        "en": "Anti—glare inside rear view mirror"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_prius_general_t003_12997bc3",
+       "title": {
+        "ru": "AF (Alternative Frequency) function: A station providing good reception is autom",
+        "en": "AF (Alternative Frequency) function: A station providing good reception is autom"
+       },
+       "words": 914,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_prius_general_t004_f72ad04b",
+       "title": {
+        "ru": "The cup holder is designed for holding cups or drink–cans securely.",
+        "en": "The cup holder is designed for holding cups or drink–cans securely."
+       },
+       "words": 638,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_prius_general_t005_946c2c5d",
+       "title": {
+        "ru": "Drive gently and avoid high speeds.",
+        "en": "Drive gently and avoid high speeds."
+       },
+       "words": 540,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_prius_general_t006_05894270",
+       "title": {
+        "ru": "Three—way catalytic converter Toyota H adsorber and catalyst system",
+        "en": "Three—way catalytic converter Toyota H adsorber and catalyst system"
+       },
+       "words": 988,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_prius_general_t007_d0b41910",
+       "title": {
+        "ru": "Care is especially important if you live in particulár areas or operate your veh",
+        "en": "Care is especially important if you live in particulár areas or operate your veh"
+       },
+       "words": 1015,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_prius_general_t008_31734d99",
+       "title": {
+        "ru": "If you perform maintenance by yourself, be sure to follow the correct procedure ",
+        "en": "If you perform maintenance by yourself, be sure to follow the correct procedure "
+       },
+       "words": 439,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "toyota_prius_general_t009_a81e1f16",
+       "title": {
+        "ru": "REPORTING SAFETY DEFECTS FOR U.S.OWNERS AND UNIFORM TIRE QUALITYGRADING",
+        "en": "REPORTING SAFETY DEFECTS FOR U.S.OWNERS AND UNIFORM TIRE QUALITYGRADING"
+       },
+       "words": 496,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "toyota_prius_infotainment_t000_f5f9ac62",
+       "title": {
+        "ru": "Indicator symbols on the instrument panel and Multi-information display",
+        "en": "Indicator symbols on the instrument panel and Multi-information display"
+       },
+       "words": 591,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "toyota_prius_infotainment_t001_625bfaf3",
+       "title": {
+        "ru": "Using your audio system — —Some basics",
+        "en": "Using your audio system — —Some basics"
+       },
+       "words": 939,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "toyota_prius_sensors_t000_cb9045a9",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 55,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "toyota_prius_drivetrain_t000_5c1afdd7",
+       "title": {
+        "ru": "Automatic transmission",
+        "en": "Automatic transmission"
+       },
+       "words": 69,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

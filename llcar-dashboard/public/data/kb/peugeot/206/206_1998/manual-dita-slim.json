@@ -1,0 +1,275 @@
+{
+ "version": "1.0",
+ "model": "206",
+ "manuals": [
+  {
+   "model": "206",
+   "label": {
+    "ru": "Peugeot 206 — Руководство по ремонту",
+    "en": "Peugeot 206 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "peugeot_206_suspension_t000_fb380e52",
+       "title": {
+        "ru": "5 Стойка пенй",
+        "en": "5 Стойка пенй"
+       },
+       "words": 16,
+       "images": 2,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "peugeot_206_body_t000_1abacd82",
+       "title": {
+        "ru": "8 Kaner Си, устанка и",
+        "en": "8 Kaner Си, устанка и"
+       },
+       "words": 28,
+       "images": 1,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "peugeot_206_chassis_t000_7250c3be",
+       "title": {
+        "ru": "7 Передний нериознойдиск провериа, снети",
+        "en": "7 Передний нериознойдиск провериа, снети"
+       },
+       "words": 42,
+       "images": 2,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "peugeot_206_general_t000_cb772d0f",
+       "title": {
+        "ru": "D414 Bеs eroмoбиль Peugect 206",
+        "en": "D414 Bеs eroмoбиль Peugect 206"
+       },
+       "words": 99,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t001_ecf8d120",
+       "title": {
+        "ru": "Модели 1.4 ± DHC",
+        "en": "Модели 1.4 ± DHC"
+       },
+       "words": 70,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t002_a9a6f544",
+       "title": {
+        "ru": "Сатыне о  тор",
+        "en": "Сатыне о  тор"
+       },
+       "words": 160,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t003_b00a780d",
+       "title": {
+        "ru": "В Рспредал, рор",
+        "en": "В Рспредал, рор"
+       },
+       "words": 149,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t004_b150e33a",
+       "title": {
+        "ru": "Салыатке ст",
+        "en": "Салыатке ст"
+       },
+       "words": 81,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t005_fc1a1726",
+       "title": {
+        "ru": "Пonep",
+        "en": "Пonep"
+       },
+       "words": 88,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t006_708b6860",
+       "title": {
+        "ru": "8 Уenдатчн0 W",
+        "en": "8 Уenдатчн0 W"
+       },
+       "words": 84,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t007_cdb70f8e",
+       "title": {
+        "ru": "1 Система заниrан обоие андни имеры повосторонности",
+        "en": "1 Система заниrан обоие андни имеры повосторонности"
+       },
+       "words": 83,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t008_a2161314",
+       "title": {
+        "ru": "Система прогрева запальных свечей",
+        "en": "Система прогрева запальных свечей"
+       },
+       "words": 106,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t009_76099d05",
+       "title": {
+        "ru": "Слецификации",
+        "en": "Слецификации"
+       },
+       "words": 74,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t010_3bb67b5e",
+       "title": {
+        "ru": "17 Руповая колонка онатие провера M yстн",
+        "en": "17 Руповая колонка онатие провера M yстн"
+       },
+       "words": 63,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t011_e06eb740",
+       "title": {
+        "ru": "16 Компоненты замка рышя богахника 1ери з0дка - Оеа",
+        "en": "16 Компоненты замка рышя богахника 1ери з0дка - Оеа"
+       },
+       "words": 201,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t012_542981ed",
+       "title": {
+        "ru": "12 Прикриватель СТИЕ и уСТАНОВКА",
+        "en": "12 Прикриватель СТИЕ и уСТАНОВКА"
+       },
+       "words": 97,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t013_03a6dbee",
+       "title": {
+        "ru": "Састаниа протевоуромой",
+        "en": "Састаниа протевоуромой"
+       },
+       "words": 116,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t014_759658a7",
+       "title": {
+        "ru": "Мнегофунциональный",
+        "en": "Мнегофунциональный"
+       },
+       "words": 85,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t015_4a7fd056",
+       "title": {
+        "ru": "Шмаререботь н ко-мбо одна",
+        "en": "Шмаререботь н ко-мбо одна"
+       },
+       "words": 107,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_206_general_t016_413c8e9c",
+       "title": {
+        "ru": "Предметный указатель",
+        "en": "Предметный указатель"
+       },
+       "words": 49,
+       "images": 1,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "peugeot_206_drivetrain_t000_a034eb66",
+       "title": {
+        "ru": "приборов оделей с МКПП",
+        "en": "приборов оделей с МКПП"
+       },
+       "words": 7,
+       "images": 2,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

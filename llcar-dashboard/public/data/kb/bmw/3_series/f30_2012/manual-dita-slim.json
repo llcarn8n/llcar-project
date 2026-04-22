@@ -1,0 +1,465 @@
+{
+ "version": "1.0",
+ "model": "3_series_f30",
+ "manuals": [
+  {
+   "model": "3_series_f30",
+   "label": {
+    "ru": "Bmw 3 Series F30 — Руководство по ремонту",
+    "en": "Bmw 3 Series F30 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_engine_t000_5e41ab9d",
+       "title": {
+        "ru": "Из-за автоматической коробки передач запу‐",
+        "en": "Из-за автоматической коробки передач запу‐"
+       },
+       "words": 1560,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_brakes_t000_5380ddbd",
+       "title": {
+        "ru": "Неправильное сочетание дисков и шин отри‐",
+        "en": "Неправильное сочетание дисков и шин отри‐"
+       },
+       "words": 2430,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "bmw_3_series_f30_brakes_t001_743f439f",
+       "title": {
+        "ru": "Температура наружного воз‐",
+        "en": "Температура наружного воз‐"
+       },
+       "words": 1456,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_suspension_t000_e3706ae1",
+       "title": {
+        "ru": "После отпускания рычаг возвращается в ис‐",
+        "en": "После отпускания рычаг возвращается в ис‐"
+       },
+       "words": 1346,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_body_t000_7ec756ad",
+       "title": {
+        "ru": "Для выключения этой сигнализации отоприте",
+        "en": "Для выключения этой сигнализации отоприте"
+       },
+       "words": 2390,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_3_series_f30_body_t001_64ef2c9f",
+       "title": {
+        "ru": "Если все же требуется двигаться с открытой",
+        "en": "Если все же требуется двигаться с открытой"
+       },
+       "words": 1537,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_steering_t000_a1803428",
+       "title": {
+        "ru": "Программу можно конфигурировать индиви‐",
+        "en": "Программу можно конфигурировать индиви‐"
+       },
+       "words": 1518,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_lighting_t000_006a62a7",
+       "title": {
+        "ru": "Выключите аварийную световую сигнализа‐",
+        "en": "Выключите аварийную световую сигнализа‐"
+       },
+       "words": 2327,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_3_series_f30_lighting_t001_2906466e",
+       "title": {
+        "ru": "Горит светодиод: экстренный вызов сра‐",
+        "en": "Горит светодиод: экстренный вызов сра‐"
+       },
+       "words": 2527,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_interior_t000_6c94e7b6",
+       "title": {
+        "ru": "Выключение датчика крена и охраны",
+        "en": "Выключение датчика крена и охраны"
+       },
+       "words": 1986,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_3_series_f30_interior_t001_a68f8f83",
+       "title": {
+        "ru": "Передняя центральная консоль",
+        "en": "Передняя центральная консоль"
+       },
+       "words": 1325,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_maintenance_t000_8aa39e9f",
+       "title": {
+        "ru": "Можно проверить, когда будет уведомлена",
+        "en": "Можно проверить, когда будет уведомлена"
+       },
+       "words": 2316,
+       "images": 0,
+       "section_id": "maintenance"
+      },
+      {
+       "id": "bmw_3_series_f30_maintenance_t001_ab9805e7",
+       "title": {
+        "ru": "Данные о расположении предохранителей",
+        "en": "Данные о расположении предохранителей"
+       },
+       "words": 548,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_ev_t000_399d0a95",
+       "title": {
+        "ru": "Запуск двигателя возможен, только если",
+        "en": "Запуск двигателя возможен, только если"
+       },
+       "words": 2484,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_general_t000_58c83fc1",
+       "title": {
+        "ru": "Белые стрелки влево или вправо показы‐",
+        "en": "Белые стрелки влево или вправо показы‐"
+       },
+       "words": 1746,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_3_series_f30_general_t001_1961d18d",
+       "title": {
+        "ru": "Персональные настройки сохраняются для",
+        "en": "Персональные настройки сохраняются для"
+       },
+       "words": 2696,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_3_series_f30_general_t002_b7d19092",
+       "title": {
+        "ru": "Включение/выключение предельной",
+        "en": "Включение/выключение предельной"
+       },
+       "words": 1983,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_3_series_f30_general_t003_7fba410d",
+       "title": {
+        "ru": "В зависимости от состояния автомобиля и ма‐",
+        "en": "В зависимости от состояния автомобиля и ма‐"
+       },
+       "words": 2764,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_3_series_f30_general_t004_7964f6b9",
+       "title": {
+        "ru": "В начале поворота система может кратковре‐",
+        "en": "В начале поворота система может кратковре‐"
+       },
+       "words": 2710,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_3_series_f30_general_t005_aabea0ee",
+       "title": {
+        "ru": "Могут не распознаваться расположенные на",
+        "en": "Могут не распознаваться расположенные на"
+       },
+       "words": 1816,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_3_series_f30_general_t006_d485512e",
+       "title": {
+        "ru": "Таким образом, вода под автомобилем пред‐",
+        "en": "Таким образом, вода под автомобилем пред‐"
+       },
+       "words": 2355,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_3_series_f30_general_t007_deb93d19",
+       "title": {
+        "ru": "Если имеется дополнительный договор для",
+        "en": "Если имеется дополнительный договор для"
+       },
+       "words": 2077,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_3_series_f30_general_t008_14c26ea1",
+       "title": {
+        "ru": "При необходимости слегка смочите салфетку",
+        "en": "При необходимости слегка смочите салфетку"
+       },
+       "words": 1436,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_infotainment_t000_f98924d8",
+       "title": {
+        "ru": "Характер отпирания автомобиля можно на‐",
+        "en": "Характер отпирания автомобиля можно на‐"
+       },
+       "words": 2012,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_3_series_f30_infotainment_t001_aafa96cb",
+       "title": {
+        "ru": "Ведение к пункту назначения с промежуточными пунктами назначения",
+        "en": "Ведение к пункту назначения с промежуточными пунктами назначения"
+       },
+       "words": 1831,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_3_series_f30_infotainment_t002_dbe21a09",
+       "title": {
+        "ru": "Минимальная траектория по‐",
+        "en": "Минимальная траектория по‐"
+       },
+       "words": 760,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_safety_t000_41690ae3",
+       "title": {
+        "ru": "При опрокидывании головная подушка без‐",
+        "en": "При опрокидывании головная подушка без‐"
+       },
+       "words": 2506,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_drivetrain_t000_c211d065",
+       "title": {
+        "ru": "Программа AUTO, кондицио‐",
+        "en": "Программа AUTO, кондицио‐"
+       },
+       "words": 1619,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_sensors_t000_9dfe4d67",
+       "title": {
+        "ru": "ниваются с сохраненными в автомобиле дан‐",
+        "en": "ниваются с сохраненными в автомобиле дан‐"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "tires",
+     "title": {
+      "ru": "tires",
+      "en": "tires"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_3_series_f30_tires_t000_24bdb6b3",
+       "title": {
+        "ru": "Отделение для мелких вещей под",
+        "en": "Отделение для мелких вещей под"
+       },
+       "words": 1444,
+       "images": 0,
+       "section_id": "tires"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

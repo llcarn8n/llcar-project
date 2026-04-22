@@ -1,0 +1,1895 @@
+{
+ "version": "1.0",
+ "model": "niva",
+ "manuals": [
+  {
+   "model": "niva",
+   "label": {
+    "ru": "Lada Niva — Руководство по ремонту",
+    "en": "Lada Niva — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "lada_niva_engine_t000_af1128a7",
+       "title": {
+        "ru": "Прочистка дренажных отверстий порогов, дверей",
+        "en": "Прочистка дренажных отверстий порогов, дверей"
+       },
+       "words": 564,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_niva_engine_t001_76de5446",
+       "title": {
+        "ru": "Работу выполняем на смотровой ка-",
+        "en": "Работу выполняем на смотровой ка-"
+       },
+       "words": 466,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_niva_engine_t002_e4a7b78f",
+       "title": {
+        "ru": "Если не включается один вентилятор – не-",
+        "en": "Если не включается один вентилятор – не-"
+       },
+       "words": 456,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_niva_engine_t003_60a5217b",
+       "title": {
+        "ru": "Восстановите контакт в электрических",
+        "en": "Восстановите контакт в электрических"
+       },
+       "words": 278,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_niva_engine_t004_572a87ab",
+       "title": {
+        "ru": "Износ, зависание щеток элект-",
+        "en": "Износ, зависание щеток элект-"
+       },
+       "words": 476,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_niva_engine_t005_1099ef0f",
+       "title": {
+        "ru": "Работу выполняем на смотровой ка-",
+        "en": "Работу выполняем на смотровой ка-"
+       },
+       "words": 358,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_niva_engine_t006_853125a5",
+       "title": {
+        "ru": "После снятия кронштейна на его кре-",
+        "en": "После снятия кронштейна на его кре-"
+       },
+       "words": 404,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_niva_engine_t007_55eda952",
+       "title": {
+        "ru": "Работу проводим на холодном двига-",
+        "en": "Работу проводим на холодном двига-"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_niva_engine_t008_2e35f6e8",
+       "title": {
+        "ru": "Если вакуумный усилитель тормозов",
+        "en": "Если вакуумный усилитель тормозов"
+       },
+       "words": 400,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_niva_engine_t009_8616a653",
+       "title": {
+        "ru": "Устанавливаем трубу запасного ко-",
+        "en": "Устанавливаем трубу запасного ко-"
+       },
+       "words": 608,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "lada_niva_brakes_t000_6d233888",
+       "title": {
+        "ru": "Барабанный, с автоматической регулировкой",
+        "en": "Барабанный, с автоматической регулировкой"
+       },
+       "words": 362,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t001_e1946167",
+       "title": {
+        "ru": "Проверка уровня жидкости в бачке гидропривода тормозов",
+        "en": "Проверка уровня жидкости в бачке гидропривода тормозов"
+       },
+       "words": 457,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t002_390b0966",
+       "title": {
+        "ru": "При попадании воздуха в один из кон-",
+        "en": "При попадании воздуха в один из кон-"
+       },
+       "words": 399,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t003_d4819727",
+       "title": {
+        "ru": "После регулировки стопорим гайку,",
+        "en": "После регулировки стопорим гайку,"
+       },
+       "words": 358,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t004_d7bd205d",
+       "title": {
+        "ru": "Проверьте соединение электрических разъ-",
+        "en": "Проверьте соединение электрических разъ-"
+       },
+       "words": 314,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t005_e3c366a5",
+       "title": {
+        "ru": "Повышенное сопротивление движению",
+        "en": "Повышенное сопротивление движению"
+       },
+       "words": 314,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t006_fbe11c12",
+       "title": {
+        "ru": "Осмотрите все магистрали, их",
+        "en": "Осмотрите все магистрали, их"
+       },
+       "words": 307,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t007_7b73cf31",
+       "title": {
+        "ru": "Аккуратно отрежьте 6–8 витков",
+        "en": "Аккуратно отрежьте 6–8 витков"
+       },
+       "words": 318,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t008_71e85e0b",
+       "title": {
+        "ru": "Включив пятую передачу в коробке",
+        "en": "Включив пятую передачу в коробке"
+       },
+       "words": 379,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t009_d4b26dd8",
+       "title": {
+        "ru": "Отсоединяем от кронштейна пласт-",
+        "en": "Отсоединяем от кронштейна пласт-"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t010_9e6841dd",
+       "title": {
+        "ru": "Работу проводим на смотровой кана-",
+        "en": "Работу проводим на смотровой кана-"
+       },
+       "words": 803,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t011_bd7021d3",
+       "title": {
+        "ru": "Работу проводим на смотровой кана-",
+        "en": "Работу проводим на смотровой кана-"
+       },
+       "words": 796,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t012_0cd5e212",
+       "title": {
+        "ru": "Показываем два способа снятия тор-",
+        "en": "Показываем два способа снятия тор-"
+       },
+       "words": 281,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t013_471e74e6",
+       "title": {
+        "ru": "Поддев отверткой резиновую соеди-",
+        "en": "Поддев отверткой резиновую соеди-"
+       },
+       "words": 327,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t014_9e177d2f",
+       "title": {
+        "ru": "От вер нув гай ку креп ле ния трой ни ка",
+        "en": "От вер нув гай ку креп ле ния трой ни ка"
+       },
+       "words": 391,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t015_5b19211e",
+       "title": {
+        "ru": "Установку",
+        "en": "Установку"
+       },
+       "words": 445,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t016_cf6fe4cc",
+       "title": {
+        "ru": "Система гидропривода тормозов",
+        "en": "Система гидропривода тормозов"
+       },
+       "words": 783,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_niva_brakes_t017_54111d54",
+       "title": {
+        "ru": "7/X1/11",
+        "en": "7/X1/11"
+       },
+       "words": 212,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "lada_niva_body_t000_be14eab2",
+       "title": {
+        "ru": "Помещение, где проводятся ремонт-",
+        "en": "Помещение, где проводятся ремонт-"
+       },
+       "words": 262,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lada_niva_body_t001_45934a19",
+       "title": {
+        "ru": "Воздухозаборник на фото демонтиро-",
+        "en": "Воздухозаборник на фото демонтиро-"
+       },
+       "words": 665,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lada_niva_body_t002_16de1ad1",
+       "title": {
+        "ru": "От со е ди ня ем га зо на пол нен ные упо-",
+        "en": "От со е ди ня ем га зо на пол нен ные упо-"
+       },
+       "words": 494,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lada_niva_body_t003_12537f25",
+       "title": {
+        "ru": "Гайка болта крепления",
+        "en": "Гайка болта крепления"
+       },
+       "words": 28,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "lada_niva_lighting_t000_063d8b32",
+       "title": {
+        "ru": "Левая фара (дальний свет), контрольная лампа включения",
+        "en": "Левая фара (дальний свет), контрольная лампа включения"
+       },
+       "words": 38,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "lada_niva_interior_t000_95cc12f2",
+       "title": {
+        "ru": "Регулировка направления пучков света фар",
+        "en": "Регулировка направления пучков света фар"
+       },
+       "words": 319,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lada_niva_interior_t001_492ab6cd",
+       "title": {
+        "ru": "Со би ра ем и ус та на в ли ва ем пере-",
+        "en": "Со би ра ем и ус та на в ли ва ем пере-"
+       },
+       "words": 265,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "lada_niva_ev_t000_46d37e86",
+       "title": {
+        "ru": "Зачистка коллектора стартера, проверка износа",
+        "en": "Зачистка коллектора стартера, проверка износа"
+       },
+       "words": 759,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "lada_niva_ev_t001_f7880e81",
+       "title": {
+        "ru": "Окисление выводов аккумуляторной ба-",
+        "en": "Окисление выводов аккумуляторной ба-"
+       },
+       "words": 348,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "lada_niva_ev_t002_f0de39e6",
+       "title": {
+        "ru": "Слабо натянут или оборван ремень при-",
+        "en": "Слабо натянут или оборван ремень при-"
+       },
+       "words": 582,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "lada_niva_ev_t003_658d3a0c",
+       "title": {
+        "ru": "Подрулевой переключатель, электродвигатель очистителя",
+        "en": "Подрулевой переключатель, электродвигатель очистителя"
+       },
+       "words": 361,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "lada_niva_chassis_t000_51b74a05",
+       "title": {
+        "ru": "Проверка состояния дисков и шин колес, балансировка",
+        "en": "Проверка состояния дисков и шин колес, балансировка"
+       },
+       "words": 435,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "lada_niva_chassis_t001_2c92a2ff",
+       "title": {
+        "ru": "При резком повороте рулевого коле-",
+        "en": "При резком повороте рулевого коле-"
+       },
+       "words": 410,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "lada_niva_chassis_t002_c05297be",
+       "title": {
+        "ru": "Подтяните клеммы, зачистите контакт-",
+        "en": "Подтяните клеммы, зачистите контакт-"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "lada_niva_chassis_t003_240209ad",
+       "title": {
+        "ru": "Отсоединяем от свечей зажигания",
+        "en": "Отсоединяем от свечей зажигания"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "lada_niva_chassis_t004_36a31699",
+       "title": {
+        "ru": "Нормальная работа гидроусилителя",
+        "en": "Нормальная работа гидроусилителя"
+       },
+       "words": 340,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "lada_niva_chassis_t005_99a274d0",
+       "title": {
+        "ru": "Гайка шарового пальца тяг",
+        "en": "Гайка шарового пальца тяг"
+       },
+       "words": 60,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "lada_niva_general_t000_9dff843c",
+       "title": {
+        "ru": "Усл. печ. л. 33,6. Тираж 6000 экз. Заказ",
+        "en": "Усл. печ. л. 33,6. Тираж 6000 экз. Заказ"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t001_a42ee95e",
+       "title": {
+        "ru": "СНЯТИЕ РАБОЧЕГО ЦИЛИНДРА ГИДРОПРИВОДА СЦЕПЛЕНИЯ",
+        "en": "СНЯТИЕ РАБОЧЕГО ЦИЛИНДРА ГИДРОПРИВОДА СЦЕПЛЕНИЯ"
+       },
+       "words": 305,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t002_aa4aecdc",
+       "title": {
+        "ru": "СНЯТИЕ ПРИВОДА ЗАМКА ДВЕРИ БАГАЖНОГО ОТДЕЛЕНИЯ",
+        "en": "СНЯТИЕ ПРИВОДА ЗАМКА ДВЕРИ БАГАЖНОГО ОТДЕЛЕНИЯ"
+       },
+       "words": 295,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t003_756b9fab",
+       "title": {
+        "ru": "Цифры в колонке таблички сверху",
+        "en": "Цифры в колонке таблички сверху"
+       },
+       "words": 415,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t004_48053783",
+       "title": {
+        "ru": "Независимая, на поперечных рычагах, с цилиндри-",
+        "en": "Независимая, на поперечных рычагах, с цилиндри-"
+       },
+       "words": 241,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t005_5fabda2c",
+       "title": {
+        "ru": "Проверка состояния защитных чехлов приводов передних",
+        "en": "Проверка состояния защитных чехлов приводов передних"
+       },
+       "words": 334,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t006_c05f14a3",
+       "title": {
+        "ru": "Проверка состояния гидравлических амортизаторов",
+        "en": "Проверка состояния гидравлических амортизаторов"
+       },
+       "words": 372,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t007_f7771576",
+       "title": {
+        "ru": "Для регулировки направления струи",
+        "en": "Для регулировки направления струи"
+       },
+       "words": 335,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t008_44187f4a",
+       "title": {
+        "ru": "Пробка сливного отверстия уплотне-",
+        "en": "Пробка сливного отверстия уплотне-"
+       },
+       "words": 327,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t009_42b67e39",
+       "title": {
+        "ru": "Заворачиваем пробки сливных отвер-",
+        "en": "Заворачиваем пробки сливных отвер-"
+       },
+       "words": 345,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t010_ff601341",
+       "title": {
+        "ru": "Подставляем под сливное отверстие",
+        "en": "Подставляем под сливное отверстие"
+       },
+       "words": 317,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t011_43339ca8",
+       "title": {
+        "ru": "При прокачке нужно следить за уров-",
+        "en": "При прокачке нужно следить за уров-"
+       },
+       "words": 339,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t012_2326c5de",
+       "title": {
+        "ru": "Важно определить место подтекания",
+        "en": "Важно определить место подтекания"
+       },
+       "words": 353,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t013_f86c1a37",
+       "title": {
+        "ru": "Вынимаем наконечник рычага из про-",
+        "en": "Вынимаем наконечник рычага из про-"
+       },
+       "words": 271,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t014_5f77f456",
+       "title": {
+        "ru": "Новый ремень (ширина 10,7 мм, дли-",
+        "en": "Новый ремень (ширина 10,7 мм, дли-"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t015_bbe6935a",
+       "title": {
+        "ru": "Пускаем двигатель и даем ему пора-",
+        "en": "Пускаем двигатель и даем ему пора-"
+       },
+       "words": 280,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t016_411f80d8",
+       "title": {
+        "ru": "Проверяем состояние защитных чех-",
+        "en": "Проверяем состояние защитных чех-"
+       },
+       "words": 309,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t017_9091359c",
+       "title": {
+        "ru": "Работу проводим на смотровой кана-",
+        "en": "Работу проводим на смотровой кана-"
+       },
+       "words": 216,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t018_37b2292d",
+       "title": {
+        "ru": "При повороте ключа в положение «стар-",
+        "en": "При повороте ключа в положение «стар-"
+       },
+       "words": 354,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t019_50f96482",
+       "title": {
+        "ru": "На снятом стартере проверьте усилие при-",
+        "en": "На снятом стартере проверьте усилие при-"
+       },
+       "words": 329,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t020_946c6190",
+       "title": {
+        "ru": "Проверьте предохранители и реле систе-",
+        "en": "Проверьте предохранители и реле систе-"
+       },
+       "words": 370,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t021_5d706a5d",
+       "title": {
+        "ru": "В тех цилиндрах, где компрессия возросла",
+        "en": "В тех цилиндрах, где компрессия возросла"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t022_5f9e6afc",
+       "title": {
+        "ru": "Проверьте совпадение меток на коленча-",
+        "en": "Проверьте совпадение меток на коленча-"
+       },
+       "words": 314,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t023_f5fd4c4f",
+       "title": {
+        "ru": "Давление можно измерить, подключив ма-",
+        "en": "Давление можно измерить, подключив ма-"
+       },
+       "words": 325,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t024_ea0d10db",
+       "title": {
+        "ru": "В тех цилиндрах, где компрессия возросла",
+        "en": "В тех цилиндрах, где компрессия возросла"
+       },
+       "words": 280,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t025_e11cb4b6",
+       "title": {
+        "ru": "Потеки охлаждающей жидкости на наруж-",
+        "en": "Потеки охлаждающей жидкости на наруж-"
+       },
+       "words": 272,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t026_3fe5a5aa",
+       "title": {
+        "ru": "Подгибанием бокового электрода устано-",
+        "en": "Подгибанием бокового электрода устано-"
+       },
+       "words": 309,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t027_fcfa8385",
+       "title": {
+        "ru": "Дефектные свечи зажигания: утечка то-",
+        "en": "Дефектные свечи зажигания: утечка то-"
+       },
+       "words": 322,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t028_781b2097",
+       "title": {
+        "ru": "Проточите или замените махо-",
+        "en": "Проточите или замените махо-"
+       },
+       "words": 292,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t029_5cdd067b",
+       "title": {
+        "ru": "Воздух в системе гидропри-",
+        "en": "Воздух в системе гидропри-"
+       },
+       "words": 275,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t030_3a6cb7a0",
+       "title": {
+        "ru": "Долейте масло. Проверьте, нет",
+        "en": "Долейте масло. Проверьте, нет"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t031_86147ed1",
+       "title": {
+        "ru": "Разберите соединение, очисти-",
+        "en": "Разберите соединение, очисти-"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t032_2cf6d0e2",
+       "title": {
+        "ru": "Устанавливая новый сальник,",
+        "en": "Устанавливая новый сальник,"
+       },
+       "words": 331,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t033_570f99de",
+       "title": {
+        "ru": "Замените амортизатор (лучше",
+        "en": "Замените амортизатор (лучше"
+       },
+       "words": 277,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t034_e839fe20",
+       "title": {
+        "ru": "Используйте шины в соответс-",
+        "en": "Используйте шины в соответс-"
+       },
+       "words": 283,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t035_be243ed2",
+       "title": {
+        "ru": "Заклинило пальцы рулевых тяг",
+        "en": "Заклинило пальцы рулевых тяг"
+       },
+       "words": 288,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t036_22f76a87",
+       "title": {
+        "ru": "Проверьте ток утечки (не бо-",
+        "en": "Проверьте ток утечки (не бо-"
+       },
+       "words": 335,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t037_cffdf60f",
+       "title": {
+        "ru": "Зачистите контактные кольца",
+        "en": "Зачистите контактные кольца"
+       },
+       "words": 260,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t038_3630e7d9",
+       "title": {
+        "ru": "Слегка зачистите контактные",
+        "en": "Слегка зачистите контактные"
+       },
+       "words": 263,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t039_bdf960f6",
+       "title": {
+        "ru": "Подтекает радиатор отопителя",
+        "en": "Подтекает радиатор отопителя"
+       },
+       "words": 289,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t040_897a6afe",
+       "title": {
+        "ru": "Снимаем крышку головки блока ци-",
+        "en": "Снимаем крышку головки блока ци-"
+       },
+       "words": 890,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t041_6e45ad1f",
+       "title": {
+        "ru": "Перед демонтажом протираем вето-",
+        "en": "Перед демонтажом протираем вето-"
+       },
+       "words": 310,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t042_1ea435d0",
+       "title": {
+        "ru": "Если при сборке головки блока ци-",
+        "en": "Если при сборке головки блока ци-"
+       },
+       "words": 290,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t043_1e845f45",
+       "title": {
+        "ru": "Затягиваем гайки крепления корпуса",
+        "en": "Затягиваем гайки крепления корпуса"
+       },
+       "words": 286,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t044_05d77af7",
+       "title": {
+        "ru": "После замены маслоотражательных",
+        "en": "После замены маслоотражательных"
+       },
+       "words": 270,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t045_ba7a9962",
+       "title": {
+        "ru": "Для наглядности операции по снятию",
+        "en": "Для наглядности операции по снятию"
+       },
+       "words": 330,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t046_8258e5cf",
+       "title": {
+        "ru": "При необходимости повторяем уста-",
+        "en": "При необходимости повторяем уста-"
+       },
+       "words": 264,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t047_77034129",
+       "title": {
+        "ru": "Головкой «на 13е с удлинителем от-",
+        "en": "Головкой «на 13е с удлинителем от-"
+       },
+       "words": 242,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t048_b9e4c6b1",
+       "title": {
+        "ru": "Затем доворачиваем болты 1–10 на 90°",
+        "en": "Затем доворачиваем болты 1–10 на 90°"
+       },
+       "words": 348,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t049_41b22a62",
+       "title": {
+        "ru": "Наворачиваем на шпильку маслоот-",
+        "en": "Наворачиваем на шпильку маслоот-"
+       },
+       "words": 283,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t050_0d49f4f1",
+       "title": {
+        "ru": "Отсоединяем поддон картера от бло-",
+        "en": "Отсоединяем поддон картера от бло-"
+       },
+       "words": 307,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t051_263379bd",
+       "title": {
+        "ru": "Снимаем двигатель для ремонта или",
+        "en": "Снимаем двигатель для ремонта или"
+       },
+       "words": 301,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t052_69375a4e",
+       "title": {
+        "ru": "Слегка развернув двигатель в мо-",
+        "en": "Слегка развернув двигатель в мо-"
+       },
+       "words": 228,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t053_27300368",
+       "title": {
+        "ru": "В зоне первого пояса (до 8 мм) ци-",
+        "en": "В зоне первого пояса (до 8 мм) ци-"
+       },
+       "words": 215,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t054_84613734",
+       "title": {
+        "ru": "В первую, вторую, четвертую и пя-",
+        "en": "В первую, вторую, четвертую и пя-"
+       },
+       "words": 465,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t055_4aba21ed",
+       "title": {
+        "ru": "Если зажигание включалось три ра-",
+        "en": "Если зажигание включалось три ра-"
+       },
+       "words": 807,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t056_6e2edd8c",
+       "title": {
+        "ru": "Отгибаем вперед обивку багажного",
+        "en": "Отгибаем вперед обивку багажного"
+       },
+       "words": 541,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t057_3f51b82e",
+       "title": {
+        "ru": "Снимаем регулятор давления топли-",
+        "en": "Снимаем регулятор давления топли-"
+       },
+       "words": 244,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t058_e9d40891",
+       "title": {
+        "ru": "Таким же образом проверяем дру-",
+        "en": "Таким же образом проверяем дру-"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t059_a4b7429a",
+       "title": {
+        "ru": "ксепаратору¡",
+        "en": "ксепаратору¡"
+       },
+       "words": 160,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t060_f6558f43",
+       "title": {
+        "ru": "На фото капот снят для наглядности.",
+        "en": "На фото капот снят для наглядности."
+       },
+       "words": 412,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t061_43b6e010",
+       "title": {
+        "ru": "Работу можно выполнить из моторно-",
+        "en": "Работу можно выполнить из моторно-"
+       },
+       "words": 266,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t062_aa97f073",
+       "title": {
+        "ru": "В случае тугой посадки труб глуши-",
+        "en": "В случае тугой посадки труб глуши-"
+       },
+       "words": 293,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t063_ac2b2a29",
+       "title": {
+        "ru": "Ниж нюю гай ку от во ра чи ва ем го ло-",
+        "en": "Ниж нюю гай ку от во ра чи ва ем го ло-"
+       },
+       "words": 488,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t064_2341f9d5",
+       "title": {
+        "ru": "Вворачиваем болт крепления карте-",
+        "en": "Вворачиваем болт крепления карте-"
+       },
+       "words": 507,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t065_24a280c9",
+       "title": {
+        "ru": "Сальник заменяем при появлении течи",
+        "en": "Сальник заменяем при появлении течи"
+       },
+       "words": 533,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t066_9a149e7c",
+       "title": {
+        "ru": "Сняв рукоятку со стержня рычага...",
+        "en": "Сняв рукоятку со стержня рычага..."
+       },
+       "words": 238,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t067_97dc38f6",
+       "title": {
+        "ru": "Устанавливаем рычаг выбора пере-",
+        "en": "Устанавливаем рычаг выбора пере-"
+       },
+       "words": 258,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t068_f1baa8ca",
+       "title": {
+        "ru": "Для стопорения валов от проворачи-",
+        "en": "Для стопорения валов от проворачи-"
+       },
+       "words": 181,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t069_208d6e10",
+       "title": {
+        "ru": "ным",
+        "en": "ным"
+       },
+       "words": 175,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t070_b18ead48",
+       "title": {
+        "ru": "Устанавливаем стопорное кольцо на",
+        "en": "Устанавливаем стопорное кольцо на"
+       },
+       "words": 463,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t071_236385a4",
+       "title": {
+        "ru": "Перед соединением шарнира с флан-",
+        "en": "Перед соединением шарнира с флан-"
+       },
+       "words": 581,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t072_64ae768a",
+       "title": {
+        "ru": "Опустив раздаточную коробку на ре-",
+        "en": "Опустив раздаточную коробку на ре-"
+       },
+       "words": 270,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t073_49a4c57f",
+       "title": {
+        "ru": "В этом положении окончательно за-",
+        "en": "В этом положении окончательно за-"
+       },
+       "words": 246,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t074_88dbe80e",
+       "title": {
+        "ru": "Покажем их снятие на примере коль-",
+        "en": "Покажем их снятие на примере коль-"
+       },
+       "words": 211,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t075_244dc2df",
+       "title": {
+        "ru": "Устанавливаем в отверстие передне-",
+        "en": "Устанавливаем в отверстие передне-"
+       },
+       "words": 205,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t076_d2674456",
+       "title": {
+        "ru": "Перед сборкой раздаточной коробки",
+        "en": "Перед сборкой раздаточной коробки"
+       },
+       "words": 543,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t077_b43c69ea",
+       "title": {
+        "ru": "В этом случае не придется перекаты-",
+        "en": "В этом случае не придется перекаты-"
+       },
+       "words": 286,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t078_b4a2b909",
+       "title": {
+        "ru": "Работу проводим на смотровой кана-",
+        "en": "Работу проводим на смотровой кана-"
+       },
+       "words": 488,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t079_578b8f7e",
+       "title": {
+        "ru": "Дальнейшую сборку проводим в пос-",
+        "en": "Дальнейшую сборку проводим в пос-"
+       },
+       "words": 277,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t080_c7fa5aef",
+       "title": {
+        "ru": "Проверку технического состояния де-",
+        "en": "Проверку технического состояния де-"
+       },
+       "words": 380,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t081_7e43007f",
+       "title": {
+        "ru": "Устанавливаем приводы передних ко-",
+        "en": "Устанавливаем приводы передних ко-"
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t082_34ea8771",
+       "title": {
+        "ru": "Зажимаем вал привода в тиски с на-",
+        "en": "Зажимаем вал привода в тиски с на-"
+       },
+       "words": 374,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t083_666c54be",
+       "title": {
+        "ru": "Если первоначально замеренный мо-",
+        "en": "Если первоначально замеренный мо-"
+       },
+       "words": 329,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t084_114a5c20",
+       "title": {
+        "ru": "Если подшипники коробки диффе-",
+        "en": "Если подшипники коробки диффе-"
+       },
+       "words": 249,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t085_c20cd62c",
+       "title": {
+        "ru": "Требуемая толщина регулировочного",
+        "en": "Требуемая толщина регулировочного"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t086_bcbf6c94",
+       "title": {
+        "ru": "Если момент сопротивления оказался",
+        "en": "Если момент сопротивления оказался"
+       },
+       "words": 349,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t087_831cc511",
+       "title": {
+        "ru": "Гайку нижнего крепления амортиза-",
+        "en": "Гайку нижнего крепления амортиза-"
+       },
+       "words": 512,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t088_0a3b62e4",
+       "title": {
+        "ru": "Вывешиваем переднюю часть авто-",
+        "en": "Вывешиваем переднюю часть авто-"
+       },
+       "words": 246,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t089_c4de8507",
+       "title": {
+        "ru": "Устанавливаем опоры…",
+        "en": "Устанавливаем опоры…"
+       },
+       "words": 231,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t090_bf61bd56",
+       "title": {
+        "ru": "Аналогично",
+        "en": "Аналогично"
+       },
+       "words": 213,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t091_518a61aa",
+       "title": {
+        "ru": "Чтобы болты крепления рычага к по-",
+        "en": "Чтобы болты крепления рычага к по-"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t092_abf1223e",
+       "title": {
+        "ru": "Работу проводим на смотровой кана-",
+        "en": "Работу проводим на смотровой кана-"
+       },
+       "words": 307,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t093_ac8d5e7d",
+       "title": {
+        "ru": "Устанавливаем среднюю тягу в об-",
+        "en": "Устанавливаем среднюю тягу в об-"
+       },
+       "words": 229,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t094_cd6f4a5c",
+       "title": {
+        "ru": "Отсоединив от маятникового рычага",
+        "en": "Отсоединив от маятникового рычага"
+       },
+       "words": 237,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t095_019d3002",
+       "title": {
+        "ru": "Устанавливаем бачок гидроусилите-",
+        "en": "Устанавливаем бачок гидроусилите-"
+       },
+       "words": 494,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t096_cf0108b5",
+       "title": {
+        "ru": "При установке новых колодок необ-",
+        "en": "При установке новых колодок необ-"
+       },
+       "words": 205,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t097_ceb56e1d",
+       "title": {
+        "ru": "Уто пив фик са тор в гнез до бло ка,",
+        "en": "Уто пив фик са тор в гнез до бло ка,"
+       },
+       "words": 302,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t098_ad675979",
+       "title": {
+        "ru": "Ра бо ту про во дим на смо т ро вой ка на-",
+        "en": "Ра бо ту про во дим на смо т ро вой ка на-"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t099_2e78cb2d",
+       "title": {
+        "ru": "Юмжлусппвпсфепгбойж",
+        "en": "Юмжлусппвпсфепгбойж"
+       },
+       "words": 502,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t100_c1ab2480",
+       "title": {
+        "ru": "Лампы габаритного света в правом переднем и правом",
+        "en": "Лампы габаритного света в правом переднем и правом"
+       },
+       "words": 405,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t101_d2956a3b",
+       "title": {
+        "ru": "Устанавливаем на место стопорное",
+        "en": "Устанавливаем на место стопорное"
+       },
+       "words": 263,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t102_b132f07c",
+       "title": {
+        "ru": "Для проверки обмоток статора нужно",
+        "en": "Для проверки обмоток статора нужно"
+       },
+       "words": 315,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t103_032b70dd",
+       "title": {
+        "ru": "Статор и крышки устанавливаем по",
+        "en": "Статор и крышки устанавливаем по"
+       },
+       "words": 234,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t104_e89c980f",
+       "title": {
+        "ru": "Снимаем с вала якоря упорную шайбу.",
+        "en": "Снимаем с вала якоря упорную шайбу."
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t105_06a2c0c4",
+       "title": {
+        "ru": "Если это не так, сдвигаем магниты",
+        "en": "Если это не так, сдвигаем магниты"
+       },
+       "words": 244,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t106_ffe5915b",
+       "title": {
+        "ru": "Аналогично меняем остальные лампы.",
+        "en": "Аналогично меняем остальные лампы."
+       },
+       "words": 220,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t107_f9d715b1",
+       "title": {
+        "ru": "Аналогично снимаем левый дверной",
+        "en": "Аналогично снимаем левый дверной"
+       },
+       "words": 224,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t108_ca46356f",
+       "title": {
+        "ru": "Помечаем расположение кривошипа",
+        "en": "Помечаем расположение кривошипа"
+       },
+       "words": 265,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t109_c0c48603",
+       "title": {
+        "ru": "Замок капота и тягу его привода сни-",
+        "en": "Замок капота и тягу его привода сни-"
+       },
+       "words": 254,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t110_c5297e9d",
+       "title": {
+        "ru": "Ана ло гич но от со еди ня ем кре п ле ние",
+        "en": "Ана ло гич но от со еди ня ем кре п ле ние"
+       },
+       "words": 268,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t111_5ed0d332",
+       "title": {
+        "ru": "Сни ма ем воз ду хо вод обо г ре ва ве-",
+        "en": "Сни ма ем воз ду хо вод обо г ре ва ве-"
+       },
+       "words": 471,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t112_6a936f43",
+       "title": {
+        "ru": "При ус та нов ке но во го фи к са то ра на-",
+        "en": "При ус та нов ке но во го фи к са то ра на-"
+       },
+       "words": 400,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t113_6e9f15c5",
+       "title": {
+        "ru": "Опи ра ем сте к ло на мяг кое ос но ва-",
+        "en": "Опи ра ем сте к ло на мяг кое ос но ва-"
+       },
+       "words": 429,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t114_43cfc206",
+       "title": {
+        "ru": "Про ве рив ра бо ту ме ха низ ма сте к ло-",
+        "en": "Про ве рив ра бо ту ме ха низ ма сте к ло-"
+       },
+       "words": 511,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t115_39e8f052",
+       "title": {
+        "ru": "Накладку двери багажного отделе-",
+        "en": "Накладку двери багажного отделе-"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t116_8a6c3993",
+       "title": {
+        "ru": "Ус та на в ли ва ем пет ли и дверь в об рат-",
+        "en": "Ус та на в ли ва ем пет ли и дверь в об рат-"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t117_926d995c",
+       "title": {
+        "ru": "Кре сто об раз ной от верт кой от во ра чи-",
+        "en": "Кре сто об раз ной от верт кой от во ра чи-"
+       },
+       "words": 344,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t118_89d9cc7e",
+       "title": {
+        "ru": "Ус та на в ли ва ем кран в об рат ной по с-",
+        "en": "Ус та на в ли ва ем кран в об рат ной по с-"
+       },
+       "words": 359,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t119_d889b654",
+       "title": {
+        "ru": "Под де ва ем шли це вой от верт кой сто-",
+        "en": "Под де ва ем шли це вой от верт кой сто-"
+       },
+       "words": 422,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t120_efc8ce71",
+       "title": {
+        "ru": "Со би ра ем и ус та на в ли ва ем ра ди а тор",
+        "en": "Со би ра ем и ус та на в ли ва ем ра ди а тор"
+       },
+       "words": 563,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t121_e07560e0",
+       "title": {
+        "ru": "Гайка болта крышки шатуна",
+        "en": "Гайка болта крышки шатуна"
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t122_d909d171",
+       "title": {
+        "ru": "Гайка крепления кронштейна",
+        "en": "Гайка крепления кронштейна"
+       },
+       "words": 284,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t123_d958570a",
+       "title": {
+        "ru": "Моторные масла (с уровнем качества по API: SJ, SL,",
+        "en": "Моторные масла (с уровнем качества по API: SJ, SL,"
+       },
+       "words": 310,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_niva_general_t124_e19ea73e",
+       "title": {
+        "ru": "Лампа подсветки комбинации приборов",
+        "en": "Лампа подсветки комбинации приборов"
+       },
+       "words": 486,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lada_niva_sensors_t000_06de1e56",
+       "title": {
+        "ru": "Замените неисправные гидроопоры ры-",
+        "en": "Замените неисправные гидроопоры ры-"
+       },
+       "words": 293,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "lada_niva_sensors_t001_a6259535",
+       "title": {
+        "ru": "Осмотр после частичной разборки двига-",
+        "en": "Осмотр после частичной разборки двига-"
+       },
+       "words": 289,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "lada_niva_sensors_t002_914dfe8c",
+       "title": {
+        "ru": "Замените дроссельный узел заведомо ис-",
+        "en": "Замените дроссельный узел заведомо ис-"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "lada_niva_sensors_t003_c31b73cf",
+       "title": {
+        "ru": "Восстановите контакт в электрических",
+        "en": "Восстановите контакт в электрических"
+       },
+       "words": 272,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "lada_niva_sensors_t004_f9b2494b",
+       "title": {
+        "ru": "Снимаем резиновый защитный кол-",
+        "en": "Снимаем резиновый защитный кол-"
+       },
+       "words": 934,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "lada_niva_sensors_t005_e53bcdab",
+       "title": {
+        "ru": "Если в ходе продувки двигатель на-",
+        "en": "Если в ходе продувки двигатель на-"
+       },
+       "words": 639,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "lada_niva_sensors_t006_6b3a03c2",
+       "title": {
+        "ru": "Устанавливаем датчик в обратной",
+        "en": "Устанавливаем датчик в обратной"
+       },
+       "words": 264,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "lada_niva_sensors_t007_2983e354",
+       "title": {
+        "ru": "Головкой «на 21е выворачиваем дат-",
+        "en": "Головкой «на 21е выворачиваем дат-"
+       },
+       "words": 1040,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "lada_niva_sensors_t008_912cf183",
+       "title": {
+        "ru": "Элементы обогрева управляющего и диагностического",
+        "en": "Элементы обогрева управляющего и диагностического"
+       },
+       "words": 50,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

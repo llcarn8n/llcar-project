@@ -1,0 +1,2615 @@
+{
+ "version": "1.0",
+ "model": "musso",
+ "manuals": [
+  {
+   "model": "musso",
+   "label": {
+    "ru": "Ssangyong Musso — Руководство по ремонту",
+    "en": "Ssangyong Musso — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "ssangyong_musso_engine_t000_2db74cbb",
+       "title": {
+        "ru": "Adjustment Procedure",
+        "en": "Adjustment Procedure"
+       },
+       "words": 42,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "ssangyong_musso_brakes_t000_42ae1d06",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 554,
+       "images": 4,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ssangyong_musso_brakes_t001_9946ce07",
+       "title": {
+        "ru": "Installation Notice",
+        "en": "Installation Notice"
+       },
+       "words": 261,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ssangyong_musso_brakes_t002_8ad50606",
+       "title": {
+        "ru": "Removal the Defect Code",
+        "en": "Removal the Defect Code"
+       },
+       "words": 398,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ssangyong_musso_brakes_t003_6d1f560f",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 486,
+       "images": 8,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "ssangyong_musso_body_t000_dcd84003",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 5,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "ssangyong_musso_lighting_t000_903d5489",
+       "title": {
+        "ru": "Performance-Autumatic Transaxle (BTRA)",
+        "en": "Performance-Autumatic Transaxle (BTRA)"
+       },
+       "words": 22,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t001_5d1be1d3",
+       "title": {
+        "ru": "EXPLANATION OF SCHEDULED MAINTENANCE SERVICES",
+        "en": "EXPLANATION OF SCHEDULED MAINTENANCE SERVICES"
+       },
+       "words": 91,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t002_88428235",
+       "title": {
+        "ru": "ENGINE SPECIFICATIONS (Cont'd)",
+        "en": "ENGINE SPECIFICATIONS (Cont'd)"
+       },
+       "words": 116,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t003_a9cb7fec",
+       "title": {
+        "ru": "Cylinder Number By Mark On Vibration Damper At TDC",
+        "en": "Cylinder Number By Mark On Vibration Damper At TDC"
+       },
+       "words": 64,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t004_a327d51e",
+       "title": {
+        "ru": "ENGINE CRANKING AT THE FRONT OF CRANKSHAFT",
+        "en": "ENGINE CRANKING AT THE FRONT OF CRANKSHAFT"
+       },
+       "words": 172,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t005_6e8bfb64",
+       "title": {
+        "ru": "Cylinder Number By Mark On Vibration Damper At TDC",
+        "en": "Cylinder Number By Mark On Vibration Damper At TDC"
+       },
+       "words": 10,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t006_c40f4d21",
+       "title": {
+        "ru": "Permissible Pressure Leakage (Engine at Normal Operating Temperature of 80°C)",
+        "en": "Permissible Pressure Leakage (Engine at Normal Operating Temperature of 80°C)"
+       },
+       "words": 56,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t007_d2ea8ad9",
+       "title": {
+        "ru": "MAINTENANCE AND REPAIR ON-VEHICLE SERVICE",
+        "en": "MAINTENANCE AND REPAIR ON-VEHICLE SERVICE"
+       },
+       "words": 525,
+       "images": 38,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t008_cda8d5b7",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 287,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t009_43d04de8",
+       "title": {
+        "ru": "Poly V-Belt Arrangement",
+        "en": "Poly V-Belt Arrangement"
+       },
+       "words": 293,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t010_2a915729",
+       "title": {
+        "ru": "Composition of The Cylinder Head Cover Bolts",
+        "en": "Composition of The Cylinder Head Cover Bolts"
+       },
+       "words": 224,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t011_d650287d",
+       "title": {
+        "ru": "Installation Notice",
+        "en": "Installation Notice"
+       },
+       "words": 489,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t012_a440a950",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 266,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t013_dac884ac",
+       "title": {
+        "ru": "Arrangement of the Thrust Bearing and the Main Bearing",
+        "en": "Arrangement of the Thrust Bearing and the Main Bearing"
+       },
+       "words": 417,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t014_2ae08315",
+       "title": {
+        "ru": "CAMSHAFT SPROCKET BOLT Intake Flange Shaft Bolt",
+        "en": "CAMSHAFT SPROCKET BOLT Intake Flange Shaft Bolt"
+       },
+       "words": 438,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t015_dd11beb0",
+       "title": {
+        "ru": "Exhaust Camshaft Sprocket Bolt",
+        "en": "Exhaust Camshaft Sprocket Bolt"
+       },
+       "words": 391,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t016_8ea121e5",
+       "title": {
+        "ru": "Test (Upper and Lower Valve Tappet and Valve Cotter)",
+        "en": "Test (Upper and Lower Valve Tappet and Valve Cotter)"
+       },
+       "words": 267,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t017_63795a55",
+       "title": {
+        "ru": "Replacement Procedure",
+        "en": "Replacement Procedure"
+       },
+       "words": 435,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t018_2d077187",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 346,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t019_69b18cdb",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 554,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t020_62830e2b",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 234,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t021_fc713148",
+       "title": {
+        "ru": "Group Code Letter and Cylinder Bore Size",
+        "en": "Group Code Letter and Cylinder Bore Size"
+       },
+       "words": 291,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t022_cb64250f",
+       "title": {
+        "ru": "FASTENER TIGHTENING SPECIFICATIONS (Cont'd)",
+        "en": "FASTENER TIGHTENING SPECIFICATIONS (Cont'd)"
+       },
+       "words": 45,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t023_67d1b79d",
+       "title": {
+        "ru": "Operation When Full-Load at Partial Load",
+        "en": "Operation When Full-Load at Partial Load"
+       },
+       "words": 605,
+       "images": 36,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t024_1c2bbafa",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 276,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t025_e65c3be0",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 168,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t026_686132e7",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 498,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t027_dba6aed9",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 339,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t028_4720ca26",
+       "title": {
+        "ru": "Arrangement of the Thrust Bearing and the Main Bearing",
+        "en": "Arrangement of the Thrust Bearing and the Main Bearing"
+       },
+       "words": 390,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t029_aec6ab62",
+       "title": {
+        "ru": "Service Data Standard (Stretch Bolt)",
+        "en": "Service Data Standard (Stretch Bolt)"
+       },
+       "words": 389,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t030_d591b716",
+       "title": {
+        "ru": "CAMSHAFT SPROCKET BOLT Intake Flange Shaft Bolt",
+        "en": "CAMSHAFT SPROCKET BOLT Intake Flange Shaft Bolt"
+       },
+       "words": 285,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t031_a3c446b6",
+       "title": {
+        "ru": "Test (Upper and Lower Valve Tappet and Valve Cotter)",
+        "en": "Test (Upper and Lower Valve Tappet and Valve Cotter)"
+       },
+       "words": 423,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t032_b52f97ed",
+       "title": {
+        "ru": "Replacement Procedure",
+        "en": "Replacement Procedure"
+       },
+       "words": 431,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t033_bbcb15c5",
+       "title": {
+        "ru": "Service Data Standard",
+        "en": "Service Data Standard"
+       },
+       "words": 541,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t034_d8d18c9a",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 451,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t035_55bc474a",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 217,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t036_8955842d",
+       "title": {
+        "ru": "Service Data Standard",
+        "en": "Service Data Standard"
+       },
+       "words": 10,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t037_2631f07f",
+       "title": {
+        "ru": "MAINTENANCE AND REPAIR ON-VEHICLE SERVICE",
+        "en": "MAINTENANCE AND REPAIR ON-VEHICLE SERVICE"
+       },
+       "words": 346,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t038_5c30eab0",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 507,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t039_ca9c90f1",
+       "title": {
+        "ru": "Setting (with cylinder head installed)",
+        "en": "Setting (with cylinder head installed)"
+       },
+       "words": 463,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t040_7efab1b0",
+       "title": {
+        "ru": "Notice",
+        "en": "Notice"
+       },
+       "words": 856,
+       "images": 50,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t041_b0d89a72",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 574,
+       "images": 40,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t042_8154eafa",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 461,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t043_8cf82196",
+       "title": {
+        "ru": "Thrust Washer and Bearing Arrangement",
+        "en": "Thrust Washer and Bearing Arrangement"
+       },
+       "words": 184,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t044_69068f24",
+       "title": {
+        "ru": "Bearing Clearances",
+        "en": "Bearing Clearances"
+       },
+       "words": 414,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t045_51765afb",
+       "title": {
+        "ru": "HYDRAULIC VALVE CLEARANCE COMPENSATION ELEMENT CHECK",
+        "en": "HYDRAULIC VALVE CLEARANCE COMPENSATION ELEMENT CHECK"
+       },
+       "words": 320,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t046_fcfcea68",
+       "title": {
+        "ru": "VALVE SPRINGS (CYLINDER HEAD INSTALLED)",
+        "en": "VALVE SPRINGS (CYLINDER HEAD INSTALLED)"
+       },
+       "words": 287,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t047_9ca33225",
+       "title": {
+        "ru": "Matching Valve Seat - Broaching Tools - Guide Sleeves",
+        "en": "Matching Valve Seat - Broaching Tools - Guide Sleeves"
+       },
+       "words": 499,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t048_1ed2217e",
+       "title": {
+        "ru": "CHECK AND MACHINING OF VALVES",
+        "en": "CHECK AND MACHINING OF VALVES"
+       },
+       "words": 450,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t049_01a14e03",
+       "title": {
+        "ru": "Checking and Machining",
+        "en": "Checking and Machining"
+       },
+       "words": 265,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t050_480a9bfd",
+       "title": {
+        "ru": "Notice",
+        "en": "Notice"
+       },
+       "words": 345,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t051_d3c04a6c",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 626,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t052_881adbdf",
+       "title": {
+        "ru": "Connecting Rod Bolt Dimensions",
+        "en": "Connecting Rod Bolt Dimensions"
+       },
+       "words": 264,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t053_a5503a51",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 436,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t054_e7145deb",
+       "title": {
+        "ru": "CYLINDER HEAD PRESSURE LEAKAGE TEST",
+        "en": "CYLINDER HEAD PRESSURE LEAKAGE TEST"
+       },
+       "words": 253,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t055_15cdf0aa",
+       "title": {
+        "ru": "FACING CRANKCASE CONTACTING SURFACE",
+        "en": "FACING CRANKCASE CONTACTING SURFACE"
+       },
+       "words": 221,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t056_cf239bb1",
+       "title": {
+        "ru": "FASTENER TIGHTENING SPECIFICATIONS",
+        "en": "FASTENER TIGHTENING SPECIFICATIONS"
+       },
+       "words": 280,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t057_81ad6714",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 311,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t058_4fb40254",
+       "title": {
+        "ru": "FASTENER TIGHTENING SPECIFICATIONS",
+        "en": "FASTENER TIGHTENING SPECIFICATIONS"
+       },
+       "words": 267,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t059_0fe0f62d",
+       "title": {
+        "ru": "REMOVAL AND INSTALLATION OF COOLING FAN SHROUD",
+        "en": "REMOVAL AND INSTALLATION OF COOLING FAN SHROUD"
+       },
+       "words": 254,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t060_0e5e11de",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 305,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t061_ff440c5e",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 261,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t062_3ed0691a",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 117,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t063_f673539e",
+       "title": {
+        "ru": "Replacement Procedure",
+        "en": "Replacement Procedure"
+       },
+       "words": 272,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t064_ecd9b544",
+       "title": {
+        "ru": "Inspection & Maintenance Procedure (for MSE)",
+        "en": "Inspection & Maintenance Procedure (for MSE)"
+       },
+       "words": 127,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t065_51efd04e",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 334,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t066_695da950",
+       "title": {
+        "ru": "Ignition Cable and Cable Lay-out",
+        "en": "Ignition Cable and Cable Lay-out"
+       },
+       "words": 262,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t067_fa50ba38",
+       "title": {
+        "ru": "SELF DIAGNOSIS SOCKET PIN NUMBERS AND DESCRIPTIONS",
+        "en": "SELF DIAGNOSIS SOCKET PIN NUMBERS AND DESCRIPTIONS"
+       },
+       "words": 357,
+       "images": 30,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t068_5b5ad311",
+       "title": {
+        "ru": "FUEL PRESSURE AND INTERNAL LEAKAGE TEST Preparation",
+        "en": "FUEL PRESSURE AND INTERNAL LEAKAGE TEST Preparation"
+       },
+       "words": 182,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t069_5151a593",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 350,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t070_546b13cd",
+       "title": {
+        "ru": "Discharging the pressure in fuel system",
+        "en": "Discharging the pressure in fuel system"
+       },
+       "words": 213,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t071_3f6f9144",
+       "title": {
+        "ru": "Crankshaft Position Sensor Resistance Inspection",
+        "en": "Crankshaft Position Sensor Resistance Inspection"
+       },
+       "words": 252,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t072_bdea53a8",
+       "title": {
+        "ru": "Crankshaft Position Sensor Insulator Resistance Inspection",
+        "en": "Crankshaft Position Sensor Insulator Resistance Inspection"
+       },
+       "words": 269,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t073_efcdd958",
+       "title": {
+        "ru": "Oxygen Sensor Heating Current Consumption Inspection",
+        "en": "Oxygen Sensor Heating Current Consumption Inspection"
+       },
+       "words": 283,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t074_a45a8ec0",
+       "title": {
+        "ru": "Accelerator Pedal Sensor Connector(Vehicle Side)",
+        "en": "Accelerator Pedal Sensor Connector(Vehicle Side)"
+       },
+       "words": 174,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t075_2f3e1543",
+       "title": {
+        "ru": "FUEL PRESSURE AND INTERNAL LEAKAGE TEST Preparation",
+        "en": "FUEL PRESSURE AND INTERNAL LEAKAGE TEST Preparation"
+       },
+       "words": 387,
+       "images": 30,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t076_a96ac38f",
+       "title": {
+        "ru": "ECU Pin Numbers and Descriptions",
+        "en": "ECU Pin Numbers and Descriptions"
+       },
+       "words": 168,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t077_815f57de",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 462,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t078_a0b1188d",
+       "title": {
+        "ru": "Discharging the pressure in fuel system",
+        "en": "Discharging the pressure in fuel system"
+       },
+       "words": 170,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t079_c1cd456a",
+       "title": {
+        "ru": "Crankshaft Position Sensor Resistance Inspection",
+        "en": "Crankshaft Position Sensor Resistance Inspection"
+       },
+       "words": 223,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t080_04e569ab",
+       "title": {
+        "ru": "Crankshaft Position Sensor Insulator Resistance Inspection",
+        "en": "Crankshaft Position Sensor Insulator Resistance Inspection"
+       },
+       "words": 268,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t081_d2984cb8",
+       "title": {
+        "ru": "Oxygen Sensor Heating Current Consumption Inspection",
+        "en": "Oxygen Sensor Heating Current Consumption Inspection"
+       },
+       "words": 308,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t082_a7a8fb0b",
+       "title": {
+        "ru": "Accelerator Pedal Sensor Connector(Vehicle Side)",
+        "en": "Accelerator Pedal Sensor Connector(Vehicle Side)"
+       },
+       "words": 172,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t083_9fea072c",
+       "title": {
+        "ru": "FUEL INJECTION PUMP CODING Model Code",
+        "en": "FUEL INJECTION PUMP CODING Model Code"
+       },
+       "words": 209,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t084_860e0772",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 292,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t085_18675b5a",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 294,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t086_d817f1f7",
+       "title": {
+        "ru": "START OF DELIVERY TEST (POSITION SENSOR, RIV METHOD)",
+        "en": "START OF DELIVERY TEST (POSITION SENSOR, RIV METHOD)"
+       },
+       "words": 246,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t087_eac54d7a",
+       "title": {
+        "ru": "Digital Tester, RIV Method (Connection Diagram for Testers Without Adapter)",
+        "en": "Digital Tester, RIV Method (Connection Diagram for Testers Without Adapter)"
+       },
+       "words": 187,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t088_94544078",
+       "title": {
+        "ru": "FASTENER TIGHTENING SPECIFICATIONS",
+        "en": "FASTENER TIGHTENING SPECIFICATIONS"
+       },
+       "words": 437,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t089_70e3892e",
+       "title": {
+        "ru": "Removal and Installation of Exhaust Line",
+        "en": "Removal and Installation of Exhaust Line"
+       },
+       "words": 241,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t090_e317cd63",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 276,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t091_2fa90094",
+       "title": {
+        "ru": "Removal and Installation of Exhaust Line",
+        "en": "Removal and Installation of Exhaust Line"
+       },
+       "words": 253,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t092_d3910b07",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 234,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t093_e708fa9f",
+       "title": {
+        "ru": "GENERAL SPECIFICATIONS (Cont'd)",
+        "en": "GENERAL SPECIFICATIONS (Cont'd)"
+       },
+       "words": 108,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t094_d3b56115",
+       "title": {
+        "ru": "Self - Diagnosis List",
+        "en": "Self - Diagnosis List"
+       },
+       "words": 239,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t095_743d9185",
+       "title": {
+        "ru": "Steering Knuckle and Drive Shaft",
+        "en": "Steering Knuckle and Drive Shaft"
+       },
+       "words": 122,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t096_ecd78c1b",
+       "title": {
+        "ru": "Installation Notice",
+        "en": "Installation Notice"
+       },
+       "words": 326,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t097_f2052c20",
+       "title": {
+        "ru": "AXLE VERTICAL ACCELERATION SENSOR (WHEEL G SENSOR)",
+        "en": "AXLE VERTICAL ACCELERATION SENSOR (WHEEL G SENSOR)"
+       },
+       "words": 155,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t098_730bac33",
+       "title": {
+        "ru": "Installation Notice",
+        "en": "Installation Notice"
+       },
+       "words": 115,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t099_edc955f2",
+       "title": {
+        "ru": "Steering Knuckle and Drive Shaft",
+        "en": "Steering Knuckle and Drive Shaft"
+       },
+       "words": 375,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t100_34633567",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 321,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t101_ff1f21d3",
+       "title": {
+        "ru": "Installation Notice",
+        "en": "Installation Notice"
+       },
+       "words": 324,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t102_6789dec7",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 892,
+       "images": 36,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t103_f131d3aa",
+       "title": {
+        "ru": "FASTENER TIGHTENING SPECIFICATIONS",
+        "en": "FASTENER TIGHTENING SPECIFICATIONS"
+       },
+       "words": 51,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t104_0998b304",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 338,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t105_b08ddd5a",
+       "title": {
+        "ru": "NOISE OR VEHICLE VIBRATION WHEN APPLIED BRAKE",
+        "en": "NOISE OR VEHICLE VIBRATION WHEN APPLIED BRAKE"
+       },
+       "words": 233,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t106_720ab63b",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 181,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t107_5a929ba9",
+       "title": {
+        "ru": "Trouble Shooting Poor Braking",
+        "en": "Trouble Shooting Poor Braking"
+       },
+       "words": 255,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t108_c609f633",
+       "title": {
+        "ru": "SPECIFICATIONS GENERAL SPECIFICATIONS",
+        "en": "SPECIFICATIONS GENERAL SPECIFICATIONS"
+       },
+       "words": 291,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t109_23b9752e",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 297,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t110_5f06dace",
+       "title": {
+        "ru": "MAINTENANCE AND REPAIR ON-VEHICLE SERVICE",
+        "en": "MAINTENANCE AND REPAIR ON-VEHICLE SERVICE"
+       },
+       "words": 294,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t111_db7d8c75",
+       "title": {
+        "ru": "MODEL PART NUMBERS AND APPLICATIONS",
+        "en": "MODEL PART NUMBERS AND APPLICATIONS"
+       },
+       "words": 72,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t112_ea51bf47",
+       "title": {
+        "ru": "Variable Pressure Solenoid Multiplexing System",
+        "en": "Variable Pressure Solenoid Multiplexing System"
+       },
+       "words": 722,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t113_e410ebbb",
+       "title": {
+        "ru": "10 ON/OFF Solenoid Fault (Solenoids 6,7)",
+        "en": "10 ON/OFF Solenoid Fault (Solenoids 6,7)"
+       },
+       "words": 529,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t114_4a9b77d3",
+       "title": {
+        "ru": "Forward Sun Gear and C3 Clutch Pack Assembly",
+        "en": "Forward Sun Gear and C3 Clutch Pack Assembly"
+       },
+       "words": 1073,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t115_9fff01fb",
+       "title": {
+        "ru": "HARD SHIFT OR CONTROL LEVER WILL NOT MOVE INTO GEAR",
+        "en": "HARD SHIFT OR CONTROL LEVER WILL NOT MOVE INTO GEAR"
+       },
+       "words": 157,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t116_439bb5dc",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 524,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t117_673bb7b8",
+       "title": {
+        "ru": "Installation Notice",
+        "en": "Installation Notice"
+       },
+       "words": 1343,
+       "images": 38,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t118_6bce4cd3",
+       "title": {
+        "ru": "FASTENER TIGHTENING SPECIFICATIONS",
+        "en": "FASTENER TIGHTENING SPECIFICATIONS"
+       },
+       "words": 613,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t119_d1493585",
+       "title": {
+        "ru": "HARD TO SHIFT OR WILL NOT SHIFT",
+        "en": "HARD TO SHIFT OR WILL NOT SHIFT"
+       },
+       "words": 178,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t120_8844e0ac",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 355,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t121_7fd8f9e3",
+       "title": {
+        "ru": "Cautions for oil level check and plugs tightening",
+        "en": "Cautions for oil level check and plugs tightening"
+       },
+       "words": 82,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t122_5ff77c38",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 622,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t123_1e11d81b",
+       "title": {
+        "ru": "Electric Shift Cam Parts",
+        "en": "Electric Shift Cam Parts"
+       },
+       "words": 626,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t124_d33d0918",
+       "title": {
+        "ru": "Shape and function of TOD Control Unit",
+        "en": "Shape and function of TOD Control Unit"
+       },
+       "words": 276,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t125_59c5e1b5",
+       "title": {
+        "ru": "TOD CONTROL UNIT TOD Electric Characteristics",
+        "en": "TOD CONTROL UNIT TOD Electric Characteristics"
+       },
+       "words": 160,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t126_b5a67a9b",
+       "title": {
+        "ru": "REPLACEMENT OF OIL Oil Specification",
+        "en": "REPLACEMENT OF OIL Oil Specification"
+       },
+       "words": 1108,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t127_de52adcf",
+       "title": {
+        "ru": "FASTENER TIGHTENING SPECIFICATIONS",
+        "en": "FASTENER TIGHTENING SPECIFICATIONS"
+       },
+       "words": 148,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t128_7bb40d39",
+       "title": {
+        "ru": "Steering Angle Inspection Procedure",
+        "en": "Steering Angle Inspection Procedure"
+       },
+       "words": 212,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t129_3d2de37e",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 285,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t130_3de5b3e2",
+       "title": {
+        "ru": "Fan Motor Runs in '4'position Only ('3', \"2', 1' : Does Not Run)",
+        "en": "Fan Motor Runs in '4'position Only ('3', \"2', 1' : Does Not Run)"
+       },
+       "words": 10,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t131_6d38e659",
+       "title": {
+        "ru": "Magnetic Clutch Plays By Hand Only",
+        "en": "Magnetic Clutch Plays By Hand Only"
+       },
+       "words": 181,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t132_3761475f",
+       "title": {
+        "ru": "Installation Notice",
+        "en": "Installation Notice"
+       },
+       "words": 195,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t133_2e0bdb63",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 194,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t134_ab8fae51",
+       "title": {
+        "ru": "Air Bag Control Unit (AC4)",
+        "en": "Air Bag Control Unit (AC4)"
+       },
+       "words": 520,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t135_7944c5c8",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 105,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t136_738d6e49",
+       "title": {
+        "ru": "Engine Room Fuse (EF) and Relay Box",
+        "en": "Engine Room Fuse (EF) and Relay Box"
+       },
+       "words": 1977,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t137_1a0b8e59",
+       "title": {
+        "ru": "SEMI AUTOMATIC AIR CONDITIONER",
+        "en": "SEMI AUTOMATIC AIR CONDITIONER"
+       },
+       "words": 522,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t138_85b561e1",
+       "title": {
+        "ru": "Connector Appearance and Connecting Circuit",
+        "en": "Connector Appearance and Connecting Circuit"
+       },
+       "words": 209,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t139_2a71580f",
+       "title": {
+        "ru": "Connector Appearance and Connecting Circuit",
+        "en": "Connector Appearance and Connecting Circuit"
+       },
+       "words": 129,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t140_485b25d4",
+       "title": {
+        "ru": "Seat Heater Connector and Connection Circuit",
+        "en": "Seat Heater Connector and Connection Circuit"
+       },
+       "words": 277,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t141_b8f635f7",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 184,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t142_b334bc06",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 200,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t143_81f198e7",
+       "title": {
+        "ru": "MAINTENANCE AND REPAIR ON-VEHICLE SERVICE",
+        "en": "MAINTENANCE AND REPAIR ON-VEHICLE SERVICE"
+       },
+       "words": 247,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t144_1c3345e7",
+       "title": {
+        "ru": "Connector Appearance and Connecting Circuit",
+        "en": "Connector Appearance and Connecting Circuit"
+       },
+       "words": 683,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_musso_lighting_t145_d5892cd8",
+       "title": {
+        "ru": "Check and Remedy when Engine Does not Start",
+        "en": "Check and Remedy when Engine Does not Start"
+       },
+       "words": 278,
+       "images": 14,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "ssangyong_musso_interior_t000_7e66b889",
+       "title": {
+        "ru": "Power Supply",
+        "en": "Power Supply"
+       },
+       "words": 28,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "ssangyong_musso_general_t000_97c5ec68",
+       "title": {
+        "ru": "Body and Accessories",
+        "en": "Body and Accessories"
+       },
+       "words": 587,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t001_017b6dc3",
+       "title": {
+        "ru": "General Description and System",
+        "en": "General Description and System"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t002_f893f20a",
+       "title": {
+        "ru": "Tire and Wheel Inspection and Rotation",
+        "en": "Tire and Wheel Inspection and Rotation"
+       },
+       "words": 321,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t003_f9027bc4",
+       "title": {
+        "ru": "Tires, Wheels and Alignment Operation",
+        "en": "Tires, Wheels and Alignment Operation"
+       },
+       "words": 662,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t004_baf36477",
+       "title": {
+        "ru": "Tire And Wheel Inspection and Pressure Check",
+        "en": "Tire And Wheel Inspection and Pressure Check"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t005_99c3ecc0",
+       "title": {
+        "ru": "Steering, Suspension and Front Drive Axle Boot And Seal Inspection",
+        "en": "Steering, Suspension and Front Drive Axle Boot And Seal Inspection"
+       },
+       "words": 358,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t006_8005fad0",
+       "title": {
+        "ru": "MSE 3.62S/3.53S (Motorsteuer Elektronik : German)",
+        "en": "MSE 3.62S/3.53S (Motorsteuer Elektronik : German)"
+       },
+       "words": 822,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t007_0fa43696",
+       "title": {
+        "ru": "Black Light and Dye Method",
+        "en": "Black Light and Dye Method"
+       },
+       "words": 635,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t008_cb5adcaa",
+       "title": {
+        "ru": "Black Light and Dye Method",
+        "en": "Black Light and Dye Method"
+       },
+       "words": 744,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t009_91c50440",
+       "title": {
+        "ru": "Black Light and Dye Method",
+        "en": "Black Light and Dye Method"
+       },
+       "words": 878,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t010_7a9a60eb",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 965,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t011_3eb467d6",
+       "title": {
+        "ru": "Removal and Installation Procedure",
+        "en": "Removal and Installation Procedure"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t012_33a07399",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 290,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t013_2aded68e",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 378,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t014_f7da162f",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 577,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t015_198ef96e",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 462,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t016_c9860555",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 395,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t017_e9b8f6da",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 366,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t018_edf3aadb",
+       "title": {
+        "ru": "Operation When Full-Load at Partial Load",
+        "en": "Operation When Full-Load at Partial Load"
+       },
+       "words": 771,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t019_7913e854",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 422,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t020_c45cd314",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 437,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t021_f3a21157",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 587,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t022_8139eb62",
+       "title": {
+        "ru": "Measurement of Cylinder Bore",
+        "en": "Measurement of Cylinder Bore"
+       },
+       "words": 370,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t023_abb9406f",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 885,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t024_c3ccd024",
+       "title": {
+        "ru": "Disassembly Procedure",
+        "en": "Disassembly Procedure"
+       },
+       "words": 457,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t025_c9f54dd6",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 432,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t026_47829235",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 378,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t027_86e28a18",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 521,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t028_eb3aac85",
+       "title": {
+        "ru": "Replacement Procedure",
+        "en": "Replacement Procedure"
+       },
+       "words": 740,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t029_bbed8368",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 441,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t030_c8ebae0e",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 461,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t031_446454b5",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 479,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t032_3033b60a",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 338,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t033_a426f8d2",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 414,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t034_29000fb4",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 369,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t035_ea2ab948",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 392,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t036_9c517907",
+       "title": {
+        "ru": "Inspection & Maintenance (for E2.3 MSE)",
+        "en": "Inspection & Maintenance (for E2.3 MSE)"
+       },
+       "words": 676,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t037_85df7a1f",
+       "title": {
+        "ru": "Function of the Fuel Pressure Regulator",
+        "en": "Function of the Fuel Pressure Regulator"
+       },
+       "words": 665,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t038_f217f4e0",
+       "title": {
+        "ru": "Measure the Fuel Delivery From the Fuel Pump",
+        "en": "Measure the Fuel Delivery From the Fuel Pump"
+       },
+       "words": 360,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t039_c508b43c",
+       "title": {
+        "ru": "Crankshaft Position Sensor Output Wave Inspection",
+        "en": "Crankshaft Position Sensor Output Wave Inspection"
+       },
+       "words": 249,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t040_58bc099f",
+       "title": {
+        "ru": "Camshaft Position Sensor Power Supply Inspection",
+        "en": "Camshaft Position Sensor Power Supply Inspection"
+       },
+       "words": 286,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t041_80ec276f",
+       "title": {
+        "ru": "Accelerator Pedal Sensor Connector(Sensor Side)",
+        "en": "Accelerator Pedal Sensor Connector(Sensor Side)"
+       },
+       "words": 920,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t042_c406fdb4",
+       "title": {
+        "ru": "Camshaft Position Sensor Power Supply Inspection",
+        "en": "Camshaft Position Sensor Power Supply Inspection"
+       },
+       "words": 360,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t043_5183886f",
+       "title": {
+        "ru": "HFM Sensor Input Voltage Inspection",
+        "en": "HFM Sensor Input Voltage Inspection"
+       },
+       "words": 377,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t044_2bb38a8f",
+       "title": {
+        "ru": "Tools Required",
+        "en": "Tools Required"
+       },
+       "words": 438,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t045_601c345f",
+       "title": {
+        "ru": "EMOVAL AND INSTALLATION OF INJECTION TIMING DEVICE",
+        "en": "EMOVAL AND INSTALLATION OF INJECTION TIMING DEVICE"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t046_dfd25d31",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 611,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t047_ffa39e90",
+       "title": {
+        "ru": "1. Resonance flap closed (at idle/partial load : less than 3,800/rpm)",
+        "en": "1. Resonance flap closed (at idle/partial load : less than 3,800/rpm)"
+       },
+       "words": 384,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t048_8cdaca5d",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 361,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t049_0759e475",
+       "title": {
+        "ru": "Normal Damping Force Control Establishment",
+        "en": "Normal Damping Force Control Establishment"
+       },
+       "words": 522,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t050_6f598f63",
+       "title": {
+        "ru": "FRONT SUSPENSION TABLE OF CONTENTS",
+        "en": "FRONT SUSPENSION TABLE OF CONTENTS"
+       },
+       "words": 1133,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t051_5fa4fca9",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 223,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t052_6bad2770",
+       "title": {
+        "ru": "Maintenance and Repair . . . . 3A-6",
+        "en": "Maintenance and Repair . . . . 3A-6"
+       },
+       "words": 406,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t053_4b042795",
+       "title": {
+        "ru": "For Master Cylinder Replacement",
+        "en": "For Master Cylinder Replacement"
+       },
+       "words": 643,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t054_905f5c45",
+       "title": {
+        "ru": "For Caliper and Brake Hose Replacement",
+        "en": "For Caliper and Brake Hose Replacement"
+       },
+       "words": 456,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t055_e0aaea73",
+       "title": {
+        "ru": "FRONT DISC BRAKES TABLE OF CONTENTS",
+        "en": "FRONT DISC BRAKES TABLE OF CONTENTS"
+       },
+       "words": 538,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t056_38c23e0a",
+       "title": {
+        "ru": "Fault Code Elimination",
+        "en": "Fault Code Elimination"
+       },
+       "words": 338,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t057_253c9596",
+       "title": {
+        "ru": "Pressure Decreased",
+        "en": "Pressure Decreased"
+       },
+       "words": 781,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t058_e28e2c78",
+       "title": {
+        "ru": "Battery Voltage Monitoring Input",
+        "en": "Battery Voltage Monitoring Input"
+       },
+       "words": 1328,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t059_edee4df5",
+       "title": {
+        "ru": "Solenoid Valve Symbols (On/off Solenoids)",
+        "en": "Solenoid Valve Symbols (On/off Solenoids)"
+       },
+       "words": 1235,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t060_154a986e",
+       "title": {
+        "ru": "Solenoid Supply Pressure Regulator Valve",
+        "en": "Solenoid Supply Pressure Regulator Valve"
+       },
+       "words": 1287,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t061_c1568cc9",
+       "title": {
+        "ru": "POWER FLOW - PARK AND NEUTRAL",
+        "en": "POWER FLOW - PARK AND NEUTRAL"
+       },
+       "words": 1256,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t062_908458ad",
+       "title": {
+        "ru": "POWER FLOW - DRIVE 2 AND MANUAL 2",
+        "en": "POWER FLOW - DRIVE 2 AND MANUAL 2"
+       },
+       "words": 1342,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t063_3d52081a",
+       "title": {
+        "ru": "Recommended Test Equipment and Procedure",
+        "en": "Recommended Test Equipment and Procedure"
+       },
+       "words": 1157,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t064_fc25daeb",
+       "title": {
+        "ru": "ON/OFF Solenoid Fault (Solenoids 1,2,3 and 4)",
+        "en": "ON/OFF Solenoid Fault (Solenoids 1,2,3 and 4)"
+       },
+       "words": 629,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t065_0fbb5d52",
+       "title": {
+        "ru": "Checking, Adding Fluid and Filling - Drained or Dry Transmission",
+        "en": "Checking, Adding Fluid and Filling - Drained or Dry Transmission"
+       },
+       "words": 1296,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t066_5327494c",
+       "title": {
+        "ru": "REMOVAL & INSTALLATION OF TRANSMISSION",
+        "en": "REMOVAL & INSTALLATION OF TRANSMISSION"
+       },
+       "words": 1325,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t067_c8f89b42",
+       "title": {
+        "ru": "Planet Carrier and Centre Support",
+        "en": "Planet Carrier and Centre Support"
+       },
+       "words": 831,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t068_e871bc05",
+       "title": {
+        "ru": "Planet Carrier Assembly and Centre Support",
+        "en": "Planet Carrier Assembly and Centre Support"
+       },
+       "words": 821,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t069_53ca9b26",
+       "title": {
+        "ru": "C3 Clutch and Reverse Sun Gear Assembly",
+        "en": "C3 Clutch and Reverse Sun Gear Assembly"
+       },
+       "words": 1095,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t070_cd65e5b3",
+       "title": {
+        "ru": "Pump Cover and Converter Support Notice",
+        "en": "Pump Cover and Converter Support Notice"
+       },
+       "words": 2273,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t071_6266063f",
+       "title": {
+        "ru": "Torque Converter and Housing Assembly",
+        "en": "Torque Converter and Housing Assembly"
+       },
+       "words": 1003,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t072_d4d8dff5",
+       "title": {
+        "ru": "Disassembly Procedure",
+        "en": "Disassembly Procedure"
+       },
+       "words": 913,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t073_a2699069",
+       "title": {
+        "ru": "MAINTENANCE AND REPAIR ON-VEHICLE SERVICE BLEEDING OF CLUTCH SYSTEM",
+        "en": "MAINTENANCE AND REPAIR ON-VEHICLE SERVICE BLEEDING OF CLUTCH SYSTEM"
+       },
+       "words": 457,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t074_01e99a5d",
+       "title": {
+        "ru": "How to Eliminate the Falut Code",
+        "en": "How to Eliminate the Falut Code"
+       },
+       "words": 623,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t075_2919483c",
+       "title": {
+        "ru": "<Adapter, Input Shaft and Carrier Gear>",
+        "en": "<Adapter, Input Shaft and Carrier Gear>"
+       },
+       "words": 704,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t076_11dca823",
+       "title": {
+        "ru": "Adapter, Input Shaft and Carrier",
+        "en": "Adapter, Input Shaft and Carrier"
+       },
+       "words": 850,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t077_fb79967e",
+       "title": {
+        "ru": "External Electric Shift",
+        "en": "External Electric Shift"
+       },
+       "words": 870,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t078_fd84c5fa",
+       "title": {
+        "ru": "Initial Operation of TOD Control Unit",
+        "en": "Initial Operation of TOD Control Unit"
+       },
+       "words": 426,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t079_e6ebfae1",
+       "title": {
+        "ru": "Speed Sensor/Clutch Coil and Motor Connector",
+        "en": "Speed Sensor/Clutch Coil and Motor Connector"
+       },
+       "words": 995,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t080_0efab969",
+       "title": {
+        "ru": "Malfunction interior TOD control unit ; fault code 1714",
+        "en": "Malfunction interior TOD control unit ; fault code 1714"
+       },
+       "words": 701,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t081_c1023db4",
+       "title": {
+        "ru": "Position incoder and position 1,2,3,4 malfunction :Fault code@1750,1751,1752,175",
+        "en": "Position incoder and position 1,2,3,4 malfunction :Fault code@1750,1751,1752,175"
+       },
+       "words": 360,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t082_a8fa2603",
+       "title": {
+        "ru": "Replacement of Shift Motor",
+        "en": "Replacement of Shift Motor"
+       },
+       "words": 828,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t083_7914cfe8",
+       "title": {
+        "ru": "Steering Wheel Freeplay Inspection Procedure",
+        "en": "Steering Wheel Freeplay Inspection Procedure"
+       },
+       "words": 1264,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t084_de60222c",
+       "title": {
+        "ru": "STEERING WHEEL AND COLUMN TABLE OF CONTENTS",
+        "en": "STEERING WHEEL AND COLUMN TABLE OF CONTENTS"
+       },
+       "words": 727,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t085_9039b644",
+       "title": {
+        "ru": "Replacement of Refrigerant Connection (O-ring Type)",
+        "en": "Replacement of Refrigerant Connection (O-ring Type)"
+       },
+       "words": 265,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t086_63140ba4",
+       "title": {
+        "ru": "Warning Lamp Turning On",
+        "en": "Warning Lamp Turning On"
+       },
+       "words": 798,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t087_a766d6cf",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 532,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t088_ff5ec7b8",
+       "title": {
+        "ru": "Schematic and Routing Diagrams . . . . . . . . 9A-2",
+        "en": "Schematic and Routing Diagrams . . . . . . . . 9A-2"
+       },
+       "words": 609,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t089_37049c86",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 527,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t090_01c17ced",
+       "title": {
+        "ru": "Installation of Tailgate Glass",
+        "en": "Installation of Tailgate Glass"
+       },
+       "words": 1223,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t091_1407ee54",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 248,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t092_bc823d84",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 571,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t093_84b7b53e",
+       "title": {
+        "ru": "Cases that requires immobilizer programming",
+        "en": "Cases that requires immobilizer programming"
+       },
+       "words": 594,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t094_6efc7a3f",
+       "title": {
+        "ru": "Removal & Installation Procedure",
+        "en": "Removal & Installation Procedure"
+       },
+       "words": 85,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t095_17415117",
+       "title": {
+        "ru": "Inspection Procedure",
+        "en": "Inspection Procedure"
+       },
+       "words": 85,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_musso_general_t096_fdc76e1e",
+       "title": {
+        "ru": "Notice",
+        "en": "Notice"
+       },
+       "words": 14,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "ssangyong_musso_drivetrain_t000_7d0dcabd",
+       "title": {
+        "ru": "Notice",
+        "en": "Notice"
+       },
+       "words": 5,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "ssangyong_musso_sensors_t000_fdd7d818",
+       "title": {
+        "ru": "Tools Required",
+        "en": "Tools Required"
+       },
+       "words": 7,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

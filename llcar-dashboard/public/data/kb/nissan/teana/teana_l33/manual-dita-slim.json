@@ -1,0 +1,375 @@
+{
+ "version": "1.0",
+ "model": "teana",
+ "manuals": [
+  {
+   "model": "teana",
+   "label": {
+    "ru": "Nissan Teana — Руководство по ремонту",
+    "en": "Nissan Teana — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "nissan_teana_engine_t000_af14709c",
+       "title": {
+        "ru": "2 - 16",
+        "en": "2 - 16"
+       },
+       "words": 606,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "nissan_teana_brakes_t000_a704ec34",
+       "title": {
+        "ru": "2 - 4",
+        "en": "2 - 4"
+       },
+       "words": 658,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "nissan_teana_lighting_t000_75f39cd3",
+       "title": {
+        "ru": "2 - 12",
+        "en": "2 - 12"
+       },
+       "words": 528,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "nissan_teana_ev_t000_065e3d01",
+       "title": {
+        "ru": "2 - 15",
+        "en": "2 - 15"
+       },
+       "words": 134,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "nissan_teana_general_t000_148bcf9d",
+       "title": {
+        "ru": "Не устанавливайте детскую удерживающую систему, в которой ре",
+        "en": "Не устанавливайте детскую удерживающую систему, в которой ре"
+       },
+       "words": 1655,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t001_cc515922",
+       "title": {
+        "ru": "0 - 9",
+        "en": "0 - 9"
+       },
+       "words": 2714,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t002_7553d1c1",
+       "title": {
+        "ru": "1 - 10",
+        "en": "1 - 10"
+       },
+       "words": 3786,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t003_1f1ff274",
+       "title": {
+        "ru": "1 - 20",
+        "en": "1 - 20"
+       },
+       "words": 2568,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t004_c7989932",
+       "title": {
+        "ru": "1 - 30",
+        "en": "1 - 30"
+       },
+       "words": 3853,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t005_9aaabb52",
+       "title": {
+        "ru": "2 - 5",
+        "en": "2 - 5"
+       },
+       "words": 4839,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t006_5693f880",
+       "title": {
+        "ru": "2 - 19",
+        "en": "2 - 19"
+       },
+       "words": 2994,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t007_f8dfaace",
+       "title": {
+        "ru": "2 - 29",
+        "en": "2 - 29"
+       },
+       "words": 3132,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t008_796c2ce4",
+       "title": {
+        "ru": "3 - 6",
+        "en": "3 - 6"
+       },
+       "words": 2881,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t009_a2b6cf7e",
+       "title": {
+        "ru": "3 - 16",
+        "en": "3 - 16"
+       },
+       "words": 2925,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t010_ef8fb044",
+       "title": {
+        "ru": "4 - 9",
+        "en": "4 - 9"
+       },
+       "words": 3386,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t011_59fba200",
+       "title": {
+        "ru": "4 - 19",
+        "en": "4 - 19"
+       },
+       "words": 3693,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t012_9dc02a9a",
+       "title": {
+        "ru": "4 - 30",
+        "en": "4 - 30"
+       },
+       "words": 4307,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t013_5006b9d5",
+       "title": {
+        "ru": "4 - 42",
+        "en": "4 - 42"
+       },
+       "words": 4615,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t014_13831b13",
+       "title": {
+        "ru": "5 - 11",
+        "en": "5 - 11"
+       },
+       "words": 4024,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t015_94d3b836",
+       "title": {
+        "ru": "5 - 21",
+        "en": "5 - 21"
+       },
+       "words": 4058,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t016_bc8184e3",
+       "title": {
+        "ru": "6 - 5",
+        "en": "6 - 5"
+       },
+       "words": 3600,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t017_34034b7b",
+       "title": {
+        "ru": "7 - 5",
+        "en": "7 - 5"
+       },
+       "words": 3779,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t018_43ba8578",
+       "title": {
+        "ru": "8 - 11",
+        "en": "8 - 11"
+       },
+       "words": 2710,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t019_d0dd716d",
+       "title": {
+        "ru": "8 - 21",
+        "en": "8 - 21"
+       },
+       "words": 3197,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_teana_general_t020_dc76129b",
+       "title": {
+        "ru": "После начала движения автомобиля закройте",
+        "en": "После начала движения автомобиля закройте"
+       },
+       "words": 1738,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_teana_infotainment_t000_5e781bf8",
+       "title": {
+        "ru": "0 - 6",
+        "en": "0 - 6"
+       },
+       "words": 1028,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_teana_sensors_t000_f7acd46c",
+       "title": {
+        "ru": "4 - 8",
+        "en": "4 - 8"
+       },
+       "words": 210,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_teana_drivetrain_t000_7c36db38",
+       "title": {
+        "ru": "6 - 10",
+        "en": "6 - 10"
+       },
+       "words": 461,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

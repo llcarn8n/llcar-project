@@ -1,0 +1,855 @@
+{
+ "version": "1.0",
+ "model": "genesis_g90",
+ "manuals": [
+  {
+   "model": "genesis_g90",
+   "label": {
+    "ru": "Genesis G90 — Руководство по ремонту",
+    "en": "Genesis G90 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_engine_t000_ce21e0bb",
+       "title": {
+        "ru": "2. Why should you use Genuine Genesis Parts?",
+        "en": "2. Why should you use Genuine Genesis Parts?"
+       },
+       "words": 1956,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_genesis_g90_engine_t001_485a7641",
+       "title": {
+        "ru": "To reset the seat position memorysystem",
+        "en": "To reset the seat position memorysystem"
+       },
+       "words": 1686,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_genesis_g90_engine_t002_6b6f11d5",
+       "title": {
+        "ru": "Forward ColisionAvoidance As ist (FCA) Warning Light (ifequip ed)",
+        "en": "Forward ColisionAvoidance As ist (FCA) Warning Light (ifequip ed)"
+       },
+       "words": 1620,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_genesis_g90_engine_t003_a9dbe36e",
+       "title": {
+        "ru": "Shiftto Por Nto start engine D or, ho d, trunk open",
+        "en": "Shiftto Por Nto start engine D or, ho d, trunk open"
+       },
+       "words": 964,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_genesis_g90_engine_t004_fd36ebd0",
+       "title": {
+        "ru": "Wireless Cellular Phone Charging System (if equipped)",
+        "en": "Wireless Cellular Phone Charging System (if equipped)"
+       },
+       "words": 1483,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_genesis_g90_engine_t005_b4e08cd3",
+       "title": {
+        "ru": "Avoid idling the engine for prolonged periods with people inside the vehicle",
+        "en": "Avoid idling the engine for prolonged periods with people inside the vehicle"
+       },
+       "words": 1174,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_genesis_g90_engine_t006_a7a5474f",
+       "title": {
+        "ru": "All wheel drive (awd) (if equipped) using all wheel drive (awd)",
+        "en": "All wheel drive (awd) (if equipped) using all wheel drive (awd)"
+       },
+       "words": 1507,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_genesis_g90_engine_t007_003b5df4",
+       "title": {
+        "ru": "Setting Rear Cross-Traffic Safety function",
+        "en": "Setting Rear Cross-Traffic Safety function"
+       },
+       "words": 2087,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_genesis_g90_engine_t008_e47d29be",
+       "title": {
+        "ru": "Don'tplace foreign objects or materials n theengine compartment",
+        "en": "Don'tplace foreign objects or materials n theengine compartment"
+       },
+       "words": 2037,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_genesis_g90_engine_t010_8ccb4859",
+       "title": {
+        "ru": "Steering Gear Box, Linkage & Boots/Lower Arm Ball Joint",
+        "en": "Steering Gear Box, Linkage & Boots/Lower Arm Ball Joint"
+       },
+       "words": 1549,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "genesis_genesis_g90_engine_t011_e603fa49",
+       "title": {
+        "ru": "Engine compartment fuse panel (Engine ro m unction block)",
+        "en": "Engine compartment fuse panel (Engine ro m unction block)"
+       },
+       "words": 1383,
+       "images": 6,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_brakes_t000_e0890402",
+       "title": {
+        "ru": "Electronic Brake Force Distribution (EBD) System Warning Light",
+        "en": "Electronic Brake Force Distribution (EBD) System Warning Light"
+       },
+       "words": 1507,
+       "images": 9,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_genesis_g90_brakes_t001_a0d12a9e",
+       "title": {
+        "ru": "When the EPB (Electronic Parking Brake) does not release",
+        "en": "When the EPB (Electronic Parking Brake) does not release"
+       },
+       "words": 1189,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_genesis_g90_brakes_t002_bad221aa",
+       "title": {
+        "ru": "Rear Cros -Trafic Colision-Avoidance As ist (RC A) system",
+        "en": "Rear Cros -Trafic Colision-Avoidance As ist (RC A) system"
+       },
+       "words": 2207,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "genesis_genesis_g90_brakes_t003_4e7fb08c",
+       "title": {
+        "ru": "Smart Cruise Control Vehicleto-Vehicle Distance",
+        "en": "Smart Cruise Control Vehicleto-Vehicle Distance"
+       },
+       "words": 995,
+       "images": 2,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_suspension_t000_7864df5b",
+       "title": {
+        "ru": "ECS (Electronic Control Suspension) malfunction ndicator",
+        "en": "ECS (Electronic Control Suspension) malfunction ndicator"
+       },
+       "words": 154,
+       "images": 1,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_hvac_t000_9dff5fd7",
+       "title": {
+        "ru": "Keep the air intakes clear",
+        "en": "Keep the air intakes clear"
+       },
+       "words": 275,
+       "images": 1,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_body_t000_dc1c84ae",
+       "title": {
+        "ru": "Ad ing equipment to or modifying yourair bag equip ed vehicle",
+        "en": "Ad ing equipment to or modifying yourair bag equip ed vehicle"
+       },
+       "words": 1297,
+       "images": 8,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_genesis_g90_body_t001_4d3b8ac8",
+       "title": {
+        "ru": "Ad itional Unlock Safety Feature Air Bag Deployment",
+        "en": "Ad itional Unlock Safety Feature Air Bag Deployment"
+       },
+       "words": 1367,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_genesis_g90_body_t003_bed0e3d9",
+       "title": {
+        "ru": "Reverse Parking Aid Function (if equipped)",
+        "en": "Reverse Parking Aid Function (if equipped)"
+       },
+       "words": 1253,
+       "images": 11,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_genesis_g90_body_t004_a139fd7e",
+       "title": {
+        "ru": "Power trunk opening height vehicle setings",
+        "en": "Power trunk opening height vehicle setings"
+       },
+       "words": 1414,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_genesis_g90_body_t005_c8d9f70f",
+       "title": {
+        "ru": "How to deactivate the Smart Trunk function using thesmart key",
+        "en": "How to deactivate the Smart Trunk function using thesmart key"
+       },
+       "words": 1534,
+       "images": 8,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_genesis_g90_body_t006_986226f1",
+       "title": {
+        "ru": "Air conditioning system operation tips",
+        "en": "Air conditioning system operation tips"
+       },
+       "words": 977,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_genesis_g90_body_t007_43389d8c",
+       "title": {
+        "ru": "Blind-Spot Collision Warning (BCW) system disabled. Radar blocked",
+        "en": "Blind-Spot Collision Warning (BCW) system disabled. Radar blocked"
+       },
+       "words": 2057,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_genesis_g90_body_t008_0aa2ea0f",
+       "title": {
+        "ru": "Useap roved window washer anti-fre ze n system",
+        "en": "Useap roved window washer anti-fre ze n system"
+       },
+       "words": 1403,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "genesis_genesis_g90_body_t009_a9a7e347",
+       "title": {
+        "ru": "Refrigerant label (if equipped)",
+        "en": "Refrigerant label (if equipped)"
+       },
+       "words": 561,
+       "images": 1,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_steering_t000_887bb842",
+       "title": {
+        "ru": "Forward collision-avoidance assist lane-changeoncoming function",
+        "en": "Forward collision-avoidance assist lane-changeoncoming function"
+       },
+       "words": 1086,
+       "images": 14,
+       "section_id": "steering"
+      },
+      {
+       "id": "genesis_genesis_g90_steering_t002_5e4b454c",
+       "title": {
+        "ru": "Do not let ce and snow ac umulate underneath",
+        "en": "Do not let ce and snow ac umulate underneath"
+       },
+       "words": 112,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_lighting_t000_3ddf548b",
+       "title": {
+        "ru": "Lane Ke ping As ist (LKA) IndicatorLight (ifequip ed)",
+        "en": "Lane Ke ping As ist (LKA) IndicatorLight (ifequip ed)"
+       },
+       "words": 944,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_genesis_g90_lighting_t001_e7ee43f8",
+       "title": {
+        "ru": "Electronic Stability Control (ESC) Indicator Light",
+        "en": "Electronic Stability Control (ESC) Indicator Light"
+       },
+       "words": 931,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_genesis_g90_lighting_t005_fb521004",
+       "title": {
+        "ru": "Front windshield wiper blade replacement",
+        "en": "Front windshield wiper blade replacement"
+       },
+       "words": 1986,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_genesis_g90_lighting_t006_2e5566bb",
+       "title": {
+        "ru": "Headlamp, Parking Lamp, Turn Signal Lamp, Daytime Running Light and Side Marker",
+        "en": "Headlamp, Parking Lamp, Turn Signal Lamp, Daytime Running Light and Side Marker"
+       },
+       "words": 1438,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "genesis_genesis_g90_lighting_t007_fa6457f3",
+       "title": {
+        "ru": "Interior Light Bulb Replacement",
+        "en": "Interior Light Bulb Replacement"
+       },
+       "words": 538,
+       "images": 3,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_interior_t000_00cc99e8",
+       "title": {
+        "ru": "Seat cushion extension adjustment (fordriver's seat)",
+        "en": "Seat cushion extension adjustment (fordriver's seat)"
+       },
+       "words": 1214,
+       "images": 7,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_genesis_g90_interior_t001_e47e5160",
+       "title": {
+        "ru": "Seat sliding, seatback angle and seat cushion tiltadjustment (ifequip ed)",
+        "en": "Seat sliding, seatback angle and seat cushion tiltadjustment (ifequip ed)"
+       },
+       "words": 1082,
+       "images": 9,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_genesis_g90_interior_t002_c5fdb975",
+       "title": {
+        "ru": "Rearswitches operating limitation",
+        "en": "Rearswitches operating limitation"
+       },
+       "words": 1432,
+       "images": 16,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_genesis_g90_interior_t003_f712efe6",
+       "title": {
+        "ru": "Rear Seat Belt– Pas enger's 3point system with convertible locking retractor",
+        "en": "Rear Seat Belt– Pas enger's 3point system with convertible locking retractor"
+       },
+       "words": 2283,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_genesis_g90_interior_t004_15d058e5",
+       "title": {
+        "ru": "Selecting a Child Restraint System (CRS)",
+        "en": "Selecting a Child Restraint System (CRS)"
+       },
+       "words": 1733,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_genesis_g90_interior_t005_e860aa3e",
+       "title": {
+        "ru": "Securing a child restraint seat with \"Tether Anchor\" system",
+        "en": "Securing a child restraint seat with \"Tether Anchor\" system"
+       },
+       "words": 2129,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_genesis_g90_interior_t006_fcee6263",
+       "title": {
+        "ru": "Do Not Instal a Child Restraint inthe Front Pa senger's Seat",
+        "en": "Do Not Instal a Child Restraint inthe Front Pa senger's Seat"
+       },
+       "words": 2713,
+       "images": 27,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_genesis_g90_interior_t007_91553733",
+       "title": {
+        "ru": "Checking the amount ofair conditioner refrigerant and compres or lubricant",
+        "en": "Checking the amount ofair conditioner refrigerant and compres or lubricant"
+       },
+       "words": 1511,
+       "images": 9,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_genesis_g90_interior_t008_f5cec1ea",
+       "title": {
+        "ru": "At least twice ayear: (i.e.,every Spring and Autumn)",
+        "en": "At least twice ayear: (i.e.,every Spring and Autumn)"
+       },
+       "words": 1399,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "genesis_genesis_g90_interior_t009_8ace2145",
+       "title": {
+        "ru": "Cleaning the upholstery and interior trim",
+        "en": "Cleaning the upholstery and interior trim"
+       },
+       "words": 890,
+       "images": 4,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_ev_t000_ce32c8c9",
+       "title": {
+        "ru": "Batery discharging due to external electrical devices",
+        "en": "Batery discharging due to external electrical devices"
+       },
+       "words": 1703,
+       "images": 15,
+       "section_id": "ev"
+      },
+      {
+       "id": "genesis_genesis_g90_ev_t001_713ea9cc",
+       "title": {
+        "ru": "Battery Replacement",
+        "en": "Battery Replacement"
+       },
+       "words": 550,
+       "images": 2,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_general_t000_fefc2e2d",
+       "title": {
+        "ru": "3. How can you tell if you are purchasing Genuine Genesis Parts?",
+        "en": "3. How can you tell if you are purchasing Genuine Genesis Parts?"
+       },
+       "words": 1481,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t001_6b01d894",
+       "title": {
+        "ru": "Lower Anchors and Tether for Children (LATCH System)",
+        "en": "Lower Anchors and Tether for Children (LATCH System)"
+       },
+       "words": 1078,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t002_992d7c8d",
+       "title": {
+        "ru": "Why Didn't My Air Bag Go Off in a Collision?",
+        "en": "Why Didn't My Air Bag Go Off in a Collision?"
+       },
+       "words": 1508,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t003_c07ba51d",
+       "title": {
+        "ru": "Turn signals and lane change signals",
+        "en": "Turn signals and lane change signals"
+       },
+       "words": 1212,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t004_0e258da1",
+       "title": {
+        "ru": "Types ofwarning sound and indicator",
+        "en": "Types ofwarning sound and indicator"
+       },
+       "words": 819,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t005_14c257af",
+       "title": {
+        "ru": "Combination anten a (1)",
+        "en": "Combination anten a (1)"
+       },
+       "words": 646,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t006_6abb4136",
+       "title": {
+        "ru": "Vehicle Stability Management (VSM)",
+        "en": "Vehicle Stability Management (VSM)"
+       },
+       "words": 917,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t007_62f24e8a",
+       "title": {
+        "ru": "Drive mode integrated control system drive mode comfort mode",
+        "en": "Drive mode integrated control system drive mode comfort mode"
+       },
+       "words": 1688,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t008_f6c4a1cf",
+       "title": {
+        "ru": "To temporarily ac elerate with the Smart Cruise Control on",
+        "en": "To temporarily ac elerate with the Smart Cruise Control on"
+       },
+       "words": 1339,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t009_aecb3437",
+       "title": {
+        "ru": "When the lane and road conditions are poor",
+        "en": "When the lane and road conditions are poor"
+       },
+       "words": 1277,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t010_0f2f6030",
+       "title": {
+        "ru": "Check Driver Attention Warning (DAW) system",
+        "en": "Check Driver Attention Warning (DAW) system"
+       },
+       "words": 1173,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t011_3e70c3b0",
+       "title": {
+        "ru": "Use highquality ethylene glycol c olant",
+        "en": "Use highquality ethylene glycol c olant"
+       },
+       "words": 1183,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t012_7337c337",
+       "title": {
+        "ru": "Owner Maintenance Precautions",
+        "en": "Owner Maintenance Precautions"
+       },
+       "words": 2109,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t013_4e670f47",
+       "title": {
+        "ru": "Maintenance Under Severe Usage Conditions (3.3 Turbo-GDI)",
+        "en": "Maintenance Under Severe Usage Conditions (3.3 Turbo-GDI)"
+       },
+       "words": 1370,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t014_d4725ee5",
+       "title": {
+        "ru": "Wheel Alignment and Tire Balance",
+        "en": "Wheel Alignment and Tire Balance"
+       },
+       "words": 1113,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t015_05831505",
+       "title": {
+        "ru": "Vehicle Maximum Load on the Tire",
+        "en": "Vehicle Maximum Load on the Tire"
+       },
+       "words": 422,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t016_7d13acdf",
+       "title": {
+        "ru": "Matte paint finish vehicle (if equipped)",
+        "en": "Matte paint finish vehicle (if equipped)"
+       },
+       "words": 1080,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "genesis_genesis_g90_general_t018_a351b5cb",
+       "title": {
+        "ru": "Tire specification and pressure label",
+        "en": "Tire specification and pressure label"
+       },
+       "words": 386,
+       "images": 1,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_sensors_t000_4b1639d2",
+       "title": {
+        "ru": "Non-operational Conditions of Parking Distance Warning (Reverse/Forward) System",
+        "en": "Non-operational Conditions of Parking Distance Warning (Reverse/Forward) System"
+       },
+       "words": 1469,
+       "images": 7,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_genesis_g90_sensors_t001_717ee1e9",
+       "title": {
+        "ru": "Forward collision-avoidance assist (fca) system sensor fusion type (front radar",
+        "en": "Forward collision-avoidance assist (fca) system sensor fusion type (front radar"
+       },
+       "words": 2106,
+       "images": 15,
+       "section_id": "sensors"
+      },
+      {
+       "id": "genesis_genesis_g90_sensors_t002_f326fa48",
+       "title": {
+        "ru": "High-pres ure washing",
+        "en": "High-pres ure washing"
+       },
+       "words": 412,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_infotainment_t000_0fb94b71",
+       "title": {
+        "ru": "Driver Attention Warning (DAW)",
+        "en": "Driver Attention Warning (DAW)"
+       },
+       "words": 1049,
+       "images": 16,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_genesis_g90_infotainment_t001_045d5fcc",
+       "title": {
+        "ru": "Setting the Climate Control System in the AVN System Screen",
+        "en": "Setting the Climate Control System in the AVN System Screen"
+       },
+       "words": 1019,
+       "images": 10,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_genesis_g90_infotainment_t002_e79df65e",
+       "title": {
+        "ru": "Adjusting the Sensitivity of Smart Cruise Control",
+        "en": "Adjusting the Sensitivity of Smart Cruise Control"
+       },
+       "words": 2037,
+       "images": 13,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "genesis_genesis_g90_infotainment_t003_5a0299f2",
+       "title": {
+        "ru": "3. Checking tire life (TIN: Tire Identification Number)",
+        "en": "3. Checking tire life (TIN: Tire Identification Number)"
+       },
+       "words": 332,
+       "images": 2,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "genesis_genesis_g90_drivetrain_t000_03525b82",
+       "title": {
+        "ru": "Automatic Transmission Operation",
+        "en": "Automatic Transmission Operation"
+       },
+       "words": 860,
+       "images": 4,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

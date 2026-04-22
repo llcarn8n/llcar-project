@@ -1,0 +1,3255 @@
+{
+ "version": "1.0",
+ "model": "qx60",
+ "manuals": [
+  {
+   "model": "qx60",
+   "label": {
+    "ru": "Infiniti Qx60 — Руководство по ремонту",
+    "en": "Infiniti Qx60 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "infiniti_qx60_engine_t000_a712198f",
+       "title": {
+        "ru": "The gauge indicates the engine coolant tempera-",
+        "en": "The gauge indicates the engine coolant tempera-"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t001_52feb91b",
+       "title": {
+        "ru": "MIL blinking — An engine misfire has been",
+        "en": "MIL blinking — An engine misfire has been"
+       },
+       "words": 855,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t002_864b47c2",
+       "title": {
+        "ru": "If the INFINITI Vehicle Immobilizer System is mal-",
+        "en": "If the INFINITI Vehicle Immobilizer System is mal-"
+       },
+       "words": 608,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t003_a8ee584d",
+       "title": {
+        "ru": "If the rear window wiper operation is interrupted",
+        "en": "If the rear window wiper operation is interrupted"
+       },
+       "words": 1151,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t004_4ae1cb75",
+       "title": {
+        "ru": "The following events will occur when the engine",
+        "en": "The following events will occur when the engine"
+       },
+       "words": 397,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t005_035c5645",
+       "title": {
+        "ru": "Special charging equipment and lubricant is re-",
+        "en": "Special charging equipment and lubricant is re-"
+       },
+       "words": 555,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t006_4ee99a24",
+       "title": {
+        "ru": "The operating range of the engine start function",
+        "en": "The operating range of the engine start function"
+       },
+       "words": 540,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t007_642c3c76",
+       "title": {
+        "ru": "Make sure the area around the vehicle is",
+        "en": "Make sure the area around the vehicle is"
+       },
+       "words": 359,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t008_852f2b22",
+       "title": {
+        "ru": "Use this position when climbing steep hills slowly",
+        "en": "Use this position when climbing steep hills slowly"
+       },
+       "words": 721,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t009_60bcd502",
+       "title": {
+        "ru": "The BCI system automatically turns on every time",
+        "en": "The BCI system automatically turns on every time"
+       },
+       "words": 471,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t010_fdd06af5",
+       "title": {
+        "ru": "For additional information about the Conventional",
+        "en": "For additional information about the Conventional"
+       },
+       "words": 525,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t011_7ede521a",
+       "title": {
+        "ru": "If any malfunction occurs in the Intelligent AWD",
+        "en": "If any malfunction occurs in the Intelligent AWD"
+       },
+       "words": 476,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t012_20d18e7a",
+       "title": {
+        "ru": "The computer has a built in diagnostic feature",
+        "en": "The computer has a built in diagnostic feature"
+       },
+       "words": 927,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t013_820b4b08",
+       "title": {
+        "ru": "Do not keep the starter motor engaged for",
+        "en": "Do not keep the starter motor engaged for"
+       },
+       "words": 432,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t014_eac20e7e",
+       "title": {
+        "ru": "For additional information on the location of the",
+        "en": "For additional information on the location of the"
+       },
+       "words": 1845,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t015_e4d89fd5",
+       "title": {
+        "ru": "The drain and refill capacity depends on the",
+        "en": "The drain and refill capacity depends on the"
+       },
+       "words": 246,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t016_442e50c5",
+       "title": {
+        "ru": "For additional information on the location of the",
+        "en": "For additional information on the location of the"
+       },
+       "words": 322,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t017_bd3ecc36",
+       "title": {
+        "ru": "Engine oil level*: Check the level after parking",
+        "en": "Engine oil level*: Check the level after parking"
+       },
+       "words": 420,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t018_58467e81",
+       "title": {
+        "ru": "Genuine NISSAN Long Life Antifreeze/Coolant",
+        "en": "Genuine NISSAN Long Life Antifreeze/Coolant"
+       },
+       "words": 201,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t019_70d187e9",
+       "title": {
+        "ru": "If any driveability problems such as engine stall-",
+        "en": "If any driveability problems such as engine stall-"
+       },
+       "words": 927,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t020_1b75e22d",
+       "title": {
+        "ru": "Your engine was filled with a high-quality engine",
+        "en": "Your engine was filled with a high-quality engine"
+       },
+       "words": 523,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t021_019b982d",
+       "title": {
+        "ru": "The laws and regulations for motor vehicle emis-",
+        "en": "The laws and regulations for motor vehicle emis-"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t022_0379f4c4",
+       "title": {
+        "ru": "If a powertrain system component is repaired or",
+        "en": "If a powertrain system component is repaired or"
+       },
+       "words": 673,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t023_4b6fcff3",
+       "title": {
+        "ru": "Engine oil and oil filter recommendation . .10-6",
+        "en": "Engine oil and oil filter recommendation . .10-6"
+       },
+       "words": 1619,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "infiniti_qx60_engine_t024_874bdee9",
+       "title": {
+        "ru": "ENGINE OIL RECOMMENDATION:",
+        "en": "ENGINE OIL RECOMMENDATION:"
+       },
+       "words": 28,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "infiniti_qx60_brakes_t000_6defbe64",
+       "title": {
+        "ru": "When the parking brake is released and the",
+        "en": "When the parking brake is released and the"
+       },
+       "words": 435,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t001_5edf7e18",
+       "title": {
+        "ru": "The light also illuminates with other interior lights",
+        "en": "The light also illuminates with other interior lights"
+       },
+       "words": 424,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t002_91d9a263",
+       "title": {
+        "ru": "The ignition switch is pushed with an Intelli-",
+        "en": "The ignition switch is pushed with an Intelli-"
+       },
+       "words": 580,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t003_fd21693e",
+       "title": {
+        "ru": "This unit generates highly concentrated Plasma-",
+        "en": "This unit generates highly concentrated Plasma-"
+       },
+       "words": 637,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t004_af14a639",
+       "title": {
+        "ru": "The following DVDs may not work properly:",
+        "en": "The following DVDs may not work properly:"
+       },
+       "words": 370,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t005_8447a485",
+       "title": {
+        "ru": "Do not use a conventional record cleaner or",
+        "en": "Do not use a conventional record cleaner or"
+       },
+       "words": 700,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t006_e928ddb6",
+       "title": {
+        "ru": "Remove all equipment from the iPod® after disconnecting",
+        "en": "Remove all equipment from the iPod® after disconnecting"
+       },
+       "words": 609,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t007_c8de9c69",
+       "title": {
+        "ru": "When the ignition switch is pushed without de-",
+        "en": "When the ignition switch is pushed without de-"
+       },
+       "words": 266,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t008_e1928a72",
+       "title": {
+        "ru": "Departure Warning indicator light on the instru-",
+        "en": "Departure Warning indicator light on the instru-"
+       },
+       "words": 617,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t009_a8187264",
+       "title": {
+        "ru": "When any of the following messages appear on",
+        "en": "When any of the following messages appear on"
+       },
+       "words": 724,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t010_5cf63c7c",
+       "title": {
+        "ru": "Normally when controlling the distance to a ve-",
+        "en": "Normally when controlling the distance to a ve-"
+       },
+       "words": 544,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t011_42d99daa",
+       "title": {
+        "ru": "The system automatically controls the throttle",
+        "en": "The system automatically controls the throttle"
+       },
+       "words": 594,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t012_15796afa",
+       "title": {
+        "ru": "This system only brakes and moves the accelera-",
+        "en": "This system only brakes and moves the accelera-"
+       },
+       "words": 535,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t013_e6a73141",
+       "title": {
+        "ru": "If the ABS warning light illuminates during the",
+        "en": "If the ABS warning light illuminates during the"
+       },
+       "words": 522,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t014_54f977bf",
+       "title": {
+        "ru": "Liquid-type air fresheners typically clip on",
+        "en": "Liquid-type air fresheners typically clip on"
+       },
+       "words": 443,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t015_3497b7f1",
+       "title": {
+        "ru": "When performing any inspection or maintenance",
+        "en": "When performing any inspection or maintenance"
+       },
+       "words": 784,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t016_c85dfade",
+       "title": {
+        "ru": "Brake fluid level*: Make sure that the brake",
+        "en": "Brake fluid level*: Make sure that the brake"
+       },
+       "words": 536,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t017_3e6c1bdb",
+       "title": {
+        "ru": "Electric Trailer Brakes - Electric braking sys-",
+        "en": "Electric Trailer Brakes - Electric braking sys-"
+       },
+       "words": 233,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "infiniti_qx60_brakes_t018_2578bb26",
+       "title": {
+        "ru": "Explanation of scheduled maintenance items . .9-5",
+        "en": "Explanation of scheduled maintenance items . .9-5"
+       },
+       "words": 1347,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "infiniti_qx60_suspension_t000_89b93c0a",
+       "title": {
+        "ru": "Be certain your vehicle maintains a level",
+        "en": "Be certain your vehicle maintains a level"
+       },
+       "words": 111,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "infiniti_qx60_hvac_t000_877d36ec",
+       "title": {
+        "ru": "In freezing temperatures the washer solu-",
+        "en": "In freezing temperatures the washer solu-"
+       },
+       "words": 121,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "infiniti_qx60_body_t000_723b75fe",
+       "title": {
+        "ru": "Move the recline switch backward until the de-",
+        "en": "Move the recline switch backward until the de-"
+       },
+       "words": 1937,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t001_3d6181e1",
+       "title": {
+        "ru": "Doors will have to be manually unlocked",
+        "en": "Doors will have to be manually unlocked"
+       },
+       "words": 361,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t002_1f23df41",
+       "title": {
+        "ru": "The vehicle security system provides visual and",
+        "en": "The vehicle security system provides visual and"
+       },
+       "words": 425,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t003_9429edff",
+       "title": {
+        "ru": "The driver’s side control panel is equipped with",
+        "en": "The driver’s side control panel is equipped with"
+       },
+       "words": 874,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t004_971b6017",
+       "title": {
+        "ru": "To fully close a window equipped with automatic",
+        "en": "To fully close a window equipped with automatic"
+       },
+       "words": 311,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t005_8a97872b",
+       "title": {
+        "ru": "Will operate most radio frequency devices",
+        "en": "Will operate most radio frequency devices"
+       },
+       "words": 750,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t006_7c2de471",
+       "title": {
+        "ru": "When the Intelligent Key is within the operating",
+        "en": "When the Intelligent Key is within the operating"
+       },
+       "words": 407,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t007_78ed1ae4",
+       "title": {
+        "ru": "The doors may not lock when the Intelli-",
+        "en": "The doors may not lock when the Intelli-"
+       },
+       "words": 321,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t008_f7a2a515",
+       "title": {
+        "ru": "All doors will be locked automatically unless one",
+        "en": "All doors will be locked automatically unless one"
+       },
+       "words": 307,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t009_3161cda3",
+       "title": {
+        "ru": "All doors will be locked automatically unless one",
+        "en": "All doors will be locked automatically unless one"
+       },
+       "words": 321,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t010_46c4065e",
+       "title": {
+        "ru": "1. Unlock the fuel-filler door using one of the",
+        "en": "1. Unlock the fuel-filler door using one of the"
+       },
+       "words": 622,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t011_0ac7595e",
+       "title": {
+        "ru": "The reverse tilt-down feature will turn both out-",
+        "en": "The reverse tilt-down feature will turn both out-"
+       },
+       "words": 288,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t012_daeb0df5",
+       "title": {
+        "ru": "Monitor system uses cameras located in the front",
+        "en": "Monitor system uses cameras located in the front"
+       },
+       "words": 719,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t013_c0f48e4e",
+       "title": {
+        "ru": "The wireless Bluetooth® connection may be disrupted de-",
+        "en": "The wireless Bluetooth® connection may be disrupted de-"
+       },
+       "words": 934,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t014_3025a2b9",
+       "title": {
+        "ru": "The wireless Bluetooth® connection may be disrupted de-",
+        "en": "The wireless Bluetooth® connection may be disrupted de-"
+       },
+       "words": 970,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t015_118c9d73",
+       "title": {
+        "ru": "The radar sensors can detect vehicles on either",
+        "en": "The radar sensors can detect vehicles on either"
+       },
+       "words": 718,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t016_244ef434",
+       "title": {
+        "ru": "If your vehicle sustains damage to the bumper",
+        "en": "If your vehicle sustains damage to the bumper"
+       },
+       "words": 375,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t017_531de86b",
+       "title": {
+        "ru": "Rinse the vehicle thoroughly with plenty of clean",
+        "en": "Rinse the vehicle thoroughly with plenty of clean"
+       },
+       "words": 553,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t018_8bd8d738",
+       "title": {
+        "ru": "INFINITI ball mounts and hitch balls are available",
+        "en": "INFINITI ball mounts and hitch balls are available"
+       },
+       "words": 522,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t019_a0253fd3",
+       "title": {
+        "ru": "Be certain your rearview mirrors conform to",
+        "en": "Be certain your rearview mirrors conform to"
+       },
+       "words": 1266,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "infiniti_qx60_body_t020_021a6097",
+       "title": {
+        "ru": "Rear window and outside mirror defroster",
+        "en": "Rear window and outside mirror defroster"
+       },
+       "words": 421,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "infiniti_qx60_steering_t000_4139b473",
+       "title": {
+        "ru": "The driver supplemental front-impact air bag is",
+        "en": "The driver supplemental front-impact air bag is"
+       },
+       "words": 759,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t001_d8f85a29",
+       "title": {
+        "ru": "The extended storage switch is pulled out when",
+        "en": "The extended storage switch is pulled out when"
+       },
+       "words": 454,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t002_fdbdff88",
+       "title": {
+        "ru": "For vehicles with automatic drive positioner: Both",
+        "en": "For vehicles with automatic drive positioner: Both"
+       },
+       "words": 275,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t003_35e4665c",
+       "title": {
+        "ru": "Indicate the predicted course when operating the",
+        "en": "Indicate the predicted course when operating the"
+       },
+       "words": 355,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t004_cf2d2585",
+       "title": {
+        "ru": "The Voice Recognition system will activate a few",
+        "en": "The Voice Recognition system will activate a few"
+       },
+       "words": 442,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t005_287712fa",
+       "title": {
+        "ru": "Low tire pressure warning light may illuminate in",
+        "en": "Low tire pressure warning light may illuminate in"
+       },
+       "words": 749,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t006_ed666477",
+       "title": {
+        "ru": "If the vehicle is driven under extreme con-",
+        "en": "If the vehicle is driven under extreme con-"
+       },
+       "words": 655,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t007_efa20745",
+       "title": {
+        "ru": "The automatic braking will cease under the fol-",
+        "en": "The automatic braking will cease under the fol-"
+       },
+       "words": 688,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t008_d6cb541a",
+       "title": {
+        "ru": "If the electric power steering warning light illumi-",
+        "en": "If the electric power steering warning light illumi-"
+       },
+       "words": 500,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t009_29bf2f3f",
+       "title": {
+        "ru": "The wheel nuts must be kept tightened to",
+        "en": "The wheel nuts must be kept tightened to"
+       },
+       "words": 664,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t010_38cf8eec",
+       "title": {
+        "ru": "INFINITI recommends that your vehicle be towed",
+        "en": "INFINITI recommends that your vehicle be towed"
+       },
+       "words": 518,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t011_c387c6a7",
+       "title": {
+        "ru": "Power steering fluid level* and lines: Check",
+        "en": "Power steering fluid level* and lines: Check"
+       },
+       "words": 512,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t012_c5d26850",
+       "title": {
+        "ru": "Load the trailer so approximately 60% of the",
+        "en": "Load the trailer so approximately 60% of the"
+       },
+       "words": 404,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "infiniti_qx60_steering_t013_5ce2d02e",
+       "title": {
+        "ru": "Predictive Forward Collision Warning",
+        "en": "Predictive Forward Collision Warning"
+       },
+       "words": 858,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "infiniti_qx60_lighting_t000_ab1a1631",
+       "title": {
+        "ru": "This manual includes information for all features",
+        "en": "This manual includes information for all features"
+       },
+       "words": 369,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t001_527b3b43",
+       "title": {
+        "ru": "The gauge indicates the approximate fuel level",
+        "en": "The gauge indicates the approximate fuel level"
+       },
+       "words": 982,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t002_3e8fa536",
+       "title": {
+        "ru": "OFF. If the light still illuminates while",
+        "en": "OFF. If the light still illuminates while"
+       },
+       "words": 602,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t003_4ce8f2a6",
+       "title": {
+        "ru": "The front fog light indicator light illuminates when",
+        "en": "The front fog light indicator light illuminates when"
+       },
+       "words": 453,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t004_699f2910",
+       "title": {
+        "ru": "I-Key System Error: See Owner’s Manual",
+        "en": "I-Key System Error: See Owner’s Manual"
+       },
+       "words": 330,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t005_b1517ea9",
+       "title": {
+        "ru": "The Wiper with Speed feature may be dis-",
+        "en": "The Wiper with Speed feature may be dis-"
+       },
+       "words": 420,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t006_920f243a",
+       "title": {
+        "ru": "Autolight activation sensitivity and the time",
+        "en": "Autolight activation sensitivity and the time"
+       },
+       "words": 493,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t007_098cfd32",
+       "title": {
+        "ru": "Even though the battery saver feature au-",
+        "en": "Even though the battery saver feature au-"
+       },
+       "words": 369,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t008_e464e96b",
+       "title": {
+        "ru": "INFINITI retailer for cross bar or other equipment",
+        "en": "INFINITI retailer for cross bar or other equipment"
+       },
+       "words": 465,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t009_1bbb13d9",
+       "title": {
+        "ru": "HomeLink® Universal Transceiver button. The",
+        "en": "HomeLink® Universal Transceiver button. The"
+       },
+       "words": 317,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t010_1208553f",
+       "title": {
+        "ru": "If you change the answer back horn and",
+        "en": "If you change the answer back horn and"
+       },
+       "words": 330,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t011_34144b8d",
+       "title": {
+        "ru": "Toggles the clock format between 12–hour and 24–hour",
+        "en": "Toggles the clock format between 12–hour and 24–hour"
+       },
+       "words": 468,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t012_67f6da84",
+       "title": {
+        "ru": "When the outside temperature decreases to ap-",
+        "en": "When the outside temperature decreases to ap-"
+       },
+       "words": 391,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t013_9da8e788",
+       "title": {
+        "ru": "Fading: This occurs while the vehicle is passing",
+        "en": "Fading: This occurs while the vehicle is passing"
+       },
+       "words": 508,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t014_14e9d081",
+       "title": {
+        "ru": "Song title and Artist name information will be",
+        "en": "Song title and Artist name information will be"
+       },
+       "words": 431,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t015_80aba689",
+       "title": {
+        "ru": "Set the Minimize Voice Feedback function “ON”",
+        "en": "Set the Minimize Voice Feedback function “ON”"
+       },
+       "words": 430,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t016_35757ee3",
+       "title": {
+        "ru": "The CVT in your vehicle is electronically con-",
+        "en": "The CVT in your vehicle is electronically con-"
+       },
+       "words": 372,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t017_c17f9f75",
+       "title": {
+        "ru": "Illustration 2: If the driver activates the turn",
+        "en": "Illustration 2: If the driver activates the turn"
+       },
+       "words": 396,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t018_32c9d593",
+       "title": {
+        "ru": "Illustration 5: The BSW indicator light illuminates",
+        "en": "Illustration 5: The BSW indicator light illuminates"
+       },
+       "words": 528,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t019_b3f46ef2",
+       "title": {
+        "ru": "If the radar detects an approaching vehicle from",
+        "en": "If the radar detects an approaching vehicle from"
+       },
+       "words": 355,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t020_4cbac787",
+       "title": {
+        "ru": "The following items are controlled in the ICC",
+        "en": "The following items are controlled in the ICC"
+       },
+       "words": 237,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t021_680bc360",
+       "title": {
+        "ru": "The DCA system switch indicator light will turn",
+        "en": "The DCA system switch indicator light will turn"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t022_529cfe2a",
+       "title": {
+        "ru": "The camera area of windshield is misted or",
+        "en": "The camera area of windshield is misted or"
+       },
+       "words": 667,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t023_cf45f8c1",
+       "title": {
+        "ru": "Fill the windshield-washer fluid reservoir periodi-",
+        "en": "Fill the windshield-washer fluid reservoir periodi-"
+       },
+       "words": 606,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t024_9cae12e6",
+       "title": {
+        "ru": "Tire chains/cables should not be installed",
+        "en": "Tire chains/cables should not be installed"
+       },
+       "words": 650,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t025_562cbe9f",
+       "title": {
+        "ru": "Owner’s Manual/Service Manual order information . .10-33",
+        "en": "Owner’s Manual/Service Manual order information . .10-33"
+       },
+       "words": 576,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "infiniti_qx60_lighting_t026_82756a47",
+       "title": {
+        "ru": "Low windshield-washer fluid warning light. . .2-27",
+        "en": "Low windshield-washer fluid warning light. . .2-27"
+       },
+       "words": 788,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "infiniti_qx60_adas_t000_95340047",
+       "title": {
+        "ru": "Owner’s Manual carefully. This will ensure famil-",
+        "en": "Owner’s Manual carefully. This will ensure famil-"
+       },
+       "words": 550,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "infiniti_qx60_adas_t001_e376fd12",
+       "title": {
+        "ru": "These indicators show the cruise control system",
+        "en": "These indicators show the cruise control system"
+       },
+       "words": 376,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "infiniti_qx60_adas_t002_f75df867",
+       "title": {
+        "ru": "The warning function will stop when the vehicle",
+        "en": "The warning function will stop when the vehicle"
+       },
+       "words": 2579,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "infiniti_qx60_adas_t003_110d4420",
+       "title": {
+        "ru": "After the above conditions have finished and the",
+        "en": "After the above conditions have finished and the"
+       },
+       "words": 257,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "infiniti_qx60_adas_t004_c5e5b747",
+       "title": {
+        "ru": "This system should only be used when traffic",
+        "en": "This system should only be used when traffic"
+       },
+       "words": 588,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "infiniti_qx60_adas_t005_812afa42",
+       "title": {
+        "ru": "To choose the vehicle-to-vehicle distance control",
+        "en": "To choose the vehicle-to-vehicle distance control"
+       },
+       "words": 465,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "infiniti_qx60_adas_t006_538050be",
+       "title": {
+        "ru": "Regular waxing protects the paint surface and",
+        "en": "Regular waxing protects the paint surface and"
+       },
+       "words": 461,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "infiniti_qx60_adas_t007_ef9d0b3b",
+       "title": {
+        "ru": "These data can help provide a better understand-",
+        "en": "These data can help provide a better understand-"
+       },
+       "words": 160,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "infiniti_qx60_interior_t000_9100352d",
+       "title": {
+        "ru": "Rear-facing child restraint installation using",
+        "en": "Rear-facing child restraint installation using"
+       },
+       "words": 1425,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t001_99ef7688",
+       "title": {
+        "ru": "The recline feature allows adjustment of the seat-",
+        "en": "The recline feature allows adjustment of the seat-"
+       },
+       "words": 497,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t002_38ff514d",
+       "title": {
+        "ru": "The recline feature allows adjustment of the seat-",
+        "en": "The recline feature allows adjustment of the seat-"
+       },
+       "words": 766,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t003_95b49b2c",
+       "title": {
+        "ru": "The illustration shows the seating positions",
+        "en": "The illustration shows the seating positions"
+       },
+       "words": 528,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t004_28a40959",
+       "title": {
+        "ru": "Make sure the head restraint/headrest is posi-",
+        "en": "Make sure the head restraint/headrest is posi-"
+       },
+       "words": 512,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t005_278fa6a6",
+       "title": {
+        "ru": "Never run the lap/shoulder belt over your ab-",
+        "en": "Never run the lap/shoulder belt over your ab-"
+       },
+       "words": 826,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t006_248a31de",
+       "title": {
+        "ru": "The front passenger seat and the rear seating",
+        "en": "The front passenger seat and the rear seating"
+       },
+       "words": 573,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t007_0749c38c",
+       "title": {
+        "ru": "Motor Vehicle Safety Standards or Canadian Mo-",
+        "en": "Motor Vehicle Safety Standards or Canadian Mo-"
+       },
+       "words": 771,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t008_f04748cc",
+       "title": {
+        "ru": "Anchor points are located in the following loca-",
+        "en": "Anchor points are located in the following loca-"
+       },
+       "words": 478,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t009_f5195b39",
+       "title": {
+        "ru": "Follow these steps to install a rear-facing child",
+        "en": "Follow these steps to install a rear-facing child"
+       },
+       "words": 394,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t010_ad9a911d",
+       "title": {
+        "ru": "Follow these steps to install a forward-facing",
+        "en": "Follow these steps to install a forward-facing"
+       },
+       "words": 373,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t011_a10a9e03",
+       "title": {
+        "ru": "Make sure the child’s head will be properly",
+        "en": "Make sure the child’s head will be properly"
+       },
+       "words": 350,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t012_f8587037",
+       "title": {
+        "ru": "The instructions in this section apply to booster",
+        "en": "The instructions in this section apply to booster"
+       },
+       "words": 268,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t013_84d75689",
+       "title": {
+        "ru": "This vehicle is equipped with the INFINITI Ad-",
+        "en": "This vehicle is equipped with the INFINITI Ad-"
+       },
+       "words": 909,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t014_5378b9ea",
+       "title": {
+        "ru": "The occupant classification sensor in this vehicle",
+        "en": "The occupant classification sensor in this vehicle"
+       },
+       "words": 589,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t015_3546f802",
+       "title": {
+        "ru": "The pretensioner system may activate with the",
+        "en": "The pretensioner system may activate with the"
+       },
+       "words": 2083,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t016_47c95dd2",
+       "title": {
+        "ru": "The climate controlled seat warms up or cools",
+        "en": "The climate controlled seat warms up or cools"
+       },
+       "words": 647,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t017_89b17bff",
+       "title": {
+        "ru": "If the auto-reverse function malfunctions and re-",
+        "en": "If the auto-reverse function malfunctions and re-"
+       },
+       "words": 579,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t018_b70da94f",
+       "title": {
+        "ru": "The entry/exit function can be adjusted or can-",
+        "en": "The entry/exit function can be adjusted or can-"
+       },
+       "words": 197,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t019_c566546c",
+       "title": {
+        "ru": "There may be differences in sharpness be-",
+        "en": "There may be differences in sharpness be-"
+       },
+       "words": 260,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t020_fcd05b38",
+       "title": {
+        "ru": "The air recirculation cannot be activated when",
+        "en": "The air recirculation cannot be activated when"
+       },
+       "words": 355,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t021_a7d5ab7e",
+       "title": {
+        "ru": "To turn on/off the rear automatic air conditioning",
+        "en": "To turn on/off the rear automatic air conditioning"
+       },
+       "words": 214,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t022_37463ed3",
+       "title": {
+        "ru": "The air conditioner system in your INFINITI ve-",
+        "en": "The air conditioner system in your INFINITI ve-"
+       },
+       "words": 224,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t023_1df74e72",
+       "title": {
+        "ru": "The auxiliary audio input jack accepts any stan-",
+        "en": "The auxiliary audio input jack accepts any stan-"
+       },
+       "words": 481,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t024_ea943894",
+       "title": {
+        "ru": "This DivX Certified® device has passed rigorous",
+        "en": "This DivX Certified® device has passed rigorous"
+       },
+       "words": 322,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t025_825965c0",
+       "title": {
+        "ru": "Select the preferred item and adjust the setting",
+        "en": "Select the preferred item and adjust the setting"
+       },
+       "words": 399,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t026_b86fcc17",
+       "title": {
+        "ru": "The vehicle information is required for enter-",
+        "en": "The vehicle information is required for enter-"
+       },
+       "words": 264,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t027_65a1b1bc",
+       "title": {
+        "ru": "Electromagnetic waves that are generated from radio de-",
+        "en": "Electromagnetic waves that are generated from radio de-"
+       },
+       "words": 417,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t028_1f82a449",
+       "title": {
+        "ru": "Occasionally remove loose dust from the interior",
+        "en": "Occasionally remove loose dust from the interior"
+       },
+       "words": 522,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t029_11fb22cf",
+       "title": {
+        "ru": "INFINITI vehicle does not harm the earth’s ozone",
+        "en": "INFINITI vehicle does not harm the earth’s ozone"
+       },
+       "words": 730,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "infiniti_qx60_interior_t030_fce8c860",
+       "title": {
+        "ru": "Low windshield-washer fluid warning",
+        "en": "Low windshield-washer fluid warning"
+       },
+       "words": 762,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "infiniti_qx60_ev_t000_5d631a37",
+       "title": {
+        "ru": "INFINITI retailer for installation of elec-",
+        "en": "INFINITI retailer for installation of elec-"
+       },
+       "words": 860,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "infiniti_qx60_ev_t001_256922a9",
+       "title": {
+        "ru": "Since the Intelligent Key is continuously receiving",
+        "en": "Since the Intelligent Key is continuously receiving"
+       },
+       "words": 599,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "infiniti_qx60_ev_t002_ea75b9ac",
+       "title": {
+        "ru": "The Bluetooth® setting of the in-vehicle hands-free phone",
+        "en": "The Bluetooth® setting of the in-vehicle hands-free phone"
+       },
+       "words": 681,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "infiniti_qx60_ev_t003_5c1ca7d0",
+       "title": {
+        "ru": "Vehicles operated in high temperatures or under",
+        "en": "Vehicles operated in high temperatures or under"
+       },
+       "words": 434,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "infiniti_qx60_ev_t004_d52dcec3",
+       "title": {
+        "ru": "When splicing into the vehicle electrical",
+        "en": "When splicing into the vehicle electrical"
+       },
+       "words": 214,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "infiniti_qx60_general_t000_5dbc503d",
+       "title": {
+        "ru": "Please carefully read and retain with this manual",
+        "en": "Please carefully read and retain with this manual"
+       },
+       "words": 697,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t001_f5a8b00c",
+       "title": {
+        "ru": "INFINITI retailer to obtain information about the",
+        "en": "INFINITI retailer to obtain information about the"
+       },
+       "words": 389,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t002_e6047b74",
+       "title": {
+        "ru": "Have the vehicle inspected. It is recommended",
+        "en": "Have the vehicle inspected. It is recommended"
+       },
+       "words": 262,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t003_f7a6fbfb",
+       "title": {
+        "ru": "This warning appears when the Intelligent Key is",
+        "en": "This warning appears when the Intelligent Key is"
+       },
+       "words": 303,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t004_1c548052",
+       "title": {
+        "ru": "This warning illuminates when there is an error",
+        "en": "This warning illuminates when there is an error"
+       },
+       "words": 271,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t005_d1249646",
+       "title": {
+        "ru": "The windshield wiper and washer operates when",
+        "en": "The windshield wiper and washer operates when"
+       },
+       "words": 310,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t006_de80a879",
+       "title": {
+        "ru": "Always distribute the luggage evenly on the cross",
+        "en": "Always distribute the luggage evenly on the cross"
+       },
+       "words": 253,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t007_2b1c135d",
+       "title": {
+        "ru": "If the moonroof does not operate properly after",
+        "en": "If the moonroof does not operate properly after"
+       },
+       "words": 248,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t008_e66fa538",
+       "title": {
+        "ru": "1. Place the ignition switch in the ON position.",
+        "en": "1. Place the ignition switch in the ON position."
+       },
+       "words": 374,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t009_969f5f31",
+       "title": {
+        "ru": "If the device was unplugged during the pro-",
+        "en": "If the device was unplugged during the pro-"
+       },
+       "words": 218,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t010_8b163d65",
+       "title": {
+        "ru": "Keys which are registered to your vehicle’s Intel-",
+        "en": "Keys which are registered to your vehicle’s Intel-"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t011_4c29459d",
+       "title": {
+        "ru": "INFINITI retailer for duplicates by using the key",
+        "en": "INFINITI retailer for duplicates by using the key"
+       },
+       "words": 455,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t012_1e611819",
+       "title": {
+        "ru": "The Intelligent Key is always communicating with",
+        "en": "The Intelligent Key is always communicating with"
+       },
+       "words": 238,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t013_65bff19f",
+       "title": {
+        "ru": "Laws in some local communities may restrict the",
+        "en": "Laws in some local communities may restrict the"
+       },
+       "words": 255,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t014_6001dcfc",
+       "title": {
+        "ru": "There are some small distances immedi-",
+        "en": "There are some small distances immedi-"
+       },
+       "words": 390,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t015_f47de491",
+       "title": {
+        "ru": "The liftgate will open to the selected position",
+        "en": "The liftgate will open to the selected position"
+       },
+       "words": 185,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t016_7d5ad48d",
+       "title": {
+        "ru": "When the ignition switch is changed from",
+        "en": "When the ignition switch is changed from"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t017_fe8dfee6",
+       "title": {
+        "ru": "Indicates the position of the currently dis-",
+        "en": "Indicates the position of the currently dis-"
+       },
+       "words": 217,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t018_7f0ecaae",
+       "title": {
+        "ru": "The colors of objects on the RearView Moni-",
+        "en": "The colors of objects on the RearView Moni-"
+       },
+       "words": 258,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t019_f41b8255",
+       "title": {
+        "ru": "The intermittent tone will stop after 3 seconds",
+        "en": "The intermittent tone will stop after 3 seconds"
+       },
+       "words": 347,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t020_b18d8a29",
+       "title": {
+        "ru": "The temperature can be set within the following",
+        "en": "The temperature can be set within the following"
+       },
+       "words": 199,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t021_bf571c2d",
+       "title": {
+        "ru": "Static and flutter: During signal interference from",
+        "en": "Static and flutter: During signal interference from"
+       },
+       "words": 323,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t022_d3e659fd",
+       "title": {
+        "ru": "An incorrect song title may appear when the",
+        "en": "An incorrect song title may appear when the"
+       },
+       "words": 251,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t023_546994d7",
+       "title": {
+        "ru": "This Class B digital apparatus meets all require-",
+        "en": "This Class B digital apparatus meets all require-"
+       },
+       "words": 226,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t024_e1efe914",
+       "title": {
+        "ru": "DVDs with the parental control settings can be",
+        "en": "DVDs with the parental control settings can be"
+       },
+       "words": 216,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t025_9ba53d7f",
+       "title": {
+        "ru": "HD Radio reception needs to be activated to",
+        "en": "HD Radio reception needs to be activated to"
+       },
+       "words": 177,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t026_81355f4a",
+       "title": {
+        "ru": "Favorite artists and songs can be registered to",
+        "en": "Favorite artists and songs can be registered to"
+       },
+       "words": 305,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t027_16e00e78",
+       "title": {
+        "ru": "Refer to your device manufacturer’s owner infor-",
+        "en": "Refer to your device manufacturer’s owner infor-"
+       },
+       "words": 194,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t028_62db8765",
+       "title": {
+        "ru": "Even when iPod®s or iPhone®s are inserted into",
+        "en": "Even when iPod®s or iPhone®s are inserted into"
+       },
+       "words": 204,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t029_9404d6b6",
+       "title": {
+        "ru": "AUX jacks are located inside the center console",
+        "en": "AUX jacks are located inside the center console"
+       },
+       "words": 505,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t030_fc9f096c",
+       "title": {
+        "ru": "Only single-instance playback is supported",
+        "en": "Only single-instance playback is supported"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t031_e4042cec",
+       "title": {
+        "ru": "Portions of this software are included under li-",
+        "en": "Portions of this software are included under li-"
+       },
+       "words": 188,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t032_80855f6e",
+       "title": {
+        "ru": "The terms HDMI and HDMI High-Definition Mul-",
+        "en": "The terms HDMI and HDMI High-Definition Mul-"
+       },
+       "words": 183,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t033_63124c26",
+       "title": {
+        "ru": "Objects in dark images that are difficult to",
+        "en": "Objects in dark images that are difficult to"
+       },
+       "words": 239,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t034_83141175",
+       "title": {
+        "ru": "Rules. Operation is subject to the following two",
+        "en": "Rules. Operation is subject to the following two"
+       },
+       "words": 323,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t035_50aa0eb1",
+       "title": {
+        "ru": "Use the text messaging feature after park-",
+        "en": "Use the text messaging feature after park-"
+       },
+       "words": 269,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t036_8de83782",
+       "title": {
+        "ru": "Information in the phonebook on cellular phones",
+        "en": "Information in the phonebook on cellular phones"
+       },
+       "words": 583,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t037_0ec0746c",
+       "title": {
+        "ru": "Infiniti InTouchTM Apps provides in-vehicle ac-",
+        "en": "Infiniti InTouchTM Apps provides in-vehicle ac-"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t038_394cb066",
+       "title": {
+        "ru": "Mobile Apps are a limited selection of popular",
+        "en": "Mobile Apps are a limited selection of popular"
+       },
+       "words": 417,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t039_0b80c08c",
+       "title": {
+        "ru": "Mobile Apps are not usable if a smartphone",
+        "en": "Mobile Apps are not usable if a smartphone"
+       },
+       "words": 371,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t040_e702355d",
+       "title": {
+        "ru": "3. Speak “Play FM” to turn on the FM radio.",
+        "en": "3. Speak “Play FM” to turn on the FM radio."
+       },
+       "words": 328,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t041_d5bd344b",
+       "title": {
+        "ru": "Even when a device has been previously",
+        "en": "Even when a device has been previously"
+       },
+       "words": 174,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t042_4b79ff30",
+       "title": {
+        "ru": "Verify correct operation on another station and check",
+        "en": "Verify correct operation on another station and check"
+       },
+       "words": 871,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t043_1846dce8",
+       "title": {
+        "ru": "Your vehicle has also been equipped with a",
+        "en": "Your vehicle has also been equipped with a"
+       },
+       "words": 1889,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t044_ea768cbf",
+       "title": {
+        "ru": "TPMS with Tire Inflation Indicator provides visual",
+        "en": "TPMS with Tire Inflation Indicator provides visual"
+       },
+       "words": 465,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t045_cc31d4de",
+       "title": {
+        "ru": "Vehicles started with the remote start require the",
+        "en": "Vehicles started with the remote start require the"
+       },
+       "words": 263,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t046_fbc93ec7",
+       "title": {
+        "ru": "After the above conditions have finished and the",
+        "en": "After the above conditions have finished and the"
+       },
+       "words": 184,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t047_1d3e57b7",
+       "title": {
+        "ru": "Operation is subject to the following two condi-",
+        "en": "Operation is subject to the following two condi-"
+       },
+       "words": 208,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t048_0d74145c",
+       "title": {
+        "ru": "Listed below are the system limitations for",
+        "en": "Listed below are the system limitations for"
+       },
+       "words": 518,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t049_9ad3200c",
+       "title": {
+        "ru": "The ICC system does not control vehicle speed",
+        "en": "The ICC system does not control vehicle speed"
+       },
+       "words": 285,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t050_8a195969",
+       "title": {
+        "ru": "If a vehicle ahead appears during acceleration to",
+        "en": "If a vehicle ahead appears during acceleration to"
+       },
+       "words": 346,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t051_42d2407b",
+       "title": {
+        "ru": "When the vehicles are traveling at the same",
+        "en": "When the vehicles are traveling at the same"
+       },
+       "words": 199,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t052_2049f8f5",
+       "title": {
+        "ru": "The following are conditions in which the ICC",
+        "en": "The following are conditions in which the ICC"
+       },
+       "words": 491,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t053_a944ac78",
+       "title": {
+        "ru": "The DCA system does not control vehicle speed",
+        "en": "The DCA system does not control vehicle speed"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t054_17427439",
+       "title": {
+        "ru": "This procedure is described in the INFINITI Ser-",
+        "en": "This procedure is described in the INFINITI Ser-"
+       },
+       "words": 260,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t055_b6b32fdc",
+       "title": {
+        "ru": "The system is automatically activated when the",
+        "en": "The system is automatically activated when the"
+       },
+       "words": 366,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t056_502fdb08",
+       "title": {
+        "ru": "Skid and traction capabilities of studded",
+        "en": "Skid and traction capabilities of studded"
+       },
+       "words": 172,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t057_687fc2ff",
+       "title": {
+        "ru": "INFINITI retailer. Local service operators are gen-",
+        "en": "INFINITI retailer. Local service operators are gen-"
+       },
+       "words": 177,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t058_44bf49b7",
+       "title": {
+        "ru": "For additional information about towing your ve-",
+        "en": "For additional information about towing your ve-"
+       },
+       "words": 425,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t059_d25a20d5",
+       "title": {
+        "ru": "Wet floor coverings will not dry completely inside",
+        "en": "Wet floor coverings will not dry completely inside"
+       },
+       "words": 150,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t060_34eeedc8",
+       "title": {
+        "ru": "For additional protection against rust and corro-",
+        "en": "For additional protection against rust and corro-"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t061_5d6e9185",
+       "title": {
+        "ru": "Refill the reservoir more frequently when driving",
+        "en": "Refill the reservoir more frequently when driving"
+       },
+       "words": 427,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t062_215feed8",
+       "title": {
+        "ru": "F.M.V.S.S./C.M.V.S.S. certification label",
+        "en": "F.M.V.S.S./C.M.V.S.S. certification label"
+       },
+       "words": 343,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t063_a0b64183",
+       "title": {
+        "ru": "Indicates whether the tire requires an in-",
+        "en": "Indicates whether the tire requires an in-"
+       },
+       "words": 218,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t064_5dbdea8e",
+       "title": {
+        "ru": "Observe the following precautions if the TEM-",
+        "en": "Observe the following precautions if the TEM-"
+       },
+       "words": 828,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t065_0ac52053",
+       "title": {
+        "ru": "INFINITI technicians are well-trained specialists",
+        "en": "INFINITI technicians are well-trained specialists"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t066_c121d3a4",
+       "title": {
+        "ru": "Windshield: Clean the windshield on a regular",
+        "en": "Windshield: Clean the windshield on a regular"
+       },
+       "words": 329,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t067_08edf63e",
+       "title": {
+        "ru": "The following tables show the standard mainte-",
+        "en": "The following tables show the standard mainte-"
+       },
+       "words": 248,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t068_5d6dbec8",
+       "title": {
+        "ru": "Dealer Name:",
+        "en": "Dealer Name:"
+       },
+       "words": 110,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t069_15a3a102",
+       "title": {
+        "ru": "Dealer Name:",
+        "en": "Dealer Name:"
+       },
+       "words": 110,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t070_4a75ec91",
+       "title": {
+        "ru": "E-15 fuel contains more than 10% oxy-",
+        "en": "E-15 fuel contains more than 10% oxy-"
+       },
+       "words": 505,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t071_656f3d90",
+       "title": {
+        "ru": "MMT. Such fuel may adversely affect vehicle per-",
+        "en": "MMT. Such fuel may adversely affect vehicle per-"
+       },
+       "words": 297,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t072_46a2e000",
+       "title": {
+        "ru": "When transferring the registration of your",
+        "en": "When transferring the registration of your"
+       },
+       "words": 315,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t073_16c61389",
+       "title": {
+        "ru": "Also check tires for proper inflation pres-",
+        "en": "Also check tires for proper inflation pres-"
+       },
+       "words": 441,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t074_dd17ccb4",
+       "title": {
+        "ru": "Load/Specification” chart. If the tongue load be-",
+        "en": "Load/Specification” chart. If the tongue load be-"
+       },
+       "words": 328,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t075_81f6e247",
+       "title": {
+        "ru": "The available towing capacity may be less than",
+        "en": "The available towing capacity may be less than"
+       },
+       "words": 334,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t076_6f75a72b",
+       "title": {
+        "ru": "Follow the instructions provided by the manufac-",
+        "en": "Follow the instructions provided by the manufac-"
+       },
+       "words": 280,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t077_ac1ee47a",
+       "title": {
+        "ru": "Quality grades can be found where applicable on",
+        "en": "Quality grades can be found where applicable on"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t078_952fddaf",
+       "title": {
+        "ru": "INFINITI Service Manual is the best source of",
+        "en": "INFINITI Service Manual is the best source of"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "infiniti_qx60_general_t079_3392023c",
+       "title": {
+        "ru": "Intelligent Key system",
+        "en": "Intelligent Key system"
+       },
+       "words": 275,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "infiniti_qx60_safety_t000_4af78086",
+       "title": {
+        "ru": "Rear-facing child restraint installation using",
+        "en": "Rear-facing child restraint installation using"
+       },
+       "words": 838,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "infiniti_qx60_safety_t001_656dbf6a",
+       "title": {
+        "ru": "All U.S. states and Canadian provinces or territo-",
+        "en": "All U.S. states and Canadian provinces or territo-"
+       },
+       "words": 525,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "infiniti_qx60_safety_t002_a2a8072e",
+       "title": {
+        "ru": "Vehicle Safety Standards or Canadian Motor Ve-",
+        "en": "Vehicle Safety Standards or Canadian Motor Ve-"
+       },
+       "words": 576,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "infiniti_qx60_safety_t003_36278fcd",
+       "title": {
+        "ru": "Follow these steps to install a rear-facing child",
+        "en": "Follow these steps to install a rear-facing child"
+       },
+       "words": 491,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "infiniti_qx60_safety_t004_c25c0373",
+       "title": {
+        "ru": "Do not install child restraints that require the",
+        "en": "Do not install child restraints that require the"
+       },
+       "words": 401,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "infiniti_qx60_safety_t005_493f3c36",
+       "title": {
+        "ru": "6. After attaching the child restraint, test it be-",
+        "en": "6. After attaching the child restraint, test it be-"
+       },
+       "words": 395,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "infiniti_qx60_safety_t006_efe8637b",
+       "title": {
+        "ru": "OFF. For additional information about proper use",
+        "en": "OFF. For additional information about proper use"
+       },
+       "words": 834,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "infiniti_qx60_safety_t007_cf759fb2",
+       "title": {
+        "ru": "This may be due to the following conditions",
+        "en": "This may be due to the following conditions"
+       },
+       "words": 474,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "infiniti_qx60_safety_t008_cd2289b7",
+       "title": {
+        "ru": "For additional information regarding",
+        "en": "For additional information regarding"
+       },
+       "words": 1082,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "infiniti_qx60_safety_t009_25f872eb",
+       "title": {
+        "ru": "Grades: All passenger car tires must conform to",
+        "en": "Grades: All passenger car tires must conform to"
+       },
+       "words": 666,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "infiniti_qx60_safety_t010_bb6ceece",
+       "title": {
+        "ru": "Precautions on supplemental restraint",
+        "en": "Precautions on supplemental restraint"
+       },
+       "words": 152,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "infiniti_qx60_drivetrain_t000_24d962c7",
+       "title": {
+        "ru": "Supplemental front-impact air bag system",
+        "en": "Supplemental front-impact air bag system"
+       },
+       "words": 445,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t001_75c799ac",
+       "title": {
+        "ru": "If the vehicle is equipped with automatic drive",
+        "en": "If the vehicle is equipped with automatic drive"
+       },
+       "words": 520,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t002_50dafa6b",
+       "title": {
+        "ru": "The driver can check the approximate direction",
+        "en": "The driver can check the approximate direction"
+       },
+       "words": 582,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t003_f9817331",
+       "title": {
+        "ru": "Driving on a significantly under-inflated tire",
+        "en": "Driving on a significantly under-inflated tire"
+       },
+       "words": 521,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t004_4cd0feab",
+       "title": {
+        "ru": "The transmission will automatically down-",
+        "en": "The transmission will automatically down-"
+       },
+       "words": 771,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t005_62791753",
+       "title": {
+        "ru": "When the drive mode select switch is rotated",
+        "en": "When the drive mode select switch is rotated"
+       },
+       "words": 273,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t006_884c5002",
+       "title": {
+        "ru": "Failure to follow the warnings and instruc-",
+        "en": "Failure to follow the warnings and instruc-"
+       },
+       "words": 882,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t007_55f26884",
+       "title": {
+        "ru": "The ICC system maintains a selected distance",
+        "en": "The ICC system maintains a selected distance"
+       },
+       "words": 416,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t008_b67049e9",
+       "title": {
+        "ru": "The dynamic driver assistance switch is used for",
+        "en": "The dynamic driver assistance switch is used for"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t009_cf341f31",
+       "title": {
+        "ru": "Failure to follow the warnings and instruc-",
+        "en": "Failure to follow the warnings and instruc-"
+       },
+       "words": 537,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t010_1bef4541",
+       "title": {
+        "ru": "The VDC system uses various sensors to monitor",
+        "en": "The VDC system uses various sensors to monitor"
+       },
+       "words": 456,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t011_7666ecf9",
+       "title": {
+        "ru": "To avoid potential pedal interference that",
+        "en": "To avoid potential pedal interference that"
+       },
+       "words": 527,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t012_01eeb45b",
+       "title": {
+        "ru": "Towing capacities are calculated assuming a",
+        "en": "Towing capacities are calculated assuming a"
+       },
+       "words": 706,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "infiniti_qx60_drivetrain_t013_37b56646",
+       "title": {
+        "ru": "Avoid towing a trailer for your vehicle’s first",
+        "en": "Avoid towing a trailer for your vehicle’s first"
+       },
+       "words": 956,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "infiniti_qx60_infotainment_t000_d1a9a09d",
+       "title": {
+        "ru": "Some indicators and warnings are also displayed in",
+        "en": "Some indicators and warnings are also displayed in"
+       },
+       "words": 351,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t001_174dba01",
+       "title": {
+        "ru": "The vehicle information display is located to the",
+        "en": "The vehicle information display is located to the"
+       },
+       "words": 303,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t002_0bac2781",
+       "title": {
+        "ru": "For additional information on disabling the rain-",
+        "en": "For additional information on disabling the rain-"
+       },
+       "words": 636,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t003_6d8ee001",
+       "title": {
+        "ru": "For additional information on using the Naviga-",
+        "en": "For additional information on using the Naviga-"
+       },
+       "words": 1634,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t004_23c188ac",
+       "title": {
+        "ru": "The system starts when the ignition switch is",
+        "en": "The system starts when the ignition switch is"
+       },
+       "words": 1693,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t005_366ecef8",
+       "title": {
+        "ru": "ENTER button/Center dial/Slide switch",
+        "en": "ENTER button/Center dial/Slide switch"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t006_81b79b95",
+       "title": {
+        "ru": "This button is used for the vehicle informa-",
+        "en": "This button is used for the vehicle informa-"
+       },
+       "words": 414,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t007_33dc7bf0",
+       "title": {
+        "ru": "There are different status screens displayed de-",
+        "en": "There are different status screens displayed de-"
+       },
+       "words": 738,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t008_12be5438",
+       "title": {
+        "ru": "Adjusts the display brightness. Toggle the",
+        "en": "Adjusts the display brightness. Toggle the"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t009_1260a472",
+       "title": {
+        "ru": "Objects on uphill or downhill surfaces or project-",
+        "en": "Objects on uphill or downhill surfaces or project-"
+       },
+       "words": 332,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t010_ffa8ef3d",
+       "title": {
+        "ru": "The monitor displays various views of the position",
+        "en": "The monitor displays various views of the position"
+       },
+       "words": 604,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t011_76881fc6",
+       "title": {
+        "ru": "View® Monitor. This will not hinder normal driving",
+        "en": "View® Monitor. This will not hinder normal driving"
+       },
+       "words": 421,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t012_43f35393",
+       "title": {
+        "ru": "View® Display. The next time the ignition switch",
+        "en": "View® Display. The next time the ignition switch"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t013_3cedca4a",
+       "title": {
+        "ru": "While the MOD system continues to detect mov-",
+        "en": "While the MOD system continues to detect mov-"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t014_a22c9e22",
+       "title": {
+        "ru": "Indicates that no readable files are found on",
+        "en": "Indicates that no readable files are found on"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t015_13e8eeee",
+       "title": {
+        "ru": "If an iPod® automatically selects large video",
+        "en": "If an iPod® automatically selects large video"
+       },
+       "words": 366,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t016_aba89f82",
+       "title": {
+        "ru": "Tilt up/down for more than 1.5 seconds to",
+        "en": "Tilt up/down for more than 1.5 seconds to"
+       },
+       "words": 226,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t017_0115f9e9",
+       "title": {
+        "ru": "Push the RADIO button or select the preferred",
+        "en": "Push the RADIO button or select the preferred"
+       },
+       "words": 295,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t018_e9446fac",
+       "title": {
+        "ru": "Touch to register the tag information for",
+        "en": "Touch to register the tag information for"
+       },
+       "words": 394,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t019_c7680dc5",
+       "title": {
+        "ru": "When compatible storage devices are plugged",
+        "en": "When compatible storage devices are plugged"
+       },
+       "words": 237,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t020_64c46d49",
+       "title": {
+        "ru": "INFINITI or Accessory Attached screen when the",
+        "en": "INFINITI or Accessory Attached screen when the"
+       },
+       "words": 292,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t021_80c005ae",
+       "title": {
+        "ru": "If you have a compatible Bluetooth® device with",
+        "en": "If you have a compatible Bluetooth® device with"
+       },
+       "words": 261,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t022_a17b29c1",
+       "title": {
+        "ru": "Depending on the audio device that is connected",
+        "en": "Depending on the audio device that is connected"
+       },
+       "words": 215,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t023_efdaae87",
+       "title": {
+        "ru": "Displaying items may vary depending on the",
+        "en": "Displaying items may vary depending on the"
+       },
+       "words": 318,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t024_f5aef41d",
+       "title": {
+        "ru": "A DVD and an AUX device inserted/connected to",
+        "en": "A DVD and an AUX device inserted/connected to"
+       },
+       "words": 357,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t025_f86703c7",
+       "title": {
+        "ru": "Compatible devices connected to the ports can",
+        "en": "Compatible devices connected to the ports can"
+       },
+       "words": 223,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t026_a6491672",
+       "title": {
+        "ru": "Use the remote controller to operate the rear",
+        "en": "Use the remote controller to operate the rear"
+       },
+       "words": 338,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t027_3da693e3",
+       "title": {
+        "ru": "Push the MENU button on the remote controller",
+        "en": "Push the MENU button on the remote controller"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t028_02aa4e4a",
+       "title": {
+        "ru": "Dark. The brightness of the screen is ad-",
+        "en": "Dark. The brightness of the screen is ad-"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t029_fb375dbd",
+       "title": {
+        "ru": "The operation speed of the system could slow",
+        "en": "The operation speed of the system could slow"
+       },
+       "words": 288,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t030_cd4237b2",
+       "title": {
+        "ru": "You can register up to five different Bluetooth®",
+        "en": "You can register up to five different Bluetooth®"
+       },
+       "words": 573,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t031_c2698e13",
+       "title": {
+        "ru": "You can also visit www.infinitiusa.com/Bluetooth",
+        "en": "You can also visit www.infinitiusa.com/Bluetooth"
+       },
+       "words": 209,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t032_03ca04dc",
+       "title": {
+        "ru": "The text messaging assistant system allows the",
+        "en": "The text messaging assistant system allows the"
+       },
+       "words": 278,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t033_5202a82b",
+       "title": {
+        "ru": "The name of the connected Bluetooth® device is",
+        "en": "The name of the connected Bluetooth® device is"
+       },
+       "words": 190,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t034_0d45cf03",
+       "title": {
+        "ru": "The passkey of the connected Bluetooth® device is",
+        "en": "The passkey of the connected Bluetooth® device is"
+       },
+       "words": 312,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t035_db1e23f5",
+       "title": {
+        "ru": "Use the displayed information as a reference. It",
+        "en": "Use the displayed information as a reference. It"
+       },
+       "words": 399,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t036_dcbf92e8",
+       "title": {
+        "ru": "Selecting a category by touching the screen or",
+        "en": "Selecting a category by touching the screen or"
+       },
+       "words": 227,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t037_c250b502",
+       "title": {
+        "ru": "Variable numbers or words such as names can",
+        "en": "Variable numbers or words such as names can"
+       },
+       "words": 379,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t038_c7983428",
+       "title": {
+        "ru": "Visit www.infinitiusa.com/bluetooth/ to search for a recom-",
+        "en": "Visit www.infinitiusa.com/bluetooth/ to search for a recom-"
+       },
+       "words": 852,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t039_4d01978d",
+       "title": {
+        "ru": "Re-register the Bluetooth® pairing information after deleting",
+        "en": "Re-register the Bluetooth® pairing information after deleting"
+       },
+       "words": 588,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t040_50e96045",
+       "title": {
+        "ru": "If the following messages appear on the vehicle",
+        "en": "If the following messages appear on the vehicle"
+       },
+       "words": 209,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t041_95c38751",
+       "title": {
+        "ru": "The VIN number is also available through the",
+        "en": "The VIN number is also available through the"
+       },
+       "words": 388,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "infiniti_qx60_infotainment_t042_e7d4e04b",
+       "title": {
+        "ru": "Capacities and recommended",
+        "en": "Capacities and recommended"
+       },
+       "words": 145,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "infiniti_qx60_sensors_t000_82d2c850",
+       "title": {
+        "ru": "For additional information related to the normal",
+        "en": "For additional information related to the normal"
+       },
+       "words": 431,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "infiniti_qx60_sensors_t001_1c48edae",
+       "title": {
+        "ru": "The rain sensor sensitivity level can be adjusted",
+        "en": "The rain sensor sensitivity level can be adjusted"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "infiniti_qx60_sensors_t002_219727ea",
+       "title": {
+        "ru": "Camera or Camera/Sonar key and select one of",
+        "en": "Camera or Camera/Sonar key and select one of"
+       },
+       "words": 496,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "infiniti_qx60_sensors_t003_dc43bcfd",
+       "title": {
+        "ru": "The radar sensors may be blocked by temporary",
+        "en": "The radar sensors may be blocked by temporary"
+       },
+       "words": 312,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "infiniti_qx60_sensors_t004_b5fa16d7",
+       "title": {
+        "ru": "The radar sensors may not detect slower moving",
+        "en": "The radar sensors may not detect slower moving"
+       },
+       "words": 830,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "infiniti_qx60_sensors_t005_9d725714",
+       "title": {
+        "ru": "BCI system could result in serious injury or",
+        "en": "BCI system could result in serious injury or"
+       },
+       "words": 555,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "infiniti_qx60_sensors_t006_572dcb8e",
+       "title": {
+        "ru": "The system is intended to enhance the operation",
+        "en": "The system is intended to enhance the operation"
+       },
+       "words": 660,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "infiniti_qx60_sensors_t007_6117e060",
+       "title": {
+        "ru": "Do not attach metallic objects near the radar",
+        "en": "Do not attach metallic objects near the radar"
+       },
+       "words": 888,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "infiniti_qx60_sensors_t008_5f43c36b",
+       "title": {
+        "ru": "The intermittent tone will stop after 3 seconds",
+        "en": "The intermittent tone will stop after 3 seconds"
+       },
+       "words": 456,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

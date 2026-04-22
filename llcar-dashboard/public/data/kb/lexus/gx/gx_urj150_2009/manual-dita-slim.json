@@ -1,0 +1,1075 @@
+{
+ "version": "1.0",
+ "model": "gx",
+ "manuals": [
+  {
+   "model": "gx",
+   "label": {
+    "ru": "Lexus Gx — Руководство по ремонту",
+    "en": "Lexus Gx — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "lexus_gx_engine_t000_4d5bd5b4",
+       "title": {
+        "ru": "ACCESSORY or IGNITION ON",
+        "en": "ACCESSORY or IGNITION ON"
+       },
+       "words": 2059,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_gx_engine_t001_3b752aaa",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1045,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_gx_engine_t002_8b79d4ab",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 942,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_gx_engine_t003_608cbb1c",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 806,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_gx_engine_t004_58d0122c",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 976,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_gx_engine_t005_7289912e",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1396,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_gx_engine_t006_06033560",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1240,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_gx_engine_t007_a533cd15",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 59,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "lexus_gx_brakes_t000_3f2c7f62",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 3248,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lexus_gx_brakes_t001_6c1a4185",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1812,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lexus_gx_brakes_t002_6ba101d5",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 817,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lexus_gx_brakes_t003_c999a783",
+       "title": {
+        "ru": "SAE 75W",
+        "en": "SAE 75W"
+       },
+       "words": 338,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "lexus_gx_suspension_t000_50901947",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 277,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "lexus_gx_hvac_t000_deedda75",
+       "title": {
+        "ru": "“NAVIGATION SYSTEM OWNER’S",
+        "en": "“NAVIGATION SYSTEM OWNER’S"
+       },
+       "words": 1188,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "lexus_gx_body_t000_ae6fa822",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 3596,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t001_d528b9d0",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1420,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t002_86c6461b",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 1423,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t003_92751023",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 2350,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t004_6446e9df",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1054,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t005_a536289d",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2035,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t006_6671ae90",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1203,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t007_e9af1ad6",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1341,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t008_d9c51059",
+       "title": {
+        "ru": "ACCELERATE OR",
+        "en": "ACCELERATE OR"
+       },
+       "words": 1666,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t009_0e50136a",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 773,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t010_41f9794b",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1259,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t011_39d481af",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 1476,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t012_73c999fc",
+       "title": {
+        "ru": "(P. 102, 109)",
+        "en": "(P. 102, 109)"
+       },
+       "words": 902,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_gx_body_t013_0315e50e",
+       "title": {
+        "ru": "(P. 518, 526)",
+        "en": "(P. 518, 526)"
+       },
+       "words": 180,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "lexus_gx_steering_t000_021e994f",
+       "title": {
+        "ru": "NOTICE:",
+        "en": "NOTICE:"
+       },
+       "words": 1414,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "lexus_gx_steering_t001_7d9ff6dc",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 519,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "lexus_gx_steering_t002_93ef224a",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 300,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "lexus_gx_lighting_t000_b1da9a6b",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 497,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_gx_lighting_t001_f8d7bc46",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 522,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_gx_lighting_t002_b911b8be",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 1336,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_gx_lighting_t003_37d3e675",
+       "title": {
+        "ru": "“ENTER”",
+        "en": "“ENTER”"
+       },
+       "words": 1631,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_gx_lighting_t004_ad12f231",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1171,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_gx_lighting_t005_e2de23af",
+       "title": {
+        "ru": "P. 462",
+        "en": "P. 462"
+       },
+       "words": 701,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_gx_lighting_t006_1a904c57",
+       "title": {
+        "ru": "(P. 373)",
+        "en": "(P. 373)"
+       },
+       "words": 1013,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "lexus_gx_adas_t000_9b353b47",
+       "title": {
+        "ru": "“ENTER”",
+        "en": "“ENTER”"
+       },
+       "words": 1631,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "lexus_gx_adas_t001_7f695d66",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 272,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "lexus_gx_interior_t000_be8bbece",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2156,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_gx_interior_t001_9b6fd45d",
+       "title": {
+        "ru": "“AIR BAG ON” and “AIR BAG OFF”",
+        "en": "“AIR BAG ON” and “AIR BAG OFF”"
+       },
+       "words": 1495,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_gx_interior_t002_fe082985",
+       "title": {
+        "ru": "“AIR BAG OFF”",
+        "en": "“AIR BAG OFF”"
+       },
+       "words": 1026,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_gx_interior_t003_8ceac22e",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 1497,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_gx_interior_t004_799ff238",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1044,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_gx_interior_t005_6b9067e0",
+       "title": {
+        "ru": "“AIR BAG OFF”",
+        "en": "“AIR BAG OFF”"
+       },
+       "words": 1136,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_gx_interior_t006_a1477e1a",
+       "title": {
+        "ru": "PCS............................................................519",
+        "en": "PCS............................................................519"
+       },
+       "words": 10,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "wheels",
+     "title": {
+      "ru": "Колёса и шины",
+      "en": "Wheels & Tires"
+     },
+     "icon": "🛞",
+     "topics": [
+      {
+       "id": "lexus_gx_wheels_t000_47f96203",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1525,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_gx_wheels_t001_3d22b251",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1774,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_gx_wheels_t002_e0e6b687",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 989,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_gx_wheels_t003_12fca38d",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1381,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_gx_wheels_t004_ff005672",
+       "title": {
+        "ru": "TUBELESS or TUBE TYPE",
+        "en": "TUBELESS or TUBE TYPE"
+       },
+       "words": 929,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_gx_wheels_t005_01892c13",
+       "title": {
+        "ru": "(P. 477)",
+        "en": "(P. 477)"
+       },
+       "words": 817,
+       "images": 0,
+       "section_id": "wheels"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "lexus_gx_maintenance_t000_059dab9a",
+       "title": {
+        "ru": "1-800-26-LEXUS (1-800-265-3987)",
+        "en": "1-800-26-LEXUS (1-800-265-3987)"
+       },
+       "words": 1133,
+       "images": 0,
+       "section_id": "maintenance"
+      },
+      {
+       "id": "lexus_gx_maintenance_t001_953d8afb",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 1150,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "lexus_gx_ev_t000_1298f650",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 710,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "lexus_gx_general_t000_b45b6bd5",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1349,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t001_d27bbb8d",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 2404,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t002_73b244e1",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1080,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t003_5096bb44",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 1834,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t004_be6ad45c",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 2174,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t005_45755361",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 1470,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t006_3aa05f6b",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 1330,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t007_622984a4",
+       "title": {
+        "ru": "OWNER’S MANUAL”.",
+        "en": "OWNER’S MANUAL”."
+       },
+       "words": 601,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t008_a4f63dfd",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 758,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t009_4c2406ed",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1742,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t010_34f81c3c",
+       "title": {
+        "ru": "■KDSS",
+        "en": "■KDSS"
+       },
+       "words": 1801,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t011_1d657b96",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1106,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t012_6531ff01",
+       "title": {
+        "ru": "FCC ID: HYQ13BDY",
+        "en": "FCC ID: HYQ13BDY"
+       },
+       "words": 1268,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t013_8c58ce8d",
+       "title": {
+        "ru": "SAE J1703 or FMVSS No. 116 DOT 3",
+        "en": "SAE J1703 or FMVSS No. 116 DOT 3"
+       },
+       "words": 1421,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t014_47cf742c",
+       "title": {
+        "ru": "ATTENTION",
+        "en": "ATTENTION"
+       },
+       "words": 753,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_gx_general_t015_4c76268a",
+       "title": {
+        "ru": "P. 576",
+        "en": "P. 576"
+       },
+       "words": 26,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_gx_infotainment_t000_7052a90c",
+       "title": {
+        "ru": "“NAVIGATION SYSTEM OWNER’S MANUAL” or “MULTIMEDIA",
+        "en": "“NAVIGATION SYSTEM OWNER’S MANUAL” or “MULTIMEDIA"
+       },
+       "words": 1124,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_gx_infotainment_t001_9c5c738a",
+       "title": {
+        "ru": "MANUAL” or “NAVIGATION",
+        "en": "MANUAL” or “NAVIGATION"
+       },
+       "words": 1295,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_gx_infotainment_t002_be43ccdc",
+       "title": {
+        "ru": "MANUAL” or “NAVIGATION",
+        "en": "MANUAL” or “NAVIGATION"
+       },
+       "words": 1422,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_gx_infotainment_t003_52ab9cc3",
+       "title": {
+        "ru": "“MULTI-TERRAIN",
+        "en": "“MULTI-TERRAIN"
+       },
+       "words": 1124,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_gx_infotainment_t004_7774ba86",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 865,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_gx_infotainment_t005_8a80eeb3",
+       "title": {
+        "ru": "“NAVIGATION SYSTEM OWNER’S MANUAL” or",
+        "en": "“NAVIGATION SYSTEM OWNER’S MANUAL” or"
+       },
+       "words": 363,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_gx_safety_t000_66e2c2b2",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 1915,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_gx_safety_t001_414bb211",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 1692,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_gx_safety_t002_a384600e",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 1357,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_gx_safety_t003_384af44a",
+       "title": {
+        "ru": "FCC ID: PAXPMVC010",
+        "en": "FCC ID: PAXPMVC010"
+       },
+       "words": 1323,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_gx_safety_t004_5d8d6390",
+       "title": {
+        "ru": "ATTENTION",
+        "en": "ATTENTION"
+       },
+       "words": 1636,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_gx_drivetrain_t000_3e3fad44",
+       "title": {
+        "ru": "■AI-SHIFT",
+        "en": "■AI-SHIFT"
+       },
+       "words": 1502,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_gx_drivetrain_t001_3eb1878c",
+       "title": {
+        "ru": "LOOSE ROCK, MOGUL or ROCK",
+        "en": "LOOSE ROCK, MOGUL or ROCK"
+       },
+       "words": 919,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_gx_drivetrain_t002_7f579078",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 649,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_gx_sensors_t000_207bea70",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2053,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "lexus_gx_sensors_t001_ed51e1ad",
+       "title": {
+        "ru": "MANUAL”.",
+        "en": "MANUAL”."
+       },
+       "words": 1869,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "lexus_gx_sensors_t002_f9e71b34",
+       "title": {
+        "ru": "GX460_OM_OM60Q84U_(U)",
+        "en": "GX460_OM_OM60Q84U_(U)"
+       },
+       "words": 610,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

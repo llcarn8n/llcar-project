@@ -1,0 +1,625 @@
+{
+ "version": "1.0",
+ "model": "lc",
+ "manuals": [
+  {
+   "model": "lc",
+   "label": {
+    "ru": "Lexus Lc — Руководство по ремонту",
+    "en": "Lexus Lc — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "lexus_lc_engine_t000_0006e6d5",
+       "title": {
+        "ru": "GATION SYSTEM OWNER’S",
+        "en": "GATION SYSTEM OWNER’S"
+       },
+       "words": 2210,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_lc_engine_t001_863093d6",
+       "title": {
+        "ru": "ACCESSORY or IGNITION ON",
+        "en": "ACCESSORY or IGNITION ON"
+       },
+       "words": 1547,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_lc_engine_t002_2c4f842a",
+       "title": {
+        "ru": "(P.300)",
+        "en": "(P.300)"
+       },
+       "words": 889,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_lc_engine_t003_546bab50",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1241,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_lc_engine_t004_6a747215",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2167,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_lc_engine_t005_a24cc1dd",
+       "title": {
+        "ru": "ACCESSORY or IGNITION ON",
+        "en": "ACCESSORY or IGNITION ON"
+       },
+       "words": 934,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "lexus_lc_brakes_t000_c21ce52f",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 3490,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lexus_lc_brakes_t001_e09b0020",
+       "title": {
+        "ru": "SAE J1703 or FMVSS No.116 DOT 3",
+        "en": "SAE J1703 or FMVSS No.116 DOT 3"
+       },
+       "words": 3363,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lexus_lc_brakes_t002_0ed60147",
+       "title": {
+        "ru": "OWNER’S MANUAL”.",
+        "en": "OWNER’S MANUAL”."
+       },
+       "words": 1211,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "lexus_lc_suspension_t000_ea4156a8",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 451,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "lexus_lc_hvac_t000_f9a02c4e",
+       "title": {
+        "ru": "(P.252)",
+        "en": "(P.252)"
+       },
+       "words": 1621,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "lexus_lc_body_t000_da87f1a9",
+       "title": {
+        "ru": "*: Refer to “NAVIGATION SYSTEM OWNER’S MANUAL”.",
+        "en": "*: Refer to “NAVIGATION SYSTEM OWNER’S MANUAL”."
+       },
+       "words": 1935,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_lc_body_t001_0520c642",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2489,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_lc_body_t002_9a6b3238",
+       "title": {
+        "ru": "ACCESSORY",
+        "en": "ACCESSORY"
+       },
+       "words": 3623,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_lc_body_t003_065c3e77",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2453,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_lc_body_t004_6ee4f725",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2844,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_lc_body_t005_dc6357c1",
+       "title": {
+        "ru": "GAS STATION INFORMATION",
+        "en": "GAS STATION INFORMATION"
+       },
+       "words": 313,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "lexus_lc_steering_t000_b53d4656",
+       "title": {
+        "ru": "NOTICE:",
+        "en": "NOTICE:"
+       },
+       "words": 1915,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "lexus_lc_steering_t001_c2824288",
+       "title": {
+        "ru": "LC500",
+        "en": "LC500"
+       },
+       "words": 93,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "lexus_lc_lighting_t000_3995afb2",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 3052,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_lc_lighting_t001_74c1dafc",
+       "title": {
+        "ru": "●If “ACCESSORY” or “IGNITION",
+        "en": "●If “ACCESSORY” or “IGNITION"
+       },
+       "words": 6422,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_lc_lighting_t002_160d64a8",
+       "title": {
+        "ru": "P.358",
+        "en": "P.358"
+       },
+       "words": 1945,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "lexus_lc_adas_t000_9fe559ca",
+       "title": {
+        "ru": "(P.194)",
+        "en": "(P.194)"
+       },
+       "words": 669,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "lexus_lc_interior_t000_54272189",
+       "title": {
+        "ru": "*1: Refer to “NAVIGATION SYSTEM OWNER’S MANUAL”.",
+        "en": "*1: Refer to “NAVIGATION SYSTEM OWNER’S MANUAL”."
+       },
+       "words": 5408,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_lc_interior_t001_b3006c5a",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2349,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_lc_interior_t002_786f9d7f",
+       "title": {
+        "ru": "P.299",
+        "en": "P.299"
+       },
+       "words": 916,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "wheels",
+     "title": {
+      "ru": "Колёса и шины",
+      "en": "Wheels & Tires"
+     },
+     "icon": "🛞",
+     "topics": [
+      {
+       "id": "lexus_lc_wheels_t000_bf0178c8",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 4810,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_lc_wheels_t001_0259c2d2",
+       "title": {
+        "ru": "SAE J1703 or FMVSS No.116 DOT 3",
+        "en": "SAE J1703 or FMVSS No.116 DOT 3"
+       },
+       "words": 5486,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_lc_wheels_t002_e329213a",
+       "title": {
+        "ru": "(P.354)",
+        "en": "(P.354)"
+       },
+       "words": 91,
+       "images": 0,
+       "section_id": "wheels"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "lexus_lc_maintenance_t000_4f2e726a",
+       "title": {
+        "ru": "OWNER’S",
+        "en": "OWNER’S"
+       },
+       "words": 1132,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "lexus_lc_ev_t000_a3d39977",
+       "title": {
+        "ru": "●If “ACCESSORY” or “IGNITION",
+        "en": "●If “ACCESSORY” or “IGNITION"
+       },
+       "words": 3265,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "lexus_lc_ev_t001_3cbacc5c",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 6446,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "lexus_lc_ev_t002_370bfa7d",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2049,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "lexus_lc_general_t000_24238601",
+       "title": {
+        "ru": "FMVSS225 or CMVSS210.2.",
+        "en": "FMVSS225 or CMVSS210.2."
+       },
+       "words": 1570,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_lc_general_t001_a8307655",
+       "title": {
+        "ru": "SYSTEM OWNER’S MANUAL”.",
+        "en": "SYSTEM OWNER’S MANUAL”."
+       },
+       "words": 3655,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_lc_general_t002_3a591c36",
+       "title": {
+        "ru": "DENSO FK20HBR-J8",
+        "en": "DENSO FK20HBR-J8"
+       },
+       "words": 309,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_lc_safety_t000_eba46b7e",
+       "title": {
+        "ru": "“AIR BAG OFF”*6",
+        "en": "“AIR BAG OFF”*6"
+       },
+       "words": 3253,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_lc_safety_t001_6b32aaa4",
+       "title": {
+        "ru": "FMVSS225 or CMVSS210.2.",
+        "en": "FMVSS225 or CMVSS210.2."
+       },
+       "words": 2731,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_lc_safety_t002_420f7c3a",
+       "title": {
+        "ru": "SRS.",
+        "en": "SRS."
+       },
+       "words": 2482,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_lc_infotainment_t000_59b3c277",
+       "title": {
+        "ru": "*: Refer to “NAVIGATION SYSTEM OWNER’S MANUAL”.",
+        "en": "*: Refer to “NAVIGATION SYSTEM OWNER’S MANUAL”."
+       },
+       "words": 1588,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_lc_infotainment_t001_396e8cad",
+       "title": {
+        "ru": "TION SYSTEM OWNER’S MAN-",
+        "en": "TION SYSTEM OWNER’S MAN-"
+       },
+       "words": 3447,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_lc_sensors_t000_c9bccf66",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 6152,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_lc_drivetrain_t000_171051af",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2570,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_lc_drivetrain_t001_bd83e933",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 916,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1105 @@
+{
+ "version": "1.0",
+ "model": "camaro",
+ "manuals": [
+  {
+   "model": "camaro",
+   "label": {
+    "ru": "Chevrolet Camaro — Руководство по ремонту",
+    "en": "Chevrolet Camaro — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_engine_t000_c944c9b6",
+       "title": {
+        "ru": "NOTE: Do not assemble any of the piston rings at this time.",
+        "en": "NOTE: Do not assemble any of the piston rings at this time."
+       },
+       "words": 2114,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_camaro_engine_t001_5b665873",
+       "title": {
+        "ru": "BENDIX POWER BRAKE CYLINDER DOUBLE DIAPHRAGM TYPE",
+        "en": "BENDIX POWER BRAKE CYLINDER DOUBLE DIAPHRAGM TYPE"
+       },
+       "words": 1826,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_camaro_engine_t002_ad29d8c9",
+       "title": {
+        "ru": "Diaphragm, Spring and Front Shell (Fig. 3D)",
+        "en": "Diaphragm, Spring and Front Shell (Fig. 3D)"
+       },
+       "words": 1989,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_camaro_engine_t003_c34a9ed0",
+       "title": {
+        "ru": "CAUTION: Install bolt in crankshaft with sufficient thread engagement (min. 1/2′",
+        "en": "CAUTION: Install bolt in crankshaft with sufficient thread engagement (min. 1/2′"
+       },
+       "words": 2408,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_camaro_engine_t004_dcda16f8",
+       "title": {
+        "ru": "Sprocket or Gear Replacement (Refer to Fig. 63)",
+        "en": "Sprocket or Gear Replacement (Refer to Fig. 63)"
+       },
+       "words": 1460,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_camaro_engine_t005_8fbe0094",
+       "title": {
+        "ru": "Camshaft Gear Replacement (In Line)",
+        "en": "Camshaft Gear Replacement (In Line)"
+       },
+       "words": 1256,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_camaro_engine_t006_570e0a2c",
+       "title": {
+        "ru": "Distributor Lower Bearing and Thrust Washer Replacement (In Line)",
+        "en": "Distributor Lower Bearing and Thrust Washer Replacement (In Line)"
+       },
+       "words": 2053,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_camaro_engine_t007_e2cd97c2",
+       "title": {
+        "ru": "Adjust Accelerator Pump Rod (Fig. G16)",
+        "en": "Adjust Accelerator Pump Rod (Fig. G16)"
+       },
+       "words": 3344,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_camaro_engine_t008_7c8dd548",
+       "title": {
+        "ru": "NOTE: Do not remove C.E.C. valve bracket from the float bowl assembly unless rep",
+        "en": "NOTE: Do not remove C.E.C. valve bracket from the float bowl assembly unless rep"
+       },
+       "words": 1722,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_camaro_engine_t009_131d7332",
+       "title": {
+        "ru": "TURBO HYDRA-MATIC 400 TRANSMISSION INDEX",
+        "en": "TURBO HYDRA-MATIC 400 TRANSMISSION INDEX"
+       },
+       "words": 1720,
+       "images": 18,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_camaro_engine_t010_22704bcc",
+       "title": {
+        "ru": "Holley Carburetors",
+        "en": "Holley Carburetors"
+       },
+       "words": 819,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_camaro_engine_t011_8f388ca4",
+       "title": {
+        "ru": "TORQUE SPECIFICATIONS",
+        "en": "TORQUE SPECIFICATIONS"
+       },
+       "words": 640,
+       "images": 7,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_brakes_t000_536da831",
+       "title": {
+        "ru": "Removal of the Combination Emission Control (C.E.C.) Valve Assembly.",
+        "en": "Removal of the Combination Emission Control (C.E.C.) Valve Assembly."
+       },
+       "words": 1807,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_camaro_brakes_t001_5abfd589",
+       "title": {
+        "ru": "Removal of the Combination Emission Control {C.E.C.) Valve Assembly",
+        "en": "Removal of the Combination Emission Control {C.E.C.) Valve Assembly"
+       },
+       "words": 693,
+       "images": 3,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_suspension_t000_2bde5018",
+       "title": {
+        "ru": "CAUTION: Be careful when separating shells not to allow diaphragm return spring ",
+        "en": "CAUTION: Be careful when separating shells not to allow diaphragm return spring "
+       },
+       "words": 2531,
+       "images": 20,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_camaro_suspension_t001_c02d63df",
+       "title": {
+        "ru": "Disassembly of Float Bowl and Throttle Body (Figure V3)",
+        "en": "Disassembly of Float Bowl and Throttle Body (Figure V3)"
+       },
+       "words": 1882,
+       "images": 7,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_camaro_suspension_t002_73af7172",
+       "title": {
+        "ru": "Disassemble Secondary Operating Diaphragm Assembly (Fig. S7)",
+        "en": "Disassemble Secondary Operating Diaphragm Assembly (Fig. S7)"
+       },
+       "words": 1346,
+       "images": 12,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_camaro_suspension_t003_8ad3935f",
+       "title": {
+        "ru": "Clutch Keys and Springs Replacement",
+        "en": "Clutch Keys and Springs Replacement"
+       },
+       "words": 1381,
+       "images": 14,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_camaro_suspension_t004_03103024",
+       "title": {
+        "ru": "REPAIRS Reverse Shifter Shaft and Seal Replacement",
+        "en": "REPAIRS Reverse Shifter Shaft and Seal Replacement"
+       },
+       "words": 1544,
+       "images": 7,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_camaro_suspension_t005_0b973f81",
+       "title": {
+        "ru": "Oil Pump Disassembly, Inspection and Reassembly (Fig. 57M)",
+        "en": "Oil Pump Disassembly, Inspection and Reassembly (Fig. 57M)"
+       },
+       "words": 1348,
+       "images": 29,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_camaro_suspension_t006_7a2b3baa",
+       "title": {
+        "ru": "Removal of Rear Servo, Valve Body Spacer, Gasket and Front Servo",
+        "en": "Removal of Rear Servo, Valve Body Spacer, Gasket and Front Servo"
+       },
+       "words": 779,
+       "images": 10,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_camaro_suspension_t007_e96719ed",
+       "title": {
+        "ru": "NOTE: Place the end of the ring so that it is near the valve bore in the housing",
+        "en": "NOTE: Place the end of the ring so that it is near the valve bore in the housing"
+       },
+       "words": 1888,
+       "images": 11,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_camaro_suspension_t008_19255a48",
+       "title": {
+        "ru": "FRONT SUSPENSION BOLT TORQUE (Ff. Lbs.)",
+        "en": "FRONT SUSPENSION BOLT TORQUE (Ff. Lbs.)"
+       },
+       "words": 836,
+       "images": 10,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_electrical_t000_dab808f1",
+       "title": {
+        "ru": "FUSE AND CIRCUIT BREAKER USAGE",
+        "en": "FUSE AND CIRCUIT BREAKER USAGE"
+       },
+       "words": 62,
+       "images": 1,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_hvac_t000_1cf241be",
+       "title": {
+        "ru": "AIR CONDITIONING COMPRESSOR",
+        "en": "AIR CONDITIONING COMPRESSOR"
+       },
+       "words": 80,
+       "images": 1,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_body_t000_8dee867e",
+       "title": {
+        "ru": "Assembly of C.E.C. Valve to Bracket on Float Bowl",
+        "en": "Assembly of C.E.C. Valve to Bracket on Float Bowl"
+       },
+       "words": 1397,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_camaro_body_t001_593e4178",
+       "title": {
+        "ru": "Disassemble Metering Bodies (Fig. S6)",
+        "en": "Disassemble Metering Bodies (Fig. S6)"
+       },
+       "words": 1778,
+       "images": 8,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_camaro_body_t002_40955f0b",
+       "title": {
+        "ru": "Convertor and Stator",
+        "en": "Convertor and Stator"
+       },
+       "words": 932,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_camaro_body_t003_0fc7de1f",
+       "title": {
+        "ru": "Removal of oil pump and internal case components",
+        "en": "Removal of oil pump and internal case components"
+       },
+       "words": 2523,
+       "images": 50,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_camaro_body_t004_305709a0",
+       "title": {
+        "ru": "CAUTION: Do not pull the shaft assembly out too far or the spool valve may becom",
+        "en": "CAUTION: Do not pull the shaft assembly out too far or the spool valve may becom"
+       },
+       "words": 1049,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_camaro_body_t005_04b91a83",
+       "title": {
+        "ru": "Window Regulator to Door Panel 40 in. Ib.",
+        "en": "Window Regulator to Door Panel 40 in. Ib."
+       },
+       "words": 189,
+       "images": 2,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_steering_t000_824e4cf9",
+       "title": {
+        "ru": "Pitman Shaft and/or Wormshaft Seal Replacement",
+        "en": "Pitman Shaft and/or Wormshaft Seal Replacement"
+       },
+       "words": 1559,
+       "images": 11,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_camaro_steering_t001_5fa8365e",
+       "title": {
+        "ru": "Removal and Installation of Pitman Shaft Seals with Steering Gear in",
+        "en": "Removal and Installation of Pitman Shaft Seals with Steering Gear in"
+       },
+       "words": 1840,
+       "images": 16,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_camaro_steering_t002_1072d7cc",
+       "title": {
+        "ru": "ADJUSTMENT SPECIFICATIONS—POWER STEERING",
+        "en": "ADJUSTMENT SPECIFICATIONS—POWER STEERING"
+       },
+       "words": 32,
+       "images": 3,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_lighting_t000_cb85566a",
+       "title": {
+        "ru": "NOTE: If old shims are to be reinstalled make sure nicks in shims caused by bear",
+        "en": "NOTE: If old shims are to be reinstalled make sure nicks in shims caused by bear"
+       },
+       "words": 1704,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_camaro_lighting_t001_68a2dc9c",
+       "title": {
+        "ru": "NOTE: The flange of the diaphragm willfit into the groove on the power piston.",
+        "en": "NOTE: The flange of the diaphragm willfit into the groove on the power piston."
+       },
+       "words": 1992,
+       "images": 8,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_camaro_lighting_t002_090f016a",
+       "title": {
+        "ru": "NOTE: The top of retainer should be flush with top of float bowl casting beneath",
+        "en": "NOTE: The top of retainer should be flush with top of float bowl casting beneath"
+       },
+       "words": 917,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_camaro_lighting_t003_3769c3ac",
+       "title": {
+        "ru": "Heat Sink Replacement (Fig. 7C)",
+        "en": "Heat Sink Replacement (Fig. 7C)"
+       },
+       "words": 873,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_camaro_lighting_t004_966760c3",
+       "title": {
+        "ru": "NOTE: There are two diode trio units differing in appearance used in the generat",
+        "en": "NOTE: There are two diode trio units differing in appearance used in the generat"
+       },
+       "words": 955,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_camaro_lighting_t005_befe7837",
+       "title": {
+        "ru": "Install Converter Assembly",
+        "en": "Install Converter Assembly"
+       },
+       "words": 1289,
+       "images": 9,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_interior_t000_7a60847f",
+       "title": {
+        "ru": "NOTE: Keep the ends of the two oil pump gears matched and replace the same end t",
+        "en": "NOTE: Keep the ends of the two oil pump gears matched and replace the same end t"
+       },
+       "words": 3860,
+       "images": 17,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_camaro_interior_t001_cbd31596",
+       "title": {
+        "ru": "CAUTION: When pressing bearing on pinion, exercise care to prevent damage to gro",
+        "en": "CAUTION: When pressing bearing on pinion, exercise care to prevent damage to gro"
+       },
+       "words": 3221,
+       "images": 23,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_camaro_interior_t002_f972b4c5",
+       "title": {
+        "ru": "NOTE: If either or both of the shells are replaced, make sure alignment marks ar",
+        "en": "NOTE: If either or both of the shells are replaced, make sure alignment marks ar"
+       },
+       "words": 1839,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_camaro_interior_t003_9c1c0f98",
+       "title": {
+        "ru": "NOTE: Outer diameter of seal should be coated with a non-hardening sealer prior ",
+        "en": "NOTE: Outer diameter of seal should be coated with a non-hardening sealer prior "
+       },
+       "words": 1229,
+       "images": 14,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_camaro_interior_t004_f149d3c1",
+       "title": {
+        "ru": "Installation of Check Balls, Control Valve Spacer Plate and Gasket, Detent Solen",
+        "en": "Installation of Check Balls, Control Valve Spacer Plate and Gasket, Detent Solen"
+       },
+       "words": 404,
+       "images": 1,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_ev_t000_4c090e6b",
+       "title": {
+        "ru": "Loose Electrical Connections",
+        "en": "Loose Electrical Connections"
+       },
+       "words": 831,
+       "images": 9,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_camaro_ev_t001_47bc9759",
+       "title": {
+        "ru": "INSTALLATION OF CONTROL VALVE ASSEMBLY, GOVERNOR PIPES AND GOVERNOR SCREEN ASSEM",
+        "en": "INSTALLATION OF CONTROL VALVE ASSEMBLY, GOVERNOR PIPES AND GOVERNOR SCREEN ASSEM"
+       },
+       "words": 304,
+       "images": 8,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_chassis_t000_eb943018",
+       "title": {
+        "ru": "NOTE: The following steps also apply when making repairs with differential assem",
+        "en": "NOTE: The following steps also apply when making repairs with differential assem"
+       },
+       "words": 1371,
+       "images": 7,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_camaro_chassis_t001_9e32c896",
+       "title": {
+        "ru": "Voltage Reg./Brush Lead Clip Check (fig. 15C)",
+        "en": "Voltage Reg./Brush Lead Clip Check (fig. 15C)"
+       },
+       "words": 1875,
+       "images": 4,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_camaro_chassis_t002_6125516d",
+       "title": {
+        "ru": "NOTE: Disassembly of rear output shaft sub-assembly is covered later in this sec",
+        "en": "NOTE: Disassembly of rear output shaft sub-assembly is covered later in this sec"
+       },
+       "words": 1530,
+       "images": 7,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_camaro_chassis_t003_3e15c894",
+       "title": {
+        "ru": "Side Cover Bushing Replacement",
+        "en": "Side Cover Bushing Replacement"
+       },
+       "words": 357,
+       "images": 9,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_general_t000_c0f1787e",
+       "title": {
+        "ru": "NOTE: Position the dial indicator so that indicator button is perpendicular to t",
+        "en": "NOTE: Position the dial indicator so that indicator button is perpendicular to t"
+       },
+       "words": 1334,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t001_d4b67cd4",
+       "title": {
+        "ru": "Set up pinion setting gage as follows (Fig. 7B):",
+        "en": "Set up pinion setting gage as follows (Fig. 7B):"
+       },
+       "words": 1603,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t002_64211b1b",
+       "title": {
+        "ru": "NOTE: Service shims are available in increments of .002 in.-if the shim measurem",
+        "en": "NOTE: Service shims are available in increments of .002 in.-if the shim measurem"
+       },
+       "words": 1206,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t003_7a4d5da7",
+       "title": {
+        "ru": "NOTE: Make sure the support plate is in the groove in the center flange of the d",
+        "en": "NOTE: Make sure the support plate is in the groove in the center flange of the d"
+       },
+       "words": 2373,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t004_b410349c",
+       "title": {
+        "ru": "NOTE: Bend lances in on shell if they were straightened on removal. If the tangs",
+        "en": "NOTE: Bend lances in on shell if they were straightened on removal. If the tangs"
+       },
+       "words": 1205,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t005_ab920fa8",
+       "title": {
+        "ru": "Oil Nozzle Replacement (In Line)",
+        "en": "Oil Nozzle Replacement (In Line)"
+       },
+       "words": 2021,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t006_d4958646",
+       "title": {
+        "ru": "NOTE: The choke cable retaining bracket is retained by number seven and eight sc",
+        "en": "NOTE: The choke cable retaining bracket is retained by number seven and eight sc"
+       },
+       "words": 2213,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t007_3fbb7b89",
+       "title": {
+        "ru": "Air Horn to Float Bowl Installation",
+        "en": "Air Horn to Float Bowl Installation"
+       },
+       "words": 715,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t008_88eb82b3",
+       "title": {
+        "ru": "Bearing Rollers and Spacers",
+        "en": "Bearing Rollers and Spacers"
+       },
+       "words": 797,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t009_78561885",
+       "title": {
+        "ru": "Disassembly (Fig. 5K and 6K)",
+        "en": "Disassembly (Fig. 5K and 6K)"
+       },
+       "words": 1725,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t010_bbdc739c",
+       "title": {
+        "ru": "Disassembly of Rear Output Shaft Sub-Assembly",
+        "en": "Disassembly of Rear Output Shaft Sub-Assembly"
+       },
+       "words": 1587,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t011_27ebcf84",
+       "title": {
+        "ru": "Small Planet Carrier Assembly-Overhaul",
+        "en": "Small Planet Carrier Assembly-Overhaul"
+       },
+       "words": 2195,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t012_4b1d265a",
+       "title": {
+        "ru": "Governor Driven Gear Replacement",
+        "en": "Governor Driven Gear Replacement"
+       },
+       "words": 517,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t013_99b3baeb",
+       "title": {
+        "ru": "Removal of Governor, Speedometer Driven Gear, Pan, Filter and Intake Pipe",
+        "en": "Removal of Governor, Speedometer Driven Gear, Pan, Filter and Intake Pipe"
+       },
+       "words": 610,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t014_f742209a",
+       "title": {
+        "ru": "Removal of Rear Oil Seal and Extension Housing",
+        "en": "Removal of Rear Oil Seal and Extension Housing"
+       },
+       "words": 1125,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t015_4724efc2",
+       "title": {
+        "ru": "INSPECTION OF FRONT AND REAR BANDS, SUPPORT TO CASE SPACER",
+        "en": "INSPECTION OF FRONT AND REAR BANDS, SUPPORT TO CASE SPACER"
+       },
+       "words": 567,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t016_6eb5c15b",
+       "title": {
+        "ru": "Installation of Modulator Valve and Vacuum Modulator",
+        "en": "Installation of Modulator Valve and Vacuum Modulator"
+       },
+       "words": 1084,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t017_1f722c6a",
+       "title": {
+        "ru": "Cleaning and Inspection",
+        "en": "Cleaning and Inspection"
+       },
+       "words": 2217,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t018_c703d555",
+       "title": {
+        "ru": "Hose Connector Inverted Flares",
+        "en": "Hose Connector Inverted Flares"
+       },
+       "words": 1101,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t019_1b9aa2ed",
+       "title": {
+        "ru": "Vehicle Inspection Tolerances",
+        "en": "Vehicle Inspection Tolerances"
+       },
+       "words": 203,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t020_57876994",
+       "title": {
+        "ru": "Torque Specifications",
+        "en": "Torque Specifications"
+       },
+       "words": 177,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t021_6cdb0824",
+       "title": {
+        "ru": "UNIVERSAL JOINT ATTACHMENT TORQUE SPECIFICATIONS",
+        "en": "UNIVERSAL JOINT ATTACHMENT TORQUE SPECIFICATIONS"
+       },
+       "words": 96,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t022_48fca75b",
+       "title": {
+        "ru": "TORQUE SPECIFICATIONS",
+        "en": "TORQUE SPECIFICATIONS"
+       },
+       "words": 431,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_camaro_general_t023_57f1c5c1",
+       "title": {
+        "ru": "GAGES",
+        "en": "GAGES"
+       },
+       "words": 3,
+       "images": 3,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_drivetrain_t000_ca5b5ebc",
+       "title": {
+        "ru": "NOTE: The tag shows the number of teeth on pinion and drive gear.",
+        "en": "NOTE: The tag shows the number of teeth on pinion and drive gear."
+       },
+       "words": 811,
+       "images": 2,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t001_64bcb519",
+       "title": {
+        "ru": "CAUTION:  Do not attempt to pry caps off as this may damage machined face of cap",
+        "en": "CAUTION:  Do not attempt to pry caps off as this may damage machined face of cap"
+       },
+       "words": 2092,
+       "images": 14,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t002_25fb1fb5",
+       "title": {
+        "ru": "Ring Gear or Differential Case Replacement",
+        "en": "Ring Gear or Differential Case Replacement"
+       },
+       "words": 1176,
+       "images": 7,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t003_68ec79e6",
+       "title": {
+        "ru": "SERIES 20-30 TRUCK 5200, 7200 AND 1 1,OOO LB. CAPACITY AXLE DIFFERENTIALS",
+        "en": "SERIES 20-30 TRUCK 5200, 7200 AND 1 1,OOO LB. CAPACITY AXLE DIFFERENTIALS"
+       },
+       "words": 1978,
+       "images": 11,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t004_d2130f1d",
+       "title": {
+        "ru": "Differential Bearing Replacement",
+        "en": "Differential Bearing Replacement"
+       },
+       "words": 1478,
+       "images": 6,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t005_8cc930f8",
+       "title": {
+        "ru": "NOTE:  Ball spring on fork may be bent in toward fork if necessary.",
+        "en": "NOTE:  Ball spring on fork may be bent in toward fork if necessary."
+       },
+       "words": 1100,
+       "images": 3,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t006_d00baadd",
+       "title": {
+        "ru": "DISASSEMBLY OF TRANSMISSION (Fig. 1G)",
+        "en": "DISASSEMBLY OF TRANSMISSION (Fig. 1G)"
+       },
+       "words": 2023,
+       "images": 6,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t007_b55a7e95",
+       "title": {
+        "ru": "DISASSEMBLY OF TRANSMISSION (Figs. 1X and 2X)",
+        "en": "DISASSEMBLY OF TRANSMISSION (Figs. 1X and 2X)"
+       },
+       "words": 2413,
+       "images": 20,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t008_8cc203e8",
+       "title": {
+        "ru": "DISASSEMBLY OF TRANSMISSION Refer to Figures 1Q and 2Q",
+        "en": "DISASSEMBLY OF TRANSMISSION Refer to Figures 1Q and 2Q"
+       },
+       "words": 3420,
+       "images": 20,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t009_7d650e4c",
+       "title": {
+        "ru": "NOTE:  On light duty models remove the roller type thrust bearing on the mainsha",
+        "en": "NOTE:  On light duty models remove the roller type thrust bearing on the mainsha"
+       },
+       "words": 1631,
+       "images": 12,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t010_2a851797",
+       "title": {
+        "ru": "NOTE: Lubricate parts. Parts should turn freely.",
+        "en": "NOTE: Lubricate parts. Parts should turn freely."
+       },
+       "words": 1110,
+       "images": 6,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t011_5a67c5ed",
+       "title": {
+        "ru": "Disassembly of Transfer Case (Fig. 1C) Rear Output Shaft and Yoke Assembly (Fig.",
+        "en": "Disassembly of Transfer Case (Fig. 1C) Rear Output Shaft and Yoke Assembly (Fig."
+       },
+       "words": 1926,
+       "images": 9,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t012_d5092885",
+       "title": {
+        "ru": "NOTE: The pump bolts have special sealing washers which must be in place upon in",
+        "en": "NOTE: The pump bolts have special sealing washers which must be in place upon in"
+       },
+       "words": 2053,
+       "images": 10,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t013_11327631",
+       "title": {
+        "ru": "Transmission Internal Components",
+        "en": "Transmission Internal Components"
+       },
+       "words": 1690,
+       "images": 8,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t014_fbda896e",
+       "title": {
+        "ru": "Direct Clutch Disassembly, Inspection, and Overhaul (Fig. 70M) Disassembly",
+        "en": "Direct Clutch Disassembly, Inspection, and Overhaul (Fig. 70M) Disassembly"
+       },
+       "words": 1442,
+       "images": 31,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t015_6e743ff9",
+       "title": {
+        "ru": "Pump to Direct Clutch Thrust Washer Selection Procedure",
+        "en": "Pump to Direct Clutch Thrust Washer Selection Procedure"
+       },
+       "words": 1411,
+       "images": 13,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t016_a879e6bf",
+       "title": {
+        "ru": "DIRECT CLUTCH AND INTERMEDIATE SPRAG DISASSEMBLY, INSPECTION AND RE-ASSEMBLY",
+        "en": "DIRECT CLUTCH AND INTERMEDIATE SPRAG DISASSEMBLY, INSPECTION AND RE-ASSEMBLY"
+       },
+       "words": 2859,
+       "images": 34,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t017_fbe6726b",
+       "title": {
+        "ru": "Compressor Clutch Coil",
+        "en": "Compressor Clutch Coil"
+       },
+       "words": 520,
+       "images": 4,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_camaro_drivetrain_t018_417e14dd",
+       "title": {
+        "ru": "DANA TRANSFER CASE MODEL 20",
+        "en": "DANA TRANSFER CASE MODEL 20"
+       },
+       "words": 98,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chevrolet_camaro_infotainment_t000_4fedac5e",
+       "title": {
+        "ru": "REFER TO FIGURES 35, 36 and 37",
+        "en": "REFER TO FIGURES 35, 36 and 37"
+       },
+       "words": 180,
+       "images": 1,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

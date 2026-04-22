@@ -1,0 +1,775 @@
+{
+ "version": "1.0",
+ "model": "rr_sport",
+ "manuals": [
+  {
+   "model": "rr_sport",
+   "label": {
+    "ru": "Land_Rover Rr Sport — Руководство по ремонту",
+    "en": "Land_Rover Rr Sport — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_engine_t000_3ca1ece2",
+       "title": {
+        "ru": "ИНТЕЛЛЕКТУАЛЬНАЯ СИСТЕМА \"СТОП/СТАРТ\" (ЗЕЛЕНЫЙ)",
+        "en": "ИНТЕЛЛЕКТУАЛЬНАЯ СИСТЕМА \"СТОП/СТАРТ\" (ЗЕЛЕНЫЙ)"
+       },
+       "words": 792,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "land_rover_rr_sport_engine_t001_3ca2a52b",
+       "title": {
+        "ru": "Интеллектуальная система \"Стоп/Старт\"",
+        "en": "Интеллектуальная система \"Стоп/Старт\""
+       },
+       "words": 1370,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "land_rover_rr_sport_engine_t002_94e862e7",
+       "title": {
+        "ru": "РЕГИСТРАЦИЯ ПАРАМЕТРОВ",
+        "en": "РЕГИСТРАЦИЯ ПАРАМЕТРОВ"
+       },
+       "words": 2290,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_brakes_t000_994313c7",
+       "title": {
+        "ru": "См. 66, ИНТЕЛЛЕКТУАЛЬНАЯ СИСТЕМА \"СТОП/СТАРТ\" (ЗЕЛЕНЫЙ).",
+        "en": "См. 66, ИНТЕЛЛЕКТУАЛЬНАЯ СИСТЕМА \"СТОП/СТАРТ\" (ЗЕЛЕНЫЙ)."
+       },
+       "words": 604,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "land_rover_rr_sport_brakes_t001_cf032980",
+       "title": {
+        "ru": "ЭЛЕКТРОННАЯ СИСТЕМА РАСПРЕДЕЛЕНИЯ ТОРМОЗНЫХ УСИЛИЙ (ЕВD)",
+        "en": "ЭЛЕКТРОННАЯ СИСТЕМА РАСПРЕДЕЛЕНИЯ ТОРМОЗНЫХ УСИЛИЙ (ЕВD)"
+       },
+       "words": 1226,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "land_rover_rr_sport_brakes_t002_7f3672f6",
+       "title": {
+        "ru": "ИСПОЛЬЗОВАНИЕ ПРОТИВООТКАТНЫХ колодок",
+        "en": "ИСПОЛЬЗОВАНИЕ ПРОТИВООТКАТНЫХ колодок"
+       },
+       "words": 903,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_suspension_t000_296b7625",
+       "title": {
+        "ru": "ПОЛОЖЕНИЕОБСЛУЖИВАНИЯ СТЕКЛООЧИСТИТЕЛЕЙ",
+        "en": "ПОЛОЖЕНИЕОБСЛУЖИВАНИЯ СТЕКЛООЧИСТИТЕЛЕЙ"
+       },
+       "words": 458,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_hvac_t000_d9e7063a",
+       "title": {
+        "ru": "Вентиляция с охлаждением:",
+        "en": "Вентиляция с охлаждением:"
+       },
+       "words": 94,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_body_t000_7f3f6f16",
+       "title": {
+        "ru": "ОТКРЫВАНИЕ ИЗАКРЫВАНИЕ ДВЕРИ БАГАЖНОГО ОТДЕЛЕНИЯ С ЭЛЕКТРОПРИВОДОМ",
+        "en": "ОТКРЫВАНИЕ ИЗАКРЫВАНИЕ ДВЕРИ БАГАЖНОГО ОТДЕЛЕНИЯ С ЭЛЕКТРОПРИВОДОМ"
+       },
+       "words": 1952,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "land_rover_rr_sport_body_t001_d922f161",
+       "title": {
+        "ru": "РЕЗЕРВНАЯ ПРОЦЕДУРА ЗАПУСКА БЕЗ КЛЮЧА",
+        "en": "РЕЗЕРВНАЯ ПРОЦЕДУРА ЗАПУСКА БЕЗ КЛЮЧА"
+       },
+       "words": 1344,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "land_rover_rr_sport_body_t002_c5865bd0",
+       "title": {
+        "ru": "УСТРАНЕНИЕ ЗАСОРЕНИЯ ЖИКЛЕРОВ СТЕКЛООМЫВАТЕЛЯ",
+        "en": "УСТРАНЕНИЕ ЗАСОРЕНИЯ ЖИКЛЕРОВ СТЕКЛООМЫВАТЕЛЯ"
+       },
+       "words": 1513,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_steering_t000_7de85c10",
+       "title": {
+        "ru": "A Запрещается регулировать положение рулевой колонки во время движения автомобил",
+        "en": "A Запрещается регулировать положение рулевой колонки во время движения автомобил"
+       },
+       "words": 845,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "land_rover_rr_sport_steering_t001_e841c053",
+       "title": {
+        "ru": "Рулевая колонка с ручной регулировкой",
+        "en": "Рулевая колонка с ручной регулировкой"
+       },
+       "words": 806,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_lighting_t000_0e27211c",
+       "title": {
+        "ru": "СИСТЕМА АВТОМАТИЧЕСКОГО УПРАВЛЕНИЯ ДАЛЬНИМ СВЕТОМ (ЗЕЛЕНЫЙ)",
+        "en": "СИСТЕМА АВТОМАТИЧЕСКОГО УПРАВЛЕНИЯ ДАЛЬНИМ СВЕТОМ (ЗЕЛЕНЫЙ)"
+       },
+       "words": 593,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "land_rover_rr_sport_lighting_t001_bcc43b2a",
+       "title": {
+        "ru": "Переключение диапазона с Lo на Hi:",
+        "en": "Переключение диапазона с Lo на Hi:"
+       },
+       "words": 394,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_interior_t000_208ecb8f",
+       "title": {
+        "ru": "A Статистика ДТП показывает, что наиболее безопасной является перевозка детей в ",
+        "en": "A Статистика ДТП показывает, что наиболее безопасной является перевозка детей в "
+       },
+       "words": 1302,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "land_rover_rr_sport_interior_t001_510caf9b",
+       "title": {
+        "ru": "ОТКЛЮЧЕНИЕ ПОДУШКИ БЕЗОПАСНОСТИ ПАССАЖИРА",
+        "en": "ОТКЛЮЧЕНИЕ ПОДУШКИ БЕЗОПАСНОСТИ ПАССАЖИРА"
+       },
+       "words": 1210,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "land_rover_rr_sport_interior_t002_2a096e08",
+       "title": {
+        "ru": "ЭЛЕМЕНТ ПИТАНИЯ ПУЛЬТА ДИСТАНЦИОННОГО УПРАВЛЕНИЯ МУЛЬТИМЕДИЙНОЙ СИСТЕМОЙ В ЗАДНЕ",
+        "en": "ЭЛЕМЕНТ ПИТАНИЯ ПУЛЬТА ДИСТАНЦИОННОГО УПРАВЛЕНИЯ МУЛЬТИМЕДИЙНОЙ СИСТЕМОЙ В ЗАДНЕ"
+       },
+       "words": 1590,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "land_rover_rr_sport_interior_t003_d91773e1",
+       "title": {
+        "ru": "РАСПОЛОЖЕНИЕ ПЕРЕДАТЧИКОВ КЛЮЧА-БРЕЛОКА ДИСТАНЦИОННОГО УПРАВЛЕНИЯ",
+        "en": "РАСПОЛОЖЕНИЕ ПЕРЕДАТЧИКОВ КЛЮЧА-БРЕЛОКА ДИСТАНЦИОННОГО УПРАВЛЕНИЯ"
+       },
+       "words": 1104,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_ev_t000_e1a5f27a",
+       "title": {
+        "ru": "ПРЕПЯТСТВИЕ РЕГУЛИРОВКЕ ПОЛОЖЕНИЯ ЗАДНЕГО СИДЕНЬЯ",
+        "en": "ПРЕПЯТСТВИЕ РЕГУЛИРОВКЕ ПОЛОЖЕНИЯ ЗАДНЕГО СИДЕНЬЯ"
+       },
+       "words": 1070,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "land_rover_rr_sport_ev_t001_7477d078",
+       "title": {
+        "ru": "РАЗМЕРЫ СЦЕПНОГО УСТРОЙСТВА И ТОЧКИ КРЕПЛЕНИЯ (фаркоп с электроприводом)",
+        "en": "РАЗМЕРЫ СЦЕПНОГО УСТРОЙСТВА И ТОЧКИ КРЕПЛЕНИЯ (фаркоп с электроприводом)"
+       },
+       "words": 1333,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "land_rover_rr_sport_ev_t002_7ac21342",
+       "title": {
+        "ru": "СИСТЕМА КОНТРОЛЯ АККУМУЛЯТОРНОЙ БАТАРЕИ",
+        "en": "СИСТЕМА КОНТРОЛЯ АККУМУЛЯТОРНОЙ БАТАРЕИ"
+       },
+       "words": 293,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_chassis_t000_a34c0146",
+       "title": {
+        "ru": "СЕКРЕТНЫЕ ГАЙКИ КРЕПЛЕНИЯ КОЛЕСА",
+        "en": "СЕКРЕТНЫЕ ГАЙКИ КРЕПЛЕНИЯ КОЛЕСА"
+       },
+       "words": 134,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_general_t000_e1f27d78",
+       "title": {
+        "ru": "СИМВОЛЫ, ИСПОЛЬЗУЕМЫЕ В НАСТОЯЩЕМ РУКОВОДСТВЕ",
+        "en": "СИМВОЛЫ, ИСПОЛЬЗУЕМЫЕ В НАСТОЯЩЕМ РУКОВОДСТВЕ"
+       },
+       "words": 1528,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t001_e509c209",
+       "title": {
+        "ru": "ПРЕПЯТСТВИЯРЕГУЛИРОВКЕ ПОЛОЖЕНИЯ ПЕРЕДНЕГО СИДЕНЬЯ",
+        "en": "ПРЕПЯТСТВИЯРЕГУЛИРОВКЕ ПОЛОЖЕНИЯ ПЕРЕДНЕГО СИДЕНЬЯ"
+       },
+       "words": 1586,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t002_003e71f1",
+       "title": {
+        "ru": "МОДИФИКАЦИИ ДЛЯ ЛЮДЕЙ С ОГРАНИЧЕННЫМИ ФИЗИЧЕСКИМИ ВОЗМОЖНОСТЯМИ",
+        "en": "МОДИФИКАЦИИ ДЛЯ ЛЮДЕЙ С ОГРАНИЧЕННЫМИ ФИЗИЧЕСКИМИ ВОЗМОЖНОСТЯМИ"
+       },
+       "words": 1607,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t003_54ed7af4",
+       "title": {
+        "ru": "ОТОБРАЖЕНИЕ МЕТРИЧЕСКИХ/БРИТАНСКИХ/ СМЕШАННЫХ ЕДИНИЦ ИЗМЕРЕНИЯ",
+        "en": "ОТОБРАЖЕНИЕ МЕТРИЧЕСКИХ/БРИТАНСКИХ/ СМЕШАННЫХ ЕДИНИЦ ИЗМЕРЕНИЯ"
+       },
+       "words": 706,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t004_d12a95f9",
+       "title": {
+        "ru": "СИСТЕМА ДИНАМИЧЕСКОГО КОНТРОЛЯ КУРСОВОЙ УСТОЙЧИВОСТИ (DSC) ОТКЛЮЧЕНА (ЯНТАРНЫЙ)",
+        "en": "СИСТЕМА ДИНАМИЧЕСКОГО КОНТРОЛЯ КУРСОВОЙ УСТОЙЧИВОСТИ (DSC) ОТКЛЮЧЕНА (ЯНТАРНЫЙ)"
+       },
+       "words": 188,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t005_d4bc7f22",
+       "title": {
+        "ru": "СИСТЕМА КОНТРОЛЯ ДАВЛЕНИЯ ВОЗДУХА В ШИНАХ (ЖЕЛТЫЙ)",
+        "en": "СИСТЕМА КОНТРОЛЯ ДАВЛЕНИЯ ВОЗДУХА В ШИНАХ (ЖЕЛТЫЙ)"
+       },
+       "words": 256,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t006_ecc7ba83",
+       "title": {
+        "ru": "ПЕРЕПРОГРАММИРОВАНИЕ ОТДЕЛЬНОЙ КНОПКИ РАДИОПУЛЬТА УПРАВЛЕНИЯ ГАРАЖНЫМИ ВОРОТАМИ",
+        "en": "ПЕРЕПРОГРАММИРОВАНИЕ ОТДЕЛЬНОЙ КНОПКИ РАДИОПУЛЬТА УПРАВЛЕНИЯ ГАРАЖНЫМИ ВОРОТАМИ"
+       },
+       "words": 1744,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t007_87f9f27c",
+       "title": {
+        "ru": "ЗАМЕНА ЭЛЕМЕНТОВ ПИТАНИЯ ПУЛЬТА ДИСТАНЦИОННОГО УПРАВЛЕНИЯ",
+        "en": "ЗАМЕНА ЭЛЕМЕНТОВ ПИТАНИЯ ПУЛЬТА ДИСТАНЦИОННОГО УПРАВЛЕНИЯ"
+       },
+       "words": 1111,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t008_8521fdec",
+       "title": {
+        "ru": "РАЗМЕРЫ ШАРОВОЙ ОПОРЫ И ТОЧКИ КРЕПЛЕНИЯ (многопозиционная регулировочная пластин",
+        "en": "РАЗМЕРЫ ШАРОВОЙ ОПОРЫ И ТОЧКИ КРЕПЛЕНИЯ (многопозиционная регулировочная пластин"
+       },
+       "words": 1229,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t009_f9ec1452",
+       "title": {
+        "ru": "СИСТЕМА ДИНАМИЧЕСКОГО КОНТРОЛЯ КУРСОВОЙ УСТОЙЧИВОСТИ (DSC)",
+        "en": "СИСТЕМА ДИНАМИЧЕСКОГО КОНТРОЛЯ КУРСОВОЙ УСТОЙЧИВОСТИ (DSC)"
+       },
+       "words": 736,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t010_f08132c9",
+       "title": {
+        "ru": "Система Park Assist неточно припарковала автомобиль на парковочном месте:",
+        "en": "Система Park Assist неточно припарковала автомобиль на парковочном месте:"
+       },
+       "words": 2001,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t011_4b954d84",
+       "title": {
+        "ru": "СОВЕТЫ ПО ВОЖДЕНИЮ АВТОМОБИЛЯ, ОБОРУДОВАННОГО СИСТЕМОЙ АДАПТИВНОГО КРУИЗ-КОНТРОЛ",
+        "en": "СОВЕТЫ ПО ВОЖДЕНИЮ АВТОМОБИЛЯ, ОБОРУДОВАННОГО СИСТЕМОЙ АДАПТИВНОГО КРУИЗ-КОНТРОЛ"
+       },
+       "words": 1526,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t012_29e00535",
+       "title": {
+        "ru": "ОСНОВНАЯ ПРОГРАММА (СПЕЦИАЛЬНЫЕПРОГРАММЫ ОТКЛЮЧЕНЫ)",
+        "en": "ОСНОВНАЯ ПРОГРАММА (СПЕЦИАЛЬНЫЕПРОГРАММЫ ОТКЛЮЧЕНЫ)"
+       },
+       "words": 1024,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t013_8f976cf1",
+       "title": {
+        "ru": "ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ С КОНЕЧНЫМ ПОЛЬЗОВАТЕЛЕМ GRACENOTE®",
+        "en": "ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ С КОНЕЧНЫМ ПОЛЬЗОВАТЕЛЕМ GRACENOTE®"
+       },
+       "words": 2686,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t014_287f7e78",
+       "title": {
+        "ru": "ОРГАНЫ УПРАВЛЕНИЯ РЕЖИМОМ ДВОЙНОГО ИЗОБРАЖЕНИЯ DUAL VIEW",
+        "en": "ОРГАНЫ УПРАВЛЕНИЯ РЕЖИМОМ ДВОЙНОГО ИЗОБРАЖЕНИЯ DUAL VIEW"
+       },
+       "words": 1799,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t015_7a007419",
+       "title": {
+        "ru": "СВЕДЕНИЯ О ПУНКТАХ В ИЗБРАННОМ",
+        "en": "СВЕДЕНИЯ О ПУНКТАХ В ИЗБРАННОМ"
+       },
+       "words": 758,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t016_cb18bd79",
+       "title": {
+        "ru": "CCP to Destination (текущее положение автомобиля в качестве пункта назначения)",
+        "en": "CCP to Destination (текущее положение автомобиля в качестве пункта назначения)"
+       },
+       "words": 689,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t017_22d0592f",
+       "title": {
+        "ru": "Vehicle is up (Вращение по маршруту)",
+        "en": "Vehicle is up (Вращение по маршруту)"
+       },
+       "words": 658,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t018_557d743c",
+       "title": {
+        "ru": "КОНЕЧНЫЕ ПОЛЬЗОВАТЕЛИ В ГОСУДАРСТВЕННЫХ УЧРЕЖДЕНИЯХ",
+        "en": "КОНЕЧНЫЕ ПОЛЬЗОВАТЕЛИ В ГОСУДАРСТВЕННЫХ УЧРЕЖДЕНИЯХ"
+       },
+       "words": 828,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t019_d0430a34",
+       "title": {
+        "ru": "УСТРОЙСТВО ЗАЩИТЫ ОТ ЗАПРАВКИ БЕНЗИНОМ АВТОМОБИЛЯ С ДИЗЕЛЬНЫМ ДВИГАТЕЛЕМ",
+        "en": "УСТРОЙСТВО ЗАЩИТЫ ОТ ЗАПРАВКИ БЕНЗИНОМ АВТОМОБИЛЯ С ДИЗЕЛЬНЫМ ДВИГАТЕЛЕМ"
+       },
+       "words": 849,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t020_7d9620c1",
+       "title": {
+        "ru": "ПОЕЗДКИ НА КОРОТКИЕ РАССТОЯНИЯ ИЛИ В ХОЛОДНОЕ ВРЕМЯ ГОДА",
+        "en": "ПОЕЗДКИ НА КОРОТКИЕ РАССТОЯНИЯ ИЛИ В ХОЛОДНОЕ ВРЕМЯ ГОДА"
+       },
+       "words": 691,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t021_b677ec88",
+       "title": {
+        "ru": "РАСПОЛОЖЕНИЕ ЗАПРАВОЧНЫХ ОТВЕРСТИЙ РАБОЧИХ ЖИДКОСТЕЙ",
+        "en": "РАСПОЛОЖЕНИЕ ЗАПРАВОЧНЫХ ОТВЕРСТИЙ РАБОЧИХ ЖИДКОСТЕЙ"
+       },
+       "words": 976,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t022_ed000ef8",
+       "title": {
+        "ru": "ПРОВЕРКА УРОВНЯ РАБОЧЕЙ ЖИДКОСТИ СИСТЕМЫ DYNAMIC RESPONSE",
+        "en": "ПРОВЕРКА УРОВНЯ РАБОЧЕЙ ЖИДКОСТИ СИСТЕМЫ DYNAMIC RESPONSE"
+       },
+       "words": 1152,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t023_0a5d1674",
+       "title": {
+        "ru": "A Не превышайте максимальную величину давления, указанную на боковине шины.",
+        "en": "A Не превышайте максимальную величину давления, указанную на боковине шины."
+       },
+       "words": 1380,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t024_4b5493ec",
+       "title": {
+        "ru": "Если у вас возникают сомнения относительно выполнения данных инструкций, перед в",
+        "en": "Если у вас возникают сомнения относительно выполнения данных инструкций, перед в"
+       },
+       "words": 1325,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t025_137ac382",
+       "title": {
+        "ru": "ВАЖНАЯ ИНФОРМАЦИЯ - ИСПОЛЬЗОВАНИЕ ЗАПАСНОГО КОЛЕСА",
+        "en": "ВАЖНАЯ ИНФОРМАЦИЯ - ИСПОЛЬЗОВАНИЕ ЗАПАСНОГО КОЛЕСА"
+       },
+       "words": 1699,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t026_8d2818f3",
+       "title": {
+        "ru": "Одобрение типа транспортного средства",
+        "en": "Одобрение типа транспортного средства"
+       },
+       "words": 620,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "land_rover_rr_sport_general_t027_6b780d74",
+       "title": {
+        "ru": "A Система TPMS HE регистрирует наличие повреждений шин. Регулярно проверяйте сос",
+        "en": "A Система TPMS HE регистрирует наличие повреждений шин. Регулярно проверяйте сос"
+       },
+       "words": 417,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_infotainment_t000_5d9ecc20",
+       "title": {
+        "ru": "Общие сведения об аудио/видеосистеме",
+        "en": "Общие сведения об аудио/видеосистеме"
+       },
+       "words": 951,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "land_rover_rr_sport_infotainment_t001_38fa4e7b",
+       "title": {
+        "ru": "ПОРТАТИВНЫЕ УСТРОЙСТВА: СОПРЯЖЕНИЕ И ПОДКЛЮЧЕНИЕ С ПОМОЩЬЮ СЕНСОРНОГО ЭКРАНА",
+        "en": "ПОРТАТИВНЫЕ УСТРОЙСТВА: СОПРЯЖЕНИЕ И ПОДКЛЮЧЕНИЕ С ПОМОЩЬЮ СЕНСОРНОГО ЭКРАНА"
+       },
+       "words": 1605,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "land_rover_rr_sport_infotainment_t002_b75f5b6f",
+       "title": {
+        "ru": "УПРАВЛЕНИЕ МУЛЬТИМЕДИЙНОЙ СИСТЕМОЙ В ЗАДНЕЙ ЧАСТИ САЛОНА ЧЕРЕЗ СЕНСОРНЫЙ ЭКРАН",
+        "en": "УПРАВЛЕНИЕ МУЛЬТИМЕДИЙНОЙ СИСТЕМОЙ В ЗАДНЕЙ ЧАСТИ САЛОНА ЧЕРЕЗ СЕНСОРНЫЙ ЭКРАН"
+       },
+       "words": 762,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "land_rover_rr_sport_infotainment_t003_501b833b",
+       "title": {
+        "ru": "СОПРЯЖЕНИЕ ТЕЛЕФОНОВ И ПОДКЛЮЧЕНИЕ С ПОМОЩЬЮ СЕНСОРНОГО ЭКРАНА",
+        "en": "СОПРЯЖЕНИЕ ТЕЛЕФОНОВ И ПОДКЛЮЧЕНИЕ С ПОМОЩЬЮ СЕНСОРНОГО ЭКРАНА"
+       },
+       "words": 1403,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "land_rover_rr_sport_infotainment_t004_76ff648b",
+       "title": {
+        "ru": "ВОССТАНОВЛЕНИЕ НАСТРОЕК ПО УМОЛЧАНИЮ",
+        "en": "ВОССТАНОВЛЕНИЕ НАСТРОЕК ПО УМОЛЧАНИЮ"
+       },
+       "words": 827,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "land_rover_rr_sport_infotainment_t005_24961ea1",
+       "title": {
+        "ru": "ИСПОЛЬЗОВАНИЕ ПРЕДЫДУЩЕГО ПУНКТА НАЗНАЧЕНИЯ",
+        "en": "ИСПОЛЬЗОВАНИЕ ПРЕДЫДУЩЕГО ПУНКТА НАЗНАЧЕНИЯ"
+       },
+       "words": 939,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "land_rover_rr_sport_infotainment_t006_fb57370f",
+       "title": {
+        "ru": "Stop Guidance (Прервать навигационные указания)",
+        "en": "Stop Guidance (Прервать навигационные указания)"
+       },
+       "words": 332,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "land_rover_rr_sport_infotainment_t007_7757a22a",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 717,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_sensors_t000_0d80a823",
+       "title": {
+        "ru": "ДАТЧИКИ ОБНАРУЖЕНИЯ ДВИЖУЩИХСЯ ТРАНСПОРТНЫХ СРЕДСТВ ПРИ ДВИЖЕНИИ ЗАДНИМ ХОДОМ",
+        "en": "ДАТЧИКИ ОБНАРУЖЕНИЯ ДВИЖУЩИХСЯ ТРАНСПОРТНЫХ СРЕДСТВ ПРИ ДВИЖЕНИИ ЗАДНИМ ХОДОМ"
+       },
+       "words": 1322,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "land_rover_rr_sport_sensors_t001_09963be6",
+       "title": {
+        "ru": "ФУНКЦИЯ ПРЕДУПРЕЖДЕНИЯ О ПРЕПЯТСТВИЯХ ВПЕРЕДИ",
+        "en": "ФУНКЦИЯ ПРЕДУПРЕЖДЕНИЯ О ПРЕПЯТСТВИЯХ ВПЕРЕДИ"
+       },
+       "words": 121,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "land_rover_rr_sport_drivetrain_t000_90603dfc",
+       "title": {
+        "ru": "ПРЕДОТВРАЩЕНИЕ ДЕФОРМИРОВАНИЯ ШИН",
+        "en": "ПРЕДОТВРАЩЕНИЕ ДЕФОРМИРОВАНИЯ ШИН"
+       },
+       "words": 873,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

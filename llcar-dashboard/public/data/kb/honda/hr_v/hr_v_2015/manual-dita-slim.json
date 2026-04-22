@@ -1,0 +1,835 @@
+{
+ "version": "1.0",
+ "model": "hr_v",
+ "manuals": [
+  {
+   "model": "hr_v",
+   "label": {
+    "ru": "Honda HR-V — Руководство по ремонту",
+    "en": "Honda HR-V — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "honda_hr_v_engine_t000_b90bd6a9",
+       "title": {
+        "ru": "Exhaust Gas Hazard (P69)",
+        "en": "Exhaust Gas Hazard (P69)"
+       },
+       "words": 709,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "honda_hr_v_engine_t001_4fe2b09b",
+       "title": {
+        "ru": "Immobilizer System",
+        "en": "Immobilizer System"
+       },
+       "words": 861,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "honda_hr_v_engine_t002_f12901e2",
+       "title": {
+        "ru": "Low Smart Entry Remote Signal Strength*",
+        "en": "Low Smart Entry Remote Signal Strength*"
+       },
+       "words": 1452,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "honda_hr_v_engine_t003_2b0daccc",
+       "title": {
+        "ru": "Shift Up: The engine speed reaches the lowest",
+        "en": "Shift Up: The engine speed reaches the lowest"
+       },
+       "words": 2152,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "honda_hr_v_engine_t004_53c7aa86",
+       "title": {
+        "ru": "Vehicle Stability Assist (VSA®), aka Electronic",
+        "en": "Vehicle Stability Assist (VSA®), aka Electronic"
+       },
+       "words": 1465,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "honda_hr_v_engine_t005_2bdcb13d",
+       "title": {
+        "ru": "Recommended Engine Oil",
+        "en": "Recommended Engine Oil"
+       },
+       "words": 859,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "honda_hr_v_engine_t006_0c4b4388",
+       "title": {
+        "ru": "Genuine Honda engine coolant is a 50/50 mixture of",
+        "en": "Genuine Honda engine coolant is a 50/50 mixture of"
+       },
+       "words": 952,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "honda_hr_v_engine_t007_7335a740",
+       "title": {
+        "ru": "Engine Does Not Start",
+        "en": "Engine Does Not Start"
+       },
+       "words": 1864,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "honda_hr_v_engine_t008_561ab055",
+       "title": {
+        "ru": "Honda Long-Life Antifreeze/Coolant Type2",
+        "en": "Honda Long-Life Antifreeze/Coolant Type2"
+       },
+       "words": 905,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "honda_hr_v_engine_t009_2b871fe8",
+       "title": {
+        "ru": "00X31-T7A-6101",
+        "en": "00X31-T7A-6101"
+       },
+       "words": 21,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "honda_hr_v_brakes_t000_f3385f6e",
+       "title": {
+        "ru": "Manual Transmission* (P340)",
+        "en": "Manual Transmission* (P340)"
+       },
+       "words": 829,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_hr_v_brakes_t001_f2ad8d1b",
+       "title": {
+        "ru": "Driver Door Open Unlock Mode*1",
+        "en": "Driver Door Open Unlock Mode*1"
+       },
+       "words": 1214,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_hr_v_brakes_t002_5d695277",
+       "title": {
+        "ru": "Tire Pressure Monitoring System (TPMS) - Required",
+        "en": "Tire Pressure Monitoring System (TPMS) - Required"
+       },
+       "words": 1069,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_hr_v_brakes_t003_471bc033",
+       "title": {
+        "ru": "Parking Your Vehicle",
+        "en": "Parking Your Vehicle"
+       },
+       "words": 1727,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_hr_v_brakes_t004_2666c882",
+       "title": {
+        "ru": "In Canada, posted fuel economy numbers are",
+        "en": "In Canada, posted fuel economy numbers are"
+       },
+       "words": 1303,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_hr_v_brakes_t005_cae4d812",
+       "title": {
+        "ru": "Honda Heavy Duty Brake Fluid DOT 3",
+        "en": "Honda Heavy Duty Brake Fluid DOT 3"
+       },
+       "words": 599,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "honda_hr_v_hvac_t000_164d7a74",
+       "title": {
+        "ru": "Using Vents, Heating and A/C",
+        "en": "Using Vents, Heating and A/C"
+       },
+       "words": 659,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "honda_hr_v_body_t000_1ea5a3fe",
+       "title": {
+        "ru": "Quick Reference Guide",
+        "en": "Quick Reference Guide"
+       },
+       "words": 888,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "honda_hr_v_body_t001_604fc8a9",
+       "title": {
+        "ru": "Lights On Indicator",
+        "en": "Lights On Indicator"
+       },
+       "words": 1276,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "honda_hr_v_body_t002_55edb5db",
+       "title": {
+        "ru": "Auto Door Locking/Unlocking",
+        "en": "Auto Door Locking/Unlocking"
+       },
+       "words": 986,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "honda_hr_v_body_t003_2acff383",
+       "title": {
+        "ru": "Power Door Mirrors",
+        "en": "Power Door Mirrors"
+       },
+       "words": 1267,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "honda_hr_v_body_t004_ed326669",
+       "title": {
+        "ru": "Interior Lights/Interior Convenience Items",
+        "en": "Interior Lights/Interior Convenience Items"
+       },
+       "words": 1313,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "honda_hr_v_body_t005_e1ef6cc2",
+       "title": {
+        "ru": "Refilling Window Washer Fluid",
+        "en": "Refilling Window Washer Fluid"
+       },
+       "words": 1336,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "honda_hr_v_steering_t000_2c51133a",
+       "title": {
+        "ru": "The National Highway Traffic Safety Administration",
+        "en": "The National Highway Traffic Safety Administration"
+       },
+       "words": 914,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "honda_hr_v_steering_t001_7a8ad3c7",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 287,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "honda_hr_v_lighting_t000_60d78f64",
+       "title": {
+        "ru": "Quick Reference Guide",
+        "en": "Quick Reference Guide"
+       },
+       "words": 847,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_hr_v_lighting_t001_dba6fc08",
+       "title": {
+        "ru": "Interior Rearview Mirror",
+        "en": "Interior Rearview Mirror"
+       },
+       "words": 861,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_hr_v_lighting_t002_db804b13",
+       "title": {
+        "ru": "The LaneWatch function can be affected by weather,",
+        "en": "The LaneWatch function can be affected by weather,"
+       },
+       "words": 973,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_hr_v_lighting_t003_077e1548",
+       "title": {
+        "ru": "Side Turn Signal/Emergency Indicator Lights*",
+        "en": "Side Turn Signal/Emergency Indicator Lights*"
+       },
+       "words": 559,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_hr_v_lighting_t004_38ec1596",
+       "title": {
+        "ru": "Compliance Division, Light-Duty Vehicle Group",
+        "en": "Compliance Division, Light-Duty Vehicle Group"
+       },
+       "words": 750,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "honda_hr_v_interior_t000_159263ae",
+       "title": {
+        "ru": "California Perchlorate Contamination Prevention Act",
+        "en": "California Perchlorate Contamination Prevention Act"
+       },
+       "words": 1306,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_hr_v_interior_t001_8e9ca06c",
+       "title": {
+        "ru": "Safe Driving",
+        "en": "Safe Driving"
+       },
+       "words": 912,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_hr_v_interior_t002_ef3e37ff",
+       "title": {
+        "ru": "Front Airbags (SRS)",
+        "en": "Front Airbags (SRS)"
+       },
+       "words": 1667,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_hr_v_interior_t003_c898b99e",
+       "title": {
+        "ru": "The National Highway Traffic Safety Administration",
+        "en": "The National Highway Traffic Safety Administration"
+       },
+       "words": 1202,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_hr_v_interior_t004_e2204a38",
+       "title": {
+        "ru": "Safe Driving",
+        "en": "Safe Driving"
+       },
+       "words": 1427,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_hr_v_interior_t005_e5c89912",
+       "title": {
+        "ru": "Climate Control System*",
+        "en": "Climate Control System*"
+       },
+       "words": 1295,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_hr_v_interior_t006_8cf2cc93",
+       "title": {
+        "ru": "Fan Control Icons",
+        "en": "Fan Control Icons"
+       },
+       "words": 1133,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_hr_v_interior_t007_c97848a7",
+       "title": {
+        "ru": "Automatic Climate Control Sensors",
+        "en": "Automatic Climate Control Sensors"
+       },
+       "words": 1177,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "honda_hr_v_ev_t000_04c1a7fe",
+       "title": {
+        "ru": "Your Bluetooth-compatible phone must be paired to",
+        "en": "Your Bluetooth-compatible phone must be paired to"
+       },
+       "words": 1437,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "honda_hr_v_general_t000_1931b541",
+       "title": {
+        "ru": "Service Diagnostic Recorders",
+        "en": "Service Diagnostic Recorders"
+       },
+       "words": 977,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_hr_v_general_t001_67015281",
+       "title": {
+        "ru": "Low Tire Pressure/",
+        "en": "Low Tire Pressure/"
+       },
+       "words": 1704,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_hr_v_general_t002_139b3806",
+       "title": {
+        "ru": "Random All: Plays all tracks/files in random",
+        "en": "Random All: Plays all tracks/files in random"
+       },
+       "words": 605,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_hr_v_general_t003_0d19c881",
+       "title": {
+        "ru": "Repeat Folder (MP3/WMA/AAC): Repeats all files",
+        "en": "Repeat Folder (MP3/WMA/AAC): Repeats all files"
+       },
+       "words": 351,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_hr_v_general_t004_e924248b",
+       "title": {
+        "ru": "Defaulting All the Settings",
+        "en": "Defaulting All the Settings"
+       },
+       "words": 765,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_hr_v_general_t005_17d997b2",
+       "title": {
+        "ru": "Mobile Phone: For certain connected phones, the",
+        "en": "Mobile Phone: For certain connected phones, the"
+       },
+       "words": 1303,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_hr_v_general_t006_29a6060d",
+       "title": {
+        "ru": "Tire Pressure Monitoring System (TPMS) - Required",
+        "en": "Tire Pressure Monitoring System (TPMS) - Required"
+       },
+       "words": 1504,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_hr_v_general_t007_f1d07d2e",
+       "title": {
+        "ru": "Tire Service Life",
+        "en": "Tire Service Life"
+       },
+       "words": 1460,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_hr_v_general_t008_e5c4c005",
+       "title": {
+        "ru": "Bella International",
+        "en": "Bella International"
+       },
+       "words": 1118,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "honda_hr_v_safety_t000_d72fcafe",
+       "title": {
+        "ru": "Child Safety (P57)",
+        "en": "Child Safety (P57)"
+       },
+       "words": 787,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "honda_hr_v_safety_t001_7c6eb8bd",
+       "title": {
+        "ru": "Safety When Performing Maintenance",
+        "en": "Safety When Performing Maintenance"
+       },
+       "words": 1545,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "honda_hr_v_infotainment_t000_ef6b54b7",
+       "title": {
+        "ru": "General Information on the Audio",
+        "en": "General Information on the Audio"
+       },
+       "words": 395,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t001_9215791b",
+       "title": {
+        "ru": "Multimedia Interface, and the HDMI Logo are",
+        "en": "Multimedia Interface, and the HDMI Logo are"
+       },
+       "words": 1990,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t002_bac6d479",
+       "title": {
+        "ru": "Play Mode Buttons (1-6)",
+        "en": "Play Mode Buttons (1-6)"
+       },
+       "words": 780,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t003_1a4d38f8",
+       "title": {
+        "ru": "Station List, Save Preset, Radio Text,",
+        "en": "Station List, Save Preset, Radio Text,"
+       },
+       "words": 1259,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t004_66f34f10",
+       "title": {
+        "ru": "Random All Tracks: Plays all tracks/files in random",
+        "en": "Random All Tracks: Plays all tracks/files in random"
+       },
+       "words": 1118,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t005_bcef2c29",
+       "title": {
+        "ru": "Scan Tracks: Provides 10-second sampling of all files",
+        "en": "Scan Tracks: Provides 10-second sampling of all files"
+       },
+       "words": 1216,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t006_7999cab9",
+       "title": {
+        "ru": "General Information on the Audio System",
+        "en": "General Information on the Audio System"
+       },
+       "words": 846,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t007_adeb2b1b",
+       "title": {
+        "ru": "Bluetooth On/Off Status",
+        "en": "Bluetooth On/Off Status"
+       },
+       "words": 258,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t008_30e0b1a8",
+       "title": {
+        "ru": "Upper Right*1/Upper Left/",
+        "en": "Upper Right*1/Upper Left/"
+       },
+       "words": 306,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t009_9aec7213",
+       "title": {
+        "ru": "The Bluetooth® word mark and logos are registered",
+        "en": "The Bluetooth® word mark and logos are registered"
+       },
+       "words": 634,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t010_3cd58431",
+       "title": {
+        "ru": "Name Priority: A caller’s name is displayed if it is",
+        "en": "Name Priority: A caller’s name is displayed if it is"
+       },
+       "words": 1988,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t011_5de33294",
+       "title": {
+        "ru": "Select Ignore to ignore the incoming call if you do",
+        "en": "Select Ignore to ignore the incoming call if you do"
+       },
+       "words": 1244,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_hr_v_infotainment_t012_8ae27ac1",
+       "title": {
+        "ru": "Select Hang Up to terminate the connection to your",
+        "en": "Select Hang Up to terminate the connection to your"
+       },
+       "words": 648,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "fuel",
+     "title": {
+      "ru": "fuel",
+      "en": "fuel"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "honda_hr_v_fuel_t000_f976ae46",
+       "title": {
+        "ru": "Fuel Economy and CO2 Emissions",
+        "en": "Fuel Economy and CO2 Emissions"
+       },
+       "words": 1114,
+       "images": 0,
+       "section_id": "fuel"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "honda_hr_v_drivetrain_t000_c4edb462",
+       "title": {
+        "ru": "Synchronized Mode*",
+        "en": "Synchronized Mode*"
+       },
+       "words": 925,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "honda_hr_v_drivetrain_t001_44982e9e",
+       "title": {
+        "ru": "Real Time AWD with Intelligent Control SystemTM*",
+        "en": "Real Time AWD with Intelligent Control SystemTM*"
+       },
+       "words": 1868,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "honda_hr_v_drivetrain_t002_ee9c935a",
+       "title": {
+        "ru": "When You Cannot Open the Tailgate",
+        "en": "When You Cannot Open the Tailgate"
+       },
+       "words": 683,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "honda_hr_v_sensors_t000_e4e7d40c",
+       "title": {
+        "ru": "Wide View Mode",
+        "en": "Wide View Mode"
+       },
+       "words": 39,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

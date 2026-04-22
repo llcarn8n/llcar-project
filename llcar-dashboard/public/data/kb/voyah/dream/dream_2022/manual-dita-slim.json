@@ -1,0 +1,595 @@
+{
+ "version": "1.0",
+ "model": "dream",
+ "manuals": [
+  {
+   "model": "dream",
+   "label": {
+    "ru": "Voyah Dream — Руководство по ремонту",
+    "en": "Voyah Dream — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "voyah_dream_engine_t000_a4f5bdcd",
+       "title": {
+        "ru": "4.2.9.6 Removal and refitting of exhaust manifold upper heat shield",
+        "en": "4.2.9.6 Removal and refitting of exhaust manifold upper heat shield"
+       },
+       "words": 2415,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "voyah_dream_engine_t001_bc98e7da",
+       "title": {
+        "ru": "4.5.11.9 Alignment of timing chain marker points Removal procedure",
+        "en": "4.5.11.9 Alignment of timing chain marker points Removal procedure"
+       },
+       "words": 2434,
+       "images": 20,
+       "section_id": "engine"
+      },
+      {
+       "id": "voyah_dream_engine_t002_7292f12b",
+       "title": {
+        "ru": "4.5.12.20 Removal and refitting of harness bracket on cylinder head cover assemb",
+        "en": "4.5.12.20 Removal and refitting of harness bracket on cylinder head cover assemb"
+       },
+       "words": 2206,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "voyah_dream_engine_t003_7848dfa2",
+       "title": {
+        "ru": "4.5.13.6 Removal and refitting of crankshaft thrust plate",
+        "en": "4.5.13.6 Removal and refitting of crankshaft thrust plate"
+       },
+       "words": 1478,
+       "images": 13,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "voyah_dream_brakes_t000_7997f6ca",
+       "title": {
+        "ru": "4.4.8.35 Removal and refitting of water pump assembly",
+        "en": "4.4.8.35 Removal and refitting of water pump assembly"
+       },
+       "words": 133,
+       "images": 3,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "voyah_dream_electrical_t000_83f10bb9",
+       "title": {
+        "ru": "4.3.8.1 Removal and refitting of electronic fuel pump assembly",
+        "en": "4.3.8.1 Removal and refitting of electronic fuel pump assembly"
+       },
+       "words": 778,
+       "images": 5,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "voyah_dream_body_t000_d7b61f3a",
+       "title": {
+        "ru": "4.5.15.3 Removal and refitting of left mounting cushion assembly",
+        "en": "4.5.15.3 Removal and refitting of left mounting cushion assembly"
+       },
+       "words": 1350,
+       "images": 11,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "fuel_ev",
+     "title": {
+      "ru": "Топливная / ВВ система",
+      "en": "Fuel / HV System"
+     },
+     "icon": "⛽",
+     "topics": [
+      {
+       "id": "voyah_dream_fuel_ev_t000_e9be46c7",
+       "title": {
+        "ru": "4.3.8.2 Removal and refitting of fuel inlet pipe 2# assembly",
+        "en": "4.3.8.2 Removal and refitting of fuel inlet pipe 2# assembly"
+       },
+       "words": 1743,
+       "images": 6,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "voyah_dream_fuel_ev_t001_0fc94310",
+       "title": {
+        "ru": "4.3.8.4 Removal and refitting of canister desorption tube 1#",
+        "en": "4.3.8.4 Removal and refitting of canister desorption tube 1#"
+       },
+       "words": 876,
+       "images": 18,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "voyah_dream_fuel_ev_t002_6a9846e4",
+       "title": {
+        "ru": "4.3.10.7 Removal and refitting of fuel tank isolation valve assembly",
+        "en": "4.3.10.7 Removal and refitting of fuel tank isolation valve assembly"
+       },
+       "words": 1385,
+       "images": 12,
+       "section_id": "fuel_ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "voyah_dream_general_t000_e09cf3cb",
+       "title": {
+        "ru": "4.1.8.1 Removal and refitting of air filter assembly",
+        "en": "4.1.8.1 Removal and refitting of air filter assembly"
+       },
+       "words": 1992,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t001_3e22623a",
+       "title": {
+        "ru": "4.1.8.6 Removal and refitting of air filter outlet pipe assembly",
+        "en": "4.1.8.6 Removal and refitting of air filter outlet pipe assembly"
+       },
+       "words": 715,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t002_26e7ba7d",
+       "title": {
+        "ru": "4.1.9.3 Removal and refitting of intercooler air inlet hose 2#",
+        "en": "4.1.9.3 Removal and refitting of intercooler air inlet hose 2#"
+       },
+       "words": 1131,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t003_43876f79",
+       "title": {
+        "ru": "4.2.9.5 Removal and refitting of exhaust manifold lower heat shield",
+        "en": "4.2.9.5 Removal and refitting of exhaust manifold lower heat shield"
+       },
+       "words": 941,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t004_7b2bb841",
+       "title": {
+        "ru": "4.2.10.5 Removal and refitting of front muffler heat shield",
+        "en": "4.2.10.5 Removal and refitting of front muffler heat shield"
+       },
+       "words": 592,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t005_398e6e8e",
+       "title": {
+        "ru": "4.3.8.6 Removal and refitting of high-pressure desorption tube assembly",
+        "en": "4.3.8.6 Removal and refitting of high-pressure desorption tube assembly"
+       },
+       "words": 419,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t006_23a59665",
+       "title": {
+        "ru": "4.3.10.1 Removal and refitting of air filter",
+        "en": "4.3.10.1 Removal and refitting of air filter"
+       },
+       "words": 324,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t007_f16258c0",
+       "title": {
+        "ru": "4.3.10.9 Removal and refitting of canister control valve assembly",
+        "en": "4.3.10.9 Removal and refitting of canister control valve assembly"
+       },
+       "words": 1286,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t008_434a257f",
+       "title": {
+        "ru": "4.4.8.1 Removal and refitting of water outlet chamber end cover",
+        "en": "4.4.8.1 Removal and refitting of water outlet chamber end cover"
+       },
+       "words": 467,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t009_e0c839c9",
+       "title": {
+        "ru": "4.4.8.5 Removal and refitting of low temperature radiator assembly (REV)",
+        "en": "4.4.8.5 Removal and refitting of low temperature radiator assembly (REV)"
+       },
+       "words": 999,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t010_52a623bd",
+       "title": {
+        "ru": "4.4.8.10 Removal and refitting of radiator lower bracket bushing",
+        "en": "4.4.8.10 Removal and refitting of radiator lower bracket bushing"
+       },
+       "words": 556,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t011_f40e66e3",
+       "title": {
+        "ru": "4.4.8.15 Removal and refitting of low temperature radiator water outlet pipe",
+        "en": "4.4.8.15 Removal and refitting of low temperature radiator water outlet pipe"
+       },
+       "words": 648,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t012_505513b9",
+       "title": {
+        "ru": "4.4.8.19 Removal and refitting of low temperature radiator water outlet pipe rea",
+        "en": "4.4.8.19 Removal and refitting of low temperature radiator water outlet pipe rea"
+       },
+       "words": 638,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t013_64e52348",
+       "title": {
+        "ru": "4.4.8.23 Removal and refitting of battery cooler water outlet pipe assembly",
+        "en": "4.4.8.23 Removal and refitting of battery cooler water outlet pipe assembly"
+       },
+       "words": 554,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t014_60c01be8",
+       "title": {
+        "ru": "4.4.8.31 Removal and refitting of water temperature sensor on radiator assembly",
+        "en": "4.4.8.31 Removal and refitting of water temperature sensor on radiator assembly"
+       },
+       "words": 673,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t015_913d3351",
+       "title": {
+        "ru": "4.4.8.34 Removal and refitting of three-way proportional valve mounting bracket",
+        "en": "4.4.8.34 Removal and refitting of three-way proportional valve mounting bracket"
+       },
+       "words": 715,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t016_98fb0e4c",
+       "title": {
+        "ru": "4.4.8.40 Removal and refitting of middle channel water inlet pipe",
+        "en": "4.4.8.40 Removal and refitting of middle channel water inlet pipe"
+       },
+       "words": 718,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t017_db6cb1fe",
+       "title": {
+        "ru": "4.4.8.50 Removal and refitting of low temperature radiator water inlet pipe asse",
+        "en": "4.4.8.50 Removal and refitting of low temperature radiator water inlet pipe asse"
+       },
+       "words": 813,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t018_275a7b87",
+       "title": {
+        "ru": "4.4.8.51 Removal and refitting of low temperature radiator water outlet pipe",
+        "en": "4.4.8.51 Removal and refitting of low temperature radiator water outlet pipe"
+       },
+       "words": 497,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t019_7c23d8d6",
+       "title": {
+        "ru": "4.4.8.60 Removal and refitting of four-way control valve water pipe II",
+        "en": "4.4.8.60 Removal and refitting of four-way control valve water pipe II"
+       },
+       "words": 610,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t020_8adecbbd",
+       "title": {
+        "ru": "4.4.8.63 Removal and refitting of battery pack water outlet pipe assembly",
+        "en": "4.4.8.63 Removal and refitting of battery pack water outlet pipe assembly"
+       },
+       "words": 560,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t021_44db359f",
+       "title": {
+        "ru": "4.4.8.67 Removal and refitting of battery cooler water outlet pipe assembly",
+        "en": "4.4.8.67 Removal and refitting of battery cooler water outlet pipe assembly"
+       },
+       "words": 603,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t022_d109283f",
+       "title": {
+        "ru": "4.4.8.72 Removal and refitting of three-way proportional valve assembly",
+        "en": "4.4.8.72 Removal and refitting of three-way proportional valve assembly"
+       },
+       "words": 716,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t023_193c9896",
+       "title": {
+        "ru": "4.4.8.79 Removal and refitting of auxiliary water bottle assembly and accessorie",
+        "en": "4.4.8.79 Removal and refitting of auxiliary water bottle assembly and accessorie"
+       },
+       "words": 931,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t024_0fc8f068",
+       "title": {
+        "ru": "4.4.8.23 Removal and refitting of motor water pump inlet pipe assembly (REV Face",
+        "en": "4.4.8.23 Removal and refitting of motor water pump inlet pipe assembly (REV Face"
+       },
+       "words": 1154,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t025_de2b74f4",
+       "title": {
+        "ru": "4.4.8.23 Removal and refitting of motor water pump inlet pipe assembly (REV Face",
+        "en": "4.4.8.23 Removal and refitting of motor water pump inlet pipe assembly (REV Face"
+       },
+       "words": 1195,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t026_71fe93ac",
+       "title": {
+        "ru": "4.5.7.5 Minimum power generation speed of range extender too high",
+        "en": "4.5.7.5 Minimum power generation speed of range extender too high"
+       },
+       "words": 1044,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t027_6aae4672",
+       "title": {
+        "ru": "4.5.9.1 Removal and refitting of turbocharger upper heat shield assembly",
+        "en": "4.5.9.1 Removal and refitting of turbocharger upper heat shield assembly"
+       },
+       "words": 1154,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t028_90ccfc0c",
+       "title": {
+        "ru": "4.5.11.4 Removal and refitting of water pump fixing harness bracket II",
+        "en": "4.5.11.4 Removal and refitting of water pump fixing harness bracket II"
+       },
+       "words": 715,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t029_c963504c",
+       "title": {
+        "ru": "4.5.11.7 Removal and refitting of timing chain cover oil seal assembly",
+        "en": "4.5.11.7 Removal and refitting of timing chain cover oil seal assembly"
+       },
+       "words": 954,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t030_b8609674",
+       "title": {
+        "ru": "4.5.11.13 Removal and refitting of timing chain guide rail assembly",
+        "en": "4.5.11.13 Removal and refitting of timing chain guide rail assembly"
+       },
+       "words": 1166,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t031_d09a8731",
+       "title": {
+        "ru": "4.5.12.4 Removal and refitting of harness fixing bracket for exhaust OCV seat",
+        "en": "4.5.12.4 Removal and refitting of harness fixing bracket for exhaust OCV seat"
+       },
+       "words": 974,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t032_cc607a28",
+       "title": {
+        "ru": "4.5.12.7 Removal and refitting of exhaust camshaft assembly",
+        "en": "4.5.12.7 Removal and refitting of exhaust camshaft assembly"
+       },
+       "words": 1101,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t033_1a2b893c",
+       "title": {
+        "ru": "4.5.12.11 Removal and refitting of vacuum pump cover plate and seal ring",
+        "en": "4.5.12.11 Removal and refitting of vacuum pump cover plate and seal ring"
+       },
+       "words": 842,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t034_2f255066",
+       "title": {
+        "ru": "4.5.12.17 Removal and refitting of intake and exhaust valve springs",
+        "en": "4.5.12.17 Removal and refitting of intake and exhaust valve springs"
+       },
+       "words": 1353,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t035_f8b9be63",
+       "title": {
+        "ru": "4.5.13.4 Removal and refitting of piston cooling nozzle assembly",
+        "en": "4.5.13.4 Removal and refitting of piston cooling nozzle assembly"
+       },
+       "words": 1210,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t036_c3ee7294",
+       "title": {
+        "ru": "4.5.13.11 Removal and refitting of crankshaft rear end cover assembly",
+        "en": "4.5.13.11 Removal and refitting of crankshaft rear end cover assembly"
+       },
+       "words": 1289,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t037_2b59d285",
+       "title": {
+        "ru": "4.5.14.3 Replacement of oil and removal and refitting of oil filter assembly",
+        "en": "4.5.14.3 Replacement of oil and removal and refitting of oil filter assembly"
+       },
+       "words": 1152,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t038_6ac80581",
+       "title": {
+        "ru": "4.5.15.6 Removal and refitting of engine compartment combination rod assembly",
+        "en": "4.5.15.6 Removal and refitting of engine compartment combination rod assembly"
+       },
+       "words": 1182,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t039_a3ef0ce5",
+       "title": {
+        "ru": "4.5.16.9 Removal and refitting of throttle front end intake pressure/temperature",
+        "en": "4.5.16.9 Removal and refitting of throttle front end intake pressure/temperature"
+       },
+       "words": 775,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t040_741318cb",
+       "title": {
+        "ru": "4.5.16.11 Removal and refitting of ground wire between range extender generator ",
+        "en": "4.5.16.11 Removal and refitting of ground wire between range extender generator "
+       },
+       "words": 786,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "voyah_dream_general_t041_99fc97e0",
+       "title": {
+        "ru": "CAUTION:",
+        "en": "CAUTION:"
+       },
+       "words": 29,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

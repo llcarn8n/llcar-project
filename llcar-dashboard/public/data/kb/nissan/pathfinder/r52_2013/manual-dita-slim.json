@@ -1,0 +1,1275 @@
+{
+ "version": "1.0",
+ "model": "pathfinder",
+ "manuals": [
+  {
+   "model": "pathfinder",
+   "label": {
+    "ru": "Nissan Pathfinder — Руководство по ремонту",
+    "en": "Nissan Pathfinder — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_engine_t000_beb34ea8",
+       "title": {
+        "ru": "Low Oil Pressure (Низкое давление моторного масла) See Owner's Маnual (См. Руков",
+        "en": "Low Oil Pressure (Низкое давление моторного масла) See Owner's Маnual (См. Руков"
+       },
+       "words": 710,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_pathfinder_engine_t001_136b1569",
+       "title": {
+        "ru": "В СЛУЧАЕ РАЗРЯДА ЭЛЕМЕНТА ПИТАНИЯ КЛЮЧА NISSAN INTELLIGENT КЕYQ",
+        "en": "В СЛУЧАЕ РАЗРЯДА ЭЛЕМЕНТА ПИТАНИЯ КЛЮЧА NISSAN INTELLIGENT КЕYQ"
+       },
+       "words": 1147,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_pathfinder_engine_t002_dad14d88",
+       "title": {
+        "ru": "МЕРЫ ПРЕДОСТОРОЖНОСТИ ПРИ ПОЛЬЗОВАНИИ ТОРМОЗНОЙ СИСТЕМОЙ",
+        "en": "МЕРЫ ПРЕДОСТОРОЖНОСТИ ПРИ ПОЛЬЗОВАНИИ ТОРМОЗНОЙ СИСТЕМОЙ"
+       },
+       "words": 1123,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_pathfinder_engine_t003_d09c76d1",
+       "title": {
+        "ru": "Операции, выполняемые в моторном отсеке и под автомобилем",
+        "en": "Операции, выполняемые в моторном отсеке и под автомобилем"
+       },
+       "words": 1166,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_pathfinder_engine_t004_ced4a8fe",
+       "title": {
+        "ru": "Будьте осторожны, чтобы не получить ожогов. Моторное масло может быть горячим.",
+        "en": "Будьте осторожны, чтобы не получить ожогов. Моторное масло может быть горячим."
+       },
+       "words": 453,
+       "images": 1,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_brakes_t000_aac02a12",
+       "title": {
+        "ru": "Сигнализатор неисправности антиблокировочной тормозной системы (ABS)",
+        "en": "Сигнализатор неисправности антиблокировочной тормозной системы (ABS)"
+       },
+       "words": 602,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_pathfinder_brakes_t001_fa1e425b",
+       "title": {
+        "ru": "Включение стартера блокируется, если рычаг селектора автоматической трансмиссии ",
+        "en": "Включение стартера блокируется, если рычаг селектора автоматической трансмиссии "
+       },
+       "words": 650,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_pathfinder_brakes_t002_3a161008",
+       "title": {
+        "ru": "Приработка механизмов стояночного тормоза",
+        "en": "Приработка механизмов стояночного тормоза"
+       },
+       "words": 683,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_pathfinder_brakes_t003_7862b993",
+       "title": {
+        "ru": "Саморегулирующиеся тормозные механизмы",
+        "en": "Саморегулирующиеся тормозные механизмы"
+       },
+       "words": 1091,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_pathfinder_brakes_t004_871b4e47",
+       "title": {
+        "ru": "ОПАСНОСТЬ",
+        "en": "ОПАСНОСТЬ"
+       },
+       "words": 117,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_suspension_t000_cae0f676",
+       "title": {
+        "ru": "Автоматическое запирание дверей (для некоторых вариантов исполнения автомобиля)",
+        "en": "Автоматическое запирание дверей (для некоторых вариантов исполнения автомобиля)"
+       },
+       "words": 772,
+       "images": 1,
+       "section_id": "suspension"
+      },
+      {
+       "id": "nissan_pathfinder_suspension_t001_74ba15be",
+       "title": {
+        "ru": "АВТОМАТИЧЕСКАЯ СИСТЕМА ВОССТАНОВЛЕНИЯ СОХРАНЕННЫХ РЕГУЛИРОВОК (для некоторых вар",
+        "en": "АВТОМАТИЧЕСКАЯ СИСТЕМА ВОССТАНОВЛЕНИЯ СОХРАНЕННЫХ РЕГУЛИРОВОК (для некоторых вар"
+       },
+       "words": 457,
+       "images": 2,
+       "section_id": "suspension"
+      },
+      {
+       "id": "nissan_pathfinder_suspension_t002_190d1c94",
+       "title": {
+        "ru": "MOНИТОР AROUND VIEW@ (MOНИТОР КРУГОВОГО ОБЗОРА) (для некоторых вариантов исполне",
+        "en": "MOНИТОР AROUND VIEW@ (MOНИТОР КРУГОВОГО ОБЗОРА) (для некоторых вариантов исполне"
+       },
+       "words": 620,
+       "images": 2,
+       "section_id": "suspension"
+      },
+      {
+       "id": "nissan_pathfinder_suspension_t003_c70bd2a1",
+       "title": {
+        "ru": "Выключатель спортивного режима (для некоторых вариантов исполнения автомобиля)",
+        "en": "Выключатель спортивного режима (для некоторых вариантов исполнения автомобиля)"
+       },
+       "words": 693,
+       "images": 3,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_hvac_t000_ab17512e",
+       "title": {
+        "ru": "Автоматическое управление приточной вентиляцией",
+        "en": "Автоматическое управление приточной вентиляцией"
+       },
+       "words": 601,
+       "images": 1,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_body_t000_3b370699",
+       "title": {
+        "ru": "Выключатель стеклоподъемника двери водителя (с автоматическим режимом)",
+        "en": "Выключатель стеклоподъемника двери водителя (с автоматическим режимом)"
+       },
+       "words": 512,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_pathfinder_body_t001_2438c718",
+       "title": {
+        "ru": "Блокировка электрических стеклоподъемников дверей пассажиров",
+        "en": "Блокировка электрических стеклоподъемников дверей пассажиров"
+       },
+       "words": 600,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_pathfinder_body_t002_7fcc6bd3",
+       "title": {
+        "ru": "ОТКРЫВАНИЕ И ЗАКРЫВАНИЕ ДВЕРИ БАГАЖНОГО ОТДЕЛЕНИЯ ВРУЧНУЮ (для некоторых вариант",
+        "en": "ОТКРЫВАНИЕ И ЗАКРЫВАНИЕ ДВЕРИ БАГАЖНОГО ОТДЕЛЕНИЯ ВРУЧНУЮ (для некоторых вариант"
+       },
+       "words": 676,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_pathfinder_body_t003_8ab8e54c",
+       "title": {
+        "ru": "НАСТРОЙКА ВЫСОТЫ ПОДЪЕМА ПРИ ОТКРЫВАНИИ ДВЕРИ БАГАЖНОГО ОТДЕЛЕНИЯ",
+        "en": "НАСТРОЙКА ВЫСОТЫ ПОДЪЕМА ПРИ ОТКРЫВАНИИ ДВЕРИ БАГАЖНОГО ОТДЕЛЕНИЯ"
+       },
+       "words": 638,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_pathfinder_body_t004_26918e08",
+       "title": {
+        "ru": "УЛЬТРАЗВУКОВЫЕ ДАТЧИКИ СИСТЕМЫ ПОМОЩИ ПРИ ПАРКОВКЕ (для некоторых вариантов испо",
+        "en": "УЛЬТРАЗВУКОВЫЕ ДАТЧИКИ СИСТЕМЫ ПОМОЩИ ПРИ ПАРКОВКЕ (для некоторых вариантов испо"
+       },
+       "words": 836,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_pathfinder_body_t005_1b8c05a5",
+       "title": {
+        "ru": "НАИБОЛЕЕ РАСПРОСТРАНЕННЫЕ ФАКТОРЫ, ВЫЗЫВАЮЩИЕ КОРРОЗИЮ АВТОМОБИЛЯ",
+        "en": "НАИБОЛЕЕ РАСПРОСТРАНЕННЫЕ ФАКТОРЫ, ВЫЗЫВАЮЩИЕ КОРРОЗИЮ АВТОМОБИЛЯ"
+       },
+       "words": 618,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_pathfinder_body_t006_bd42da47",
+       "title": {
+        "ru": "Отдельные пункты отмечены звездочкой (\\*). Для получения дополнительных сведений",
+        "en": "Отдельные пункты отмечены звездочкой (\\*). Для получения дополнительных сведений"
+       },
+       "words": 1140,
+       "images": 5,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_steering_t000_7d7afab4",
+       "title": {
+        "ru": "ЭЛЕКТРИЧЕСКАЯ РЕГУЛИРОВКА РУЛЕВОГО КОЛЕСА (для некоторых вариантов исполнения ав",
+        "en": "ЭЛЕКТРИЧЕСКАЯ РЕГУЛИРОВКА РУЛЕВОГО КОЛЕСА (для некоторых вариантов исполнения ав"
+       },
+       "words": 1125,
+       "images": 4,
+       "section_id": "steering"
+      },
+      {
+       "id": "nissan_pathfinder_steering_t001_c7f01c28",
+       "title": {
+        "ru": "ОРГАНЫ УПРАВЛЕНИЯ АУДИОСИСТЕМОЙ, РАСПОЛОЖЕННЫЕ НА РУЛЕВОМ КОЛЕСЕ",
+        "en": "ОРГАНЫ УПРАВЛЕНИЯ АУДИОСИСТЕМОЙ, РАСПОЛОЖЕННЫЕ НА РУЛЕВОМ КОЛЕСЕ"
+       },
+       "words": 546,
+       "images": 1,
+       "section_id": "steering"
+      },
+      {
+       "id": "nissan_pathfinder_steering_t002_04dc9c78",
+       "title": {
+        "ru": "РАБОЧАЯ ЖИДКОСТЬ ГИДРОУСИЛИТЕЛЯ РУЛЕВОГО УПРАВЛЕНИЯ",
+        "en": "РАБОЧАЯ ЖИДКОСТЬ ГИДРОУСИЛИТЕЛЯ РУЛЕВОГО УПРАВЛЕНИЯ"
+       },
+       "words": 467,
+       "images": 6,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_lighting_t000_068d2cdc",
+       "title": {
+        "ru": "Индикаторы включения указателей поворота и аварийной световой сигнализации",
+        "en": "Индикаторы включения указателей поворота и аварийной световой сигнализации"
+       },
+       "words": 415,
+       "images": 8,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_pathfinder_lighting_t001_c5d17763",
+       "title": {
+        "ru": "Автомобили универсального назначения значительно более склонны к опрокидыванию, ",
+        "en": "Автомобили универсального назначения значительно более склонны к опрокидыванию, "
+       },
+       "words": 780,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_pathfinder_lighting_t002_193f02c6",
+       "title": {
+        "ru": "ПРОТИВОТУМАННЫЕ ФАРЫ (для некоторых вариантов исполнения автомобиля)",
+        "en": "ПРОТИВОТУМАННЫЕ ФАРЫ (для некоторых вариантов исполнения автомобиля)"
+       },
+       "words": 637,
+       "images": 4,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_interior_t000_2cbcd98b",
+       "title": {
+        "ru": "Регулировка продольного положения сиденья Регулировка наклона спинки сиденья",
+        "en": "Регулировка продольного положения сиденья Регулировка наклона спинки сиденья"
+       },
+       "words": 1134,
+       "images": 9,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_pathfinder_interior_t001_1f878b36",
+       "title": {
+        "ru": "МЕРЫ ПРЕДОСТОРОЖНОСТИ ПРИ ПОЛЬЗОВАНИИ РЕМНЯМИ БЕЗОПАСНОСТИ",
+        "en": "МЕРЫ ПРЕДОСТОРОЖНОСТИ ПРИ ПОЛЬЗОВАНИИ РЕМНЯМИ БЕЗОПАСНОСТИ"
+       },
+       "words": 1091,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_pathfinder_interior_t002_511d98fe",
+       "title": {
+        "ru": "Детское удерживающее устройство, в котором ребенок располагается лицом против дв",
+        "en": "Детское удерживающее устройство, в котором ребенок располагается лицом против дв"
+       },
+       "words": 583,
+       "images": 7,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_pathfinder_interior_t003_e0ac4e56",
+       "title": {
+        "ru": "Надувные шторки безопасности, установленные сверху над дверными проемами",
+        "en": "Надувные шторки безопасности, установленные сверху над дверными проемами"
+       },
+       "words": 993,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_pathfinder_interior_t004_6dd113a9",
+       "title": {
+        "ru": "ПРЕДУПРЕЖДАЮЩИЕ ТАБЛИЧКИ О МЕРАХ ПРЕДОСТОРОЖНОСТИ ПРИ НАЛИЧИИ ПОДУШЕК БЕЗОПАСНОС",
+        "en": "ПРЕДУПРЕЖДАЮЩИЕ ТАБЛИЧКИ О МЕРАХ ПРЕДОСТОРОЖНОСТИ ПРИ НАЛИЧИИ ПОДУШЕК БЕЗОПАСНОС"
+       },
+       "words": 1234,
+       "images": 9,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_pathfinder_interior_t005_dcb8e75c",
+       "title": {
+        "ru": "ВЫКЛЮЧАТЕЛЬ СИСТЕМЫ КЛИМАТКОНТРОЛЯ СИДЕНИЙ (для некоторых вариантов исполнения а",
+        "en": "ВЫКЛЮЧАТЕЛЬ СИСТЕМЫ КЛИМАТКОНТРОЛЯ СИДЕНИЙ (для некоторых вариантов исполнения а"
+       },
+       "words": 704,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_pathfinder_interior_t006_244c3720",
+       "title": {
+        "ru": "АВТОМАТИЧЕСКАЯ СИСТЕМА КОНДИЦИОНИРОВАНИЯ ВОЗДУХА В ЗАДНЕЙ ЧАСТИ САЛОНА",
+        "en": "АВТОМАТИЧЕСКАЯ СИСТЕМА КОНДИЦИОНИРОВАНИЯ ВОЗДУХА В ЗАДНЕЙ ЧАСТИ САЛОНА"
+       },
+       "words": 1288,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_pathfinder_interior_t007_8c39158a",
+       "title": {
+        "ru": "Используемый хладагент безопасен для озонового слоя атмосферы земли.",
+        "en": "Используемый хладагент безопасен для озонового слоя атмосферы земли."
+       },
+       "words": 808,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_pathfinder_interior_t008_9fbe61b4",
+       "title": {
+        "ru": "ПРЕДУПРЕЖДАЮЩАЯ ТАБЛИЧКА ПОДУШКИ БЕЗОПАСНОСТИ (для некоторых вариантов исполнени",
+        "en": "ПРЕДУПРЕЖДАЮЩАЯ ТАБЛИЧКА ПОДУШКИ БЕЗОПАСНОСТИ (для некоторых вариантов исполнени"
+       },
+       "words": 609,
+       "images": 1,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_ev_t000_bfc781af",
+       "title": {
+        "ru": "Power wil turn off to save the battery (Питание будет выключено для предотвращен",
+        "en": "Power wil turn off to save the battery (Питание будет выключено для предотвращен"
+       },
+       "words": 699,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_pathfinder_ev_t001_39c1ee50",
+       "title": {
+        "ru": "Аварийное открывание двери багажного отделения с электроприводом (для некоторых ",
+        "en": "Аварийное открывание двери багажного отделения с электроприводом (для некоторых "
+       },
+       "words": 737,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_pathfinder_ev_t002_8d8053c2",
+       "title": {
+        "ru": "ЭЛЕКТРОННАЯ СИСТЕМА ДИНАМИЧЕСКОЙ СТАБИЛИЗАЦИИ АВТОМОБИЛЯ (ESP)",
+        "en": "ЭЛЕКТРОННАЯ СИСТЕМА ДИНАМИЧЕСКОЙ СТАБИЛИЗАЦИИ АВТОМОБИЛЯ (ESP)"
+       },
+       "words": 1049,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_pathfinder_ev_t003_faba04b3",
+       "title": {
+        "ru": "ЗАПУСК ДВИГАТЕЛЯ ОТ АККУМУЛЯТОРНОЙ БАТАРЕИ ДРУГОГО АВТОМОБИЛЯ",
+        "en": "ЗАПУСК ДВИГАТЕЛЯ ОТ АККУМУЛЯТОРНОЙ БАТАРЕИ ДРУГОГО АВТОМОБИЛЯ"
+       },
+       "words": 1120,
+       "images": 3,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_general_t000_9067401b",
+       "title": {
+        "ru": "В ЦЕЛЯХ ВАШЕЙ БЕЗОПАСНОСТИ – ПЕРЕД НАЧАЛОМ ЭКСПЛУАТАЦИИ АВТОМОБИЛЯ ОБЯЗАТЕЛЬНО И",
+        "en": "В ЦЕЛЯХ ВАШЕЙ БЕЗОПАСНОСТИ – ПЕРЕД НАЧАЛОМ ЭКСПЛУАТАЦИИ АВТОМОБИЛЯ ОБЯЗАТЕЛЬНО И"
+       },
+       "words": 1250,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t001_dcc1c9c8",
+       "title": {
+        "ru": "РУЧНАЯ РЕГУЛИРОВКА ПЕРЕДНИХ СИДЕНИЙ (для некоторых вариантов исполнения автомоби",
+        "en": "РУЧНАЯ РЕГУЛИРОВКА ПЕРЕДНИХ СИДЕНИЙ (для некоторых вариантов исполнения автомоби"
+       },
+       "words": 764,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t002_3ab9ff8f",
+       "title": {
+        "ru": "УСТРОЙСТВО НЕРЕГУЛИРУЕМЫХ подголовников",
+        "en": "УСТРОЙСТВО НЕРЕГУЛИРУЕМЫХ подголовников"
+       },
+       "words": 496,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t003_914298d9",
+       "title": {
+        "ru": "Регулировка высоты плечевой лямки ремня (передние сиденья и крайние сиденья втор",
+        "en": "Регулировка высоты плечевой лямки ремня (передние сиденья и крайние сиденья втор"
+       },
+       "words": 1357,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t004_3e221934",
+       "title": {
+        "ru": "УНИВЕРСАЛЬНЫЕ ДЕТСКИЕ УДЕРЖИВАЮЩИЕ УСТРОЙСТВА ДЛЯ УСТАНОВКИ НА ПЕРЕДНИХ И ЗАДНИХ",
+        "en": "УНИВЕРСАЛЬНЫЕ ДЕТСКИЕ УДЕРЖИВАЮЩИЕ УСТРОЙСТВА ДЛЯ УСТАНОВКИ НА ПЕРЕДНИХ И ЗАДНИХ"
+       },
+       "words": 787,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t005_1f0c4cb0",
+       "title": {
+        "ru": "Установка детского удерживающего устройства с расположением ребенка лицом по нап",
+        "en": "Установка детского удерживающего устройства с расположением ребенка лицом по нап"
+       },
+       "words": 1716,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t006_e6f684b2",
+       "title": {
+        "ru": "Для облегчения идентификации жгуты и разъемы электрической проводки дополнительн",
+        "en": "Для облегчения идентификации жгуты и разъемы электрической проводки дополнительн"
+       },
+       "words": 2307,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t007_b4932c57",
+       "title": {
+        "ru": "Заправьте бак топливом, не дожидаясь, пока стрелка указателя перейдет на значени",
+        "en": "Заправьте бак топливом, не дожидаясь, пока стрелка указателя перейдет на значени"
+       },
+       "words": 298,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t008_13d1d973",
+       "title": {
+        "ru": "Индикатор отключения системы - динамической стабилизации (ESP)",
+        "en": "Индикатор отключения системы - динамической стабилизации (ESP)"
+       },
+       "words": 1060,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t009_553df4ec",
+       "title": {
+        "ru": "Помощь водителю при парковке (для некоторых вариантов исполнения автомобиля)",
+        "en": "Помощь водителю при парковке (для некоторых вариантов исполнения автомобиля)"
+       },
+       "words": 606,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t010_dc3bbb37",
+       "title": {
+        "ru": "Отпирание дверей с помощью ключа Inteligent Key Подтверждающий звуковой сигнал",
+        "en": "Отпирание дверей с помощью ключа Inteligent Key Подтверждающий звуковой сигнал"
+       },
+       "words": 439,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t011_c4b6eb15",
+       "title": {
+        "ru": "No Key Detected (Ключ не обнаружен)",
+        "en": "No Key Detected (Ключ не обнаружен)"
+       },
+       "words": 635,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t012_1cfcd180",
+       "title": {
+        "ru": "CVT Error (Сбой в работе вариатора) See Оwner's Маnual (См. Руководство по экспл",
+        "en": "CVT Error (Сбой в работе вариатора) See Оwner's Маnual (См. Руководство по экспл"
+       },
+       "words": 397,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t013_792e40c3",
+       "title": {
+        "ru": "I-Key System Error: (Сбой системы Intelligent Key) See Owner's Manual (См. Руков",
+        "en": "I-Key System Error: (Сбой системы Intelligent Key) See Owner's Manual (См. Руков"
+       },
+       "words": 461,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t014_4eb67201",
+       "title": {
+        "ru": "Система автоматического управления освещением",
+        "en": "Система автоматического управления освещением"
+       },
+       "words": 601,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t015_da9fd079",
+       "title": {
+        "ru": "ВЫКЛЮЧАТЕЛЬ ПРОТИВОТУМАННЫХ ФАР (для некоторых вариантов исполнения автомобиля)",
+        "en": "ВЫКЛЮЧАТЕЛЬ ПРОТИВОТУМАННЫХ ФАР (для некоторых вариантов исполнения автомобиля)"
+       },
+       "words": 840,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t016_9b8108e6",
+       "title": {
+        "ru": "КАРМАНЫ НА СПИНКАХ ПЕРЕДНИХ СИДЕНИЙ ОТДЕЛЕНИЕ ДЛЯ СОЛНЦЕЗАЩИТНЫХ ОЧКОВ",
+        "en": "КАРМАНЫ НА СПИНКАХ ПЕРЕДНИХ СИДЕНИЙ ОТДЕЛЕНИЕ ДЛЯ СОЛНЦЕЗАЩИТНЫХ ОЧКОВ"
+       },
+       "words": 498,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t017_03c5a2a0",
+       "title": {
+        "ru": "Функция автореверса (при закрывании или опускании крышки люка)",
+        "en": "Функция автореверса (при закрывании или опускании крышки люка)"
+       },
+       "words": 904,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t018_bd74b4ab",
+       "title": {
+        "ru": "ЗАПИРАНИЕ ДВЕРЕЙ С ПОМОЩЬЮ ВЫКЛЮЧАТЕЛЯ ЦЕНТРАЛЬНОГО ЭЛЕКТРИЧЕСКОГО ЗАМКА",
+        "en": "ЗАПИРАНИЕ ДВЕРЕЙ С ПОМОЩЬЮ ВЫКЛЮЧАТЕЛЯ ЦЕНТРАЛЬНОГО ЭЛЕКТРИЧЕСКОГО ЗАМКА"
+       },
+       "words": 766,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t019_f53466d3",
+       "title": {
+        "ru": "БЛОКИРОВКА ЗАМКОВ ЗАДНИХ ДВЕРЕЙ ОТ СЛУЧАЙНОГО ОТКРЫВАНИЯ ДЕТЬМИ",
+        "en": "БЛОКИРОВКА ЗАМКОВ ЗАДНИХ ДВЕРЕЙ ОТ СЛУЧАЙНОГО ОТКРЫВАНИЯ ДЕТЬМИ"
+       },
+       "words": 955,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t020_cfa43d6a",
+       "title": {
+        "ru": "Подключение пульта дистанционного управления к памяти системы автоматического во",
+        "en": "Подключение пульта дистанционного управления к памяти системы автоматического во"
+       },
+       "words": 552,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t021_3ba3a807",
+       "title": {
+        "ru": "Функция наклона зеркала вниз при движении задним ходом (для некоторых вариантов ",
+        "en": "Функция наклона зеркала вниз при движении задним ходом (для некоторых вариантов "
+       },
+       "words": 770,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t022_d897792f",
+       "title": {
+        "ru": "Сопряжение пульта дистанционного управления с вариантом сохраненной регулировки",
+        "en": "Сопряжение пульта дистанционного управления с вариантом сохраненной регулировки"
+       },
+       "words": 523,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t023_5519a3a4",
+       "title": {
+        "ru": "Движение задним ходом вблизи выступающих препятствий",
+        "en": "Движение задним ходом вблизи выступающих препятствий"
+       },
+       "words": 956,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t024_348b4de5",
+       "title": {
+        "ru": "РАЗНИЦА МЕЖДУ ПРОГНОЗИРУЕМЫМ И ФАКТИЧЕСКИМ РАССТОЯНИЕМ ДО ПРЕПЯТСТВИЯ",
+        "en": "РАЗНИЦА МЕЖДУ ПРОГНОЗИРУЕМЫМ И ФАКТИЧЕСКИМ РАССТОЯНИЕМ ДО ПРЕПЯТСТВИЯ"
+       },
+       "words": 857,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t025_d498f4e9",
+       "title": {
+        "ru": "Комбинированный проигрыватель CD/DVD дисков (для некоторых вариантов исполнения ",
+        "en": "Комбинированный проигрыватель CD/DVD дисков (для некоторых вариантов исполнения "
+       },
+       "words": 1167,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t026_103a954f",
+       "title": {
+        "ru": "РАДИОПРИЕМНИК ЕМ/АМ С ПРОИГРЫВАТЕЛЕМ СD/DVD-ДИСКОВ (для некоторых вариантов испо",
+        "en": "РАДИОПРИЕМНИК ЕМ/АМ С ПРОИГРЫВАТЕЛЕМ СD/DVD-ДИСКОВ (для некоторых вариантов испо"
+       },
+       "words": 772,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t027_2f5e0741",
+       "title": {
+        "ru": "Кнопка MIX-RPT (Повторное воспроизведение и воспроизведение в случайном порядке)",
+        "en": "Кнопка MIX-RPT (Повторное воспроизведение и воспроизведение в случайном порядке)"
+       },
+       "words": 512,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t028_812c428c",
+       "title": {
+        "ru": "AUX (Разъемы для подключения внешнего источника сигнала)",
+        "en": "AUX (Разъемы для подключения внешнего источника сигнала)"
+       },
+       "words": 427,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t029_acf92f71",
+       "title": {
+        "ru": "•10 Key Search (Поиск по номеру) (DVD-VIDEO, VIDEO-CD, CD-DA, DVD-VR)",
+        "en": "•10 Key Search (Поиск по номеру) (DVD-VIDEO, VIDEO-CD, CD-DA, DVD-VR)"
+       },
+       "words": 251,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t030_3e8ba90f",
+       "title": {
+        "ru": "Предыдущая часть/Ускоренный просмотр назад",
+        "en": "Предыдущая часть/Ускоренный просмотр назад"
+       },
+       "words": 689,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t031_4c37a444",
+       "title": {
+        "ru": "НАКОПИТЕЛЬ МUSIC ВОХ@ (для некоторых вариантов исполнения автомобиля)",
+        "en": "НАКОПИТЕЛЬ МUSIC ВОХ@ (для некоторых вариантов исполнения автомобиля)"
+       },
+       "words": 1063,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t032_d519c19f",
+       "title": {
+        "ru": "•Edit Music Information (Изменение музыкальной информации)",
+        "en": "•Edit Music Information (Изменение музыкальной информации)"
+       },
+       "words": 919,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t033_5b98f871",
+       "title": {
+        "ru": "Регулятор уровня громкости",
+        "en": "Регулятор уровня громкости"
+       },
+       "words": 908,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t034_ddf49a87",
+       "title": {
+        "ru": "Задние разъемы для подключения внешнего источника сигнала",
+        "en": "Задние разъемы для подключения внешнего источника сигнала"
+       },
+       "words": 843,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t035_0589e1f9",
+       "title": {
+        "ru": "Функция родительского контроля",
+        "en": "Функция родительского контроля"
+       },
+       "words": 450,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t036_ca92c2a0",
+       "title": {
+        "ru": "10 Кеy Search (Поиск по номеру) (DVD-VIDEO, VIDEO-CD, CD-DA)",
+        "en": "10 Кеy Search (Поиск по номеру) (DVD-VIDEO, VIDEO-CD, CD-DA)"
+       },
+       "words": 244,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t037_4e096ef1",
+       "title": {
+        "ru": "Auto display (Автоматическое включение дисплея)",
+        "en": "Auto display (Автоматическое включение дисплея)"
+       },
+       "words": 166,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t038_5075f731",
+       "title": {
+        "ru": "Воспроизведение сигнала от различных истОоЧнИКОВ",
+        "en": "Воспроизведение сигнала от различных истОоЧнИКОВ"
+       },
+       "words": 559,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t039_a3733ab1",
+       "title": {
+        "ru": "\"Select Phone” (Выбрать телефон)",
+        "en": "\"Select Phone” (Выбрать телефон)"
+       },
+       "words": 726,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t040_4a5812b1",
+       "title": {
+        "ru": "Передача телефонной книги мобильного телефона",
+        "en": "Передача телефонной книги мобильного телефона"
+       },
+       "words": 1135,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t041_f92184e7",
+       "title": {
+        "ru": "ТРЕХКОМПОНЕНТНЫЙ КАТАЛИТИЧЕСКИЙ НЕЙТРАЛИЗАТОР ОТРАБОТАВШИХ ГАЗОВ",
+        "en": "ТРЕХКОМПОНЕНТНЫЙ КАТАЛИТИЧЕСКИЙ НЕЙТРАЛИЗАТОР ОТРАБОТАВШИХ ГАЗОВ"
+       },
+       "words": 1505,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t042_bbee5d8a",
+       "title": {
+        "ru": "ПОЛОЖЕНИЯ КНОПОЧНОГО ВЫКЛЮЧАТЕЛЯ ЗАЖИГАНИЯ",
+        "en": "ПОЛОЖЕНИЯ КНОПОЧНОГО ВЫКЛЮЧАТЕЛЯ ЗАЖИГАНИЯ"
+       },
+       "words": 737,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t043_78487e53",
+       "title": {
+        "ru": "Принудительное переключение на низшие ступени при полном нажатии педали акселера",
+        "en": "Принудительное переключение на низшие ступени при полном нажатии педали акселера"
+       },
+       "words": 476,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t044_f578cdde",
+       "title": {
+        "ru": "МЕРЫ ПРЕДОСТОРОЖНОСТИ ПРИ ИСПОЛЬЗОВАНИИ СИСТЕМЫ КРУИЗ-КОНТРОЛЯ",
+        "en": "МЕРЫ ПРЕДОСТОРОЖНОСТИ ПРИ ИСПОЛЬЗОВАНИИ СИСТЕМЫ КРУИЗ-КОНТРОЛЯ"
+       },
+       "words": 1207,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t045_b7d2ea4a",
+       "title": {
+        "ru": "•СТОЯНКА НА ПОДЪЕМЕ ПРИ НАЛИЧИИ БОРДЮРА",
+        "en": "•СТОЯНКА НА ПОДЪЕМЕ ПРИ НАЛИЧИИ БОРДЮРА"
+       },
+       "words": 907,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t046_093c309e",
+       "title": {
+        "ru": "Необходимо помнить о том, что сцепные свойства ошипованных шин на мокром или сух",
+        "en": "Необходимо помнить о том, что сцепные свойства ошипованных шин на мокром или сух"
+       },
+       "words": 1059,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t047_88ca63c3",
+       "title": {
+        "ru": "Иомент затяжки колесных гаен 113 Н.м",
+        "en": "Иомент затяжки колесных гаен 113 Н.м"
+       },
+       "words": 869,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t048_83a163df",
+       "title": {
+        "ru": "УХОД ЗА КОЛЕСАМИ ИЗ АЛЮМИНИЕВОГО СПЛАВА",
+        "en": "УХОД ЗА КОЛЕСАМИ ИЗ АЛЮМИНИЕВОГО СПЛАВА"
+       },
+       "words": 649,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t049_b5b5eca3",
+       "title": {
+        "ru": "8Техническое обслуживание автомобиля и операции, выполняемые владельцем",
+        "en": "8Техническое обслуживание автомобиля и операции, выполняемые владельцем"
+       },
+       "words": 705,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t050_d2ab0857",
+       "title": {
+        "ru": "Операции, выполняемые внутри автомобиля",
+        "en": "Операции, выполняемые внутри автомобиля"
+       },
+       "words": 1039,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t051_3394129d",
+       "title": {
+        "ru": "Щетка очистителя заднего стекла",
+        "en": "Щетка очистителя заднего стекла"
+       },
+       "words": 490,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t052_cf09d2a9",
+       "title": {
+        "ru": "Извлечение выключателя режима длительного хранения",
+        "en": "Извлечение выключателя режима длительного хранения"
+       },
+       "words": 837,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t053_18c3af1a",
+       "title": {
+        "ru": "Момент затяжки колесных гаек: 113 Н м",
+        "en": "Момент затяжки колесных гаек: 113 Н м"
+       },
+       "words": 912,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t054_62962763",
+       "title": {
+        "ru": "РЕКОМЕНДУЕМЫЕ ЭКСПЛУАТАЦИОННЫЕ МАТЕРИАЛЫ И ЗАПРАВОЧНЫЕ ЕМКОСТИ АГРЕГАТОВ И СИСТЕ",
+        "en": "РЕКОМЕНДУЕМЫЕ ЭКСПЛУАТАЦИОННЫЕ МАТЕРИАЛЫ И ЗАПРАВОЧНЫЕ ЕМКОСТИ АГРЕГАТОВ И СИСТЕ"
+       },
+       "words": 957,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_pathfinder_general_t055_a9da6fcf",
+       "title": {
+        "ru": "Treadwear 200 (Класс износоустойчивости протектора 200) Traction AA (Класс по сц",
+        "en": "Treadwear 200 (Класс износоустойчивости протектора 200) Traction AA (Класс по сц"
+       },
+       "words": 496,
+       "images": 5,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_infotainment_t000_812e276a",
+       "title": {
+        "ru": "4 Дисплей, система отопления и кондиционирования воздуха, аудиосистема и телефон",
+        "en": "4 Дисплей, система отопления и кондиционирования воздуха, аудиосистема и телефон"
+       },
+       "words": 1227,
+       "images": 6,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_pathfinder_infotainment_t001_207673cb",
+       "title": {
+        "ru": "ПАНЕЛЬ УПРАВЛЕНИЯ — ЦВЕТНОЙ ЭКРАН С НАВИГАЦИОННОЙ СИСТЕМОЙ (дЛЯ нЕКОТорых вариан",
+        "en": "ПАНЕЛЬ УПРАВЛЕНИЯ — ЦВЕТНОЙ ЭКРАН С НАВИГАЦИОННОЙ СИСТЕМОЙ (дЛЯ нЕКОТорых вариан"
+       },
+       "words": 830,
+       "images": 11,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_pathfinder_infotainment_t002_2ec246d0",
+       "title": {
+        "ru": "Потоковое радио Вluetooth@ (для некоторых вариантов исполнения автомобиля)",
+        "en": "Потоковое радио Вluetooth@ (для некоторых вариантов исполнения автомобиля)"
+       },
+       "words": 1159,
+       "images": 3,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_pathfinder_infotainment_t003_a54b2495",
+       "title": {
+        "ru": "УПРАВЛЕНИЕ ПРОИГРЫВАТЕЛЕМ DVDДИСКОВ (модели с навигационной системой)",
+        "en": "УПРАВЛЕНИЕ ПРОИГРЫВАТЕЛЕМ DVDДИСКОВ (модели с навигационной системой)"
+       },
+       "words": 666,
+       "images": 3,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_pathfinder_infotainment_t004_8d6d706a",
+       "title": {
+        "ru": "Кнопки SEEK и TRACK (Быстрая прокрутка назад и вперед):",
+        "en": "Кнопки SEEK и TRACK (Быстрая прокрутка назад и вперед):"
+       },
+       "words": 681,
+       "images": 2,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_pathfinder_infotainment_t005_37cfd25a",
+       "title": {
+        "ru": "Кнопки SEEK и TRACK (Ускоренное воспроизведение назад и вперед)",
+        "en": "Кнопки SEEK и TRACK (Ускоренное воспроизведение назад и вперед)"
+       },
+       "words": 515,
+       "images": 2,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_pathfinder_infotainment_t006_686d326b",
+       "title": {
+        "ru": "ПОТОКОВОЕ АУДИО ВLUЕТООТН© (для некоторых вариантов исполнения автомобиля)",
+        "en": "ПОТОКОВОЕ АУДИО ВLUЕТООТН© (для некоторых вариантов исполнения автомобиля)"
+       },
+       "words": 635,
+       "images": 4,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_pathfinder_infotainment_t007_019a735b",
+       "title": {
+        "ru": "Аудиоустройство Bluetooth@ (для некоторых вариантов исполнения автомобиля)",
+        "en": "Аудиоустройство Bluetooth@ (для некоторых вариантов исполнения автомобиля)"
+       },
+       "words": 382,
+       "images": 5,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_pathfinder_infotainment_t008_2b4f7473",
+       "title": {
+        "ru": "Display Mode (Режим дисплея) (DVD-VIDEO, VIDEO-CD)",
+        "en": "Display Mode (Режим дисплея) (DVD-VIDEO, VIDEO-CD)"
+       },
+       "words": 697,
+       "images": 1,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_pathfinder_infotainment_t009_cc4d032f",
+       "title": {
+        "ru": "ИНТЕРФЕЙС BLUETOOTHQ HANDS-FREE ПРИ НАЛИЧИИ НАВИГАЦИОННОЙ СИСТЕМЫ (дЛЯ некоторых",
+        "en": "ИНТЕРФЕЙС BLUETOOTHQ HANDS-FREE ПРИ НАЛИЧИИ НАВИГАЦИОННОЙ СИСТЕМЫ (дЛЯ некоторых"
+       },
+       "words": 276,
+       "images": 4,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_pathfinder_infotainment_t010_f1fed151",
+       "title": {
+        "ru": "ТАБЛИЧКА С ИДЕНТИФИКАЦИОННЫМ НОМЕРОМ АВТОМОБИЛЯ (VIN)",
+        "en": "ТАБЛИЧКА С ИДЕНТИФИКАЦИОННЫМ НОМЕРОМ АВТОМОБИЛЯ (VIN)"
+       },
+       "words": 38,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_drivetrain_t000_50930ae8",
+       "title": {
+        "ru": "Сбой полноприводной трансмиссии See Owner's Маnual (См. Руководство по эксплуата",
+        "en": "Сбой полноприводной трансмиссии See Owner's Маnual (См. Руководство по эксплуата"
+       },
+       "words": 1232,
+       "images": 1,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "nissan_pathfinder_drivetrain_t001_f12a8f1a",
+       "title": {
+        "ru": "РЕКОМЕНДАЦИИ КОМПАНИИ NISSАN ПО БУКСИРОВКЕ АВТОМОБИЛЯ",
+        "en": "РЕКОМЕНДАЦИИ КОМПАНИИ NISSАN ПО БУКСИРОВКЕ АВТОМОБИЛЯ"
+       },
+       "words": 953,
+       "images": 2,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "nissan_pathfinder_drivetrain_t002_e03ce642",
+       "title": {
+        "ru": "ВНИМАНИЕ",
+        "en": "ВНИМАНИЕ"
+       },
+       "words": 32,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_pathfinder_sensors_t000_84feca34",
+       "title": {
+        "ru": "Parking Sensor Error (Сбой датчика системы помощи при парковке) See Оwner's Маnu",
+        "en": "Parking Sensor Error (Сбой датчика системы помощи при парковке) See Оwner's Маnu"
+       },
+       "words": 1018,
+       "images": 5,
+       "section_id": "sensors"
+      },
+      {
+       "id": "nissan_pathfinder_sensors_t001_85e5ca87",
+       "title": {
+        "ru": "СИСТЕМА ПРЕДУПРЕЖДЕНИЯ ОБ ОПАСНОСТИ ПРИ ВЫЕЗДЕ НА ДОРОГУ ЗАДНИМ ХОДОМ (РСТА) (дл",
+        "en": "СИСТЕМА ПРЕДУПРЕЖДЕНИЯ ОБ ОПАСНОСТИ ПРИ ВЫЕЗДЕ НА ДОРОГУ ЗАДНИМ ХОДОМ (РСТА) (дл"
+       },
+       "words": 1320,
+       "images": 5,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

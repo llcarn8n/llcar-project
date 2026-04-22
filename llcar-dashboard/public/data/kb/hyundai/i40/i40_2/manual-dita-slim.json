@@ -1,0 +1,1395 @@
+{
+ "version": "1.0",
+ "model": "i40",
+ "manuals": [
+  {
+   "model": "i40",
+   "label": {
+    "ru": "Hyundai i40 — Руководство по ремонту",
+    "en": "Hyundai i40 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "hyundai_i40_engine_t000_77846f9d",
+       "title": {
+        "ru": "CAUTION: MODIFICATIONS TO YOUR HYUNDAI",
+        "en": "CAUTION: MODIFICATIONS TO YOUR HYUNDAI"
+       },
+       "words": 1137,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t001_ec298380",
+       "title": {
+        "ru": "29. Cruise control switch* / Speed limiter switch*..............5-48/5-53",
+        "en": "29. Cruise control switch* / Speed limiter switch*..............5-48/5-53"
+       },
+       "words": 933,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t002_43f684fd",
+       "title": {
+        "ru": "1. Press the front portion of the switch to",
+        "en": "1. Press the front portion of the switch to"
+       },
+       "words": 1147,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t003_44dddef3",
+       "title": {
+        "ru": "7. Return the rear seat belt to the proper",
+        "en": "7. Return the rear seat belt to the proper"
+       },
+       "words": 1310,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t004_05685c0d",
+       "title": {
+        "ru": "2. Be sure you and your passen-",
+        "en": "2. Be sure you and your passen-"
+       },
+       "words": 838,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t005_7469d241",
+       "title": {
+        "ru": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)",
+        "en": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1322,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t006_9697a3d2",
+       "title": {
+        "ru": "1. Close all doors.",
+        "en": "1. Close all doors."
+       },
+       "words": 1360,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t007_733ef5e0",
+       "title": {
+        "ru": "1. Press the alarm button for more than",
+        "en": "1. Press the alarm button for more than"
+       },
+       "words": 615,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t008_9593bf1d",
+       "title": {
+        "ru": "3.Lock the doors by pressing the lock",
+        "en": "3.Lock the doors by pressing the lock"
+       },
+       "words": 1020,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t009_2eba7597",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1080,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t010_5f91e85b",
+       "title": {
+        "ru": "1. To install the cap, turn it clockwise until",
+        "en": "1. To install the cap, turn it clockwise until"
+       },
+       "words": 1359,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t011_d3838d97",
+       "title": {
+        "ru": "INSTRUMENT CLUSTER",
+        "en": "INSTRUMENT CLUSTER"
+       },
+       "words": 1020,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t012_3620365c",
+       "title": {
+        "ru": "7. LCD display",
+        "en": "7. LCD display"
+       },
+       "words": 911,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t013_277b186c",
+       "title": {
+        "ru": "1. Stop the vehicle with the ignition",
+        "en": "1. Stop the vehicle with the ignition"
+       },
+       "words": 1518,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t014_eb4c9095",
+       "title": {
+        "ru": "1. Drive safely to the side of the road and",
+        "en": "1. Drive safely to the side of the road and"
+       },
+       "words": 1802,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t015_7bfa9172",
+       "title": {
+        "ru": "1. Drive to the nearest safe location.",
+        "en": "1. Drive to the nearest safe location."
+       },
+       "words": 837,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t016_9266322d",
+       "title": {
+        "ru": "HAZARD WARNING FLASHER",
+        "en": "HAZARD WARNING FLASHER"
+       },
+       "words": 900,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t017_014421e7",
+       "title": {
+        "ru": "1. Turn the light switch to the headlight",
+        "en": "1. Turn the light switch to the headlight"
+       },
+       "words": 1099,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t018_5def6299",
+       "title": {
+        "ru": "INTERIOR LIGHT",
+        "en": "INTERIOR LIGHT"
+       },
+       "words": 970,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t019_4208725e",
+       "title": {
+        "ru": "1. Start the engine. Push the air condi-",
+        "en": "1. Start the engine. Push the air condi-"
+       },
+       "words": 935,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t020_8255d214",
+       "title": {
+        "ru": "5. If dehumidified heating is desired, turn",
+        "en": "5. If dehumidified heating is desired, turn"
+       },
+       "words": 1278,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t021_791c7ee7",
+       "title": {
+        "ru": "STORAGE COMPARTMENT",
+        "en": "STORAGE COMPARTMENT"
+       },
+       "words": 906,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t022_eb69fbd2",
+       "title": {
+        "ru": "OVF031019",
+        "en": "OVF031019"
+       },
+       "words": 958,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t023_25f241ab",
+       "title": {
+        "ru": "VF_AC100DFG_GEN / VF_AC600DFG_GEN",
+        "en": "VF_AC100DFG_GEN / VF_AC600DFG_GEN"
+       },
+       "words": 1142,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t024_574578a1",
+       "title": {
+        "ru": "CAUTION IN USING USB",
+        "en": "CAUTION IN USING USB"
+       },
+       "words": 1639,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t025_ff6a6125",
+       "title": {
+        "ru": "VF_AC100DFE_EU / VF_AC600DFE_EU",
+        "en": "VF_AC100DFE_EU / VF_AC600DFE_EU"
+       },
+       "words": 942,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t026_c321ce91",
+       "title": {
+        "ru": "(DIGITAL RIGHTS MANAGEMENT)",
+        "en": "(DIGITAL RIGHTS MANAGEMENT)"
+       },
+       "words": 2003,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t027_32b0b8cf",
+       "title": {
+        "ru": "WARNING - ENGINE EXHAUST CAN BE DANGEROUS!",
+        "en": "WARNING - ENGINE EXHAUST CAN BE DANGEROUS!"
+       },
+       "words": 945,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t028_d124d805",
+       "title": {
+        "ru": "3. Turn the ignition switch to the ON posi-",
+        "en": "3. Turn the ignition switch to the ON posi-"
+       },
+       "words": 418,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t029_2a4d2f03",
+       "title": {
+        "ru": "2. After high speed or extended driving,",
+        "en": "2. After high speed or extended driving,"
+       },
+       "words": 645,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t030_c386cef7",
+       "title": {
+        "ru": "1. Decrease the vehicle speed to less",
+        "en": "1. Decrease the vehicle speed to less"
+       },
+       "words": 1211,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t031_8f887b07",
+       "title": {
+        "ru": "1. Start the engine.",
+        "en": "1. Start the engine."
+       },
+       "words": 1349,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t032_dea47bde",
+       "title": {
+        "ru": "SPEED LIMIT CONTROL SYSTEM (IF EQUIPPED)",
+        "en": "SPEED LIMIT CONTROL SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1229,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t033_f7a40b4f",
+       "title": {
+        "ru": "ECONOMICAL OPERATION",
+        "en": "ECONOMICAL OPERATION"
+       },
+       "words": 1795,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t034_af284a3f",
+       "title": {
+        "ru": "1. Reduce your speed gradually, keeping",
+        "en": "1. Reduce your speed gradually, keeping"
+       },
+       "words": 1184,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t035_adf0228e",
+       "title": {
+        "ru": "3.Turn off all unnecessary electrical loads.",
+        "en": "3.Turn off all unnecessary electrical loads."
+       },
+       "words": 484,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t036_774aad14",
+       "title": {
+        "ru": "3. Activate the hazard warning flash-",
+        "en": "3. Activate the hazard warning flash-"
+       },
+       "words": 1016,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t037_9545ec1f",
+       "title": {
+        "ru": "MAINTENANCE SERVICES",
+        "en": "MAINTENANCE SERVICES"
+       },
+       "words": 636,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t038_9a4032e0",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE - FOR GASOLINE ENGINE (2.0L) - MPI (CONT.)",
+        "en": "NORMAL MAINTENANCE SCHEDULE - FOR GASOLINE ENGINE (2.0L) - MPI (CONT.)"
+       },
+       "words": 2301,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t039_e57bfa87",
+       "title": {
+        "ru": "MAINTENANCE UNDER SEVERE USAGE CONDITIONS - FOR GASOLINE ENGINE (2.0L) - MPI",
+        "en": "MAINTENANCE UNDER SEVERE USAGE CONDITIONS - FOR GASOLINE ENGINE (2.0L) - MPI"
+       },
+       "words": 1247,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t040_df02d101",
+       "title": {
+        "ru": "MAINTENANCE UNDER SEVERE USAGE CONDITIONS - FOR DIESEL ENGINE (EXCEPT EUROPE)",
+        "en": "MAINTENANCE UNDER SEVERE USAGE CONDITIONS - FOR DIESEL ENGINE (EXCEPT EUROPE)"
+       },
+       "words": 943,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t041_d379a6cf",
+       "title": {
+        "ru": "5. Pump up and down(1) approximately 5",
+        "en": "5. Pump up and down(1) approximately 5"
+       },
+       "words": 905,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t042_0aa55ddd",
+       "title": {
+        "ru": "4. Return the wiper arm to the original",
+        "en": "4. Return the wiper arm to the original"
+       },
+       "words": 613,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t043_aa8ae9a9",
+       "title": {
+        "ru": "1. Turn off the battery charger",
+        "en": "1. Turn off the battery charger"
+       },
+       "words": 1515,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t044_e1e0cbff",
+       "title": {
+        "ru": "4. Check the removed fuse; replace it if it",
+        "en": "4. Check the removed fuse; replace it if it"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t045_059edb39",
+       "title": {
+        "ru": "PDM 3 (IG1) RELAY",
+        "en": "PDM 3 (IG1) RELAY"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t046_c5dc767e",
+       "title": {
+        "ru": "1. Turn off the engine and open the hood.",
+        "en": "1. Turn off the engine and open the hood."
+       },
+       "words": 401,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t047_de473edc",
+       "title": {
+        "ru": "4. If head lamp leveling device is equipped, adjust the head lamp leveling devic",
+        "en": "4. If head lamp leveling device is equipped, adjust the head lamp leveling devic"
+       },
+       "words": 678,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t048_48bce162",
+       "title": {
+        "ru": "RECOMMENDED LUBRICANTS AND CAPACITIES",
+        "en": "RECOMMENDED LUBRICANTS AND CAPACITIES"
+       },
+       "words": 718,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i40_engine_t049_f7fdd266",
+       "title": {
+        "ru": "VEHICLE IDENTIFICATION NUMBER (VIN)",
+        "en": "VEHICLE IDENTIFICATION NUMBER (VIN)"
+       },
+       "words": 518,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "hyundai_i40_brakes_t000_4e1ad863",
+       "title": {
+        "ru": "5. Brake/clutch* fluid reservoir.............7-48",
+        "en": "5. Brake/clutch* fluid reservoir.............7-48"
+       },
+       "words": 755,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t001_e1813776",
+       "title": {
+        "ru": "3. Do not drive the vehicle if leaks are",
+        "en": "3. Do not drive the vehicle if leaks are"
+       },
+       "words": 1254,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t002_57eda115",
+       "title": {
+        "ru": "2. Undetectable objects smaller than 1 m",
+        "en": "2. Undetectable objects smaller than 1 m"
+       },
+       "words": 401,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t003_0c58c9a5",
+       "title": {
+        "ru": "1. Make sure the parking brake is",
+        "en": "1. Make sure the parking brake is"
+       },
+       "words": 1232,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t004_478893e8",
+       "title": {
+        "ru": "1. Carry the smart key or leave it inside",
+        "en": "1. Carry the smart key or leave it inside"
+       },
+       "words": 741,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t005_cb47de84",
+       "title": {
+        "ru": "1. Depress and hold the brake pedal.",
+        "en": "1. Depress and hold the brake pedal."
+       },
+       "words": 917,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t006_f0ef0bb2",
+       "title": {
+        "ru": "1. Depress the brake pedal.",
+        "en": "1. Depress the brake pedal."
+       },
+       "words": 1050,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t007_554fbc84",
+       "title": {
+        "ru": "3. The vehicle will remain stationary even",
+        "en": "3. The vehicle will remain stationary even"
+       },
+       "words": 1024,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t008_5299a45c",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1422,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t009_f98d5974",
+       "title": {
+        "ru": "5. Start the vehicle, hold the brakes, shift",
+        "en": "5. Start the vehicle, hold the brakes, shift"
+       },
+       "words": 2269,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t010_9b61cb93",
+       "title": {
+        "ru": "1.Take your foot off the accelerator pedal",
+        "en": "1.Take your foot off the accelerator pedal"
+       },
+       "words": 1024,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t011_1fc7f2d1",
+       "title": {
+        "ru": "1. Pull off the road and stop as soon as it",
+        "en": "1. Pull off the road and stop as soon as it"
+       },
+       "words": 735,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t012_4a1a47be",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE - FOR DIESEL ENGINE (EXCEPT EUROPE) (CONT.)",
+        "en": "NORMAL MAINTENANCE SCHEDULE - FOR DIESEL ENGINE (EXCEPT EUROPE) (CONT.)"
+       },
+       "words": 1891,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t013_1e3e7be7",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE - FOR DIESEL ENGINE (EXCEPT EUROPE) (CONT.)",
+        "en": "NORMAL MAINTENANCE SCHEDULE - FOR DIESEL ENGINE (EXCEPT EUROPE) (CONT.)"
+       },
+       "words": 1248,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t014_598f93a3",
+       "title": {
+        "ru": "6. Install a new bulb-socket into the hous-",
+        "en": "6. Install a new bulb-socket into the hous-"
+       },
+       "words": 331,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i40_brakes_t015_30226b26",
+       "title": {
+        "ru": "2. Evaporative emission control",
+        "en": "2. Evaporative emission control"
+       },
+       "words": 754,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "hyundai_i40_hvac_t000_dba3e0dc",
+       "title": {
+        "ru": "AUTOMATIC CLIMATE CONTROL SYSTEM (IF EQUIPPED)",
+        "en": "AUTOMATIC CLIMATE CONTROL SYSTEM (IF EQUIPPED)"
+       },
+       "words": 904,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_i40_hvac_t001_abcf3acf",
+       "title": {
+        "ru": "1. Set the fan speed to the highest posi-",
+        "en": "1. Set the fan speed to the highest posi-"
+       },
+       "words": 198,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "hyundai_i40_body_t000_614b3297",
+       "title": {
+        "ru": "5. Push the sunroof control lever forward",
+        "en": "5. Push the sunroof control lever forward"
+       },
+       "words": 1061,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "hyundai_i40_lighting_t000_46fcd663",
+       "title": {
+        "ru": "1. Lean forward slightly and lift up on the",
+        "en": "1. Lean forward slightly and lift up on the"
+       },
+       "words": 501,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i40_lighting_t001_4344f79e",
+       "title": {
+        "ru": "1. Pull the release lever to unlatch the",
+        "en": "1. Pull the release lever to unlatch the"
+       },
+       "words": 659,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i40_lighting_t002_78ac2bbc",
+       "title": {
+        "ru": "1. Open the cover by pressing the switch.",
+        "en": "1. Open the cover by pressing the switch."
+       },
+       "words": 652,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i40_lighting_t003_5b241592",
+       "title": {
+        "ru": "3. Move the lever down (to SET-), and",
+        "en": "3. Move the lever down (to SET-), and"
+       },
+       "words": 1233,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i40_lighting_t004_c6b6c8ed",
+       "title": {
+        "ru": "3. Make sure the blade assembly is",
+        "en": "3. Make sure the blade assembly is"
+       },
+       "words": 535,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i40_lighting_t005_c4ba02f8",
+       "title": {
+        "ru": "1. Inflate the tires to the specified pres-",
+        "en": "1. Inflate the tires to the specified pres-"
+       },
+       "words": 498,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i40_lighting_t006_32b126ea",
+       "title": {
+        "ru": "BULB WATTAGE",
+        "en": "BULB WATTAGE"
+       },
+       "words": 116,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "hyundai_i40_interior_t000_d83cd8de",
+       "title": {
+        "ru": "1. Pull the seat slide adjustment lever up",
+        "en": "1. Pull the seat slide adjustment lever up"
+       },
+       "words": 303,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i40_interior_t001_73eae824",
+       "title": {
+        "ru": "1. Make sure the rear seat belt webbing",
+        "en": "1. Make sure the rear seat belt webbing"
+       },
+       "words": 1036,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i40_interior_t002_eafd9d83",
+       "title": {
+        "ru": "2. Insert the rear seat belt buckle in the",
+        "en": "2. Insert the rear seat belt buckle in the"
+       },
+       "words": 1060,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i40_interior_t003_6a8420e8",
+       "title": {
+        "ru": "CHILD RESTRAINT SYSTEM (IF EQUIPPED)",
+        "en": "CHILD RESTRAINT SYSTEM (IF EQUIPPED)"
+       },
+       "words": 2182,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i40_interior_t004_f0563a02",
+       "title": {
+        "ru": "1. Place the child restraint system in the",
+        "en": "1. Place the child restraint system in the"
+       },
+       "words": 748,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i40_interior_t005_d347bfb1",
+       "title": {
+        "ru": "ECE-R44",
+        "en": "ECE-R44"
+       },
+       "words": 1802,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i40_interior_t006_c910af0c",
+       "title": {
+        "ru": "3. Push out the cover while pressing the",
+        "en": "3. Push out the cover while pressing the"
+       },
+       "words": 1220,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i40_interior_t007_587ecca1",
+       "title": {
+        "ru": "1. To open the lid, press the center edge",
+        "en": "1. To open the lid, press the center edge"
+       },
+       "words": 573,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i40_interior_t008_a753f67c",
+       "title": {
+        "ru": "11. Lower the vehicle to the ground",
+        "en": "11. Lower the vehicle to the ground"
+       },
+       "words": 403,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "hyundai_i40_chassis_t000_6a32445e",
+       "title": {
+        "ru": "8. Tilt and telescopic steering control lever ..4-42",
+        "en": "8. Tilt and telescopic steering control lever ..4-42"
+       },
+       "words": 711,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i40_chassis_t001_4b49eb1e",
+       "title": {
+        "ru": "SMART PARKING ASSIST SYSTEM (SPAS) (IF EQUIPPED)",
+        "en": "SMART PARKING ASSIST SYSTEM (SPAS) (IF EQUIPPED)"
+       },
+       "words": 1251,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i40_chassis_t002_c5b37d11",
+       "title": {
+        "ru": "LANE KEEPING ASSIST SYSTEM (LKAS) (IF EQUIPPED)",
+        "en": "LANE KEEPING ASSIST SYSTEM (LKAS) (IF EQUIPPED)"
+       },
+       "words": 1018,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i40_chassis_t003_8fb0228b",
+       "title": {
+        "ru": "1. Pull the vehicle into the parking space.",
+        "en": "1. Pull the vehicle into the parking space."
+       },
+       "words": 974,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i40_chassis_t004_3bcb1b57",
+       "title": {
+        "ru": "IF YOU HAVE A FLAT TIRE (WITH TIREMOBILITYKIT, IF EQUIPPED)",
+        "en": "IF YOU HAVE A FLAT TIRE (WITH TIREMOBILITYKIT, IF EQUIPPED)"
+       },
+       "words": 1387,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i40_chassis_t005_49faf2ba",
+       "title": {
+        "ru": "8. Button for reducing tire inflation",
+        "en": "8. Button for reducing tire inflation"
+       },
+       "words": 800,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i40_chassis_t006_fc59f031",
+       "title": {
+        "ru": "1. Unscrew the inflation valve cap that is",
+        "en": "1. Unscrew the inflation valve cap that is"
+       },
+       "words": 806,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i40_chassis_t007_731342ce",
+       "title": {
+        "ru": "5. Maximum permissible inflation",
+        "en": "5. Maximum permissible inflation"
+       },
+       "words": 545,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "hyundai_i40_general_t000_f090aadf",
+       "title": {
+        "ru": "3. How can you tell if you are purchas-",
+        "en": "3. How can you tell if you are purchas-"
+       },
+       "words": 317,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t001_6e81d4ca",
+       "title": {
+        "ru": "2. Fasten the lap/shoulder belt latch into",
+        "en": "2. Fasten the lap/shoulder belt latch into"
+       },
+       "words": 954,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t002_1dcc0516",
+       "title": {
+        "ru": "REMOTE KEYLESS ENTRY (IF EQUIPPED)",
+        "en": "REMOTE KEYLESS ENTRY (IF EQUIPPED)"
+       },
+       "words": 461,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t003_8eb24f35",
+       "title": {
+        "ru": "3. To reinstall the mechanical key, put the",
+        "en": "3. To reinstall the mechanical key, put the"
+       },
+       "words": 438,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t004_5e0fcc25",
+       "title": {
+        "ru": "DRIVER POSITION MEMORY SYSTEM (IF EQUIPPED)",
+        "en": "DRIVER POSITION MEMORY SYSTEM (IF EQUIPPED)"
+       },
+       "words": 635,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t005_f5bd2f4a",
+       "title": {
+        "ru": "3. With the User setting displayed, press",
+        "en": "3. With the User setting displayed, press"
+       },
+       "words": 383,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t006_9d256435",
+       "title": {
+        "ru": "PARKING ASSIST SYSTEM (IF EQUIPPED)",
+        "en": "PARKING ASSIST SYSTEM (IF EQUIPPED)"
+       },
+       "words": 474,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t007_629d4166",
+       "title": {
+        "ru": "3. A beep sound will be heard 3 times to",
+        "en": "3. A beep sound will be heard 3 times to"
+       },
+       "words": 481,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t008_af3466e6",
+       "title": {
+        "ru": "1. Press the AUTO button. The modes,",
+        "en": "1. Press the AUTO button. The modes,"
+       },
+       "words": 365,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t009_78207d0e",
+       "title": {
+        "ru": "1. Set the fan speed to the highest posi-",
+        "en": "1. Set the fan speed to the highest posi-"
+       },
+       "words": 431,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t010_0da7fa49",
+       "title": {
+        "ru": "1. Press the lock release button(1) locat-",
+        "en": "1. Press the lock release button(1) locat-"
+       },
+       "words": 492,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t011_1c0350c1",
+       "title": {
+        "ru": "1. Insert a slim tool(flat blade driver) into",
+        "en": "1. Insert a slim tool(flat blade driver) into"
+       },
+       "words": 362,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t012_4f6d064f",
+       "title": {
+        "ru": "12. CD Indicator icon (CD Player :",
+        "en": "12. CD Indicator icon (CD Player :"
+       },
+       "words": 478,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t013_8c275a26",
+       "title": {
+        "ru": "2. Keep the Bluetooth® volume to a low",
+        "en": "2. Keep the Bluetooth® volume to a low"
+       },
+       "words": 502,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t014_8c52eb2f",
+       "title": {
+        "ru": "9. Search the Bluetooth® system on your",
+        "en": "9. Search the Bluetooth® system on your"
+       },
+       "words": 410,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t015_2f1afe47",
+       "title": {
+        "ru": "1. Select “Language” in PHONE menu,",
+        "en": "1. Select “Language” in PHONE menu,"
+       },
+       "words": 378,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t016_60f9199a",
+       "title": {
+        "ru": "4.Say the name of the entry (voice tag).",
+        "en": "4.Say the name of the entry (voice tag)."
+       },
+       "words": 637,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t017_3d0313d4",
+       "title": {
+        "ru": "1. Carefully remove the cap covering the",
+        "en": "1. Carefully remove the cap covering the"
+       },
+       "words": 583,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t018_6d7e403a",
+       "title": {
+        "ru": "7.Proceed with caution, keeping alert for",
+        "en": "7.Proceed with caution, keeping alert for"
+       },
+       "words": 354,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t019_3977d2f9",
+       "title": {
+        "ru": "1. Set the ignition switch in the ACC posi-",
+        "en": "1. Set the ignition switch in the ACC posi-"
+       },
+       "words": 513,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t020_29d4a89b",
+       "title": {
+        "ru": "1. Loosen the air cleaner cover attaching",
+        "en": "1. Loosen the air cleaner cover attaching"
+       },
+       "words": 291,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t021_99742c68",
+       "title": {
+        "ru": "2. Lift up the wiper blade clip. Then pull",
+        "en": "2. Lift up the wiper blade clip. Then pull"
+       },
+       "words": 234,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t022_47dd79dd",
+       "title": {
+        "ru": "2. The cut-off line should be projected in the cut-off line shown in the picture",
+        "en": "2. The cut-off line should be projected in the cut-off line shown in the picture"
+       },
+       "words": 449,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i40_general_t023_396941d0",
+       "title": {
+        "ru": "1. Crankcase emission control",
+        "en": "1. Crankcase emission control"
+       },
+       "words": 576,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_i40_sensors_t000_1bfc1dbd",
+       "title": {
+        "ru": "1. Moisture is frozen to the sensor. (It will",
+        "en": "1. Moisture is frozen to the sensor. (It will"
+       },
+       "words": 822,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_i40_sensors_t001_b3b2b5e8",
+       "title": {
+        "ru": "3. Search for parking space",
+        "en": "3. Search for parking space"
+       },
+       "words": 679,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "battery",
+     "title": {
+      "ru": "battery",
+      "en": "battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_i40_battery_t000_601e41c8",
+       "title": {
+        "ru": "1. Insert a slim tool into the slot and gen-",
+        "en": "1. Insert a slim tool into the slot and gen-"
+       },
+       "words": 815,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_i40_battery_t001_ae66bcdd",
+       "title": {
+        "ru": "1. Make sure the booster battery is 12-volt",
+        "en": "1. Make sure the booster battery is 12-volt"
+       },
+       "words": 548,
+       "images": 0,
+       "section_id": "battery"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_i40_infotainment_t000_cbd08164",
+       "title": {
+        "ru": "6. DISC Button (CD changer :",
+        "en": "6. DISC Button (CD changer :"
+       },
+       "words": 1133,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_i40_infotainment_t001_2a709232",
+       "title": {
+        "ru": "BLUETOOTH® PHONE OPERA-",
+        "en": "BLUETOOTH® PHONE OPERA-"
+       },
+       "words": 1254,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_i40_infotainment_t002_0e085971",
+       "title": {
+        "ru": "1. Select “Select” in PHONE menu, then",
+        "en": "1. Select “Select” in PHONE menu, then"
+       },
+       "words": 656,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_i40_infotainment_t003_c3510c65",
+       "title": {
+        "ru": "7. Wait till the audio displays “Transfer",
+        "en": "7. Wait till the audio displays “Transfer"
+       },
+       "words": 618,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_i40_drivetrain_t000_7e7579cc",
+       "title": {
+        "ru": "1. Depress the clutch pedal and select a",
+        "en": "1. Depress the clutch pedal and select a"
+       },
+       "words": 77,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

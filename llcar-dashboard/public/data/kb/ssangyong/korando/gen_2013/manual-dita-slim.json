@@ -1,0 +1,1745 @@
+{
+ "version": "1.0",
+ "model": "ssangyong_korando",
+ "manuals": [
+  {
+   "model": "ssangyong_korando",
+   "label": {
+    "ru": "Ssangyong KORANDO — Руководство по ремонту",
+    "en": "Ssangyong KORANDO — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t000_104395a5",
+       "title": {
+        "ru": "The engine may operate only in a well-ventilated area",
+        "en": "The engine may operate only in a well-ventilated area"
+       },
+       "words": 877,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t001_d668b948",
+       "title": {
+        "ru": "5. Add oil, if needed, to keep the oil level above the",
+        "en": "5. Add oil, if needed, to keep the oil level above the"
+       },
+       "words": 1050,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t002_cc7daa41",
+       "title": {
+        "ru": "4. Connect the adaptor to compression pressure tester",
+        "en": "4. Connect the adaptor to compression pressure tester"
+       },
+       "words": 1077,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t003_5ffd0888",
+       "title": {
+        "ru": "Notice: Any time the air cleaner is removed, the intake",
+        "en": "Notice: Any time the air cleaner is removed, the intake"
+       },
+       "words": 1132,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t004_9ff642fa",
+       "title": {
+        "ru": "Cylinder Pressure Leakage Test. . . . . . . . . 1A3-13",
+        "en": "Cylinder Pressure Leakage Test. . . . . . . . . 1A3-13"
+       },
+       "words": 1006,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t005_0e7c1542",
+       "title": {
+        "ru": "Engine Oil and Oil Filter Element . . . . . . . . 1B1-93",
+        "en": "Engine Oil and Oil Filter Element . . . . . . . . 1B1-93"
+       },
+       "words": 1498,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t006_6ca924ed",
+       "title": {
+        "ru": "22. Remove the harness cover and disconnect the 6 injection",
+        "en": "22. Remove the harness cover and disconnect the 6 injection"
+       },
+       "words": 825,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t007_b2bfb058",
+       "title": {
+        "ru": "The vacuum pressure generated at the crankcase sucks",
+        "en": "The vacuum pressure generated at the crankcase sucks"
+       },
+       "words": 761,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t008_890bac9e",
+       "title": {
+        "ru": "2. Unscrew the A/C bracket bolts (1) and remove the bracket",
+        "en": "2. Unscrew the A/C bracket bolts (1) and remove the bracket"
+       },
+       "words": 799,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t009_25010db1",
+       "title": {
+        "ru": "The sprocket bolt is designed to be used only once, so",
+        "en": "The sprocket bolt is designed to be used only once, so"
+       },
+       "words": 943,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t010_4a06f720",
+       "title": {
+        "ru": "At this condition, check if the OT mark on vibration",
+        "en": "At this condition, check if the OT mark on vibration"
+       },
+       "words": 843,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t011_b582b182",
+       "title": {
+        "ru": "8. Rotate the crankshaft in the direction if engine revolution",
+        "en": "8. Rotate the crankshaft in the direction if engine revolution"
+       },
+       "words": 807,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t012_522f063e",
+       "title": {
+        "ru": "4. Adjust the hook spring joint in the oil ring 180° away from",
+        "en": "4. Adjust the hook spring joint in the oil ring 180° away from"
+       },
+       "words": 844,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t013_bce9d2d4",
+       "title": {
+        "ru": "Basic Peak-to-valley Height After Final Honing and Brushing",
+        "en": "Basic Peak-to-valley Height After Final Honing and Brushing"
+       },
+       "words": 849,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t014_c26711fa",
+       "title": {
+        "ru": "Engine Oil and Oil Filter Element . . . . . . . . 1B2-98",
+        "en": "Engine Oil and Oil Filter Element . . . . . . . . 1B2-98"
+       },
+       "words": 1392,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t015_a0fd728a",
+       "title": {
+        "ru": "The additional supply of the fresh air is needed to prevent",
+        "en": "The additional supply of the fresh air is needed to prevent"
+       },
+       "words": 836,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t016_e5d15490",
+       "title": {
+        "ru": "The flange bolt is designed to be used only once, so always",
+        "en": "The flange bolt is designed to be used only once, so always"
+       },
+       "words": 804,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t017_c17049b2",
+       "title": {
+        "ru": "2. Remove the flywheel for manual transmission vehicles",
+        "en": "2. Remove the flywheel for manual transmission vehicles"
+       },
+       "words": 819,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t018_156ca6fd",
+       "title": {
+        "ru": "8. Install the lever pusher (11) and the thrust piece (8) to the",
+        "en": "8. Install the lever pusher (11) and the thrust piece (8) to the"
+       },
+       "words": 904,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t019_8c887d79",
+       "title": {
+        "ru": "16. Install the assembly tool to the link pin and tighten the",
+        "en": "16. Install the assembly tool to the link pin and tighten the"
+       },
+       "words": 797,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t020_98907895",
+       "title": {
+        "ru": "4. Adjust the hook spring joint in the oil ring 180° away from",
+        "en": "4. Adjust the hook spring joint in the oil ring 180° away from"
+       },
+       "words": 801,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t021_feb7f824",
+       "title": {
+        "ru": "Basic Peak-to-valley Height After Final Honing and Brushing",
+        "en": "Basic Peak-to-valley Height After Final Honing and Brushing"
+       },
+       "words": 1461,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t022_474acf5d",
+       "title": {
+        "ru": "10. Remove the hoses (air intake to intercooler, intercooler",
+        "en": "10. Remove the hoses (air intake to intercooler, intercooler"
+       },
+       "words": 871,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t023_2aaa976b",
+       "title": {
+        "ru": "If the prechamber seats in the cylinder head are leaking or",
+        "en": "If the prechamber seats in the cylinder head are leaking or"
+       },
+       "words": 826,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t025_3eadd70b",
+       "title": {
+        "ru": "Apply sealing compound on the each collar of the sliding",
+        "en": "Apply sealing compound on the each collar of the sliding"
+       },
+       "words": 754,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t026_7838cbf0",
+       "title": {
+        "ru": "3. Coat a little oil on the sealing lip of new radial (1) and contact",
+        "en": "3. Coat a little oil on the sealing lip of new radial (1) and contact"
+       },
+       "words": 800,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t027_be66754f",
+       "title": {
+        "ru": "19. Coat the lower thrust bearing (7) with oil and insert into the",
+        "en": "19. Coat the lower thrust bearing (7) with oil and insert into the"
+       },
+       "words": 786,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t028_45e3c43e",
+       "title": {
+        "ru": "1. Run the engine at more than 3000rpm for approx. 4 minutes",
+        "en": "1. Run the engine at more than 3000rpm for approx. 4 minutes"
+       },
+       "words": 786,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t029_4b2203d8",
+       "title": {
+        "ru": "The GO side (marked ‘0’) should just still drop. If the GO",
+        "en": "The GO side (marked ‘0’) should just still drop. If the GO"
+       },
+       "words": 922,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t030_51e8a952",
+       "title": {
+        "ru": "17. Drive in new valve seat ring (2) with a proper wooden drift",
+        "en": "17. Drive in new valve seat ring (2) with a proper wooden drift"
+       },
+       "words": 763,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t031_3e021aa9",
+       "title": {
+        "ru": "Removal and inspection of valve, replace if necessary",
+        "en": "Removal and inspection of valve, replace if necessary"
+       },
+       "words": 820,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t033_31ffc574",
+       "title": {
+        "ru": "7. Install the guide rail (16). Attach the spring (17) to guide rail",
+        "en": "7. Install the guide rail (16). Attach the spring (17) to guide rail"
+       },
+       "words": 804,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t034_e53a5abc",
+       "title": {
+        "ru": "Y Height (crankcase upper surface - crankcase",
+        "en": "Y Height (crankcase upper surface - crankcase"
+       },
+       "words": 770,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t035_03e5e9e6",
+       "title": {
+        "ru": "6. Installation should follow the removal procedure in the",
+        "en": "6. Installation should follow the removal procedure in the"
+       },
+       "words": 904,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t037_6454e9fc",
+       "title": {
+        "ru": "Fastener Tightening Specifications. . . . . . . . 1E1-2",
+        "en": "Fastener Tightening Specifications. . . . . . . . 1E1-2"
+       },
+       "words": 1105,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t038_b2e5beda",
+       "title": {
+        "ru": "The temperature of the glow plug reaches up to 900°C",
+        "en": "The temperature of the glow plug reaches up to 900°C"
+       },
+       "words": 1138,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t039_e04cfb0d",
+       "title": {
+        "ru": "5. Installation should follow the removal procedure in the",
+        "en": "5. Installation should follow the removal procedure in the"
+       },
+       "words": 770,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t040_4dceb0c2",
+       "title": {
+        "ru": "Connect the vacuum",
+        "en": "Connect the vacuum"
+       },
+       "words": 1031,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t041_87c94b45",
+       "title": {
+        "ru": "Coolant temperature",
+        "en": "Coolant temperature"
+       },
+       "words": 893,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t042_18e27c65",
+       "title": {
+        "ru": "4. Prepare the beaker for measuring the amount of fuel",
+        "en": "4. Prepare the beaker for measuring the amount of fuel"
+       },
+       "words": 927,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t043_7f8b6c61",
+       "title": {
+        "ru": "When the fuel pressure goes up, the diaphragm forces the",
+        "en": "When the fuel pressure goes up, the diaphragm forces the"
+       },
+       "words": 824,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t044_4ae229be",
+       "title": {
+        "ru": "The purge switchover valve is activated by the ECU for the",
+        "en": "The purge switchover valve is activated by the ECU for the"
+       },
+       "words": 886,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t045_27fed8e6",
+       "title": {
+        "ru": "High pedal valve sensor SP1 voltage",
+        "en": "High pedal valve sensor SP1 voltage"
+       },
+       "words": 908,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t046_bfa9c3b8",
+       "title": {
+        "ru": "Figure 6. Camshaft Position Sensor Signal",
+        "en": "Figure 6. Camshaft Position Sensor Signal"
+       },
+       "words": 854,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t047_f50b4cc9",
+       "title": {
+        "ru": "4. Prepare the beaker for measuring the amount of fuel",
+        "en": "4. Prepare the beaker for measuring the amount of fuel"
+       },
+       "words": 845,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t048_72792f64",
+       "title": {
+        "ru": "7. Check for fuel pressure and internal leaks by operating the",
+        "en": "7. Check for fuel pressure and internal leaks by operating the"
+       },
+       "words": 769,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t049_2d4d019f",
+       "title": {
+        "ru": "The purge switchover valve is activated by the ECU for the",
+        "en": "The purge switchover valve is activated by the ECU for the"
+       },
+       "words": 983,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t050_3f314307",
+       "title": {
+        "ru": "2. Insert the plastic hose (5) and put the end into the measuring",
+        "en": "2. Insert the plastic hose (5) and put the end into the measuring"
+       },
+       "words": 748,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t051_72cf1035",
+       "title": {
+        "ru": "6. Assemble the injection nozzle so that the tip of the thrust",
+        "en": "6. Assemble the injection nozzle so that the tip of the thrust"
+       },
+       "words": 816,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t052_274d7398",
+       "title": {
+        "ru": "2. Install the Rl sensor into the governor housing of injection",
+        "en": "2. Install the Rl sensor into the governor housing of injection"
+       },
+       "words": 777,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t054_57e6cdd4",
+       "title": {
+        "ru": "7. Select \"Self-diagnosis\" from diagnosis item selection display",
+        "en": "7. Select \"Self-diagnosis\" from diagnosis item selection display"
+       },
+       "words": 792,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t056_96292438",
+       "title": {
+        "ru": "Figure 3.3 - Temperature Sensor Location in Solenoid Loom",
+        "en": "Figure 3.3 - Temperature Sensor Location in Solenoid Loom"
+       },
+       "words": 1544,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t057_c14442f4",
+       "title": {
+        "ru": "The potentiometer is connected to the TCU by three wires",
+        "en": "The potentiometer is connected to the TCU by three wires"
+       },
+       "words": 2032,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t058_8b274add",
+       "title": {
+        "ru": "The addition of the damper and piston assembly enables the",
+        "en": "The addition of the damper and piston assembly enables the"
+       },
+       "words": 2960,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t059_50d26dfd",
+       "title": {
+        "ru": "Drives jewel in the instrument cluster to indi-",
+        "en": "Drives jewel in the instrument cluster to indi-"
+       },
+       "words": 1928,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t060_7ff81b3a",
+       "title": {
+        "ru": "Repair C1. Inspect and replace the ball as neces-",
+        "en": "Repair C1. Inspect and replace the ball as neces-"
+       },
+       "words": 962,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t061_f86073b8",
+       "title": {
+        "ru": "6. Remove the circlip retaining the C3 clutch hub in the rear of",
+        "en": "6. Remove the circlip retaining the C3 clutch hub in the rear of"
+       },
+       "words": 1185,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t062_e386645b",
+       "title": {
+        "ru": "10. Remove the two filters (and the large nylon check ball) from the",
+        "en": "10. Remove the two filters (and the large nylon check ball) from the"
+       },
+       "words": 905,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t063_cfb18aae",
+       "title": {
+        "ru": "15. Position the cylinder with the C1 cavity upwards. Install the",
+        "en": "15. Position the cylinder with the C1 cavity upwards. Install the"
+       },
+       "words": 988,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t064_1232f512",
+       "title": {
+        "ru": "3. Ensure that the internal line pressure plus in the valve body is fitted",
+        "en": "3. Ensure that the internal line pressure plus in the valve body is fitted"
+       },
+       "words": 907,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t065_1a902867",
+       "title": {
+        "ru": "Using a service connector, connect it to the diagnosis box",
+        "en": "Using a service connector, connect it to the diagnosis box"
+       },
+       "words": 993,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t066_f2a14b6d",
+       "title": {
+        "ru": "2. Install the motor to the shift shaft and contact cover androtate",
+        "en": "2. Install the motor to the shift shaft and contact cover androtate"
+       },
+       "words": 831,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t067_7796b7fe",
+       "title": {
+        "ru": "4. During a shift attempt, the shift motor will be energized for a",
+        "en": "4. During a shift attempt, the shift motor will be energized for a"
+       },
+       "words": 1369,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t068_9c7cb5f8",
+       "title": {
+        "ru": "Check the fault condition of the relevant connector",
+        "en": "Check the fault condition of the relevant connector"
+       },
+       "words": 864,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t069_099dd4d6",
+       "title": {
+        "ru": "Applying long-life grease spline inside transfer case input",
+        "en": "Applying long-life grease spline inside transfer case input"
+       },
+       "words": 1019,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t070_1fb9de9f",
+       "title": {
+        "ru": "Fastener Tightening Specifications. . . . . . . 7B/C-3",
+        "en": "Fastener Tightening Specifications. . . . . . . 7B/C-3"
+       },
+       "words": 935,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t071_c1ccfa4d",
+       "title": {
+        "ru": "2. Remove the linkage connected to the wiper motor",
+        "en": "2. Remove the linkage connected to the wiper motor"
+       },
+       "words": 1085,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t072_8831dc34",
+       "title": {
+        "ru": "1. It is only possible to release the burglar alarm when unlocking",
+        "en": "1. It is only possible to release the burglar alarm when unlocking"
+       },
+       "words": 1564,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_engine_t073_cd2ffe01",
+       "title": {
+        "ru": "5. Immobilizer programming",
+        "en": "5. Immobilizer programming"
+       },
+       "words": 365,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_brakes_t000_84bb0a58",
+       "title": {
+        "ru": "Safety stands are required whenever a procedure calls for",
+        "en": "Safety stands are required whenever a procedure calls for"
+       },
+       "words": 918,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_brakes_t001_5ce7a3c9",
+       "title": {
+        "ru": "4. Remove the mounting bolts and pull off the caliper assembly",
+        "en": "4. Remove the mounting bolts and pull off the caliper assembly"
+       },
+       "words": 811,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_brakes_t002_77a85dec",
+       "title": {
+        "ru": "1. Check the oil level from the oil reservoir and refill if necessary",
+        "en": "1. Check the oil level from the oil reservoir and refill if necessary"
+       },
+       "words": 930,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_brakes_t004_7f36f7d8",
+       "title": {
+        "ru": "During ABD active, the ABD information lamp is blinking",
+        "en": "During ABD active, the ABD information lamp is blinking"
+       },
+       "words": 1189,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_brakes_t005_b904e67c",
+       "title": {
+        "ru": "2. Remove the hydraulic lines of the hydraulic unit",
+        "en": "2. Remove the hydraulic lines of the hydraulic unit"
+       },
+       "words": 924,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_brakes_t006_097d5b6d",
+       "title": {
+        "ru": "Immobilizer Antenna",
+        "en": "Immobilizer Antenna"
+       },
+       "words": 45,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t000_eb00e3ea",
+       "title": {
+        "ru": "On vehicles with movable head restraints, the restraints",
+        "en": "On vehicles with movable head restraints, the restraints"
+       },
+       "words": 997,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t001_d6f01735",
+       "title": {
+        "ru": "The blowby gas in the crankcase in partial load flows into",
+        "en": "The blowby gas in the crankcase in partial load flows into"
+       },
+       "words": 964,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t002_534b4fff",
+       "title": {
+        "ru": "3. Pull out the upper guide rail pin from the guide rail (2)",
+        "en": "3. Pull out the upper guide rail pin from the guide rail (2)"
+       },
+       "words": 842,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t003_b62c602b",
+       "title": {
+        "ru": "Preceding Work : Removal of cooling fan and shroud",
+        "en": "Preceding Work : Removal of cooling fan and shroud"
+       },
+       "words": 862,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t004_f56b96a2",
+       "title": {
+        "ru": "2. Unscrew the bolts (4,5) and remove the oil strainer assembly",
+        "en": "2. Unscrew the bolts (4,5) and remove the oil strainer assembly"
+       },
+       "words": 939,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t005_0f0175a3",
+       "title": {
+        "ru": "19. Coat the new crankshaft with engine oil and place it on the",
+        "en": "19. Coat the new crankshaft with engine oil and place it on the"
+       },
+       "words": 815,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t007_caa7a61d",
+       "title": {
+        "ru": "2. Add the coolant to the arrow mark of coolant reservoir",
+        "en": "2. Add the coolant to the arrow mark of coolant reservoir"
+       },
+       "words": 743,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t008_0bb695fd",
+       "title": {
+        "ru": "4. Connect the pin 63(+) and 69(-) of the contact box with a",
+        "en": "4. Connect the pin 63(+) and 69(-) of the contact box with a"
+       },
+       "words": 950,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t009_d5c50d45",
+       "title": {
+        "ru": "1. Disconnect the return pipe from fuel distributor and insert",
+        "en": "1. Disconnect the return pipe from fuel distributor and insert"
+       },
+       "words": 825,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t011_03128c33",
+       "title": {
+        "ru": "2. Remove the 23 nuts (1) from the stud bolt, and remove the",
+        "en": "2. Remove the 23 nuts (1) from the stud bolt, and remove the"
+       },
+       "words": 878,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t014_81310808",
+       "title": {
+        "ru": "4. Align the alignment marks and install the front and rear",
+        "en": "4. Align the alignment marks and install the front and rear"
+       },
+       "words": 760,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t015_849245bb",
+       "title": {
+        "ru": "Table 3.3 - Readings for Resistance/Shift Lever Positions",
+        "en": "Table 3.3 - Readings for Resistance/Shift Lever Positions"
+       },
+       "words": 1707,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t016_b4e10a80",
+       "title": {
+        "ru": "The current to solenoid 5 was outside acceptable limits",
+        "en": "The current to solenoid 5 was outside acceptable limits"
+       },
+       "words": 1037,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t017_468aa73b",
+       "title": {
+        "ru": "Replace if necessary (RWD models). Install the new bearing",
+        "en": "Replace if necessary (RWD models). Install the new bearing"
+       },
+       "words": 1156,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t018_06393156",
+       "title": {
+        "ru": "7. Remove the roll pin from either the offset lever or extension",
+        "en": "7. Remove the roll pin from either the offset lever or extension"
+       },
+       "words": 714,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t019_1b4119a2",
+       "title": {
+        "ru": "Apply RTV sealant to the sealing surface of the retainer",
+        "en": "Apply RTV sealant to the sealing surface of the retainer"
+       },
+       "words": 983,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t020_3183d5c1",
+       "title": {
+        "ru": "Transfer Case Control Unit (TCCU) . . . . . . 5D1-36",
+        "en": "Transfer Case Control Unit (TCCU) . . . . . . 5D1-36"
+       },
+       "words": 796,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t021_a1a92596",
+       "title": {
+        "ru": "2. Press the pin, roller and retainer into the reduction spilt fork",
+        "en": "2. Press the pin, roller and retainer into the reduction spilt fork"
+       },
+       "words": 1085,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t022_f379f4e0",
+       "title": {
+        "ru": "Check output signal from throttle position sensor 1 and 2",
+        "en": "Check output signal from throttle position sensor 1 and 2"
+       },
+       "words": 849,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t023_072822e8",
+       "title": {
+        "ru": "21. If removed, drive the front output shaft ball bearing into",
+        "en": "21. If removed, drive the front output shaft ball bearing into"
+       },
+       "words": 1162,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t024_6aae6462",
+       "title": {
+        "ru": "3. Disconnect the high / low pressure pipe and wire connectors",
+        "en": "3. Disconnect the high / low pressure pipe and wire connectors"
+       },
+       "words": 717,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t025_192b66fb",
+       "title": {
+        "ru": "2. Disconnect water sensor 2-pin connector that installed on",
+        "en": "2. Disconnect water sensor 2-pin connector that installed on"
+       },
+       "words": 855,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t026_af1ce0e4",
+       "title": {
+        "ru": "7. Select “Self-diagnosis” from diagnosis item selection display",
+        "en": "7. Select “Self-diagnosis” from diagnosis item selection display"
+       },
+       "words": 1223,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t027_f5e981ae",
+       "title": {
+        "ru": "1. In case of melting out the fuse owing to the over-voltage",
+        "en": "1. In case of melting out the fuse owing to the over-voltage"
+       },
+       "words": 773,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_hvac_t028_0cfd2ca0",
+       "title": {
+        "ru": "6. Installation should follow the removal procedure in the",
+        "en": "6. Installation should follow the removal procedure in the"
+       },
+       "words": 87,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_body_t000_d3bfe149",
+       "title": {
+        "ru": "2. Unscrew bolts and remove vertical sensor and lateral sensor",
+        "en": "2. Unscrew bolts and remove vertical sensor and lateral sensor"
+       },
+       "words": 854,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_body_t001_82ff9495",
+       "title": {
+        "ru": "Make sure that the nylon wear pads are installed on the",
+        "en": "Make sure that the nylon wear pads are installed on the"
+       },
+       "words": 969,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_body_t002_50ef317f",
+       "title": {
+        "ru": "4. Adjust latch lever to the center of striker and tighten the",
+        "en": "4. Adjust latch lever to the center of striker and tighten the"
+       },
+       "words": 969,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_body_t003_39bdf0bf",
+       "title": {
+        "ru": "2. Set the input switch of the REKES receiver onto the No.1 or",
+        "en": "2. Set the input switch of the REKES receiver onto the No.1 or"
+       },
+       "words": 917,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_body_t004_f44aa618",
+       "title": {
+        "ru": "Input checking function",
+        "en": "Input checking function"
+       },
+       "words": 206,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_lighting_t000_254a22ae",
+       "title": {
+        "ru": "Be alert to changes in the steering action. An inspection",
+        "en": "Be alert to changes in the steering action. An inspection"
+       },
+       "words": 909,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_lighting_t001_c8c9540a",
+       "title": {
+        "ru": "1. Loosen the air duct hose clamp and then remove the air",
+        "en": "1. Loosen the air duct hose clamp and then remove the air"
+       },
+       "words": 955,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_lighting_t002_ad7a54b8",
+       "title": {
+        "ru": "3. Holding each sprocket to be the drive chain tight and parallel",
+        "en": "3. Holding each sprocket to be the drive chain tight and parallel"
+       },
+       "words": 1227,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_lighting_t003_2f022ce1",
+       "title": {
+        "ru": "Air bag unit has diagnosis functions and indicates system",
+        "en": "Air bag unit has diagnosis functions and indicates system"
+       },
+       "words": 1285,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_lighting_t004_287b6628",
+       "title": {
+        "ru": "3) If the voltage indicates 12V at point “A” , it is considered",
+        "en": "3) If the voltage indicates 12V at point “A” , it is considered"
+       },
+       "words": 975,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_lighting_t005_bc3b1b84",
+       "title": {
+        "ru": "6) Find out where the voltage abruptly changes to the 12V",
+        "en": "6) Find out where the voltage abruptly changes to the 12V"
+       },
+       "words": 38,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_interior_t000_bb37cc49",
+       "title": {
+        "ru": "6. If previously dismantled, assemble the ring gear to the output",
+        "en": "6. If previously dismantled, assemble the ring gear to the output"
+       },
+       "words": 1020,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_ev_t000_e9c65911",
+       "title": {
+        "ru": "2. Check if the specific gravity of the electrolyte is within the",
+        "en": "2. Check if the specific gravity of the electrolyte is within the"
+       },
+       "words": 1264,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_ev_t001_798d936b",
+       "title": {
+        "ru": "Fastener Tightening Specifications. . . . . . . . . 4G-1",
+        "en": "Fastener Tightening Specifications. . . . . . . . . 4G-1"
+       },
+       "words": 2566,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_ev_t003_95df9033",
+       "title": {
+        "ru": "1. To service, turn the ignition switch to ‘LOCK’ position and",
+        "en": "1. To service, turn the ignition switch to ‘LOCK’ position and"
+       },
+       "words": 1198,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_ev_t004_9273b228",
+       "title": {
+        "ru": "5. Installation should follow the removal procedure in the",
+        "en": "5. Installation should follow the removal procedure in the"
+       },
+       "words": 330,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_chassis_t000_d44a60fa",
+       "title": {
+        "ru": "Inspect the disc brake pads for wear. Inspect the rotors",
+        "en": "Inspect the disc brake pads for wear. Inspect the rotors"
+       },
+       "words": 804,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_chassis_t002_d2eaa960",
+       "title": {
+        "ru": "If the vehicle has too much positive camber, the outside",
+        "en": "If the vehicle has too much positive camber, the outside"
+       },
+       "words": 994,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_chassis_t003_4cfee1f8",
+       "title": {
+        "ru": "Preceding Work : Removal of the front axle drive shaft",
+        "en": "Preceding Work : Removal of the front axle drive shaft"
+       },
+       "words": 1090,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_chassis_t004_9ba70fe5",
+       "title": {
+        "ru": "13. Install the detent lever drive pin in the shaft using tool No",
+        "en": "13. Install the detent lever drive pin in the shaft using tool No"
+       },
+       "words": 1021,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_chassis_t005_93d4821a",
+       "title": {
+        "ru": "18. Apply ‘RTV’ sealant on the sealing surface of the extension",
+        "en": "18. Apply ‘RTV’ sealant on the sealing surface of the extension"
+       },
+       "words": 972,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_chassis_t006_827470f1",
+       "title": {
+        "ru": "2. Insert the end of the shift shaft into the spacer smoothly",
+        "en": "2. Insert the end of the shift shaft into the spacer smoothly"
+       },
+       "words": 930,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_chassis_t008_3cfdc4d0",
+       "title": {
+        "ru": "2. Unscrew 3 screws from lower cover on steering column shaft",
+        "en": "2. Unscrew 3 screws from lower cover on steering column shaft"
+       },
+       "words": 951,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_chassis_t009_95779773",
+       "title": {
+        "ru": "Display of defectives relevant to immobilizer system",
+        "en": "Display of defectives relevant to immobilizer system"
+       },
+       "words": 75,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_general_t000_9931b9a9",
+       "title": {
+        "ru": "Vehicle Dimensions and Weights . . . . . . . . . . 0B-5",
+        "en": "Vehicle Dimensions and Weights . . . . . . . . . . 0B-5"
+       },
+       "words": 1263,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t001_167edf8d",
+       "title": {
+        "ru": "2. Remove the start motor and install the engine lock to the",
+        "en": "2. Remove the start motor and install the engine lock to the"
+       },
+       "words": 794,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t002_0a002392",
+       "title": {
+        "ru": "5. Tap in the steel ball (3) from the side to the oil gallery using",
+        "en": "5. Tap in the steel ball (3) from the side to the oil gallery using"
+       },
+       "words": 932,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t003_6611ac21",
+       "title": {
+        "ru": "5. Apply the engine oil to the dust lip of the radial shaft seal",
+        "en": "5. Apply the engine oil to the dust lip of the radial shaft seal"
+       },
+       "words": 771,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t004_31ec97bc",
+       "title": {
+        "ru": "5. Remove the crankshaft sprocket (4) using the puller (04",
+        "en": "5. Remove the crankshaft sprocket (4) using the puller (04"
+       },
+       "words": 790,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t005_26b821e4",
+       "title": {
+        "ru": "11. Install the bearing caps according to marking and tighten",
+        "en": "11. Install the bearing caps according to marking and tighten"
+       },
+       "words": 773,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t006_cadd5928",
+       "title": {
+        "ru": "Fastener Tightening Specifications. . . . . . . . 1D1-2",
+        "en": "Fastener Tightening Specifications. . . . . . . . 1D1-2"
+       },
+       "words": 1008,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t007_7c06c44e",
+       "title": {
+        "ru": "Crankshaft position sensor adaptation failure",
+        "en": "Crankshaft position sensor adaptation failure"
+       },
+       "words": 919,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t008_2a9566ca",
+       "title": {
+        "ru": "Fuel Pressure and Internal Leakage Test . . 1F2-28",
+        "en": "Fuel Pressure and Internal Leakage Test . . 1F2-28"
+       },
+       "words": 1039,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t009_20a2e56f",
+       "title": {
+        "ru": "3. Disconnect the vacuum hose from the fuel pressure",
+        "en": "3. Disconnect the vacuum hose from the fuel pressure"
+       },
+       "words": 1124,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t010_352b5613",
+       "title": {
+        "ru": "The way in which a tire is built can produce lead/pull in",
+        "en": "The way in which a tire is built can produce lead/pull in"
+       },
+       "words": 1203,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t011_52979ea0",
+       "title": {
+        "ru": "4. If the difference between ‘A’ and ‘B’ is not within specification",
+        "en": "4. If the difference between ‘A’ and ‘B’ is not within specification"
+       },
+       "words": 1052,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t014_61c51775",
+       "title": {
+        "ru": "Indicates ‘WINTER’ mode shift schedule is se-",
+        "en": "Indicates ‘WINTER’ mode shift schedule is se-"
+       },
+       "words": 1183,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t015_a412d312",
+       "title": {
+        "ru": "Fastener Tightening Specifications. . . . . . . . . 5B-2",
+        "en": "Fastener Tightening Specifications. . . . . . . . . 5B-2"
+       },
+       "words": 1069,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t016_47d1bd28",
+       "title": {
+        "ru": "Install the 4th speed blocking ring onto the front of the",
+        "en": "Install the 4th speed blocking ring onto the front of the"
+       },
+       "words": 1022,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t017_61b24a58",
+       "title": {
+        "ru": "2. After cleaning, dry the parts with low pressure (Max. 20 psi)",
+        "en": "2. After cleaning, dry the parts with low pressure (Max. 20 psi)"
+       },
+       "words": 873,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t018_480d5052",
+       "title": {
+        "ru": "Non-Volatile memory. This DTC will remain in memory until",
+        "en": "Non-Volatile memory. This DTC will remain in memory until"
+       },
+       "words": 892,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t019_4e7f5b83",
+       "title": {
+        "ru": "3. After inserting the pipe to the union, tighten the nut by hand",
+        "en": "3. After inserting the pipe to the union, tighten the nut by hand"
+       },
+       "words": 1076,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t020_7968bede",
+       "title": {
+        "ru": "2. Characteristic Signal : Right Picture",
+        "en": "2. Characteristic Signal : Right Picture"
+       },
+       "words": 1274,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_general_t021_864964f5",
+       "title": {
+        "ru": "12. Coupled with REKES mode",
+        "en": "12. Coupled with REKES mode"
+       },
+       "words": 527,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_sensors_t000_839301ca",
+       "title": {
+        "ru": "Fastener Tightening Specifications. . . . . . . . 1F1-2",
+        "en": "Fastener Tightening Specifications. . . . . . . . 1F1-2"
+       },
+       "words": 1093,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_sensors_t001_f8524dec",
+       "title": {
+        "ru": "2. Measure the resistance between the coupling terminal pin",
+        "en": "2. Measure the resistance between the coupling terminal pin"
+       },
+       "words": 827,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_sensors_t002_b1cf4fa2",
+       "title": {
+        "ru": "Fastener Tightening Specifications. . . . . . . . 1F2-2",
+        "en": "Fastener Tightening Specifications. . . . . . . . 1F2-2"
+       },
+       "words": 948,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_sensors_t003_cbef39f1",
+       "title": {
+        "ru": "3. Remove the fuel distributor and injector with a unit. At this",
+        "en": "3. Remove the fuel distributor and injector with a unit. At this"
+       },
+       "words": 880,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_sensors_t004_abcc89c6",
+       "title": {
+        "ru": "2. Unscrew the 2 bolts (3) / 1 nut (6) and remove the pedal",
+        "en": "2. Unscrew the 2 bolts (3) / 1 nut (6) and remove the pedal"
+       },
+       "words": 903,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_sensors_t005_86cf13b1",
+       "title": {
+        "ru": "Check connection status of CAN communication line towards",
+        "en": "Check connection status of CAN communication line towards"
+       },
+       "words": 1317,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_sensors_t006_27bcb4b4",
+       "title": {
+        "ru": "Ambient sensor is a sensor that detects ambient temperature",
+        "en": "Ambient sensor is a sensor that detects ambient temperature"
+       },
+       "words": 885,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_sensors_t007_ff24e2df",
+       "title": {
+        "ru": "1. Check current on the circuits between the sun load sensor",
+        "en": "1. Check current on the circuits between the sun load sensor"
+       },
+       "words": 1211,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_sensors_t008_701dedc9",
+       "title": {
+        "ru": "Immobilizer No.4 wire (0.5Y) =",
+        "en": "Immobilizer No.4 wire (0.5Y) ="
+       },
+       "words": 170,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_drivetrain_t000_0ff75628",
+       "title": {
+        "ru": "1. Install the holder (special tool : 111 589 00 40 00) to the bolt",
+        "en": "1. Install the holder (special tool : 111 589 00 40 00) to the bolt"
+       },
+       "words": 1216,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_drivetrain_t001_59cd1c4d",
+       "title": {
+        "ru": "Figure 3.1 details a typical TCU control system schematic",
+        "en": "Figure 3.1 details a typical TCU control system schematic"
+       },
+       "words": 1217,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_drivetrain_t002_a32c348b",
+       "title": {
+        "ru": "Each power flow is described in the following sections",
+        "en": "Each power flow is described in the following sections"
+       },
+       "words": 1680,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_drivetrain_t003_e817b227",
+       "title": {
+        "ru": "To disassemble the transmission, proceed as follows",
+        "en": "To disassemble the transmission, proceed as follows"
+       },
+       "words": 1169,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_drivetrain_t004_ba306d3a",
+       "title": {
+        "ru": "5. If new friction plates are being fitted, remove the clutch pack",
+        "en": "5. If new friction plates are being fitted, remove the clutch pack"
+       },
+       "words": 856,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_drivetrain_t005_4855be98",
+       "title": {
+        "ru": "Will not Shift (Control Lever Moves) . . . . . . . . 5B-5",
+        "en": "Will not Shift (Control Lever Moves) . . . . . . . . 5B-5"
+       },
+       "words": 1181,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ssangyong_ssangyong_korando_drivetrain_t007_a877790e",
+       "title": {
+        "ru": "Shaft Bearing Replacer and Driver Handle. Make sure that",
+        "en": "Shaft Bearing Replacer and Driver Handle. Make sure that"
+       },
+       "words": 301,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "ssangyong_ssangyong_korando_infotainment_t000_213bbdd7",
+       "title": {
+        "ru": "5. If more then 2 part is malfunctioning, the first malfunctioning",
+        "en": "5. If more then 2 part is malfunctioning, the first malfunctioning"
+       },
+       "words": 555,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

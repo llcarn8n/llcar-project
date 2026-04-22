@@ -1,0 +1,1654 @@
+{
+ "version": "1.0",
+ "model": "e_hs9",
+ "manuals": [
+  {
+   "model": "e_hs9",
+   "label": {
+    "ru": "Hongqi E Hs9 — Руководство по ремонту",
+    "en": "Hongqi E Hs9 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "hongqi_e_hs9_brakes_t000_01479b95",
+       "title": {
+        "ru": "2 Check the harness and connector of two rear brake calipers for open circuit",
+        "en": "2 Check the harness and connector of two rear brake calipers for open circuit"
+       },
+       "words": 1257,
+       "images": 49,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hongqi_e_hs9_brakes_t001_df3dd74b",
+       "title": {
+        "ru": "1. Install the rear brake caliper assembly",
+        "en": "1. Install the rear brake caliper assembly"
+       },
+       "words": 3148,
+       "images": 85,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "hongqi_e_hs9_suspension_t000_0ef87fb9",
+       "title": {
+        "ru": "3. Disengage the MSD （ CH-44）",
+        "en": "3. Disengage the MSD （ CH-44）"
+       },
+       "words": 1668,
+       "images": 37,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "hongqi_e_hs9_electrical_t000_dae643a2",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 1547,
+       "images": 21,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "hongqi_e_hs9_hvac_t000_2bf199f2",
+       "title": {
+        "ru": "3 Check whether there is any blockage outside the condenser. （ PB-143）",
+        "en": "3 Check whether there is any blockage outside the condenser. （ PB-143）"
+       },
+       "words": 1370,
+       "images": 31,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "hongqi_e_hs9_body_t000_4cc3c2ee",
+       "title": {
+        "ru": "4 Replace the left front door power window regulator WS-15）",
+        "en": "4 Replace the left front door power window regulator WS-15）"
+       },
+       "words": 2491,
+       "images": 40,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_e_hs9_body_t002_952f3c24",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 856,
+       "images": 44,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_e_hs9_body_t003_f8c45bb2",
+       "title": {
+        "ru": "4 Replace the left rear door lock (electric priming) DL-19）",
+        "en": "4 Replace the left rear door lock (electric priming) DL-19）"
+       },
+       "words": 815,
+       "images": 40,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_e_hs9_body_t005_63bc0d96",
+       "title": {
+        "ru": "6 Replace the trunk back door lock self-priming module DL-37）",
+        "en": "6 Replace the trunk back door lock self-priming module DL-37）"
+       },
+       "words": 3559,
+       "images": 120,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_e_hs9_body_t006_82512f17",
+       "title": {
+        "ru": "6. Check the right front door lock assembly",
+        "en": "6. Check the right front door lock assembly"
+       },
+       "words": 3837,
+       "images": 102,
+       "section_id": "body"
+      },
+      {
+       "id": "hongqi_e_hs9_body_t007_1b65cf15",
+       "title": {
+        "ru": "1. Install the left rear door window channel",
+        "en": "1. Install the left rear door window channel"
+       },
+       "words": 1946,
+       "images": 34,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "hongqi_e_hs9_steering_t000_e37375a1",
+       "title": {
+        "ru": "1. New air spring & continuous damping control vibration damper assembly",
+        "en": "1. New air spring & continuous damping control vibration damper assembly"
+       },
+       "words": 3398,
+       "images": 80,
+       "section_id": "steering"
+      },
+      {
+       "id": "hongqi_e_hs9_steering_t001_36e05db9",
+       "title": {
+        "ru": "2. Install the left front drive shaft assembly",
+        "en": "2. Install the left front drive shaft assembly"
+       },
+       "words": 1341,
+       "images": 22,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "fuel_ev",
+     "title": {
+      "ru": "Топливная / ВВ система",
+      "en": "Fuel / HV System"
+     },
+     "icon": "⛽",
+     "topics": [
+      {
+       "id": "hongqi_e_hs9_fuel_ev_t000_e3a65ff0",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 436,
+       "images": 16,
+       "section_id": "fuel_ev"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": []
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "hongqi_e_hs9_adas_t000_a6836b79",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 336,
+       "images": 18,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "hongqi_e_hs9_interior_t000_98a4e8e4",
+       "title": {
+        "ru": "10. Install the driver seat headrest assembly",
+        "en": "10. Install the driver seat headrest assembly"
+       },
+       "words": 2412,
+       "images": 70,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "hongqi_e_hs9_general_t000_f2fabc20",
+       "title": {
+        "ru": "3. Safe operation steps for recovering high-voltage loop",
+        "en": "3. Safe operation steps for recovering high-voltage loop"
+       },
+       "words": 1866,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t001_9b5dee2a",
+       "title": {
+        "ru": "8. Inspection of DC system insulation resistance (except for power battery)",
+        "en": "8. Inspection of DC system insulation resistance (except for power battery)"
+       },
+       "words": 2427,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t002_1f4b2fa7",
+       "title": {
+        "ru": "3. Removal and installation of battery terminal",
+        "en": "3. Removal and installation of battery terminal"
+       },
+       "words": 1797,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t003_3cb98343",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 433,
+       "images": 67,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t009_d9769cd4",
+       "title": {
+        "ru": "6 Check right C-pillar charging indicator ambient lamp for power supply",
+        "en": "6 Check right C-pillar charging indicator ambient lamp for power supply"
+       },
+       "words": 554,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t011_23ad2b05",
+       "title": {
+        "ru": "4 Check the electric water pump 2 power supply",
+        "en": "4 Check the electric water pump 2 power supply"
+       },
+       "words": 629,
+       "images": 60,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t012_9cf62505",
+       "title": {
+        "ru": "Electric drive system inverter",
+        "en": "Electric drive system inverter"
+       },
+       "words": 1070,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t013_e7fa9325",
+       "title": {
+        "ru": "1 Check the inverter (245kw) of the RWD electric drive system for DTC output",
+        "en": "1 Check the inverter (245kw) of the RWD electric drive system for DTC output"
+       },
+       "words": 542,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t015_b5f01a77",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 844,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t017_8a57abac",
+       "title": {
+        "ru": "1 Check the inverter (160kw) of the RWD electric drive system for DTC output",
+        "en": "1 Check the inverter (160kw) of the RWD electric drive system for DTC output"
+       },
+       "words": 1513,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t020_7900a0c8",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 958,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t021_6e8edc28",
+       "title": {
+        "ru": "Replace the reducer oil of the 160KW electric drive system assembly",
+        "en": "Replace the reducer oil of the 160KW electric drive system assembly"
+       },
+       "words": 1696,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t022_425dad46",
+       "title": {
+        "ru": "BCU interface and harness diagram",
+        "en": "BCU interface and harness diagram"
+       },
+       "words": 2312,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t023_babb298f",
+       "title": {
+        "ru": "Replace the BCU（ PB-179）",
+        "en": "Replace the BCU（ PB-179）"
+       },
+       "words": 719,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t024_66847b96",
+       "title": {
+        "ru": "2 Check the internal module, harness and BMU of power battery",
+        "en": "2 Check the internal module, harness and BMU of power battery"
+       },
+       "words": 629,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t025_ca1bcad4",
+       "title": {
+        "ru": "4 Check the harness and connector (BCU (CN1:1376350-2) distribution box)",
+        "en": "4 Check the harness and connector (BCU (CN1:1376350-2) distribution box)"
+       },
+       "words": 907,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t026_381ed7fe",
+       "title": {
+        "ru": "6 Check the harness and connector (screening module-sampling sub-board)",
+        "en": "6 Check the harness and connector (screening module-sampling sub-board)"
+       },
+       "words": 983,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t027_d81c5635",
+       "title": {
+        "ru": "5 Check the internal harness and connector of power battery",
+        "en": "5 Check the internal harness and connector of power battery"
+       },
+       "words": 1260,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t029_947ba437",
+       "title": {
+        "ru": "2 Check the charging CAN harness and terminal resistance",
+        "en": "2 Check the charging CAN harness and terminal resistance"
+       },
+       "words": 572,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t030_39d4f1c7",
+       "title": {
+        "ru": "Repair or replace the harnesses and connector",
+        "en": "Repair or replace the harnesses and connector"
+       },
+       "words": 588,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t031_b95f3004",
+       "title": {
+        "ru": "2 Check the internal module, harness and BMU of power battery",
+        "en": "2 Check the internal module, harness and BMU of power battery"
+       },
+       "words": 468,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t032_06af8cf6",
+       "title": {
+        "ru": "4 Check whether the sampling accuracy of the BCU total voltage is normal",
+        "en": "4 Check whether the sampling accuracy of the BCU total voltage is normal"
+       },
+       "words": 869,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t033_b50e4076",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 494,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t035_f2079ebb",
+       "title": {
+        "ru": "3 Check the terminal resistance CN4-1318853-2 of BCU",
+        "en": "3 Check the terminal resistance CN4-1318853-2 of BCU"
+       },
+       "words": 474,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t037_0fe78e29",
+       "title": {
+        "ru": "1. Conduct sealing detection of the high-voltage power battery cooling system",
+        "en": "1. Conduct sealing detection of the high-voltage power battery cooling system"
+       },
+       "words": 2707,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t038_980c37eb",
+       "title": {
+        "ru": "5. Remove the power battery distribution box output connector socket",
+        "en": "5. Remove the power battery distribution box output connector socket"
+       },
+       "words": 3432,
+       "images": 53,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t039_1bbb8df9",
+       "title": {
+        "ru": "3. Removal and installation of battery terminal",
+        "en": "3. Removal and installation of battery terminal"
+       },
+       "words": 1312,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t040_64c59e37",
+       "title": {
+        "ru": "2 Check the 12V power supply fuse of the integrated OBC DCDC control unit",
+        "en": "2 Check the 12V power supply fuse of the integrated OBC DCDC control unit"
+       },
+       "words": 1240,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t042_c17f3214",
+       "title": {
+        "ru": "Recovery of high-voltage circuit",
+        "en": "Recovery of high-voltage circuit"
+       },
+       "words": 709,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t043_8d5ac16e",
+       "title": {
+        "ru": "2. Install the battery assembly limit bracket",
+        "en": "2. Install the battery assembly limit bracket"
+       },
+       "words": 907,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t044_56638aba",
+       "title": {
+        "ru": "1 Check the LV harness and connector of the charging controller",
+        "en": "1 Check the LV harness and connector of the charging controller"
+       },
+       "words": 576,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t047_06a408c6",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 1961,
+       "images": 75,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t048_34d0d50a",
+       "title": {
+        "ru": "1. Precautions for high-voltage operation",
+        "en": "1. Precautions for high-voltage operation"
+       },
+       "words": 1966,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t049_376b2555",
+       "title": {
+        "ru": "1 Check harness and connector of electronic shift controller",
+        "en": "1 Check harness and connector of electronic shift controller"
+       },
+       "words": 924,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t050_61a6f555",
+       "title": {
+        "ru": "5 Check LIN wire (electronic shift controller shift lever)",
+        "en": "5 Check LIN wire (electronic shift controller shift lever)"
+       },
+       "words": 1782,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t052_1a20ac1f",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 625,
+       "images": 71,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t054_bb68e57a",
+       "title": {
+        "ru": "2 Check the harness and connector of right side curtain airbag for open circuit",
+        "en": "2 Check the harness and connector of right side curtain airbag for open circuit"
+       },
+       "words": 590,
+       "images": 67,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t057_afef18d2",
+       "title": {
+        "ru": "5 Replace the passenger side front impact acceleration sensor（ RS-199）",
+        "en": "5 Replace the passenger side front impact acceleration sensor（ RS-199）"
+       },
+       "words": 577,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t058_eebcb377",
+       "title": {
+        "ru": "1 Check the part number of passenger side impact sensor",
+        "en": "1 Check the part number of passenger side impact sensor"
+       },
+       "words": 1298,
+       "images": 56,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t060_06957e1f",
+       "title": {
+        "ru": "1 The airbag control unit executes the automatic configuration module program",
+        "en": "1 The airbag control unit executes the automatic configuration module program"
+       },
+       "words": 564,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t062_095b27a8",
+       "title": {
+        "ru": "4 Check the harness and connector for open circuit (airbag control unit T-BOX)",
+        "en": "4 Check the harness and connector for open circuit (airbag control unit T-BOX)"
+       },
+       "words": 558,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t063_7cb075d2",
+       "title": {
+        "ru": "1. Install the side air curtain assembly",
+        "en": "1. Install the side air curtain assembly"
+       },
+       "words": 1804,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t064_58c799ad",
+       "title": {
+        "ru": "2. Check the third-row seat belt assembly (the vehicle has not been collided)",
+        "en": "2. Check the third-row seat belt assembly (the vehicle has not been collided)"
+       },
+       "words": 1765,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t066_5181e234",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 908,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t067_4c2959d7",
+       "title": {
+        "ru": "5 Check the left rear wheel speed sensor harness and connector for open circuit",
+        "en": "5 Check the left rear wheel speed sensor harness and connector for open circuit"
+       },
+       "words": 841,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t068_b70dbd06",
+       "title": {
+        "ru": "3 Check the brake switch harness and connector for short circuit to ground",
+        "en": "3 Check the brake switch harness and connector for short circuit to ground"
+       },
+       "words": 862,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t069_6724d05c",
+       "title": {
+        "ru": "1 The ESCU executes the automatic configuration module program",
+        "en": "1 The ESCU executes the automatic configuration module program"
+       },
+       "words": 515,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t071_10eb3532",
+       "title": {
+        "ru": "1 Check the harness and connector of pedal displacement sensor",
+        "en": "1 Check the harness and connector of pedal displacement sensor"
+       },
+       "words": 719,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t072_4651df84",
+       "title": {
+        "ru": "5 Check the power supply voltage of the pedal displacement sensor",
+        "en": "5 Check the power supply voltage of the pedal displacement sensor"
+       },
+       "words": 582,
+       "images": 63,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t073_628f1ba6",
+       "title": {
+        "ru": "1 The I-BOOST control unit executes the automatic configuration module program",
+        "en": "1 The I-BOOST control unit executes the automatic configuration module program"
+       },
+       "words": 702,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t074_818eab92",
+       "title": {
+        "ru": "2 Check the harness and connector of the wheel speed sensor",
+        "en": "2 Check the harness and connector of the wheel speed sensor"
+       },
+       "words": 869,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t075_b3aab55b",
+       "title": {
+        "ru": "Electronic booster with master cylinder and reservoir assembly",
+        "en": "Electronic booster with master cylinder and reservoir assembly"
+       },
+       "words": 1765,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t078_4da2330c",
+       "title": {
+        "ru": "1. Power (ignition) switch notation",
+        "en": "1. Power (ignition) switch notation"
+       },
+       "words": 873,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t079_503b5f83",
+       "title": {
+        "ru": "2 Check the power supply of EPS control unit (IG)",
+        "en": "2 Check the power supply of EPS control unit (IG)"
+       },
+       "words": 482,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t080_668bd016",
+       "title": {
+        "ru": "2 Check the harness and connector of ESCU and driving mode control unit",
+        "en": "2 Check the harness and connector of ESCU and driving mode control unit"
+       },
+       "words": 1255,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t081_d3d91313",
+       "title": {
+        "ru": "Method for adjusting the suspension design attitude",
+        "en": "Method for adjusting the suspension design attitude"
+       },
+       "words": 1461,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t082_45399a65",
+       "title": {
+        "ru": "1. Assemble the front vibration damper assembly",
+        "en": "1. Assemble the front vibration damper assembly"
+       },
+       "words": 2026,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t083_26cfe767",
+       "title": {
+        "ru": "(g) Automatic adjustment with engine shutdown",
+        "en": "(g) Automatic adjustment with engine shutdown"
+       },
+       "words": 1956,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t084_94f1cd05",
+       "title": {
+        "ru": "1 Check the air compressor temperature sensor power supply",
+        "en": "1 Check the air compressor temperature sensor power supply"
+       },
+       "words": 699,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t088_016d75e5",
+       "title": {
+        "ru": "2 Check the power line of air compressor motor for short circuited to ground",
+        "en": "2 Check the power line of air compressor motor for short circuited to ground"
+       },
+       "words": 697,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t089_e2ba2b50",
+       "title": {
+        "ru": "1 Check the control terminal of AirS relay for short circuit to power supply",
+        "en": "1 Check the control terminal of AirS relay for short circuit to power supply"
+       },
+       "words": 693,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t090_73b2b376",
+       "title": {
+        "ru": "Replace the AirS solenoid valve （ AS-153）",
+        "en": "Replace the AirS solenoid valve （ AS-153）"
+       },
+       "words": 706,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t091_5a29ad74",
+       "title": {
+        "ru": "4 Replace the right front continuous damping control vibration damper （AS-171）",
+        "en": "4 Replace the right front continuous damping control vibration damper （AS-171）"
+       },
+       "words": 2485,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t093_6f5e851f",
+       "title": {
+        "ru": "Trailer identification controller",
+        "en": "Trailer identification controller"
+       },
+       "words": 1669,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t094_159d94fe",
+       "title": {
+        "ru": "5 Check the power supply of the trailer identification controller",
+        "en": "5 Check the power supply of the trailer identification controller"
+       },
+       "words": 932,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t096_0d1d15f5",
+       "title": {
+        "ru": "2. The BCM has the following functions",
+        "en": "2. The BCM has the following functions"
+       },
+       "words": 852,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t097_92bacc72",
+       "title": {
+        "ru": "2 Check the harness and connector of IG1 relay for open circuit",
+        "en": "2 Check the harness and connector of IG1 relay for open circuit"
+       },
+       "words": 628,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t098_f9032ea9",
+       "title": {
+        "ru": "2 Check the harness and connector of hazard warning switch for open circuit",
+        "en": "2 Check the harness and connector of hazard warning switch for open circuit"
+       },
+       "words": 656,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t099_43a546ca",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 660,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t100_c0e3a419",
+       "title": {
+        "ru": "1 Check the harness and connector of BCM for open circuit",
+        "en": "1 Check the harness and connector of BCM for open circuit"
+       },
+       "words": 695,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t101_572e2d25",
+       "title": {
+        "ru": "4 Replace the front wiper or rain sensor or sunroof motor control unit",
+        "en": "4 Replace the front wiper or rain sensor or sunroof motor control unit"
+       },
+       "words": 642,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t102_a5aea6ea",
+       "title": {
+        "ru": "1 The BCM executes the automatic configuration module program",
+        "en": "1 The BCM executes the automatic configuration module program"
+       },
+       "words": 610,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t103_2bfcdde2",
+       "title": {
+        "ru": "3 Check the power adjustable steering column control unit ground",
+        "en": "3 Check the power adjustable steering column control unit ground"
+       },
+       "words": 546,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t105_bc4ee218",
+       "title": {
+        "ru": "1. Power (ignition) switch notation",
+        "en": "1. Power (ignition) switch notation"
+       },
+       "words": 1152,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t106_0575b6dc",
+       "title": {
+        "ru": "2 Check the harness and connector of the central lock switch for open circuit",
+        "en": "2 Check the harness and connector of the central lock switch for open circuit"
+       },
+       "words": 491,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t108_ae672649",
+       "title": {
+        "ru": "1. Power (ignition) switch notation",
+        "en": "1. Power (ignition) switch notation"
+       },
+       "words": 394,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t109_ce5bb85a",
+       "title": {
+        "ru": "4 Replace the right front door handle sensor switch （ IR-1）",
+        "en": "4 Replace the right front door handle sensor switch （ IR-1）"
+       },
+       "words": 632,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t111_5800c7d1",
+       "title": {
+        "ru": "4 Replace the left rear door handle induction switch 中 DL-19）",
+        "en": "4 Replace the left rear door handle induction switch 中 DL-19）"
+       },
+       "words": 585,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t112_9a2a534c",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 617,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t114_92af068f",
+       "title": {
+        "ru": "4. General maintenance instructions",
+        "en": "4. General maintenance instructions"
+       },
+       "words": 519,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t115_81444766",
+       "title": {
+        "ru": "1. Precautions for high-voltage operation",
+        "en": "1. Precautions for high-voltage operation"
+       },
+       "words": 1093,
+       "images": 56,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t116_edfdbe35",
+       "title": {
+        "ru": "Replace the driver seat cushion adjustment motor （ SE-90）",
+        "en": "Replace the driver seat cushion adjustment motor （ SE-90）"
+       },
+       "words": 496,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t118_4cfe7cfe",
+       "title": {
+        "ru": "Check the front passenger seat control unit connector power supply",
+        "en": "Check the front passenger seat control unit connector power supply"
+       },
+       "words": 417,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t120_67421209",
+       "title": {
+        "ru": "4 Replace the front passenger seat cushion/backrest/depth heating pad （ SE-90）",
+        "en": "4 Replace the front passenger seat cushion/backrest/depth heating pad （ SE-90）"
+       },
+       "words": 709,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t121_a0c66a7f",
+       "title": {
+        "ru": "Driver seat controller assembly Parts",
+        "en": "Driver seat controller assembly Parts"
+       },
+       "words": 972,
+       "images": 64,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t128_0c980895",
+       "title": {
+        "ru": "Check the harness and connector of left rear combination lamp for short circuit",
+        "en": "Check the harness and connector of left rear combination lamp for short circuit"
+       },
+       "words": 368,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t131_5e5ac776",
+       "title": {
+        "ru": "3 Check the ground of the left IHC (left front combination lamp 3)",
+        "en": "3 Check the ground of the left IHC (left front combination lamp 3)"
+       },
+       "words": 1050,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t133_da2b8897",
+       "title": {
+        "ru": "4 Check the power supply of the right IHC (right front combination lamp 3)",
+        "en": "4 Check the power supply of the right IHC (right front combination lamp 3)"
+       },
+       "words": 1378,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t134_38973dc1",
+       "title": {
+        "ru": "Air conditioning control system",
+        "en": "Air conditioning control system"
+       },
+       "words": 1661,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t135_2f999636",
+       "title": {
+        "ru": "5. Forced defrosting/defogging of front windshield",
+        "en": "5. Forced defrosting/defogging of front windshield"
+       },
+       "words": 863,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t139_8a8c461d",
+       "title": {
+        "ru": "3 Check the heater water valve harness and connector for short circuit to power",
+        "en": "3 Check the heater water valve harness and connector for short circuit to power"
+       },
+       "words": 471,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t141_efe94327",
+       "title": {
+        "ru": "Check the harness and connector of the heater expansion valve for short circuit",
+        "en": "Check the harness and connector of the heater expansion valve for short circuit"
+       },
+       "words": 453,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t147_34e86a43",
+       "title": {
+        "ru": "26. Remove the IP right face blowing duct assembly",
+        "en": "26. Remove the IP right face blowing duct assembly"
+       },
+       "words": 2702,
+       "images": 79,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t152_26b718d7",
+       "title": {
+        "ru": "1 Check the video harness and connector of the A/C control panel",
+        "en": "1 Check the video harness and connector of the A/C control panel"
+       },
+       "words": 1306,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t154_774ac361",
+       "title": {
+        "ru": "Intelligent driving system control unit",
+        "en": "Intelligent driving system control unit"
+       },
+       "words": 745,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t155_a453f781",
+       "title": {
+        "ru": "1 Check the private CAN bus CAN-K and CAN-H for short circuit to each other",
+        "en": "1 Check the private CAN bus CAN-K and CAN-H for short circuit to each other"
+       },
+       "words": 753,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t156_bfc2de8c",
+       "title": {
+        "ru": "Repair or replace the harness and connector",
+        "en": "Repair or replace the harness and connector"
+       },
+       "words": 445,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t157_43931f52",
+       "title": {
+        "ru": "1. Precautions for high-voltage operation",
+        "en": "1. Precautions for high-voltage operation"
+       },
+       "words": 761,
+       "images": 56,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t158_9292da02",
+       "title": {
+        "ru": "4 Check the power supply of the forward MMW radar",
+        "en": "4 Check the power supply of the forward MMW radar"
+       },
+       "words": 939,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t160_64bf392a",
+       "title": {
+        "ru": "Forward MMW radar assembly Parts",
+        "en": "Forward MMW radar assembly Parts"
+       },
+       "words": 1051,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t161_4071593a",
+       "title": {
+        "ru": "Inspection procedures",
+        "en": "Inspection procedures"
+       },
+       "words": 555,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t162_0bad11f4",
+       "title": {
+        "ru": "Parking assist (PA) system controller assembly",
+        "en": "Parking assist (PA) system controller assembly"
+       },
+       "words": 1005,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t163_47dc6c0f",
+       "title": {
+        "ru": "Front camera and bracket assembly",
+        "en": "Front camera and bracket assembly"
+       },
+       "words": 986,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t164_e221788a",
+       "title": {
+        "ru": "Check the harness and connector of the FL corner radar sensor for short circuit",
+        "en": "Check the harness and connector of the FL corner radar sensor for short circuit"
+       },
+       "words": 855,
+       "images": 63,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t166_e8de3e74",
+       "title": {
+        "ru": "Parking sensor controller assembly",
+        "en": "Parking sensor controller assembly"
+       },
+       "words": 654,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t167_03800b36",
+       "title": {
+        "ru": "4 Check the power supply of the PAS control unit",
+        "en": "4 Check the power supply of the PAS control unit"
+       },
+       "words": 843,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t169_6f49f561",
+       "title": {
+        "ru": "1 Check the harness and connector of the IVI control unit video signal (AVM)",
+        "en": "1 Check the harness and connector of the IVI control unit video signal (AVM)"
+       },
+       "words": 848,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t172_efd70648",
+       "title": {
+        "ru": "1 Check IVI control unit harness and connector for short circuit to ground",
+        "en": "1 Check IVI control unit harness and connector for short circuit to ground"
+       },
+       "words": 377,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t173_d5990a15",
+       "title": {
+        "ru": "Repair or replace the harnesses and connector",
+        "en": "Repair or replace the harnesses and connector"
+       },
+       "words": 1281,
+       "images": 89,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t174_b80e272a",
+       "title": {
+        "ru": "Check the harness and connector of right surround squawker and tweeter for open",
+        "en": "Check the harness and connector of right surround squawker and tweeter for open"
+       },
+       "words": 692,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t177_5397f3ac",
+       "title": {
+        "ru": "2. Check the front door squawker and woofer",
+        "en": "2. Check the front door squawker and woofer"
+       },
+       "words": 895,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t179_e53cfe30",
+       "title": {
+        "ru": "2 Check the harness and connector for open circuit",
+        "en": "2 Check the harness and connector for open circuit"
+       },
+       "words": 917,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t180_d03b1301",
+       "title": {
+        "ru": "3 Check the Comfort CAN bus for short circuit to ground",
+        "en": "3 Check the Comfort CAN bus for short circuit to ground"
+       },
+       "words": 521,
+       "images": 67,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t181_1e4e259a",
+       "title": {
+        "ru": "2 Check the chassis CAN2 bus for open circuit (GCU EPS control unit)",
+        "en": "2 Check the chassis CAN2 bus for open circuit (GCU EPS control unit)"
+       },
+       "words": 904,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t183_eea99f72",
+       "title": {
+        "ru": "4 Check the digital key CAN bus for short circuit to power supply",
+        "en": "4 Check the digital key CAN bus for short circuit to power supply"
+       },
+       "words": 450,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t184_fc0068a4",
+       "title": {
+        "ru": "1 Check the IVI ethernet cable for open circuit (GCU IVI)",
+        "en": "1 Check the IVI ethernet cable for open circuit (GCU IVI)"
+       },
+       "words": 478,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t185_f3a0445f",
+       "title": {
+        "ru": "1 Check the Ethernet for open circuit (GCU A/C panel control unit)",
+        "en": "1 Check the Ethernet for open circuit (GCU A/C panel control unit)"
+       },
+       "words": 449,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t186_c1936697",
+       "title": {
+        "ru": "2 Check the electric CAN bus for open circuit (GCU VCU)",
+        "en": "2 Check the electric CAN bus for open circuit (GCU VCU)"
+       },
+       "words": 954,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t188_f4e55244",
+       "title": {
+        "ru": "3 Check the power supply of integrated OBC DCDC control unit",
+        "en": "3 Check the power supply of integrated OBC DCDC control unit"
+       },
+       "words": 527,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t189_d6594f13",
+       "title": {
+        "ru": "2 Check the chassis CAN2 bus for open circuit (GCU EPS control unit)",
+        "en": "2 Check the chassis CAN2 bus for open circuit (GCU EPS control unit)"
+       },
+       "words": 898,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t191_cd6632a6",
+       "title": {
+        "ru": "3 Check the right front door control unit power supply",
+        "en": "3 Check the right front door control unit power supply"
+       },
+       "words": 493,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t192_9485440e",
+       "title": {
+        "ru": "3 Check the front passenger seat control unit connector power supply",
+        "en": "3 Check the front passenger seat control unit connector power supply"
+       },
+       "words": 385,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t193_1c4ce0a9",
+       "title": {
+        "ru": "1 Check the Comfort CAN bus for open circuit (GCU seat climate controller)",
+        "en": "1 Check the Comfort CAN bus for open circuit (GCU seat climate controller)"
+       },
+       "words": 558,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t194_ee258cd7",
+       "title": {
+        "ru": "3 Check the automatic A/C control unit power supply",
+        "en": "3 Check the automatic A/C control unit power supply"
+       },
+       "words": 436,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t195_e8de79c4",
+       "title": {
+        "ru": "3 Check the power supply of the power amplifier",
+        "en": "3 Check the power supply of the power amplifier"
+       },
+       "words": 551,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t196_138069a3",
+       "title": {
+        "ru": "3 Check the power supply of the left front combination lamp III",
+        "en": "3 Check the power supply of the left front combination lamp III"
+       },
+       "words": 882,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t198_46218de5",
+       "title": {
+        "ru": "2 Check the AirS control unit ground",
+        "en": "2 Check the AirS control unit ground"
+       },
+       "words": 535,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t199_362018af",
+       "title": {
+        "ru": "5 Check the sensor harness and connector of EBS for short circuit to ground",
+        "en": "5 Check the sensor harness and connector of EBS for short circuit to ground"
+       },
+       "words": 520,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t200_2aa2a5a9",
+       "title": {
+        "ru": "4. Check front hub bearing unit assembly for radial runout",
+        "en": "4. Check front hub bearing unit assembly for radial runout"
+       },
+       "words": 628,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t201_e27226e5",
+       "title": {
+        "ru": "1. Install the IP and cross beam assembly",
+        "en": "1. Install the IP and cross beam assembly"
+       },
+       "words": 1786,
+       "images": 58,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t202_536ca4e0",
+       "title": {
+        "ru": "12. Install the A-pillar lower left guard plate",
+        "en": "12. Install the A-pillar lower left guard plate"
+       },
+       "words": 2988,
+       "images": 145,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t203_359a02df",
+       "title": {
+        "ru": "1. Install the left front door Hongqi logo assembly",
+        "en": "1. Install the left front door Hongqi logo assembly"
+       },
+       "words": 1939,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t204_a7dcef02",
+       "title": {
+        "ru": "15. Install the left front door frame trim panel",
+        "en": "15. Install the left front door frame trim panel"
+       },
+       "words": 1918,
+       "images": 70,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t205_b8685d8b",
+       "title": {
+        "ru": "Front wiper motor connectingrod assembly",
+        "en": "Front wiper motor connectingrod assembly"
+       },
+       "words": 1110,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t206_017026af",
+       "title": {
+        "ru": "1. Install the engine hood lock ring assembly",
+        "en": "1. Install the engine hood lock ring assembly"
+       },
+       "words": 1185,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t207_4905167d",
+       "title": {
+        "ru": "5. Install the rear door handle assembly",
+        "en": "5. Install the rear door handle assembly"
+       },
+       "words": 1250,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_e_hs9_general_t208_753d202e",
+       "title": {
+        "ru": "3. Install the left front door internal weatherstrip assembly",
+        "en": "3. Install the left front door internal weatherstrip assembly"
+       },
+       "words": 975,
+       "images": 38,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1495 @@
+{
+ "version": "1.0",
+ "model": "galant",
+ "manuals": [
+  {
+   "model": "galant",
+   "label": {
+    "ru": "Mitsubishi Galant — Руководство по ремонту",
+    "en": "Mitsubishi Galant — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_engine_t000_5d19f2a7",
+       "title": {
+        "ru": "SUB FUSIBLE LiNK (relay box inside engine compartment, fusible link box)",
+        "en": "SUB FUSIBLE LiNK (relay box inside engine compartment, fusible link box)"
+       },
+       "words": 562,
+       "images": 24,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t001_ea5163d0",
+       "title": {
+        "ru": "POWER DISTRIBUTION CIRCUIT (CONTINUED) (From 1991 models)",
+        "en": "POWER DISTRIBUTION CIRCUIT (CONTINUED) (From 1991 models)"
+       },
+       "words": 2223,
+       "images": 25,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t002_61257a5a",
+       "title": {
+        "ru": "AIR CONDITIONING CIRCUIT (From 1991 models) (CONTINUED) Non-Turbo (FWD, AWD-M/T)",
+        "en": "AIR CONDITIONING CIRCUIT (From 1991 models) (CONTINUED) Non-Turbo (FWD, AWD-M/T)"
+       },
+       "words": 1697,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t003_a2a9a059",
+       "title": {
+        "ru": "CHECKING THE STEERING GEAR RETENTION HYDRAULIC PRESSURE",
+        "en": "CHECKING THE STEERING GEAR RETENTION HYDRAULIC PRESSURE"
+       },
+       "words": 1457,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t004_b45a93a0",
+       "title": {
+        "ru": "Standard value: 67 N (15 Ibs.) or less",
+        "en": "Standard value: 67 N (15 Ibs.) or less"
+       },
+       "words": 464,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t005_e8c02725",
+       "title": {
+        "ru": "CENTRAL DOOR LOCKING SYSTEM CIRCUIT DIAGRAM <Vehicles with ETACS (Non-Turbo)-Fro",
+        "en": "CENTRAL DOOR LOCKING SYSTEM CIRCUIT DIAGRAM <Vehicles with ETACS (Non-Turbo)-Fro"
+       },
+       "words": 765,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t006_effa07cd",
+       "title": {
+        "ru": "AIR CONDITIONING ENGINE COOLANT TEMPERATURE SWITCH (for compressor magnetic clut",
+        "en": "AIR CONDITIONING ENGINE COOLANT TEMPERATURE SWITCH (for compressor magnetic clut"
+       },
+       "words": 622,
+       "images": 21,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t007_186e65dc",
+       "title": {
+        "ru": "4. INSTALLATION_ OF COMPRESSOR DRIVE BELT/S.TENSION PULLEY ASSEMBLY INSTALLATION",
+        "en": "4. INSTALLATION_ OF COMPRESSOR DRIVE BELT/S.TENSION PULLEY ASSEMBLY INSTALLATION"
+       },
+       "words": 583,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t008_b9bdd707",
+       "title": {
+        "ru": ". AIR CONDITIONING ENGINE COOLANT TEMPERATURE SWITCH (for compressor magnetic cl",
+        "en": ". AIR CONDITIONING ENGINE COOLANT TEMPERATURE SWITCH (for compressor magnetic cl"
+       },
+       "words": 358,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t009_1fab659c",
+       "title": {
+        "ru": "Actual ignition timing: 8°BTDc_Non-turbo 12°BTDC Turbo",
+        "en": "Actual ignition timing: 8°BTDc_Non-turbo 12°BTDC Turbo"
+       },
+       "words": 520,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t010_8aa1effb",
+       "title": {
+        "ru": "SERVICE POINTS OF INSTALLATION 4. INSTALLATION OF DISTRIBUTOR",
+        "en": "SERVICE POINTS OF INSTALLATION 4. INSTALLATION OF DISTRIBUTOR"
+       },
+       "words": 393,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t011_96d33427",
+       "title": {
+        "ru": "SERVICE POINTS OF INSTALLATION 7. INSTALLATION OF CRANKSHAFT POSITION SENSOR",
+        "en": "SERVICE POINTS OF INSTALLATION 7. INSTALLATION OF CRANKSHAFT POSITION SENSOR"
+       },
+       "words": 850,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t012_cebfb87f",
+       "title": {
+        "ru": "ENGINE COOLANT TEMPERATURE GAUGE UNIT INSPECTION M54HIIТа",
+        "en": "ENGINE COOLANT TEMPERATURE GAUGE UNIT INSPECTION M54HIIТа"
+       },
+       "words": 740,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_galant_engine_t013_9ab7a68b",
+       "title": {
+        "ru": "SERVICE ADJUSTMENT PROCEDURES M54POAA THE PRINTED-HEATER LINES CHECK",
+        "en": "SERVICE ADJUSTMENT PROCEDURES M54POAA THE PRINTED-HEATER LINES CHECK"
+       },
+       "words": 1091,
+       "images": 5,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_brakes_t000_bbdc623f",
+       "title": {
+        "ru": "TIE ROD END BALL JOINT VARIATION CHECK(SHAFT DIRECTION) M37FРАB",
+        "en": "TIE ROD END BALL JOINT VARIATION CHECK(SHAFT DIRECTION) M37FРАB"
+       },
+       "words": 863,
+       "images": 18,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mitsubishi_galant_brakes_t001_2bac046f",
+       "title": {
+        "ru": "Rear wheel safety procedures",
+        "en": "Rear wheel safety procedures"
+       },
+       "words": 1021,
+       "images": 1,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_suspension_t000_8ab18934",
+       "title": {
+        "ru": "ACTIVE-ELECTRONIC CONTROL SUSPENSION (ECS) CIRCUIT (CONTINUED) FRONT SIDE REVERS",
+        "en": "ACTIVE-ELECTRONIC CONTROL SUSPENSION (ECS) CIRCUIT (CONTINUED) FRONT SIDE REVERS"
+       },
+       "words": 1624,
+       "images": 11,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mitsubishi_galant_suspension_t001_072f39a2",
+       "title": {
+        "ru": "SERVICE POINTS OF INSTALLATION 20. APPLICATION OF GREASE TO TRUNK LID LOCK RELEA",
+        "en": "SERVICE POINTS OF INSTALLATION 20. APPLICATION OF GREASE TO TRUNK LID LOCK RELEA"
+       },
+       "words": 428,
+       "images": 5,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mitsubishi_galant_suspension_t002_ea1e314c",
+       "title": {
+        "ru": "SERVICE POINTS OF DISASSEMBLY 7. DISASSEMBLY OF GEAR",
+        "en": "SERVICE POINTS OF DISASSEMBLY 7. DISASSEMBLY OF GEAR"
+       },
+       "words": 320,
+       "images": 2,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_electrical_t000_900ab628",
+       "title": {
+        "ru": "MULTI-PURPOSE FUSE (inside junction block)",
+        "en": "MULTI-PURPOSE FUSE (inside junction block)"
+       },
+       "words": 1069,
+       "images": 15,
+       "section_id": "electrical"
+      },
+      {
+       "id": "mitsubishi_galant_electrical_t001_c251746c",
+       "title": {
+        "ru": "Checking the Ground Circuit (Disconnect the Connector and Check at the Wiring Ha",
+        "en": "Checking the Ground Circuit (Disconnect the Connector and Check at the Wiring Ha"
+       },
+       "words": 616,
+       "images": 14,
+       "section_id": "electrical"
+      },
+      {
+       "id": "mitsubishi_galant_electrical_t002_3ada14fb",
+       "title": {
+        "ru": "Electronic control unit terminal voltage Disconnect the electronic control unit ",
+        "en": "Electronic control unit terminal voltage Disconnect the electronic control unit "
+       },
+       "words": 206,
+       "images": 9,
+       "section_id": "electrical"
+      },
+      {
+       "id": "mitsubishi_galant_electrical_t003_81d2d311",
+       "title": {
+        "ru": "14. STARTER RELAY ACTIVATION CIRCUIT",
+        "en": "14. STARTER RELAY ACTIVATION CIRCUIT"
+       },
+       "words": 1,
+       "images": 1,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_hvac_t000_1c757bf5",
+       "title": {
+        "ru": "SERVICE POINTS OF INSTALLATION M55GDAM12. CONNECTION OF LEFT/RIGHT AIR-VOLUME CO",
+        "en": "SERVICE POINTS OF INSTALLATION M55GDAM12. CONNECTION OF LEFT/RIGHT AIR-VOLUME CO"
+       },
+       "words": 408,
+       "images": 13,
+       "section_id": "hvac"
+      },
+      {
+       "id": "mitsubishi_galant_hvac_t001_4c1ea8a8",
+       "title": {
+        "ru": "THE PRINTED-HEATER LINES REPAIR REQUIRED MATERIALS",
+        "en": "THE PRINTED-HEATER LINES REPAIR REQUIRED MATERIALS"
+       },
+       "words": 468,
+       "images": 7,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_body_t000_7cbc4014",
+       "title": {
+        "ru": "CONTINUITY AND VOLTAGE TEST FOR CONNECTOR",
+        "en": "CONTINUITY AND VOLTAGE TEST FOR CONNECTOR"
+       },
+       "words": 1545,
+       "images": 17,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t001_8ade3b28",
+       "title": {
+        "ru": "CENTRAL DOOR LOCKING CIRCUIT <Vehicles with ETACS (1989 models)>",
+        "en": "CENTRAL DOOR LOCKING CIRCUIT <Vehicles with ETACS (1989 models)>"
+       },
+       "words": 792,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t002_310ac560",
+       "title": {
+        "ru": "CENTRAL DOOR LOCKING SYSTEM CIRCUIT DIAGRAM <Vehicles without ETACS-From 1991 mo",
+        "en": "CENTRAL DOOR LOCKING SYSTEM CIRCUIT DIAGRAM <Vehicles without ETACS-From 1991 mo"
+       },
+       "words": 351,
+       "images": 12,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t003_8c22aa18",
+       "title": {
+        "ru": "CENTRAL DOOR LOCKING SYSTEM CIRCUIT DIAGRAM <Vehicles with ETACS–1990 models> (C",
+        "en": "CENTRAL DOOR LOCKING SYSTEM CIRCUIT DIAGRAM <Vehicles with ETACS–1990 models> (C"
+       },
+       "words": 1761,
+       "images": 15,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t004_e5bcefba",
+       "title": {
+        "ru": "<Vehicles without ETACS> Tilt operation",
+        "en": "<Vehicles without ETACS> Tilt operation"
+       },
+       "words": 742,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t005_0532cece",
+       "title": {
+        "ru": "Hood lock release cable removal steps",
+        "en": "Hood lock release cable removal steps"
+       },
+       "words": 488,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t006_4452c35f",
+       "title": {
+        "ru": "Trunk lid lock release handle removal steps",
+        "en": "Trunk lid lock release handle removal steps"
+       },
+       "words": 370,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t007_dff5ee7a",
+       "title": {
+        "ru": "9. REMOVAL OF WINDSHIELD SIDE MOULDING AND CORNER JOINT ASSEMBLY",
+        "en": "9. REMOVAL OF WINDSHIELD SIDE MOULDING AND CORNER JOINT ASSEMBLY"
+       },
+       "words": 341,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t008_efae645d",
+       "title": {
+        "ru": "9.INSTALLATION OF WINDSHIELD SIDE MOULDINGAND CORNER JOINT ASSEMBLY",
+        "en": "9.INSTALLATION OF WINDSHIELD SIDE MOULDINGAND CORNER JOINT ASSEMBLY"
+       },
+       "words": 730,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t009_fca46860",
+       "title": {
+        "ru": "8. REMOVAL OF REAR WINDOW SIDE MOULDING AND CORNER JOINT ASSEMBLY/9. REAR WINDOW",
+        "en": "8. REMOVAL OF REAR WINDOW SIDE MOULDING AND CORNER JOINT ASSEMBLY/9. REAR WINDOW"
+       },
+       "words": 305,
+       "images": 8,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t010_a5cddeeb",
+       "title": {
+        "ru": "CIRCUIT BREAKER (INCORPORATED IN THE POWER WINDOW MOTOR)",
+        "en": "CIRCUIT BREAKER (INCORPORATED IN THE POWER WINDOW MOTOR)"
+       },
+       "words": 344,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t011_4eb05170",
+       "title": {
+        "ru": "CIRCUIT BREAKER (INCORPORATED IN THE POWER WINDOW MOTOR)",
+        "en": "CIRCUIT BREAKER (INCORPORATED IN THE POWER WINDOW MOTOR)"
+       },
+       "words": 590,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t012_4329b1ad",
+       "title": {
+        "ru": "REAR DOOR HANDLE AND LATCH REMOVAL AND INSTALLATION",
+        "en": "REAR DOOR HANDLE AND LATCH REMOVAL AND INSTALLATION"
+       },
+       "words": 367,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t013_46495767",
+       "title": {
+        "ru": "Checking the door lock actuator switch circuit (Disconnect the connector of the ",
+        "en": "Checking the door lock actuator switch circuit (Disconnect the connector of the "
+       },
+       "words": 431,
+       "images": 11,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t014_88072a55",
+       "title": {
+        "ru": "Checking the driver door switch circuit (Disconnect the connector of the electro",
+        "en": "Checking the driver door switch circuit (Disconnect the connector of the electro"
+       },
+       "words": 280,
+       "images": 17,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t015_7310313d",
+       "title": {
+        "ru": "SUNROOF TIMER TROUBLESHOOTING GUIDE INPUT CHECK (ETACS-EQUIPPED MODELS ONLY)",
+        "en": "SUNROOF TIMER TROUBLESHOOTING GUIDE INPUT CHECK (ETACS-EQUIPPED MODELS ONLY)"
+       },
+       "words": 528,
+       "images": 16,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t016_b008e2e4",
+       "title": {
+        "ru": "Checking the front door switch circuit (Disconnect the connector of the electron",
+        "en": "Checking the front door switch circuit (Disconnect the connector of the electron"
+       },
+       "words": 464,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t017_0a9279d1",
+       "title": {
+        "ru": "SERVICE POINTS OF INSTALLATION 5. APPLICATION OF ADHESIVE TO SLIDING ROOF CABLE ",
+        "en": "SERVICE POINTS OF INSTALLATION 5. APPLICATION OF ADHESIVE TO SLIDING ROOF CABLE "
+       },
+       "words": 453,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t018_9d273683",
+       "title": {
+        "ru": "SERVICE POINTS OF REASSEMBLY 15. ADHESION OF FRONT BUMPER MOULDING/21. REAR BUMP",
+        "en": "SERVICE POINTS OF REASSEMBLY 15. ADHESION OF FRONT BUMPER MOULDING/21. REAR BUMP"
+       },
+       "words": 559,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t019_07d3e955",
+       "title": {
+        "ru": "SERVICE POINTS OF INSTALLATION8. INSTALLATION OF SIDE PROTECT MOULDING",
+        "en": "SERVICE POINTS OF INSTALLATION8. INSTALLATION OF SIDE PROTECT MOULDING"
+       },
+       "words": 704,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t020_255c10d8",
+       "title": {
+        "ru": "8. INSTALLATION OF RETRACTOR BRACKET_AND, ANCHOR BRACKET ATTACHING BOLT / 7. RET",
+        "en": "8. INSTALLATION OF RETRACTOR BRACKET_AND, ANCHOR BRACKET ATTACHING BOLT / 7. RET"
+       },
+       "words": 413,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t021_e479d2ea",
+       "title": {
+        "ru": "Rear ventilation duct removal steps",
+        "en": "Rear ventilation duct removal steps"
+       },
+       "words": 490,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t022_d3e78637",
+       "title": {
+        "ru": "<VEHICLES WITHOUT ETACS (WITH DOOR LIGHT) (From 1991 models)>",
+        "en": "<VEHICLES WITHOUT ETACS (WITH DOOR LIGHT) (From 1991 models)>"
+       },
+       "words": 602,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t023_e6cadbb0",
+       "title": {
+        "ru": "SERVICE POINTS OF INSTALLATION1. INSTALLATION OF REAR COMBINATION LIGHT",
+        "en": "SERVICE POINTS OF INSTALLATION1. INSTALLATION OF REAR COMBINATION LIGHT"
+       },
+       "words": 825,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t024_245c8b3f",
+       "title": {
+        "ru": "5. DOOR SWITCH (LEFT-FRONT DOOR AND RIGHT-FRONT DOOR) INPUT CIRCUIT",
+        "en": "5. DOOR SWITCH (LEFT-FRONT DOOR AND RIGHT-FRONT DOOR) INPUT CIRCUIT"
+       },
+       "words": 648,
+       "images": 12,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_galant_body_t025_845ed7df",
+       "title": {
+        "ru": "Description of operation",
+        "en": "Description of operation"
+       },
+       "words": 1432,
+       "images": 6,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_steering_t000_618aa1d5",
+       "title": {
+        "ru": "Indexing Steering Wheel to Center It",
+        "en": "Indexing Steering Wheel to Center It"
+       },
+       "words": 872,
+       "images": 5,
+       "section_id": "steering"
+      },
+      {
+       "id": "mitsubishi_galant_steering_t001_2c7620b5",
+       "title": {
+        "ru": "8. INSTALLATION OF STEERING LOCK/7. STEERING LOCK BRACKET/6. STEERING LOCK INSTA",
+        "en": "8. INSTALLATION OF STEERING LOCK/7. STEERING LOCK BRACKET/6. STEERING LOCK INSTA"
+       },
+       "words": 484,
+       "images": 6,
+       "section_id": "steering"
+      },
+      {
+       "id": "mitsubishi_galant_steering_t002_1f6daf3f",
+       "title": {
+        "ru": "SERVICE POINTS OF REMOVAL M370BАА 7. DISCONNECTION OF THE POWER STEERING GEAR BO",
+        "en": "SERVICE POINTS OF REMOVAL M370BАА 7. DISCONNECTION OF THE POWER STEERING GEAR BO"
+       },
+       "words": 556,
+       "images": 8,
+       "section_id": "steering"
+      },
+      {
+       "id": "mitsubishi_galant_steering_t003_fe4a7992",
+       "title": {
+        "ru": "SERVICE POINTS OF REMOVAL 8. REMOVAL OF GENERATOR",
+        "en": "SERVICE POINTS OF REMOVAL 8. REMOVAL OF GENERATOR"
+       },
+       "words": 1088,
+       "images": 5,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_lighting_t000_a5899e20",
+       "title": {
+        "ru": "TRIM CLIP REMOVAL/INSTALLATION PROCEDURES",
+        "en": "TRIM CLIP REMOVAL/INSTALLATION PROCEDURES"
+       },
+       "words": 1125,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mitsubishi_galant_lighting_t001_6c29324c",
+       "title": {
+        "ru": "SERVICE POINTS OF REMOVAL 11. REMOVAL OF BLOWER ASSEMBLY",
+        "en": "SERVICE POINTS OF REMOVAL 11. REMOVAL OF BLOWER ASSEMBLY"
+       },
+       "words": 992,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mitsubishi_galant_lighting_t002_f5955a92",
+       "title": {
+        "ru": "SERVICE POINTS OF REASSEMBLY 2. INSTALLATION OF ROTOR ASSEMBLY",
+        "en": "SERVICE POINTS OF REASSEMBLY 2. INSTALLATION OF ROTOR ASSEMBLY"
+       },
+       "words": 611,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mitsubishi_galant_lighting_t003_bccbc9d8",
+       "title": {
+        "ru": "TURN SIGNAL LIGHT AND HAZARD LIGHT CIRCUITCIRCUIT DIAGRAM<From 1991 models>",
+        "en": "TURN SIGNAL LIGHT AND HAZARD LIGHT CIRCUITCIRCUIT DIAGRAM<From 1991 models>"
+       },
+       "words": 804,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mitsubishi_galant_lighting_t004_b77890df",
+       "title": {
+        "ru": "[B-6| Distortion on AM or on both AM and FM.",
+        "en": "[B-6| Distortion on AM or on both AM and FM."
+       },
+       "words": 392,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mitsubishi_galant_lighting_t005_07adefd5",
+       "title": {
+        "ru": "12. HEADLIGHT POWER-SUPPLY CIRCUIT",
+        "en": "12. HEADLIGHT POWER-SUPPLY CIRCUIT"
+       },
+       "words": 29,
+       "images": 3,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_interior_t000_f9ded85c",
+       "title": {
+        "ru": "AUTOMATIC SEAT BELT CIRCUIT (From 1991 models)",
+        "en": "AUTOMATIC SEAT BELT CIRCUIT (From 1991 models)"
+       },
+       "words": 923,
+       "images": 15,
+       "section_id": "interior"
+      },
+      {
+       "id": "mitsubishi_galant_interior_t001_5de7ee0f",
+       "title": {
+        "ru": "4. INSTALLATION OF SEAT MOUNTING NUT (FRONT) / 3. SEAT MOUNTING BOLT (REAR)",
+        "en": "4. INSTALLATION OF SEAT MOUNTING NUT (FRONT) / 3. SEAT MOUNTING BOLT (REAR)"
+       },
+       "words": 423,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "mitsubishi_galant_interior_t002_6b5dc1b4",
+       "title": {
+        "ru": "5. INSTALLATION OF SEAT BELT ANCHOR PLATE ATTACHING BOLTS",
+        "en": "5. INSTALLATION OF SEAT BELT ANCHOR PLATE ATTACHING BOLTS"
+       },
+       "words": 570,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "mitsubishi_galant_interior_t003_0df169ae",
+       "title": {
+        "ru": "VENTILATORS (INSTRUMENT PANEL AND FLOOR) REMOVAL AND INSTALLATION",
+        "en": "VENTILATORS (INSTRUMENT PANEL AND FLOOR) REMOVAL AND INSTALLATION"
+       },
+       "words": 89,
+       "images": 1,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_ev_t000_89daad9f",
+       "title": {
+        "ru": "MAIN FUSIBLE LINK (direct connection to battery's positive  terminal)",
+        "en": "MAIN FUSIBLE LINK (direct connection to battery's positive  terminal)"
+       },
+       "words": 815,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "mitsubishi_galant_ev_t001_9456cf7e",
+       "title": {
+        "ru": "TROUBLESHOOTING QUICK-REFERENCE TABLE(ETACS-RELATED PROBLEMS ONLY)",
+        "en": "TROUBLESHOOTING QUICK-REFERENCE TABLE(ETACS-RELATED PROBLEMS ONLY)"
+       },
+       "words": 465,
+       "images": 12,
+       "section_id": "ev"
+      },
+      {
+       "id": "mitsubishi_galant_ev_t002_5c1251a9",
+       "title": {
+        "ru": "Keep R-12 containers upright when charging the system.",
+        "en": "Keep R-12 containers upright when charging the system."
+       },
+       "words": 874,
+       "images": 3,
+       "section_id": "ev"
+      },
+      {
+       "id": "mitsubishi_galant_ev_t003_abdc892f",
+       "title": {
+        "ru": "BLOWER MOTOR ASSEMBLY <Up to 1990 models> BLOWER MOTOR AND FAN ASSEMBLY <From 19",
+        "en": "BLOWER MOTOR ASSEMBLY <Up to 1990 models> BLOWER MOTOR AND FAN ASSEMBLY <From 19"
+       },
+       "words": 1007,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "mitsubishi_galant_ev_t004_6b960478",
+       "title": {
+        "ru": "CHARGING SYSTEM INSPECTION M16EIAWa VOLTAGE DROP TEST OF GENERATOR OUTPUT WIRE",
+        "en": "CHARGING SYSTEM INSPECTION M16EIAWa VOLTAGE DROP TEST OF GENERATOR OUTPUT WIRE"
+       },
+       "words": 595,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "mitsubishi_galant_ev_t005_96a42013",
+       "title": {
+        "ru": "BATTERY INSPECTION BATTERY VISUAL INSPECTION (1)",
+        "en": "BATTERY INSPECTION BATTERY VISUAL INSPECTION (1)"
+       },
+       "words": 572,
+       "images": 5,
+       "section_id": "ev"
+      },
+      {
+       "id": "mitsubishi_galant_ev_t006_7675a21c",
+       "title": {
+        "ru": "Description of operation",
+        "en": "Description of operation"
+       },
+       "words": 883,
+       "images": 5,
+       "section_id": "ev"
+      },
+      {
+       "id": "mitsubishi_galant_ev_t007_850504ee",
+       "title": {
+        "ru": "TROUBLESHOOTING QUICK-REFERENCE TABLE (ETACS-RELATED PROBLEMS ONLY",
+        "en": "TROUBLESHOOTING QUICK-REFERENCE TABLE (ETACS-RELATED PROBLEMS ONLY"
+       },
+       "words": 290,
+       "images": 5,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_chassis_t000_b665b6bf",
+       "title": {
+        "ru": "SIMPLIFIED STEERING WHEEL CENTERING Determing Steering Wheel's off Center",
+        "en": "SIMPLIFIED STEERING WHEEL CENTERING Determing Steering Wheel's off Center"
+       },
+       "words": 593,
+       "images": 3,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_general_t000_bdf8bc02",
+       "title": {
+        "ru": "ENGAGING AND DISENGAGING OF CONNECTOR TERMINALL",
+        "en": "ENGAGING AND DISENGAGING OF CONNECTOR TERMINALL"
+       },
+       "words": 300,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t001_1caf3a97",
+       "title": {
+        "ru": "1. Visual and aural checks",
+        "en": "1. Visual and aural checks"
+       },
+       "words": 524,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t002_882f9068",
+       "title": {
+        "ru": "2. CHECKING FOR A SHORT-CIRCUIT",
+        "en": "2. CHECKING FOR A SHORT-CIRCUIT"
+       },
+       "words": 337,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t003_c59e60c6",
+       "title": {
+        "ru": "POWER DISTRIBUTION CIRCUIT (CONTINUED) (From 1991 models)",
+        "en": "POWER DISTRIBUTION CIRCUIT (CONTINUED) (From 1991 models)"
+       },
+       "words": 1851,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t004_52852a25",
+       "title": {
+        "ru": "POWER WINDOW CIRCUIT <Vehicles without ETACS (From 1991 models)>",
+        "en": "POWER WINDOW CIRCUIT <Vehicles without ETACS (From 1991 models)>"
+       },
+       "words": 2193,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t005_64f20e8c",
+       "title": {
+        "ru": "POWER WINDOW CIRCUIT <Vehicles with ETACS (1989 models)>",
+        "en": "POWER WINDOW CIRCUIT <Vehicles with ETACS (1989 models)>"
+       },
+       "words": 673,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t006_687ea44c",
+       "title": {
+        "ru": "AUTO-CRUISE CONTROL CIRCUIT (CONTINUED) <M/T (1 992 models)>",
+        "en": "AUTO-CRUISE CONTROL CIRCUIT (CONTINUED) <M/T (1 992 models)>"
+       },
+       "words": 958,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t007_57e074d3",
+       "title": {
+        "ru": "AUTO-CRUISE CONTROL CIRCUIT (CONTINUED) <A/T (1993 models)>",
+        "en": "AUTO-CRUISE CONTROL CIRCUIT (CONTINUED) <A/T (1993 models)>"
+       },
+       "words": 324,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t008_3bdfe2dd",
+       "title": {
+        "ru": "Standard value: 0.9–1.1A at vehicle speed of 0 km/h (0 mph)",
+        "en": "Standard value: 0.9–1.1A at vehicle speed of 0 km/h (0 mph)"
+       },
+       "words": 311,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t009_a42d7cc2",
+       "title": {
+        "ru": "4. INSTALLATION OF JOINT ASSEMBLY/3.BEARING/ 2. COVER ASSEMBLY",
+        "en": "4. INSTALLATION OF JOINT ASSEMBLY/3.BEARING/ 2. COVER ASSEMBLY"
+       },
+       "words": 330,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t010_b543c832",
+       "title": {
+        "ru": "TIE ROD END BALL JOINT FOR ROUGH ROTATION AND STARTING TORQUE",
+        "en": "TIE ROD END BALL JOINT FOR ROUGH ROTATION AND STARTING TORQUE"
+       },
+       "words": 607,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t011_e3718314",
+       "title": {
+        "ru": "22. REMOVAL OF P.C.V. CAP ASSEMBLY <E.P.S.>",
+        "en": "22. REMOVAL OF P.C.V. CAP ASSEMBLY <E.P.S.>"
+       },
+       "words": 206,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t012_edd7620b",
+       "title": {
+        "ru": ". ADJUSTMENT OF TOTAL PINION TORQUE",
+        "en": ". ADJUSTMENT OF TOTAL PINION TORQUE"
+       },
+       "words": 281,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t013_d3c52bca",
+       "title": {
+        "ru": "E.P.S. CONTROL UNITAND E.P.S. MODE SELECTOR SWITCH",
+        "en": "E.P.S. CONTROL UNITAND E.P.S. MODE SELECTOR SWITCH"
+       },
+       "words": 190,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t014_fe815340",
+       "title": {
+        "ru": "Standard value: 0.5 Nm (4 in.lbs.) or less",
+        "en": "Standard value: 0.5 Nm (4 in.lbs.) or less"
+       },
+       "words": 167,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t015_66183c1f",
+       "title": {
+        "ru": "SERVICE POINTS OF INSTALLATION M370DAA 8. CONNECTION OF CONTROL PIPES AND PRESSU",
+        "en": "SERVICE POINTS OF INSTALLATION M370DAA 8. CONNECTION OF CONTROL PIPES AND PRESSU"
+       },
+       "words": 143,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t016_f8128808",
+       "title": {
+        "ru": "ADHESIVE, PRIMER AND RESERVE ITEMS",
+        "en": "ADHESIVE, PRIMER AND RESERVE ITEMS"
+       },
+       "words": 52,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t017_e454203a",
+       "title": {
+        "ru": "INPUT CHECK (ETACS-EQUIPPED MODELS ONLY)",
+        "en": "INPUT CHECK (ETACS-EQUIPPED MODELS ONLY)"
+       },
+       "words": 282,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t018_97c7b92c",
+       "title": {
+        "ru": "CHECKING INDIVIDUAL PART AND CIRCUIT1. ETACS POWER-SUPPLY AND GROUND CIRCUITS",
+        "en": "CHECKING INDIVIDUAL PART AND CIRCUIT1. ETACS POWER-SUPPLY AND GROUND CIRCUITS"
+       },
+       "words": 298,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t019_2d60b8ea",
+       "title": {
+        "ru": "13. INSTALLATION OF DRAIN HOSE",
+        "en": "13. INSTALLATION OF DRAIN HOSE"
+       },
+       "words": 170,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t020_0d09b777",
+       "title": {
+        "ru": "SERVICE POINTS OF DISASSEMBLY 4. REMOVAL OF CLIP",
+        "en": "SERVICE POINTS OF DISASSEMBLY 4. REMOVAL OF CLIP"
+       },
+       "words": 249,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t021_44921c03",
+       "title": {
+        "ru": "2. INSTALLATION OF FRONT WINDSHIELD MOULDING",
+        "en": "2. INSTALLATION OF FRONT WINDSHIELD MOULDING"
+       },
+       "words": 385,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t022_9af95810",
+       "title": {
+        "ru": "4.INTERMITTENT VARIABLE VOLUME SWITCH INPUT CIRCUIT",
+        "en": "4.INTERMITTENT VARIABLE VOLUME SWITCH INPUT CIRCUIT"
+       },
+       "words": 190,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t023_7f14b404",
+       "title": {
+        "ru": "3. Release Switch (driver's side), Buckle Switch, Outer Switch Circuit",
+        "en": "3. Release Switch (driver's side), Buckle Switch, Outer Switch Circuit"
+       },
+       "words": 162,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t024_43942ebd",
+       "title": {
+        "ru": "11. REMOVAL OF FRONT HEADLINING TRIM / 12. REAR HEADLINING TRIM",
+        "en": "11. REMOVAL OF FRONT HEADLINING TRIM / 12. REAR HEADLINING TRIM"
+       },
+       "words": 223,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t025_2b4fc924",
+       "title": {
+        "ru": "SPECIFICATIONS GENERAL SPECIFICATIONS",
+        "en": "SPECIFICATIONS GENERAL SPECIFICATIONS"
+       },
+       "words": 97,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t026_b0b2bf79",
+       "title": {
+        "ru": "Caution Wear safety goggles when servicing the refrigeration system.",
+        "en": "Caution Wear safety goggles when servicing the refrigeration system."
+       },
+       "words": 644,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t027_70805441",
+       "title": {
+        "ru": "Method by using refrigerant recovery and recycling unit",
+        "en": "Method by using refrigerant recovery and recycling unit"
+       },
+       "words": 711,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t028_f8f555c2",
+       "title": {
+        "ru": "SERVICE POINTS OF INSTALLATION13. INSTALLATION OF PACKING",
+        "en": "SERVICE POINTS OF INSTALLATION13. INSTALLATION OF PACKING"
+       },
+       "words": 408,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t029_53525526",
+       "title": {
+        "ru": "SERVICE POINTS OF INSTALLATION M55RDAK1. INSTALLATION OF LIQUID PIPE AND SUCTION",
+        "en": "SERVICE POINTS OF INSTALLATION M55RDAK1. INSTALLATION OF LIQUID PIPE AND SUCTION"
+       },
+       "words": 219,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t030_ee7a4bff",
+       "title": {
+        "ru": "2. REMOVAL OF TENSION PULLEY ASSEMBLY INSTALLATION BOLTS",
+        "en": "2. REMOVAL OF TENSION PULLEY ASSEMBLY INSTALLATION BOLTS"
+       },
+       "words": 247,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t031_62f6e917",
+       "title": {
+        "ru": "Condenser fan removal steps",
+        "en": "Condenser fan removal steps"
+       },
+       "words": 433,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t032_df4b281e",
+       "title": {
+        "ru": "SERVICE POINTS OF REMOVAL M55TBAC 5. REMOVAL OF LIQUID PIPE AND LIQUID HOSE CONN",
+        "en": "SERVICE POINTS OF REMOVAL M55TBAC 5. REMOVAL OF LIQUID PIPE AND LIQUID HOSE CONN"
+       },
+       "words": 279,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t033_453d5886",
+       "title": {
+        "ru": "DISASSEMBLY AND REASSEMBLY",
+        "en": "DISASSEMBLY AND REASSEMBLY"
+       },
+       "words": 114,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t034_9aeb9fac",
+       "title": {
+        "ru": "SERVICE POINTS OF DISASSEMBLY SEPARATION OF THE STATOR AND FRONT BRACKET",
+        "en": "SERVICE POINTS OF DISASSEMBLY SEPARATION OF THE STATOR AND FRONT BRACKET"
+       },
+       "words": 327,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t035_9891750f",
+       "title": {
+        "ru": "SERVICE POINTS OF DISASSEMBLY 2. REMOVAL OF MAGNETIC SWITCH",
+        "en": "SERVICE POINTS OF DISASSEMBLY 2. REMOVAL OF MAGNETIC SWITCH"
+       },
+       "words": 200,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t036_d779d661",
+       "title": {
+        "ru": "TESTING ARMATURE TESTING ARMATURE FOR SHORT-CIRCUIT",
+        "en": "TESTING ARMATURE TESTING ARMATURE FOR SHORT-CIRCUIT"
+       },
+       "words": 278,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t037_847738f7",
+       "title": {
+        "ru": "IGNITION SYSTEMREMOVAL AND INSTALLATION <SOHC-8 VALVE>",
+        "en": "IGNITION SYSTEMREMOVAL AND INSTALLATION <SOHC-8 VALVE>"
+       },
+       "words": 627,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t038_78983ec0",
+       "title": {
+        "ru": "IGNITION SYSTEMREMOVAL AND INSTALLATION <SOHC-16 VALVE>",
+        "en": "IGNITION SYSTEMREMOVAL AND INSTALLATION <SOHC-16 VALVE>"
+       },
+       "words": 409,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t039_fdfbee69",
+       "title": {
+        "ru": "DISTRIBUTOR <SOHC> DISASSEMBLY AND REASSEMBLY",
+        "en": "DISTRIBUTOR <SOHC> DISASSEMBLY AND REASSEMBLY"
+       },
+       "words": 290,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t040_b3529cc1",
+       "title": {
+        "ru": "Indicators and Warning Lights",
+        "en": "Indicators and Warning Lights"
+       },
+       "words": 234,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t041_a31386fa",
+       "title": {
+        "ru": "INDICATOR LIGHT CIRCUITCIRCUIT DIAGRAM",
+        "en": "INDICATOR LIGHT CIRCUITCIRCUIT DIAGRAM"
+       },
+       "words": 124,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t042_6ac87b69",
+       "title": {
+        "ru": "Standard Resistance of Fuel Gauge Unit",
+        "en": "Standard Resistance of Fuel Gauge Unit"
+       },
+       "words": 402,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t043_7328b8c2",
+       "title": {
+        "ru": "SERVICE POINTS OF REMOVAL 3. REMOVAL OF THE COMBINATION METER",
+        "en": "SERVICE POINTS OF REMOVAL 3. REMOVAL OF THE COMBINATION METER"
+       },
+       "words": 149,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t044_e17325de",
+       "title": {
+        "ru": "STOP LIGHT CIRCUIT <VEHICLES WITH AUTO-CRUISE CONTROL (From 1991 models)> (CONTI",
+        "en": "STOP LIGHT CIRCUIT <VEHICLES WITH AUTO-CRUISE CONTROL (From 1991 models)> (CONTI"
+       },
+       "words": 352,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t045_2b12d08c",
+       "title": {
+        "ru": "Vertical dial pointer reading (on each aimer): 1/2 up to i/2 down",
+        "en": "Vertical dial pointer reading (on each aimer): 1/2 up to i/2 down"
+       },
+       "words": 565,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t046_b8f7aef7",
+       "title": {
+        "ru": "SERVICE POINTS OF REMOVAL 1. REMOVAL OF REAR COMBINATION LIGHT",
+        "en": "SERVICE POINTS OF REMOVAL 1. REMOVAL OF REAR COMBINATION LIGHT"
+       },
+       "words": 286,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t047_73f0667e",
+       "title": {
+        "ru": "SERVICE POINTS OF REMOVAL 1. REMOVAL OF HORN PAD",
+        "en": "SERVICE POINTS OF REMOVAL 1. REMOVAL OF HORN PAD"
+       },
+       "words": 234,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t048_2b52657e",
+       "title": {
+        "ru": "A-5| There is more noise either on AM or on FM.",
+        "en": "A-5| There is more noise either on AM or on FM."
+       },
+       "words": 1072,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t049_a91c22a9",
+       "title": {
+        "ru": "C-7] Automatic search does not work (only for models with the automatic search f",
+        "en": "C-7] Automatic search does not work (only for models with the automatic search f"
+       },
+       "words": 745,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t050_27daa9b9",
+       "title": {
+        "ru": "INSPECTION <Vehicles built up to June 1988> MOTOR ANTENNA ASSEMBLY",
+        "en": "INSPECTION <Vehicles built up to June 1988> MOTOR ANTENNA ASSEMBLY"
+       },
+       "words": 332,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_galant_general_t051_2ac8bca9",
+       "title": {
+        "ru": "CHECKING THE CIRCUIT AND INDIVIDUAL PART1 ETACS POWER-SUPPLY AND GROUND CIRCUITS",
+        "en": "CHECKING THE CIRCUIT AND INDIVIDUAL PART1 ETACS POWER-SUPPLY AND GROUND CIRCUITS"
+       },
+       "words": 159,
+       "images": 13,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_sensors_t000_2ccf3718",
+       "title": {
+        "ru": "Checking the Vehicle-speed Sensor Circuit (Disconnect the Connector of the Elect",
+        "en": "Checking the Vehicle-speed Sensor Circuit (Disconnect the Connector of the Elect"
+       },
+       "words": 1497,
+       "images": 11,
+       "section_id": "sensors"
+      },
+      {
+       "id": "mitsubishi_galant_sensors_t001_45751d8d",
+       "title": {
+        "ru": "How to Test the Air Thermo Sensor and Air Inlet Sensor",
+        "en": "How to Test the Air Thermo Sensor and Air Inlet Sensor"
+       },
+       "words": 1205,
+       "images": 5,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_drivetrain_t000_1707ac44",
+       "title": {
+        "ru": "Specified fluid: Automatic transmission fluid \"DEXRON I\"",
+        "en": "Specified fluid: Automatic transmission fluid \"DEXRON I\""
+       },
+       "words": 632,
+       "images": 12,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "mitsubishi_galant_drivetrain_t001_c13714c9",
+       "title": {
+        "ru": "SERVICE POINTS OF REASSEMBLY 15. INSTALLATION OF STOP RING/14. SNAP RING",
+        "en": "SERVICE POINTS OF REASSEMBLY 15. INSTALLATION OF STOP RING/14. SNAP RING"
+       },
+       "words": 603,
+       "images": 7,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "mitsubishi_galant_drivetrain_t002_531a578a",
+       "title": {
+        "ru": "SERVICE POINTS OF REASSEMBLY 18. INSTALLATION OF STOP RING/17. SNAP RING",
+        "en": "SERVICE POINTS OF REASSEMBLY 18. INSTALLATION OF STOP RING/17. SNAP RING"
+       },
+       "words": 257,
+       "images": 1,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "mitsubishi_galant_infotainment_t000_0f5545b2",
+       "title": {
+        "ru": "AUDIO SYSTEM CIRCUIT DIAGRAM <Vehicles without CD player (1991 and 1992 models)>",
+        "en": "AUDIO SYSTEM CIRCUIT DIAGRAM <Vehicles without CD player (1991 and 1992 models)>"
+       },
+       "words": 505,
+       "images": 12,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "mitsubishi_galant_infotainment_t001_7264b066",
+       "title": {
+        "ru": "RADIO AND TAPE PLAYER <1991 models> REMOVAL AND INSTALLATION",
+        "en": "RADIO AND TAPE PLAYER <1991 models> REMOVAL AND INSTALLATION"
+       },
+       "words": 205,
+       "images": 8,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

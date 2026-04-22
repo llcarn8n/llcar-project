@@ -1,0 +1,1065 @@
+{
+ "version": "1.0",
+ "model": "cx_60",
+ "manuals": [
+  {
+   "model": "cx_60",
+   "label": {
+    "ru": "Mazda Cx 60 — Руководство по ремонту",
+    "en": "Mazda Cx 60 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "mazda_cx_60_engine_t000_da71925f",
+       "title": {
+        "ru": "Sensing Auto Door Lock Function",
+        "en": "Sensing Auto Door Lock Function"
+       },
+       "words": 1270,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t001_72e5624e",
+       "title": {
+        "ru": "Stopping The Engine",
+        "en": "Stopping The Engine"
+       },
+       "words": 1232,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t002_7388baaa",
+       "title": {
+        "ru": "Average Fuel Economy",
+        "en": "Average Fuel Economy"
+       },
+       "words": 580,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t003_07fad111",
+       "title": {
+        "ru": "Dynamic Stability Control",
+        "en": "Dynamic Stability Control"
+       },
+       "words": 1174,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t004_a71f31f0",
+       "title": {
+        "ru": "Diesel Particulate Filter",
+        "en": "Diesel Particulate Filter"
+       },
+       "words": 1146,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t005_0c137a69",
+       "title": {
+        "ru": "Other Equipment",
+        "en": "Other Equipment"
+       },
+       "words": 1573,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t006_98901853",
+       "title": {
+        "ru": "Exterior Lights Warning",
+        "en": "Exterior Lights Warning"
+       },
+       "words": 1096,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t007_939f1109",
+       "title": {
+        "ru": "Active Driving Display",
+        "en": "Active Driving Display"
+       },
+       "words": 936,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t008_05d6ee11",
+       "title": {
+        "ru": "Security Indicator Light",
+        "en": "Security Indicator Light"
+       },
+       "words": 823,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t009_eeef7dbc",
+       "title": {
+        "ru": "Scheduled Maintenance",
+        "en": "Scheduled Maintenance"
+       },
+       "words": 1427,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t010_1c96a3b5",
+       "title": {
+        "ru": "Engine Compartment Inspection",
+        "en": "Engine Compartment Inspection"
+       },
+       "words": 529,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t011_a9fb6019",
+       "title": {
+        "ru": "Engine Compartment Inspection",
+        "en": "Engine Compartment Inspection"
+       },
+       "words": 853,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t012_882fa393",
+       "title": {
+        "ru": "Engine Compartment Inspection",
+        "en": "Engine Compartment Inspection"
+       },
+       "words": 1047,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t013_1607d6be",
+       "title": {
+        "ru": "Gulf Cooperation",
+        "en": "Gulf Cooperation"
+       },
+       "words": 401,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mazda_cx_60_engine_t014_941bb575",
+       "title": {
+        "ru": "SKYACTIV-G",
+        "en": "SKYACTIV-G"
+       },
+       "words": 459,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "mazda_cx_60_brakes_t000_f3be8f3d",
+       "title": {
+        "ru": "Using Neutral Hold Mode",
+        "en": "Using Neutral Hold Mode"
+       },
+       "words": 1343,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mazda_cx_60_brakes_t001_05920e7c",
+       "title": {
+        "ru": "Cancelling the Parking Brake",
+        "en": "Cancelling the Parking Brake"
+       },
+       "words": 911,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mazda_cx_60_brakes_t002_85589a40",
+       "title": {
+        "ru": "Antilock Brake System",
+        "en": "Antilock Brake System"
+       },
+       "words": 1002,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mazda_cx_60_brakes_t003_18e79113",
+       "title": {
+        "ru": "The Secondary Collision Reduction",
+        "en": "The Secondary Collision Reduction"
+       },
+       "words": 1954,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mazda_cx_60_brakes_t004_8497b131",
+       "title": {
+        "ru": "Brake System Warning",
+        "en": "Brake System Warning"
+       },
+       "words": 1047,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mazda_cx_60_brakes_t005_272b70d5",
+       "title": {
+        "ru": "Electric Parking Brake",
+        "en": "Electric Parking Brake"
+       },
+       "words": 1164,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mazda_cx_60_brakes_t006_ced21cec",
+       "title": {
+        "ru": "Dynamic Stability Control",
+        "en": "Dynamic Stability Control"
+       },
+       "words": 797,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "mazda_cx_60_suspension_t000_62efda7d",
+       "title": {
+        "ru": "Rear Window Defogger",
+        "en": "Rear Window Defogger"
+       },
+       "words": 1597,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mazda_cx_60_suspension_t001_d756b4af",
+       "title": {
+        "ru": "Heated Steering Wheel",
+        "en": "Heated Steering Wheel"
+       },
+       "words": 1697,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mazda_cx_60_suspension_t002_04e08653",
+       "title": {
+        "ru": "Vehicle Exterior Inspection",
+        "en": "Vehicle Exterior Inspection"
+       },
+       "words": 574,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "mazda_cx_60_hvac_t000_7e4f87a9",
+       "title": {
+        "ru": "Vehicle Exterior Inspection",
+        "en": "Vehicle Exterior Inspection"
+       },
+       "words": 196,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "mazda_cx_60_body_t000_1b05b1a7",
+       "title": {
+        "ru": "After locking by pressing the door-lock",
+        "en": "After locking by pressing the door-lock"
+       },
+       "words": 2313,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "mazda_cx_60_body_t001_4dd23380",
+       "title": {
+        "ru": "This combination improves visibility",
+        "en": "This combination improves visibility"
+       },
+       "words": 1080,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "mazda_cx_60_body_t002_795fa064",
+       "title": {
+        "ru": "Rear Window Defogger Switch",
+        "en": "Rear Window Defogger Switch"
+       },
+       "words": 1787,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "mazda_cx_60_body_t003_db62658d",
+       "title": {
+        "ru": "Selective Catalytic Reduction",
+        "en": "Selective Catalytic Reduction"
+       },
+       "words": 774,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "mazda_cx_60_body_t004_3aaf7849",
+       "title": {
+        "ru": "The Panorama Sunroof Cannot Be Operated",
+        "en": "The Panorama Sunroof Cannot Be Operated"
+       },
+       "words": 1055,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "mazda_cx_60_body_t005_639dcad1",
+       "title": {
+        "ru": "Replacing Front Windscreen Wiper",
+        "en": "Replacing Front Windscreen Wiper"
+       },
+       "words": 174,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "mazda_cx_60_steering_t000_483112df",
+       "title": {
+        "ru": "Cancelling Manual Shift Mode",
+        "en": "Cancelling Manual Shift Mode"
+       },
+       "words": 1271,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "mazda_cx_60_steering_t001_7a0a76e5",
+       "title": {
+        "ru": "Cancelling Second Gear Fixed Mode",
+        "en": "Cancelling Second Gear Fixed Mode"
+       },
+       "words": 1337,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "mazda_cx_60_steering_t002_d8b47113",
+       "title": {
+        "ru": "Emergency Lane Keeping",
+        "en": "Emergency Lane Keeping"
+       },
+       "words": 1882,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "mazda_cx_60_steering_t003_74683a5e",
+       "title": {
+        "ru": "Driver Personalisation System",
+        "en": "Driver Personalisation System"
+       },
+       "words": 513,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "mazda_cx_60_lighting_t000_3baf6491",
+       "title": {
+        "ru": "Cancelling Neutral Hold Mode",
+        "en": "Cancelling Neutral Hold Mode"
+       },
+       "words": 1334,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mazda_cx_60_lighting_t001_966a4e1c",
+       "title": {
+        "ru": "Emergency Signal System",
+        "en": "Emergency Signal System"
+       },
+       "words": 1254,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mazda_cx_60_lighting_t002_e2d43cd1",
+       "title": {
+        "ru": "If the CTS is cancelled while the vehicle is stopped and there is no vehicle ah",
+        "en": "If the CTS is cancelled while the vehicle is stopped and there is no vehicle ah"
+       },
+       "words": 1826,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mazda_cx_60_lighting_t003_a0381d2a",
+       "title": {
+        "ru": "Operating Each Switch",
+        "en": "Operating Each Switch"
+       },
+       "words": 2532,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mazda_cx_60_lighting_t004_76c83f09",
+       "title": {
+        "ru": "Compartment Lights",
+        "en": "Compartment Lights"
+       },
+       "words": 1285,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mazda_cx_60_lighting_t005_e5bcb8f6",
+       "title": {
+        "ru": "Charging System Warning",
+        "en": "Charging System Warning"
+       },
+       "words": 827,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mazda_cx_60_lighting_t006_15099ad8",
+       "title": {
+        "ru": "Petrol Particulate Filter",
+        "en": "Petrol Particulate Filter"
+       },
+       "words": 832,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mazda_cx_60_lighting_t007_3519d0e8",
+       "title": {
+        "ru": "Exterior Lights Warning",
+        "en": "Exterior Lights Warning"
+       },
+       "words": 917,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mazda_cx_60_lighting_t008_dbb0cb68",
+       "title": {
+        "ru": "Engine Compartment Inspection",
+        "en": "Engine Compartment Inspection"
+       },
+       "words": 1435,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mazda_cx_60_lighting_t009_e08f500c",
+       "title": {
+        "ru": "Interior Maintenance",
+        "en": "Interior Maintenance"
+       },
+       "words": 714,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "mazda_cx_60_interior_t000_415d2d4e",
+       "title": {
+        "ru": "Rear seat side air bags*",
+        "en": "Rear seat side air bags*"
+       },
+       "words": 2640,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "mazda_cx_60_interior_t001_944fe437",
+       "title": {
+        "ru": "Front Seats",
+        "en": "Front Seats"
+       },
+       "words": 1577,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "mazda_cx_60_interior_t002_d75363dd",
+       "title": {
+        "ru": "Head Restraints",
+        "en": "Head Restraints"
+       },
+       "words": 1764,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "mazda_cx_60_interior_t003_8c00e76c",
+       "title": {
+        "ru": "Do not allow a child or anyone to",
+        "en": "Do not allow a child or anyone to"
+       },
+       "words": 2115,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "mazda_cx_60_interior_t004_d36b42a2",
+       "title": {
+        "ru": "Regeneration Charge",
+        "en": "Regeneration Charge"
+       },
+       "words": 1368,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "mazda_cx_60_interior_t005_1a02cfa5",
+       "title": {
+        "ru": "The Secondary Collision Reduction",
+        "en": "The Secondary Collision Reduction"
+       },
+       "words": 1986,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "mazda_cx_60_interior_t006_351d33ca",
+       "title": {
+        "ru": "Seat Belt Warning Light",
+        "en": "Seat Belt Warning Light"
+       },
+       "words": 1071,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "mazda_cx_60_ev_t000_1dfb48ff",
+       "title": {
+        "ru": "Authorised Mazda",
+        "en": "Authorised Mazda"
+       },
+       "words": 1727,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "mazda_cx_60_ev_t001_28e37980",
+       "title": {
+        "ru": "Vehicle Problem Warning",
+        "en": "Vehicle Problem Warning"
+       },
+       "words": 890,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "mazda_cx_60_general_t000_80ca15ab",
+       "title": {
+        "ru": "Thank you for choosing a Mazda product. We at Mazda design and build vehicles",
+        "en": "Thank you for choosing a Mazda product. We at Mazda design and build vehicles"
+       },
+       "words": 964,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t001_a75f6bfe",
+       "title": {
+        "ru": "Always install the head restraint and",
+        "en": "Always install the head restraint and"
+       },
+       "words": 1988,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t002_dde0aeea",
+       "title": {
+        "ru": "Convenient Ways to Use",
+        "en": "Convenient Ways to Use"
+       },
+       "words": 2702,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t003_8b5a924f",
+       "title": {
+        "ru": "The vehicle power is switched OFF.",
+        "en": "The vehicle power is switched OFF."
+       },
+       "words": 2007,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t004_9363b428",
+       "title": {
+        "ru": "Traffic Sign Recognition System",
+        "en": "Traffic Sign Recognition System"
+       },
+       "words": 265,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t005_9124a669",
+       "title": {
+        "ru": "Intelligent Speed Assistance",
+        "en": "Intelligent Speed Assistance"
+       },
+       "words": 752,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t006_2e234381",
+       "title": {
+        "ru": "Hill Descent Control",
+        "en": "Hill Descent Control"
+       },
+       "words": 1344,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t007_eb100ee2",
+       "title": {
+        "ru": "Tyre Pressure Monitoring",
+        "en": "Tyre Pressure Monitoring"
+       },
+       "words": 1317,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t008_79213e58",
+       "title": {
+        "ru": "Driver Awareness Support Systems",
+        "en": "Driver Awareness Support Systems"
+       },
+       "words": 1950,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t009_30e63714",
+       "title": {
+        "ru": "Secondary Collision Reduction",
+        "en": "Secondary Collision Reduction"
+       },
+       "words": 1310,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t010_7a7d032c",
+       "title": {
+        "ru": "Rear View Monitor",
+        "en": "Rear View Monitor"
+       },
+       "words": 887,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t011_76bacfb3",
+       "title": {
+        "ru": "Programming Content",
+        "en": "Programming Content"
+       },
+       "words": 798,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t012_43b9d976",
+       "title": {
+        "ru": "RELATED TO THE APPLICATION OR YOUR USE OF OR INABILITY TO USE THE",
+        "en": "RELATED TO THE APPLICATION OR YOUR USE OF OR INABILITY TO USE THE"
+       },
+       "words": 1300,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t013_c91202f1",
+       "title": {
+        "ru": "Other Equipment",
+        "en": "Other Equipment"
+       },
+       "words": 613,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t014_65a2cfff",
+       "title": {
+        "ru": "Cargo Securing Loops",
+        "en": "Cargo Securing Loops"
+       },
+       "words": 684,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t015_5e7d2172",
+       "title": {
+        "ru": "Luggage Compartment",
+        "en": "Luggage Compartment"
+       },
+       "words": 656,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t016_c9e596b6",
+       "title": {
+        "ru": "Other Equipment",
+        "en": "Other Equipment"
+       },
+       "words": 401,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t017_83cd6eb1",
+       "title": {
+        "ru": "Other Equipment",
+        "en": "Other Equipment"
+       },
+       "words": 1272,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t018_0a830b5f",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 1979,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t019_8017584c",
+       "title": {
+        "ru": "The Power Windows Cannot Be Operated",
+        "en": "The Power Windows Cannot Be Operated"
+       },
+       "words": 1108,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t020_57a011df",
+       "title": {
+        "ru": "Modular Diagnostic",
+        "en": "Modular Diagnostic"
+       },
+       "words": 1228,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t021_c46ee654",
+       "title": {
+        "ru": "Tyre Pressure Monitoring System",
+        "en": "Tyre Pressure Monitoring System"
+       },
+       "words": 882,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mazda_cx_60_general_t022_8d38bd76",
+       "title": {
+        "ru": "Intelligent Speed Assistance",
+        "en": "Intelligent Speed Assistance"
+       },
+       "words": 467,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "mazda_cx_60_infotainment_t000_f562f3f7",
+       "title": {
+        "ru": "Proximity Type Auto Lock Function",
+        "en": "Proximity Type Auto Lock Function"
+       },
+       "words": 886,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "mazda_cx_60_infotainment_t001_d6bb5324",
+       "title": {
+        "ru": "Traffic Sign Recognition",
+        "en": "Traffic Sign Recognition"
+       },
+       "words": 1047,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "mazda_cx_60_infotainment_t002_1c2b6701",
+       "title": {
+        "ru": "Driver Attention Alert",
+        "en": "Driver Attention Alert"
+       },
+       "words": 1801,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "mazda_cx_60_infotainment_t003_d666c344",
+       "title": {
+        "ru": "Playback Control",
+        "en": "Playback Control"
+       },
+       "words": 1182,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "mazda_cx_60_infotainment_t004_58b148ed",
+       "title": {
+        "ru": "Playback Control",
+        "en": "Playback Control"
+       },
+       "words": 1353,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "mazda_cx_60_infotainment_t005_a3e87f3b",
+       "title": {
+        "ru": "Wrench Indicator Light",
+        "en": "Wrench Indicator Light"
+       },
+       "words": 1041,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "mazda_cx_60_infotainment_t006_a6f1a1b3",
+       "title": {
+        "ru": "Aerial Positions",
+        "en": "Aerial Positions"
+       },
+       "words": 145,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "mazda_cx_60_sensors_t000_f1fad748",
+       "title": {
+        "ru": "To prevent false detection by the air",
+        "en": "To prevent false detection by the air"
+       },
+       "words": 1404,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "mazda_cx_60_sensors_t001_8e870e23",
+       "title": {
+        "ru": "Forward Sensing Camera",
+        "en": "Forward Sensing Camera"
+       },
+       "words": 1052,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "mazda_cx_60_sensors_t002_03f2c415",
+       "title": {
+        "ru": "Beam Control System",
+        "en": "Beam Control System"
+       },
+       "words": 2058,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "mazda_cx_60_sensors_t003_9198e8b4",
+       "title": {
+        "ru": "Warnings and Cautions for Using the 360° View",
+        "en": "Warnings and Cautions for Using the 360° View"
+       },
+       "words": 2814,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "mazda_cx_60_sensors_t004_e4239203",
+       "title": {
+        "ru": "The parking sensor detection range has limitations. For details, refer to the p",
+        "en": "The parking sensor detection range has limitations. For details, refer to the p"
+       },
+       "words": 1556,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "mazda_cx_60_sensors_t005_c56d147c",
+       "title": {
+        "ru": "The Driver Personalisation System",
+        "en": "The Driver Personalisation System"
+       },
+       "words": 271,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "mazda_cx_60_drivetrain_t000_64767070",
+       "title": {
+        "ru": "Selector Lever",
+        "en": "Selector Lever"
+       },
+       "words": 619,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

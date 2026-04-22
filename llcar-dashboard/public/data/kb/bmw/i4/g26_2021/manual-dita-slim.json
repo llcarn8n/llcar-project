@@ -1,0 +1,575 @@
+{
+ "version": "1.0",
+ "model": "i4_g26",
+ "manuals": [
+  {
+   "model": "i4_g26",
+   "label": {
+    "ru": "Bmw I4 G26 — Руководство по ремонту",
+    "en": "Bmw I4 G26 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_engine_t000_fbf57285",
+       "title": {
+        "ru": "In the event of danger, such as with locked",
+        "en": "In the event of danger, such as with locked"
+       },
+       "words": 1401,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_brakes_t000_312d869d",
+       "title": {
+        "ru": "The charging cable can be stowed in the cargo",
+        "en": "The charging cable can be stowed in the cargo"
+       },
+       "words": 3034,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "bmw_i4_g26_brakes_t001_a4fe91ad",
+       "title": {
+        "ru": "Everything from A to Z",
+        "en": "Everything from A to Z"
+       },
+       "words": 703,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_suspension_t000_ccc41bea",
+       "title": {
+        "ru": "The timer is turned off when the drive-ready",
+        "en": "The timer is turned off when the drive-ready"
+       },
+       "words": 2273,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_body_t000_7c9b08d6",
+       "title": {
+        "ru": "In some situations, the idle state is not set au-",
+        "en": "In some situations, the idle state is not set au-"
+       },
+       "words": 2633,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_i4_g26_body_t001_bdacac38",
+       "title": {
+        "ru": "Carrying the vehicle key with you, e.g., in your",
+        "en": "Carrying the vehicle key with you, e.g., in your"
+       },
+       "words": 3090,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_i4_g26_body_t002_7f5a5dd1",
+       "title": {
+        "ru": "Folding the exterior mirrors in and out is help-",
+        "en": "Folding the exterior mirrors in and out is help-"
+       },
+       "words": 2692,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_i4_g26_body_t003_9a22d7da",
+       "title": {
+        "ru": "Pressure warning, see Tire Pressure Moni-",
+        "en": "Pressure warning, see Tire Pressure Moni-"
+       },
+       "words": 2925,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_steering_t000_9ecd02c6",
+       "title": {
+        "ru": "Using the voice activation of the",
+        "en": "Using the voice activation of the"
+       },
+       "words": 2672,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "bmw_i4_g26_steering_t001_32637c91",
+       "title": {
+        "ru": "If a lane boundary is not detected for a cer-",
+        "en": "If a lane boundary is not detected for a cer-"
+       },
+       "words": 2812,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "bmw_i4_g26_steering_t002_2202c78f",
+       "title": {
+        "ru": "Stop no later than when normal road traffic",
+        "en": "Stop no later than when normal road traffic"
+       },
+       "words": 1426,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_lighting_t000_854d7b9e",
+       "title": {
+        "ru": "Operating via the Controller",
+        "en": "Operating via the Controller"
+       },
+       "words": 2766,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_i4_g26_lighting_t001_59e80d49",
+       "title": {
+        "ru": "Forward Collision Mitigation is limited",
+        "en": "Forward Collision Mitigation is limited"
+       },
+       "words": 2730,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_i4_g26_lighting_t002_bc53d11b",
+       "title": {
+        "ru": "Cruise control is continued with the stored val-",
+        "en": "Cruise control is continued with the stored val-"
+       },
+       "words": 2983,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_i4_g26_lighting_t003_83e92fb2",
+       "title": {
+        "ru": "Installation of child restraing systems 111",
+        "en": "Installation of child restraing systems 111"
+       },
+       "words": 1780,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_interior_t000_43ee1e3d",
+       "title": {
+        "ru": "The drive-ready state is switched off automati-",
+        "en": "The drive-ready state is switched off automati-"
+       },
+       "words": 2315,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_i4_g26_interior_t001_66539ec8",
+       "title": {
+        "ru": "The sensor system calibration process is",
+        "en": "The sensor system calibration process is"
+       },
+       "words": 3004,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_i4_g26_interior_t002_bc17fd14",
+       "title": {
+        "ru": "Setting the upper body temperature",
+        "en": "Setting the upper body temperature"
+       },
+       "words": 2829,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_maintenance_t000_fbbf4da1",
+       "title": {
+        "ru": "Dust and pollen is filtered out from the in-",
+        "en": "Dust and pollen is filtered out from the in-"
+       },
+       "words": 1424,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_ev_t000_a397bf33",
+       "title": {
+        "ru": "Do not carry the vehicle key in close prox-",
+        "en": "Do not carry the vehicle key in close prox-"
+       },
+       "words": 3211,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "bmw_i4_g26_ev_t001_1733552e",
+       "title": {
+        "ru": "For this purpose, the driving style is analyzed.",
+        "en": "For this purpose, the driving style is analyzed."
+       },
+       "words": 2866,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "bmw_i4_g26_ev_t002_8e7fe616",
+       "title": {
+        "ru": "The set current limit is activated or deacti-",
+        "en": "The set current limit is activated or deacti-"
+       },
+       "words": 3455,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "bmw_i4_g26_ev_t003_e16af7a1",
+       "title": {
+        "ru": "Nylon rope for tow-starting/towing 337",
+        "en": "Nylon rope for tow-starting/towing 337"
+       },
+       "words": 1709,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_general_t000_a2ffa7f7",
+       "title": {
+        "ru": "Your vehicle has been specifically adapted and",
+        "en": "Your vehicle has been specifically adapted and"
+       },
+       "words": 2652,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_i4_g26_general_t001_e77de1f0",
+       "title": {
+        "ru": "Supported voice assistants can be used with a",
+        "en": "Supported voice assistants can be used with a"
+       },
+       "words": 2841,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_i4_g26_general_t002_b5a30be1",
+       "title": {
+        "ru": "In the event of missing, worn, poorly visible,",
+        "en": "In the event of missing, worn, poorly visible,"
+       },
+       "words": 3257,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_i4_g26_general_t003_4b7d164a",
+       "title": {
+        "ru": "Things to remember when driving",
+        "en": "Things to remember when driving"
+       },
+       "words": 3240,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_i4_g26_general_t004_4a2f4de5",
+       "title": {
+        "ru": "5. Make sure that the car jack foot stands ver-",
+        "en": "5. Make sure that the car jack foot stands ver-"
+       },
+       "words": 2126,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_infotainment_t000_b2383ae8",
+       "title": {
+        "ru": "The sound and picture from the mobile devices",
+        "en": "The sound and picture from the mobile devices"
+       },
+       "words": 2389,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_i4_g26_infotainment_t001_b4b03b4d",
+       "title": {
+        "ru": "The guest profile is selected on the Welcome",
+        "en": "The guest profile is selected on the Welcome"
+       },
+       "words": 2977,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_i4_g26_infotainment_t002_8b699f06",
+       "title": {
+        "ru": "Display, current driving condition 154",
+        "en": "Display, current driving condition 154"
+       },
+       "words": 2413,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_sensors_t000_9b2e0f42",
+       "title": {
+        "ru": "If work is performed improperly, for instance",
+        "en": "If work is performed improperly, for instance"
+       },
+       "words": 2992,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "bmw_i4_g26_sensors_t001_e2fea817",
+       "title": {
+        "ru": "Without Parking Assistant Plus",
+        "en": "Without Parking Assistant Plus"
+       },
+       "words": 2535,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_drivetrain_t000_8f823127",
+       "title": {
+        "ru": "If the vehicle drives off with a jerky move-",
+        "en": "If the vehicle drives off with a jerky move-"
+       },
+       "words": 3259,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_i4_g26_drivetrain_t001_2aaf393e",
+       "title": {
+        "ru": "The Head-up display projects important infor-",
+        "en": "The Head-up display projects important infor-"
+       },
+       "words": 2984,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_i4_g26_drivetrain_t002_6bf74b31",
+       "title": {
+        "ru": "During activation or intervention by driver",
+        "en": "During activation or intervention by driver"
+       },
+       "words": 3134,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_i4_g26_drivetrain_t003_51f3dd21",
+       "title": {
+        "ru": "Functional requirements",
+        "en": "Functional requirements"
+       },
+       "words": 806,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_safety_t000_0c499774",
+       "title": {
+        "ru": "Avoid lateral loading of the tow fitting, for",
+        "en": "Avoid lateral loading of the tow fitting, for"
+       },
+       "words": 2908,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "tires",
+     "title": {
+      "ru": "tires",
+      "en": "tires"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_i4_g26_tires_t000_517ea6a7",
+       "title": {
+        "ru": "Checking using tire inflation pressure",
+        "en": "Checking using tire inflation pressure"
+       },
+       "words": 3415,
+       "images": 0,
+       "section_id": "tires"
+      },
+      {
+       "id": "bmw_i4_g26_tires_t001_3b54fbe3",
+       "title": {
+        "ru": "Re-initialize the flat tire monitor or reset the",
+        "en": "Re-initialize the flat tire monitor or reset the"
+       },
+       "words": 3891,
+       "images": 0,
+       "section_id": "tires"
+      },
+      {
+       "id": "bmw_i4_g26_tires_t002_6ecb432f",
+       "title": {
+        "ru": "Time zone 153",
+        "en": "Time zone 153"
+       },
+       "words": 755,
+       "images": 0,
+       "section_id": "tires"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

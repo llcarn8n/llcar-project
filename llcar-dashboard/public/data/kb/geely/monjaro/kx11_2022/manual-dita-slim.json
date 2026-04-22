@@ -1,0 +1,2235 @@
+{
+ "version": "1.0",
+ "model": "monjaro",
+ "manuals": [
+  {
+   "model": "monjaro",
+   "label": {
+    "ru": "Geely Monjaro — Руководство по ремонту",
+    "en": "Geely Monjaro — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "geely_monjaro_engine_t000_c6a09078",
+       "title": {
+        "ru": "2.2.4.1 Location Diagram of Control System Components",
+        "en": "2.2.4.1 Location Diagram of Control System Components"
+       },
+       "words": 2490,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "geely_monjaro_engine_t001_a8baa055",
+       "title": {
+        "ru": "2.4.2.1 Evaporative Emission System (EVAP)",
+        "en": "2.4.2.1 Evaporative Emission System (EVAP)"
+       },
+       "words": 2070,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "geely_monjaro_engine_t002_3d7d6829",
+       "title": {
+        "ru": "Working Principle of VVT System",
+        "en": "Working Principle of VVT System"
+       },
+       "words": 2705,
+       "images": 36,
+       "section_id": "engine"
+      },
+      {
+       "id": "geely_monjaro_engine_t003_cb0adf4f",
+       "title": {
+        "ru": "2.6.3.1 System working principles",
+        "en": "2.6.3.1 System working principles"
+       },
+       "words": 2890,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "geely_monjaro_engine_t004_90b8e8ed",
+       "title": {
+        "ru": "2.9.4.1 Location of Lubrication System Component",
+        "en": "2.9.4.1 Location of Lubrication System Component"
+       },
+       "words": 2927,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "geely_monjaro_engine_t005_1c063620",
+       "title": {
+        "ru": "2.9.6.4 Engine oil Pressure Diagnosis and Testing",
+        "en": "2.9.6.4 Engine oil Pressure Diagnosis and Testing"
+       },
+       "words": 1760,
+       "images": 21,
+       "section_id": "engine"
+      },
+      {
+       "id": "geely_monjaro_engine_t006_8fac5c3e",
+       "title": {
+        "ru": "Components of the Rear Disk Brake System",
+        "en": "Components of the Rear Disk Brake System"
+       },
+       "words": 2609,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "geely_monjaro_engine_t007_31c8ec94",
+       "title": {
+        "ru": "7.4.5.14 Replacement of Brake Master Cylinder No.1 Hard Pipe",
+        "en": "7.4.5.14 Replacement of Brake Master Cylinder No.1 Hard Pipe"
+       },
+       "words": 1016,
+       "images": 12,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "geely_monjaro_brakes_t000_e5e017c3",
+       "title": {
+        "ru": "Warning about Handling of Anti-lock Brake System Components",
+        "en": "Warning about Handling of Anti-lock Brake System Components"
+       },
+       "words": 1513,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "geely_monjaro_brakes_t001_48466ebd",
+       "title": {
+        "ru": "5.2.5 Diagnostic Information and Procedures. 5-10",
+        "en": "5.2.5 Diagnostic Information and Procedures. 5-10"
+       },
+       "words": 1095,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "geely_monjaro_brakes_t002_432272eb",
+       "title": {
+        "ru": "5.2.5.3 Check of front shock absorber assembly",
+        "en": "5.2.5.3 Check of front shock absorber assembly"
+       },
+       "words": 1632,
+       "images": 24,
+       "section_id": "brakes"
+      },
+      {
+       "id": "geely_monjaro_brakes_t003_d13fccd3",
+       "title": {
+        "ru": "5.3.5.3 Rear shock absorber inspection",
+        "en": "5.3.5.3 Rear shock absorber inspection"
+       },
+       "words": 1345,
+       "images": 28,
+       "section_id": "brakes"
+      },
+      {
+       "id": "geely_monjaro_brakes_t004_2e26817a",
+       "title": {
+        "ru": "5.4.4.8 Diagnosis of excessive tire wear",
+        "en": "5.4.4.8 Diagnosis of excessive tire wear"
+       },
+       "words": 1779,
+       "images": 35,
+       "section_id": "brakes"
+      },
+      {
+       "id": "geely_monjaro_brakes_t005_257a887d",
+       "title": {
+        "ru": "7.2.5.4 Inspection of the brake caliper floating pin",
+        "en": "7.2.5.4 Inspection of the brake caliper floating pin"
+       },
+       "words": 856,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "geely_monjaro_brakes_t006_c5042a10",
+       "title": {
+        "ru": "7.3.6.2 Replacement of the left rear brake caliper body with EPB assembly",
+        "en": "7.3.6.2 Replacement of the left rear brake caliper body with EPB assembly"
+       },
+       "words": 784,
+       "images": 15,
+       "section_id": "brakes"
+      },
+      {
+       "id": "geely_monjaro_brakes_t007_62e30008",
+       "title": {
+        "ru": "7.3.6.3 Replacement of left rear brake disk Removal Procedure",
+        "en": "7.3.6.3 Replacement of left rear brake disk Removal Procedure"
+       },
+       "words": 1404,
+       "images": 18,
+       "section_id": "brakes"
+      },
+      {
+       "id": "geely_monjaro_brakes_t008_7855bbc2",
+       "title": {
+        "ru": "7.5.4 Part position 7.5.4.1 Part position",
+        "en": "7.5.4 Part position 7.5.4.1 Part position"
+       },
+       "words": 1449,
+       "images": 14,
+       "section_id": "brakes"
+      },
+      {
+       "id": "geely_monjaro_brakes_t009_15dd34b3",
+       "title": {
+        "ru": "A/C temperature sensor, ambient temperature sensor (exterior rearview mirror)",
+        "en": "A/C temperature sensor, ambient temperature sensor (exterior rearview mirror)"
+       },
+       "words": 2311,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "geely_monjaro_brakes_t010_3fd26756",
+       "title": {
+        "ru": "13.11.1.1 Instructions and operations",
+        "en": "13.11.1.1 Instructions and operations"
+       },
+       "words": 3171,
+       "images": 11,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "geely_monjaro_suspension_t000_e759c76d",
+       "title": {
+        "ru": "Caution",
+        "en": "Caution"
+       },
+       "words": 183,
+       "images": 5,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "geely_monjaro_electrical_t000_915f5766",
+       "title": {
+        "ru": "1.1.1.4 Safe Operation of Hybrid Vehicle",
+        "en": "1.1.1.4 Safe Operation of Hybrid Vehicle"
+       },
+       "words": 2532,
+       "images": 18,
+       "section_id": "electrical"
+      },
+      {
+       "id": "geely_monjaro_electrical_t001_15ae98ad",
+       "title": {
+        "ru": "8.2.5.2 Visual check",
+        "en": "8.2.5.2 Visual check"
+       },
+       "words": 332,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "geely_monjaro_transmission_t000_c978972c",
+       "title": {
+        "ru": "6.2.6.3 Replacement of Left Differential Oil Cooler",
+        "en": "6.2.6.3 Replacement of Left Differential Oil Cooler"
+       },
+       "words": 1906,
+       "images": 12,
+       "section_id": "transmission"
+      },
+      {
+       "id": "geely_monjaro_transmission_t001_056c075d",
+       "title": {
+        "ru": "6.2.6.4 Replacement of Right Differential Oil Cooler",
+        "en": "6.2.6.4 Replacement of Right Differential Oil Cooler"
+       },
+       "words": 208,
+       "images": 2,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "geely_monjaro_hvac_t000_d232c8bc",
+       "title": {
+        "ru": "1.6.1 Instructions and operations 1-48",
+        "en": "1.6.1 Instructions and operations 1-48"
+       },
+       "words": 1620,
+       "images": 7,
+       "section_id": "hvac"
+      },
+      {
+       "id": "geely_monjaro_hvac_t001_abf221af",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1080,
+       "images": 8,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "geely_monjaro_body_t000_28530543",
+       "title": {
+        "ru": "1.2.1.5 Items to Be Checked at Least Twice a Year",
+        "en": "1.2.1.5 Items to Be Checked at Least Twice a Year"
+       },
+       "words": 2233,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t001_6bcd55f2",
+       "title": {
+        "ru": "3.2.5.4 Normal Power-up Process of High Voltage System",
+        "en": "3.2.5.4 Normal Power-up Process of High Voltage System"
+       },
+       "words": 2302,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t002_f6bbce2f",
+       "title": {
+        "ru": "12.4.5 Diagnostic information and procedure 12-115",
+        "en": "12.4.5 Diagnostic information and procedure 12-115"
+       },
+       "words": 2686,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t003_efb76f09",
+       "title": {
+        "ru": "7. Delay operation function",
+        "en": "7. Delay operation function"
+       },
+       "words": 1297,
+       "images": 14,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t004_cab7fa5d",
+       "title": {
+        "ru": "12.4.6.3 Replacement of left front door window assembly",
+        "en": "12.4.6.3 Replacement of left front door window assembly"
+       },
+       "words": 1254,
+       "images": 19,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t005_303ebc99",
+       "title": {
+        "ru": "12.4.6.5 Replacement of left rear outer triangle window",
+        "en": "12.4.6.5 Replacement of left rear outer triangle window"
+       },
+       "words": 984,
+       "images": 22,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t006_c8ab2056",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 932,
+       "images": 19,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t007_bdb22ad9",
+       "title": {
+        "ru": "Automatic window overtime closing",
+        "en": "Automatic window overtime closing"
+       },
+       "words": 1768,
+       "images": 8,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t008_d99345aa",
+       "title": {
+        "ru": "12.9.2.1 Instructions and operations",
+        "en": "12.9.2.1 Instructions and operations"
+       },
+       "words": 1375,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t009_6222e7f9",
+       "title": {
+        "ru": "12.17.3 Part position 12.17.3.1 Part position",
+        "en": "12.17.3 Part position 12.17.3.1 Part position"
+       },
+       "words": 2218,
+       "images": 12,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t010_c7ded5bb",
+       "title": {
+        "ru": "13.4.3.13 Replacement of rear bumper middle trim strip",
+        "en": "13.4.3.13 Replacement of rear bumper middle trim strip"
+       },
+       "words": 1666,
+       "images": 30,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t011_3a4c4e99",
+       "title": {
+        "ru": "13.9.2.2 Replacement of left rear door interior trim panel assembly",
+        "en": "13.9.2.2 Replacement of left rear door interior trim panel assembly"
+       },
+       "words": 2238,
+       "images": 43,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t012_decc3f51",
+       "title": {
+        "ru": "13.9.2.5 Replacement of left rear door sill interior trim panel assembly",
+        "en": "13.9.2.5 Replacement of left rear door sill interior trim panel assembly"
+       },
+       "words": 2614,
+       "images": 23,
+       "section_id": "body"
+      },
+      {
+       "id": "geely_monjaro_body_t013_ae9f95d1",
+       "title": {
+        "ru": "13.9.2.22 Replacement of front floor rear carpet",
+        "en": "13.9.2.22 Replacement of front floor rear carpet"
+       },
+       "words": 2625,
+       "images": 29,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "geely_monjaro_steering_t000_93b2be37",
+       "title": {
+        "ru": "Inspection of Steering System, Suspension and Front Drive Axle Shrouds and Seals",
+        "en": "Inspection of Steering System, Suspension and Front Drive Axle Shrouds and Seals"
+       },
+       "words": 1420,
+       "images": 31,
+       "section_id": "steering"
+      },
+      {
+       "id": "geely_monjaro_steering_t001_4efc9feb",
+       "title": {
+        "ru": "8.2.6.4 Replacement of the electric power assisted steering gear with cross tie ",
+        "en": "8.2.6.4 Replacement of the electric power assisted steering gear with cross tie "
+       },
+       "words": 1314,
+       "images": 12,
+       "section_id": "steering"
+      },
+      {
+       "id": "geely_monjaro_steering_t002_a4287085",
+       "title": {
+        "ru": "13.8.3 Removal and Installation 13-200",
+        "en": "13.8.3 Removal and Installation 13-200"
+       },
+       "words": 2227,
+       "images": 30,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "fuel_ev",
+     "title": {
+      "ru": "Топливная / ВВ система",
+      "en": "Fuel / HV System"
+     },
+     "icon": "⛽",
+     "topics": [
+      {
+       "id": "geely_monjaro_fuel_ev_t000_ff16267c",
+       "title": {
+        "ru": "2.3.6 Diagnostic Information and",
+        "en": "2.3.6 Diagnostic Information and"
+       },
+       "words": 1410,
+       "images": 3,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "geely_monjaro_fuel_ev_t001_25318ac6",
+       "title": {
+        "ru": "2.3.5 Breakdown drawing 2.3.5.1 Fuel injector components",
+        "en": "2.3.5 Breakdown drawing 2.3.5.1 Fuel injector components"
+       },
+       "words": 1116,
+       "images": 3,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "geely_monjaro_fuel_ev_t002_9ef02a60",
+       "title": {
+        "ru": "2.3.7.8 Disassembly of Fuel Rail Injector Subassembly",
+        "en": "2.3.7.8 Disassembly of Fuel Rail Injector Subassembly"
+       },
+       "words": 1927,
+       "images": 31,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "geely_monjaro_fuel_ev_t003_49b165cb",
+       "title": {
+        "ru": "2.3.7.15 Replacement of Carbon Canister Desorption Tube",
+        "en": "2.3.7.15 Replacement of Carbon Canister Desorption Tube"
+       },
+       "words": 1501,
+       "images": 24,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "geely_monjaro_fuel_ev_t004_966a3f84",
+       "title": {
+        "ru": "2.3.7.17 Replacement of Fuel Tank Isolation Valve Outlet Tube",
+        "en": "2.3.7.17 Replacement of Fuel Tank Isolation Valve Outlet Tube"
+       },
+       "words": 2254,
+       "images": 19,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "geely_monjaro_fuel_ev_t005_2030175d",
+       "title": {
+        "ru": "3.3.3.1 System working principles",
+        "en": "3.3.3.1 System working principles"
+       },
+       "words": 2985,
+       "images": 26,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "geely_monjaro_fuel_ev_t006_0523d282",
+       "title": {
+        "ru": "5.3.6.3 Replacement of Rear Suspension Stabilizer Bar",
+        "en": "5.3.6.3 Replacement of Rear Suspension Stabilizer Bar"
+       },
+       "words": 1535,
+       "images": 16,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "geely_monjaro_fuel_ev_t007_adc6349d",
+       "title": {
+        "ru": "13.10.2.4 Replacement of fuel tank right bottom shield",
+        "en": "13.10.2.4 Replacement of fuel tank right bottom shield"
+       },
+       "words": 507,
+       "images": 2,
+       "section_id": "fuel_ev"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "geely_monjaro_lighting_t000_b79e480d",
+       "title": {
+        "ru": "Warning！",
+        "en": "Warning！"
+       },
+       "words": 1229,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "geely_monjaro_lighting_t001_88e8d12d",
+       "title": {
+        "ru": "Too frequent toggling of the key may cause damage or no operation to the motor.",
+        "en": "Too frequent toggling of the key may cause damage or no operation to the motor."
+       },
+       "words": 2360,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "geely_monjaro_lighting_t002_f8957ee3",
+       "title": {
+        "ru": "12.3.6.19 Replacement of left front grille lamp Removal Procedure",
+        "en": "12.3.6.19 Replacement of left front grille lamp Removal Procedure"
+       },
+       "words": 356,
+       "images": 11,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "geely_monjaro_adas_t000_59b11ddd",
+       "title": {
+        "ru": "12.8.6.7 Replacement of tailgate opening switch",
+        "en": "12.8.6.7 Replacement of tailgate opening switch"
+       },
+       "words": 684,
+       "images": 8,
+       "section_id": "adas"
+      },
+      {
+       "id": "geely_monjaro_adas_t001_3520e4cd",
+       "title": {
+        "ru": "12.13.3 Part position 12.13.3.1 Part position",
+        "en": "12.13.3 Part position 12.13.3.1 Part position"
+       },
+       "words": 899,
+       "images": 14,
+       "section_id": "adas"
+      },
+      {
+       "id": "geely_monjaro_adas_t002_ae76f89a",
+       "title": {
+        "ru": "4. Decelerate when using adaptive cruise control",
+        "en": "4. Decelerate when using adaptive cruise control"
+       },
+       "words": 3452,
+       "images": 1,
+       "section_id": "adas"
+      },
+      {
+       "id": "geely_monjaro_adas_t003_f395f8fe",
+       "title": {
+        "ru": "13.4.3.10 Replacement of radiator cover assembly",
+        "en": "13.4.3.10 Replacement of radiator cover assembly"
+       },
+       "words": 392,
+       "images": 2,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "geely_monjaro_interior_t000_002190e0",
+       "title": {
+        "ru": "1.2.1.1 Items to be Checked while Operating Vehicle",
+        "en": "1.2.1.1 Items to be Checked while Operating Vehicle"
+       },
+       "words": 3221,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "geely_monjaro_interior_t001_20c23103",
+       "title": {
+        "ru": "13.8.3.19 Replacement of instrument panel body assembly",
+        "en": "13.8.3.19 Replacement of instrument panel body assembly"
+       },
+       "words": 1640,
+       "images": 2,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "geely_monjaro_general_t000_a76492ca",
+       "title": {
+        "ru": "1.5.1 Instructions and operations 1-43",
+        "en": "1.5.1 Instructions and operations 1-43"
+       },
+       "words": 831,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t001_382111f6",
+       "title": {
+        "ru": "Warning！",
+        "en": "Warning！"
+       },
+       "words": 449,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t002_be4e3653",
+       "title": {
+        "ru": "Warning！",
+        "en": "Warning！"
+       },
+       "words": 533,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t003_251845ff",
+       "title": {
+        "ru": "Warning about Road Test",
+        "en": "Warning about Road Test"
+       },
+       "words": 614,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t004_0803138b",
+       "title": {
+        "ru": "Warning！",
+        "en": "Warning！"
+       },
+       "words": 651,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t005_0783daf5",
+       "title": {
+        "ru": "Caution",
+        "en": "Caution"
+       },
+       "words": 552,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t006_b58249b9",
+       "title": {
+        "ru": "Caution",
+        "en": "Caution"
+       },
+       "words": 491,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t007_6b3d2cc5",
+       "title": {
+        "ru": "1.2.1.4 Items to Be Checked at Least Once a Month",
+        "en": "1.2.1.4 Items to Be Checked at Least Once a Month"
+       },
+       "words": 1259,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t008_6dfaa6ca",
+       "title": {
+        "ru": "Lifting Vehicle Frame Contact Lifter",
+        "en": "Lifting Vehicle Frame Contact Lifter"
+       },
+       "words": 514,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t009_561171f4",
+       "title": {
+        "ru": "1.4.3.1 Engine Oil Drain and Fill Procedure",
+        "en": "1.4.3.1 Engine Oil Drain and Fill Procedure"
+       },
+       "words": 898,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t010_e8db5525",
+       "title": {
+        "ru": "1.5.1.1 Description of Abbreviations in Manual",
+        "en": "1.5.1.1 Description of Abbreviations in Manual"
+       },
+       "words": 884,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t011_238cb85a",
+       "title": {
+        "ru": "See Acid and Alkali.",
+        "en": "See Acid and Alkali."
+       },
+       "words": 840,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t012_09d9007f",
+       "title": {
+        "ru": "1.8.1.2 Vehicle dentification Number (VIN) Description",
+        "en": "1.8.1.2 Vehicle dentification Number (VIN) Description"
+       },
+       "words": 974,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t013_444585b2",
+       "title": {
+        "ru": "1.8.1.4 Transmission Identification Number and Location",
+        "en": "1.8.1.4 Transmission Identification Number and Location"
+       },
+       "words": 740,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t014_5803897d",
+       "title": {
+        "ru": "2.10.5 Diagnostic information and procedure ： 2-438",
+        "en": "2.10.5 Diagnostic information and procedure ： 2-438"
+       },
+       "words": 600,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t015_1dc6fcb6",
+       "title": {
+        "ru": "2.2.1.3 Relationship between Sea Level and Atmospheric Pressure",
+        "en": "2.2.1.3 Relationship between Sea Level and Atmospheric Pressure"
+       },
+       "words": 535,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t016_eb04fc37",
+       "title": {
+        "ru": "2.2.3.1 System working principles",
+        "en": "2.2.3.1 System working principles"
+       },
+       "words": 1239,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t017_40472aa0",
+       "title": {
+        "ru": "2.2.6.5 Replacement of Electric Motor Coolant Valve",
+        "en": "2.2.6.5 Replacement of Electric Motor Coolant Valve"
+       },
+       "words": 1807,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t018_75765a6e",
+       "title": {
+        "ru": "2.2.6.20 Replacement of EGR Temperature Sensor",
+        "en": "2.2.6.20 Replacement of EGR Temperature Sensor"
+       },
+       "words": 1364,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t019_5919df5a",
+       "title": {
+        "ru": "2.3.6.3 Fuel Pressure Testing Procedure",
+        "en": "2.3.6.3 Fuel Pressure Testing Procedure"
+       },
+       "words": 1005,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t020_6de6d15a",
+       "title": {
+        "ru": "2.3.7.4 Replacement of Fuel Pressure Sensor on Low Pressure Side",
+        "en": "2.3.7.4 Replacement of Fuel Pressure Sensor on Low Pressure Side"
+       },
+       "words": 922,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t021_89acef9b",
+       "title": {
+        "ru": "2.3.7.13 Replacement of Lower Floor Fuel Line Assembly",
+        "en": "2.3.7.13 Replacement of Lower Floor Fuel Line Assembly"
+       },
+       "words": 1786,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t022_ebf41d0c",
+       "title": {
+        "ru": "2.3.7.22 Replacement of Front Compartment Fuel Supply Pipe",
+        "en": "2.3.7.22 Replacement of Front Compartment Fuel Supply Pipe"
+       },
+       "words": 1262,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t023_b76af5a6",
+       "title": {
+        "ru": "2.5.5 Breakdown drawing 2.5.5.1 Camshaft Bearing Cover",
+        "en": "2.5.5 Breakdown drawing 2.5.5.1 Camshaft Bearing Cover"
+       },
+       "words": 353,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t024_39a8fa9a",
+       "title": {
+        "ru": "2.5.7.4 Replacement of Right Engine Vibration Isolation Pad Assembly",
+        "en": "2.5.7.4 Replacement of Right Engine Vibration Isolation Pad Assembly"
+       },
+       "words": 1136,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t025_a4acf1df",
+       "title": {
+        "ru": "2.5.7.7 Replacement of Half Shaft Bracket Assembly",
+        "en": "2.5.7.7 Replacement of Half Shaft Bracket Assembly"
+       },
+       "words": 798,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t026_16229279",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1383,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t027_e66c55e1",
+       "title": {
+        "ru": "2.5.7.13 Replacement of Front Oil Seal for Crankshaft",
+        "en": "2.5.7.13 Replacement of Front Oil Seal for Crankshaft"
+       },
+       "words": 997,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t028_b2e31f08",
+       "title": {
+        "ru": "2.5.7.17 Replacement of Timing Idler",
+        "en": "2.5.7.17 Replacement of Timing Idler"
+       },
+       "words": 1090,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t029_956fbb48",
+       "title": {
+        "ru": "2.5.7.19 Replacement of Intake/Exhaust Center Oil Control Valve",
+        "en": "2.5.7.19 Replacement of Intake/Exhaust Center Oil Control Valve"
+       },
+       "words": 713,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t030_3032e4a5",
+       "title": {
+        "ru": "2.6.5 Breakdown drawing 2.6.5.1 Breakdown drawing",
+        "en": "2.6.5 Breakdown drawing 2.6.5.1 Breakdown drawing"
+       },
+       "words": 784,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t031_02d1029e",
+       "title": {
+        "ru": "2.6.7.6 Replacement of Resonator Assembly Removal Procedure",
+        "en": "2.6.7.6 Replacement of Resonator Assembly Removal Procedure"
+       },
+       "words": 1003,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t032_877b7806",
+       "title": {
+        "ru": "2.7.5 Breakdown drawing 2.7.5.1 Breakdown drawing",
+        "en": "2.7.5 Breakdown drawing 2.7.5.1 Breakdown drawing"
+       },
+       "words": 1091,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t033_7551ee2d",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 808,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t034_aeb9f331",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1266,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t035_64a426ab",
+       "title": {
+        "ru": "2.7.7.10 Replacement of Front Channel Heat Shield (2)",
+        "en": "2.7.7.10 Replacement of Front Channel Heat Shield (2)"
+       },
+       "words": 1137,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t036_5a517b67",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1489,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t037_5e7675f2",
+       "title": {
+        "ru": "Warning！",
+        "en": "Warning！"
+       },
+       "words": 1375,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t038_ac785441",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1709,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t039_fdc08805",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1655,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t040_2e15bd56",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1192,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t041_9438fbb8",
+       "title": {
+        "ru": "2.9.6.3 Diagnosis of Abnormal Engine Oil Consumption",
+        "en": "2.9.6.3 Diagnosis of Abnormal Engine Oil Consumption"
+       },
+       "words": 1102,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t042_05cbf130",
+       "title": {
+        "ru": "2.9.7.4 Replacement of Oil Drain Screw Plug",
+        "en": "2.9.7.4 Replacement of Oil Drain Screw Plug"
+       },
+       "words": 1022,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t043_1cf1a414",
+       "title": {
+        "ru": "2.10.4 Part position 2.10.4.1 Location of Ignition System Component",
+        "en": "2.10.4 Part position 2.10.4.1 Location of Ignition System Component"
+       },
+       "words": 1032,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t044_59910e92",
+       "title": {
+        "ru": "See \"WARNING ABOUT BATTERY DISCONNECTION\" in “WARNING AND PRECAUTION”.",
+        "en": "See \"WARNING ABOUT BATTERY DISCONNECTION\" in “WARNING AND PRECAUTION”."
+       },
+       "words": 658,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t045_2036db17",
+       "title": {
+        "ru": "3.3.5.1 Replacement of Coolant Inlet/Outlet Metal Pipe. 3-28",
+        "en": "3.3.5.1 Replacement of Coolant Inlet/Outlet Metal Pipe. 3-28"
+       },
+       "words": 658,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t046_44843cc4",
+       "title": {
+        "ru": "3.1.1.4 Personnel Protection and Environmenta Requirements",
+        "en": "3.1.1.4 Personnel Protection and Environmenta Requirements"
+       },
+       "words": 1526,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t047_3c715109",
+       "title": {
+        "ru": "Low temperature radiator expansion kettle",
+        "en": "Low temperature radiator expansion kettle"
+       },
+       "words": 1187,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t048_af0342d0",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1183,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t049_1048c29c",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1415,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t050_073b411c",
+       "title": {
+        "ru": "3.4.2.1 Instructions and operations",
+        "en": "3.4.2.1 Instructions and operations"
+       },
+       "words": 1292,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t051_e9e7c946",
+       "title": {
+        "ru": "3.5.3 Part position 3.5.3.1 Location Diagram of Charging System Components",
+        "en": "3.5.3 Part position 3.5.3.1 Location Diagram of Charging System Components"
+       },
+       "words": 1627,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t052_d7364a8e",
+       "title": {
+        "ru": "3.7.2.1 Instructions and operations",
+        "en": "3.7.2.1 Instructions and operations"
+       },
+       "words": 1465,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t053_bc096f57",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1266,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t054_97e90551",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 1084,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t055_5cb43eb0",
+       "title": {
+        "ru": "Cooling and Lubrication System",
+        "en": "Cooling and Lubrication System"
+       },
+       "words": 823,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t056_c30d4175",
+       "title": {
+        "ru": "4.2.5.5 Diagnostic Code Reading and Clearing",
+        "en": "4.2.5.5 Diagnostic Code Reading and Clearing"
+       },
+       "words": 688,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t057_853f530d",
+       "title": {
+        "ru": "4.2.6.5 Replacement of Low Pressure Filter Element",
+        "en": "4.2.6.5 Replacement of Low Pressure Filter Element"
+       },
+       "words": 653,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t058_c3946a5b",
+       "title": {
+        "ru": "Removal Procedure",
+        "en": "Removal Procedure"
+       },
+       "words": 800,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t059_157891b0",
+       "title": {
+        "ru": "See \"WARNINGS ON HIGH VOLTAGE SAFETY PRECAUTIONS\" in “WARNING AND PRECAUTION”",
+        "en": "See \"WARNINGS ON HIGH VOLTAGE SAFETY PRECAUTIONS\" in “WARNING AND PRECAUTION”"
+       },
+       "words": 1319,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t060_a3bb3498",
+       "title": {
+        "ru": "5.2.1.1 Fastener specification",
+        "en": "5.2.1.1 Fastener specification"
+       },
+       "words": 1032,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t061_83deac40",
+       "title": {
+        "ru": "5.2.5.7 Ride smoothness diagnosis (too soft or too hard)",
+        "en": "5.2.5.7 Ride smoothness diagnosis (too soft or too hard)"
+       },
+       "words": 645,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t062_8490fcae",
+       "title": {
+        "ru": "5.3.5.5 Ride smoothness diagnosis (too soft or too hard)",
+        "en": "5.3.5.5 Ride smoothness diagnosis (too soft or too hard)"
+       },
+       "words": 851,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t063_05d2394f",
+       "title": {
+        "ru": "5.3.6.7 Replacement of Left Rear Hub Bearing Assembly",
+        "en": "5.3.6.7 Replacement of Left Rear Hub Bearing Assembly"
+       },
+       "words": 589,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t064_b27f95e3",
+       "title": {
+        "ru": "5.4.2.1 Description and Operation",
+        "en": "5.4.2.1 Description and Operation"
+       },
+       "words": 1972,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t065_92115485",
+       "title": {
+        "ru": "5.4.4.7 Diagnosis of abnormal wear on wheel",
+        "en": "5.4.4.7 Diagnosis of abnormal wear on wheel"
+       },
+       "words": 1636,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t066_3b43100c",
+       "title": {
+        "ru": "5.4.5.1 Replacement of Wheel Assembly Replacement",
+        "en": "5.4.5.1 Replacement of Wheel Assembly Replacement"
+       },
+       "words": 546,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t067_f3a3e0c6",
+       "title": {
+        "ru": "6.2.4 Breakdown drawing 6.2.4.1 Breakdown drawing",
+        "en": "6.2.4 Breakdown drawing 6.2.4.1 Breakdown drawing"
+       },
+       "words": 563,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t068_b7caaa7b",
+       "title": {
+        "ru": "7.4.5 Removal and Installation 7-44",
+        "en": "7.4.5 Removal and Installation 7-44"
+       },
+       "words": 775,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t069_b63fda84",
+       "title": {
+        "ru": "7.5.5 Diagnostic information and procedure 7-113",
+        "en": "7.5.5 Diagnostic information and procedure 7-113"
+       },
+       "words": 377,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t070_35b59063",
+       "title": {
+        "ru": "7.2.5.5 Brake Disk Surface and Wear Inspection",
+        "en": "7.2.5.5 Brake Disk Surface and Wear Inspection"
+       },
+       "words": 1016,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t071_3fc79d54",
+       "title": {
+        "ru": "7.4.5.6 Replacement of Right Front Brake Hard Pipe",
+        "en": "7.4.5.6 Replacement of Right Front Brake Hard Pipe"
+       },
+       "words": 1006,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t072_c0a97a3e",
+       "title": {
+        "ru": "7.4.5.9 Replacement of left center brake hard pipe",
+        "en": "7.4.5.9 Replacement of left center brake hard pipe"
+       },
+       "words": 1254,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t073_d6983968",
+       "title": {
+        "ru": "7.4.5.13 Replacement of Right Rear No.1 Brake Hard Pipe",
+        "en": "7.4.5.13 Replacement of Right Rear No.1 Brake Hard Pipe"
+       },
+       "words": 787,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t074_498ae4ce",
+       "title": {
+        "ru": "Automatic hold system (AUTOHOLD)",
+        "en": "Automatic hold system (AUTOHOLD)"
+       },
+       "words": 1087,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t075_76fd50d1",
+       "title": {
+        "ru": "The TPMS system consists of the following components",
+        "en": "The TPMS system consists of the following components"
+       },
+       "words": 1017,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t076_ea7c6686",
+       "title": {
+        "ru": "8.2.2.2 System working principles",
+        "en": "8.2.2.2 System working principles"
+       },
+       "words": 665,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t077_5ec6dcad",
+       "title": {
+        "ru": "8.2.6.5 Inspection of intermediate shaft universal joints",
+        "en": "8.2.6.5 Inspection of intermediate shaft universal joints"
+       },
+       "words": 932,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t078_a0a41623",
+       "title": {
+        "ru": "9.2.2.2 A/C Cooling System Inspection",
+        "en": "9.2.2.2 A/C Cooling System Inspection"
+       },
+       "words": 1228,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t079_122d36cb",
+       "title": {
+        "ru": "See \"Warning about Goggles and Gloves\" in \"Warnings and Precautions\".",
+        "en": "See \"Warning about Goggles and Gloves\" in \"Warnings and Precautions\"."
+       },
+       "words": 2062,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t080_717ec5b2",
+       "title": {
+        "ru": "9.2.4.1 Diagnosis description",
+        "en": "9.2.4.1 Diagnosis description"
+       },
+       "words": 1444,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t081_d6f07771",
+       "title": {
+        "ru": "9.2.5.10 Temperature control damper motor (right) replacement",
+        "en": "9.2.5.10 Temperature control damper motor (right) replacement"
+       },
+       "words": 970,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t082_777c3296",
+       "title": {
+        "ru": "9.2.5.16 Expansion valve replacement",
+        "en": "9.2.5.16 Expansion valve replacement"
+       },
+       "words": 1457,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t083_0918a673",
+       "title": {
+        "ru": "9.2.5.20 Replacement of the front section of the sub-instrument air duct assembl",
+        "en": "9.2.5.20 Replacement of the front section of the sub-instrument air duct assembl"
+       },
+       "words": 877,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t084_3205639a",
+       "title": {
+        "ru": "9.2.5.27 A/C high pressure hose assembly replacement",
+        "en": "9.2.5.27 A/C high pressure hose assembly replacement"
+       },
+       "words": 1171,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t085_67c04b86",
+       "title": {
+        "ru": "9.2.5.34 Replacement of the left side air outlet assembly of the instrument pane",
+        "en": "9.2.5.34 Replacement of the left side air outlet assembly of the instrument pane"
+       },
+       "words": 786,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t086_a2e5b0a4",
+       "title": {
+        "ru": "9.2.5.44 A/C warm air outlet pipe replacement Removal Procedure",
+        "en": "9.2.5.44 A/C warm air outlet pipe replacement Removal Procedure"
+       },
+       "words": 1782,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t087_10651f06",
+       "title": {
+        "ru": "10.4.4 Diagnostic information and procedure. 10-49",
+        "en": "10.4.4 Diagnostic information and procedure. 10-49"
+       },
+       "words": 363,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t088_48c548c4",
+       "title": {
+        "ru": "Following criteria should be strictly followed to avoid the occurrence of above ",
+        "en": "Following criteria should be strictly followed to avoid the occurrence of above "
+       },
+       "words": 1262,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t089_ff05d17e",
+       "title": {
+        "ru": "10.2.5.3 Repair strategies for supplement restrain system (SRS) components",
+        "en": "10.2.5.3 Repair strategies for supplement restrain system (SRS) components"
+       },
+       "words": 815,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t090_df58c5dc",
+       "title": {
+        "ru": "10.2.6.6 Replacement of impact sensor (Bpillar)",
+        "en": "10.2.6.6 Replacement of impact sensor (Bpillar)"
+       },
+       "words": 588,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t091_4b65df5b",
+       "title": {
+        "ru": "10.3.6.2 Replacement of seat belt pretensioner (second row seat left side)",
+        "en": "10.3.6.2 Replacement of seat belt pretensioner (second row seat left side)"
+       },
+       "words": 916,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t092_d5f221a7",
+       "title": {
+        "ru": "10.3.6.5 Replacement of seat belt buckle sensor (second row seat right side)",
+        "en": "10.3.6.5 Replacement of seat belt buckle sensor (second row seat right side)"
+       },
+       "words": 1154,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t093_f9d1524a",
+       "title": {
+        "ru": "10.4.5.2 Replacement of forward looking camera",
+        "en": "10.4.5.2 Replacement of forward looking camera"
+       },
+       "words": 917,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t094_f56df844",
+       "title": {
+        "ru": "12. Door lock motor protection against overheat",
+        "en": "12. Door lock motor protection against overheat"
+       },
+       "words": 753,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t095_f49690dd",
+       "title": {
+        "ru": "12.6 Combination instrument /Driver Information System 12-214",
+        "en": "12.6 Combination instrument /Driver Information System 12-214"
+       },
+       "words": 439,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t096_c71f9067",
+       "title": {
+        "ru": "12.2.2.1 Instructions and operations",
+        "en": "12.2.2.1 Instructions and operations"
+       },
+       "words": 869,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t097_13e12a29",
+       "title": {
+        "ru": "12.2.5.3 Replacement of left A-pillar door tweeter",
+        "en": "12.2.5.3 Replacement of left A-pillar door tweeter"
+       },
+       "words": 546,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t098_e7d965f0",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 635,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t099_e7873e84",
+       "title": {
+        "ru": "12.2.5.15 Replacement of BLE NFC communication module",
+        "en": "12.2.5.15 Replacement of BLE NFC communication module"
+       },
+       "words": 761,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t100_03b3db2b",
+       "title": {
+        "ru": "12.2.5.16 Replacement of microphone",
+        "en": "12.2.5.16 Replacement of microphone"
+       },
+       "words": 618,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t101_3e4b0a0a",
+       "title": {
+        "ru": "Working principles of daytime running lamp",
+        "en": "Working principles of daytime running lamp"
+       },
+       "words": 729,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t102_67b71552",
+       "title": {
+        "ru": "12.3.6.7 Replacement of overhead console unit (type I)",
+        "en": "12.3.6.7 Replacement of overhead console unit (type I)"
+       },
+       "words": 557,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t103_a36d6656",
+       "title": {
+        "ru": "Installation Procedure",
+        "en": "Installation Procedure"
+       },
+       "words": 625,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t104_1c8e1c28",
+       "title": {
+        "ru": "12.3.6.18 Replacement of glovebox illumination lamp",
+        "en": "12.3.6.18 Replacement of glovebox illumination lamp"
+       },
+       "words": 498,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t105_2dbeb4ff",
+       "title": {
+        "ru": "6. Anti-pinch power window self-learning",
+        "en": "6. Anti-pinch power window self-learning"
+       },
+       "words": 963,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t106_bc19689b",
+       "title": {
+        "ru": "12.4.6.16 Replacement of left rear door inner belt line moulding",
+        "en": "12.4.6.16 Replacement of left rear door inner belt line moulding"
+       },
+       "words": 511,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t107_676b580f",
+       "title": {
+        "ru": "12.4.6.21 Replacement of mechanical inside dimming rearview mirror",
+        "en": "12.4.6.21 Replacement of mechanical inside dimming rearview mirror"
+       },
+       "words": 377,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t108_b7c50a1b",
+       "title": {
+        "ru": "12.4.6.24 Replacement of left rear door module",
+        "en": "12.4.6.24 Replacement of left rear door module"
+       },
+       "words": 1031,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t109_ae77f0ed",
+       "title": {
+        "ru": "12.5.6.2 Replacement of front wiper arm Removal Procedure",
+        "en": "12.5.6.2 Replacement of front wiper arm Removal Procedure"
+       },
+       "words": 972,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t110_d28f0b88",
+       "title": {
+        "ru": "12.5.6.13 Replacement of rear wiper blade assembly",
+        "en": "12.5.6.13 Replacement of rear wiper blade assembly"
+       },
+       "words": 778,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t111_03d9bc35",
+       "title": {
+        "ru": "12.6.6.2 Replacement of driver information module",
+        "en": "12.6.6.2 Replacement of driver information module"
+       },
+       "words": 1695,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t112_f6686c04",
+       "title": {
+        "ru": "12.7.5 Breakdown drawing 12.7.5.1 Breakdown drawing",
+        "en": "12.7.5 Breakdown drawing 12.7.5.1 Breakdown drawing"
+       },
+       "words": 1299,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t113_aa7e28c5",
+       "title": {
+        "ru": "Sunroof position offset self-learning",
+        "en": "Sunroof position offset self-learning"
+       },
+       "words": 1102,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t114_b2b0a6d8",
+       "title": {
+        "ru": "12.7.7.5 Replacement of large sunroof front glass",
+        "en": "12.7.7.5 Replacement of large sunroof front glass"
+       },
+       "words": 596,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t115_a8435df1",
+       "title": {
+        "ru": "12.7.7.8 Replacement of sunroof control module with glass motor (type II)",
+        "en": "12.7.7.8 Replacement of sunroof control module with glass motor (type II)"
+       },
+       "words": 708,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t116_39fb4c85",
+       "title": {
+        "ru": "12.8.6.2 Replacement of left front door latch assembly",
+        "en": "12.8.6.2 Replacement of left front door latch assembly"
+       },
+       "words": 452,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t117_e726c2e5",
+       "title": {
+        "ru": "12.9.3 Part position 12.9.3.1 Part position",
+        "en": "12.9.3 Part position 12.9.3.1 Part position"
+       },
+       "words": 587,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t118_67c8d986",
+       "title": {
+        "ru": "Driver seat memory function (if equipped)",
+        "en": "Driver seat memory function (if equipped)"
+       },
+       "words": 1029,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t119_adef8e6c",
+       "title": {
+        "ru": "12.10.3 Part position 12.10.3.1 Part position",
+        "en": "12.10.3 Part position 12.10.3.1 Part position"
+       },
+       "words": 1144,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t120_13e0d8b9",
+       "title": {
+        "ru": "12.10.5.6 Replacement of passenger seat module",
+        "en": "12.10.5.6 Replacement of passenger seat module"
+       },
+       "words": 566,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t121_1ade6b71",
+       "title": {
+        "ru": "12.11.4.1 Diagnosis description",
+        "en": "12.11.4.1 Diagnosis description"
+       },
+       "words": 782,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t122_74f0329a",
+       "title": {
+        "ru": "12.12.3 Part position 12.12.3.1 Part position",
+        "en": "12.12.3 Part position 12.12.3.1 Part position"
+       },
+       "words": 578,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t123_767e9c85",
+       "title": {
+        "ru": "12.13.5.5 Replacement of parking assistance sensor",
+        "en": "12.13.5.5 Replacement of parking assistance sensor"
+       },
+       "words": 795,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t124_81e25cc6",
+       "title": {
+        "ru": "12.14.2 Part position 12.14.2.1 Part position",
+        "en": "12.14.2 Part position 12.14.2.1 Part position"
+       },
+       "words": 865,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t125_4592ad92",
+       "title": {
+        "ru": "12.14.4.4 Replacement of rear USB interface (type II)",
+        "en": "12.14.4.4 Replacement of rear USB interface (type II)"
+       },
+       "words": 662,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t126_811dffcc",
+       "title": {
+        "ru": "12.15.4.4 CAN bus harness repair specifications",
+        "en": "12.15.4.4 CAN bus harness repair specifications"
+       },
+       "words": 1115,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t127_f958629d",
+       "title": {
+        "ru": "12.15.4.6 Diagnosis and repair of FlexRay",
+        "en": "12.15.4.6 Diagnosis and repair of FlexRay"
+       },
+       "words": 1129,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t128_a03fcf71",
+       "title": {
+        "ru": "2. Overtaking assist mode",
+        "en": "2. Overtaking assist mode"
+       },
+       "words": 1405,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t129_0f8ca8c4",
+       "title": {
+        "ru": "12.17.5.1 Replacement of power operated tailgate module",
+        "en": "12.17.5.1 Replacement of power operated tailgate module"
+       },
+       "words": 1202,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t130_c34981c0",
+       "title": {
+        "ru": "12.17.5.2 Replacement of power operated tailgate motor",
+        "en": "12.17.5.2 Replacement of power operated tailgate motor"
+       },
+       "words": 933,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t131_be0be57e",
+       "title": {
+        "ru": "13.11 Plastic panel information and maintenance 13-44",
+        "en": "13.11 Plastic panel information and maintenance 13-44"
+       },
+       "words": 816,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t132_d0dae1f6",
+       "title": {
+        "ru": "13.2.3.8 Replacement of front anti-collision cross beam assembly",
+        "en": "13.2.3.8 Replacement of front anti-collision cross beam assembly"
+       },
+       "words": 1009,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t133_76a7d13e",
+       "title": {
+        "ru": "13.2.3.8 Replacement of front anti-collision cross beam assembly",
+        "en": "13.2.3.8 Replacement of front anti-collision cross beam assembly"
+       },
+       "words": 1415,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t134_18274ba8",
+       "title": {
+        "ru": "13.4.3.6 Replacement of front bumper lower grille",
+        "en": "13.4.3.6 Replacement of front bumper lower grille"
+       },
+       "words": 1458,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t135_45a1821c",
+       "title": {
+        "ru": "13.5.2.4 Replacement of left front door outer release handle assembly",
+        "en": "13.5.2.4 Replacement of left front door outer release handle assembly"
+       },
+       "words": 1314,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t136_ab40dc79",
+       "title": {
+        "ru": "13.7.3.5 Replacement of rear seat right backrest assembly",
+        "en": "13.7.3.5 Replacement of rear seat right backrest assembly"
+       },
+       "words": 1065,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t137_fa1fd2b7",
+       "title": {
+        "ru": "13.8.3.4 Replacement of left A/C air outlet panel assembly",
+        "en": "13.8.3.4 Replacement of left A/C air outlet panel assembly"
+       },
+       "words": 957,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t138_3ece8f79",
+       "title": {
+        "ru": "13.8.3.10 Replacement of right lower right toe board assembly",
+        "en": "13.8.3.10 Replacement of right lower right toe board assembly"
+       },
+       "words": 1396,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t139_dd936d64",
+       "title": {
+        "ru": "13.8.3.19 Replacement of instrument panel body assembly",
+        "en": "13.8.3.19 Replacement of instrument panel body assembly"
+       },
+       "words": 2174,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t140_2478ab46",
+       "title": {
+        "ru": "13.8.3.21 Replacement of console middle mounting bracket assembly",
+        "en": "13.8.3.21 Replacement of console middle mounting bracket assembly"
+       },
+       "words": 2074,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t141_f8f188f1",
+       "title": {
+        "ru": "13.8.3.29 Replacement of glove box damper Removal Procedure",
+        "en": "13.8.3.29 Replacement of glove box damper Removal Procedure"
+       },
+       "words": 739,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t142_fe2e1ab7",
+       "title": {
+        "ru": "13.9.2.15 Replacement of front safety handle assembly",
+        "en": "13.9.2.15 Replacement of front safety handle assembly"
+       },
+       "words": 1415,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t143_13fca00d",
+       "title": {
+        "ru": "13.10.2.8 Replacement of ventilation cover plate as sembly",
+        "en": "13.10.2.8 Replacement of ventilation cover plate as sembly"
+       },
+       "words": 643,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t144_2259a9a0",
+       "title": {
+        "ru": "13.11.2.3 Maintenance of thermosetting plastic scratch",
+        "en": "13.11.2.3 Maintenance of thermosetting plastic scratch"
+       },
+       "words": 1252,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t145_f5128f44",
+       "title": {
+        "ru": "13.13.2.3 Warnings and notice in performing paint mixing and painting operations",
+        "en": "13.13.2.3 Warnings and notice in performing paint mixing and painting operations"
+       },
+       "words": 1061,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t146_cfdf5751",
+       "title": {
+        "ru": "13.13.2.4 Cautions during finishing varnish maintenance and repair",
+        "en": "13.13.2.4 Cautions during finishing varnish maintenance and repair"
+       },
+       "words": 658,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t147_cd9e09d0",
+       "title": {
+        "ru": "13.13.4.5 Painting of rigid surfaces after sheet metal repair",
+        "en": "13.13.4.5 Painting of rigid surfaces after sheet metal repair"
+       },
+       "words": 1045,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "geely_monjaro_general_t148_49d84d48",
+       "title": {
+        "ru": "Note",
+        "en": "Note"
+       },
+       "words": 215,
+       "images": 2,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1115 @@
+{
+ "version": "1.0",
+ "model": "seltos",
+ "manuals": [
+  {
+   "model": "seltos",
+   "label": {
+    "ru": "Kia Seltos — Руководство по ремонту",
+    "en": "Kia Seltos — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "kia_seltos_engine_t000_cbe2a73f",
+       "title": {
+        "ru": "ENGINE START/STOP button ON",
+        "en": "ENGINE START/STOP button ON"
+       },
+       "words": 1548,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t001_194771c6",
+       "title": {
+        "ru": "Change the ENGINE START/STOP but-",
+        "en": "Change the ENGINE START/STOP but-"
+       },
+       "words": 2012,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t002_d3246105",
+       "title": {
+        "ru": "DO NOT SMOKE or leave a lit ciga-",
+        "en": "DO NOT SMOKE or leave a lit ciga-"
+       },
+       "words": 1069,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t003_aefc46e0",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 792,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t004_8c975c18",
+       "title": {
+        "ru": "ENGINE START/STOP button to the",
+        "en": "ENGINE START/STOP button to the"
+       },
+       "words": 1256,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t005_1e5473c6",
+       "title": {
+        "ru": "ENGINE START/STOP button to the",
+        "en": "ENGINE START/STOP button to the"
+       },
+       "words": 1086,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t006_8accf036",
+       "title": {
+        "ru": "START/STOP button in the ON posi-",
+        "en": "START/STOP button in the ON posi-"
+       },
+       "words": 1530,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t007_67735346",
+       "title": {
+        "ru": "ENGINE START/STOP button with the",
+        "en": "ENGINE START/STOP button with the"
+       },
+       "words": 1224,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t008_f9e0a9c9",
+       "title": {
+        "ru": "When you press the ENGINE START/",
+        "en": "When you press the ENGINE START/"
+       },
+       "words": 860,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t009_83992361",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1304,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t010_71837152",
+       "title": {
+        "ru": "A.In the case of AT/IVT/iMT/DCT if a",
+        "en": "A.In the case of AT/IVT/iMT/DCT if a"
+       },
+       "words": 1087,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t011_da64c011",
+       "title": {
+        "ru": "SPORT mode",
+        "en": "SPORT mode"
+       },
+       "words": 1919,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t012_bc3920c8",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2290,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t013_4e17c136",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2296,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t014_3b3291e4",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 955,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t015_eb3452e1",
+       "title": {
+        "ru": "SENSOR 2",
+        "en": "SENSOR 2"
+       },
+       "words": 1582,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t016_373b898f",
+       "title": {
+        "ru": "ENGINE START/STOP button. Based on",
+        "en": "ENGINE START/STOP button. Based on"
+       },
+       "words": 1863,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_seltos_engine_t017_d6485acb",
+       "title": {
+        "ru": "1. Press the ENGINE START/STOP but-",
+        "en": "1. Press the ENGINE START/STOP but-"
+       },
+       "words": 1198,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "kia_seltos_brakes_t000_8e6c32b7",
+       "title": {
+        "ru": "ENGINE START/STOP button to the",
+        "en": "ENGINE START/STOP button to the"
+       },
+       "words": 1216,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_seltos_brakes_t001_e55092f2",
+       "title": {
+        "ru": "INFORMATION",
+        "en": "INFORMATION"
+       },
+       "words": 943,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_seltos_brakes_t002_bf20cf38",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1851,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_seltos_brakes_t003_871d0d28",
+       "title": {
+        "ru": "ON to turn ESC off. (ESC OFF indica-",
+        "en": "ON to turn ESC off. (ESC OFF indica-"
+       },
+       "words": 1343,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_seltos_brakes_t004_ae949d54",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 2659,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_seltos_brakes_t005_acdd8c47",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1537,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_seltos_brakes_t006_31d0fd1d",
+       "title": {
+        "ru": "ODEEV098029NR",
+        "en": "ODEEV098029NR"
+       },
+       "words": 1205,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_seltos_brakes_t007_827464e9",
+       "title": {
+        "ru": "SRS care",
+        "en": "SRS care"
+       },
+       "words": 189,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "kia_seltos_suspension_t000_5fb683b7",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1469,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_seltos_suspension_t001_f3834da9",
+       "title": {
+        "ru": "In addition, if the ENGINE START/STOP",
+        "en": "In addition, if the ENGINE START/STOP"
+       },
+       "words": 1173,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_seltos_suspension_t002_58d06478",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 2236,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_seltos_suspension_t003_8bd54b56",
+       "title": {
+        "ru": "ON/OFF",
+        "en": "ON/OFF"
+       },
+       "words": 1586,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_seltos_suspension_t004_927ecf9a",
+       "title": {
+        "ru": "SEASON and/or M+S (Mud and Snow)",
+        "en": "SEASON and/or M+S (Mud and Snow)"
+       },
+       "words": 2154,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_seltos_suspension_t005_c260d1c6",
+       "title": {
+        "ru": "SRS care",
+        "en": "SRS care"
+       },
+       "words": 618,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "kia_seltos_transmission_t000_88811801",
+       "title": {
+        "ru": "4. Press the ENGINE START/STOP but-",
+        "en": "4. Press the ENGINE START/STOP but-"
+       },
+       "words": 1315,
+       "images": 0,
+       "section_id": "transmission"
+      },
+      {
+       "id": "kia_seltos_transmission_t001_74c5f54b",
+       "title": {
+        "ru": "Transmission. There is NO CLUTCH",
+        "en": "Transmission. There is NO CLUTCH"
+       },
+       "words": 1394,
+       "images": 0,
+       "section_id": "transmission"
+      },
+      {
+       "id": "kia_seltos_transmission_t002_785acb2c",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1481,
+       "images": 0,
+       "section_id": "transmission"
+      },
+      {
+       "id": "kia_seltos_transmission_t003_b8355e17",
+       "title": {
+        "ru": "AUTO STOP indicator (",
+        "en": "AUTO STOP indicator ("
+       },
+       "words": 1546,
+       "images": 0,
+       "section_id": "transmission"
+      },
+      {
+       "id": "kia_seltos_transmission_t004_24e42d94",
+       "title": {
+        "ru": "SENSOR 4",
+        "en": "SENSOR 4"
+       },
+       "words": 203,
+       "images": 0,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "kia_seltos_hvac_t000_59d0f670",
+       "title": {
+        "ru": "ODEEV068230NR",
+        "en": "ODEEV068230NR"
+       },
+       "words": 1287,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_seltos_hvac_t001_09e8463d",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 852,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_seltos_hvac_t002_68a76e66",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 1503,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_seltos_hvac_t003_d81171f7",
+       "title": {
+        "ru": "USB port",
+        "en": "USB port"
+       },
+       "words": 2144,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "kia_seltos_body_t000_46b9ae3c",
+       "title": {
+        "ru": "OSP2I013001",
+        "en": "OSP2I013001"
+       },
+       "words": 1469,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_seltos_body_t001_695f06ae",
+       "title": {
+        "ru": "OSP2I039006",
+        "en": "OSP2I039006"
+       },
+       "words": 740,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_seltos_body_t002_c30f9492",
+       "title": {
+        "ru": "ACTIVE AIR BAG in front of it. DEATH",
+        "en": "ACTIVE AIR BAG in front of it. DEATH"
+       },
+       "words": 1620,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_seltos_body_t003_8b6a75f9",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1246,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_seltos_body_t004_56427f5f",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 718,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_seltos_body_t005_c9eebb4a",
+       "title": {
+        "ru": "START/STOP button in the ON posi-",
+        "en": "START/STOP button in the ON posi-"
+       },
+       "words": 1289,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "kia_seltos_lighting_t000_4d8a8d56",
+       "title": {
+        "ru": "START/STOP button to the LOCK or OFF",
+        "en": "START/STOP button to the LOCK or OFF"
+       },
+       "words": 1229,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_seltos_lighting_t001_b04daa63",
+       "title": {
+        "ru": "ENGINE START/STOP button is turned",
+        "en": "ENGINE START/STOP button is turned"
+       },
+       "words": 1244,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_seltos_lighting_t002_df2f3fb0",
+       "title": {
+        "ru": "GAWR FRT Gross Axle Weight Rating",
+        "en": "GAWR FRT Gross Axle Weight Rating"
+       },
+       "words": 2298,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_seltos_lighting_t003_85db60aa",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 1599,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_seltos_lighting_t004_70ffe852",
+       "title": {
+        "ru": "FD46XG (IDEMITSU)",
+        "en": "FD46XG (IDEMITSU)"
+       },
+       "words": 1236,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "kia_seltos_adas_t000_294dadc5",
+       "title": {
+        "ru": "ENGINE START/STOP button to the",
+        "en": "ENGINE START/STOP button to the"
+       },
+       "words": 2010,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t001_70f85f4d",
+       "title": {
+        "ru": "When the ENGINE START/STOP button",
+        "en": "When the ENGINE START/STOP button"
+       },
+       "words": 1403,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t002_9cdfd9c4",
+       "title": {
+        "ru": "With the ENGINE START/STOP button in",
+        "en": "With the ENGINE START/STOP button in"
+       },
+       "words": 1030,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t003_62dfb156",
+       "title": {
+        "ru": "OADAS044",
+        "en": "OADAS044"
+       },
+       "words": 1805,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t004_e8e13d70",
+       "title": {
+        "ru": "With ENGINE START/STOP button in the",
+        "en": "With ENGINE START/STOP button in the"
+       },
+       "words": 1468,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t005_c3647aab",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1261,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t006_e1652ce0",
+       "title": {
+        "ru": "With ENGINE START/STOP button in the",
+        "en": "With ENGINE START/STOP button in the"
+       },
+       "words": 1365,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t007_07ea1897",
+       "title": {
+        "ru": "With ENGINE START/STOP button in the",
+        "en": "With ENGINE START/STOP button in the"
+       },
+       "words": 1129,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t008_4eefe588",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1553,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t009_0832ac50",
+       "title": {
+        "ru": "ABS is on",
+        "en": "ABS is on"
+       },
+       "words": 1025,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t010_c1c0f0fc",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1888,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t011_e815e6bd",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1375,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t012_70db5ab2",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1017,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t013_11b93c90",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1509,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t014_25c00d16",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1597,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_seltos_adas_t015_a43e37fe",
+       "title": {
+        "ru": "WASHER",
+        "en": "WASHER"
+       },
+       "words": 749,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "kia_seltos_interior_t000_bedc92ff",
+       "title": {
+        "ru": "The ENGINE START/STOP button must",
+        "en": "The ENGINE START/STOP button must"
+       },
+       "words": 1431,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_seltos_interior_t001_52b24b14",
+       "title": {
+        "ru": "The AUTO STOP indicator (",
+        "en": "The AUTO STOP indicator ("
+       },
+       "words": 118,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "kia_seltos_chassis_t000_04676305",
+       "title": {
+        "ru": "DOT XXXX XXXX 1623 represents that",
+        "en": "DOT XXXX XXXX 1623 represents that"
+       },
+       "words": 1562,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "kia_seltos_general_t000_2328f20c",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 764,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_seltos_general_t001_a34b6d85",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 613,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_seltos_general_t002_8ffcdb77",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1530,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_seltos_general_t003_6485144f",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2437,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_seltos_safety_t000_b9ed746e",
+       "title": {
+        "ru": "You will find various WARNINGS, CAU-",
+        "en": "You will find various WARNINGS, CAU-"
+       },
+       "words": 1905,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_seltos_safety_t001_6b8e7377",
+       "title": {
+        "ru": "ISO/B2",
+        "en": "ISO/B2"
+       },
+       "words": 1433,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_seltos_safety_t002_7fc384d8",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 140,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "ev_battery",
+     "title": {
+      "ru": "ev_battery",
+      "en": "ev_battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_seltos_ev_battery_t000_93269444",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 908,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t001_228fe8f5",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 1368,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t002_e81856c9",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1500,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t003_6d1d4c4e",
+       "title": {
+        "ru": "OSP2I039030",
+        "en": "OSP2I039030"
+       },
+       "words": 1594,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t004_6bd9b9ab",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1063,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t005_2ed75fc8",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1389,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t006_4a9ad12d",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 1072,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t007_bec8e71d",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 1601,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t008_ae87fcd5",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1132,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t009_675a31a8",
+       "title": {
+        "ru": "Press the ENGINE START/STOP button",
+        "en": "Press the ENGINE START/STOP button"
+       },
+       "words": 1420,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t010_7c9eaef2",
+       "title": {
+        "ru": "If you press the \"DRIVE/TRACTION\"",
+        "en": "If you press the \"DRIVE/TRACTION\""
+       },
+       "words": 1978,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t011_9287958f",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1228,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t012_0643fed6",
+       "title": {
+        "ru": "OSP2I063027",
+        "en": "OSP2I063027"
+       },
+       "words": 1290,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t013_3b0a15ff",
+       "title": {
+        "ru": "FURIC ACID. Do not allow bat-",
+        "en": "FURIC ACID. Do not allow bat-"
+       },
+       "words": 1009,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t014_2da4a139",
+       "title": {
+        "ru": "POWER OUTLET2",
+        "en": "POWER OUTLET2"
+       },
+       "words": 1771,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_seltos_ev_battery_t015_81355bc5",
+       "title": {
+        "ru": "Lean NOx Trap",
+        "en": "Lean NOx Trap"
+       },
+       "words": 1422,
+       "images": 0,
+       "section_id": "ev_battery"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_seltos_infotainment_t000_3d9d3e80",
+       "title": {
+        "ru": "3. OK: SELECT/RESET button for setting",
+        "en": "3. OK: SELECT/RESET button for setting"
+       },
+       "words": 1057,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_seltos_infotainment_t001_4f74ce8c",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 248,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

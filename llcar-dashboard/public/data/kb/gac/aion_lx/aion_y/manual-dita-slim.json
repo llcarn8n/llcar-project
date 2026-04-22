@@ -1,0 +1,3755 @@
+{
+ "version": "1.0",
+ "model": "aion_lx",
+ "manuals": [
+  {
+   "model": "aion_lx",
+   "label": {
+    "ru": "Gac Aion LX — Руководство по ремонту",
+    "en": "Gac Aion LX — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "gac_aion_lx_engine_t000_1b756295",
+       "title": {
+        "ru": "Панорамный световой люк\\*",
+        "en": "Панорамный световой люк\\*"
+       },
+       "words": 1578,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "gac_aion_lx_brakes_t000_019f12b2",
+       "title": {
+        "ru": "Уведомление:",
+        "en": "Уведомление:"
+       },
+       "words": 2385,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "gac_aion_lx_brakes_t001_eae1b2d8",
+       "title": {
+        "ru": "Технические параметры тормозной системы",
+        "en": "Технические параметры тормозной системы"
+       },
+       "words": 1027,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "gac_aion_lx_brakes_t002_c99f3506",
+       "title": {
+        "ru": "Технические параметры тормозной системы",
+        "en": "Технические параметры тормозной системы"
+       },
+       "words": 728,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "gac_aion_lx_brakes_t003_3b577ab2",
+       "title": {
+        "ru": "Технические параметры тормозной системы",
+        "en": "Технические параметры тормозной системы"
+       },
+       "words": 1915,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "gac_aion_lx_brakes_t004_528ab92e",
+       "title": {
+        "ru": "Технические параметры тормозной системы",
+        "en": "Технические параметры тормозной системы"
+       },
+       "words": 3415,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "gac_aion_lx_brakes_t005_b0cffa81",
+       "title": {
+        "ru": "Технические параметры тормозной системы",
+        "en": "Технические параметры тормозной системы"
+       },
+       "words": 4915,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "gac_aion_lx_brakes_t006_4d22de26",
+       "title": {
+        "ru": "Технические параметры тормозной системы",
+        "en": "Технические параметры тормозной системы"
+       },
+       "words": 3060,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "gac_aion_lx_suspension_t000_48b361a3",
+       "title": {
+        "ru": "Регулировка положения сиденья",
+        "en": "Регулировка положения сиденья"
+       },
+       "words": 677,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "gac_aion_lx_electrical_t000_b1a0c506",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 389,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "gac_aion_lx_hvac_t000_f0858ecf",
+       "title": {
+        "ru": "Подогрев сидений\\*",
+        "en": "Подогрев сидений\\*"
+       },
+       "words": 952,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "gac_aion_lx_body_t000_bc9de78f",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 667,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t001_e16f0ef4",
+       "title": {
+        "ru": "Боковые шторки безопасности\\*",
+        "en": "Боковые шторки безопасности\\*"
+       },
+       "words": 857,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t002_551a53d0",
+       "title": {
+        "ru": "Ручная регулировка высоты фар\\*",
+        "en": "Ручная регулировка высоты фар\\*"
+       },
+       "words": 1339,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t003_e92ba3f7",
+       "title": {
+        "ru": "Инициализация люка/тени",
+        "en": "Инициализация люка/тени"
+       },
+       "words": 712,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t004_2c113f6f",
+       "title": {
+        "ru": "Одна клавиша вверх",
+        "en": "Одна клавиша вверх"
+       },
+       "words": 1368,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t005_3419fc63",
+       "title": {
+        "ru": "Инициализация люка/тени",
+        "en": "Инициализация люка/тени"
+       },
+       "words": 1362,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t006_e503a86b",
+       "title": {
+        "ru": "свет в багажнике",
+        "en": "свет в багажнике"
+       },
+       "words": 2355,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t007_4efdfcd5",
+       "title": {
+        "ru": "свет в багажнике",
+        "en": "свет в багажнике"
+       },
+       "words": 3105,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t008_b2f080e3",
+       "title": {
+        "ru": "свет в багажнике",
+        "en": "свет в багажнике"
+       },
+       "words": 3855,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t009_1ea472f0",
+       "title": {
+        "ru": "свет в багажнике",
+        "en": "свет в багажнике"
+       },
+       "words": 4605,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t010_8450b99b",
+       "title": {
+        "ru": "Простая загрузка.. .23",
+        "en": "Простая загрузка.. .23"
+       },
+       "words": 5323,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t011_0c06a9ce",
+       "title": {
+        "ru": "кузов противоугонный",
+        "en": "кузов противоугонный"
+       },
+       "words": 6030,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t012_d9a26493",
+       "title": {
+        "ru": "кузов противоугонный",
+        "en": "кузов противоугонный"
+       },
+       "words": 6780,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t013_12a8ffc5",
+       "title": {
+        "ru": "кузов противоугонный",
+        "en": "кузов противоугонный"
+       },
+       "words": 7530,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "gac_aion_lx_body_t014_96019a64",
+       "title": {
+        "ru": "Уведомление:",
+        "en": "Уведомление:"
+       },
+       "words": 2976,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "gac_aion_lx_steering_t000_84029298",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 949,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t001_04ce2018",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 1186,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t002_7281b296",
+       "title": {
+        "ru": "4. Нажмите кнопку на рулевом кол переключиться на ICA",
+        "en": "4. Нажмите кнопку на рулевом кол переключиться на ICA"
+       },
+       "words": 1499,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t003_d710c3c7",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 1839,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t004_823dd7d7",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 2139,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t005_35b542da",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 2439,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t006_4d5a8771",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 2739,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t007_93e968ef",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 3039,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t008_30ec911c",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 3339,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t009_f6f66349",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 3639,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t010_fef0ce6c",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 3939,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t011_c34b152c",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 4239,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t012_81e5f8a8",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 4539,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t013_d1819a17",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 4839,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t014_44df3392",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 5139,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t015_573cd35a",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 5439,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t016_71195824",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 5739,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t017_7463acd7",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 6039,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t018_1d80eacf",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 6339,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t019_3ad4277e",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 6639,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t020_5c298a9f",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 6939,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t021_3ae94703",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 7239,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "gac_aion_lx_steering_t022_1d58d24c",
+       "title": {
+        "ru": "Электрическая регулировка рулевого колеса\\*",
+        "en": "Электрическая регулировка рулевого колеса\\*"
+       },
+       "words": 6613,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "gac_aion_lx_lighting_t000_1baa9068",
+       "title": {
+        "ru": "Индикатор счетчика/предупреждающий свет",
+        "en": "Индикатор счетчика/предупреждающий свет"
+       },
+       "words": 3090,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t001_9a98c82f",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 1234,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t002_c11e739d",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 2760,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t003_fe52b529",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 4413,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t004_0099162e",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 3025,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t005_63bb9f28",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 3211,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t006_a76dc03a",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 5062,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t007_37b6368c",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 3769,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t008_47c15095",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 5494,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t009_a492259f",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 4169,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t010_b88bc299",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 5965,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t011_bd5bcfcc",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 4525,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t012_a7baae93",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 4711,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t013_96e68a1b",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 6562,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t014_01df4630",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 5269,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t015_bdd9b728",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 6994,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t016_be43dc4c",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 5669,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t017_3d511548",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 7465,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t018_d41eeaa4",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 6025,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t019_a03c7089",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 6211,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t020_4475e34c",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 8062,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t021_8f9dbd18",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 6769,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t022_21e1a589",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 8494,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t023_1e7a6ccb",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 7169,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t024_a8b44cac",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 8965,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t025_1d223548",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 7525,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t026_dcd4eef7",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 7711,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t027_3e78e62f",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 9562,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t028_763900f9",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 8269,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t029_38deda48",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 9994,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t030_eed04ad9",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 8669,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "gac_aion_lx_lighting_t031_5693a917",
+       "title": {
+        "ru": "Включите аварийную световую сигнализацию",
+        "en": "Включите аварийную световую сигнализацию"
+       },
+       "words": 7416,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "gac_aion_lx_interior_t000_958ccae5",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 1292,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t001_8b5ccfe0",
+       "title": {
+        "ru": "Управление передним кондиционером",
+        "en": "Управление передним кондиционером"
+       },
+       "words": 1131,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t002_16d108c1",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 1350,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t003_f5020ec6",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 1087,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t004_c1464863",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 1327,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t005_ef5f30c9",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 1453,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t006_5ebdcec1",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 1780,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t007_35dadb94",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 2077,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t008_83ff2466",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 2203,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t009_b712c4aa",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 2530,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t010_ca7d65b0",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 2827,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t011_62115d2c",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 2953,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t012_04d81c5c",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 3280,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t013_7653b434",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 3577,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t014_3743d3ed",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 3703,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t015_7631f434",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 4030,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t016_6f57221f",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 4327,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t017_0b8d8285",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 4453,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t018_5e35fd26",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 4780,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t019_bfae1c3b",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 5077,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t020_1e00d64e",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 5203,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t021_c9d349f7",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 5530,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t022_d6bfff83",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 5827,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t023_dc7f27cb",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 5953,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t024_a20d3eab",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 6280,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t025_f55e83f3",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 6577,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t026_d71edc74",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 6703,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t027_96d6aa4b",
+       "title": {
+        "ru": "Развертывание подушки безопасности",
+        "en": "Развертывание подушки безопасности"
+       },
+       "words": 7030,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "gac_aion_lx_interior_t028_dceb37a7",
+       "title": {
+        "ru": "Управление передним кондиционером",
+        "en": "Управление передним кондиционером"
+       },
+       "words": 3102,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "gac_aion_lx_ev_t000_f9394ac8",
+       "title": {
+        "ru": "Габаритные огни\\*",
+        "en": "Габаритные огни\\*"
+       },
+       "words": 1120,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t001_db35bad3",
+       "title": {
+        "ru": "Обслуживание низковольтной батареи",
+        "en": "Обслуживание низковольтной батареи"
+       },
+       "words": 1579,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t002_13547862",
+       "title": {
+        "ru": "Зарядка аварийного плана",
+        "en": "Зарядка аварийного плана"
+       },
+       "words": 768,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t003_cfee4002",
+       "title": {
+        "ru": "Обслуживание низковольтной батареи",
+        "en": "Обслуживание низковольтной батареи"
+       },
+       "words": 1691,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t004_1507aae0",
+       "title": {
+        "ru": "Электронная парковка (ЕРВ)",
+        "en": "Электронная парковка (ЕРВ)"
+       },
+       "words": 1520,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t005_ecf6bfc9",
+       "title": {
+        "ru": "Электронная парковка (ЕРВ)",
+        "en": "Электронная парковка (ЕРВ)"
+       },
+       "words": 2270,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t006_9f434be5",
+       "title": {
+        "ru": "Электронная парковка (ЕРВ)",
+        "en": "Электронная парковка (ЕРВ)"
+       },
+       "words": 3020,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t007_3097afbe",
+       "title": {
+        "ru": "Электронная парковка (ЕРВ)",
+        "en": "Электронная парковка (ЕРВ)"
+       },
+       "words": 3770,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t008_7541adb2",
+       "title": {
+        "ru": "Электронная парковка (ЕРВ)",
+        "en": "Электронная парковка (ЕРВ)"
+       },
+       "words": 4520,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t009_4ef73001",
+       "title": {
+        "ru": "Электронная парковка (ЕРВ)",
+        "en": "Электронная парковка (ЕРВ)"
+       },
+       "words": 5270,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t010_07fa11cb",
+       "title": {
+        "ru": "Электронная парковка (ЕРВ)",
+        "en": "Электронная парковка (ЕРВ)"
+       },
+       "words": 6020,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t011_6df22ba2",
+       "title": {
+        "ru": "Электронная парковка (ЕРВ)",
+        "en": "Электронная парковка (ЕРВ)"
+       },
+       "words": 6770,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "gac_aion_lx_ev_t012_33702457",
+       "title": {
+        "ru": "предупреждать:",
+        "en": "предупреждать:"
+       },
+       "words": 152,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "gac_aion_lx_general_t000_dda44e2f",
+       "title": {
+        "ru": "Замена компонентов системы подушек безопасности",
+        "en": "Замена компонентов системы подушек безопасности"
+       },
+       "words": 6043,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t001_4174c7d0",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 13801,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t002_4d2e7396",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 8233,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t003_2b57b8c3",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 9168,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t004_5aebbd82",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 14571,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t005_6ddffb81",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 11479,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t006_2ee24950",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 9450,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t007_f851d75d",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 10052,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t008_61306d0b",
+       "title": {
+        "ru": "Система помощи при переезде сзади\\*",
+        "en": "Система помощи при переезде сзади\\*"
+       },
+       "words": 13187,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t009_063f7a57",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 16711,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t010_0e198eb6",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 12268,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t011_b993a033",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 10058,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t012_e67356e2",
+       "title": {
+        "ru": "Замена компонентов системы подушек безопасности",
+        "en": "Замена компонентов системы подушек безопасности"
+       },
+       "words": 12530,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t013_9bbd4463",
+       "title": {
+        "ru": "Система помощи при выезде с полосы движения\\*",
+        "en": "Система помощи при выезде с полосы движения\\*"
+       },
+       "words": 15389,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t014_be0c6c47",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 16469,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t015_a0b6148e",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 12356,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t016_161af952",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 13390,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t017_927d6ad1",
+       "title": {
+        "ru": "Замена компонентов системы подушек безопасности",
+        "en": "Замена компонентов системы подушек безопасности"
+       },
+       "words": 11881,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t018_f293dfde",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 18513,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t019_63fe0604",
+       "title": {
+        "ru": "Автоматическая помощь при смене полосы движения\\*",
+        "en": "Автоматическая помощь при смене полосы движения\\*"
+       },
+       "words": 16133,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t020_b22310e0",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 13644,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t021_47d6319c",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 14556,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t022_564bff8b",
+       "title": {
+        "ru": "Электрическая регулировка сиденья водителя\\*",
+        "en": "Электрическая регулировка сиденья водителя\\*"
+       },
+       "words": 13906,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t023_b445dac3",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 20497,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t024_1413dca5",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 16274,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t025_63b0d3cf",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 15215,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t026_dc7b451f",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 16232,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t027_26c3db37",
+       "title": {
+        "ru": "Регулировка подножки заднего сиденья\\*",
+        "en": "Регулировка подножки заднего сиденья\\*"
+       },
+       "words": 14436,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t028_0c5a320d",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 23556,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t029_198f97db",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 16893,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t030_92afefc1",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 15668,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t031_8a1f3e2b",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 17209,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t032_4c48413f",
+       "title": {
+        "ru": "Регулировка шпонки задней бобышки\\*",
+        "en": "Регулировка шпонки задней бобышки\\*"
+       },
+       "words": 17894,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t033_c2f6805b",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 23550,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t034_ce011b7d",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 18826,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t035_4245caa1",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 16461,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t036_0e408c11",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 18887,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t037_151ab2df",
+       "title": {
+        "ru": "Интегрированный круиз-ассистент (IСА)\\*",
+        "en": "Интегрированный круиз-ассистент (IСА)\\*"
+       },
+       "words": 20900,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t038_69f43028",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 22780,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t039_b448ffaf",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 19812,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t040_e999495d",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 18644,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t041_13135195",
+       "title": {
+        "ru": "Замена компонентов системы подушек безопасности",
+        "en": "Замена компонентов системы подушек безопасности"
+       },
+       "words": 18977,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t042_bef1ef7c",
+       "title": {
+        "ru": "Система предупреждения о лобовом столкновении\\*",
+        "en": "Система предупреждения о лобовом столкновении\\*"
+       },
+       "words": 23533,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t043_05349345",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 23457,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t044_08d32734",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 20037,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t045_42aa612e",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 21042,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t046_e1282b24",
+       "title": {
+        "ru": "Электрическая регулировка сиденья водителя\\*",
+        "en": "Электрическая регулировка сиденья водителя\\*"
+       },
+       "words": 19580,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t047_213edf15",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 26719,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t048_f6cb226b",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 23161,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t049_dbde221b",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 21484,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t050_14942e61",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 21805,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t051_fc468e24",
+       "title": {
+        "ru": "Регулировка подножки заднего сиденья\\*",
+        "en": "Регулировка подножки заднего сиденья\\*"
+       },
+       "words": 21298,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t052_f59411e2",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 28810,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t053_327bfc27",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 23383,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t054_e19ffe22",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 22936,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t055_941e78ef",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 23373,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t056_9b41320f",
+       "title": {
+        "ru": "Регулировка подножки заднего сиденья\\*",
+        "en": "Регулировка подножки заднего сиденья\\*"
+       },
+       "words": 23507,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t057_4da34a0b",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 29655,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t058_1813e3ff",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 25009,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t059_5b534b53",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 23044,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t060_539e438c",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 24267,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t061_d6a905d0",
+       "title": {
+        "ru": "Система помощи при переезде сзади\\*",
+        "en": "Система помощи при переезде сзади\\*"
+       },
+       "words": 25813,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t062_e3fed320",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 31556,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t063_cb8801c7",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 26150,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t064_5457f631",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 23928,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t065_f04b7226",
+       "title": {
+        "ru": "Замена компонентов системы подушек безопасности",
+        "en": "Замена компонентов системы подушек безопасности"
+       },
+       "words": 26365,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t066_92e55f1b",
+       "title": {
+        "ru": "Интегрированный круиз-ассистент (IСА)\\*",
+        "en": "Интегрированный круиз-ассистент (IСА)\\*"
+       },
+       "words": 28621,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t067_b5c74ff4",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 31182,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t068_612c900d",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 26198,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t069_8d532ca8",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 27046,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t070_33a2d75a",
+       "title": {
+        "ru": "Замена компонентов системы подушек безопасности",
+        "en": "Замена компонентов системы подушек безопасности"
+       },
+       "words": 25885,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t071_b926b4b3",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 31853,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t072_bc096e3d",
+       "title": {
+        "ru": "Автоматическая помощь при смене полосы движения\\*",
+        "en": "Автоматическая помощь при смене полосы движения\\*"
+       },
+       "words": 30502,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t073_f753b507",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 27454,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t074_2014bfdd",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 28504,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t075_52ea8c84",
+       "title": {
+        "ru": "Электрическая регулировка сиденья водителя\\*",
+        "en": "Электрическая регулировка сиденья водителя\\*"
+       },
+       "words": 27610,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t076_fb12f1d5",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 34230,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t077_048719ec",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 30380,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t078_226c7f87",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 29009,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t079_98cd2d71",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 29949,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t080_5f927e56",
+       "title": {
+        "ru": "Регулировка подножки заднего сиденья\\*",
+        "en": "Регулировка подножки заднего сиденья\\*"
+       },
+       "words": 28388,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t081_d1da23d7",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 37258,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t082_29fe2fac",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 30371,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t083_3a0e08b0",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 30028,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t084_3825a471",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 31141,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t085_2409ad3f",
+       "title": {
+        "ru": "Регулировка подножки заднего сиденья\\*",
+        "en": "Регулировка подножки заднего сиденья\\*"
+       },
+       "words": 31532,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t086_a2c0237f",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 37358,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t087_de52c993",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 32149,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t088_16483a4a",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 31000,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t089_6288ff48",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 31979,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t090_c314b297",
+       "title": {
+        "ru": "Система помощи при переезде сзади\\*",
+        "en": "Система помощи при переезде сзади\\*"
+       },
+       "words": 34391,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t091_b7204c1d",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 37748,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t092_e989d9cb",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 33716,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t093_81c1143b",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 31744,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t094_34e60bd9",
+       "title": {
+        "ru": "Замена компонентов системы подушек безопасности",
+        "en": "Замена компонентов системы подушек безопасности"
+       },
+       "words": 33563,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t095_2327e3fe",
+       "title": {
+        "ru": "Система помощи при выезде с полосы движения\\*",
+        "en": "Система помощи при выезде с полосы движения\\*"
+       },
+       "words": 37272,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t096_9a55e723",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 37465,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t097_353deeb1",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 33791,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t098_2eb6550d",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 35011,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t099_8bb83682",
+       "title": {
+        "ru": "Электрическая регулировка сиденья водителя\\*",
+        "en": "Электрическая регулировка сиденья водителя\\*"
+       },
+       "words": 33369,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t100_d803fcd3",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 40168,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t101_2ec90cdd",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 37365,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t102_dc20a52a",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 35200,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t103_30d842ad",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 35650,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t104_ca24afe5",
+       "title": {
+        "ru": "Электрическая регулировка сиденья водителя\\*",
+        "en": "Электрическая регулировка сиденья водителя\\*"
+       },
+       "words": 35246,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t105_e36ac328",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 42071,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t106_33684290",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 37896,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t107_284d55f7",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 36380,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t108_e536b968",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 37698,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t109_b27459c1",
+       "title": {
+        "ru": "Регулировка подножки заднего сиденья\\*",
+        "en": "Регулировка подножки заднего сиденья\\*"
+       },
+       "words": 37023,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t110_2511396f",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 43795,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t111_f8c33bc4",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 38807,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t112_6ef38174",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 36760,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t113_484c84ff",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 38367,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t114_ed28cbf1",
+       "title": {
+        "ru": "Интегрированный круиз-ассистент (IСА)\\*",
+        "en": "Интегрированный круиз-ассистент (IСА)\\*"
+       },
+       "words": 42185,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t115_7e400efc",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 43746,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t116_eb2b8b78",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 38785,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t117_15e9a316",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 39565,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t118_b809f898",
+       "title": {
+        "ru": "Электрическая регулировка сиденья водителя\\*",
+        "en": "Электрическая регулировка сиденья водителя\\*"
+       },
+       "words": 38954,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t119_fa3af28e",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 45445,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t120_be6b3528",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 41704,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t121_50ec6ed9",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 40615,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t122_011c888b",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 40782,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t123_d163a638",
+       "title": {
+        "ru": "Регулировка подножки заднего сиденья\\*",
+        "en": "Регулировка подножки заднего сиденья\\*"
+       },
+       "words": 41922,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t124_ea04f40e",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 47902,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t125_c6e97471",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 42481,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t126_e4007504",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 40076,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t127_31427bdf",
+       "title": {
+        "ru": "Замена компонентов системы подушек безопасности",
+        "en": "Замена компонентов системы подушек безопасности"
+       },
+       "words": 42770,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t128_01b66e43",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 47425,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t129_d731f3c1",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 45068,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t130_45a3936e",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 42964,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t131_cf7b42a4",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 43173,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t132_06b6a2d0",
+       "title": {
+        "ru": "Регулировка подножки заднего сиденья\\*",
+        "en": "Регулировка подножки заднего сиденья\\*"
+       },
+       "words": 43767,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t133_52c42ecd",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 49863,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t134_065706ea",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 45209,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t135_a509d71b",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 43236,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t136_c27dfe37",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 45556,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t137_049cf8c0",
+       "title": {
+        "ru": "Система помощи при выезде с полосы движения\\*",
+        "en": "Система помощи при выезде с полосы движения\\*"
+       },
+       "words": 48529,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t138_0d7bd5c8",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 48730,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t139_543ad58b",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 45253,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t140_6af04d4d",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 45846,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t141_a770a979",
+       "title": {
+        "ru": "Электрическая регулировка сиденья водителя\\*",
+        "en": "Электрическая регулировка сиденья водителя\\*"
+       },
+       "words": 45329,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t142_7c8c33f7",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 52995,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t143_3fccd77c",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 47045,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t144_3520e6ee",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 46535,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t145_780d9995",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 47105,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t146_c6e5ce4a",
+       "title": {
+        "ru": "Система помощи при переезде сзади\\*",
+        "en": "Система помощи при переезде сзади\\*"
+       },
+       "words": 50021,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t147_c2eae26f",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 52653,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t148_5fae7639",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 48757,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t149_cf85b3fa",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 47562,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t150_5dc25faf",
+       "title": {
+        "ru": "Замена компонентов системы подушек безопасности",
+        "en": "Замена компонентов системы подушек безопасности"
+       },
+       "words": 48033,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t151_bac72c10",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 54451,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t152_804138d4",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 50564,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t153_ccce963d",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 49168,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t154_8d45e371",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 50063,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t155_e937193f",
+       "title": {
+        "ru": "Регулировка подножки заднего сиденья\\*",
+        "en": "Регулировка подножки заднего сиденья\\*"
+       },
+       "words": 50372,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t156_69719bbf",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 56240,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t157_61a0556b",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 51756,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t158_c03fd4dc",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 48903,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t159_f276a8d8",
+       "title": {
+        "ru": "Замена компонентов системы подушек безопасности",
+        "en": "Замена компонентов системы подушек безопасности"
+       },
+       "words": 51654,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t160_7c1503a4",
+       "title": {
+        "ru": "Система предупреждения о лобовом столкновении\\*",
+        "en": "Система предупреждения о лобовом столкновении\\*"
+       },
+       "words": 55081,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t161_0d501242",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 54904,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t162_8420e671",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 51411,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t163_236f69e8",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 52043,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t164_6e23137a",
+       "title": {
+        "ru": "Электрическая регулировка сиденья водителя\\*",
+        "en": "Электрическая регулировка сиденья водителя\\*"
+       },
+       "words": 51870,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t165_6eb17fe1",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 59764,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t166_1ce9350e",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 53893,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t167_ad8f28ab",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 51908,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t168_2896a5a9",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 53487,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t169_e8790711",
+       "title": {
+        "ru": "Интегрированный круиз-ассистент (IСА)\\*",
+        "en": "Интегрированный круиз-ассистент (IСА)\\*"
+       },
+       "words": 57305,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t170_5ce4b8c1",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 58866,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t171_1f494b3e",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 53905,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t172_3a55124d",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 54685,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t173_f445c169",
+       "title": {
+        "ru": "Электрическая регулировка сиденья водителя\\*",
+        "en": "Электрическая регулировка сиденья водителя\\*"
+       },
+       "words": 54074,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t174_b68befc1",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 60565,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t175_39b29004",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 56824,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t176_cc60863f",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 55735,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t177_e2d1384e",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 55902,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t178_6cbf16d0",
+       "title": {
+        "ru": "Регулировка подножки заднего сиденья\\*",
+        "en": "Регулировка подножки заднего сиденья\\*"
+       },
+       "words": 57042,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t179_e4537a92",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 63022,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t180_b4000523",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 57601,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t181_e8f60709",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 55196,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t182_8a162e6c",
+       "title": {
+        "ru": "Замена компонентов системы подушек безопасности",
+        "en": "Замена компонентов системы подушек безопасности"
+       },
+       "words": 57890,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t183_4895bf45",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 62545,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t184_9de91e7e",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 60188,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t185_6c0b0071",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 58084,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t186_486357f2",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 58293,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t187_4ab17994",
+       "title": {
+        "ru": "Регулировка подножки заднего сиденья\\*",
+        "en": "Регулировка подножки заднего сиденья\\*"
+       },
+       "words": 58887,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t188_b91ba9ae",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 64983,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t189_8f5663b4",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 60329,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t190_2b33b118",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 58356,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t191_d5384e7e",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 60676,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t192_3ae94f67",
+       "title": {
+        "ru": "Система помощи при выезде с полосы движения\\*",
+        "en": "Система помощи при выезде с полосы движения\\*"
+       },
+       "words": 63649,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t193_014d9429",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 63850,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t194_a1bff887",
+       "title": {
+        "ru": "Открытие и закрытие переднего люка",
+        "en": "Открытие и закрытие переднего люка"
+       },
+       "words": 60373,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t195_d38ad5a5",
+       "title": {
+        "ru": "Кнопка внутри автомобиля для открытия задней двери",
+        "en": "Кнопка внутри автомобиля для открытия задней двери"
+       },
+       "words": 60966,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t196_d332b833",
+       "title": {
+        "ru": "Электрическая регулировка сиденья водителя\\*",
+        "en": "Электрическая регулировка сиденья водителя\\*"
+       },
+       "words": 60449,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t197_89d22a23",
+       "title": {
+        "ru": "Система распознавания знаков ограничения скорости\\*",
+        "en": "Система распознавания знаков ограничения скорости\\*"
+       },
+       "words": 68115,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t198_006f46e9",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 62165,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t199_e97a9d11",
+       "title": {
+        "ru": "Таблички и наклейки на транспортные средства",
+        "en": "Таблички и наклейки на транспортные средства"
+       },
+       "words": 61655,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "gac_aion_lx_general_t200_f3d49ba9",
+       "title": {
+        "ru": "Технические параметры силовой батареи",
+        "en": "Технические параметры силовой батареи"
+       },
+       "words": 1776,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "gac_aion_lx_infotainment_t000_2db08385",
+       "title": {
+        "ru": "Очиститель отрицательных ионов\\*",
+        "en": "Очиститель отрицательных ионов\\*"
+       },
+       "words": 1186,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t001_4fe90d22",
+       "title": {
+        "ru": "Система камеры заднего вида\\*",
+        "en": "Система камеры заднего вида\\*"
+       },
+       "words": 1626,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t002_5572e948",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 1121,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t003_03fc27ca",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 1098,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t004_86e6d8c3",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 1532,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t005_4e0ce0a2",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 1848,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t006_9a4b9091",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 2282,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t007_8f46be9b",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 2598,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t008_f1be449f",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 3032,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t009_5e3b2550",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 3348,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t010_60546465",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 3782,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t011_ac355ef5",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 3711,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t012_a4b376be",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 4539,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t013_3bd62827",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 4766,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t014_edc50936",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 5289,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t015_9531b6cb",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 5516,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t016_613e646d",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 6039,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t017_a4510fa1",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 6266,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t018_95649588",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 6789,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "gac_aion_lx_infotainment_t019_da1709f9",
+       "title": {
+        "ru": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери",
+        "en": "Мультимедийная кнопка для открытия задней двери Регулировка высоты задней двери"
+       },
+       "words": 3059,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "gac_aion_lx_sensors_t000_25ca096c",
+       "title": {
+        "ru": "Датчик Easy Open для открытия задней двери",
+        "en": "Датчик Easy Open для открытия задней двери"
+       },
+       "words": 1567,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "gac_aion_lx_sensors_t001_2391f24d",
+       "title": {
+        "ru": "Полностью автоматическая система парковки\\*",
+        "en": "Полностью автоматическая система парковки\\*"
+       },
+       "words": 1302,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "gac_aion_lx_sensors_t002_6b05032d",
+       "title": {
+        "ru": "Датчик Easy Open для открытия задней двери",
+        "en": "Датчик Easy Open для открытия задней двери"
+       },
+       "words": 1336,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "gac_aion_lx_sensors_t003_3262c984",
+       "title": {
+        "ru": "Датчик Easy Open для открытия задней двери",
+        "en": "Датчик Easy Open для открытия задней двери"
+       },
+       "words": 2150,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "gac_aion_lx_sensors_t004_c7cb240d",
+       "title": {
+        "ru": "Датчик Easy Open для открытия задней двери",
+        "en": "Датчик Easy Open для открытия задней двери"
+       },
+       "words": 2900,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "gac_aion_lx_sensors_t005_cd41cb45",
+       "title": {
+        "ru": "Датчик Easy Open для открытия задней двери",
+        "en": "Датчик Easy Open для открытия задней двери"
+       },
+       "words": 3650,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "gac_aion_lx_sensors_t006_b083c6ab",
+       "title": {
+        "ru": "Датчик Easy Open для открытия задней двери",
+        "en": "Датчик Easy Open для открытия задней двери"
+       },
+       "words": 4400,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "gac_aion_lx_sensors_t007_5a0aafbe",
+       "title": {
+        "ru": "Датчик Easy Open для открытия задней двери",
+        "en": "Датчик Easy Open для открытия задней двери"
+       },
+       "words": 5150,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "gac_aion_lx_sensors_t008_421c853e",
+       "title": {
+        "ru": "Датчик Easy Open для открытия задней двери",
+        "en": "Датчик Easy Open для открытия задней двери"
+       },
+       "words": 5900,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "gac_aion_lx_sensors_t009_31af7d04",
+       "title": {
+        "ru": "Датчик Easy Open для открытия задней двери",
+        "en": "Датчик Easy Open для открытия задней двери"
+       },
+       "words": 6650,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "gac_aion_lx_sensors_t010_9cdc8384",
+       "title": {
+        "ru": "Датчик Easy Open для открытия задней двери",
+        "en": "Датчик Easy Open для открытия задней двери"
+       },
+       "words": 4350,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "gac_aion_lx_drivetrain_t000_5344e5d7",
+       "title": {
+        "ru": "счетная касса",
+        "en": "счетная касса"
+       },
+       "words": 1873,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "gac_aion_lx_drivetrain_t001_cfc57eed",
+       "title": {
+        "ru": "привод",
+        "en": "привод"
+       },
+       "words": 3705,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "gac_aion_lx_drivetrain_t002_9931f025",
+       "title": {
+        "ru": "привод",
+        "en": "привод"
+       },
+       "words": 5205,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "gac_aion_lx_drivetrain_t003_992a8261",
+       "title": {
+        "ru": "привод",
+        "en": "привод"
+       },
+       "words": 6705,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "gac_aion_lx_drivetrain_t004_7c00a591",
+       "title": {
+        "ru": "привод",
+        "en": "привод"
+       },
+       "words": 5586,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

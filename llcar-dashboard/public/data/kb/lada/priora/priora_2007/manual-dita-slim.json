@@ -1,0 +1,525 @@
+{
+ "version": "1.0",
+ "model": "priora",
+ "manuals": [
+  {
+   "model": "priora",
+   "label": {
+    "ru": "Lada Priora — Руководство по ремонту",
+    "en": "Lada Priora — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "lada_priora_engine_t000_18163d6a",
+       "title": {
+        "ru": "6. По окончании проверки уста-",
+        "en": "6. По окончании проверки уста-"
+       },
+       "words": 4482,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_priora_engine_t001_19b17b84",
+       "title": {
+        "ru": "Д р у г и е три п о р ш н я",
+        "en": "Д р у г и е три п о р ш н я"
+       },
+       "words": 3921,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_priora_engine_t002_9bb6a11f",
+       "title": {
+        "ru": "Л VJLVJ4 V LirJUU^ln/ApvyD,",
+        "en": "Л VJLVJ4 V LirJUU^ln/ApvyD,"
+       },
+       "words": 3300,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_priora_engine_t003_33923631",
+       "title": {
+        "ru": "3. Протираем рабочие поверхнос-",
+        "en": "3. Протираем рабочие поверхнос-"
+       },
+       "words": 3234,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_priora_engine_t004_0015a4fb",
+       "title": {
+        "ru": "Поперечный разрез двигателя 1,61 8-кл.: 1 — пробка сливного отверстия поддона",
+        "en": "Поперечный разрез двигателя 1,61 8-кл.: 1 — пробка сливного отверстия поддона"
+       },
+       "words": 3330,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lada_priora_engine_t005_3849e8ba",
+       "title": {
+        "ru": "Схема соединений заднего жгута проводов автомобиля: 1 — правый задний фонарь: 2 ",
+        "en": "Схема соединений заднего жгута проводов автомобиля: 1 — правый задний фонарь: 2 "
+       },
+       "words": 655,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "lada_priora_brakes_t000_4340fe9a",
+       "title": {
+        "ru": "Педаль тормоза — проверка свободного хода",
+        "en": "Педаль тормоза — проверка свободного хода"
+       },
+       "words": 4251,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_priora_brakes_t001_bf81e791",
+       "title": {
+        "ru": "S. Отсоединяем от другой колод-",
+        "en": "S. Отсоединяем от другой колод-"
+       },
+       "words": 3935,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lada_priora_brakes_t002_37bf4139",
+       "title": {
+        "ru": "...отсоединяем колодку жгута про-",
+        "en": "...отсоединяем колодку жгута про-"
+       },
+       "words": 1908,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "lada_priora_suspension_t000_8f920d04",
+       "title": {
+        "ru": "Перелняя подвеска: 1 — поперечина; 2 — продольная растяжка; 3 — поворотный",
+        "en": "Перелняя подвеска: 1 — поперечина; 2 — продольная растяжка; 3 — поворотный"
+       },
+       "words": 3354,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "lada_priora_suspension_t001_40303a59",
+       "title": {
+        "ru": "I I U I . ш , и ХЦРЖМКХПБDНе ivv-л IIVWHV",
+        "en": "I I U I . ш , и ХЦРЖМКХПБDНе ivv-л IIVWHV"
+       },
+       "words": 3396,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "lada_priora_electrical_t000_03295f85",
+       "title": {
+        "ru": "14.6. МОНТАЖНЫЙ БЛОК ПРЕДОХРАНИТЕЛЬ И И fLJlh",
+        "en": "14.6. МОНТАЖНЫЙ БЛОК ПРЕДОХРАНИТЕЛЬ И И fLJlh"
+       },
+       "words": 2848,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "lada_priora_hvac_t000_f307b189",
+       "title": {
+        "ru": "16. КЛИМАТИЧЕСКАЯ УСТАНОВКА",
+        "en": "16. КЛИМАТИЧЕСКАЯ УСТАНОВКА"
+       },
+       "words": 1161,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "lada_priora_body_t000_d8d7ffd5",
+       "title": {
+        "ru": "(с. 210, «Контрольно-измерительные",
+        "en": "(с. 210, «Контрольно-измерительные"
+       },
+       "words": 3851,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lada_priora_body_t001_70a5b77d",
+       "title": {
+        "ru": "15.3. ПРОВЕРКА ТЕХНИЧЕСКОГО СОСТОЯНИЯ КУЗОВА",
+        "en": "15.3. ПРОВЕРКА ТЕХНИЧЕСКОГО СОСТОЯНИЯ КУЗОВА"
+       },
+       "words": 2908,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lada_priora_body_t002_01847488",
+       "title": {
+        "ru": "Устанавливаем стекло в обратной",
+        "en": "Устанавливаем стекло в обратной"
+       },
+       "words": 1275,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "lada_priora_steering_t000_57da7bcd",
+       "title": {
+        "ru": "Рулевое управление с электроусилителем: 1, 19 — скобы крепления рулевого механиз",
+        "en": "Рулевое управление с электроусилителем: 1, 19 — скобы крепления рулевого механиз"
+       },
+       "words": 2917,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "lada_priora_lighting_t000_70b50025",
+       "title": {
+        "ru": "Сильно изношенные и поврежден-",
+        "en": "Сильно изношенные и поврежден-"
+       },
+       "words": 1444,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "lada_priora_interior_t000_94c8fb58",
+       "title": {
+        "ru": "Установка",
+        "en": "Установка"
+       },
+       "words": 3157,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lada_priora_interior_t001_cbd29e04",
+       "title": {
+        "ru": "4. Снимаем ремень со шкива ге-",
+        "en": "4. Снимаем ремень со шкива ге-"
+       },
+       "words": 1721,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "lada_priora_ev_t000_9615edcc",
+       "title": {
+        "ru": "На автомобиле установлена акку-",
+        "en": "На автомобиле установлена акку-"
+       },
+       "words": 3067,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "lada_priora_general_t000_69b422e3",
+       "title": {
+        "ru": "Рассмотрены распространенные дорожно-",
+        "en": "Рассмотрены распространенные дорожно-"
+       },
+       "words": 3026,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_priora_general_t001_f7df66f1",
+       "title": {
+        "ru": "JUXJU см. для изготовления настилов",
+        "en": "JUXJU см. для изготовления настилов"
+       },
+       "words": 4325,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_priora_general_t002_cd76c01b",
+       "title": {
+        "ru": "8. Через отверстие указателя уров-",
+        "en": "8. Через отверстие указателя уров-"
+       },
+       "words": 2973,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_priora_general_t003_0f08bfe9",
+       "title": {
+        "ru": "СМ клипирнис кильци fJCll С а 1 1 С J111 1 ив, выкаем шес1ерню с корпуса диф-",
+        "en": "СМ клипирнис кильци fJCll С а 1 1 С J111 1 ив, выкаем шес1ерню с корпуса диф-"
+       },
+       "words": 2391,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_priora_general_t004_214f30d7",
+       "title": {
+        "ru": "UCL1 a m n w UliiSVitMHC И п ш с л н и Jd\"",
+        "en": "UCL1 a m n w UliiSVitMHC И п ш с л н и Jd\""
+       },
+       "words": 3750,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_priora_general_t005_3ab92ce4",
+       "title": {
+        "ru": ".IllVi jvayiuna \\UVVDI ll^H",
+        "en": ".IllVi jvayiuna \\UVVDI ll^H"
+       },
+       "words": 3145,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lada_priora_general_t006_1c024421",
+       "title": {
+        "ru": "1. Подготавливаем автомобиль к",
+        "en": "1. Подготавливаем автомобиль к"
+       },
+       "words": 1393,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "fuel",
+     "title": {
+      "ru": "fuel",
+      "en": "fuel"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lada_priora_fuel_t000_5e6fdfe4",
+       "title": {
+        "ru": "(с. 73, «Проверка технического состояния системы",
+        "en": "(с. 73, «Проверка технического состояния системы"
+       },
+       "words": 4377,
+       "images": 0,
+       "section_id": "fuel"
+      },
+      {
+       "id": "lada_priora_fuel_t001_9c795ed7",
+       "title": {
+        "ru": "Топливная рампа двигателя 1,6i 8-кл.:",
+        "en": "Топливная рампа двигателя 1,6i 8-кл.:"
+       },
+       "words": 2152,
+       "images": 0,
+       "section_id": "fuel"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lada_priora_sensors_t000_02c02a50",
+       "title": {
+        "ru": "14.13. АВТОМОБИЛЬНАЯ ПРОТИВОУГОННАЯ СИСТЕМА (ИММОБИЛАЙЗЕР)",
+        "en": "14.13. АВТОМОБИЛЬНАЯ ПРОТИВОУГОННАЯ СИСТЕМА (ИММОБИЛАЙЗЕР)"
+       },
+       "words": 1722,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lada_priora_drivetrain_t000_18c18eec",
+       "title": {
+        "ru": "10.3. ПРИВОДЫ ПЕРЕДНИХ КОЛЁС",
+        "en": "10.3. ПРИВОДЫ ПЕРЕДНИХ КОЛЁС"
+       },
+       "words": 3819,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lada_priora_drivetrain_t001_ad35f721",
+       "title": {
+        "ru": "Детали стартера: I — гайки крепления задней крышки; 2 — задняя крышка: 3 — винты",
+        "en": "Детали стартера: I — гайки крепления задней крышки; 2 — задняя крышка: 3 — винты"
+       },
+       "words": 2399,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "cooling",
+     "title": {
+      "ru": "cooling",
+      "en": "cooling"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lada_priora_cooling_t000_be975ebe",
+       "title": {
+        "ru": "Система охлаждения двигателя: 1 — радиатор отопитедя; 2 — шланг отвода охлаждающ",
+        "en": "Система охлаждения двигателя: 1 — радиатор отопитедя; 2 — шланг отвода охлаждающ"
+       },
+       "words": 2860,
+       "images": 0,
+       "section_id": "cooling"
+      }
+     ]
+    },
+    {
+     "id": "exhaust",
+     "title": {
+      "ru": "exhaust",
+      "en": "exhaust"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lada_priora_exhaust_t000_e0bc7c82",
+       "title": {
+        "ru": "9.5. СИСТЕМА ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ",
+        "en": "9.5. СИСТЕМА ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ"
+       },
+       "words": 257,
+       "images": 0,
+       "section_id": "exhaust"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

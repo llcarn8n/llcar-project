@@ -1,0 +1,455 @@
+{
+ "version": "1.0",
+ "model": "1_series_f20",
+ "manuals": [
+  {
+   "model": "1_series_f20",
+   "label": {
+    "ru": "Bmw 1 Series F20 — Руководство по ремонту",
+    "en": "Bmw 1 Series F20 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_engine_t000_a155df25",
+       "title": {
+        "ru": "Включение выполняется автоматически и",
+        "en": "Включение выполняется автоматически и"
+       },
+       "words": 2241,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_brakes_t000_d9ad5421",
+       "title": {
+        "ru": "Неправильное сочетание дисков и шин отри‐",
+        "en": "Неправильное сочетание дисков и шин отри‐"
+       },
+       "words": 2380,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "bmw_1_series_f20_brakes_t001_765069af",
+       "title": {
+        "ru": "Трехдверный автомобиль: 120d xDrive",
+        "en": "Трехдверный автомобиль: 120d xDrive"
+       },
+       "words": 559,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_suspension_t000_808243d7",
+       "title": {
+        "ru": "После отпускания рычаг возвращается в ис‐",
+        "en": "После отпускания рычаг возвращается в ис‐"
+       },
+       "words": 2176,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_body_t000_bdb20b2c",
+       "title": {
+        "ru": "При предупреждении не нужно без необходи‐",
+        "en": "При предупреждении не нужно без необходи‐"
+       },
+       "words": 2492,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_1_series_f20_body_t001_cc702d55",
+       "title": {
+        "ru": "Трехдверный автомобиль: M135i powered by BMW M",
+        "en": "Трехдверный автомобиль: M135i powered by BMW M"
+       },
+       "words": 2313,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_steering_t000_d9483cf7",
+       "title": {
+        "ru": "Программу можно конфигурировать индиви‐",
+        "en": "Программу можно конфигурировать индиви‐"
+       },
+       "words": 1292,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_lighting_t000_6e3cbd1a",
+       "title": {
+        "ru": "2 / 2 = 1 пассажир, полное багажное отделе‐",
+        "en": "2 / 2 = 1 пассажир, полное багажное отделе‐"
+       },
+       "words": 2069,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_1_series_f20_lighting_t001_5eefe1f4",
+       "title": {
+        "ru": "Вставка лампы и патрона лампы выполн‐",
+        "en": "Вставка лампы и патрона лампы выполн‐"
+       },
+       "words": 2055,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_1_series_f20_lighting_t002_1f07aad8",
+       "title": {
+        "ru": "Горит светодиод: экстренный вызов сра‐",
+        "en": "Горит светодиод: экстренный вызов сра‐"
+       },
+       "words": 723,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_interior_t000_7e30b5a3",
+       "title": {
+        "ru": "Режим охлаждения включается автоматиче‐",
+        "en": "Режим охлаждения включается автоматиче‐"
+       },
+       "words": 2412,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_1_series_f20_interior_t001_354fb2a9",
+       "title": {
+        "ru": "Использование среднего ремня без‐",
+        "en": "Использование среднего ремня без‐"
+       },
+       "words": 1041,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_maintenance_t000_c75957c9",
+       "title": {
+        "ru": "Для надежности работы дизельного двига‐",
+        "en": "Для надежности работы дизельного двига‐"
+       },
+       "words": 1812,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_ev_t000_54160b66",
+       "title": {
+        "ru": "Задние габаритные фонари: на каждую",
+        "en": "Задние габаритные фонари: на каждую"
+       },
+       "words": 1261,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_general_t000_a68fc02e",
+       "title": {
+        "ru": "Белые стрелки влево или вправо показы‐",
+        "en": "Белые стрелки влево или вправо показы‐"
+       },
+       "words": 1627,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_1_series_f20_general_t001_cc22f772",
+       "title": {
+        "ru": "Встроенное руководство по эксплуатации в автомобиле",
+        "en": "Встроенное руководство по эксплуатации в автомобиле"
+       },
+       "words": 2275,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_1_series_f20_general_t002_28090ed5",
+       "title": {
+        "ru": "Трехдверный автомобиль: вход в",
+        "en": "Трехдверный автомобиль: вход в"
+       },
+       "words": 2342,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_1_series_f20_general_t003_7dc06a30",
+       "title": {
+        "ru": "Жидкость ко всем форсункам подается из од‐",
+        "en": "Жидкость ко всем форсункам подается из од‐"
+       },
+       "words": 1787,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_1_series_f20_general_t004_a8a38491",
+       "title": {
+        "ru": "Вращайте контроллер для установки ми‐",
+        "en": "Вращайте контроллер для установки ми‐"
+       },
+       "words": 2284,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_1_series_f20_general_t005_89e8bcfa",
+       "title": {
+        "ru": "Напольная сетка вставляется в проушины в",
+        "en": "Напольная сетка вставляется в проушины в"
+       },
+       "words": 2229,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_1_series_f20_general_t006_f20e94e0",
+       "title": {
+        "ru": "Достать маховичок, стрелка 1, и повер‐",
+        "en": "Достать маховичок, стрелка 1, и повер‐"
+       },
+       "words": 2221,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_1_series_f20_general_t007_7f8166da",
+       "title": {
+        "ru": "Полностью извлеките соединительный",
+        "en": "Полностью извлеките соединительный"
+       },
+       "words": 1748,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_1_series_f20_general_t008_0f0081fa",
+       "title": {
+        "ru": "Пятидверный автомобиль: M135i powered by BMW M",
+        "en": "Пятидверный автомобиль: M135i powered by BMW M"
+       },
+       "words": 1835,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_infotainment_t000_407369d8",
+       "title": {
+        "ru": "В областях, не учитываемых системой на‐",
+        "en": "В областях, не учитываемых системой на‐"
+       },
+       "words": 1805,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_1_series_f20_infotainment_t001_9fd0fc1e",
+       "title": {
+        "ru": "Не допускайте попадания жидкости на дисп‐",
+        "en": "Не допускайте попадания жидкости на дисп‐"
+       },
+       "words": 1024,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_safety_t000_22f220f7",
+       "title": {
+        "ru": "При запирании, также при включенном",
+        "en": "При запирании, также при включенном"
+       },
+       "words": 2318,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_drivetrain_t000_1e37d9ac",
+       "title": {
+        "ru": "Переключение на высшую или низшую пере‐",
+        "en": "Переключение на высшую или низшую пере‐"
+       },
+       "words": 1168,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "tires",
+     "title": {
+      "ru": "tires",
+      "en": "tires"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_tires_t000_4e301871",
+       "title": {
+        "ru": "Медленный автомобиль при приближении",
+        "en": "Медленный автомобиль при приближении"
+       },
+       "words": 1236,
+       "images": 0,
+       "section_id": "tires"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_1_series_f20_sensors_t000_da48c277",
+       "title": {
+        "ru": "этом поддерживайте расстояние не менее",
+        "en": "этом поддерживайте расстояние не менее"
+       },
+       "words": 425,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

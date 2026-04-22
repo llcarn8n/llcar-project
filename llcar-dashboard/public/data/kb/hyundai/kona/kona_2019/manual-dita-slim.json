@@ -1,0 +1,1255 @@
+{
+ "version": "1.0",
+ "model": "kona",
+ "manuals": [
+  {
+   "model": "kona",
+   "label": {
+    "ru": "Hyundai Kona — Руководство по ремонту",
+    "en": "Hyundai Kona — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "hyundai_kona_engine_t000_231d296d",
+       "title": {
+        "ru": "HYUNDAI MOTOR COMPANY",
+        "en": "HYUNDAI MOTOR COMPANY"
+       },
+       "words": 1593,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t001_ca9f98b6",
+       "title": {
+        "ru": "8. Windshield washer fluid reservoir.......7-44",
+        "en": "8. Windshield washer fluid reservoir.......7-44"
+       },
+       "words": 311,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t002_5ecc2d55",
+       "title": {
+        "ru": "1. Push the control switch forward or",
+        "en": "1. Push the control switch forward or"
+       },
+       "words": 1903,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t003_f6c639f7",
+       "title": {
+        "ru": "2. Return the support rod to its clip to",
+        "en": "2. Return the support rod to its clip to"
+       },
+       "words": 917,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t004_9607e90b",
+       "title": {
+        "ru": "1. Drive carefully to the nearest safe",
+        "en": "1. Drive carefully to the nearest safe"
+       },
+       "words": 1118,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t005_2c68b09d",
+       "title": {
+        "ru": "TRIP COMPUTER AND SERVICE REMINDER (FOR CLUSTER TYPE A)",
+        "en": "TRIP COMPUTER AND SERVICE REMINDER (FOR CLUSTER TYPE A)"
+       },
+       "words": 2396,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t006_24967ead",
+       "title": {
+        "ru": "1. Start the engine. Push the air con-",
+        "en": "1. Start the engine. Push the air con-"
+       },
+       "words": 1270,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t007_f178f1b1",
+       "title": {
+        "ru": "2. After high speed or extended driv-",
+        "en": "2. After high speed or extended driv-"
+       },
+       "words": 964,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t008_5bf18e1d",
+       "title": {
+        "ru": "1. Put the shift lever in neutral and",
+        "en": "1. Put the shift lever in neutral and"
+       },
+       "words": 1613,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t009_9d7da964",
+       "title": {
+        "ru": "ISG (IDLE STOP AND GO) SYSTEM (IF EQUIPPED)",
+        "en": "ISG (IDLE STOP AND GO) SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1371,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t010_2956833c",
+       "title": {
+        "ru": "5. If engine coolant is leaking out, stop",
+        "en": "5. If engine coolant is leaking out, stop"
+       },
+       "words": 583,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t011_9c2c3567",
+       "title": {
+        "ru": "1. The low tire pressure telltale/",
+        "en": "1. The low tire pressure telltale/"
+       },
+       "words": 480,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t012_7ef71c60",
+       "title": {
+        "ru": "MAINTENANCE",
+        "en": "MAINTENANCE"
+       },
+       "words": 1512,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t013_0c55059d",
+       "title": {
+        "ru": "MAINTENANCE",
+        "en": "MAINTENANCE"
+       },
+       "words": 1010,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t014_4082c077",
+       "title": {
+        "ru": "MAINTENANCE",
+        "en": "MAINTENANCE"
+       },
+       "words": 1841,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t015_75a6cc0d",
+       "title": {
+        "ru": "6. If it is near or at L, add enough oil",
+        "en": "6. If it is near or at L, add enough oil"
+       },
+       "words": 1005,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t016_227b2c7c",
+       "title": {
+        "ru": "6. The level should be in the C range.",
+        "en": "6. The level should be in the C range."
+       },
+       "words": 1071,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t017_91f5ea67",
+       "title": {
+        "ru": "4. Refer to the label on the inside of",
+        "en": "4. Refer to the label on the inside of"
+       },
+       "words": 714,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t018_30fb86da",
+       "title": {
+        "ru": "5. Push in a new fuse of the same",
+        "en": "5. Push in a new fuse of the same"
+       },
+       "words": 388,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t019_807d25cd",
+       "title": {
+        "ru": "9. Reinstall the lamp assembly to the",
+        "en": "9. Reinstall the lamp assembly to the"
+       },
+       "words": 1159,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t020_dccd42e4",
+       "title": {
+        "ru": "3. Fully add the ISO 22241-specified",
+        "en": "3. Fully add the ISO 22241-specified"
+       },
+       "words": 1431,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t021_4e90cac5",
+       "title": {
+        "ru": "RECOMMENDED LUBRICANTS AND CAPACITIES",
+        "en": "RECOMMENDED LUBRICANTS AND CAPACITIES"
+       },
+       "words": 1382,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_kona_engine_t022_479fbbbf",
+       "title": {
+        "ru": "FUEL LABEL (IF EQUIPPED)",
+        "en": "FUEL LABEL (IF EQUIPPED)"
+       },
+       "words": 319,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "hyundai_kona_brakes_t000_756b3753",
+       "title": {
+        "ru": "1. Drive carefully to the nearest safe",
+        "en": "1. Drive carefully to the nearest safe"
+       },
+       "words": 1057,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t001_52c3ee05",
+       "title": {
+        "ru": "1. Make sure the parking brake is",
+        "en": "1. Make sure the parking brake is"
+       },
+       "words": 1501,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t002_0311e94c",
+       "title": {
+        "ru": "1. Always carry the smart key with",
+        "en": "1. Always carry the smart key with"
+       },
+       "words": 1028,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t003_55262031",
+       "title": {
+        "ru": "AUTOMATIC TRANSMISSION (IF EQUIPPED)",
+        "en": "AUTOMATIC TRANSMISSION (IF EQUIPPED)"
+       },
+       "words": 748,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t004_b842b8cc",
+       "title": {
+        "ru": "DUAL CLUTCH TRANSMISSION (IF EQUIPPED)",
+        "en": "DUAL CLUTCH TRANSMISSION (IF EQUIPPED)"
+       },
+       "words": 2372,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t005_93dd6b41",
+       "title": {
+        "ru": "BRAKING SYSTEM",
+        "en": "BRAKING SYSTEM"
+       },
+       "words": 1798,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t006_fbe3ca29",
+       "title": {
+        "ru": "1. Decrease the vehicle speed to 0",
+        "en": "1. Decrease the vehicle speed to 0"
+       },
+       "words": 1774,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t007_3de8e462",
+       "title": {
+        "ru": "2. Accelerate to the desired speed,",
+        "en": "2. Accelerate to the desired speed,"
+       },
+       "words": 1758,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t008_ab50c27a",
+       "title": {
+        "ru": "TRAILER TOWING (FOR EUROPE)",
+        "en": "TRAILER TOWING (FOR EUROPE)"
+       },
+       "words": 2871,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t009_06d9891c",
+       "title": {
+        "ru": "3. Turn off all electrical devices such",
+        "en": "3. Turn off all electrical devices such"
+       },
+       "words": 908,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t010_8ebe1dc8",
+       "title": {
+        "ru": "1. Park on a level, firm surface.",
+        "en": "1. Park on a level, firm surface."
+       },
+       "words": 853,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t011_3352240d",
+       "title": {
+        "ru": "BRAKE/CLUTCH FLUID (IF EQUIPPED)",
+        "en": "BRAKE/CLUTCH FLUID (IF EQUIPPED)"
+       },
+       "words": 1302,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t012_3461b2f8",
+       "title": {
+        "ru": "IGN COIL",
+        "en": "IGN COIL"
+       },
+       "words": 532,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t013_f8eac1bd",
+       "title": {
+        "ru": "5.Insert a new bulb by inserting it into",
+        "en": "5.Insert a new bulb by inserting it into"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_kona_brakes_t014_bf8c6646",
+       "title": {
+        "ru": "7. Install the socket into the assem-",
+        "en": "7. Install the socket into the assem-"
+       },
+       "words": 364,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "hyundai_kona_hvac_t000_69e6dd4a",
+       "title": {
+        "ru": "MANUAL CLIMATE CONTROL SYSTEM (IF EQUIPPED)",
+        "en": "MANUAL CLIMATE CONTROL SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1089,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_kona_hvac_t001_9a191686",
+       "title": {
+        "ru": "5. If dehumidified heating is desired,",
+        "en": "5. If dehumidified heating is desired,"
+       },
+       "words": 1180,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_kona_hvac_t002_6f56c833",
+       "title": {
+        "ru": "5. If dehumidified heating is desired,",
+        "en": "5. If dehumidified heating is desired,"
+       },
+       "words": 1166,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_kona_hvac_t003_fc4340a0",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "hyundai_kona_body_t000_a25f35fb",
+       "title": {
+        "ru": "2. Fasten the lap/shoulder belt latch",
+        "en": "2. Fasten the lap/shoulder belt latch"
+       },
+       "words": 648,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_kona_body_t001_fef2d562",
+       "title": {
+        "ru": "7.Press the AUTO button to convert",
+        "en": "7.Press the AUTO button to convert"
+       },
+       "words": 1649,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_kona_body_t002_e0a9389f",
+       "title": {
+        "ru": "1. Pull out the safety pin at the top of",
+        "en": "1. Pull out the safety pin at the top of"
+       },
+       "words": 778,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "hyundai_kona_lighting_t000_3f7b6846",
+       "title": {
+        "ru": "4. Turn signal lamp, Rear fog lamp,",
+        "en": "4. Turn signal lamp, Rear fog lamp,"
+       },
+       "words": 1056,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_kona_lighting_t001_01f13db9",
+       "title": {
+        "ru": "5. Place the cap on the fuel filler door.",
+        "en": "5. Place the cap on the fuel filler door."
+       },
+       "words": 884,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_kona_lighting_t002_5c078b24",
+       "title": {
+        "ru": "1.Place the light switch in the AUTO",
+        "en": "1.Place the light switch in the AUTO"
+       },
+       "words": 1002,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_kona_lighting_t003_cb1ac736",
+       "title": {
+        "ru": "1. The headlamps or front fog lights",
+        "en": "1. The headlamps or front fog lights"
+       },
+       "words": 1548,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_kona_lighting_t004_5cc8fbc9",
+       "title": {
+        "ru": "1. The ignition switch is in the ON",
+        "en": "1. The ignition switch is in the ON"
+       },
+       "words": 990,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_kona_lighting_t005_67f108d9",
+       "title": {
+        "ru": "1. A vehicle has been detected in the blind spot area by the radar system",
+        "en": "1. A vehicle has been detected in the blind spot area by the radar system"
+       },
+       "words": 1898,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_kona_lighting_t006_a3114ba2",
+       "title": {
+        "ru": "7.Push the socket into the assembly",
+        "en": "7.Push the socket into the assembly"
+       },
+       "words": 905,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_kona_lighting_t007_f9c233a0",
+       "title": {
+        "ru": "4. If headlamp leveling device is equipped, adjust the head lamp leveling device",
+        "en": "4. If headlamp leveling device is equipped, adjust the head lamp leveling device"
+       },
+       "words": 481,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_kona_lighting_t008_903458b3",
+       "title": {
+        "ru": "8. Reinstall the lamp assembly to the",
+        "en": "8. Reinstall the lamp assembly to the"
+       },
+       "words": 1238,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_kona_lighting_t009_703a51ab",
+       "title": {
+        "ru": "W10W",
+        "en": "W10W"
+       },
+       "words": 60,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "hyundai_kona_adas_t000_601faf65",
+       "title": {
+        "ru": "1. Head Up display (if equipped)",
+        "en": "1. Head Up display (if equipped)"
+       },
+       "words": 885,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "hyundai_kona_adas_t001_749df7c7",
+       "title": {
+        "ru": "SPEED LIMIT CONTROL SYSTEM (IF EQUIPPED)",
+        "en": "SPEED LIMIT CONTROL SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1125,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "hyundai_kona_interior_t000_83b855b3",
+       "title": {
+        "ru": "1. Pull up the seat slide adjustment",
+        "en": "1. Pull up the seat slide adjustment"
+       },
+       "words": 851,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t001_0ab7e766",
+       "title": {
+        "ru": "1. Set the front seatback to the upright",
+        "en": "1. Set the front seatback to the upright"
+       },
+       "words": 640,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t002_796409a8",
+       "title": {
+        "ru": "1. Recline the seatback (2) with using",
+        "en": "1. Recline the seatback (2) with using"
+       },
+       "words": 495,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t003_e9efbb0d",
+       "title": {
+        "ru": "1. Pull it up to the desired position (1).",
+        "en": "1. Pull it up to the desired position (1)."
+       },
+       "words": 1000,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t004_cbe858b9",
+       "title": {
+        "ru": "1.Insert the tongue plate (1) into the",
+        "en": "1.Insert the tongue plate (1) into the"
+       },
+       "words": 1561,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t005_01fea181",
+       "title": {
+        "ru": "OOSEV038035L",
+        "en": "OOSEV038035L"
+       },
+       "words": 1041,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t006_16e6e2cd",
+       "title": {
+        "ru": "4. Follow the instructions of the Child",
+        "en": "4. Follow the instructions of the Child"
+       },
+       "words": 970,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t007_9ecedeab",
+       "title": {
+        "ru": "4. Push and pull on the Child Restraint",
+        "en": "4. Push and pull on the Child Restraint"
+       },
+       "words": 1652,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t008_a489cb22",
+       "title": {
+        "ru": "1. Carry the smart key.",
+        "en": "1. Carry the smart key."
+       },
+       "words": 1001,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t009_95adbd30",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 726,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t010_131721ed",
+       "title": {
+        "ru": "1. Press either the L (left side) or R",
+        "en": "1. Press either the L (left side) or R"
+       },
+       "words": 907,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t011_585187e0",
+       "title": {
+        "ru": "1. To install the fuel tank cap, turn it",
+        "en": "1. To install the fuel tank cap, turn it"
+       },
+       "words": 834,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t012_cf9c5497",
+       "title": {
+        "ru": "(8) SETUP/CLOCK",
+        "en": "(8) SETUP/CLOCK"
+       },
+       "words": 1295,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t013_dd0c0510",
+       "title": {
+        "ru": "BEFORE DRIVING",
+        "en": "BEFORE DRIVING"
+       },
+       "words": 966,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t014_9eb96d69",
+       "title": {
+        "ru": "12. Lower the vehicle to the ground",
+        "en": "12. Lower the vehicle to the ground"
+       },
+       "words": 671,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t015_0bb6230a",
+       "title": {
+        "ru": "CLUSTER",
+        "en": "CLUSTER"
+       },
+       "words": 253,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_kona_interior_t016_57649534",
+       "title": {
+        "ru": "4. Turn the urea solution tank cap in a",
+        "en": "4. Turn the urea solution tank cap in a"
+       },
+       "words": 513,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "hyundai_kona_chassis_t000_bea756d4",
+       "title": {
+        "ru": "15. Steering wheel tilt/telescopic lever ..3-17",
+        "en": "15. Steering wheel tilt/telescopic lever ..3-17"
+       },
+       "words": 1106,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t001_e11e3cb0",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1713,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t002_396d522b",
+       "title": {
+        "ru": "1. When the [PHONE] button on the",
+        "en": "1. When the [PHONE] button on the"
+       },
+       "words": 1140,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t003_f6693aee",
+       "title": {
+        "ru": "1.Check the tire pressures recom-",
+        "en": "1.Check the tire pressures recom-"
+       },
+       "words": 1235,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t004_241e276f",
+       "title": {
+        "ru": "1. Pull the vehicle into the parking",
+        "en": "1. Pull the vehicle into the parking"
+       },
+       "words": 1840,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t005_fc93d3ce",
+       "title": {
+        "ru": "TIRE PRESSURE MONITORING SYSTEM (TPMS) (IF EQUIPPED) (TYPE B)",
+        "en": "TIRE PRESSURE MONITORING SYSTEM (TPMS) (IF EQUIPPED) (TYPE B)"
+       },
+       "words": 991,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t006_b388bcee",
+       "title": {
+        "ru": "IF YOU HAVE A FLAT TIRE (WITH TIRE MOBILITY KIT, IF EQUIPPED) - TYPE A",
+        "en": "IF YOU HAVE A FLAT TIRE (WITH TIRE MOBILITY KIT, IF EQUIPPED) - TYPE A"
+       },
+       "words": 789,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t007_b2ad8aeb",
+       "title": {
+        "ru": "4. Adjust the tire inflation pressure to",
+        "en": "4. Adjust the tire inflation pressure to"
+       },
+       "words": 442,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t008_d61572ac",
+       "title": {
+        "ru": "9. Button for reducing the tire infla-",
+        "en": "9. Button for reducing the tire infla-"
+       },
+       "words": 895,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t009_128377ad",
+       "title": {
+        "ru": "4. Adjust the tire inflation pressure to",
+        "en": "4. Adjust the tire inflation pressure to"
+       },
+       "words": 649,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t010_8501efc6",
+       "title": {
+        "ru": "3. Checking tire life (TIN : Tire",
+        "en": "3. Checking tire life (TIN : Tire"
+       },
+       "words": 1622,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t011_2f7165e1",
+       "title": {
+        "ru": "7. Uniform tire quality grading",
+        "en": "7. Uniform tire quality grading"
+       },
+       "words": 860,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_kona_chassis_t012_15dea5ed",
+       "title": {
+        "ru": "VEHICLE IDENTIFICATION NUMBER (VIN)",
+        "en": "VEHICLE IDENTIFICATION NUMBER (VIN)"
+       },
+       "words": 248,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "hyundai_kona_general_t000_bd9cc900",
+       "title": {
+        "ru": "1. Pull it up to the desired position",
+        "en": "1. Pull it up to the desired position"
+       },
+       "words": 315,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_kona_general_t001_389570d4",
+       "title": {
+        "ru": "5. Within 3 seconds, push the control",
+        "en": "5. Within 3 seconds, push the control"
+       },
+       "words": 703,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_kona_general_t002_0cc711a2",
+       "title": {
+        "ru": "7. Service Interval",
+        "en": "7. Service Interval"
+       },
+       "words": 758,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_kona_general_t003_83daac3c",
+       "title": {
+        "ru": "1. Press the AUTO button. (3)",
+        "en": "1. Press the AUTO button. (3)"
+       },
+       "words": 1303,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_kona_general_t004_e4c10cbb",
+       "title": {
+        "ru": "1. Set fan speed to the highest posi-",
+        "en": "1. Set fan speed to the highest posi-"
+       },
+       "words": 778,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_kona_general_t005_7440b6b6",
+       "title": {
+        "ru": "1. Press and hold the desired slot",
+        "en": "1. Press and hold the desired slot"
+       },
+       "words": 822,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_kona_general_t006_fbd3614c",
+       "title": {
+        "ru": "4. Character display range (Unicode)",
+        "en": "4. Character display range (Unicode)"
+       },
+       "words": 799,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_kona_general_t007_98ed29be",
+       "title": {
+        "ru": "BLIND-SPOT COLLISION WARNING (BCW) SYSTEM (IF EQUIPPED)",
+        "en": "BLIND-SPOT COLLISION WARNING (BCW) SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1663,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_kona_general_t008_3ff91d6d",
+       "title": {
+        "ru": "9. The jack should be used on firm",
+        "en": "9. The jack should be used on firm"
+       },
+       "words": 562,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_kona_general_t009_db3a3527",
+       "title": {
+        "ru": "4. Pull the dipstick out, wipe it clean,",
+        "en": "4. Pull the dipstick out, wipe it clean,"
+       },
+       "words": 319,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_kona_general_t010_a696d67b",
+       "title": {
+        "ru": "MODULE6",
+        "en": "MODULE6"
+       },
+       "words": 224,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_kona_infotainment_t000_8a8d12b3",
+       "title": {
+        "ru": "CAUTION: MODIFICATIONS TO YOUR HYUNDAI",
+        "en": "CAUTION: MODIFICATIONS TO YOUR HYUNDAI"
+       },
+       "words": 1070,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_kona_infotainment_t001_a72d4953",
+       "title": {
+        "ru": "2. Search for available Bluetooth®",
+        "en": "2. Search for available Bluetooth®"
+       },
+       "words": 1343,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_kona_infotainment_t002_68cb11ba",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 269,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_kona_sensors_t000_297981e6",
+       "title": {
+        "ru": "FORWARD COLLISION-AVOIDANCE ASSIST (FCA) SYSTEM",
+        "en": "FORWARD COLLISION-AVOIDANCE ASSIST (FCA) SYSTEM"
+       },
+       "words": 2033,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_kona_sensors_t001_b19a55c4",
+       "title": {
+        "ru": "(TPMS).",
+        "en": "(TPMS)."
+       },
+       "words": 1931,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_kona_sensors_t002_34e44a56",
+       "title": {
+        "ru": "IGN COIL",
+        "en": "IGN COIL"
+       },
+       "words": 255,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_kona_drivetrain_t000_547b32ab",
+       "title": {
+        "ru": "3. Door",
+        "en": "3. Door"
+       },
+       "words": 1614,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_kona_drivetrain_t001_ba6669a8",
+       "title": {
+        "ru": "4. Insert a tool (e.g. flathead screw-",
+        "en": "4. Insert a tool (e.g. flathead screw-"
+       },
+       "words": 1154,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_kona_drivetrain_t002_b89e7853",
+       "title": {
+        "ru": "8. Shift into Reverse gear on vehicles",
+        "en": "8. Shift into Reverse gear on vehicles"
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_kona_drivetrain_t003_a66ae249",
+       "title": {
+        "ru": "MODULE5",
+        "en": "MODULE5"
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "battery",
+     "title": {
+      "ru": "battery",
+      "en": "battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_kona_battery_t000_14abb93d",
+       "title": {
+        "ru": "1. Insert a slim tool into the slot and",
+        "en": "1. Insert a slim tool into the slot and"
+       },
+       "words": 1297,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_kona_battery_t001_760742e2",
+       "title": {
+        "ru": "2. The indicator light is orange when",
+        "en": "2. The indicator light is orange when"
+       },
+       "words": 1126,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_kona_battery_t002_0afffc66",
+       "title": {
+        "ru": "5. To aim the low beam left or right,",
+        "en": "5. To aim the low beam left or right,"
+       },
+       "words": 897,
+       "images": 0,
+       "section_id": "battery"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

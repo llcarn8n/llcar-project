@@ -1,0 +1,665 @@
+{
+ "version": "1.0",
+ "model": "spectra",
+ "manuals": [
+  {
+   "model": "spectra",
+   "label": {
+    "ru": "Kia Spectra — Руководство по ремонту",
+    "en": "Kia Spectra — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "kia_spectra_engine_t000_a51a0d02",
+       "title": {
+        "ru": "Проблемы при запуске холодного двигателя:",
+        "en": "Проблемы при запуске холодного двигателя:"
+       },
+       "words": 347,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_spectra_engine_t001_0118e635",
+       "title": {
+        "ru": "Если лампа продолжает гореть во время движения:",
+        "en": "Если лампа продолжает гореть во время движения:"
+       },
+       "words": 564,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_spectra_engine_t002_a779ff94",
+       "title": {
+        "ru": "Замена масла двигателя и масляного фильтра",
+        "en": "Замена масла двигателя и масляного фильтра"
+       },
+       "words": 555,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "kia_spectra_brakes_t000_69f34ff6",
+       "title": {
+        "ru": "Проблемы при запуске горячего двигателя:",
+        "en": "Проблемы при запуске горячего двигателя:"
+       },
+       "words": 760,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_spectra_brakes_t001_4ec1e3df",
+       "title": {
+        "ru": "Индикатор износа накладок дисковых тормозов",
+        "en": "Индикатор износа накладок дисковых тормозов"
+       },
+       "words": 593,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_spectra_brakes_t002_7d447654",
+       "title": {
+        "ru": "Контрольная лампа антиблокировочной системы (ABS)\\*",
+        "en": "Контрольная лампа антиблокировочной системы (ABS)\\*"
+       },
+       "words": 422,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_spectra_brakes_t003_1b71b183",
+       "title": {
+        "ru": "Буксировка в экстренных случаях",
+        "en": "Буксировка в экстренных случаях"
+       },
+       "words": 465,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_spectra_brakes_t004_446ac9ce",
+       "title": {
+        "ru": "Стояночный тормоз",
+        "en": "Стояночный тормоз"
+       },
+       "words": 69,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "kia_spectra_suspension_t000_ab3cad34",
+       "title": {
+        "ru": "Дистанционное управление лючком бензобака",
+        "en": "Дистанционное управление лючком бензобака"
+       },
+       "words": 422,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_spectra_suspension_t001_e5d21bb9",
+       "title": {
+        "ru": "Стеклоочистители с переменной скоростью и прерывистым режимом работы\\*",
+        "en": "Стеклоочистители с переменной скоростью и прерывистым режимом работы\\*"
+       },
+       "words": 300,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "kia_spectra_hvac_t000_ccabdb15",
+       "title": {
+        "ru": "Система контроля качества воздуха\\*",
+        "en": "Система контроля качества воздуха\\*"
+       },
+       "words": 114,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "kia_spectra_body_t000_4d0ee9d8",
+       "title": {
+        "ru": "Клавиши приводов электростеклоподъемников на двери водителя.",
+        "en": "Клавиши приводов электростеклоподъемников на двери водителя."
+       },
+       "words": 295,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_spectra_body_t001_a32f821c",
+       "title": {
+        "ru": "Дневное/ночное положение внутреннего зеркала заднего вида",
+        "en": "Дневное/ночное положение внутреннего зеркала заднего вида"
+       },
+       "words": 585,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_spectra_body_t002_eec99893",
+       "title": {
+        "ru": "Стеклоочистители и омыватели заднего стекла\\*",
+        "en": "Стеклоочистители и омыватели заднего стекла\\*"
+       },
+       "words": 399,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_spectra_body_t003_24c2ae8c",
+       "title": {
+        "ru": "Как пользоваться настоящим руководством . ..1-2",
+        "en": "Как пользоваться настоящим руководством . ..1-2"
+       },
+       "words": 630,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "kia_spectra_steering_t000_ceba1519",
+       "title": {
+        "ru": "Звуковой сигнал (у моделей с подушкой безопасности)",
+        "en": "Звуковой сигнал (у моделей с подушкой безопасности)"
+       },
+       "words": 481,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_spectra_steering_t001_2c171b0a",
+       "title": {
+        "ru": "Проверка уровня жидкости в системе гидроусилителя рулевого управления (ГУР)",
+        "en": "Проверка уровня жидкости в системе гидроусилителя рулевого управления (ГУР)"
+       },
+       "words": 142,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "kia_spectra_lighting_t000_1f0e827f",
+       "title": {
+        "ru": "Световой и звуковой сигналы непристегнутых ремней безопасности",
+        "en": "Световой и звуковой сигналы непристегнутых ремней безопасности"
+       },
+       "words": 333,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_spectra_lighting_t001_2c72465b",
+       "title": {
+        "ru": "Регулировка угла наклона пучка света фар\\*",
+        "en": "Регулировка угла наклона пучка света фар\\*"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_spectra_lighting_t002_426dff01",
+       "title": {
+        "ru": "Работа системы",
+        "en": "Работа системы"
+       },
+       "words": 309,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "kia_spectra_interior_t000_1661afb9",
+       "title": {
+        "ru": "Регулировка по высоте подушки сиденья водителя\\*",
+        "en": "Регулировка по высоте подушки сиденья водителя\\*"
+       },
+       "words": 553,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_spectra_interior_t001_828e2a01",
+       "title": {
+        "ru": "Крепление СБР поясным ремнем на центральном заднем сиденье",
+        "en": "Крепление СБР поясным ремнем на центральном заднем сиденье"
+       },
+       "words": 604,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_spectra_interior_t002_afd8500e",
+       "title": {
+        "ru": "Бедренный ремень безопасности заднего центрального сиденья.\\*",
+        "en": "Бедренный ремень безопасности заднего центрального сиденья.\\*"
+       },
+       "words": 672,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_spectra_interior_t003_bb3ac155",
+       "title": {
+        "ru": "Правильная посадка переднего пассажира.",
+        "en": "Правильная посадка переднего пассажира."
+       },
+       "words": 718,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_spectra_interior_t004_de57b39c",
+       "title": {
+        "ru": "Советы по использованию кондиционера:",
+        "en": "Советы по использованию кондиционера:"
+       },
+       "words": 775,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_spectra_interior_t005_7f3f2975",
+       "title": {
+        "ru": "Перед началом движения. .5-5",
+        "en": "Перед началом движения. .5-5"
+       },
+       "words": 98,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "kia_spectra_ev_t000_932e287f",
+       "title": {
+        "ru": "Запуск от вспомогательного источника",
+        "en": "Запуск от вспомогательного источника"
+       },
+       "words": 373,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_spectra_ev_t001_676efe0f",
+       "title": {
+        "ru": "Предметный указатель",
+        "en": "Предметный указатель"
+       },
+       "words": 407,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "kia_spectra_general_t000_dc939069",
+       "title": {
+        "ru": "Как пользоваться руководством",
+        "en": "Как пользоваться руководством"
+       },
+       "words": 678,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t001_25a771d9",
+       "title": {
+        "ru": "Управление замками передних дверей без помощи ключа",
+        "en": "Управление замками передних дверей без помощи ключа"
+       },
+       "words": 528,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t002_86b8ce97",
+       "title": {
+        "ru": "Ремни безопасности с предварительным натягом\\*",
+        "en": "Ремни безопасности с предварительным натягом\\*"
+       },
+       "words": 526,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t003_3f11012f",
+       "title": {
+        "ru": "Крепление СБР бедренно-плечевым ремнем на задних боковых сиденьях",
+        "en": "Крепление СБР бедренно-плечевым ремнем на задних боковых сиденьях"
+       },
+       "words": 1114,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t004_a653379f",
+       "title": {
+        "ru": "Уход за системой подушек безопасности - SRS",
+        "en": "Уход за системой подушек безопасности - SRS"
+       },
+       "words": 589,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t005_6a851aa7",
+       "title": {
+        "ru": "Электрическая регулировка положения зеркал\\*",
+        "en": "Электрическая регулировка положения зеркал\\*"
+       },
+       "words": 410,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t006_e1a7cfd1",
+       "title": {
+        "ru": "Модели с механической коробкой передач",
+        "en": "Модели с механической коробкой передач"
+       },
+       "words": 221,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t007_e202b6e2",
+       "title": {
+        "ru": "Контрольные лампы/ звуковая сигнализация",
+        "en": "Контрольные лампы/ звуковая сигнализация"
+       },
+       "words": 533,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t008_939fd79f",
+       "title": {
+        "ru": "Противосолнечный козырёк Косметическое зеркальце\\*",
+        "en": "Противосолнечный козырёк Косметическое зеркальце\\*"
+       },
+       "words": 239,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t009_95820700",
+       "title": {
+        "ru": "•Устранение обледенения и запотевания ветрового стекла",
+        "en": "•Устранение обледенения и запотевания ветрового стекла"
+       },
+       "words": 410,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t010_f2d7260c",
+       "title": {
+        "ru": "Отработавшие газы двигателя. (Окись углерода)",
+        "en": "Отработавшие газы двигателя. (Окись углерода)"
+       },
+       "words": 994,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t011_ecc9e471",
+       "title": {
+        "ru": "Вождение в затопленных областях",
+        "en": "Вождение в затопленных областях"
+       },
+       "words": 596,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t012_be7dee56",
+       "title": {
+        "ru": "Подключение подсоединительных проводов",
+        "en": "Подключение подсоединительных проводов"
+       },
+       "words": 598,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t013_dfc9ae2a",
+       "title": {
+        "ru": "Буксирные проушины для крепления автомобиля при буксировке на платформе.",
+        "en": "Буксирные проушины для крепления автомобиля при буксировке на платформе."
+       },
+       "words": 587,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t014_9b2849c3",
+       "title": {
+        "ru": "Меры предосторожности владельца при уходе",
+        "en": "Меры предосторожности владельца при уходе"
+       },
+       "words": 612,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t015_3b4cce88",
+       "title": {
+        "ru": "Таблица процентного содержания охлаждающей смеси в растворе.",
+        "en": "Таблица процентного содержания охлаждающей смеси в растворе."
+       },
+       "words": 658,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t016_8b616a1a",
+       "title": {
+        "ru": "Проверка уровня жидкости в омывателе",
+        "en": "Проверка уровня жидкости в омывателе"
+       },
+       "words": 504,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t017_76b92b88",
+       "title": {
+        "ru": "Установка схода колес и балансировка колес",
+        "en": "Установка схода колес и балансировка колес"
+       },
+       "words": 689,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t018_35faf837",
+       "title": {
+        "ru": "Уход за блестящими металлическими поверхностями",
+        "en": "Уход за блестящими металлическими поверхностями"
+       },
+       "words": 377,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_spectra_general_t019_f4bf3ab7",
+       "title": {
+        "ru": "Структура идентификационного номера (VIN)",
+        "en": "Структура идентификационного номера (VIN)"
+       },
+       "words": 285,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_spectra_drivetrain_t000_6d300762",
+       "title": {
+        "ru": "Автоматическая коробка передач (АКП)",
+        "en": "Автоматическая коробка передач (АКП)"
+       },
+       "words": 532,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "kia_spectra_drivetrain_t001_ca0c4bab",
+       "title": {
+        "ru": "Технические характеристики",
+        "en": "Технические характеристики"
+       },
+       "words": 26,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_spectra_sensors_t000_abb0a5cd",
+       "title": {
+        "ru": "\\* ПРИМЕЧАНИЕ",
+        "en": "\\* ПРИМЕЧАНИЕ"
+       },
+       "words": 204,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_spectra_infotainment_t000_ac93b35c",
+       "title": {
+        "ru": "•Дисплей:",
+        "en": "•Дисплей:"
+       },
+       "words": 38,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

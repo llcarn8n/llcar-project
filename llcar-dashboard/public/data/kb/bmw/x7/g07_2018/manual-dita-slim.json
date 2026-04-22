@@ -1,0 +1,715 @@
+{
+ "version": "1.0",
+ "model": "x7_g07",
+ "manuals": [
+  {
+   "model": "x7_g07",
+   "label": {
+    "ru": "Bmw X7 G07 — Руководство по ремонту",
+    "en": "Bmw X7 G07 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_engine_t000_05d84a36",
+       "title": {
+        "ru": "When the maximum permissible engine speed is",
+        "en": "When the maximum permissible engine speed is"
+       },
+       "words": 3112,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "bmw_x7_g07_engine_t001_2042ee62",
+       "title": {
+        "ru": "Keep an appropriate distance from the vehicle",
+        "en": "Keep an appropriate distance from the vehicle"
+       },
+       "words": 3237,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "bmw_x7_g07_engine_t002_02b2ff7c",
+       "title": {
+        "ru": "3. Turn cap on coolant tank slightly anticlock‐",
+        "en": "3. Turn cap on coolant tank slightly anticlock‐"
+       },
+       "words": 1980,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_brakes_t000_8b41a041",
+       "title": {
+        "ru": "In the event of an advance warning, brake or take",
+        "en": "In the event of an advance warning, brake or take"
+       },
+       "words": 3233,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "bmw_x7_g07_brakes_t001_e4a5d613",
+       "title": {
+        "ru": "Engine braking effect can be additionally in‐",
+        "en": "Engine braking effect can be additionally in‐"
+       },
+       "words": 1960,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_suspension_t000_e7161c52",
+       "title": {
+        "ru": "The indicator lamp illuminates for approximately",
+        "en": "The indicator lamp illuminates for approximately"
+       },
+       "words": 2915,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_hvac_t000_5f9f88f4",
+       "title": {
+        "ru": "Switching on/off directly",
+        "en": "Switching on/off directly"
+       },
+       "words": 2673,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_body_t000_d6962516",
+       "title": {
+        "ru": "The vehicle automatically recognises the vehicle",
+        "en": "The vehicle automatically recognises the vehicle"
+       },
+       "words": 3061,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_x7_g07_body_t001_2def2f8a",
+       "title": {
+        "ru": "The lower tailgate closes automatically with",
+        "en": "The lower tailgate closes automatically with"
+       },
+       "words": 3096,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_x7_g07_body_t002_dd3e0115",
+       "title": {
+        "ru": "Clean the protective glass of the Head-Up Dis‐",
+        "en": "Clean the protective glass of the Head-Up Dis‐"
+       },
+       "words": 3221,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_steering_t000_af39d188",
+       "title": {
+        "ru": "Depending on the equipment version, the",
+        "en": "Depending on the equipment version, the"
+       },
+       "words": 2099,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "bmw_x7_g07_steering_t001_fa81bb7f",
+       "title": {
+        "ru": "For example it is possible that the following may",
+        "en": "For example it is possible that the following may"
+       },
+       "words": 3431,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "bmw_x7_g07_steering_t002_85f973ff",
+       "title": {
+        "ru": "The status of the parking space search and",
+        "en": "The status of the parking space search and"
+       },
+       "words": 2893,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "bmw_x7_g07_steering_t003_41176c14",
+       "title": {
+        "ru": "BMW Services, see Owner's Handbook for Navi‐",
+        "en": "BMW Services, see Owner's Handbook for Navi‐"
+       },
+       "words": 3045,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_lighting_t000_de7bd76b",
+       "title": {
+        "ru": "▷To indicate a turn briefly: press the lever as",
+        "en": "▷To indicate a turn briefly: press the lever as"
+       },
+       "words": 2093,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_x7_g07_lighting_t001_d8cd5b0f",
+       "title": {
+        "ru": "▷The Remote Services of the BMW Connec‐",
+        "en": "▷The Remote Services of the BMW Connec‐"
+       },
+       "words": 3209,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_x7_g07_lighting_t002_3c5e832e",
+       "title": {
+        "ru": "If a digital key has expired, it can still be used to",
+        "en": "If a digital key has expired, it can still be used to"
+       },
+       "words": 3140,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_x7_g07_lighting_t003_8b2634f9",
+       "title": {
+        "ru": "If a navigation system is installed, the system",
+        "en": "If a navigation system is installed, the system"
+       },
+       "words": 3077,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_x7_g07_lighting_t004_d62ac445",
+       "title": {
+        "ru": "If the headlights are converted, high-beam assis‐",
+        "en": "If the headlights are converted, high-beam assis‐"
+       },
+       "words": 2676,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_x7_g07_lighting_t005_ce70af55",
+       "title": {
+        "ru": "For example two-wheeled vehicles may not be",
+        "en": "For example two-wheeled vehicles may not be"
+       },
+       "words": 3374,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_x7_g07_lighting_t006_c06e9398",
+       "title": {
+        "ru": "Functional limitations",
+        "en": "Functional limitations"
+       },
+       "words": 3083,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_x7_g07_lighting_t007_b49e9b0b",
+       "title": {
+        "ru": "The tank in the vehicle is filled when the level",
+        "en": "The tank in the vehicle is filled when the level"
+       },
+       "words": 3432,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_x7_g07_lighting_t008_cc72299f",
+       "title": {
+        "ru": "Batteries filled with acid should be transported",
+        "en": "Batteries filled with acid should be transported"
+       },
+       "words": 2540,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_interior_t000_75ebeb21",
+       "title": {
+        "ru": "With the driver's seat belt fastened, briefly press",
+        "en": "With the driver's seat belt fastened, briefly press"
+       },
+       "words": 2930,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_x7_g07_interior_t001_d21a0d20",
+       "title": {
+        "ru": "If the belt tension does not loosen automatically,",
+        "en": "If the belt tension does not loosen automatically,"
+       },
+       "words": 3160,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_x7_g07_interior_t002_0b734c51",
+       "title": {
+        "ru": "In a side-on crash, the side airbag in the rear pro‐",
+        "en": "In a side-on crash, the side airbag in the rear pro‐"
+       },
+       "words": 2864,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_x7_g07_interior_t003_4f2ef661",
+       "title": {
+        "ru": "Calling up the air conditioning",
+        "en": "Calling up the air conditioning"
+       },
+       "words": 3167,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_x7_g07_interior_t004_90a90869",
+       "title": {
+        "ru": "Seats for child restraint systems",
+        "en": "Seats for child restraint systems"
+       },
+       "words": 2794,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_x7_g07_interior_t005_f8a63078",
+       "title": {
+        "ru": "Manual mode, Steptronic transmission 174",
+        "en": "Manual mode, Steptronic transmission 174"
+       },
+       "words": 945,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_maintenance_t000_407ee405",
+       "title": {
+        "ru": "AdBlue reduction agents is a registered trade‐",
+        "en": "AdBlue reduction agents is a registered trade‐"
+       },
+       "words": 3563,
+       "images": 0,
+       "section_id": "maintenance"
+      },
+      {
+       "id": "bmw_x7_g07_maintenance_t001_9d84df37",
+       "title": {
+        "ru": "As with a service booklet, the entries provide evi‐",
+        "en": "As with a service booklet, the entries provide evi‐"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_ev_t000_0a3403ed",
+       "title": {
+        "ru": "▷Hand-held transmitter arrow 3; required for",
+        "en": "▷Hand-held transmitter arrow 3; required for"
+       },
+       "words": 3575,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_general_t000_a4f55cf3",
+       "title": {
+        "ru": "In addition to the intelligent emergency call sys‐",
+        "en": "In addition to the intelligent emergency call sys‐"
+       },
+       "words": 3218,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_x7_g07_general_t001_2c16d36d",
+       "title": {
+        "ru": "▷›General information on voice control‹: to have",
+        "en": "▷›General information on voice control‹: to have"
+       },
+       "words": 2621,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_x7_g07_general_t002_5d9dbac0",
+       "title": {
+        "ru": "If there are objects in front of and behind the ve‐",
+        "en": "If there are objects in front of and behind the ve‐"
+       },
+       "words": 2976,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_x7_g07_general_t003_ffe9b5ca",
+       "title": {
+        "ru": "▷Departure time with day of the week: the time",
+        "en": "▷Departure time with day of the week: the time"
+       },
+       "words": 2062,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_x7_g07_general_t004_1a0c80b8",
+       "title": {
+        "ru": "If the vehicle is raised with the jack, do not lie",
+        "en": "If the vehicle is raised with the jack, do not lie"
+       },
+       "words": 3221,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_x7_g07_general_t005_7a66c444",
+       "title": {
+        "ru": "Observe the additional information on fuel qual‐",
+        "en": "Observe the additional information on fuel qual‐"
+       },
+       "words": 554,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_infotainment_t000_22ca9691",
+       "title": {
+        "ru": "If activation is successful, a confirmation ap‐",
+        "en": "If activation is successful, a confirmation ap‐"
+       },
+       "words": 2798,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_x7_g07_infotainment_t001_3bbc0b1d",
+       "title": {
+        "ru": "Press the button on the left of the display key.",
+        "en": "Press the button on the left of the display key."
+       },
+       "words": 3300,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_x7_g07_infotainment_t002_18325f9d",
+       "title": {
+        "ru": "The colour grading of the obstacle markings is",
+        "en": "The colour grading of the obstacle markings is"
+       },
+       "words": 3076,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_x7_g07_infotainment_t003_7a23d7f3",
+       "title": {
+        "ru": "Switch for driving dynamics, see Driving Experi‐",
+        "en": "Switch for driving dynamics, see Driving Experi‐"
+       },
+       "words": 2766,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_safety_t000_a9f6d136",
+       "title": {
+        "ru": "If the vehicle ahead brakes to a standstill and",
+        "en": "If the vehicle ahead brakes to a standstill and"
+       },
+       "words": 3349,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "bmw_x7_g07_safety_t001_891e95c2",
+       "title": {
+        "ru": "You can interrupt your journey at any time. The",
+        "en": "You can interrupt your journey at any time. The"
+       },
+       "words": 2289,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_drivetrain_t000_69b0fdc3",
+       "title": {
+        "ru": "The guest profile is automatically active in the",
+        "en": "The guest profile is automatically active in the"
+       },
+       "words": 3651,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_x7_g07_drivetrain_t001_afe4cc2f",
+       "title": {
+        "ru": "A driver profile with individual settings can be as‐",
+        "en": "A driver profile with individual settings can be as‐"
+       },
+       "words": 3409,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_x7_g07_drivetrain_t002_529c3b9b",
+       "title": {
+        "ru": "If driver assistance systems are active, their cam‐",
+        "en": "If driver assistance systems are active, their cam‐"
+       },
+       "words": 3386,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_x7_g07_drivetrain_t003_51982a79",
+       "title": {
+        "ru": "Stow the load as low as possible and as close as",
+        "en": "Stow the load as low as possible and as close as"
+       },
+       "words": 3555,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_x7_g07_drivetrain_t004_9cae0a98",
+       "title": {
+        "ru": "ECO PRO, driving style analysis 390",
+        "en": "ECO PRO, driving style analysis 390"
+       },
+       "words": 1721,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_sensors_t000_de3a6dca",
+       "title": {
+        "ru": "Intelligent Safety Systems before tow-starting/",
+        "en": "Intelligent Safety Systems before tow-starting/"
+       },
+       "words": 2969,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "bmw_x7_g07_sensors_t001_f3437c9a",
+       "title": {
+        "ru": "Limits of the ultrasound",
+        "en": "Limits of the ultrasound"
+       },
+       "words": 3164,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "bmw_x7_g07_sensors_t002_a7bca341",
+       "title": {
+        "ru": "Functional limitations",
+        "en": "Functional limitations"
+       },
+       "words": 339,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "tires",
+     "title": {
+      "ru": "tires",
+      "en": "tires"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_x7_g07_tires_t000_e4787adf",
+       "title": {
+        "ru": "The current tyre inflation pressures can vary de‐",
+        "en": "The current tyre inflation pressures can vary de‐"
+       },
+       "words": 3498,
+       "images": 0,
+       "section_id": "tires"
+      },
+      {
+       "id": "bmw_x7_g07_tires_t001_f20744d5",
+       "title": {
+        "ru": "Two-axle ride level control 315",
+        "en": "Two-axle ride level control 315"
+       },
+       "words": 781,
+       "images": 0,
+       "section_id": "tires"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

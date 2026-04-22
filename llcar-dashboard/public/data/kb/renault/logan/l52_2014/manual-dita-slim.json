@@ -1,0 +1,1135 @@
+{
+ "version": "1.0",
+ "model": "logan",
+ "manuals": [
+  {
+   "model": "logan",
+   "label": {
+    "ru": "Renault Logan — Руководство по ремонту",
+    "en": "Renault Logan — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "renault_logan_engine_t000_3a5a75a6",
+       "title": {
+        "ru": "НЕИСПРАВНОСТИ СИСТЕМЫ ВПРЫСКА ТОПЛИВА",
+        "en": "НЕИСПРАВНОСТИ СИСТЕМЫ ВПРЫСКА ТОПЛИВА"
+       },
+       "words": 1724,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t001_bce49e47",
+       "title": {
+        "ru": "Диагностика состояния двигателя по внешнему виду свечей зажигания",
+        "en": "Диагностика состояния двигателя по внешнему виду свечей зажигания"
+       },
+       "words": 981,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t002_6a65ff4f",
+       "title": {
+        "ru": "Проверка уровня и доливка масла в систему смазки",
+        "en": "Проверка уровня и доливка масла в систему смазки"
+       },
+       "words": 910,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t003_4a2a5fb8",
+       "title": {
+        "ru": "Замена и обслуживание свечей зажигания",
+        "en": "Замена и обслуживание свечей зажигания"
+       },
+       "words": 806,
+       "images": 18,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t004_248d3b52",
+       "title": {
+        "ru": "ПРОВЕРКА КОМПРЕССИИ В ЦИЛИНДРАХ",
+        "en": "ПРОВЕРКА КОМПРЕССИИ В ЦИЛИНДРАХ"
+       },
+       "words": 808,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t005_cf17ba4c",
+       "title": {
+        "ru": "УСТАНОВКА ПОРШНЯ ПЕРВОГО ЦИЛИНДРА В ПОЛОЖЕНИЕ ВМТ ТАКТАСЖАТИЯ",
+        "en": "УСТАНОВКА ПОРШНЯ ПЕРВОГО ЦИЛИНДРА В ПОЛОЖЕНИЕ ВМТ ТАКТАСЖАТИЯ"
+       },
+       "words": 941,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t006_72a44f0b",
+       "title": {
+        "ru": "Замена уплотнения направляющей указателя уровня масла",
+        "en": "Замена уплотнения направляющей указателя уровня масла"
+       },
+       "words": 1714,
+       "images": 32,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t007_9a4ee473",
+       "title": {
+        "ru": "Разборка, ремонт и сборка головки блока цилиндров",
+        "en": "Разборка, ремонт и сборка головки блока цилиндров"
+       },
+       "words": 1650,
+       "images": 32,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t008_d560bb5a",
+       "title": {
+        "ru": "Проверка, снятие и установка топливных форсунок",
+        "en": "Проверка, снятие и установка топливных форсунок"
+       },
+       "words": 953,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t009_7d0a6409",
+       "title": {
+        "ru": "Замена рабочего цилиндра тормозного механизма заднего колеса",
+        "en": "Замена рабочего цилиндра тормозного механизма заднего колеса"
+       },
+       "words": 693,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t010_53497187",
+       "title": {
+        "ru": "Проверка и замена датчиков системы управления двигателем",
+        "en": "Проверка и замена датчиков системы управления двигателем"
+       },
+       "words": 1913,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t011_0f53af8b",
+       "title": {
+        "ru": "Раздел3 Неисправности в пути .......24",
+        "en": "Раздел3 Неисправности в пути .......24"
+       },
+       "words": 1362,
+       "images": 25,
+       "section_id": "engine"
+      },
+      {
+       "id": "renault_logan_engine_t012_fbfb8b0f",
+       "title": {
+        "ru": "Раздел13 Покупка запасных частей ...225",
+        "en": "Раздел13 Покупка запасных частей ...225"
+       },
+       "words": 1296,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "renault_logan_brakes_t000_924a6de4",
+       "title": {
+        "ru": "Прокачка тормозной системы",
+        "en": "Прокачка тормозной системы"
+       },
+       "words": 857,
+       "images": 9,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_logan_brakes_t001_3e38d4f0",
+       "title": {
+        "ru": "Проверка уровня и доливка тормозной жидкости в бачок главного тормозного цилиндр",
+        "en": "Проверка уровня и доливка тормозной жидкости в бачок главного тормозного цилиндр"
+       },
+       "words": 843,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_logan_brakes_t002_08aeeec3",
+       "title": {
+        "ru": "Проверка эффективности работы тормозной системы",
+        "en": "Проверка эффективности работы тормозной системы"
+       },
+       "words": 722,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_logan_brakes_t003_22aaa4ac",
+       "title": {
+        "ru": "Замена уплотнения впускной трубы",
+        "en": "Замена уплотнения впускной трубы"
+       },
+       "words": 927,
+       "images": 24,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_logan_brakes_t004_82d22fd7",
+       "title": {
+        "ru": "Снятие и установка амортизаторной стойки",
+        "en": "Снятие и установка амортизаторной стойки"
+       },
+       "words": 1192,
+       "images": 20,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_logan_brakes_t005_a0fcac64",
+       "title": {
+        "ru": "Замена бачка главного тормозного цилиндра",
+        "en": "Замена бачка главного тормозного цилиндра"
+       },
+       "words": 2048,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_logan_brakes_t006_8bc9764d",
+       "title": {
+        "ru": "Замена регулятора тормозных сил в гидроприводе задних тормозов",
+        "en": "Замена регулятора тормозных сил в гидроприводе задних тормозов"
+       },
+       "words": 483,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_logan_brakes_t007_a8075dd0",
+       "title": {
+        "ru": "Замена тормозных колодок тормозного механизма переднего колеса",
+        "en": "Замена тормозных колодок тормозного механизма переднего колеса"
+       },
+       "words": 906,
+       "images": 9,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_logan_brakes_t008_c82716c6",
+       "title": {
+        "ru": "Замена тормозных колодок тормозного механизма заднего колеса",
+        "en": "Замена тормозных колодок тормозного механизма заднего колеса"
+       },
+       "words": 680,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_logan_brakes_t009_31e1f6ee",
+       "title": {
+        "ru": "Замена тросов привода стояночного тормоза",
+        "en": "Замена тросов привода стояночного тормоза"
+       },
+       "words": 1063,
+       "images": 18,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_logan_brakes_t010_a4038397",
+       "title": {
+        "ru": "ПЕРЕЧЕНЬНЕИСПРАВНОСТЕЙИ УСЛОВИЙ, ПРИКОТОРЫХЗАПРЕЩАЕТСЯЭКСПЛУАТАЦИЯТРАНСПОРТНЫХСР",
+        "en": "ПЕРЕЧЕНЬНЕИСПРАВНОСТЕЙИ УСЛОВИЙ, ПРИКОТОРЫХЗАПРЕЩАЕТСЯЭКСПЛУАТАЦИЯТРАНСПОРТНЫХСР"
+       },
+       "words": 1596,
+       "images": 22,
+       "section_id": "brakes"
+      },
+      {
+       "id": "renault_logan_brakes_t011_e4ce74f6",
+       "title": {
+        "ru": "ПОЛЕЗНЫЙ СОВЕТ",
+        "en": "ПОЛЕЗНЫЙ СОВЕТ"
+       },
+       "words": 213,
+       "images": 1,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "renault_logan_suspension_t000_e1d08806",
+       "title": {
+        "ru": "Замена троса привода дроссельной заслонки",
+        "en": "Замена троса привода дроссельной заслонки"
+       },
+       "words": 648,
+       "images": 13,
+       "section_id": "suspension"
+      },
+      {
+       "id": "renault_logan_suspension_t001_90cb4baa",
+       "title": {
+        "ru": "Снятие, установка и ремонт кулисы рычага управления коробкой передач",
+        "en": "Снятие, установка и ремонт кулисы рычага управления коробкой передач"
+       },
+       "words": 885,
+       "images": 13,
+       "section_id": "suspension"
+      },
+      {
+       "id": "renault_logan_suspension_t002_fdd9ebff",
+       "title": {
+        "ru": "Замена деталей стабилизатора поперечной устойчивости",
+        "en": "Замена деталей стабилизатора поперечной устойчивости"
+       },
+       "words": 800,
+       "images": 9,
+       "section_id": "suspension"
+      },
+      {
+       "id": "renault_logan_suspension_t003_74450152",
+       "title": {
+        "ru": "Замена щеток очистителя ветрового стекла",
+        "en": "Замена щеток очистителя ветрового стекла"
+       },
+       "words": 266,
+       "images": 10,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "renault_logan_electrical_t000_44e6746a",
+       "title": {
+        "ru": "Неисправности в системе пуска",
+        "en": "Неисправности в системе пуска"
+       },
+       "words": 970,
+       "images": 5,
+       "section_id": "electrical"
+      },
+      {
+       "id": "renault_logan_electrical_t001_cf821e27",
+       "title": {
+        "ru": "Проверка давления в системе питания двигателя",
+        "en": "Проверка давления в системе питания двигателя"
+       },
+       "words": 3362,
+       "images": 15,
+       "section_id": "electrical"
+      },
+      {
+       "id": "renault_logan_electrical_t002_080b563f",
+       "title": {
+        "ru": "ДИАГНОСТИКА НЕИСПРАВНОСТЕЙ БОРТОВОГО ЭЛЕКТРО- ОБОРУДОВАНИЯ",
+        "en": "ДИАГНОСТИКА НЕИСПРАВНОСТЕЙ БОРТОВОГО ЭЛЕКТРО- ОБОРУДОВАНИЯ"
+       },
+       "words": 1646,
+       "images": 17,
+       "section_id": "electrical"
+      },
+      {
+       "id": "renault_logan_electrical_t003_6466ff21",
+       "title": {
+        "ru": "Расположение предохранителей, плавких вставок и реле и их замена",
+        "en": "Расположение предохранителей, плавких вставок и реле и их замена"
+       },
+       "words": 1638,
+       "images": 37,
+       "section_id": "electrical"
+      },
+      {
+       "id": "renault_logan_electrical_t004_2c7f5fd6",
+       "title": {
+        "ru": "Основной комплект инструментов",
+        "en": "Основной комплект инструментов"
+       },
+       "words": 1556,
+       "images": 9,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "renault_logan_hvac_t000_ff590717",
+       "title": {
+        "ru": "Замена сальника распределительного вала",
+        "en": "Замена сальника распределительного вала"
+       },
+       "words": 1622,
+       "images": 9,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "renault_logan_body_t000_6db97355",
+       "title": {
+        "ru": "Рывки при установившемся движении",
+        "en": "Рывки при установившемся движении"
+       },
+       "words": 1132,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_logan_body_t001_961b3999",
+       "title": {
+        "ru": "Проверка шлангов и соединений системы охлаждения",
+        "en": "Проверка шлангов и соединений системы охлаждения"
+       },
+       "words": 1037,
+       "images": 30,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_logan_body_t002_1a4e21f3",
+       "title": {
+        "ru": "Замена подушек подвески системы выпуска отработавших газов",
+        "en": "Замена подушек подвески системы выпуска отработавших газов"
+       },
+       "words": 878,
+       "images": 32,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_logan_body_t003_38f333bd",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА БРЫЗГОВИКОВ КОЛЕС И ПОДКРЫЛКОВ",
+        "en": "СНЯТИЕ И УСТАНОВКА БРЫЗГОВИКОВ КОЛЕС И ПОДКРЫЛКОВ"
+       },
+       "words": 929,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_logan_body_t004_d7f1ebb8",
+       "title": {
+        "ru": "Снятие, установка и регулировка замка и привода замка капота",
+        "en": "Снятие, установка и регулировка замка и привода замка капота"
+       },
+       "words": 858,
+       "images": 29,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_logan_body_t005_ca94c20d",
+       "title": {
+        "ru": "Замена выключателя замка передней двери",
+        "en": "Замена выключателя замка передней двери"
+       },
+       "words": 716,
+       "images": 13,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_logan_body_t006_a8db3bc9",
+       "title": {
+        "ru": "Замена выключателя замка крышки багажника",
+        "en": "Замена выключателя замка крышки багажника"
+       },
+       "words": 755,
+       "images": 17,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_logan_body_t007_dd29c336",
+       "title": {
+        "ru": "Антикоррозионная защита кузова",
+        "en": "Антикоррозионная защита кузова"
+       },
+       "words": 1779,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "renault_logan_body_t008_03d36077",
+       "title": {
+        "ru": "Подготовка и антикоррозионная обработка скрытых полостей кузова",
+        "en": "Подготовка и антикоррозионная обработка скрытых полостей кузова"
+       },
+       "words": 1568,
+       "images": 1,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "renault_logan_steering_t000_6f0e86bb",
+       "title": {
+        "ru": "Проверка уровня и доливка рабочей жидкости в бачок гидроусилителя рулевого управ",
+        "en": "Проверка уровня и доливка рабочей жидкости в бачок гидроусилителя рулевого управ"
+       },
+       "words": 1268,
+       "images": 19,
+       "section_id": "steering"
+      },
+      {
+       "id": "renault_logan_steering_t001_8d16aae2",
+       "title": {
+        "ru": "Замена наружного наконечника рулевой тяги",
+        "en": "Замена наружного наконечника рулевой тяги"
+       },
+       "words": 690,
+       "images": 9,
+       "section_id": "steering"
+      },
+      {
+       "id": "renault_logan_steering_t002_2286a225",
+       "title": {
+        "ru": "Прокачка системы гидроусилителя рулевого управления",
+        "en": "Прокачка системы гидроусилителя рулевого управления"
+       },
+       "words": 1212,
+       "images": 29,
+       "section_id": "steering"
+      },
+      {
+       "id": "renault_logan_steering_t003_59555662",
+       "title": {
+        "ru": "БАЛАНСИРОВКА КОЛЕС",
+        "en": "БАЛАНСИРОВКА КОЛЕС"
+       },
+       "words": 104,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "renault_logan_lighting_t000_efe48daa",
+       "title": {
+        "ru": "Проверка внешних осветительных приборов",
+        "en": "Проверка внешних осветительных приборов"
+       },
+       "words": 958,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "renault_logan_lighting_t001_adeaceb0",
+       "title": {
+        "ru": "Замена бокового фонаря указателя поворота",
+        "en": "Замена бокового фонаря указателя поворота"
+       },
+       "words": 1159,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "renault_logan_lighting_t002_8bba2a93",
+       "title": {
+        "ru": "ПРИМЕЧАНИЕ",
+        "en": "ПРИМЕЧАНИЕ"
+       },
+       "words": 56,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "renault_logan_interior_t000_4c1e77c1",
+       "title": {
+        "ru": "ОТОПЛЕНИЕ (КОНДИЦИОНИРОВАНИЕ) И ВЕНТИЛЯЦИЯ САЛОНА",
+        "en": "ОТОПЛЕНИЕ (КОНДИЦИОНИРОВАНИЕ) И ВЕНТИЛЯЦИЯ САЛОНА"
+       },
+       "words": 1012,
+       "images": 15,
+       "section_id": "interior"
+      },
+      {
+       "id": "renault_logan_interior_t001_c52beec2",
+       "title": {
+        "ru": "Снятие и установка переднего сиденья",
+        "en": "Снятие и установка переднего сиденья"
+       },
+       "words": 904,
+       "images": 18,
+       "section_id": "interior"
+      },
+      {
+       "id": "renault_logan_interior_t002_f9f8747f",
+       "title": {
+        "ru": "Уход за панелями отделки салона, изготовленными из полимерных материалов",
+        "en": "Уход за панелями отделки салона, изготовленными из полимерных материалов"
+       },
+       "words": 1008,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "renault_logan_ev_t000_c7df14f8",
+       "title": {
+        "ru": "Замена левой опоры подвески силового агрегата",
+        "en": "Замена левой опоры подвески силового агрегата"
+       },
+       "words": 1180,
+       "images": 13,
+       "section_id": "ev"
+      },
+      {
+       "id": "renault_logan_ev_t001_be6123c6",
+       "title": {
+        "ru": "Замена цепи и шестерни привода масляного насоса",
+        "en": "Замена цепи и шестерни привода масляного насоса"
+       },
+       "words": 1623,
+       "images": 26,
+       "section_id": "ev"
+      },
+      {
+       "id": "renault_logan_ev_t002_39f40fba",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ЭЛЕКТРОДВИГАТЕЛЯ ВЕНТИЛЯТОРА РАДИАТОРА СИСТЕМЫ ОХЛАЖДЕНИЯ ДВИ",
+        "en": "СНЯТИЕ И УСТАНОВКА ЭЛЕКТРОДВИГАТЕЛЯ ВЕНТИЛЯТОРА РАДИАТОРА СИСТЕМЫ ОХЛАЖДЕНИЯ ДВИ"
+       },
+       "words": 644,
+       "images": 25,
+       "section_id": "ev"
+      },
+      {
+       "id": "renault_logan_ev_t003_a05848e4",
+       "title": {
+        "ru": "Снятие и установка электронного блока управления системой пассивной безопасности",
+        "en": "Снятие и установка электронного блока управления системой пассивной безопасности"
+       },
+       "words": 1303,
+       "images": 24,
+       "section_id": "ev"
+      },
+      {
+       "id": "renault_logan_ev_t004_e062ece5",
+       "title": {
+        "ru": "Таблица 15.2 Плотность электролита при температуре 25 С, г/см",
+        "en": "Таблица 15.2 Плотность электролита при температуре 25 С, г/см"
+       },
+       "words": 165,
+       "images": 1,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "renault_logan_chassis_t000_78727731",
+       "title": {
+        "ru": "Инструменты и аксессуары (рис. 2.1)",
+        "en": "Инструменты и аксессуары (рис. 2.1)"
+       },
+       "words": 696,
+       "images": 6,
+       "section_id": "chassis"
+      },
+      {
+       "id": "renault_logan_chassis_t001_01b6a367",
+       "title": {
+        "ru": "Проверка технического состояния деталей передней подвески на автомобиле",
+        "en": "Проверка технического состояния деталей передней подвески на автомобиле"
+       },
+       "words": 1149,
+       "images": 10,
+       "section_id": "chassis"
+      },
+      {
+       "id": "renault_logan_chassis_t002_f72935c7",
+       "title": {
+        "ru": "ПОЛЕЗНЫЙ СОВЕТ",
+        "en": "ПОЛЕЗНЫЙ СОВЕТ"
+       },
+       "words": 1155,
+       "images": 13,
+       "section_id": "chassis"
+      },
+      {
+       "id": "renault_logan_chassis_t003_cce8874a",
+       "title": {
+        "ru": "Замена шаровой опоры",
+        "en": "Замена шаровой опоры"
+       },
+       "words": 780,
+       "images": 14,
+       "section_id": "chassis"
+      },
+      {
+       "id": "renault_logan_chassis_t004_04a623aa",
+       "title": {
+        "ru": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+        "en": "ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ"
+       },
+       "words": 531,
+       "images": 10,
+       "section_id": "chassis"
+      },
+      {
+       "id": "renault_logan_chassis_t005_647ea929",
+       "title": {
+        "ru": "Раздел12 Колеса и шины ооллнл ..223",
+        "en": "Раздел12 Колеса и шины ооллнл ..223"
+       },
+       "words": 413,
+       "images": 2,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "renault_logan_general_t000_7db1b0d1",
+       "title": {
+        "ru": "Таблица 1.2 Код модельного года выпуска автомобиля",
+        "en": "Таблица 1.2 Код модельного года выпуска автомобиля"
+       },
+       "words": 1217,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t001_0dc3d0b5",
+       "title": {
+        "ru": "Регулировка положения передних сидений",
+        "en": "Регулировка положения передних сидений"
+       },
+       "words": 549,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t002_5ad9c2ed",
+       "title": {
+        "ru": "Рекомендации по безопасности движения",
+        "en": "Рекомендации по безопасности движения"
+       },
+       "words": 1730,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t003_c4f15da6",
+       "title": {
+        "ru": "Проверка системы питанйя двигателя",
+        "en": "Проверка системы питанйя двигателя"
+       },
+       "words": 745,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t004_e92705db",
+       "title": {
+        "ru": "НЕИСПРАВНОСТИ В ПУТИ • 31",
+        "en": "НЕИСПРАВНОСТИ В ПУТИ • 31"
+       },
+       "words": 1138,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t005_a2562560",
+       "title": {
+        "ru": "Проверка уровня и доливка охлаждающей жидкости",
+        "en": "Проверка уровня и доливка охлаждающей жидкости"
+       },
+       "words": 771,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t006_9a58e8bd",
+       "title": {
+        "ru": "Проверка уровня и доливка жидкости в бачок омывателя",
+        "en": "Проверка уровня и доливка жидкости в бачок омывателя"
+       },
+       "words": 291,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t007_328dc67c",
+       "title": {
+        "ru": "Проверка технического состояния деталей задней подвески на автомобиле",
+        "en": "Проверка технического состояния деталей задней подвески на автомобиле"
+       },
+       "words": 733,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t008_189346ef",
+       "title": {
+        "ru": "Замена фильтрующего элемента воздушного фильтра",
+        "en": "Замена фильтрующего элемента воздушного фильтра"
+       },
+       "words": 870,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t009_ce8a8912",
+       "title": {
+        "ru": "Замена правой опоры подвески силового агрегата",
+        "en": "Замена правой опоры подвески силового агрегата"
+       },
+       "words": 2120,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t010_86e9cdde",
+       "title": {
+        "ru": "Замена маслосъемных колпачков",
+        "en": "Замена маслосъемных колпачков"
+       },
+       "words": 1200,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t011_fb2bdbfa",
+       "title": {
+        "ru": "Замена прокладки масляного картера",
+        "en": "Замена прокладки масляного картера"
+       },
+       "words": 912,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t012_4ac502ae",
+       "title": {
+        "ru": "ПОЛЕЗНЫЕ СОВЕТЫ",
+        "en": "ПОЛЕЗНЫЕ СОВЕТЫ"
+       },
+       "words": 749,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t013_eb2cf5c9",
+       "title": {
+        "ru": "Ремонт масляного насоса",
+        "en": "Ремонт масляного насоса"
+       },
+       "words": 1277,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t014_caf41ea6",
+       "title": {
+        "ru": "Замена элементов выпуска отработавших газов",
+        "en": "Замена элементов выпуска отработавших газов"
+       },
+       "words": 973,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t015_10792a25",
+       "title": {
+        "ru": "Замена адсорбера системыулавливания паров топлива",
+        "en": "Замена адсорбера системыулавливания паров топлива"
+       },
+       "words": 718,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t016_0adccfb4",
+       "title": {
+        "ru": "Замена подшипника и вилки выключения сцепления",
+        "en": "Замена подшипника и вилки выключения сцепления"
+       },
+       "words": 1083,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t017_0cf72cdb",
+       "title": {
+        "ru": "Замена пружины задней подвески",
+        "en": "Замена пружины задней подвески"
+       },
+       "words": 685,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t018_06ef8d32",
+       "title": {
+        "ru": "Проверка выключателя (замка) зажигания",
+        "en": "Проверка выключателя (замка) зажигания"
+       },
+       "words": 630,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t019_b6dc7dc0",
+       "title": {
+        "ru": "Замена ограничителя открывания передней двери",
+        "en": "Замена ограничителя открывания передней двери"
+       },
+       "words": 632,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t020_96d3d4f5",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА КРЫШКИ ЛЮКА НАЛИВНОЙ ТРУБЫ ТОПЛИВНОГО БАКА",
+        "en": "СНЯТИЕ И УСТАНОВКА КРЫШКИ ЛЮКА НАЛИВНОЙ ТРУБЫ ТОПЛИВНОГО БАКА"
+       },
+       "words": 530,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t021_a8ae106f",
+       "title": {
+        "ru": "ПЛАСТИЧНЫЕ СМА3КИ",
+        "en": "ПЛАСТИЧНЫЕ СМА3КИ"
+       },
+       "words": 707,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t022_23447e21",
+       "title": {
+        "ru": "Таблица 15.3 Характеристики зимних масел",
+        "en": "Таблица 15.3 Характеристики зимних масел"
+       },
+       "words": 2019,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t023_1d3bcb26",
+       "title": {
+        "ru": "Отворачивание ржавых резьбовых соединений",
+        "en": "Отворачивание ржавых резьбовых соединений"
+       },
+       "words": 503,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "renault_logan_general_t024_2c927742",
+       "title": {
+        "ru": "Выворачивание самонарезающих винтов с прямым и кресто- образным шлицами",
+        "en": "Выворачивание самонарезающих винтов с прямым и кресто- образным шлицами"
+       },
+       "words": 618,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "renault_logan_infotainment_t000_d669a384",
+       "title": {
+        "ru": "2 - дисплей бортового компьютера",
+        "en": "2 - дисплей бортового компьютера"
+       },
+       "words": 426,
+       "images": 15,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "renault_logan_drivetrain_t000_bfeb3682",
+       "title": {
+        "ru": "Замена ремня привода газораспределительного механизма и его натяжного ролика",
+        "en": "Замена ремня привода газораспределительного механизма и его натяжного ролика"
+       },
+       "words": 569,
+       "images": 6,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "renault_logan_drivetrain_t001_f644de69",
+       "title": {
+        "ru": "ЗАМЕНА И РЕГУЛИРОВКА НАТЯЖЕНИЯ РЕМНЯ, ЗАМЕНА НАТЯЖНОГО РОЛИКА ПРИВОДА ГАЗО- РАСП",
+        "en": "ЗАМЕНА И РЕГУЛИРОВКА НАТЯЖЕНИЯ РЕМНЯ, ЗАМЕНА НАТЯЖНОГО РОЛИКА ПРИВОДА ГАЗО- РАСП"
+       },
+       "words": 1731,
+       "images": 15,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "renault_logan_drivetrain_t002_4236d4dc",
+       "title": {
+        "ru": "Замена и регулировка троса привода выключения сцепления",
+        "en": "Замена и регулировка троса привода выключения сцепления"
+       },
+       "words": 1777,
+       "images": 11,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "renault_logan_drivetrain_t003_6b1539af",
+       "title": {
+        "ru": "ПОЛЕЗНЫЙ СОВЕТ",
+        "en": "ПОЛЕЗНЫЙ СОВЕТ"
+       },
+       "words": 566,
+       "images": 3,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "renault_logan_drivetrain_t004_00d48cf4",
+       "title": {
+        "ru": "Раздел6 Трансмиссия ..112 Раздел8 Рулевое управление .......142",
+        "en": "Раздел6 Трансмиссия ..112 Раздел8 Рулевое управление .......142"
+       },
+       "words": 1593,
+       "images": 6,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "renault_logan_sensors_t000_0b8d0eab",
+       "title": {
+        "ru": "ПРИМЕЧАНИЕ",
+        "en": "ПРИМЕЧАНИЕ"
+       },
+       "words": 9,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

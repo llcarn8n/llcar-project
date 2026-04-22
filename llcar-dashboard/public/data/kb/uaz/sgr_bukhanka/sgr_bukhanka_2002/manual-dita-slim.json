@@ -1,0 +1,194 @@
+{
+ "version": "1.0",
+ "model": "sgr_bukhanka",
+ "manuals": [
+  {
+   "model": "sgr_bukhanka",
+   "label": {
+    "ru": "Uaz Sgr Bukhanka — Руководство по ремонту",
+    "en": "Uaz Sgr Bukhanka — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": []
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": []
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": []
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": []
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "uaz_sgr_bukhanka_hvac_t000_bc6dbca4",
+       "title": {
+        "ru": "Page 59",
+        "en": "Page 59"
+       },
+       "words": 194,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": []
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": []
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": []
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "uaz_sgr_bukhanka_interior_t000_5fa687c9",
+       "title": {
+        "ru": "Page 54",
+        "en": "Page 54"
+       },
+       "words": 467,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": []
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "uaz_sgr_bukhanka_general_t000_277b30c5",
+       "title": {
+        "ru": "Page 10",
+        "en": "Page 10"
+       },
+       "words": 5916,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "fuel",
+     "title": {
+      "ru": "fuel",
+      "en": "fuel"
+     },
+     "icon": "📦",
+     "topics": []
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": []
+    },
+    {
+     "id": "cooling",
+     "title": {
+      "ru": "cooling",
+      "en": "cooling"
+     },
+     "icon": "📦",
+     "topics": []
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "uaz_sgr_bukhanka_infotainment_t000_6149de94",
+       "title": {
+        "ru": "Page 78",
+        "en": "Page 78"
+       },
+       "words": 158,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

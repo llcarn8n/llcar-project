@@ -1,0 +1,2715 @@
+{
+ "version": "1.0",
+ "model": "i30",
+ "manuals": [
+  {
+   "model": "i30",
+   "label": {
+    "ru": "Hyundai i30 — Руководство по ремонту",
+    "en": "Hyundai i30 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "hyundai_i30_engine_t000_53adbd75",
+       "title": {
+        "ru": "1. Gasohol containing more than 10%",
+        "en": "1. Gasohol containing more than 10%"
+       },
+       "words": 763,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t001_a5a635a1",
+       "title": {
+        "ru": "VEHICLE BREAK-IN PROCESS",
+        "en": "VEHICLE BREAK-IN PROCESS"
+       },
+       "words": 1029,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t002_e913eeab",
+       "title": {
+        "ru": "3. Lock the doors using the transmitter of",
+        "en": "3. Lock the doors using the transmitter of"
+       },
+       "words": 927,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t003_8afd3604",
+       "title": {
+        "ru": "2. Return the support rod to its clip to",
+        "en": "2. Return the support rod to its clip to"
+       },
+       "words": 951,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t004_bd095226",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 685,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t005_78c8eea4",
+       "title": {
+        "ru": "1. Drive safely to the side of the road and",
+        "en": "1. Drive safely to the side of the road and"
+       },
+       "words": 780,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t006_d049506a",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 748,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t007_a05fb3e5",
+       "title": {
+        "ru": "1. Start the engine. Push the air condi-",
+        "en": "1. Start the engine. Push the air condi-"
+       },
+       "words": 653,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t008_1bf6c409",
+       "title": {
+        "ru": "3. Turn the ignition switch to the ON posi-",
+        "en": "3. Turn the ignition switch to the ON posi-"
+       },
+       "words": 998,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t009_88ee1bf6",
+       "title": {
+        "ru": "2. After high speed or extended driving,",
+        "en": "2. After high speed or extended driving,"
+       },
+       "words": 638,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t010_a548ad08",
+       "title": {
+        "ru": "ECONOMICAL OPERATION",
+        "en": "ECONOMICAL OPERATION"
+       },
+       "words": 1010,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t011_6df5f070",
+       "title": {
+        "ru": "3.Have all passengers get out of the car.",
+        "en": "3.Have all passengers get out of the car."
+       },
+       "words": 537,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t012_f3726985",
+       "title": {
+        "ru": "3. If engine coolant is running out under",
+        "en": "3. If engine coolant is running out under"
+       },
+       "words": 409,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t013_d09f4706",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE - GASOLINE ENGINE",
+        "en": "NORMAL MAINTENANCE SCHEDULE - GASOLINE ENGINE"
+       },
+       "words": 1000,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t014_7965f359",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE - GASOLINE ENGINE (CONT.)",
+        "en": "NORMAL MAINTENANCE SCHEDULE - GASOLINE ENGINE (CONT.)"
+       },
+       "words": 938,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t015_76528443",
+       "title": {
+        "ru": "MAINTENANCE UNDER SEVERE USAGE CONDITIONS - DIESEL ENGINE",
+        "en": "MAINTENANCE UNDER SEVERE USAGE CONDITIONS - DIESEL ENGINE"
+       },
+       "words": 701,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t016_b3c33e65",
+       "title": {
+        "ru": "ENGINE OIL",
+        "en": "ENGINE OIL"
+       },
+       "words": 447,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t017_a829a745",
+       "title": {
+        "ru": "4. Pull the dipstick out, wipe it clean, and",
+        "en": "4. Pull the dipstick out, wipe it clean, and"
+       },
+       "words": 765,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t018_4b3ecb01",
+       "title": {
+        "ru": "1. Loosen the air cleaner cover attaching",
+        "en": "1. Loosen the air cleaner cover attaching"
+       },
+       "words": 449,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t019_621b791f",
+       "title": {
+        "ru": "TIRES AND WHEELS",
+        "en": "TIRES AND WHEELS"
+       },
+       "words": 633,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t020_bab9ccb4",
+       "title": {
+        "ru": "4. Check the removed fuse; replace it if it",
+        "en": "4. Check the removed fuse; replace it if it"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t021_3063468d",
+       "title": {
+        "ru": "PTC HEATER RELAY #1",
+        "en": "PTC HEATER RELAY #1"
+       },
+       "words": 431,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t022_ef75608b",
+       "title": {
+        "ru": "RECOMMENDED LUBRICANTS AND CAPACITIES",
+        "en": "RECOMMENDED LUBRICANTS AND CAPACITIES"
+       },
+       "words": 1206,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t023_cab3586c",
+       "title": {
+        "ru": "3.Pull the support rod from the hood.",
+        "en": "3.Pull the support rod from the hood."
+       },
+       "words": 700,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t024_3837ff8e",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1046,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t025_f141707a",
+       "title": {
+        "ru": "1. The parklight switch is ON.",
+        "en": "1. The parklight switch is ON."
+       },
+       "words": 952,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t026_31e70322",
+       "title": {
+        "ru": "ПРАВИЛА ТЕХНИКИ БЕЗОПАСНОСТИ",
+        "en": "ПРАВИЛА ТЕХНИКИ БЕЗОПАСНОСТИ"
+       },
+       "words": 768,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t027_af0ae077",
+       "title": {
+        "ru": "РЫВОК В МОМЕНТ НАЧАЛА ДВИЖЕНИЯ",
+        "en": "РЫВОК В МОМЕНТ НАЧАЛА ДВИЖЕНИЯ"
+       },
+       "words": 1077,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t028_e9bd25f4",
+       "title": {
+        "ru": "ДВИГАТЕЛЬ ЗАГЛОХ ВО ВРЕМЯ ДВИЖЕНИЯ",
+        "en": "ДВИГАТЕЛЬ ЗАГЛОХ ВО ВРЕМЯ ДВИЖЕНИЯ"
+       },
+       "words": 618,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t029_84c23e51",
+       "title": {
+        "ru": "ПРОВЕРКА УРОВНЯ И ДОЛИВКА МАСЛА В СИСТЕМУ СМАЗКИ",
+        "en": "ПРОВЕРКА УРОВНЯ И ДОЛИВКА МАСЛА В СИСТЕМУ СМАЗКИ"
+       },
+       "words": 1195,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t030_fbe6d476",
+       "title": {
+        "ru": "УСТАНОВКА ПОРШНЯ ПЕРВОГО ЦИЛИНДРА В ПОЛОЖЕНИЕ ВМТ ТАКТА СЖАТИЯ",
+        "en": "УСТАНОВКА ПОРШНЯ ПЕРВОГО ЦИЛИНДРА В ПОЛОЖЕНИЕ ВМТ ТАКТА СЖАТИЯ"
+       },
+       "words": 1227,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t031_04f1da70",
+       "title": {
+        "ru": "ЗАМЕНА УПЛОТНЕНИЯ ПОДДОНА МАСЛЯНОГО КАРТЕРА",
+        "en": "ЗАМЕНА УПЛОТНЕНИЯ ПОДДОНА МАСЛЯНОГО КАРТЕРА"
+       },
+       "words": 1111,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t032_17c8668e",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ДЕТАЛЕЙ ШАТУННО-ПОРШНЕВОЙ ГРУППЫ",
+        "en": "СНЯТИЕ И УСТАНОВКА ДЕТАЛЕЙ ШАТУННО-ПОРШНЕВОЙ ГРУППЫ"
+       },
+       "words": 836,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t033_c109388c",
+       "title": {
+        "ru": "СНЯТИЕ, ДЕФЕКТОВКА И УСТАНОВКА КОЛЕНЧАТОГО ВАЛА",
+        "en": "СНЯТИЕ, ДЕФЕКТОВКА И УСТАНОВКА КОЛЕНЧАТОГО ВАЛА"
+       },
+       "words": 790,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t034_fc29d7e9",
+       "title": {
+        "ru": "ВОЗМОЖНЫЕ НЕИСПРАВНОСТИ СИСТЕМЫ ОХЛАЖДЕНИЯ, ИХ ПРИЧИНЫ И СПОСОБЫ УСТРАНЕНИЯ",
+        "en": "ВОЗМОЖНЫЕ НЕИСПРАВНОСТИ СИСТЕМЫ ОХЛАЖДЕНИЯ, ИХ ПРИЧИНЫ И СПОСОБЫ УСТРАНЕНИЯ"
+       },
+       "words": 853,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t035_a124b03f",
+       "title": {
+        "ru": "ПРОВЕРКАДАВЛЕНИЯ В СИСТЕМЕ ПИТАНИЯ ДВИГАТЕЛЯ",
+        "en": "ПРОВЕРКАДАВЛЕНИЯ В СИСТЕМЕ ПИТАНИЯ ДВИГАТЕЛЯ"
+       },
+       "words": 1322,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t036_0d8d8026",
+       "title": {
+        "ru": "СНЯТИЕ, ПРОВЕРКА И УСТАНОВКА ФОРСУНОК",
+        "en": "СНЯТИЕ, ПРОВЕРКА И УСТАНОВКА ФОРСУНОК"
+       },
+       "words": 738,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t037_fe7800bc",
+       "title": {
+        "ru": "ПРОВЕРКА ТЕХНИЧЕСКОГО СОСТОЯНИЯ ДЕТАЛЕЙ ПЕРЕДНЕЙ ПОДВЕСКИ НААВТОМОБИЛЕ",
+        "en": "ПРОВЕРКА ТЕХНИЧЕСКОГО СОСТОЯНИЯ ДЕТАЛЕЙ ПЕРЕДНЕЙ ПОДВЕСКИ НААВТОМОБИЛЕ"
+       },
+       "words": 2220,
+       "images": 20,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t038_04aa2e9c",
+       "title": {
+        "ru": "ЗАМЕНА БАЧКА ГЛАВНОГО ТОРМОЗНОГО ЦИЛИНДРА",
+        "en": "ЗАМЕНА БАЧКА ГЛАВНОГО ТОРМОЗНОГО ЦИЛИНДРА"
+       },
+       "words": 999,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t039_bdd4ca09",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА АНТЕННОГО БЛОКА ИММОБИЛИЗАТОРА И ЦИЛИНДРА ВЫКЛЮЧАТЕЛЯ (ЗАМКА)",
+        "en": "СНЯТИЕ И УСТАНОВКА АНТЕННОГО БЛОКА ИММОБИЛИЗАТОРА И ЦИЛИНДРА ВЫКЛЮЧАТЕЛЯ (ЗАМКА)"
+       },
+       "words": 848,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t040_af7fb4c2",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА РЫЧАГА СТЕКЛООЧИСТИТЕЛЯ ОКНА ДВЕРИ ЗАДКА",
+        "en": "СНЯТИЕ И УСТАНОВКА РЫЧАГА СТЕКЛООЧИСТИТЕЛЯ ОКНА ДВЕРИ ЗАДКА"
+       },
+       "words": 1065,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t041_4be9da41",
+       "title": {
+        "ru": "ЗАМЕНА ДАТЧИКА ДАВЛЕНИЯ ХЛАДАГЕНТА В СИСТЕМЕ КОНДИЦИОНИРОВАНИЯ",
+        "en": "ЗАМЕНА ДАТЧИКА ДАВЛЕНИЯ ХЛАДАГЕНТА В СИСТЕМЕ КОНДИЦИОНИРОВАНИЯ"
+       },
+       "words": 1007,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_i30_engine_t042_032b9213",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ГИДРОЭЛЕКТРОННОГО МОДУЛЯ АВS",
+        "en": "СНЯТИЕ И УСТАНОВКА ГИДРОЭЛЕКТРОННОГО МОДУЛЯ АВS"
+       },
+       "words": 593,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "hyundai_i30_brakes_t000_c854540e",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1133,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t001_54178938",
+       "title": {
+        "ru": "3. Do not drive the vehicle if leaks are",
+        "en": "3. Do not drive the vehicle if leaks are"
+       },
+       "words": 740,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t002_40133433",
+       "title": {
+        "ru": "3. Turn the ignition switch to START and",
+        "en": "3. Turn the ignition switch to START and"
+       },
+       "words": 713,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t003_33f6b902",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1202,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t004_56c88aad",
+       "title": {
+        "ru": "1. Depress and hold the brake pedal.",
+        "en": "1. Depress and hold the brake pedal."
+       },
+       "words": 752,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t005_2ca0fe39",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1045,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t006_e85c2f00",
+       "title": {
+        "ru": "WARNING - ABS",
+        "en": "WARNING - ABS"
+       },
+       "words": 1240,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t007_c36c71ca",
+       "title": {
+        "ru": "5. Start the vehicle, hold the brakes, shift",
+        "en": "5. Start the vehicle, hold the brakes, shift"
+       },
+       "words": 1056,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t008_5162c513",
+       "title": {
+        "ru": "1. Pull off the road and stop as soon as it",
+        "en": "1. Pull off the road and stop as soon as it"
+       },
+       "words": 591,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t009_1812f02e",
+       "title": {
+        "ru": "7. Place the jack at the front or rear",
+        "en": "7. Place the jack at the front or rear"
+       },
+       "words": 877,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t010_6088436d",
+       "title": {
+        "ru": "NORMAL MAINTENANCE SCHEDULE - DIESEL ENGINE (CONT.)",
+        "en": "NORMAL MAINTENANCE SCHEDULE - DIESEL ENGINE (CONT.)"
+       },
+       "words": 680,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t011_ced114a6",
+       "title": {
+        "ru": "ALTERNATOR",
+        "en": "ALTERNATOR"
+       },
+       "words": 806,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t012_43e577a4",
+       "title": {
+        "ru": "6. Insert a new bulb by inserting it into",
+        "en": "6. Insert a new bulb by inserting it into"
+       },
+       "words": 658,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t013_57159197",
+       "title": {
+        "ru": "КОЛИЧЕСТВО ИСПОЛНИТЕЛЕЙ, НЕОБХОДИМОЕ ДЛЯ ВЫПОЛНЕНИЯ РАБОТЫ",
+        "en": "КОЛИЧЕСТВО ИСПОЛНИТЕЛЕЙ, НЕОБХОДИМОЕ ДЛЯ ВЫПОЛНЕНИЯ РАБОТЫ"
+       },
+       "words": 883,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t014_53b01907",
+       "title": {
+        "ru": "РАЗДЕЛ 9 ТОРМОЗНАЯ СИСТЕМА ьл . . . . ...162",
+        "en": "РАЗДЕЛ 9 ТОРМОЗНАЯ СИСТЕМА ьл . . . . ...162"
+       },
+       "words": 1501,
+       "images": 9,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t015_07ecddcf",
+       "title": {
+        "ru": "ПРОВЕРКА УРОВНЯ И ДОЛИВКА ТОРМОЗНОЙЖИДКОСТИ В БАЧОК ГИДРОПРИВОДОВ ТОРМОЗНОЙ СИСТ",
+        "en": "ПРОВЕРКА УРОВНЯ И ДОЛИВКА ТОРМОЗНОЙЖИДКОСТИ В БАЧОК ГИДРОПРИВОДОВ ТОРМОЗНОЙ СИСТ"
+       },
+       "words": 813,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t016_3a818be6",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА АМОРТИЗАТОРА ЗАДНЕЙ ПОДВЕСКИ",
+        "en": "СНЯТИЕ И УСТАНОВКА АМОРТИЗАТОРА ЗАДНЕЙ ПОДВЕСКИ"
+       },
+       "words": 978,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t017_f900a7d8",
+       "title": {
+        "ru": "ВОЗМОЖНЫЕ НЕИСПРАВНОСТИ ТОРМОЗНОЙ СИСТЕМЫ, ИХ ПРИЧИНЫ И СПОСОБЫ УСТРАНЕНИЯ",
+        "en": "ВОЗМОЖНЫЕ НЕИСПРАВНОСТИ ТОРМОЗНОЙ СИСТЕМЫ, ИХ ПРИЧИНЫ И СПОСОБЫ УСТРАНЕНИЯ"
+       },
+       "words": 1834,
+       "images": 14,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t018_57f703dc",
+       "title": {
+        "ru": "ПРОВЕРКА СТЕПЕНИ ИЗНОСА ТОРМОЗНЫХ колодок и дисков",
+        "en": "ПРОВЕРКА СТЕПЕНИ ИЗНОСА ТОРМОЗНЫХ колодок и дисков"
+       },
+       "words": 877,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t019_e3d1cba3",
+       "title": {
+        "ru": "ЗАМЕНА ШЛАНГОВ И ТРУБОПРОВОДОВ ГИДРОПРИВОДА ТОРМОЗОВ",
+        "en": "ЗАМЕНА ШЛАНГОВ И ТРУБОПРОВОДОВ ГИДРОПРИВОДА ТОРМОЗОВ"
+       },
+       "words": 865,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t020_fb09a602",
+       "title": {
+        "ru": "ЗАМЕНА ТОРМОЗНЫХ КОЛОДОК ТОРМОЗНЫХ МЕХАНИЗМОВ ПЕРЕДНИХ КОЛЕС",
+        "en": "ЗАМЕНА ТОРМОЗНЫХ КОЛОДОК ТОРМОЗНЫХ МЕХАНИЗМОВ ПЕРЕДНИХ КОЛЕС"
+       },
+       "words": 893,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t021_d1d00f3f",
+       "title": {
+        "ru": "ЗАМЕНА ТОРМОЗНОГО ДИСКА ТОРМОЗНОГО МЕХАНИЗМА ПЕРЕДНЕГО КОЛЕСА",
+        "en": "ЗАМЕНА ТОРМОЗНОГО ДИСКА ТОРМОЗНОГО МЕХАНИЗМА ПЕРЕДНЕГО КОЛЕСА"
+       },
+       "words": 1023,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t022_327b02d7",
+       "title": {
+        "ru": "Вам потребуется отвертка с крестообразным лезвием.",
+        "en": "Вам потребуется отвертка с крестообразным лезвием."
+       },
+       "words": 1147,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t023_ce3160eb",
+       "title": {
+        "ru": "ЗАМЕНА ВЫКЛЮЧАТЕЛЯ СИГНАЛИЗАТОРАВКЛЮЧЕНИЯ СТОЯНОЧНОГО ТОРМОЗА",
+        "en": "ЗАМЕНА ВЫКЛЮЧАТЕЛЯ СИГНАЛИЗАТОРАВКЛЮЧЕНИЯ СТОЯНОЧНОГО ТОРМОЗА"
+       },
+       "words": 907,
+       "images": 9,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_i30_brakes_t024_a0c2b2f4",
+       "title": {
+        "ru": "ЭЛЕКТРОННАЯ СИСТЕМА РАСПРЕДЕЛЕНИЯ ТОРМОЗНЫХ УСИЛИЙ",
+        "en": "ЭЛЕКТРОННАЯ СИСТЕМА РАСПРЕДЕЛЕНИЯ ТОРМОЗНЫХ УСИЛИЙ"
+       },
+       "words": 1154,
+       "images": 8,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "hyundai_i30_suspension_t000_6c16dfdc",
+       "title": {
+        "ru": "4 - переключатель наружного освещения и указателей поворота работает в следующих",
+        "en": "4 - переключатель наружного освещения и указателей поворота работает в следующих"
+       },
+       "words": 1703,
+       "images": 9,
+       "section_id": "suspension"
+      },
+      {
+       "id": "hyundai_i30_suspension_t001_ffb063dc",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА КУЛИСЫ РЫЧАГА УПРАВЛЕНИЯ МЕХАНИЧЕСКОЙ КОРОБКОЙ ПЕРЕДАЧ",
+        "en": "СНЯТИЕ И УСТАНОВКА КУЛИСЫ РЫЧАГА УПРАВЛЕНИЯ МЕХАНИЧЕСКОЙ КОРОБКОЙ ПЕРЕДАЧ"
+       },
+       "words": 1766,
+       "images": 22,
+       "section_id": "suspension"
+      },
+      {
+       "id": "hyundai_i30_suspension_t002_b86b62ea",
+       "title": {
+        "ru": "ЗАМЕНА РЕЗИНОМЕТАЛЛИЧЕСКОГО ШАРНИРА (САЙЛЕНТБЛОКА) РЫЧАГА ПЕРЕДНЕЙ ПОДВЕСКИ",
+        "en": "ЗАМЕНА РЕЗИНОМЕТАЛЛИЧЕСКОГО ШАРНИРА (САЙЛЕНТБЛОКА) РЫЧАГА ПЕРЕДНЕЙ ПОДВЕСКИ"
+       },
+       "words": 645,
+       "images": 6,
+       "section_id": "suspension"
+      },
+      {
+       "id": "hyundai_i30_suspension_t003_ebb5dd0f",
+       "title": {
+        "ru": "ЗАМЕНА ДЕТАЛЕЙ СТАБИЛИЗАТОРА ПОПЕРЕЧНОЙ УСТОЙЧИВОСТИ ЗАДНЕЙ ПОДВЕСКИ",
+        "en": "ЗАМЕНА ДЕТАЛЕЙ СТАБИЛИЗАТОРА ПОПЕРЕЧНОЙ УСТОЙЧИВОСТИ ЗАДНЕЙ ПОДВЕСКИ"
+       },
+       "words": 903,
+       "images": 8,
+       "section_id": "suspension"
+      },
+      {
+       "id": "hyundai_i30_suspension_t004_8c72c347",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ПОЛКИ КРЕПЛЕНИЯ АККУМУЛЯТОРНОЙ БАТАРЕИ",
+        "en": "СНЯТИЕ И УСТАНОВКА ПОЛКИ КРЕПЛЕНИЯ АККУМУЛЯТОРНОЙ БАТАРЕИ"
+       },
+       "words": 189,
+       "images": 3,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "hyundai_i30_electrical_t000_faa742b0",
+       "title": {
+        "ru": "ЦЕПИ, ЗАЩИЩАЕМЫЕ ПЛАВКИМИ ПРЕДОХРАНИТЕЛЯМИ, УСТАНОВЛЕННЫМИ В МОНТАЖНОМ БЛОКЕ В С",
+        "en": "ЦЕПИ, ЗАЩИЩАЕМЫЕ ПЛАВКИМИ ПРЕДОХРАНИТЕЛЯМИ, УСТАНОВЛЕННЫМИ В МОНТАЖНОМ БЛОКЕ В С"
+       },
+       "words": 1584,
+       "images": 4,
+       "section_id": "electrical"
+      },
+      {
+       "id": "hyundai_i30_electrical_t001_5d3d81e2",
+       "title": {
+        "ru": "РАСПОЛОЖЕНИЕ ПРЕДОХРАНИТЕЛЕЙ, ПЛАВКИХ ВСТАВОК И РЕЛЕ И ИХ ЗАМЕНА",
+        "en": "РАСПОЛОЖЕНИЕ ПРЕДОХРАНИТЕЛЕЙ, ПЛАВКИХ ВСТАВОК И РЕЛЕ И ИХ ЗАМЕНА"
+       },
+       "words": 1839,
+       "images": 23,
+       "section_id": "electrical"
+      },
+      {
+       "id": "hyundai_i30_electrical_t002_7c0d43ce",
+       "title": {
+        "ru": "Вам потребуется отвертка с крестообразным лезвием.",
+        "en": "Вам потребуется отвертка с крестообразным лезвием."
+       },
+       "words": 223,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "hyundai_i30_hvac_t000_7f849fc9",
+       "title": {
+        "ru": "5. Set the fan speed control to the",
+        "en": "5. Set the fan speed control to the"
+       },
+       "words": 548,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_i30_hvac_t001_ff01a831",
+       "title": {
+        "ru": "AUTOMATIC CLIMATE CONTROL SYSTEM (IF EQUIPPED)",
+        "en": "AUTOMATIC CLIMATE CONTROL SYSTEM (IF EQUIPPED)"
+       },
+       "words": 458,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_i30_hvac_t002_1872c3e2",
+       "title": {
+        "ru": "6. If air conditioning is desired, turn the",
+        "en": "6. If air conditioning is desired, turn the"
+       },
+       "words": 628,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_i30_hvac_t003_112b88ff",
+       "title": {
+        "ru": "CLIMATE CONTROL AIR FILTER (IF EQUIPPED)",
+        "en": "CLIMATE CONTROL AIR FILTER (IF EQUIPPED)"
+       },
+       "words": 412,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_i30_hvac_t004_120cdf4d",
+       "title": {
+        "ru": "ЗАМЕНА ДЕТАЛЕЙ УПЛОТНЕНИЯ ДВИГАТЕЛЯ",
+        "en": "ЗАМЕНА ДЕТАЛЕЙ УПЛОТНЕНИЯ ДВИГАТЕЛЯ"
+       },
+       "words": 569,
+       "images": 3,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_i30_hvac_t005_c74d0582",
+       "title": {
+        "ru": "ВОЗМОЖНЫЕ НЕИСПРАВНОСТИ АККУМУЛЯТОРНОЙ БАТАРЕИ, ИХ ПРИЧИНЫ И СПОСОБЫ УСТРАНЕНИЯ",
+        "en": "ВОЗМОЖНЫЕ НЕИСПРАВНОСТИ АККУМУЛЯТОРНОЙ БАТАРЕИ, ИХ ПРИЧИНЫ И СПОСОБЫ УСТРАНЕНИЯ"
+       },
+       "words": 1602,
+       "images": 9,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_i30_hvac_t006_2b1ef03e",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ВОЗДУХОНАГНЕТАТЕЛЯ",
+        "en": "СНЯТИЕ И УСТАНОВКА ВОЗДУХОНАГНЕТАТЕЛЯ"
+       },
+       "words": 212,
+       "images": 2,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "hyundai_i30_body_t000_0d144478",
+       "title": {
+        "ru": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)",
+        "en": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)"
+       },
+       "words": 326,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t001_3a062f36",
+       "title": {
+        "ru": "B240B02L",
+        "en": "B240B02L"
+       },
+       "words": 1450,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t002_4ebdc6d2",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 880,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t003_e601812b",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 939,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t004_5b0433b8",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 539,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t005_22e9719d",
+       "title": {
+        "ru": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)",
+        "en": "AIR BAG - SUPPLEMENTAL RESTRAINT SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1351,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t006_4da5278c",
+       "title": {
+        "ru": "СТЕКЛОПОДЪЕМНИКИ",
+        "en": "СТЕКЛОПОДЪЕМНИКИ"
+       },
+       "words": 1063,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t007_5fd43154",
+       "title": {
+        "ru": "РЫВКИ ПРИ УСТАНОВИВШЕМСЯ ДВИЖЕНИИ",
+        "en": "РЫВКИ ПРИ УСТАНОВИВШЕМСЯ ДВИЖЕНИИ"
+       },
+       "words": 703,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t008_695ab282",
+       "title": {
+        "ru": "Вам потребуется отвертка с крестообразным лезвием.",
+        "en": "Вам потребуется отвертка с крестообразным лезвием."
+       },
+       "words": 717,
+       "images": 8,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t009_a5697dba",
+       "title": {
+        "ru": "ЗАМЕНА ВЫКЛЮЧАТЕЛЕЙ ПЛАФОНОВ ОСВЕЩЕНИЯ САЛОНА",
+        "en": "ЗАМЕНА ВЫКЛЮЧАТЕЛЕЙ ПЛАФОНОВ ОСВЕЩЕНИЯ САЛОНА"
+       },
+       "words": 1506,
+       "images": 11,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t010_5271b4b6",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА БРЫЗГОВИКОВ КОЛЕС И ПОДКРЫЛКОВ",
+        "en": "СНЯТИЕ И УСТАНОВКА БРЫЗГОВИКОВ КОЛЕС И ПОДКРЫЛКОВ"
+       },
+       "words": 1018,
+       "images": 8,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t011_3479e5ae",
+       "title": {
+        "ru": "СНЯТИЕ, УСТАНОВКА И РЕГУЛИРОВКА ЗАМКА КАПОТА",
+        "en": "СНЯТИЕ, УСТАНОВКА И РЕГУЛИРОВКА ЗАМКА КАПОТА"
+       },
+       "words": 665,
+       "images": 8,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t012_d22712d3",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ДВЕРИ ЗАДКА",
+        "en": "СНЯТИЕ И УСТАНОВКА ДВЕРИ ЗАДКА"
+       },
+       "words": 1187,
+       "images": 11,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t013_3d2f2322",
+       "title": {
+        "ru": "Не наносите грунт на остатки старого клея.",
+        "en": "Не наносите грунт на остатки старого клея."
+       },
+       "words": 754,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t014_1590b12d",
+       "title": {
+        "ru": "ПОДГОТОВКА И АНТИКОРРОЗИОННАЯ ОБРАБОТКА СКРЫТЫХ ПОЛОСТЕЙ КУЗОВА",
+        "en": "ПОДГОТОВКА И АНТИКОРРОЗИОННАЯ ОБРАБОТКА СКРЫТЫХ ПОЛОСТЕЙ КУЗОВА"
+       },
+       "words": 1205,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_i30_body_t015_0cf1a7e3",
+       "title": {
+        "ru": "Вам потребуются: торцовый ключ «на 10е, отвертка с плоским лезвием.",
+        "en": "Вам потребуются: торцовый ключ «на 10е, отвертка с плоским лезвием."
+       },
+       "words": 342,
+       "images": 1,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "hyundai_i30_steering_t000_92ea7fc7",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ТРОСА ПРИВОДА ДРОССЕЛЬНОЙ ЗАСЛОНКИ",
+        "en": "СНЯТИЕ И УСТАНОВКА ТРОСА ПРИВОДА ДРОССЕЛЬНОЙ ЗАСЛОНКИ"
+       },
+       "words": 932,
+       "images": 4,
+       "section_id": "steering"
+      },
+      {
+       "id": "hyundai_i30_steering_t001_69fefec7",
+       "title": {
+        "ru": "ВОЗМОЖНЫЕ НЕИСПРАВНОСТИ РУЛЕВОГО УПРАВЛЕНИЯ, ИХ ПРИЧИНЫ И СПОСОБЫ УСТРАНЕНИЯ",
+        "en": "ВОЗМОЖНЫЕ НЕИСПРАВНОСТИ РУЛЕВОГО УПРАВЛЕНИЯ, ИХ ПРИЧИНЫ И СПОСОБЫ УСТРАНЕНИЯ"
+       },
+       "words": 980,
+       "images": 11,
+       "section_id": "steering"
+      },
+      {
+       "id": "hyundai_i30_steering_t002_bbe4af76",
+       "title": {
+        "ru": "Вам потребуются: молоток, зубило, отвертки с плоским и крестообразным лезвием.",
+        "en": "Вам потребуются: молоток, зубило, отвертки с плоским и крестообразным лезвием."
+       },
+       "words": 820,
+       "images": 5,
+       "section_id": "steering"
+      },
+      {
+       "id": "hyundai_i30_steering_t003_50dd9fd7",
+       "title": {
+        "ru": "Не используйте силиконосодержащие средства для обработки рулевого колеса.",
+        "en": "Не используйте силиконосодержащие средства для обработки рулевого колеса."
+       },
+       "words": 1398,
+       "images": 17,
+       "section_id": "steering"
+      },
+      {
+       "id": "hyundai_i30_steering_t004_e1dacd00",
+       "title": {
+        "ru": "ПРОВЕРКА РАДИАЛЬНОГО И БОКОВОГО БИЕНИЯ ДИСКОВ",
+        "en": "ПРОВЕРКА РАДИАЛЬНОГО И БОКОВОГО БИЕНИЯ ДИСКОВ"
+       },
+       "words": 184,
+       "images": 2,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "hyundai_i30_lighting_t000_a4cba9d8",
+       "title": {
+        "ru": "11. Passenger’s front air bag ON/OFF",
+        "en": "11. Passenger’s front air bag ON/OFF"
+       },
+       "words": 1099,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t001_7385e303",
+       "title": {
+        "ru": "2. Close the fuel filler lid and push it light-",
+        "en": "2. Close the fuel filler lid and push it light-"
+       },
+       "words": 683,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t002_fdda8f4b",
+       "title": {
+        "ru": "D140101AUN",
+        "en": "D140101AUN"
+       },
+       "words": 1023,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t003_f74efcad",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 630,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t004_c29c4aa2",
+       "title": {
+        "ru": "/MIST)",
+        "en": "/MIST)"
+       },
+       "words": 945,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t005_cf99061d",
+       "title": {
+        "ru": "8. Screen ON/ OFF Button",
+        "en": "8. Screen ON/ OFF Button"
+       },
+       "words": 525,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t006_1cfd60ad",
+       "title": {
+        "ru": "2. Accelerate to the desired speed, which",
+        "en": "2. Accelerate to the desired speed, which"
+       },
+       "words": 846,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t007_0c3c5218",
+       "title": {
+        "ru": "3. Make sure the blade assembly is",
+        "en": "3. Make sure the blade assembly is"
+       },
+       "words": 576,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t008_7b5ae505",
+       "title": {
+        "ru": "3. Remove the headlight bulb cover by",
+        "en": "3. Remove the headlight bulb cover by"
+       },
+       "words": 454,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t009_d346572b",
+       "title": {
+        "ru": "8. Reinstall the light assembly to the",
+        "en": "8. Reinstall the light assembly to the"
+       },
+       "words": 375,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t010_12da5934",
+       "title": {
+        "ru": "2. Be sure you and your passen-",
+        "en": "2. Be sure you and your passen-"
+       },
+       "words": 647,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t011_ea81e9fa",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 602,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t012_bd1a2d40",
+       "title": {
+        "ru": "D190800AFD",
+        "en": "D190800AFD"
+       },
+       "words": 758,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t013_ad588018",
+       "title": {
+        "ru": "МЕСТО ПРОВЕДЕНИЯ ОПЕРАЦИИ",
+        "en": "МЕСТО ПРОВЕДЕНИЯ ОПЕРАЦИИ"
+       },
+       "words": 929,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t014_48a34c8f",
+       "title": {
+        "ru": "ПРОВЕРКА ЭЛЕКТРООБОРУДОВАНИЯ",
+        "en": "ПРОВЕРКА ЭЛЕКТРООБОРУДОВАНИЯ"
+       },
+       "words": 879,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t015_f2c8de54",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ДЕКОРАТИВНОГО КОЖУХА ДВИГАТЕЛЯ",
+        "en": "СНЯТИЕ И УСТАНОВКА ДЕКОРАТИВНОГО КОЖУХА ДВИГАТЕЛЯ"
+       },
+       "words": 823,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t016_e6ff1cd0",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА АДСОРБЕРА СИСТЕМЫ УЛАВЛИВАНИЯ ПАРОВ ТОПЛИВА",
+        "en": "СНЯТИЕ И УСТАНОВКА АДСОРБЕРА СИСТЕМЫ УЛАВЛИВАНИЯ ПАРОВ ТОПЛИВА"
+       },
+       "words": 1759,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t017_12936f10",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА КУЛИСЫ СЕЛЕКТОРА УПРАВЛЕНИЯ АВТОМАТИЧЕСКОЙ КОРОБКОЙ ПЕРЕДАЧ",
+        "en": "СНЯТИЕ И УСТАНОВКА КУЛИСЫ СЕЛЕКТОРА УПРАВЛЕНИЯ АВТОМАТИЧЕСКОЙ КОРОБКОЙ ПЕРЕДАЧ"
+       },
+       "words": 1077,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t018_e4d9fb23",
+       "title": {
+        "ru": "НАЗНАЧЕНИЕ ПЛАВКИХ ПЕРЕМЫЧЕК ГЛАВНОГО ПРЕДОХРАНИТЕЛЯ, Таблица 10.3 РАСПОЛОЖЕННОГ",
+        "en": "НАЗНАЧЕНИЕ ПЛАВКИХ ПЕРЕМЫЧЕК ГЛАВНОГО ПРЕДОХРАНИТЕЛЯ, Таблица 10.3 РАСПОЛОЖЕННОГ"
+       },
+       "words": 719,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t019_9f545112",
+       "title": {
+        "ru": "АННЫЕ ДЛЯ ПРОВЕРКИ КОНТАКТНОЙ ГРУППЫ ВЫКЛЮЧАТЕЛЯ Таблица 10. (ЗАМКА) ЗАЖИГАНИЯ (",
+        "en": "АННЫЕ ДЛЯ ПРОВЕРКИ КОНТАКТНОЙ ГРУППЫ ВЫКЛЮЧАТЕЛЯ Таблица 10. (ЗАМКА) ЗАЖИГАНИЯ ("
+       },
+       "words": 1494,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t020_5d70dfc2",
+       "title": {
+        "ru": "ЗАМЕНА ПЛАФОНА ПОДСВЕТКИ КОСМЕТИЧЕСКОГО ЗЕРКАЛА",
+        "en": "ЗАМЕНА ПЛАФОНА ПОДСВЕТКИ КОСМЕТИЧЕСКОГО ЗЕРКАЛА"
+       },
+       "words": 1183,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t021_c8f0e133",
+       "title": {
+        "ru": "ЗАМЕНА ВНУТРЕННЕЙ РУЧКИ ПРИВОДА ЗАМКА ПЕРЕДНЕЙ ДВЕРИ",
+        "en": "ЗАМЕНА ВНУТРЕННЕЙ РУЧКИ ПРИВОДА ЗАМКА ПЕРЕДНЕЙ ДВЕРИ"
+       },
+       "words": 646,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t022_257644e9",
+       "title": {
+        "ru": "ЗАМЕНА ЗАМКА, ЗАЩЕЛКИ ЗАМКА И КНОПКИ ОТКРЫВАНИЯ ЗАМКА ДВЕРИ ЗАДКА",
+        "en": "ЗАМЕНА ЗАМКА, ЗАЩЕЛКИ ЗАМКА И КНОПКИ ОТКРЫВАНИЯ ЗАМКА ДВЕРИ ЗАДКА"
+       },
+       "words": 1183,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t023_9356992e",
+       "title": {
+        "ru": "Вам потребуются: ключи «на 10е, «на 12е.",
+        "en": "Вам потребуются: ключи «на 10е, «на 12е."
+       },
+       "words": 885,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_i30_lighting_t024_f6af3c68",
+       "title": {
+        "ru": "МАРКИРОВКА КОЛЕСНЫХ ДИСКОВ",
+        "en": "МАРКИРОВКА КОЛЕСНЫХ ДИСКОВ"
+       },
+       "words": 1112,
+       "images": 41,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "hyundai_i30_adas_t000_883791f2",
+       "title": {
+        "ru": "D170101AEN",
+        "en": "D170101AEN"
+       },
+       "words": 421,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "hyundai_i30_interior_t000_31162c82",
+       "title": {
+        "ru": "2. Outside rearview mirror folding button*..4-34",
+        "en": "2. Outside rearview mirror folding button*..4-34"
+       },
+       "words": 625,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t001_78057a24",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 807,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t002_ef26d787",
+       "title": {
+        "ru": "6. Pull the lock release lever (red visible)",
+        "en": "6. Pull the lock release lever (red visible)"
+       },
+       "words": 590,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t003_6e91a9db",
+       "title": {
+        "ru": "7. To use the rear seat, lift and push the",
+        "en": "7. To use the rear seat, lift and push the"
+       },
+       "words": 1021,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t004_e139c278",
+       "title": {
+        "ru": "2. Insert the metal tab (1) into the open",
+        "en": "2. Insert the metal tab (1) into the open"
+       },
+       "words": 792,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t005_154567d5",
+       "title": {
+        "ru": "2. Be sure you and your passen-",
+        "en": "2. Be sure you and your passen-"
+       },
+       "words": 744,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t006_50ad83b1",
+       "title": {
+        "ru": "CHILD RESTRAINT SYSTEM",
+        "en": "CHILD RESTRAINT SYSTEM"
+       },
+       "words": 913,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t007_deb0a6d5",
+       "title": {
+        "ru": "1. Place the child restraint system in the",
+        "en": "1. Place the child restraint system in the"
+       },
+       "words": 798,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t008_3238cb2b",
+       "title": {
+        "ru": "1. To engage the child restraint seat to",
+        "en": "1. To engage the child restraint seat to"
+       },
+       "words": 702,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t009_ccb6b969",
+       "title": {
+        "ru": "2. Connect the tether strap hook to the",
+        "en": "2. Connect the tether strap hook to the"
+       },
+       "words": 1135,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t010_b6cefc4a",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 1083,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t011_80d1ae82",
+       "title": {
+        "ru": "DOOR LOCKS",
+        "en": "DOOR LOCKS"
+       },
+       "words": 1315,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t012_6be82020",
+       "title": {
+        "ru": "3. Close the rear door.",
+        "en": "3. Close the rear door."
+       },
+       "words": 630,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t013_61b59eaa",
+       "title": {
+        "ru": "1. Turn the ignition switch to the ON posi-",
+        "en": "1. Turn the ignition switch to the ON posi-"
+       },
+       "words": 698,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t014_245ff9db",
+       "title": {
+        "ru": "MIRRORS",
+        "en": "MIRRORS"
+       },
+       "words": 591,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t015_85d311ea",
+       "title": {
+        "ru": "WIPERS AND WASHERS",
+        "en": "WIPERS AND WASHERS"
+       },
+       "words": 561,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t016_859f6699",
+       "title": {
+        "ru": "3. Hang the net strap hooks in the corre-",
+        "en": "3. Hang the net strap hooks in the corre-"
+       },
+       "words": 913,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t017_4fa79b33",
+       "title": {
+        "ru": "5. Press SETUP button to exit SETUP",
+        "en": "5. Press SETUP button to exit SETUP"
+       },
+       "words": 591,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t018_e77d2f34",
+       "title": {
+        "ru": "CLOCK ➟ TIME ➟ SCROLL ➟ SDVC ➟",
+        "en": "CLOCK ➟ TIME ➟ SCROLL ➟ SDVC ➟"
+       },
+       "words": 788,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t019_fd11fe48",
+       "title": {
+        "ru": "5. Block both the front and rear of the",
+        "en": "5. Block both the front and rear of the"
+       },
+       "words": 626,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t020_fa6a54c7",
+       "title": {
+        "ru": "4. Install the blade assembly until it clicks",
+        "en": "4. Install the blade assembly until it clicks"
+       },
+       "words": 420,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t021_00b309ad",
+       "title": {
+        "ru": "2. Carefully lean back on the seat and",
+        "en": "2. Carefully lean back on the seat and"
+       },
+       "words": 1013,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t022_74b08618",
+       "title": {
+        "ru": "6. Pull the lock release lever (red visible)",
+        "en": "6. Pull the lock release lever (red visible)"
+       },
+       "words": 906,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t023_b15edf2a",
+       "title": {
+        "ru": "OFD037058",
+        "en": "OFD037058"
+       },
+       "words": 847,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t024_1c1e2375",
+       "title": {
+        "ru": "1. Turn the ignition switch to the ON posi-",
+        "en": "1. Turn the ignition switch to the ON posi-"
+       },
+       "words": 960,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t025_cfc4504d",
+       "title": {
+        "ru": "3. Hang the net strap hooks in the corre-",
+        "en": "3. Hang the net strap hooks in the corre-"
+       },
+       "words": 463,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t026_ce9637d9",
+       "title": {
+        "ru": "9. Information Display Button",
+        "en": "9. Information Display Button"
+       },
+       "words": 686,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t027_90668253",
+       "title": {
+        "ru": "8. SCAN Selection Button",
+        "en": "8. SCAN Selection Button"
+       },
+       "words": 715,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t028_3c2968cc",
+       "title": {
+        "ru": "РАЗДЕЛ 12 СИСТЕМА ОТОПЛЕНИЯ, КОНДИЦИОНИРОВАНИЯ И ВЕНТИЛЯЦИИ САЛОНА = .   . . . .",
+        "en": "РАЗДЕЛ 12 СИСТЕМА ОТОПЛЕНИЯ, КОНДИЦИОНИРОВАНИЯ И ВЕНТИЛЯЦИИ САЛОНА = .   . . . ."
+       },
+       "words": 1887,
+       "images": 12,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t029_f6783bec",
+       "title": {
+        "ru": "ЗАМЕНА ПОДУШЕК ПОДВЕСКИ СИСТЕМЫ ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ",
+        "en": "ЗАМЕНА ПОДУШЕК ПОДВЕСКИ СИСТЕМЫ ВЫПУСКА ОТРАБОТАВШИХ ГАЗОВ"
+       },
+       "words": 753,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t030_e786c99d",
+       "title": {
+        "ru": "ЗАМЕНА ПЛАФОНА ОБЩЕГО ОСВЕЩЕНИЯ САЛОНА",
+        "en": "ЗАМЕНА ПЛАФОНА ОБЩЕГО ОСВЕЩЕНИЯ САЛОНА"
+       },
+       "words": 978,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t031_d4544ab5",
+       "title": {
+        "ru": "БЛОК УПРАВЛЕНИЯ СИСТЕМОЙ ОТОПЛЕНИЯ, КОНДИЦИОНИРОВАНИЯ И ВЕНТИЛЯЦИИ САЛОНА",
+        "en": "БЛОК УПРАВЛЕНИЯ СИСТЕМОЙ ОТОПЛЕНИЯ, КОНДИЦИОНИРОВАНИЯ И ВЕНТИЛЯЦИИ САЛОНА"
+       },
+       "words": 736,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t032_2028fd1f",
+       "title": {
+        "ru": "ЗАМЕНА ФИЛЬТРА ПОСТУПАЮЩЕГО В САЛОН ВОЗДУХА",
+        "en": "ЗАМЕНА ФИЛЬТРА ПОСТУПАЮЩЕГО В САЛОН ВОЗДУХА"
+       },
+       "words": 1012,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_i30_interior_t033_2427f359",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ПОДУШКИ БЕЗОПАСНОСТИ ПЕРЕДНЕГО ПАССАЖИРА",
+        "en": "СНЯТИЕ И УСТАНОВКА ПОДУШКИ БЕЗОПАСНОСТИ ПЕРЕДНЕГО ПАССАЖИРА"
+       },
+       "words": 389,
+       "images": 2,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "wheels",
+     "title": {
+      "ru": "Колёса и шины",
+      "en": "Wheels & Tires"
+     },
+     "icon": "🛞",
+     "topics": [
+      {
+       "id": "hyundai_i30_wheels_t000_ac367f81",
+       "title": {
+        "ru": "ПОЛЕЗНЫЕ СОВЕТЫ",
+        "en": "ПОЛЕЗНЫЕ СОВЕТЫ"
+       },
+       "words": 913,
+       "images": 2,
+       "section_id": "wheels"
+      },
+      {
+       "id": "hyundai_i30_wheels_t001_80171ab6",
+       "title": {
+        "ru": "ПРОВЕРКА ТЕХНИЧЕСКОГО СОСТОЯНИЯ ДЕТАЛЕЙ ЗАДНЕЙ ПОДВЕСКИ НА АВТОМОБЙЛЕ",
+        "en": "ПРОВЕРКА ТЕХНИЧЕСКОГО СОСТОЯНИЯ ДЕТАЛЕЙ ЗАДНЕЙ ПОДВЕСКИ НА АВТОМОБЙЛЕ"
+       },
+       "words": 1744,
+       "images": 7,
+       "section_id": "wheels"
+      },
+      {
+       "id": "hyundai_i30_wheels_t002_e77ee2b5",
+       "title": {
+        "ru": "СОВЕТЫ ПО ЭКСПЛУАТАЦИИ КОЛЕС",
+        "en": "СОВЕТЫ ПО ЭКСПЛУАТАЦИИ КОЛЕС"
+       },
+       "words": 681,
+       "images": 0,
+       "section_id": "wheels"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "hyundai_i30_ev_t000_cad416bb",
+       "title": {
+        "ru": "НЕИСПРАВНОСТИ ЭЛЕКТРООБОРУДОВАНИЯ",
+        "en": "НЕИСПРАВНОСТИ ЭЛЕКТРООБОРУДОВАНИЯ"
+       },
+       "words": 804,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "hyundai_i30_ev_t001_b4f4ccee",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ЦЕПИ ПРИВОДА ГАЗОРАСПРЕДЕЛИТЕЛЬНОГО МЕХАНИЗМА",
+        "en": "СНЯТИЕ И УСТАНОВКА ЦЕПИ ПРИВОДА ГАЗОРАСПРЕДЕЛИТЕЛЬНОГО МЕХАНИЗМА"
+       },
+       "words": 2623,
+       "images": 17,
+       "section_id": "ev"
+      },
+      {
+       "id": "hyundai_i30_ev_t002_04bfbe99",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ВЕЩЕВОГО ЯЩИКА СО СТОРОНЫ ПЕРЕДНЕГО ПАССАЖИРА",
+        "en": "СНЯТИЕ И УСТАНОВКА ВЕЩЕВОГО ЯЩИКА СО СТОРОНЫ ПЕРЕДНЕГО ПАССАЖИРА"
+       },
+       "words": 336,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "hyundai_i30_ev_t003_9b5ff1e6",
+       "title": {
+        "ru": "ТЕМПЕРАТУРНАЯ ПОПРАВКА К ПОКАЗАНИЯМ АРЕОМЕТРА ПРИ ИЗМЕРЕНИИ ПЛОТНОСТИ ЭЛЕКТРОЛИТ",
+        "en": "ТЕМПЕРАТУРНАЯ ПОПРАВКА К ПОКАЗАНИЯМ АРЕОМЕТРА ПРИ ИЗМЕРЕНИИ ПЛОТНОСТИ ЭЛЕКТРОЛИТ"
+       },
+       "words": 1112,
+       "images": 7,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "hyundai_i30_chassis_t000_e44280b5",
+       "title": {
+        "ru": "A010000AUN",
+        "en": "A010000AUN"
+       },
+       "words": 936,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i30_chassis_t001_900fe228",
+       "title": {
+        "ru": "7. REPEAT Button",
+        "en": "7. REPEAT Button"
+       },
+       "words": 754,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i30_chassis_t002_705bd713",
+       "title": {
+        "ru": "6. RANDOM Playback Button",
+        "en": "6. RANDOM Playback Button"
+       },
+       "words": 554,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i30_chassis_t003_5b2a775c",
+       "title": {
+        "ru": "TIRE PRESSURE MONITORING SYSTEM (TPMS) (IF EQUIPPED)",
+        "en": "TIRE PRESSURE MONITORING SYSTEM (TPMS) (IF EQUIPPED)"
+       },
+       "words": 649,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i30_chassis_t004_b47f4f29",
+       "title": {
+        "ru": "IF YOU HAVE A FLAT TIRE",
+        "en": "IF YOU HAVE A FLAT TIRE"
+       },
+       "words": 1093,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i30_chassis_t005_f55a77bb",
+       "title": {
+        "ru": "1. Unscrew the inflation valve cap that is",
+        "en": "1. Unscrew the inflation valve cap that is"
+       },
+       "words": 911,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i30_chassis_t006_b640372a",
+       "title": {
+        "ru": "S2BLA790",
+        "en": "S2BLA790"
+       },
+       "words": 772,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i30_chassis_t007_20f67976",
+       "title": {
+        "ru": "G200500AUN",
+        "en": "G200500AUN"
+       },
+       "words": 624,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i30_chassis_t008_35c0d472",
+       "title": {
+        "ru": "DOT : XXXX XXXX OOOO",
+        "en": "DOT : XXXX XXXX OOOO"
+       },
+       "words": 846,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i30_chassis_t009_8c5a0f57",
+       "title": {
+        "ru": "TIRES AND WHEELS",
+        "en": "TIRES AND WHEELS"
+       },
+       "words": 655,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_i30_chassis_t010_f3e9b4d6",
+       "title": {
+        "ru": "9. REPEAT Button",
+        "en": "9. REPEAT Button"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "hyundai_i30_general_t000_42185853",
+       "title": {
+        "ru": "All information in this Owner's Manual is current at the time of publication.",
+        "en": "All information in this Owner's Manual is current at the time of publication."
+       },
+       "words": 429,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t001_60a7d946",
+       "title": {
+        "ru": "ISO/L1",
+        "en": "ISO/L1"
+       },
+       "words": 633,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t002_eba143f4",
+       "title": {
+        "ru": "SUNROOF (IF EQUIPPED)",
+        "en": "SUNROOF (IF EQUIPPED)"
+       },
+       "words": 317,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t003_0f1647dc",
+       "title": {
+        "ru": "4. Press and hold the close button until",
+        "en": "4. Press and hold the close button until"
+       },
+       "words": 520,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t004_cc062a13",
+       "title": {
+        "ru": "✽NOTICE",
+        "en": "✽NOTICE"
+       },
+       "words": 460,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t005_aadf725e",
+       "title": {
+        "ru": "4. Adjust the fan speed control and tem-",
+        "en": "4. Adjust the fan speed control and tem-"
+       },
+       "words": 527,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t006_8238c23d",
+       "title": {
+        "ru": "OFD047110/OFD047111",
+        "en": "OFD047110/OFD047111"
+       },
+       "words": 458,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t007_56ef9d99",
+       "title": {
+        "ru": "1. Turn on the fan control switch.",
+        "en": "1. Turn on the fan control switch."
+       },
+       "words": 376,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t008_d49524e6",
+       "title": {
+        "ru": "1. Open the cover for the holder position",
+        "en": "1. Open the cover for the holder position"
+       },
+       "words": 408,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t009_06d3d776",
+       "title": {
+        "ru": "1. Insert a slim tool(coin or flat blade driv-",
+        "en": "1. Insert a slim tool(coin or flat blade driv-"
+       },
+       "words": 464,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t010_edb5ad81",
+       "title": {
+        "ru": "➟ TREBLE ➟ FADER ➟ BALANCE ➟",
+        "en": "➟ TREBLE ➟ FADER ➟ BALANCE ➟"
+       },
+       "words": 431,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t011_42b3d946",
+       "title": {
+        "ru": "5. Automatic Channel Selection",
+        "en": "5. Automatic Channel Selection"
+       },
+       "words": 495,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t012_26f3e640",
+       "title": {
+        "ru": "USING USB (PA710R) (IF EQUIPPED)",
+        "en": "USING USB (PA710R) (IF EQUIPPED)"
+       },
+       "words": 385,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t013_7f8c6b44",
+       "title": {
+        "ru": "5. Automatic Channel Selection",
+        "en": "5. Automatic Channel Selection"
+       },
+       "words": 375,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t014_c10ff132",
+       "title": {
+        "ru": "6. Automatic Track Selection",
+        "en": "6. Automatic Track Selection"
+       },
+       "words": 582,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t015_bff9c2b9",
+       "title": {
+        "ru": "OUN056051",
+        "en": "OUN056051"
+       },
+       "words": 1049,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t016_7401cae0",
+       "title": {
+        "ru": "7.Proceed with caution, keeping alert for",
+        "en": "7.Proceed with caution, keeping alert for"
+       },
+       "words": 350,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t017_97a49037",
+       "title": {
+        "ru": "4. Sweep the nozzle back and forth at the",
+        "en": "4. Sweep the nozzle back and forth at the"
+       },
+       "words": 357,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t018_87ebc018",
+       "title": {
+        "ru": "4. If the fluid level is checked in cold con-",
+        "en": "4. If the fluid level is checked in cold con-"
+       },
+       "words": 361,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t019_9878facf",
+       "title": {
+        "ru": "EMISSION CONTROL SYSTEM",
+        "en": "EMISSION CONTROL SYSTEM"
+       },
+       "words": 908,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t020_72f15596",
+       "title": {
+        "ru": "7. Odometer/Trip computer (if equipped)",
+        "en": "7. Odometer/Trip computer (if equipped)"
+       },
+       "words": 539,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t021_f8f8f356",
+       "title": {
+        "ru": "2. Set temperature to the extreme hot",
+        "en": "2. Set temperature to the extreme hot"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t022_b8d3e191",
+       "title": {
+        "ru": "3. After using the roof carrier, install the",
+        "en": "3. After using the roof carrier, install the"
+       },
+       "words": 586,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t023_67c853f2",
+       "title": {
+        "ru": "7. CD/AUX Selection Button",
+        "en": "7. CD/AUX Selection Button"
+       },
+       "words": 840,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t024_9d5d651a",
+       "title": {
+        "ru": "USING USB (PA710R) (IF EQUIPPED)",
+        "en": "USING USB (PA710R) (IF EQUIPPED)"
+       },
+       "words": 1029,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t025_fd1823e5",
+       "title": {
+        "ru": "4. Category Selection Button",
+        "en": "4. Category Selection Button"
+       },
+       "words": 444,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t026_e8e8f07a",
+       "title": {
+        "ru": "9. Information Display Button",
+        "en": "9. Information Display Button"
+       },
+       "words": 914,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t027_09c0200b",
+       "title": {
+        "ru": "9. Information Display Button",
+        "en": "9. Information Display Button"
+       },
+       "words": 1400,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t028_f98c141f",
+       "title": {
+        "ru": "СТЕПЕНЬ СЛОЖНОСТИ РАБОТЫ, ОЦЕНЕННАЯ УСЛОВНО ПО ПЯТИБАЛЛЬНОЙ ШКАЛЕ",
+        "en": "СТЕПЕНЬ СЛОЖНОСТИ РАБОТЫ, ОЦЕНЕННАЯ УСЛОВНО ПО ПЯТИБАЛЛЬНОЙ ШКАЛЕ"
+       },
+       "words": 677,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t029_2f1e826e",
+       "title": {
+        "ru": "ЭКСПЛУАТАЦИЯ АВТОМОБИЛЯ В ГАРАНТИЙНЫЙ ПЕРИОД",
+        "en": "ЭКСПЛУАТАЦИЯ АВТОМОБИЛЯ В ГАРАНТИЙНЫЙ ПЕРИОД"
+       },
+       "words": 1567,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t030_619d2509",
+       "title": {
+        "ru": "АВТОМОБИЛЬ ДВИЖЕТСЯ РЫВКАМИ",
+        "en": "АВТОМОБИЛЬ ДВИЖЕТСЯ РЫВКАМИ"
+       },
+       "words": 706,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t031_fe4dcad9",
+       "title": {
+        "ru": "ПРОВЕРКА УРОВНЯ И ДОЛИВКА ОХЛАЖДАЮЩЕЙ ЖИДКОСТИ",
+        "en": "ПРОВЕРКА УРОВНЯ И ДОЛИВКА ОХЛАЖДАЮЩЕЙ ЖИДКОСТИ"
+       },
+       "words": 1176,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t032_4e58fe93",
+       "title": {
+        "ru": "Вам потребуются: ключ «на 14е (два), торцовые головки «на 14е, «на 17е.",
+        "en": "Вам потребуются: ключ «на 14е (два), торцовые головки «на 14е, «на 17е."
+       },
+       "words": 2087,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t033_ecc8ff89",
+       "title": {
+        "ru": "ЗАМЕНА МАСЛОСЪЕМНЫХ КОЛПАЧКОВ",
+        "en": "ЗАМЕНА МАСЛОСЪЕМНЫХ КОЛПАЧКОВ"
+       },
+       "words": 1636,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t034_faa06caf",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА ДОПОЛНИТЕЛЬНОГО И ОСНОВНОГО ГЛУШИТЕЛЕЙ",
+        "en": "СНЯТИЕ И УСТАНОВКА ДОПОЛНИТЕЛЬНОГО И ОСНОВНОГО ГЛУШИТЕЛЕЙ"
+       },
+       "words": 530,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t035_0806e94b",
+       "title": {
+        "ru": "ПОЛЕЗНЫЙ СОВЕТ",
+        "en": "ПОЛЕЗНЫЙ СОВЕТ"
+       },
+       "words": 782,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t036_f411ea44",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА КОРОБКИ ПЕРЕДАЧ",
+        "en": "СНЯТИЕ И УСТАНОВКА КОРОБКИ ПЕРЕДАЧ"
+       },
+       "words": 724,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t037_514776d6",
+       "title": {
+        "ru": "ЗАМЕНА ПОДШИПНИКА ПЕРЕДНЕЙ СТУПИЦЫ",
+        "en": "ЗАМЕНА ПОДШИПНИКА ПЕРЕДНЕЙ СТУПИЦЫ"
+       },
+       "words": 484,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t038_8ea22a11",
+       "title": {
+        "ru": "ЗАМЕНА ЗАМКА И ЗАЩЕЛКИ ЗАМКА ПЕРЕДНЕЙ ДВЕРИ",
+        "en": "ЗАМЕНА ЗАМКА И ЗАЩЕЛКИ ЗАМКА ПЕРЕДНЕЙ ДВЕРИ"
+       },
+       "words": 653,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t039_7b903d44",
+       "title": {
+        "ru": "ЗАМЕНА ОГРАНИЧИТЕЛЯ ОТКРЫВАНИЯ ЗАДНЕЙ ДВЕРИ",
+        "en": "ЗАМЕНА ОГРАНИЧИТЕЛЯ ОТКРЫВАНИЯ ЗАДНЕЙ ДВЕРИ"
+       },
+       "words": 544,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t040_3a14254b",
+       "title": {
+        "ru": "ПРАВИЛА ТЕХНИКИ БЕЗОПАСНОСТИ ПРИ РЕМОНТЕ И ОБСЛУЖИВАНИИ СИСТЕМЫ КОНДИЦИОНИРОВАНИ",
+        "en": "ПРАВИЛА ТЕХНИКИ БЕЗОПАСНОСТИ ПРИ РЕМОНТЕ И ОБСЛУЖИВАНИИ СИСТЕМЫ КОНДИЦИОНИРОВАНИ"
+       },
+       "words": 809,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t041_004c2626",
+       "title": {
+        "ru": "ЗАМЕНА ФИЛЬТРУЮЩЕГО ЭЛЕМЕНТА РЕСИВЕРАОСУШИТЕЛЯ",
+        "en": "ЗАМЕНА ФИЛЬТРУЮЩЕГО ЭЛЕМЕНТА РЕСИВЕРАОСУШИТЕЛЯ"
+       },
+       "words": 606,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t042_40fe855a",
+       "title": {
+        "ru": "КАК ПОДГОТОВИТЬ АВТОМОБИЛЬ К ЗИМЕ",
+        "en": "КАК ПОДГОТОВИТЬ АВТОМОБИЛЬ К ЗИМЕ"
+       },
+       "words": 1894,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_i30_general_t043_3d9bc698",
+       "title": {
+        "ru": "Литературу Издательства Третий Рим в розницу вы можете приобрести по адресу:",
+        "en": "Литературу Издательства Третий Рим в розницу вы можете приобрести по адресу:"
+       },
+       "words": 1770,
+       "images": 1,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_i30_infotainment_t000_584d195e",
+       "title": {
+        "ru": "CAUTION: MODIFICATIONS TO YOUR HYUNDAI",
+        "en": "CAUTION: MODIFICATIONS TO YOUR HYUNDAI"
+       },
+       "words": 619,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_i30_infotainment_t001_8a9788a9",
+       "title": {
+        "ru": "RADIO, SET UP, VOLUME CONTROL (PA710R) (IF EQUIPPED)",
+        "en": "RADIO, SET UP, VOLUME CONTROL (PA710R) (IF EQUIPPED)"
+       },
+       "words": 383,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_i30_infotainment_t002_c72574d3",
+       "title": {
+        "ru": "RADIO, SET UP, VOLUME CONTROL (PA760R) (IF EQUIPPED)",
+        "en": "RADIO, SET UP, VOLUME CONTROL (PA760R) (IF EQUIPPED)"
+       },
+       "words": 1661,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_i30_infotainment_t003_4603a524",
+       "title": {
+        "ru": "9. Information Display Button",
+        "en": "9. Information Display Button"
+       },
+       "words": 1235,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_i30_infotainment_t004_b81ab821",
+       "title": {
+        "ru": "9. Information Display Button",
+        "en": "9. Information Display Button"
+       },
+       "words": 1503,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_i30_infotainment_t005_93b5fca5",
+       "title": {
+        "ru": "RADIO, SET UP, VOLUME CONTROL (PA710R) (IF EQUIPPED)",
+        "en": "RADIO, SET UP, VOLUME CONTROL (PA710R) (IF EQUIPPED)"
+       },
+       "words": 628,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_i30_infotainment_t006_357af361",
+       "title": {
+        "ru": "RADIO, SET UP, VOLUME CONTROL (PA760R) (IF EQUIPPED)",
+        "en": "RADIO, SET UP, VOLUME CONTROL (PA760R) (IF EQUIPPED)"
+       },
+       "words": 1286,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_i30_infotainment_t007_3a07e0cc",
+       "title": {
+        "ru": "ЗАМЕНА ДИНАМИКОВ АУДИОСЙСТЕМЫ",
+        "en": "ЗАМЕНА ДИНАМИКОВ АУДИОСЙСТЕМЫ"
+       },
+       "words": 888,
+       "images": 2,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_i30_sensors_t000_26440b09",
+       "title": {
+        "ru": "1. Moisture is frozen to the sensor. (It will",
+        "en": "1. Moisture is frozen to the sensor. (It will"
+       },
+       "words": 897,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_i30_sensors_t001_4517b732",
+       "title": {
+        "ru": "SEAT HTR",
+        "en": "SEAT HTR"
+       },
+       "words": 1313,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_i30_sensors_t002_a952b8f1",
+       "title": {
+        "ru": "ДИАГНОСТИКА СостояНиЯ ДВИГАТЕЛЯ ПО ВНЕШНЕМУ ВИДУ СВЕЧЕЙ ЗАЖИГАНИЯ",
+        "en": "ДИАГНОСТИКА СостояНиЯ ДВИГАТЕЛЯ ПО ВНЕШНЕМУ ВИДУ СВЕЧЕЙ ЗАЖИГАНИЯ"
+       },
+       "words": 1072,
+       "images": 1,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_i30_sensors_t003_e2b62943",
+       "title": {
+        "ru": "СИСТЕМА КУРСОВОЙ УСтОЙЧИВОСТИ",
+        "en": "СИСТЕМА КУРСОВОЙ УСтОЙЧИВОСТИ"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_i30_drivetrain_t000_d401e50d",
+       "title": {
+        "ru": "MANUAL TRANSAXLE (IF EQUIPPED)",
+        "en": "MANUAL TRANSAXLE (IF EQUIPPED)"
+       },
+       "words": 791,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_i30_drivetrain_t001_9f82a1da",
+       "title": {
+        "ru": "1. Set the ignition switch in the ACC posi-",
+        "en": "1. Set the ignition switch in the ACC posi-"
+       },
+       "words": 1130,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_i30_drivetrain_t002_2b2a6f7c",
+       "title": {
+        "ru": "ЗАМЕНА ОПОР ПОДВЕСКИ СИЛОВОГО АГРЕГАТА",
+        "en": "ЗАМЕНА ОПОР ПОДВЕСКИ СИЛОВОГО АГРЕГАТА"
+       },
+       "words": 612,
+       "images": 1,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_i30_drivetrain_t003_63eea1cb",
+       "title": {
+        "ru": "ПРОВЕРКА И РЕГУЛИРОВКА ХОДА ПЕДАЛИ ПРИВОДА ВЫКЛЮЧЕНИЯ СЦЕПЛЕНИЯ",
+        "en": "ПРОВЕРКА И РЕГУЛИРОВКА ХОДА ПЕДАЛИ ПРИВОДА ВЫКЛЮЧЕНИЯ СЦЕПЛЕНИЯ"
+       },
+       "words": 1591,
+       "images": 8,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_i30_drivetrain_t004_70027163",
+       "title": {
+        "ru": "ЗАМЕНА НАРУЖНОЙ РУЧКИ ПРИВОДА ЗАМКА ПЕРЕДНЕЙ ДВЕРИ",
+        "en": "ЗАМЕНА НАРУЖНОЙ РУЧКИ ПРИВОДА ЗАМКА ПЕРЕДНЕЙ ДВЕРИ"
+       },
+       "words": 835,
+       "images": 2,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_i30_drivetrain_t005_bbbd4054",
+       "title": {
+        "ru": "ЗАМЕНА ПОДШИПНИКА ШКИВА ПРИВОДА",
+        "en": "ЗАМЕНА ПОДШИПНИКА ШКИВА ПРИВОДА"
+       },
+       "words": 275,
+       "images": 2,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "battery",
+     "title": {
+      "ru": "battery",
+      "en": "battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_i30_battery_t000_6ca5ba4d",
+       "title": {
+        "ru": "1. Insert a slim tool into the slot and gen-",
+        "en": "1. Insert a slim tool into the slot and gen-"
+       },
+       "words": 590,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_i30_battery_t001_34d803a8",
+       "title": {
+        "ru": "7. The level of charge in your battery can",
+        "en": "7. The level of charge in your battery can"
+       },
+       "words": 763,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_i30_battery_t002_43d447bb",
+       "title": {
+        "ru": "2. Check the battery connections to be",
+        "en": "2. Check the battery connections to be"
+       },
+       "words": 733,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_i30_battery_t003_daec8dcc",
+       "title": {
+        "ru": "LIGHTING",
+        "en": "LIGHTING"
+       },
+       "words": 730,
+       "images": 0,
+       "section_id": "battery"
+      }
+     ]
+    },
+    {
+     "id": "fuel",
+     "title": {
+      "ru": "fuel",
+      "en": "fuel"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_i30_fuel_t000_10ab4353",
+       "title": {
+        "ru": "® HYUNDAI РЕМОТТ БЕЗ ПРОБЛЕМ i30 Выпуск с 2007 г., рестайлинг в 2010 г. Бензинов",
+        "en": "® HYUNDAI РЕМОТТ БЕЗ ПРОБЛЕМ i30 Выпуск с 2007 г., рестайлинг в 2010 г. Бензинов"
+       },
+       "words": 1147,
+       "images": 8,
+       "section_id": "fuel"
+      },
+      {
+       "id": "hyundai_i30_fuel_t001_12a86fba",
+       "title": {
+        "ru": "ЗАМЕНА КОМПЕНСАТОРА ПУЛЬСАЦИЙ ДАВЛЕНИЯ ТОПЛИВА",
+        "en": "ЗАМЕНА КОМПЕНСАТОРА ПУЛЬСАЦИЙ ДАВЛЕНИЯ ТОПЛИВА"
+       },
+       "words": 1561,
+       "images": 10,
+       "section_id": "fuel"
+      },
+      {
+       "id": "hyundai_i30_fuel_t002_03de8721",
+       "title": {
+        "ru": "РЕКОМЕНДАЦИИ ПО ПУСКУ ДВИГАТЕЛЯ В СИЛЬНЫЙ МОРОЗ",
+        "en": "РЕКОМЕНДАЦИИ ПО ПУСКУ ДВИГАТЕЛЯ В СИЛЬНЫЙ МОРОЗ"
+       },
+       "words": 525,
+       "images": 2,
+       "section_id": "fuel"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,935 @@
+{
+ "version": "1.0",
+ "model": "x3_pro",
+ "manuals": [
+  {
+   "model": "x3_pro",
+   "label": {
+    "ru": "Livan X3 Pro — Руководство по ремонту",
+    "en": "Livan X3 Pro — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "livan_x3_pro_engine_t000_94c37b27",
+       "title": {
+        "ru": "LIVAN как можно скорее для проведения",
+        "en": "LIVAN как можно скорее для проведения"
+       },
+       "words": 738,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_x3_pro_engine_t001_f96169b4",
+       "title": {
+        "ru": "Не запускайте двигатель в гараже или в",
+        "en": "Не запускайте двигатель в гараже или в"
+       },
+       "words": 865,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_x3_pro_engine_t002_32ed4533",
+       "title": {
+        "ru": "Установите селектор коробки передач",
+        "en": "Установите селектор коробки передач"
+       },
+       "words": 657,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_x3_pro_engine_t003_5f5a180e",
+       "title": {
+        "ru": "Чтобы определить расположение щупа",
+        "en": "Чтобы определить расположение щупа"
+       },
+       "words": 428,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "livan_x3_pro_engine_t004_f8955594",
+       "title": {
+        "ru": "Откройте крышку с символом очистителя",
+        "en": "Откройте крышку с символом очистителя"
+       },
+       "words": 541,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "livan_x3_pro_brakes_t000_225c5689",
+       "title": {
+        "ru": "LIVAN как можно скорее для проведения",
+        "en": "LIVAN как можно скорее для проведения"
+       },
+       "words": 487,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_x3_pro_brakes_t001_724432fb",
+       "title": {
+        "ru": "Торможение включает в себя время на",
+        "en": "Торможение включает в себя время на"
+       },
+       "words": 677,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_x3_pro_brakes_t002_343b3af2",
+       "title": {
+        "ru": "Когда ручной стояночный тормоз затянут",
+        "en": "Когда ручной стояночный тормоз затянут"
+       },
+       "words": 611,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_x3_pro_brakes_t003_e2d9c71b",
+       "title": {
+        "ru": "Изношенные тормозные колодки не могут",
+        "en": "Изношенные тормозные колодки не могут"
+       },
+       "words": 626,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "livan_x3_pro_brakes_t004_a6f98272",
+       "title": {
+        "ru": "Добавление тормозной жидкости не",
+        "en": "Добавление тормозной жидкости не"
+       },
+       "words": 314,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "livan_x3_pro_hvac_t000_4505e4b4",
+       "title": {
+        "ru": "Когда через вентиляционное отверстие",
+        "en": "Когда через вентиляционное отверстие"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "livan_x3_pro_body_t000_cfcf0daa",
+       "title": {
+        "ru": "Ручка регулировки высоты передних фар",
+        "en": "Ручка регулировки высоты передних фар"
+       },
+       "words": 507,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_x3_pro_body_t001_4f6d58af",
+       "title": {
+        "ru": "A в положение MIST и удерживайте ее в",
+        "en": "A в положение MIST и удерживайте ее в"
+       },
+       "words": 439,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_x3_pro_body_t002_ea328a7d",
+       "title": {
+        "ru": "Не кладите домашних животных в",
+        "en": "Не кладите домашних животных в"
+       },
+       "words": 550,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_x3_pro_body_t003_a768b93f",
+       "title": {
+        "ru": "Коротко нажмите кнопку разблокировки",
+        "en": "Коротко нажмите кнопку разблокировки"
+       },
+       "words": 511,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_x3_pro_body_t004_e7cc34ce",
+       "title": {
+        "ru": "Детский замок безопасности расположен",
+        "en": "Детский замок безопасности расположен"
+       },
+       "words": 456,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_x3_pro_body_t005_53af2288",
+       "title": {
+        "ru": "Если обнаружено затвердевание резины",
+        "en": "Если обнаружено затвердевание резины"
+       },
+       "words": 486,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "livan_x3_pro_body_t006_d271d0dc",
+       "title": {
+        "ru": "5. Установите щетки стеклоочистителя в",
+        "en": "5. Установите щетки стеклоочистителя в"
+       },
+       "words": 323,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "livan_x3_pro_steering_t000_83875e22",
+       "title": {
+        "ru": "Для автомобилей с механической",
+        "en": "Для автомобилей с механической"
+       },
+       "words": 306,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "livan_x3_pro_lighting_t000_3e2db11c",
+       "title": {
+        "ru": "Сигнальная лампа низкого давления",
+        "en": "Сигнальная лампа низкого давления"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_x3_pro_lighting_t001_a8a5826c",
+       "title": {
+        "ru": "Данная сигнальная лампа загорается при",
+        "en": "Данная сигнальная лампа загорается при"
+       },
+       "words": 351,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_x3_pro_lighting_t002_8cf0def7",
+       "title": {
+        "ru": "LIVAN как можно скорее для проведения",
+        "en": "LIVAN как можно скорее для проведения"
+       },
+       "words": 347,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_x3_pro_lighting_t004_8574159b",
+       "title": {
+        "ru": "Если при движении автомобиля светится",
+        "en": "Если при движении автомобиля светится"
+       },
+       "words": 425,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "livan_x3_pro_lighting_t005_090435e5",
+       "title": {
+        "ru": "Ремонт и обслуживание",
+        "en": "Ремонт и обслуживание"
+       },
+       "words": 224,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "livan_x3_pro_interior_t000_76ab495a",
+       "title": {
+        "ru": "При включении функции Cabin air refresh",
+        "en": "При включении функции Cabin air refresh"
+       },
+       "words": 514,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_x3_pro_interior_t001_3c1e2b5e",
+       "title": {
+        "ru": "Если нужно полностью отстегнуть ремень",
+        "en": "Если нужно полностью отстегнуть ремень"
+       },
+       "words": 518,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_x3_pro_interior_t002_6f7f09cb",
+       "title": {
+        "ru": "Это может вызывать раздражение кожи и",
+        "en": "Это может вызывать раздражение кожи и"
+       },
+       "words": 703,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_x3_pro_interior_t003_db58534e",
+       "title": {
+        "ru": "Водитель и пассажир переднего сиденья",
+        "en": "Водитель и пассажир переднего сиденья"
+       },
+       "words": 649,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_x3_pro_interior_t004_ab733b28",
+       "title": {
+        "ru": "ISO устанавливается на сиденье заднего",
+        "en": "ISO устанавливается на сиденье заднего"
+       },
+       "words": 709,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "livan_x3_pro_interior_t005_b4599831",
+       "title": {
+        "ru": "При чистке салона обратите внимание на",
+        "en": "При чистке салона обратите внимание на"
+       },
+       "words": 291,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "livan_x3_pro_ev_t000_671c1460",
+       "title": {
+        "ru": "Если процедура запуска без ключа не",
+        "en": "Если процедура запуска без ключа не"
+       },
+       "words": 460,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "livan_x3_pro_ev_t001_bd032a04",
+       "title": {
+        "ru": "Неисправности во время вождения",
+        "en": "Неисправности во время вождения"
+       },
+       "words": 311,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "livan_x3_pro_ev_t002_bff04eca",
+       "title": {
+        "ru": "В состоянии покоя вследствие слабого",
+        "en": "В состоянии покоя вследствие слабого"
+       },
+       "words": 264,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "livan_x3_pro_general_t000_c1eb3f3b",
+       "title": {
+        "ru": "Перед началом эксплуатации нового автомобиля внимательно изучите настоящее",
+        "en": "Перед началом эксплуатации нового автомобиля внимательно изучите настоящее"
+       },
+       "words": 684,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t001_e550915b",
+       "title": {
+        "ru": "Номер автоматической коробки передач",
+        "en": "Номер автоматической коробки передач"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t002_e88396d0",
+       "title": {
+        "ru": "При возникновении столкновения данные",
+        "en": "При возникновении столкновения данные"
+       },
+       "words": 302,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t003_868500a0",
+       "title": {
+        "ru": "Изображение приборной панели является схематическим и приведено только для",
+        "en": "Изображение приборной панели является схематическим и приведено только для"
+       },
+       "words": 482,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t004_dd0c0b32",
+       "title": {
+        "ru": "При однократном нажатии клавиши TRIP",
+        "en": "При однократном нажатии клавиши TRIP"
+       },
+       "words": 366,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t005_5a0cfbe2",
+       "title": {
+        "ru": "Как можно скорее съезжайте с дороги и",
+        "en": "Как можно скорее съезжайте с дороги и"
+       },
+       "words": 313,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t006_342d99fd",
+       "title": {
+        "ru": "При выполнении любого из следующих",
+        "en": "При выполнении любого из следующих"
+       },
+       "words": 341,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t007_d9628828",
+       "title": {
+        "ru": "Не пытайтесь использовать части своего",
+        "en": "Не пытайтесь использовать части своего"
+       },
+       "words": 390,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t008_91ea858d",
+       "title": {
+        "ru": "Если при опускании люка под наклоном",
+        "en": "Если при опускании люка под наклоном"
+       },
+       "words": 318,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t009_e60519e2",
+       "title": {
+        "ru": "Сторона водителя и сторона переднего",
+        "en": "Сторона водителя и сторона переднего"
+       },
+       "words": 388,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t010_5ca2e56a",
+       "title": {
+        "ru": "Внутренние ручки с обеих сторон заднего",
+        "en": "Внутренние ручки с обеих сторон заднего"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t011_4475e8ff",
+       "title": {
+        "ru": "После включения функции Air conditioning",
+        "en": "После включения функции Air conditioning"
+       },
+       "words": 364,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t012_886fc526",
+       "title": {
+        "ru": "Это позволит полностью смазать систему",
+        "en": "Это позволит полностью смазать систему"
+       },
+       "words": 403,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t013_946fbe1d",
+       "title": {
+        "ru": "При откинутом положении сиденья часть",
+        "en": "При откинутом положении сиденья часть"
+       },
+       "words": 446,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t014_28270b82",
+       "title": {
+        "ru": "В первую очередь перед использованием",
+        "en": "В первую очередь перед использованием"
+       },
+       "words": 356,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t015_adc47d6d",
+       "title": {
+        "ru": "В случае небольшой аварии отправьте в",
+        "en": "В случае небольшой аварии отправьте в"
+       },
+       "words": 472,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t016_e9c1a927",
+       "title": {
+        "ru": "Данные по совместимости всех сидений с детским креслом в условиях фиксации",
+        "en": "Данные по совместимости всех сидений с детским креслом в условиях фиксации"
+       },
+       "words": 339,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t017_fac66796",
+       "title": {
+        "ru": "Передвиньте детское устройство защиты",
+        "en": "Передвиньте детское устройство защиты"
+       },
+       "words": 634,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t018_0dd26080",
+       "title": {
+        "ru": "При использовании и установке детской",
+        "en": "При использовании и установке детской"
+       },
+       "words": 370,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t019_11629015",
+       "title": {
+        "ru": "Запуск двигателя и вождение",
+        "en": "Запуск двигателя и вождение"
+       },
+       "words": 396,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t020_0b0ad23f",
+       "title": {
+        "ru": "Как только ребенок окажется в ловушке в",
+        "en": "Как только ребенок окажется в ловушке в"
+       },
+       "words": 605,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t021_c71a3765",
+       "title": {
+        "ru": "Запуск двигателя и вождение",
+        "en": "Запуск двигателя и вождение"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t022_016d2808",
+       "title": {
+        "ru": "После запуска автомобиль работает в",
+        "en": "После запуска автомобиль работает в"
+       },
+       "words": 405,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t023_0e26bf23",
+       "title": {
+        "ru": "После нахождения в воде рекомендуется",
+        "en": "После нахождения в воде рекомендуется"
+       },
+       "words": 407,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t024_0c79a54b",
+       "title": {
+        "ru": "Для поддержания двигателя в чистоте и",
+        "en": "Для поддержания двигателя в чистоте и"
+       },
+       "words": 534,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t025_1d704709",
+       "title": {
+        "ru": "Всего на рычаге переключения передач",
+        "en": "Всего на рычаге переключения передач"
+       },
+       "words": 671,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t026_60b402b0",
+       "title": {
+        "ru": "Будьте осторожны при переключении на",
+        "en": "Будьте осторожны при переключении на"
+       },
+       "words": 455,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t027_2e622b1b",
+       "title": {
+        "ru": "Система парковочных радаров может",
+        "en": "Система парковочных радаров может"
+       },
+       "words": 561,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t028_1ca9afe3",
+       "title": {
+        "ru": "Автомобиль нельзя завести толканием и",
+        "en": "Автомобиль нельзя завести толканием и"
+       },
+       "words": 278,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t029_8b50188e",
+       "title": {
+        "ru": "Поэтому необходимо подсоединять или",
+        "en": "Поэтому необходимо подсоединять или"
+       },
+       "words": 371,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t030_6b0bd661",
+       "title": {
+        "ru": "При установке переднего буксировочного",
+        "en": "При установке переднего буксировочного"
+       },
+       "words": 394,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t031_3902a556",
+       "title": {
+        "ru": "Система будет продолжать сообщать об",
+        "en": "Система будет продолжать сообщать об"
+       },
+       "words": 493,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t032_108d141d",
+       "title": {
+        "ru": "Всесезонные шины могут не обеспечить",
+        "en": "Всесезонные шины могут не обеспечить"
+       },
+       "words": 649,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t033_f86bbef5",
+       "title": {
+        "ru": "При установке цепей противоскольжения",
+        "en": "При установке цепей противоскольжения"
+       },
+       "words": 394,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t034_45646122",
+       "title": {
+        "ru": "Цвет указывает на величину амперов",
+        "en": "Цвет указывает на величину амперов"
+       },
+       "words": 393,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t035_28f84650",
+       "title": {
+        "ru": "Неисправности во время вождения",
+        "en": "Неисправности во время вождения"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t036_79f62210",
+       "title": {
+        "ru": "Для получения информации о методе",
+        "en": "Для получения информации о методе"
+       },
+       "words": 298,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t037_34bb0f30",
+       "title": {
+        "ru": "Правильное техническое обслуживание",
+        "en": "Правильное техническое обслуживание"
+       },
+       "words": 430,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t038_23dd3de6",
+       "title": {
+        "ru": "Данный план технического обслуживания",
+        "en": "Данный план технического обслуживания"
+       },
+       "words": 456,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t039_38337164",
+       "title": {
+        "ru": "Этот автомобиль оснащен устройством",
+        "en": "Этот автомобиль оснащен устройством"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t040_5003b750",
+       "title": {
+        "ru": "Роль системы охлаждения заключается в",
+        "en": "Роль системы охлаждения заключается в"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t041_5b4ffba9",
+       "title": {
+        "ru": "В систему омывания лобового стекла не",
+        "en": "В систему омывания лобового стекла не"
+       },
+       "words": 438,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "livan_x3_pro_general_t042_d3bbd881",
+       "title": {
+        "ru": "Основные массогабаритные параметры автомобиля",
+        "en": "Основные массогабаритные параметры автомобиля"
+       },
+       "words": 395,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "livan_x3_pro_drivetrain_t000_50585c31",
+       "title": {
+        "ru": "Возможная дистанция рассчитывается из",
+        "en": "Возможная дистанция рассчитывается из"
+       },
+       "words": 430,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "livan_x3_pro_infotainment_t000_8041e532",
+       "title": {
+        "ru": "Пусковой переключатель не находится",
+        "en": "Пусковой переключатель не находится"
+       },
+       "words": 331,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "livan_x3_pro_infotainment_t001_1549f683",
+       "title": {
+        "ru": "3. На экране мультимедийного дисплея",
+        "en": "3. На экране мультимедийного дисплея"
+       },
+       "words": 106,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "livan_x3_pro_sensors_t000_ef88d5ea",
+       "title": {
+        "ru": "Если на автомобиле или рядом с ним",
+        "en": "Если на автомобиле или рядом с ним"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

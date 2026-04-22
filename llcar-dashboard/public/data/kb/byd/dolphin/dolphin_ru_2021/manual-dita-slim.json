@@ -1,0 +1,1375 @@
+{
+ "version": "1.0",
+ "model": "dolphin",
+ "manuals": [
+  {
+   "model": "dolphin",
+   "label": {
+    "ru": "Byd Dolphin — Руководство по ремонту",
+    "en": "Byd Dolphin — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "byd_dolphin_brakes_t000_590ceb82",
+       "title": {
+        "ru": "Collision Handling",
+        "en": "Collision Handling"
+       },
+       "words": 2880,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_dolphin_brakes_t001_cc438ca0",
+       "title": {
+        "ru": "A Caution:",
+        "en": "A Caution:"
+       },
+       "words": 1306,
+       "images": 22,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_dolphin_brakes_t002_89183853",
+       "title": {
+        "ru": "Installation and Removal of Right Front Drive Half Shaft Assembly Removal",
+        "en": "Installation and Removal of Right Front Drive Half Shaft Assembly Removal"
+       },
+       "words": 2062,
+       "images": 30,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_dolphin_brakes_t003_ba743b0b",
+       "title": {
+        "ru": "Systems Manual",
+        "en": "Systems Manual"
+       },
+       "words": 2163,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_dolphin_brakes_t004_374d4876",
+       "title": {
+        "ru": "Systems Manual",
+        "en": "Systems Manual"
+       },
+       "words": 923,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_dolphin_brakes_t005_5ef8989f",
+       "title": {
+        "ru": "Installation and Removal of Right Rear Bracket Assembly Removal",
+        "en": "Installation and Removal of Right Rear Bracket Assembly Removal"
+       },
+       "words": 981,
+       "images": 19,
+       "section_id": "brakes"
+      },
+      {
+       "id": "byd_dolphin_brakes_t006_4026a879",
+       "title": {
+        "ru": "Exterior Light System Exterior lighting system",
+        "en": "Exterior Light System Exterior lighting system"
+       },
+       "words": 3382,
+       "images": 17,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "byd_dolphin_suspension_t000_3caac9c2",
+       "title": {
+        "ru": "Removal and installation of rear suspension control arm assembly",
+        "en": "Removal and installation of rear suspension control arm assembly"
+       },
+       "words": 758,
+       "images": 5,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "byd_dolphin_electrical_t000_17e585a5",
+       "title": {
+        "ru": "Safe operation guide for maintenance Basic safety requirements",
+        "en": "Safe operation guide for maintenance Basic safety requirements"
+       },
+       "words": 2853,
+       "images": 21,
+       "section_id": "electrical"
+      },
+      {
+       "id": "byd_dolphin_electrical_t001_757226aa",
+       "title": {
+        "ru": "Removal and installation of rear spoiler assembly Removal",
+        "en": "Removal and installation of rear spoiler assembly Removal"
+       },
+       "words": 1712,
+       "images": 46,
+       "section_id": "electrical"
+      },
+      {
+       "id": "byd_dolphin_electrical_t002_47f82484",
+       "title": {
+        "ru": "Instrument and Warning System Instrument panel cluster",
+        "en": "Instrument and Warning System Instrument panel cluster"
+       },
+       "words": 1689,
+       "images": 36,
+       "section_id": "electrical"
+      },
+      {
+       "id": "byd_dolphin_electrical_t003_6483d2c3",
+       "title": {
+        "ru": "Removal and installation of 12 V battery negative wiring harness Removal",
+        "en": "Removal and installation of 12 V battery negative wiring harness Removal"
+       },
+       "words": 934,
+       "images": 12,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "byd_dolphin_hvac_t000_ce36dac1",
+       "title": {
+        "ru": "Removal and installation of front wall heat insulator assembly Removal",
+        "en": "Removal and installation of front wall heat insulator assembly Removal"
+       },
+       "words": 1894,
+       "images": 20,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "byd_dolphin_body_t000_9e2c88f1",
+       "title": {
+        "ru": "Removal and Installation of Three-Way Valve Body Assembly Removal",
+        "en": "Removal and Installation of Three-Way Valve Body Assembly Removal"
+       },
+       "words": 3276,
+       "images": 11,
+       "section_id": "body"
+      },
+      {
+       "id": "byd_dolphin_body_t001_464562eb",
+       "title": {
+        "ru": "A Caution:",
+        "en": "A Caution:"
+       },
+       "words": 1132,
+       "images": 13,
+       "section_id": "body"
+      },
+      {
+       "id": "byd_dolphin_body_t002_3217c8cc",
+       "title": {
+        "ru": "Installation and Removal of Right Front Door Inner Weatherstrip Assembly Removal",
+        "en": "Installation and Removal of Right Front Door Inner Weatherstrip Assembly Removal"
+       },
+       "words": 1517,
+       "images": 27,
+       "section_id": "body"
+      },
+      {
+       "id": "byd_dolphin_body_t003_326dd05b",
+       "title": {
+        "ru": "Installation and Removal of Right Front Door Window Runchannel Assembly Removal",
+        "en": "Installation and Removal of Right Front Door Window Runchannel Assembly Removal"
+       },
+       "words": 732,
+       "images": 19,
+       "section_id": "body"
+      },
+      {
+       "id": "byd_dolphin_body_t004_eeaa6329",
+       "title": {
+        "ru": "Installation and Removal of Right Rear Door Outer Weatherstrip Assembly Removal",
+        "en": "Installation and Removal of Right Rear Door Outer Weatherstrip Assembly Removal"
+       },
+       "words": 1193,
+       "images": 24,
+       "section_id": "body"
+      },
+      {
+       "id": "byd_dolphin_body_t005_ffcdbb5c",
+       "title": {
+        "ru": "Installation and Removal of Right Rear Door Window Runchannel Assembly Removal",
+        "en": "Installation and Removal of Right Rear Door Window Runchannel Assembly Removal"
+       },
+       "words": 925,
+       "images": 25,
+       "section_id": "body"
+      },
+      {
+       "id": "byd_dolphin_body_t006_59cff762",
+       "title": {
+        "ru": "Installation and Removal of Right Rear Window Regulator Assembly Removal",
+        "en": "Installation and Removal of Right Rear Window Regulator Assembly Removal"
+       },
+       "words": 1019,
+       "images": 21,
+       "section_id": "body"
+      },
+      {
+       "id": "byd_dolphin_body_t007_17095b1e",
+       "title": {
+        "ru": "Installation and Removal of Tailgate Lock Body Assembly Removal",
+        "en": "Installation and Removal of Tailgate Lock Body Assembly Removal"
+       },
+       "words": 2114,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "byd_dolphin_body_t008_bd0e7373",
+       "title": {
+        "ru": "Removal and installation of front passenger's seat assembly (doublepretensioner ",
+        "en": "Removal and installation of front passenger's seat assembly (doublepretensioner "
+       },
+       "words": 1155,
+       "images": 24,
+       "section_id": "body"
+      },
+      {
+       "id": "byd_dolphin_body_t009_4c9bcd7f",
+       "title": {
+        "ru": "Systems Manual",
+        "en": "Systems Manual"
+       },
+       "words": 979,
+       "images": 27,
+       "section_id": "body"
+      },
+      {
+       "id": "byd_dolphin_body_t010_82ec4c97",
+       "title": {
+        "ru": "Installation and Removal of Left Combination Headlight Assembly Removal",
+        "en": "Installation and Removal of Left Combination Headlight Assembly Removal"
+       },
+       "words": 1912,
+       "images": 22,
+       "section_id": "body"
+      },
+      {
+       "id": "byd_dolphin_body_t011_c41b43d8",
+       "title": {
+        "ru": "Removal and installation of channel temperature sensor (located at left face lev",
+        "en": "Removal and installation of channel temperature sensor (located at left face lev"
+       },
+       "words": 1019,
+       "images": 19,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "byd_dolphin_steering_t000_becfa083",
+       "title": {
+        "ru": "Removal and Installation of Integrated Intelligent Front Drive Assembly Removal",
+        "en": "Removal and Installation of Integrated Intelligent Front Drive Assembly Removal"
+       },
+       "words": 1978,
+       "images": 32,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "fuel_ev",
+     "title": {
+      "ru": "Топливная / ВВ система",
+      "en": "Fuel / HV System"
+     },
+     "icon": "⛽",
+     "topics": [
+      {
+       "id": "byd_dolphin_fuel_ev_t000_911f320a",
+       "title": {
+        "ru": "Removal and Installation of Integrated Intelligent Front Drive Assembly Removal",
+        "en": "Removal and Installation of Integrated Intelligent Front Drive Assembly Removal"
+       },
+       "words": 2613,
+       "images": 16,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "byd_dolphin_fuel_ev_t001_a2554411",
+       "title": {
+        "ru": "Installation and Removal of Integrated AC/DC Charging Vehicle Socket Subassembly",
+        "en": "Installation and Removal of Integrated AC/DC Charging Vehicle Socket Subassembly"
+       },
+       "words": 1124,
+       "images": 21,
+       "section_id": "fuel_ev"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "byd_dolphin_lighting_t000_f558b14d",
+       "title": {
+        "ru": "Inspection and adjustment of headlight dimming function",
+        "en": "Inspection and adjustment of headlight dimming function"
+       },
+       "words": 2157,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "byd_dolphin_lighting_t001_f2823928",
+       "title": {
+        "ru": "Interior Light System Interior lighting system System descriptions System overvi",
+        "en": "Interior Light System Interior lighting system System descriptions System overvi"
+       },
+       "words": 374,
+       "images": 11,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "byd_dolphin_adas_t000_10f1dcbf",
+       "title": {
+        "ru": "Removal and installation of front wall heat insulator assembly Removal",
+        "en": "Removal and installation of front wall heat insulator assembly Removal"
+       },
+       "words": 2457,
+       "images": 11,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "byd_dolphin_interior_t000_f1926dcc",
+       "title": {
+        "ru": "Systems Manual Overview",
+        "en": "Systems Manual Overview"
+       },
+       "words": 920,
+       "images": 12,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "byd_dolphin_general_t000_290d1477",
+       "title": {
+        "ru": "Description of diagram Color description in the figure",
+        "en": "Description of diagram Color description in the figure"
+       },
+       "words": 860,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t001_323558d8",
+       "title": {
+        "ru": "Common Sense of Safety Airbag",
+        "en": "Common Sense of Safety Airbag"
+       },
+       "words": 2778,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t002_e6bace34",
+       "title": {
+        "ru": "Personnel and protection equipment",
+        "en": "Personnel and protection equipment"
+       },
+       "words": 2359,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t003_746ef1f8",
+       "title": {
+        "ru": "Towing the vehicle Installation of the trailer hitch",
+        "en": "Towing the vehicle Installation of the trailer hitch"
+       },
+       "words": 868,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t004_0d276c8d",
+       "title": {
+        "ru": "Replace the Part",
+        "en": "Replace the Part"
+       },
+       "words": 944,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t005_7053f134",
+       "title": {
+        "ru": "Removal and Installation of General Claw Components",
+        "en": "Removal and Installation of General Claw Components"
+       },
+       "words": 606,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t006_10c994c0",
+       "title": {
+        "ru": "Inspection of front brake disc End face runout",
+        "en": "Inspection of front brake disc End face runout"
+       },
+       "words": 1276,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t007_66924c13",
+       "title": {
+        "ru": "Inspection of CV joint dust cover",
+        "en": "Inspection of CV joint dust cover"
+       },
+       "words": 1138,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t008_372a0159",
+       "title": {
+        "ru": "Inspection of front wheel bearing axial clearance",
+        "en": "Inspection of front wheel bearing axial clearance"
+       },
+       "words": 989,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t009_81d75f74",
+       "title": {
+        "ru": "Inspection and adjustment of headlight dimming function",
+        "en": "Inspection and adjustment of headlight dimming function"
+       },
+       "words": 784,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t010_6963b5fe",
+       "title": {
+        "ru": "Inspection of wiper arm lock nut",
+        "en": "Inspection of wiper arm lock nut"
+       },
+       "words": 646,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t011_742ea6f6",
+       "title": {
+        "ru": "Four-wheel alignment specifications",
+        "en": "Four-wheel alignment specifications"
+       },
+       "words": 1154,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t012_46a4c2ad",
+       "title": {
+        "ru": "Installation and Removal of Drive Motor Control Module Assembly Repair Kit Remov",
+        "en": "Installation and Removal of Drive Motor Control Module Assembly Repair Kit Remov"
+       },
+       "words": 1323,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t013_60fe7925",
+       "title": {
+        "ru": "Installation and Removal of Front Drive Motor Assembly Acoustic Package III Remo",
+        "en": "Installation and Removal of Front Drive Motor Assembly Acoustic Package III Remo"
+       },
+       "words": 1054,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t014_088002ea",
+       "title": {
+        "ru": "Installation and Removal of Front Drive Motor Assembly Acoustic Package V Remova",
+        "en": "Installation and Removal of Front Drive Motor Assembly Acoustic Package V Remova"
+       },
+       "words": 1101,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t015_e91a671e",
+       "title": {
+        "ru": "Removal and installation of upper right mounting bracket of radiator Removal",
+        "en": "Removal and installation of upper right mounting bracket of radiator Removal"
+       },
+       "words": 694,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t016_99cff952",
+       "title": {
+        "ru": "Installation and Removal of Expansion Tank Positioning Bushing Removal",
+        "en": "Installation and Removal of Expansion Tank Positioning Bushing Removal"
+       },
+       "words": 725,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t017_66b7216f",
+       "title": {
+        "ru": "Removal and installation of accelerator pedal bracket assembly Removal",
+        "en": "Removal and installation of accelerator pedal bracket assembly Removal"
+       },
+       "words": 832,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t018_df2b47fe",
+       "title": {
+        "ru": "Removal and Installation of Powertrain Rear Mount Bracket Mass Block Assembly",
+        "en": "Removal and Installation of Powertrain Rear Mount Bracket Mass Block Assembly"
+       },
+       "words": 863,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t019_63c1077a",
+       "title": {
+        "ru": "Removal and Installation of Ball Stud Press Assembly",
+        "en": "Removal and Installation of Ball Stud Press Assembly"
+       },
+       "words": 585,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t020_2267a2f6",
+       "title": {
+        "ru": "Removal and Installation of Rear Coil Spring",
+        "en": "Removal and Installation of Rear Coil Spring"
+       },
+       "words": 445,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t021_b88d7936",
+       "title": {
+        "ru": "Installation and Removal of Upper Cushion of Rear Coil Spring",
+        "en": "Installation and Removal of Upper Cushion of Rear Coil Spring"
+       },
+       "words": 709,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t022_aa189d0a",
+       "title": {
+        "ru": "Removal and installation of rear suspension lower arm assembly",
+        "en": "Removal and installation of rear suspension lower arm assembly"
+       },
+       "words": 704,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t023_e2bca284",
+       "title": {
+        "ru": "Removal and installation of rear coil spring upper buffer pad",
+        "en": "Removal and installation of rear coil spring upper buffer pad"
+       },
+       "words": 496,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t024_6e5f6797",
+       "title": {
+        "ru": "Systems Manual",
+        "en": "Systems Manual"
+       },
+       "words": 1024,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t025_7a07aa85",
+       "title": {
+        "ru": "Inspection of wheel assembly Axial measurement",
+        "en": "Inspection of wheel assembly Axial measurement"
+       },
+       "words": 888,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t026_9cd1d2e2",
+       "title": {
+        "ru": "Installation and Removal of Yaw Rate Sensor Removal",
+        "en": "Installation and Removal of Yaw Rate Sensor Removal"
+       },
+       "words": 854,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t027_1c0ac864",
+       "title": {
+        "ru": "Installation mode calibration",
+        "en": "Installation mode calibration"
+       },
+       "words": 891,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t028_37cc43e5",
+       "title": {
+        "ru": "Write EM2EF (ACC, AEB, no DST) configuration",
+        "en": "Write EM2EF (ACC, AEB, no DST) configuration"
+       },
+       "words": 474,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t029_a368bce4",
+       "title": {
+        "ru": "Installation and Removal of EPB Switch Removal",
+        "en": "Installation and Removal of EPB Switch Removal"
+       },
+       "words": 564,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t030_f6b56ba7",
+       "title": {
+        "ru": "Removal and Installation of Front Brake Pad Fixing Support",
+        "en": "Removal and Installation of Front Brake Pad Fixing Support"
+       },
+       "words": 367,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t031_45793782",
+       "title": {
+        "ru": "Installation and Removal of Right Front Bracket Assembly Removal",
+        "en": "Installation and Removal of Right Front Bracket Assembly Removal"
+       },
+       "words": 353,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t032_da34a83f",
+       "title": {
+        "ru": "Inspection of front brake disc End face runout",
+        "en": "Inspection of front brake disc End face runout"
+       },
+       "words": 624,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t033_8980f0bc",
+       "title": {
+        "ru": "Removal and Installation of Rear Brake Pad Fixing Support",
+        "en": "Removal and Installation of Rear Brake Pad Fixing Support"
+       },
+       "words": 348,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t034_2f584394",
+       "title": {
+        "ru": "Installation and Removal of Left Rear Bracket Assembly Removal",
+        "en": "Installation and Removal of Left Rear Bracket Assembly Removal"
+       },
+       "words": 819,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t035_d996dec5",
+       "title": {
+        "ru": "Removal and installation of stop light switch mounting bracket Removal",
+        "en": "Removal and installation of stop light switch mounting bracket Removal"
+       },
+       "words": 1002,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t036_a106c09d",
+       "title": {
+        "ru": "Removal and Installation of Right Fender Rear Sealing Plate Assembly Removal",
+        "en": "Removal and Installation of Right Fender Rear Sealing Plate Assembly Removal"
+       },
+       "words": 765,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t037_7917c57c",
+       "title": {
+        "ru": "Removal and installation of front bumper beam assembly Removal",
+        "en": "Removal and installation of front bumper beam assembly Removal"
+       },
+       "words": 681,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t038_dedc7aaf",
+       "title": {
+        "ru": "A Caution:",
+        "en": "A Caution:"
+       },
+       "words": 1094,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t039_2bb8bd34",
+       "title": {
+        "ru": "A Caution:",
+        "en": "A Caution:"
+       },
+       "words": 789,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t040_8aac897b",
+       "title": {
+        "ru": "Removal and installation of front wiper drive system assemblyRemoval",
+        "en": "Removal and installation of front wiper drive system assemblyRemoval"
+       },
+       "words": 738,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t041_9c57dfb8",
+       "title": {
+        "ru": "Removal and installation of rear washer pipeline subassembly III Removal",
+        "en": "Removal and installation of rear washer pipeline subassembly III Removal"
+       },
+       "words": 985,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t042_0b614052",
+       "title": {
+        "ru": "Installation and Removal of the Left Cover Assembly of the Ventilation Cover Rem",
+        "en": "Installation and Removal of the Left Cover Assembly of the Ventilation Cover Rem"
+       },
+       "words": 686,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t043_66dc7963",
+       "title": {
+        "ru": "Installation and Removal of Front Compartment Cover Bracing Rod Sleeve Removal",
+        "en": "Installation and Removal of Front Compartment Cover Bracing Rod Sleeve Removal"
+       },
+       "words": 797,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t044_82cd1e12",
+       "title": {
+        "ru": "Installation and Removal of Left Front Door Outer Weatherstrip Assembly Removal",
+        "en": "Installation and Removal of Left Front Door Outer Weatherstrip Assembly Removal"
+       },
+       "words": 518,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t045_d8ab714f",
+       "title": {
+        "ru": "Installation and Removal of Left Front Door Inner Weatherstrip Assembly Removal",
+        "en": "Installation and Removal of Left Front Door Inner Weatherstrip Assembly Removal"
+       },
+       "words": 770,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t046_e7cb5f01",
+       "title": {
+        "ru": "Installation and Removal of Left Rear Door Outer Weatherstrip Assembly Removal",
+        "en": "Installation and Removal of Left Rear Door Outer Weatherstrip Assembly Removal"
+       },
+       "words": 418,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t047_14a19d59",
+       "title": {
+        "ru": "Removal and Installation of Tailgate Lock Cover Removal",
+        "en": "Removal and Installation of Tailgate Lock Cover Removal"
+       },
+       "words": 370,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t048_e6bfa2a5",
+       "title": {
+        "ru": "Installation and Removal of Tailgate Lock Ring Access Cover Removal",
+        "en": "Installation and Removal of Tailgate Lock Ring Access Cover Removal"
+       },
+       "words": 584,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t049_e981ba96",
+       "title": {
+        "ru": "Removal and installation of upper mounting bracket of front bumper Removal",
+        "en": "Removal and installation of upper mounting bracket of front bumper Removal"
+       },
+       "words": 1400,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t050_811fb98b",
+       "title": {
+        "ru": "Removal and installation of front bumper right bracket Removal",
+        "en": "Removal and installation of front bumper right bracket Removal"
+       },
+       "words": 486,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t051_6525ff99",
+       "title": {
+        "ru": "Removal and installation of front left bracket assembly of rear bumper Removal",
+        "en": "Removal and installation of front left bracket assembly of rear bumper Removal"
+       },
+       "words": 650,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t052_9cb0685d",
+       "title": {
+        "ru": "Removal and installation of PAD mounting base shield assembly Removal",
+        "en": "Removal and installation of PAD mounting base shield assembly Removal"
+       },
+       "words": 931,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t053_67c6fdfd",
+       "title": {
+        "ru": "Removal and installation of right stay bar assembly Removal",
+        "en": "Removal and installation of right stay bar assembly Removal"
+       },
+       "words": 1126,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t054_3f7b6e59",
+       "title": {
+        "ru": "Installation and Removal of Console Rear Trim Panel Assembly Removal",
+        "en": "Installation and Removal of Console Rear Trim Panel Assembly Removal"
+       },
+       "words": 940,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t055_07bd23fb",
+       "title": {
+        "ru": "Installation and Removal of Console Front Mounting Bracket Assembly Removal",
+        "en": "Installation and Removal of Console Front Mounting Bracket Assembly Removal"
+       },
+       "words": 488,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t056_4252d39d",
+       "title": {
+        "ru": "Installation and Removal of Outside Rearview Mirror Right Mirror Holder Assembly",
+        "en": "Installation and Removal of Outside Rearview Mirror Right Mirror Holder Assembly"
+       },
+       "words": 709,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t057_852333d7",
+       "title": {
+        "ru": "A Caution:",
+        "en": "A Caution:"
+       },
+       "words": 1655,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t058_ef8deab5",
+       "title": {
+        "ru": "Removal and Installation of Rear Seat Cushion Holder Assembly Removal",
+        "en": "Removal and Installation of Rear Seat Cushion Holder Assembly Removal"
+       },
+       "words": 393,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t059_b0b6df7e",
+       "title": {
+        "ru": "Removal and Installation of Rear Seat Cushion Support Plate Removal",
+        "en": "Removal and Installation of Rear Seat Cushion Support Plate Removal"
+       },
+       "words": 593,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t060_6438ec27",
+       "title": {
+        "ru": "Installation and Removal of Right Front Door Upper Trim Panel Assembly Removal",
+        "en": "Installation and Removal of Right Front Door Upper Trim Panel Assembly Removal"
+       },
+       "words": 479,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t061_cd4ccd0f",
+       "title": {
+        "ru": "Installation and Removal of Right Rear Door Upper Trim Panel Assembly Removal",
+        "en": "Installation and Removal of Right Rear Door Upper Trim Panel Assembly Removal"
+       },
+       "words": 469,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t062_80cdc4b2",
+       "title": {
+        "ru": "Removal and Installation of Middle Tail Light Right Bezel Removal",
+        "en": "Removal and Installation of Middle Tail Light Right Bezel Removal"
+       },
+       "words": 854,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t063_bc363631",
+       "title": {
+        "ru": "Installation and Removal of Right Front Seat Belt Buckle Assembly Removal",
+        "en": "Installation and Removal of Right Front Seat Belt Buckle Assembly Removal"
+       },
+       "words": 731,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t064_5bc6f461",
+       "title": {
+        "ru": "Installation and Removal of Left B-Pillar Upper Guard Assembly Removal",
+        "en": "Installation and Removal of Left B-Pillar Upper Guard Assembly Removal"
+       },
+       "words": 797,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t065_ff864931",
+       "title": {
+        "ru": "A Caution:",
+        "en": "A Caution:"
+       },
+       "words": 722,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t066_fdf0bb9b",
+       "title": {
+        "ru": "Installation and Removal of Right C-Pillar Outer Trim Panel Assembly Removal",
+        "en": "Installation and Removal of Right C-Pillar Outer Trim Panel Assembly Removal"
+       },
+       "words": 483,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t067_08dfa7ba",
+       "title": {
+        "ru": "Installation and Removal of Right Front Wheel Mudguard Assembly Removal",
+        "en": "Installation and Removal of Right Front Wheel Mudguard Assembly Removal"
+       },
+       "words": 731,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t068_885fa788",
+       "title": {
+        "ru": "Installation and Removal of Right Rear Wheel Mudguard Assembly Removal",
+        "en": "Installation and Removal of Right Rear Wheel Mudguard Assembly Removal"
+       },
+       "words": 795,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t069_7924b999",
+       "title": {
+        "ru": "Installation and Removal of Right Sun Visor Mounting Base Cover Removal",
+        "en": "Installation and Removal of Right Sun Visor Mounting Base Cover Removal"
+       },
+       "words": 457,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t070_e8d9a4fb",
+       "title": {
+        "ru": "Installation and Removal of Battery Pack Sound Insulation Pad Assembly Removal",
+        "en": "Installation and Removal of Battery Pack Sound Insulation Pad Assembly Removal"
+       },
+       "words": 483,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t071_930622a7",
+       "title": {
+        "ru": "Removal and installation of front wall heat insulator assembly Removal",
+        "en": "Removal and installation of front wall heat insulator assembly Removal"
+       },
+       "words": 1291,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t072_c4b1d373",
+       "title": {
+        "ru": "A Caution:",
+        "en": "A Caution:"
+       },
+       "words": 890,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t073_e3903704",
+       "title": {
+        "ru": "Removal and Installation of Interior Detection Antenna (Located in the Console C",
+        "en": "Removal and Installation of Interior Detection Antenna (Located in the Console C"
+       },
+       "words": 917,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t074_371c6bb1",
+       "title": {
+        "ru": "Removal and Installation of the Interior Detection Antenna Assembly (Located on ",
+        "en": "Removal and Installation of the Interior Detection Antenna Assembly (Located on "
+       },
+       "words": 611,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t075_d87c01b3",
+       "title": {
+        "ru": "Removal and Installation of Lower Bracket of Front Compartment Distribution Box",
+        "en": "Removal and Installation of Lower Bracket of Front Compartment Distribution Box"
+       },
+       "words": 566,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t076_61e42887",
+       "title": {
+        "ru": "Removal and installation of instrument panel cluster assembly Removal",
+        "en": "Removal and installation of instrument panel cluster assembly Removal"
+       },
+       "words": 684,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t077_65c42dcb",
+       "title": {
+        "ru": "Removal and installation of intelligent monitoring module Removal",
+        "en": "Removal and installation of intelligent monitoring module Removal"
+       },
+       "words": 636,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t078_5a0bfe33",
+       "title": {
+        "ru": "Installation and Removal of Left Body Control Module Bracket Removal",
+        "en": "Installation and Removal of Left Body Control Module Bracket Removal"
+       },
+       "words": 1027,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t079_f852542c",
+       "title": {
+        "ru": "Installation and Removal of Integrated Electronic Parking Control Module Bracket",
+        "en": "Installation and Removal of Integrated Electronic Parking Control Module Bracket"
+       },
+       "words": 589,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t080_f856f6d7",
+       "title": {
+        "ru": "Removal and installation of display screen bracket assembly Removal",
+        "en": "Removal and installation of display screen bracket assembly Removal"
+       },
+       "words": 488,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t081_88577e39",
+       "title": {
+        "ru": "Installation and Removal of Driving Recorder Camera Shield Cover Removal",
+        "en": "Installation and Removal of Driving Recorder Camera Shield Cover Removal"
+       },
+       "words": 375,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t082_3120affe",
+       "title": {
+        "ru": "Installation and Removal of Driving Recorder Camera Shield Removal",
+        "en": "Installation and Removal of Driving Recorder Camera Shield Removal"
+       },
+       "words": 573,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t083_c305a63b",
+       "title": {
+        "ru": "Removal and installation of universal controller bracket Removal",
+        "en": "Removal and installation of universal controller bracket Removal"
+       },
+       "words": 667,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t084_6a1276a1",
+       "title": {
+        "ru": "Removal and installation of air humidity sensor Removal",
+        "en": "Removal and installation of air humidity sensor Removal"
+       },
+       "words": 887,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t085_71cdc082",
+       "title": {
+        "ru": "A Caution:",
+        "en": "A Caution:"
+       },
+       "words": 790,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t086_dd8ee57d",
+       "title": {
+        "ru": "Removal and installation of channel temperature sensor (located in driver's seat",
+        "en": "Removal and installation of channel temperature sensor (located in driver's seat"
+       },
+       "words": 810,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t087_cda02541",
+       "title": {
+        "ru": "Removal and installation of thermal management integrated module bracket 1 Remov",
+        "en": "Removal and installation of thermal management integrated module bracket 1 Remov"
+       },
+       "words": 629,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t088_e160623e",
+       "title": {
+        "ru": "A Caution:",
+        "en": "A Caution:"
+       },
+       "words": 889,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t089_b4b58c09",
+       "title": {
+        "ru": "A Caution:",
+        "en": "A Caution:"
+       },
+       "words": 951,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t090_702f85ca",
+       "title": {
+        "ru": "Removal and installation of right middle vent assembly of instrument panel Remov",
+        "en": "Removal and installation of right middle vent assembly of instrument panel Remov"
+       },
+       "words": 517,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t091_eefa0594",
+       "title": {
+        "ru": "Removal and installation of front compartment wiring harness bracket III Removal",
+        "en": "Removal and installation of front compartment wiring harness bracket III Removal"
+       },
+       "words": 688,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "byd_dolphin_general_t092_8524c58f",
+       "title": {
+        "ru": "Panel Installation and Removal of Shift Control Mechanism Panel Assembly Removal",
+        "en": "Panel Installation and Removal of Shift Control Mechanism Panel Assembly Removal"
+       },
+       "words": 595,
+       "images": 10,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

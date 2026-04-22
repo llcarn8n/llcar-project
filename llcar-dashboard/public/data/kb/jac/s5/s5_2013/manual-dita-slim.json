@@ -1,0 +1,1115 @@
+{
+ "version": "1.0",
+ "model": "s5",
+ "manuals": [
+  {
+   "model": "s5",
+   "label": {
+    "ru": "Jac S5 — Руководство по ремонту",
+    "en": "Jac S5 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "jac_s5_engine_t000_817e2709",
+       "title": {
+        "ru": "Parts to be tightened according to the Specified Angle:",
+        "en": "Parts to be tightened according to the Specified Angle:"
+       },
+       "words": 1551,
+       "images": 24,
+       "section_id": "engine"
+      },
+      {
+       "id": "jac_s5_engine_t001_14d26b14",
+       "title": {
+        "ru": "Rear Brake Pipe and Brake Hose:",
+        "en": "Rear Brake Pipe and Brake Hose:"
+       },
+       "words": 1077,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "jac_s5_engine_t002_cee874f5",
+       "title": {
+        "ru": "Combination meter can give the following indications:",
+        "en": "Combination meter can give the following indications:"
+       },
+       "words": 1404,
+       "images": 3,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "jac_s5_brakes_t000_0f2a0d3b",
+       "title": {
+        "ru": "Inspect the Height of Brake Fluid Level:",
+        "en": "Inspect the Height of Brake Fluid Level:"
+       },
+       "words": 882,
+       "images": 9,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jac_s5_brakes_t001_ac6e31fc",
+       "title": {
+        "ru": "Installation of Rear Brake:",
+        "en": "Installation of Rear Brake:"
+       },
+       "words": 777,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jac_s5_brakes_t002_3b4af805",
+       "title": {
+        "ru": "Note: Make sure that there is a good coordination between rubber and HECU. If ne",
+        "en": "Note: Make sure that there is a good coordination between rubber and HECU. If ne"
+       },
+       "words": 1409,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jac_s5_brakes_t003_0854bf69",
+       "title": {
+        "ru": "Combination meter can give the following indications:",
+        "en": "Combination meter can give the following indications:"
+       },
+       "words": 1146,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "jac_s5_suspension_t000_deb27d3c",
+       "title": {
+        "ru": "Forward",
+        "en": "Forward"
+       },
+       "words": 629,
+       "images": 9,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "jac_s5_electrical_t000_4ddd32b6",
+       "title": {
+        "ru": "Troubleshooting schedule for rear fog lamp fault",
+        "en": "Troubleshooting schedule for rear fog lamp fault"
+       },
+       "words": 1862,
+       "images": 4,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "jac_s5_transmission_t000_2886102c",
+       "title": {
+        "ru": "Descriptions and Operation",
+        "en": "Descriptions and Operation"
+       },
+       "words": 740,
+       "images": 2,
+       "section_id": "transmission"
+      },
+      {
+       "id": "jac_s5_transmission_t001_7c585349",
+       "title": {
+        "ru": "4. Disassembly Schematic Diagram of Input Shaft Assembly",
+        "en": "4. Disassembly Schematic Diagram of Input Shaft Assembly"
+       },
+       "words": 948,
+       "images": 12,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "jac_s5_hvac_t000_9d566ba9",
+       "title": {
+        "ru": "Dismantling And Installation Of System (Evaporator/ Heater/ Three Motors/ Panel)",
+        "en": "Dismantling And Installation Of System (Evaporator/ Heater/ Three Motors/ Panel)"
+       },
+       "words": 752,
+       "images": 9,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "jac_s5_body_t000_cb84f392",
+       "title": {
+        "ru": "Dismantling and Assembly:",
+        "en": "Dismantling and Assembly:"
+       },
+       "words": 1968,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "jac_s5_body_t001_277b0eaf",
+       "title": {
+        "ru": "Dismantling of front door locking mechanism assembly",
+        "en": "Dismantling of front door locking mechanism assembly"
+       },
+       "words": 1185,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "jac_s5_body_t002_957f8d9c",
+       "title": {
+        "ru": "RKE or driver side door unlocking with key",
+        "en": "RKE or driver side door unlocking with key"
+       },
+       "words": 1095,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "jac_s5_body_t003_61db2f3d",
+       "title": {
+        "ru": "Replace front fog lamp bulb",
+        "en": "Replace front fog lamp bulb"
+       },
+       "words": 1092,
+       "images": 11,
+       "section_id": "body"
+      },
+      {
+       "id": "jac_s5_body_t004_cfec6800",
+       "title": {
+        "ru": "The reasons why the noises under the hood are transmitted are including:",
+        "en": "The reasons why the noises under the hood are transmitted are including:"
+       },
+       "words": 1417,
+       "images": 15,
+       "section_id": "body"
+      },
+      {
+       "id": "jac_s5_body_t005_cc3773b1",
+       "title": {
+        "ru": "Rear Door Window Lifter Replacement",
+        "en": "Rear Door Window Lifter Replacement"
+       },
+       "words": 1216,
+       "images": 41,
+       "section_id": "body"
+      },
+      {
+       "id": "jac_s5_body_t006_7451c651",
+       "title": {
+        "ru": "Vehicle Door Lock Assembly Replacement：",
+        "en": "Vehicle Door Lock Assembly Replacement："
+       },
+       "words": 739,
+       "images": 22,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "jac_s5_steering_t000_0374e0c3",
+       "title": {
+        "ru": "Inspection of Toe-in of Front Wheel:",
+        "en": "Inspection of Toe-in of Front Wheel:"
+       },
+       "words": 825,
+       "images": 5,
+       "section_id": "steering"
+      },
+      {
+       "id": "jac_s5_steering_t001_db7abad9",
+       "title": {
+        "ru": "Dismantling and Assembly:",
+        "en": "Dismantling and Assembly:"
+       },
+       "words": 992,
+       "images": 11,
+       "section_id": "steering"
+      },
+      {
+       "id": "jac_s5_steering_t002_7c90db92",
+       "title": {
+        "ru": "3. Repair and inspection of SRS system",
+        "en": "3. Repair and inspection of SRS system"
+       },
+       "words": 706,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "fuel_ev",
+     "title": {
+      "ru": "Топливная / ВВ система",
+      "en": "Fuel / HV System"
+     },
+     "icon": "⛽",
+     "topics": [
+      {
+       "id": "jac_s5_fuel_ev_t000_b20108f5",
+       "title": {
+        "ru": "Combination meter can give the following indications:",
+        "en": "Combination meter can give the following indications:"
+       },
+       "words": 630,
+       "images": 4,
+       "section_id": "fuel_ev"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "jac_s5_lighting_t000_5b0f27eb",
+       "title": {
+        "ru": "Operate the lighting handle for combination switch and inspect all lights and sw",
+        "en": "Operate the lighting handle for combination switch and inspect all lights and sw"
+       },
+       "words": 1242,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jac_s5_lighting_t001_c95f09f5",
+       "title": {
+        "ru": "4. Disassemble wiper washing system switch",
+        "en": "4. Disassemble wiper washing system switch"
+       },
+       "words": 130,
+       "images": 1,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "jac_s5_interior_t000_071a570f",
+       "title": {
+        "ru": "Reasons of Seat Noise Including：",
+        "en": "Reasons of Seat Noise Including："
+       },
+       "words": 43,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "jac_s5_general_t000_1bf1d7cb",
+       "title": {
+        "ru": "Precaution of Inspection, Repair and Replacement:",
+        "en": "Precaution of Inspection, Repair and Replacement:"
+       },
+       "words": 590,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t001_57a9496d",
+       "title": {
+        "ru": "Structure Parameter of Engine:",
+        "en": "Structure Parameter of Engine:"
+       },
+       "words": 375,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t002_7d119a58",
+       "title": {
+        "ru": "Connecting Rod Side Clearance:",
+        "en": "Connecting Rod Side Clearance:"
+       },
+       "words": 881,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t003_faef48bd",
+       "title": {
+        "ru": "Inspection of Air Exhaust System",
+        "en": "Inspection of Air Exhaust System"
+       },
+       "words": 696,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t004_da146de1",
+       "title": {
+        "ru": "5) Repair Valve Seat",
+        "en": "5) Repair Valve Seat"
+       },
+       "words": 938,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t005_3f2acbfc",
+       "title": {
+        "ru": "Tightening Torque:",
+        "en": "Tightening Torque:"
+       },
+       "words": 968,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t006_aef31bb1",
+       "title": {
+        "ru": "Fastening Torque Specification Table",
+        "en": "Fastening Torque Specification Table"
+       },
+       "words": 651,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t007_aac09bab",
+       "title": {
+        "ru": "Common Fault Diagnostic Table",
+        "en": "Common Fault Diagnostic Table"
+       },
+       "words": 533,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t008_14468e3e",
+       "title": {
+        "ru": "2. Disassembly Schematic Diagram of High Gear Output Shaft Assembly",
+        "en": "2. Disassembly Schematic Diagram of High Gear Output Shaft Assembly"
+       },
+       "words": 462,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t009_10f8cafc",
+       "title": {
+        "ru": "2. High Gear Output Shaft,Low Gear Output Shaft Inspection",
+        "en": "2. High Gear Output Shaft,Low Gear Output Shaft Inspection"
+       },
+       "words": 734,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t010_a1f203ab",
+       "title": {
+        "ru": "Note: “extreme application condition” includes the following conditions:",
+        "en": "Note: “extreme application condition” includes the following conditions:"
+       },
+       "words": 550,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t011_8e45d7e1",
+       "title": {
+        "ru": "Dismantling and Installation Drive Shaft Assembly",
+        "en": "Dismantling and Installation Drive Shaft Assembly"
+       },
+       "words": 345,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t012_f80c7470",
+       "title": {
+        "ru": "Notes:",
+        "en": "Notes:"
+       },
+       "words": 564,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t013_cd2e2c24",
+       "title": {
+        "ru": "On-Board Inspection:",
+        "en": "On-Board Inspection:"
+       },
+       "words": 482,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t014_cf585c68",
+       "title": {
+        "ru": "Disassembly and Assembly:",
+        "en": "Disassembly and Assembly:"
+       },
+       "words": 568,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t015_a37b30e8",
+       "title": {
+        "ru": "Remove front Auxiliary Frame Assembly.",
+        "en": "Remove front Auxiliary Frame Assembly."
+       },
+       "words": 571,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t016_65c91364",
+       "title": {
+        "ru": "Left/Right Rear Longitudinal Arm Assembly",
+        "en": "Left/Right Rear Longitudinal Arm Assembly"
+       },
+       "words": 548,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t017_a146cbd8",
+       "title": {
+        "ru": "Rear Stabilizer Rod Assembly Dismantling and Installation",
+        "en": "Rear Stabilizer Rod Assembly Dismantling and Installation"
+       },
+       "words": 513,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t018_653590f4",
+       "title": {
+        "ru": "Free Stroke of Brake Pedal:",
+        "en": "Free Stroke of Brake Pedal:"
+       },
+       "words": 514,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t019_808450a5",
+       "title": {
+        "ru": "Dismantling and Installation of Brake Caliper Components:",
+        "en": "Dismantling and Installation of Brake Caliper Components:"
+       },
+       "words": 412,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t020_dc9f9873",
+       "title": {
+        "ru": "Parking Brake Control: On-Board Inspection",
+        "en": "Parking Brake Control: On-Board Inspection"
+       },
+       "words": 643,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t021_013a3cee",
+       "title": {
+        "ru": "Hydraulic Schematic Diagram of ESC System",
+        "en": "Hydraulic Schematic Diagram of ESC System"
+       },
+       "words": 461,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t022_2223caae",
+       "title": {
+        "ru": "Note: there is no rubber damping cushion between HECU assembly and bracket.",
+        "en": "Note: there is no rubber damping cushion between HECU assembly and bracket."
+       },
+       "words": 583,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t023_79a9ad47",
+       "title": {
+        "ru": "Note: there is rubber damping cushion between HECU assembly and bracket.",
+        "en": "Note: there is rubber damping cushion between HECU assembly and bracket."
+       },
+       "words": 542,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t024_0dda4571",
+       "title": {
+        "ru": "ESC Common Symptols and Analysis Procedures:",
+        "en": "ESC Common Symptols and Analysis Procedures:"
+       },
+       "words": 1053,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t025_a6932c82",
+       "title": {
+        "ru": "Typical causes for brake warning light isn't light up and no DTC setting.",
+        "en": "Typical causes for brake warning light isn't light up and no DTC setting."
+       },
+       "words": 504,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t026_7b62084f",
+       "title": {
+        "ru": "When intermittent DTC is detected, please completely inspect wiring and connecto",
+        "en": "When intermittent DTC is detected, please completely inspect wiring and connecto"
+       },
+       "words": 360,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t027_0eb2e3ea",
+       "title": {
+        "ru": "Actions to Be Taken When Setting DTC:",
+        "en": "Actions to Be Taken When Setting DTC:"
+       },
+       "words": 444,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t028_a546291f",
+       "title": {
+        "ru": "Actions to be Taken When Setting DTC:",
+        "en": "Actions to be Taken When Setting DTC:"
+       },
+       "words": 449,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t029_2bbb4e98",
+       "title": {
+        "ru": "Actions to Be Taken When Setting DTC:",
+        "en": "Actions to Be Taken When Setting DTC:"
+       },
+       "words": 424,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t030_1768b614",
+       "title": {
+        "ru": "CIFXX(OF) Wheel Speed Frequency Error (Common Wheel Speed Sensor Fault, Shortage",
+        "en": "CIFXX(OF) Wheel Speed Frequency Error (Common Wheel Speed Sensor Fault, Shortage"
+       },
+       "words": 420,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t031_5a108eb2",
+       "title": {
+        "ru": "Actions to Be Taken When Setting DTC:",
+        "en": "Actions to Be Taken When Setting DTC:"
+       },
+       "words": 421,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t032_fdf935e0",
+       "title": {
+        "ru": "Detailed Steps for Dismantling of Horn Cover Assembly Are Shown as Follows:",
+        "en": "Detailed Steps for Dismantling of Horn Cover Assembly Are Shown as Follows:"
+       },
+       "words": 873,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t033_54a96deb",
+       "title": {
+        "ru": "Steps for Calibration of Steering Angle:",
+        "en": "Steps for Calibration of Steering Angle:"
+       },
+       "words": 860,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t034_12c60cad",
+       "title": {
+        "ru": "WW Wiper and Washer System .....б .... WW-1",
+        "en": "WW Wiper and Washer System .....б .... WW-1"
+       },
+       "words": 558,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t035_93301a5e",
+       "title": {
+        "ru": "Electric Appliance of Vehicle Body SJB Indoor Junction Box Schematic Diagram of ",
+        "en": "Electric Appliance of Vehicle Body SJB Indoor Junction Box Schematic Diagram of "
+       },
+       "words": 333,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t036_540dabd2",
+       "title": {
+        "ru": "3. Disassembly Diagram Of Starter 1) Disassembly Diagram",
+        "en": "3. Disassembly Diagram Of Starter 1) Disassembly Diagram"
+       },
+       "words": 601,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t037_72d2c84b",
+       "title": {
+        "ru": "2. Control Type and Descriptions of Functions of Air Conditioning Control Panel",
+        "en": "2. Control Type and Descriptions of Functions of Air Conditioning Control Panel"
+       },
+       "words": 821,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t038_80357b90",
+       "title": {
+        "ru": "5. Schematic Diagram of Control Circuit and Descriptions of Pin Connection Diagr",
+        "en": "5. Schematic Diagram of Control Circuit and Descriptions of Pin Connection Diagr"
+       },
+       "words": 551,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t039_959de13a",
+       "title": {
+        "ru": "3) Mode ventilation door motor terminal and definition",
+        "en": "3) Mode ventilation door motor terminal and definition"
+       },
+       "words": 673,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t040_a898dc16",
+       "title": {
+        "ru": "6. Dismantling and Installation of Internal and External Circulation Ventilation",
+        "en": "6. Dismantling and Installation of Internal and External Circulation Ventilation"
+       },
+       "words": 735,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t041_80752310",
+       "title": {
+        "ru": "Replacement of rear-row seat seat belt mortise lock",
+        "en": "Replacement of rear-row seat seat belt mortise lock"
+       },
+       "words": 659,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t042_a4caef22",
+       "title": {
+        "ru": "Airbag on front-row passenger’s side",
+        "en": "Airbag on front-row passenger’s side"
+       },
+       "words": 465,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t043_662f9406",
+       "title": {
+        "ru": "Supplemental Restraint System Diagnostic Module (SDM)",
+        "en": "Supplemental Restraint System Diagnostic Module (SDM)"
+       },
+       "words": 668,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t044_2b663d6a",
+       "title": {
+        "ru": "1. Turning signal light and hazard warning light",
+        "en": "1. Turning signal light and hazard warning light"
+       },
+       "words": 1239,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t045_e5f1fd94",
+       "title": {
+        "ru": "Under any of the following circumstances, the Interior toplight will turn off im",
+        "en": "Under any of the following circumstances, the Interior toplight will turn off im"
+       },
+       "words": 928,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t046_419334e1",
+       "title": {
+        "ru": "Detailed description of defrosting function",
+        "en": "Detailed description of defrosting function"
+       },
+       "words": 652,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t047_b446e485",
+       "title": {
+        "ru": "Electric anti-clamp Motor Terminals and Definition",
+        "en": "Electric anti-clamp Motor Terminals and Definition"
+       },
+       "words": 885,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t048_33bff780",
+       "title": {
+        "ru": "SR electric sunroof Composition of electric sunroof",
+        "en": "SR electric sunroof Composition of electric sunroof"
+       },
+       "words": 548,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t049_a14d8d59",
+       "title": {
+        "ru": "Description of Combination Switch Turning light switch",
+        "en": "Description of Combination Switch Turning light switch"
+       },
+       "words": 449,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t050_53bc3221",
+       "title": {
+        "ru": "Operation of combination switches for wiping/washing, inspecting wiper and washe",
+        "en": "Operation of combination switches for wiping/washing, inspecting wiper and washe"
+       },
+       "words": 963,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t051_f5fd31b5",
+       "title": {
+        "ru": "Beam adjustment position schematic diagram of front fog lamp",
+        "en": "Beam adjustment position schematic diagram of front fog lamp"
+       },
+       "words": 903,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t052_46949c42",
+       "title": {
+        "ru": "Replace blub for reading light",
+        "en": "Replace blub for reading light"
+       },
+       "words": 388,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t053_4b4e0b87",
+       "title": {
+        "ru": "Troubleshooting schedule for High/Low beams fault",
+        "en": "Troubleshooting schedule for High/Low beams fault"
+       },
+       "words": 977,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t054_9a8174d3",
+       "title": {
+        "ru": "Troubleshooting schedule for front fog lamp fault",
+        "en": "Troubleshooting schedule for front fog lamp fault"
+       },
+       "words": 1347,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t055_ad0244e3",
+       "title": {
+        "ru": "Disassemble and replace horn",
+        "en": "Disassemble and replace horn"
+       },
+       "words": 565,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t056_440ed73c",
+       "title": {
+        "ru": "Horn Troubleshooting Checklist",
+        "en": "Horn Troubleshooting Checklist"
+       },
+       "words": 518,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t057_341d897e",
+       "title": {
+        "ru": "Combination meter can give the following indications:",
+        "en": "Combination meter can give the following indications:"
+       },
+       "words": 734,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t058_dc7e8232",
+       "title": {
+        "ru": "Replace Front Door High Pitch Speaker",
+        "en": "Replace Front Door High Pitch Speaker"
+       },
+       "words": 757,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t059_a386b250",
+       "title": {
+        "ru": "Replace Parking Assist System Sensor",
+        "en": "Replace Parking Assist System Sensor"
+       },
+       "words": 551,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t060_97214415",
+       "title": {
+        "ru": "3. Check and Adjust the Rubber Strip for Wiper Blade",
+        "en": "3. Check and Adjust the Rubber Strip for Wiper Blade"
+       },
+       "words": 686,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t061_da033038",
+       "title": {
+        "ru": "3. Auto-stop Operation of Wiper Inspection",
+        "en": "3. Auto-stop Operation of Wiper Inspection"
+       },
+       "words": 407,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t062_321484b0",
+       "title": {
+        "ru": "Ignition Switch Conduction Principle",
+        "en": "Ignition Switch Conduction Principle"
+       },
+       "words": 426,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t063_b0d972fa",
+       "title": {
+        "ru": "Left Door Trim Plate Replacement:",
+        "en": "Left Door Trim Plate Replacement:"
+       },
+       "words": 629,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t064_815be663",
+       "title": {
+        "ru": "Tail Door Left/Right Air Brace Rod",
+        "en": "Tail Door Left/Right Air Brace Rod"
+       },
+       "words": 359,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t065_ad5c262c",
+       "title": {
+        "ru": "A Pillar Upper Exterior Panel 1) Removal",
+        "en": "A Pillar Upper Exterior Panel 1) Removal"
+       },
+       "words": 247,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t066_2ad22f84",
+       "title": {
+        "ru": "C Pillar Upper Trim Panel",
+        "en": "C Pillar Upper Trim Panel"
+       },
+       "words": 289,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t067_e4e8320b",
+       "title": {
+        "ru": "Seat Noise Judgment：",
+        "en": "Seat Noise Judgment："
+       },
+       "words": 467,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t068_34891b73",
+       "title": {
+        "ru": "Dashboard Bracket",
+        "en": "Dashboard Bracket"
+       },
+       "words": 514,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t069_dcd1f309",
+       "title": {
+        "ru": "Electrical Symbols on the Circuit Diagram",
+        "en": "Electrical Symbols on the Circuit Diagram"
+       },
+       "words": 1149,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t070_67ac381e",
+       "title": {
+        "ru": "Engine Compartment Wire Harness",
+        "en": "Engine Compartment Wire Harness"
+       },
+       "words": 449,
+       "images": 139,
+       "section_id": "general"
+      },
+      {
+       "id": "jac_s5_general_t071_01eb2bee",
+       "title": {
+        "ru": "Ceiling Wire Harness",
+        "en": "Ceiling Wire Harness"
+       },
+       "words": 301,
+       "images": 104,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

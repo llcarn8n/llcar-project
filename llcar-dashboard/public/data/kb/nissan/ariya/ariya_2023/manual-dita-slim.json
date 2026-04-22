@@ -1,0 +1,815 @@
+{
+ "version": "1.0",
+ "model": "ariya",
+ "manuals": [
+  {
+   "model": "ariya",
+   "label": {
+    "ru": "Nissan Ariya — Руководство по ремонту",
+    "en": "Nissan Ariya — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "nissan_ariya_engine_t000_bba0eea6",
+       "title": {
+        "ru": "CALIFORNIA PROPOSITION 65 WARNING",
+        "en": "CALIFORNIA PROPOSITION 65 WARNING"
+       },
+       "words": 2398,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_ariya_engine_t001_8e280bc5",
+       "title": {
+        "ru": "10-26",
+        "en": "10-26"
+       },
+       "words": 446,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "nissan_ariya_brakes_t000_535b3151",
+       "title": {
+        "ru": "Intelligent Rear View Mirror system",
+        "en": "Intelligent Rear View Mirror system"
+       },
+       "words": 3196,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_ariya_brakes_t001_8e778e36",
+       "title": {
+        "ru": "BASIC INFORMATION",
+        "en": "BASIC INFORMATION"
+       },
+       "words": 3018,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_ariya_brakes_t002_13a491d0",
+       "title": {
+        "ru": "— On roads where discontinued",
+        "en": "— On roads where discontinued"
+       },
+       "words": 3699,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_ariya_brakes_t003_d064d4f6",
+       "title": {
+        "ru": "For additional brake fluid information, see",
+        "en": "For additional brake fluid information, see"
+       },
+       "words": 2300,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "nissan_ariya_suspension_t000_a20aba5b",
+       "title": {
+        "ru": "LICENSE INFORMATION (ProPILOT",
+        "en": "LICENSE INFORMATION (ProPILOT"
+       },
+       "words": 2553,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "nissan_ariya_body_t000_09545133",
+       "title": {
+        "ru": "Electric shift control system remin-",
+        "en": "Electric shift control system remin-"
+       },
+       "words": 2850,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_ariya_body_t001_5f8289cf",
+       "title": {
+        "ru": "WBC0055X",
+        "en": "WBC0055X"
+       },
+       "words": 2695,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_ariya_body_t002_ca0b1d96",
+       "title": {
+        "ru": "Symptom: When closing the door after",
+        "en": "Symptom: When closing the door after"
+       },
+       "words": 2788,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_ariya_body_t003_b24c6ead",
+       "title": {
+        "ru": "Defrosting outside mirrors",
+        "en": "Defrosting outside mirrors"
+       },
+       "words": 2570,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_ariya_body_t004_8c26b9df",
+       "title": {
+        "ru": "Rinse the vehicle thoroughly with plenty",
+        "en": "Rinse the vehicle thoroughly with plenty"
+       },
+       "words": 2991,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_ariya_body_t005_0429ce52",
+       "title": {
+        "ru": "11-8",
+        "en": "11-8"
+       },
+       "words": 9,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "nissan_ariya_steering_t000_8dce391c",
+       "title": {
+        "ru": "NISSAN certified ARIYA dealer for",
+        "en": "NISSAN certified ARIYA dealer for"
+       },
+       "words": 2798,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "nissan_ariya_steering_t001_ea5c9ba3",
+       "title": {
+        "ru": "Other Driving Aids",
+        "en": "Other Driving Aids"
+       },
+       "words": 2120,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "nissan_ariya_steering_t002_c6f95e45",
+       "title": {
+        "ru": "Steering Assist with HD map data (a",
+        "en": "Steering Assist with HD map data (a"
+       },
+       "words": 3043,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "nissan_ariya_steering_t003_191a8860",
+       "title": {
+        "ru": "WBF0054X",
+        "en": "WBF0054X"
+       },
+       "words": 2322,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "nissan_ariya_steering_t004_ccd26cc0",
+       "title": {
+        "ru": "MCE0001A",
+        "en": "MCE0001A"
+       },
+       "words": 2530,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "nissan_ariya_steering_t005_ea7bcc83",
+       "title": {
+        "ru": "axle may cause loss of vehicle",
+        "en": "axle may cause loss of vehicle"
+       },
+       "words": 492,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "nissan_ariya_lighting_t000_df4c27af",
+       "title": {
+        "ru": "Precautions on storage",
+        "en": "Precautions on storage"
+       },
+       "words": 1998,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_ariya_lighting_t001_f163410c",
+       "title": {
+        "ru": "INSTRUMENT BRIGHTNESS CON-",
+        "en": "INSTRUMENT BRIGHTNESS CON-"
+       },
+       "words": 3396,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_ariya_lighting_t002_34b0e18e",
+       "title": {
+        "ru": "If the light illuminates while the VDC",
+        "en": "If the light illuminates while the VDC"
+       },
+       "words": 3404,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_ariya_lighting_t003_01d0b21a",
+       "title": {
+        "ru": "WAC0324X",
+        "en": "WAC0324X"
+       },
+       "words": 2626,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_ariya_lighting_t004_7ea29363",
+       "title": {
+        "ru": "BSW SYSTEM OPERATION",
+        "en": "BSW SYSTEM OPERATION"
+       },
+       "words": 2786,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_ariya_lighting_t005_4b86fe87",
+       "title": {
+        "ru": "I-BSI DRIVING SITUATIONS",
+        "en": "I-BSI DRIVING SITUATIONS"
+       },
+       "words": 2602,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_ariya_lighting_t006_387d441f",
+       "title": {
+        "ru": "When replacing the tires on the",
+        "en": "When replacing the tires on the"
+       },
+       "words": 2339,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_ariya_lighting_t007_59cee639",
+       "title": {
+        "ru": "Trailer lights should comply with federal",
+        "en": "Trailer lights should comply with federal"
+       },
+       "words": 674,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "nissan_ariya_adas_t000_5644ee93",
+       "title": {
+        "ru": "See “Rear Automatic Braking (RAB)” (P.5-",
+        "en": "See “Rear Automatic Braking (RAB)” (P.5-"
+       },
+       "words": 2890,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "nissan_ariya_adas_t001_9e1e6ccf",
+       "title": {
+        "ru": "BASIC INFORMATION",
+        "en": "BASIC INFORMATION"
+       },
+       "words": 2629,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "nissan_ariya_adas_t002_d2177d16",
+       "title": {
+        "ru": "JVS0761X",
+        "en": "JVS0761X"
+       },
+       "words": 2826,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "nissan_ariya_adas_t003_b8872341",
+       "title": {
+        "ru": "PROPILOT ASSIST SYSTEMS OVERVIEW",
+        "en": "PROPILOT ASSIST SYSTEMS OVERVIEW"
+       },
+       "words": 2879,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "nissan_ariya_adas_t004_940cc6a9",
+       "title": {
+        "ru": "AEB WITH PEDESTRIAN DETECTION",
+        "en": "AEB WITH PEDESTRIAN DETECTION"
+       },
+       "words": 3486,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "nissan_ariya_adas_t005_dd8b776e",
+       "title": {
+        "ru": "To install the front license plate bracket",
+        "en": "To install the front license plate bracket"
+       },
+       "words": 1975,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "nissan_ariya_interior_t000_f77f4345",
+       "title": {
+        "ru": "Table of",
+        "en": "Table of"
+       },
+       "words": 1842,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_ariya_interior_t001_f5b5c65e",
+       "title": {
+        "ru": "If the retractor does not lock during this",
+        "en": "If the retractor does not lock during this"
+       },
+       "words": 2921,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_ariya_interior_t002_62988ef0",
+       "title": {
+        "ru": "or other damage on the webbing is",
+        "en": "or other damage on the webbing is"
+       },
+       "words": 3020,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_ariya_interior_t003_905ad5df",
+       "title": {
+        "ru": "1-34",
+        "en": "1-34"
+       },
+       "words": 2504,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_ariya_interior_t004_d4946eed",
+       "title": {
+        "ru": "NISSAN ADVANCED AIR BAG SYS-",
+        "en": "NISSAN ADVANCED AIR BAG SYS-"
+       },
+       "words": 2405,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_ariya_interior_t005_1f007ab7",
+       "title": {
+        "ru": "JVR0192X",
+        "en": "JVR0192X"
+       },
+       "words": 3940,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_ariya_interior_t006_f8c86d30",
+       "title": {
+        "ru": "Under the following condition, the ProPI-",
+        "en": "Under the following condition, the ProPI-"
+       },
+       "words": 2606,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_ariya_interior_t007_60aaca15",
+       "title": {
+        "ru": "These functions operate in the following",
+        "en": "These functions operate in the following"
+       },
+       "words": 2687,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_ariya_interior_t008_af91070c",
+       "title": {
+        "ru": "Windshield washer fluid (Canada)",
+        "en": "Windshield washer fluid (Canada)"
+       },
+       "words": 3639,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "nissan_ariya_ev_t000_07fd9aff",
+       "title": {
+        "ru": "The information contained within this supplement revises or",
+        "en": "The information contained within this supplement revises or"
+       },
+       "words": 3163,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t001_3b54e0f9",
+       "title": {
+        "ru": "BASIC INFORMATION",
+        "en": "BASIC INFORMATION"
+       },
+       "words": 2139,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t002_aef786e9",
+       "title": {
+        "ru": "BASIC INFORMATION",
+        "en": "BASIC INFORMATION"
+       },
+       "words": 3287,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t003_35a51797",
+       "title": {
+        "ru": "HOW TO TRICKLE CHARGE (AC 110–",
+        "en": "HOW TO TRICKLE CHARGE (AC 110–"
+       },
+       "words": 2238,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t004_df4435e8",
+       "title": {
+        "ru": "CHARGING TIMER",
+        "en": "CHARGING TIMER"
+       },
+       "words": 1446,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t005_e792ce6a",
+       "title": {
+        "ru": "Status and action to be taken (Type B) (if so",
+        "en": "Status and action to be taken (Type B) (if so"
+       },
+       "words": 2846,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t006_0ed4b312",
+       "title": {
+        "ru": "The white illuminated part moves to the",
+        "en": "The white illuminated part moves to the"
+       },
+       "words": 2432,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t007_ad8550c7",
+       "title": {
+        "ru": "Power sliding function (if so",
+        "en": "Power sliding function (if so"
+       },
+       "words": 2212,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t008_5b527813",
+       "title": {
+        "ru": "And then the power liftgate will move in",
+        "en": "And then the power liftgate will move in"
+       },
+       "words": 2596,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t009_3b7e0939",
+       "title": {
+        "ru": "BASIC INFORMATION",
+        "en": "BASIC INFORMATION"
+       },
+       "words": 2575,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t010_d97ff834",
+       "title": {
+        "ru": "To place the vehicle in the READY to drive",
+        "en": "To place the vehicle in the READY to drive"
+       },
+       "words": 2748,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t011_39a604e2",
+       "title": {
+        "ru": "EV MAINTENANCE SCHEDULES",
+        "en": "EV MAINTENANCE SCHEDULES"
+       },
+       "words": 2741,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_ariya_ev_t012_61a5a899",
+       "title": {
+        "ru": "A NISSAN Towing Guide (U.S. only) is",
+        "en": "A NISSAN Towing Guide (U.S. only) is"
+       },
+       "words": 2053,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "nissan_ariya_general_t000_33ae0822",
+       "title": {
+        "ru": "BASIC INFORMATION",
+        "en": "BASIC INFORMATION"
+       },
+       "words": 2486,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_ariya_general_t001_36c6e66a",
+       "title": {
+        "ru": "Two antennas are located on the rear",
+        "en": "Two antennas are located on the rear"
+       },
+       "words": 2478,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_ariya_general_t002_f6083abf",
+       "title": {
+        "ru": "Sealant provided with your vehi-",
+        "en": "Sealant provided with your vehi-"
+       },
+       "words": 2216,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_ariya_general_t003_ed76ceed",
+       "title": {
+        "ru": "0FE-D",
+        "en": "0FE-D"
+       },
+       "words": 1273,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_ariya_infotainment_t000_9029b3f4",
+       "title": {
+        "ru": "Head-Up Display",
+        "en": "Head-Up Display"
+       },
+       "words": 2077,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_ariya_infotainment_t001_69c87c70",
+       "title": {
+        "ru": "WBE0004X",
+        "en": "WBE0004X"
+       },
+       "words": 2241,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_ariya_infotainment_t002_81831073",
+       "title": {
+        "ru": "Vehicle Ahead” message is displayed on",
+        "en": "Vehicle Ahead” message is displayed on"
+       },
+       "words": 1745,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_ariya_drivetrain_t000_0ae628f2",
+       "title": {
+        "ru": "STARTUP DISPLAY",
+        "en": "STARTUP DISPLAY"
+       },
+       "words": 3152,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "nissan_ariya_drivetrain_t001_3df4bbee",
+       "title": {
+        "ru": "JVS0294X",
+        "en": "JVS0294X"
+       },
+       "words": 2732,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_ariya_sensors_t000_28afd974",
+       "title": {
+        "ru": "Camera, radar and sonar locations",
+        "en": "Camera, radar and sonar locations"
+       },
+       "words": 2427,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "nissan_ariya_sensors_t001_8a8a095d",
+       "title": {
+        "ru": "— Objects placed next to the",
+        "en": "— Objects placed next to the"
+       },
+       "words": 2845,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "nissan_ariya_sensors_t002_6e6b30db",
+       "title": {
+        "ru": "Parallel Parking",
+        "en": "Parallel Parking"
+       },
+       "words": 942,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

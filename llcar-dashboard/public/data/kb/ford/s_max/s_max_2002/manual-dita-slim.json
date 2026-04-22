@@ -1,0 +1,1185 @@
+{
+ "version": "1.0",
+ "model": "s_max",
+ "manuals": [
+  {
+   "model": "s_max",
+   "label": {
+    "ru": "Ford S-MAX — Руководство по ремонту",
+    "en": "Ford S-MAX — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "ford_s_max_brakes_t000_75716333",
+       "title": {
+        "ru": "76 ABNratenb He 3anyckaetcs HN npn KAKOM NONOXeHNN pblyara cenektopa, nn60 3anyc",
+        "en": "76 ABNratenb He 3anyckaetcs HN npn KAKOM NONOXeHNN pblyara cenektopa, nn60 3anyc"
+       },
+       "words": 1131,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ford_s_max_brakes_t001_c3845bc3",
+       "title": {
+        "ru": "14 CHaTne N ycTaHOBKa rnAPaBnn4eckoro 6noka Hnpabnenng ABS N ЗJeKTpOHHoro MOAYnN",
+        "en": "14 CHaTne N ycTaHOBKa rnAPaBnn4eckoro 6noka Hnpabnenng ABS N ЗJeKTpOHHoro MOAYnN"
+       },
+       "words": 1045,
+       "images": 16,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "ford_s_max_body_t000_47d9fcdf",
+       "title": {
+        "ru": "1-3HaK",
+        "en": "1-3HaK"
+       },
+       "words": 164,
+       "images": 1,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "ford_s_max_steering_t000_6aa8d56c",
+       "title": {
+        "ru": "Cneuncnkaunn",
+        "en": "Cneuncnkaunn"
+       },
+       "words": 42,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "ford_s_max_lighting_t000_fd5c75aa",
+       "title": {
+        "ru": "A66pebnaTypbl, Pcnnyomnn B Ha3BAHNSX 3neMEHTOB",
+        "en": "A66pebnaTypbl, Pcnnyomnn B Ha3BAHNSX 3neMEHTOB"
+       },
+       "words": 124,
+       "images": 48,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "ford_s_max_chassis_t000_ded34909",
+       "title": {
+        "ru": "8.2b PacnpeneneHne NOTOKOB BO3Ayxa, 一 canoH",
+        "en": "8.2b PacnpeneneHne NOTOKOB BO3Ayxa, 一 canoH"
+       },
+       "words": 282,
+       "images": 1,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "ford_s_max_general_t000_8c7a79f3",
+       "title": {
+        "ru": "ABTOMO6NNN Ford S-MAX N Galaxy 1 SHHOTaUns",
+        "en": "ABTOMO6NNN Ford S-MAX N Galaxy 1 SHHOTaUns"
+       },
+       "words": 1313,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t001_77933e73",
+       "title": {
+        "ru": "3anyck ABnrateng OT BCnoMorateJbHoro NCTO4HNka PUTAHNN",
+        "en": "3anyck ABnrateng OT BCnoMorateJbHoro NCTO4HNka PUTAHNN"
+       },
+       "words": 1388,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t002_bffb9164",
+       "title": {
+        "ru": "6 3auenneHne CTaptepa NPOncXoAnt CANWKOM WyMHO NSN C 3aTPyAHeHNeM",
+        "en": "6 3auenneHne CTaptepa NPOncXoAnt CANWKOM WyMHO NSN C 3aTPyAHeHNeM"
+       },
+       "words": 622,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t003_e72f819b",
+       "title": {
+        "ru": "10 NMeIoT MeCTO nponyckn B pa6ote LNNNHAPOg ABNratens Ha AweBblwaomnx XONOCTble ",
+        "en": "10 NMeIoT MeCTO nponyckn B pa6ote LNNNHAPOg ABNratens Ha AweBblwaomnx XONOCTble "
+       },
+       "words": 770,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t004_2a961e3d",
+       "title": {
+        "ru": "23 CTapTep \"CXBaTbIBaeT\", HO o6ecneynBaeT npobopa4nBaHne ABnrateng SNWb \"PbIBKaM",
+        "en": "23 CTapTep \"CXBaTbIBaeT\", HO o6ecneynBaeT npobopa4nBaHne ABnrateng SNWb \"PbIBKaM"
+       },
+       "words": 613,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t005_f1489ab0",
+       "title": {
+        "ru": "24 WecrepHg CTapTepa He BbIXOANT N3 sauennenns C 3y64aTbIM BEHLOM MaxOBNka/ nPnB",
+        "en": "24 WecrepHg CTapTepa He BbIXOANT N3 sauennenns C 3y64aTbIM BEHLOM MaxOBNka/ nPnB"
+       },
+       "words": 441,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t006_045496b3",
+       "title": {
+        "ru": "39 KoHTPonbhas naMna He racHeT nocne BAIKNMAHNn neAann ra3a npn 3anyWeHHOM ABnra",
+        "en": "39 KoHTPonbhas naMna He racHeT nocne BAIKNMAHNn neAann ra3a npn 3anyWeHHOM ABnra"
+       },
+       "words": 487,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t007_a451243c",
+       "title": {
+        "ru": "42 AaBneHne Macna 4pe3MepHO npn 06opotax CBbIWe 2000 B MNHyTY",
+        "en": "42 AaBneHne Macna 4pe3MepHO npn 06opotax CBbIWe 2000 B MNHyTY"
+       },
+       "words": 355,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t008_1ae25312",
+       "title": {
+        "ru": "57 HapyweHa NCnpaBHOCTb BkoNenn chennennn (npn BbIkaTON AO nona neAann 3aTPyAHeH",
+        "en": "57 HapyweHa NCnpaBHOCTb BkoNenn chennennn (npn BbIkaTON AO nona neAann 3aTPyAHeH"
+       },
+       "words": 455,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t009_b6f8d11c",
+       "title": {
+        "ru": "63 yctaHOBNeHHas Ha HeNTpanbHyio nepenayy PKNn npn pa6oTaiomem ABnratene N3AaeT ",
+        "en": "63 yctaHOBNeHHas Ha HeNTpanbHyio nepenayy PKNn npn pa6oTaiomem ABnratene N3AaeT "
+       },
+       "words": 280,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t010_637b57c9",
+       "title": {
+        "ru": "72 AT npo6yKcOBbIBaeT,nepeknoyaetcA C TPyAOM,N3AaeT nOCTOPOHHNe WyMbl NNNHe o6ec",
+        "en": "72 AT npo6yKcOBbIBaeT,nepeknoyaetcA C TPyAOM,N3AaeT nOCTOPOHHNe WyMbl NNNHe o6ec"
+       },
+       "words": 373,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t011_ae703afe",
+       "title": {
+        "ru": "84 Tpe6yemag 3ΦΦeKTNBHOCTb THPmoXeans He AOCTNraeTCA, HecMOTpa Ha 3Ha4NTenbHoe y",
+        "en": "84 Tpe6yemag 3ΦΦeKTNBHOCTb THPmoXeans He AOCTNraeTCA, HecMOTpa Ha 3Ha4NTenbHoe y"
+       },
+       "words": 210,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t012_1edfcfa6",
+       "title": {
+        "ru": "96 NmeeT MeCTO 4pe3MepHoe packa4NBaHne aBTOMo6nns/\"3apbIBaHne\" ero HOCOM Ha noBo",
+        "en": "96 NmeeT MeCTO 4pe3MepHoe packa4NBaHne aBTOMo6nns/\"3apbIBaHne\" ero HOCOM Ha noBo"
+       },
+       "words": 219,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t013_690a3fed",
+       "title": {
+        "ru": "109 Nnnoo6pa3Hbln N3HOC npoTektopa, 4acTO BKyne C HeBNANMbIM CHapyXN pa3pbIBOM T",
+        "en": "109 Nnnoo6pa3Hbln N3HOC npoTektopa, 4acTO BKyne C HeBNANMbIM CHapyXN pa3pbIBOM T"
+       },
+       "words": 160,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t014_afc77e06",
+       "title": {
+        "ru": "4acTb C: O6opyAOBaHne aBTOMoonng, pacnonoxeHnenpn6opob N oprahob ynpaBnenng",
+        "en": "4acTb C: O6opyAOBaHne aBTOMoonng, pacnonoxeHnenpn6opob N oprahob ynpaBnenng"
+       },
+       "words": 644,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t015_74c7caee",
+       "title": {
+        "ru": "ANHaMnyecKne xapaKtepnCTNKN, pacxoA TOnnnBa N Bbl6poc C02 MOAenen S-MAX // Galax",
+        "en": "ANHaMnyecKne xapaKtepnCTNKN, pacxoA TOnnnBa N Bbl6poc C02 MOAenen S-MAX // Galax"
+       },
+       "words": 1031,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t016_e80b200e",
+       "title": {
+        "ru": "PyHkuna aBTOMaTN4eCkoro OTKPbIBaHNS/3aKPbIBaHNA OKHa",
+        "en": "PyHkuna aBTOMaTN4eCkoro OTKPbIBaHNS/3aKPbIBaHNA OKHa"
+       },
+       "words": 981,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t017_389596d5",
+       "title": {
+        "ru": "BoccTaHOBNeHNe yCTaHOBOK CNCTEMbl ynpabnehng CTeKNOnOAbeMHNKAMN",
+        "en": "BoccTaHOBNeHNe yCTaHOBOK CNCTEMbl ynpabnehng CTeKNOnOAbeMHNKAMN"
+       },
+       "words": 1498,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t018_210e8e37",
+       "title": {
+        "ru": "AeakTnBaung NOAYWKN 6e3onacHocTN nepeAHero naccaxnpa",
+        "en": "AeakTnBaung NOAYWKN 6e3onacHocTN nepeAHero naccaxnpa"
+       },
+       "words": 2053,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t019_3642a98b",
+       "title": {
+        "ru": "Nepeknoyatenn N opraHbl Ynpabnenns, pacnonoxeHHble Ha pysebon KONOHKe",
+        "en": "Nepeknoyatenn N opraHbl Ynpabnenns, pacnonoxeHHble Ha pysebon KONOHKe"
+       },
+       "words": 1513,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t020_29f9d45c",
+       "title": {
+        "ru": "OpraHbl ynpabnenng Ha naHenn npn6opoB, pacnonoxeHHble neBee Pynebon KONOHKN",
+        "en": "OpraHbl ynpabnenng Ha naHenn npn6opoB, pacnonoxeHHble neBee Pynebon KONOHKN"
+       },
+       "words": 1415,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t021_4c846835",
+       "title": {
+        "ru": "OpraHbl ynpabnenng N 06opyAoBaHne canoHa, pacnonoxeHHble Ha LeHTPaJbHOn KOHCOJN",
+        "en": "OpraHbl ynpabnenng N 06opyAoBaHne canoHa, pacnonoxeHHble Ha LeHTPaJbHOn KOHCOJN"
+       },
+       "words": 3058,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t022_f526fa5c",
+       "title": {
+        "ru": "14.1a6nok ynpaBneHng KNNMaTNyeCKON CNCTeMON C Py4HbIM ynpaBneHneM",
+        "en": "14.1a6nok ynpaBneHng KNNMaTNyeCKON CNCTeMON C Py4HbIM ynpaBneHneM"
+       },
+       "words": 1896,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t023_77f6d662",
+       "title": {
+        "ru": "AOnOnHNTenbHbin OTOnNTenb, npn COOTBETCTBYIOWeN KOMnsekTaLNN",
+        "en": "AOnOnHNTenbHbin OTOnNTenb, npn COOTBETCTBYIOWeN KOMnsekTaLNN"
+       },
+       "words": 2757,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t024_fd938aec",
+       "title": {
+        "ru": "23 Oco6eHHoCTN Jkcnnyataunn aBTOMo6nnen, 06opyAoBaHHbIX KaTanNTnyeCKNM npeo6pa3o",
+        "en": "23 Oco6eHHoCTN Jkcnnyataunn aBTOMo6nnen, 06opyAoBaHHbIX KaTanNTnyeCKNM npeo6pa3o"
+       },
+       "words": 1645,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t025_72d05248",
+       "title": {
+        "ru": "ABapnnhoe BbIBeAeHNe pblyara cenektopa N3 PHnoonn “P\"",
+        "en": "ABapnnhoe BbIBeAeHNe pblyara cenektopa N3 PHnoonn “P\""
+       },
+       "words": 1555,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t026_c423dba6",
+       "title": {
+        "ru": "AononHnTenbHbie npoueAypbi TO: kaxAble 2 roAa NSN 40 000 KM npo6era",
+        "en": "AononHnTenbHbie npoueAypbi TO: kaxAble 2 roAa NSN 40 000 KM npo6era"
+       },
+       "words": 1935,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t027_f21cf13a",
+       "title": {
+        "ru": "OxnaxAaiomaa KNAKOCTb npobepka N KOppeKTNpOBka YPobhs N BHCRORHNS",
+        "en": "OxnaxAaiomaa KNAKOCTb npobepka N KOppeKTNpOBka YPobhs N BHCRORHNS"
+       },
+       "words": 1690,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t028_b4e94f6b",
+       "title": {
+        "ru": "5 Npobepka BHHROSONS N 3aMeHa WnAHrOB N Tpy6ok B ABNraTenbHOM OTCeKe, Jkannauns ",
+        "en": "5 Npobepka BHHROSONS N 3aMeHa WnAHrOB N Tpy6ok B ABNraTenbHOM OTCeKe, Jkannauns "
+       },
+       "words": 1573,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t029_c9bc466e",
+       "title": {
+        "ru": "7 npobepka BHHROSONS N 3aMeHa WeTOk CTeKnOO4NCTNTenen; perynnpobka pblyarob CTeK",
+        "en": "7 npobepka BHHROSONS N 3aMeHa WeTOk CTeKnOO4NCTNTenen; perynnpobka pblyarob CTeK"
+       },
+       "words": 1684,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t030_643f7ec7",
+       "title": {
+        "ru": "HopManbHoe COCTOAHNe CBe4n",
+        "en": "HopManbHoe COCTOAHNe CBe4n"
+       },
+       "words": 544,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t031_00622367",
+       "title": {
+        "ru": "16.14b AeTanN yCTaHOBKN BO3AyXOO4NCTNTeng N ApyrneKOMNOHeHTbI CNCTeMbI noAayn B0",
+        "en": "16.14b AeTanN yCTaHOBKN BO3AyXOO4NCTNTeng N ApyrneKOMNOHeHTbI CNCTeMbI noAayn B0"
+       },
+       "words": 1366,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t032_4b2a083d",
+       "title": {
+        "ru": "3anpabka CNCTEMbI HxauAsnn AN3enbHbIX MOAenen 1.8 N 2.0",
+        "en": "3anpabka CNCTEMbI HxauAsnn AN3enbHbIX MOAenen 1.8 N 2.0"
+       },
+       "words": 1627,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t033_92881c27",
+       "title": {
+        "ru": "An3enbHble ABnratenn 2.0 Duratorq- TDCi (DW10)",
+        "en": "An3enbHble ABnratenn 2.0 Duratorq- TDCi (DW10)"
+       },
+       "words": 965,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t034_a759e71d",
+       "title": {
+        "ru": "Pa6oyne KNAKOCTN, CMa304Hble N ynnOTHNTeNbHble Matepnanbl",
+        "en": "Pa6oyne KNAKOCTN, CMa304Hble N ynnOTHNTeNbHble Matepnanbl"
+       },
+       "words": 1347,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t035_63544957",
+       "title": {
+        "ru": "1.5fMectononoxeHne HATAKNTEns uenn npnBoAa BnyCKHOro pacnpeqenntenbHoro Bana AN3",
+        "en": "1.5fMectononoxeHne HATAKNTEns uenn npnBoAa BnyCKHOro pacnpeqenntenbHoro Bana AN3"
+       },
+       "words": 1667,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t036_fd599665",
+       "title": {
+        "ru": "1.6c 3aBNCNMOCTb KpyTaWero MOMeHTa N MOWHOCTN AN3enbHOrOABnratng 2.2 n OT 4aCTOT",
+        "en": "1.6c 3aBNCNMOCTb KpyTaWero MOMeHTa N MOWHOCTN AN3enbHOrOABnratng 2.2 n OT 4aCTOT"
+       },
+       "words": 1631,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t037_515be529",
+       "title": {
+        "ru": "5 CHaTNe N yCTaHOBka KPbIWKN rONOBKN UNNNHAPOB, perynnpobka KNAnaHHbIX 3a30pOB",
+        "en": "5 CHaTNe N yCTaHOBka KPbIWKN rONOBKN UNNNHAPOB, perynnpobka KNAnaHHbIX 3a30pOB"
+       },
+       "words": 1782,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t038_f0813e2b",
+       "title": {
+        "ru": "13 CHaTne N ycTaHOBka KnanaHHbIX HPyknH N MacnooTpaxaTenbHbIX KonnaykOB KnanaHOB",
+        "en": "13 CHaTne N ycTaHOBka KnanaHHbIX HPyknH N MacnooTpaxaTenbHbIX KonnaykOB KnanaHOB"
+       },
+       "words": 1391,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t039_2634d016",
+       "title": {
+        "ru": "1 BbInonHNTe AeNCTBNa, 0603Ha4eHHble Ha wnnioctPaunN 14.2 rnabbl 1 N Ha conp. wn",
+        "en": "1 BbInonHNTe AeNCTBNa, 0603Ha4eHHble Ha wnnioctPaunN 14.2 rnabbl 1 N Ha conp. wn"
+       },
+       "words": 2235,
+       "images": 66,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t040_c3d794f3",
+       "title": {
+        "ru": "26 CHaTNe N ycTaHOBka KNanaHHbIX NPyxuH N MacnooTpaxaTenbHbIX konnaykoB KnanaHOB",
+        "en": "26 CHaTNe N ycTaHOBka KNanaHHbIX NPyxuH N MacnooTpaxaTenbHbIX konnaykoB KnanaHOB"
+       },
+       "words": 1085,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t041_e05fa6fb",
+       "title": {
+        "ru": "34.3 Cxema npoKnaAkN peMHen npnBoAa BCnoMoraTeJbHblXarperaTOB ABnrateng 2.5 几",
+        "en": "34.3 Cxema npoKnaAkN peMHen npnBoAa BCnoMoraTeJbHblXarperaTOB ABnrateng 2.5 几"
+       },
+       "words": 1501,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t042_bbb8ea3c",
+       "title": {
+        "ru": "18 CHNMNTe npncnoco6nehng No303- 1178 (cm. nnnoctpauno 36.3e) N No303-1182 (cM. ",
+        "en": "18 CHNMNTe npncnoco6nehng No303- 1178 (cm. nnnoctpauno 36.3e) N No303-1182 (cM. "
+       },
+       "words": 1420,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t043_2cb8ae45",
+       "title": {
+        "ru": "48 CHaTNe N ycTaHOBka Pemaa nPnBoAa rPM N 3y64aToro koneca pacnpeAennTenbHoro Ba",
+        "en": "48 CHaTNe N ycTaHOBka Pemaa nPnBoAa rPM N 3y64aToro koneca pacnpeAennTenbHoro Ba"
+       },
+       "words": 2108,
+       "images": 66,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t044_2f91784e",
+       "title": {
+        "ru": "51 CHaTne N ycTaHOBka KIanaHHbIX nPynH N MacnooTpaxaTenbHbIx konnaykOB KnanaHOB",
+        "en": "51 CHaTne N ycTaHOBka KIanaHHbIX nPynH N MacnooTpaxaTenbHbIx konnaykOB KnanaHOB"
+       },
+       "words": 2261,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t045_944553e1",
+       "title": {
+        "ru": "62 CHaTne N yCTaHOBKa KnanAHHbIX NPyKnH N MacnooTpaxaTenbHbIX konnaykOB KnanaHOB",
+        "en": "62 CHaTne N yCTaHOBKa KnanAHHbIX NPyKnH N MacnooTpaxaTenbHbIX konnaykOB KnanaHOB"
+       },
+       "words": 1340,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t046_8ba2543c",
+       "title": {
+        "ru": "64 CHaTne N ycTaHOBKa NOAAOHA kapTepa ABNraTens",
+        "en": "64 CHaTne N ycTaHOBKa NOAAOHA kapTepa ABNraTens"
+       },
+       "words": 1670,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t047_1e9ef54f",
+       "title": {
+        "ru": "75 CHaTNe N ycTaHOBKaKNAnaHHbIX nPyknH NMacnooTpaxaTeJibHbiXKonnaykOB KnanaHOB",
+        "en": "75 CHaTNe N ycTaHOBKaKNAnaHHbIX nPyknH NMacnooTpaxaTeJibHbiXKonnaykOB KnanaHOB"
+       },
+       "words": 1257,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t048_0aba8f5d",
+       "title": {
+        "ru": "83 Perynnpobka oceboro nIOΦta 6anaHcnPoboyHbix BanOB",
+        "en": "83 Perynnpobka oceboro nIOΦta 6anaHcnPoboyHbix BanOB"
+       },
+       "words": 1398,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t049_dd3415eb",
+       "title": {
+        "ru": "Oco6eHHoCTn ycTpONcTBa CNCTeMbI Hxnaxnennn AN3enbHoro ABNraTens 2.0",
+        "en": "Oco6eHHoCTn ycTpONcTBa CNCTeMbI Hxnaxnennn AN3enbHoro ABNraTens 2.0"
+       },
+       "words": 736,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t050_aaf414bb",
+       "title": {
+        "ru": "2 3aMeHa oxnakAaowenXNAKOCTN, npobepka NKOppeKTnpoBka eé yPObha,npobepkn CNCTeMb",
+        "en": "2 3aMeHa oxnakAaowenXNAKOCTN, npobepka NKOppeKTnpoBka eé yPObha,npobepkn CNCTeMb"
+       },
+       "words": 947,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t051_63ca91c2",
+       "title": {
+        "ru": "7 CHaTNe N yCTaHOBka npeAnyckoboro noAorpebateng ABnrateng",
+        "en": "7 CHaTNe N yCTaHOBka npeAnyckoboro noAorpebateng ABnrateng"
+       },
+       "words": 1153,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t052_ae38adb3",
+       "title": {
+        "ru": "8.3a YnpaBneHne KOMnoHeHTaMN kopnyca KNNMaTNyeCKON CNCTeMbI (MOAenn6e3 aBTOMaTn4",
+        "en": "8.3a YnpaBneHne KOMnoHeHTaMN kopnyca KNNMaTNyeCKON CNCTeMbI (MOAenn6e3 aBTOMaTn4"
+       },
+       "words": 1873,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t053_7aea31f4",
+       "title": {
+        "ru": "MoAenn C aBTOMaTN4eCKNM pexnMOM KJINMATNyeCKON CNCTeMbl (6e3 HaBnraLNOHHON CNCTe",
+        "en": "MoAenn C aBTOMaTN4eCKNM pexnMOM KJINMATNyeCKON CNCTeMbl (6e3 HaBnraLNOHHON CNCTe"
+       },
+       "words": 1606,
+       "images": 56,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t054_f0d0f0c1",
+       "title": {
+        "ru": "AaT4nK TeMnepaTypbl BO3Ayxa, nocTynaowero K LeHTpanbHbIM AeΦnektopam (MOAenn 6e3",
+        "en": "AaT4nK TeMnepaTypbl BO3Ayxa, nocTynaowero K LeHTpanbHbIM AeΦnektopam (MOAenn 6e3"
+       },
+       "words": 436,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t055_61a97489",
+       "title": {
+        "ru": "26 CHATNe N ycTaHOBka KOMNOHeHTOB, PacnonoxeHHbIx B 3aAHeM kopnyce KINMaTNyeCkON",
+        "en": "26 CHATNe N ycTaHOBka KOMNOHeHTOB, PacnonoxeHHbIx B 3aAHeM kopnyce KINMaTNyeCkON"
+       },
+       "words": 931,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t056_49d25c0a",
+       "title": {
+        "ru": "28 CHaTNe N ycTaHOBKa, pa36opka N c6opka AOnOnHNTenbHOrO OTOnNTENS, pa6oTaowero ",
+        "en": "28 CHaTNe N ycTaHOBKa, pa36opka N c6opka AOnOnHNTenbHOrO OTOnNTENS, pa6oTaowero "
+       },
+       "words": 915,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t057_53c086c1",
+       "title": {
+        "ru": "1.1a Aerann c6opkn TONANBHOrO Hacoca, TONNNBHOrO Φunbtpa N AaT4nka 3anaca TOnnnB",
+        "en": "1.1a Aerann c6opkn TONANBHOrO Hacoca, TONNNBHOrO Φunbtpa N AaT4nka 3anaca TOnnnB"
+       },
+       "words": 703,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t058_c9dacee3",
+       "title": {
+        "ru": "1.2f TonnnBHble NNHNN B 06nacTn TONNNBHOrO 6akaAN3enbHbIX MoAenen 1.8 2.0n",
+        "en": "1.2f TonnnBHble NNHNN B 06nacTn TONNNBHOrO 6akaAN3enbHbIX MoAenen 1.8 2.0n"
+       },
+       "words": 552,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t059_7aff77f3",
+       "title": {
+        "ru": "1.9BAeTann yCTAHOBKN Typ6okomnpeccopa AN3enbHbIX MOAenen 2.2 几",
+        "en": "1.9BAeTann yCTAHOBKN Typ6okomnpeccopa AN3enbHbIX MOAenen 2.2 几"
+       },
+       "words": 2088,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t060_adb569f5",
+       "title": {
+        "ru": "Mepbl 6e30nacHoctn NCoononennn 4NCTOTbI npn pa6oteC CNCTeMON noAaun TonnnBa",
+        "en": "Mepbl 6e30nacHoctn NCoononennn 4NCTOTbI npn pa6oteC CNCTeMON noAaun TonnnBa"
+       },
+       "words": 1675,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t061_bdd20903",
+       "title": {
+        "ru": "7 3aMeHa ΦnnbTpyomeroЗneMeHTa N kopnycaBO3AyXOO4NCTNTenS",
+        "en": "7 3aMeHa ΦnnbTpyomeroЗneMeHTa N kopnycaBO3AyXOO4NCTNTenS"
+       },
+       "words": 950,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t062_d691a826",
+       "title": {
+        "ru": "10 CHaTne N yCTaHOBKa Typ6ynN3aToPOB 6eH3NHOBbIX ABnratenen 2.0 N 2.3 几",
+        "en": "10 CHaTne N yCTaHOBKa Typ6ynN3aToPOB 6eH3NHOBbIX ABnratenen 2.0 N 2.3 几"
+       },
+       "words": 735,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t063_a6b1d81b",
+       "title": {
+        "ru": "An3enbHble MOAenn 1.8 П",
+        "en": "An3enbHble MOAenn 1.8 П"
+       },
+       "words": 1963,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t064_e221b3bd",
+       "title": {
+        "ru": "19 CHaTne N ycTaHOBKa 3anNBHoro natpy6ka TONNNBHOrO 6aka",
+        "en": "19 CHaTne N ycTaHOBKa 3anNBHoro natpy6ka TONNNBHOrO 6aka"
+       },
+       "words": 1724,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t065_d3197723",
+       "title": {
+        "ru": "20 CHaTne N ycTaHOBka c6opkn AaT4nka 3anaca TOnnNBa/TOnnNBHOrO Φnnbtpa N TOnnNBH",
+        "en": "20 CHaTne N ycTaHOBka c6opkn AaT4nka 3anaca TOnnNBa/TOnnNBHOrO Φnnbtpa N TOnnNBH"
+       },
+       "words": 555,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t066_066b5d0e",
+       "title": {
+        "ru": "22.3c KOMnOHeHTbI CNCTeMbI EGR AN3enbHoro ABnraTeng 2.0 n (AONONHNTENbHO CM.NnnI",
+        "en": "22.3c KOMnOHeHTbI CNCTeMbI EGR AN3enbHoro ABnraTeng 2.0 n (AONONHNTENbHO CM.NnnI"
+       },
+       "words": 591,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t067_62a193cc",
+       "title": {
+        "ru": "KaTannTnyeCKNN npeo6pa3obaTenb N MHAa-30HA",
+        "en": "KaTannTnyeCKNN npeo6pa3obaTenb N MHAa-30HA"
+       },
+       "words": 1444,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t068_aaf3f8c8",
+       "title": {
+        "ru": "26.2aycTaHOBka nepeAHero NNN 3aAHerornywnteng Ha 6eH3NHOBbIX Monensx 2.0 ycnnNA ",
+        "en": "26.2aycTaHOBka nepeAHero NNN 3aAHerornywnteng Ha 6eH3NHOBbIX Monensx 2.0 ycnnNA "
+       },
+       "words": 1127,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t069_12f39694",
+       "title": {
+        "ru": "KoAbI ANarHOCTNKN CNCTeMbl EOBD NAONOnHNTenbHbIX CNCTeM",
+        "en": "KoAbI ANarHOCTNKN CNCTeMbl EOBD NAONOnHNTenbHbIX CNCTeM"
+       },
+       "words": 7927,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t070_851609d5",
+       "title": {
+        "ru": "Mepbl 6e30nacHocTN npn pa6oteC CNCTeMaMN BAknrahns Nynpabnenng BnPbICKOM TonnnBa",
+        "en": "Mepbl 6e30nacHocTN npn pa6oteC CNCTeMaMN BAknrahns Nynpabnenng BnPbICKOM TonnnBa"
+       },
+       "words": 1508,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t071_89d0d1a0",
+       "title": {
+        "ru": "7 CHaTNe N ycTaHOBka 6noka ynpabnenng ECM",
+        "en": "7 CHaTNe N ycTaHOBka 6noka ynpabnenng ECM"
+       },
+       "words": 1107,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t072_555d1d6e",
+       "title": {
+        "ru": "An3enbHble MOAenn 2.0 N 2.2",
+        "en": "An3enbHble MOAenn 2.0 N 2.2"
+       },
+       "words": 724,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t073_7d64e549",
+       "title": {
+        "ru": "18 AkkymynstoPHag 6atapes eama0 Nhcopmauns, pekOMeHAaLNn no O6cnyKnBaHnio",
+        "en": "18 AkkymynstoPHag 6atapes eama0 Nhcopmauns, pekOMeHAaLNn no O6cnyKnBaHnio"
+       },
+       "words": 1797,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t074_3f20a783",
+       "title": {
+        "ru": "19 CHaTne N ycTaHOBKa AkKyMynSTOPHOn 6aTapen",
+        "en": "19 CHaTne N ycTaHOBKa AkKyMynSTOPHOn 6aTapen"
+       },
+       "words": 945,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t075_2c7c3303",
+       "title": {
+        "ru": "1.1bAerann npuboAa NePeknioyenng nepeAay Ha Monennx C 6-ctyneH4aton PKnn MMT6",
+        "en": "1.1bAerann npuboAa NePeknioyenng nepeAay Ha Monennx C 6-ctyneH4aton PKnn MMT6"
+       },
+       "words": 825,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t076_291ddee3",
+       "title": {
+        "ru": "1.3a OCHOBHble AeTann PKnn MMT6. Oco6eHHoCTN KOH-CTPyKLNN Co CTOPOHbI AncdepeHun",
+        "en": "1.3a OCHOBHble AeTann PKnn MMT6. Oco6eHHoCTN KOH-CTPyKLNN Co CTOPOHbI AncdepeHun"
+       },
+       "words": 952,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t077_c2b73649",
+       "title": {
+        "ru": "2.8 CHATNe Φnkcaunn Tpoca nepeksioPAHnn nepeAay （1）n OTAeneHne TPOCOB (2n3) OTMe",
+        "en": "2.8 CHATNe Φnkcaunn Tpoca nepeksioPAHnn nepeAay （1）n OTAeneHne TPOCOB (2n3) OTMe"
+       },
+       "words": 1347,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t078_4370a9f6",
+       "title": {
+        "ru": "CHaTNe N ycTaHOBka pblyara Hpeksiogenng nepenay",
+        "en": "CHaTNe N ycTaHOBka pblyara Hpeksiogenng nepenay"
+       },
+       "words": 1766,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t079_7f0ca324",
+       "title": {
+        "ru": "14 CHaTne N ycTaHOBka NCNONHNTENbHOrO LNnNHAPa rnAPOnPnbOna CAnnennn",
+        "en": "14 CHaTne N ycTaHOBka NCNONHNTENbHOrO LNnNHAPa rnAPOnPnbOna CAnnennn"
+       },
+       "words": 1608,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t080_107e9de1",
+       "title": {
+        "ru": "1.1 BHeWHNn BNAATN 3neMeHTbl CNCTeMbI OxnaxAeHng ATF",
+        "en": "1.1 BHeWHNn BNAATN 3neMeHTbl CNCTeMbI OxnaxAeHng ATF"
+       },
+       "words": 1465,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t081_18d3c1fd",
+       "title": {
+        "ru": "12 CHaTne N ycTaHOBka rnAPaBnnyeckoro 6noka Yrpabnenns AT",
+        "en": "12 CHaTne N ycTaHOBka rnAPaBnnyeckoro 6noka Yrpabnenns AT"
+       },
+       "words": 1013,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t082_f804fc2c",
+       "title": {
+        "ru": "4 CHaTne N ycTaHOBka nPOMeXyTOyHOrO NNN npaboro nPnBOAHOrO Bana OTAEnbHO",
+        "en": "4 CHaTne N ycTaHOBka nPOMeXyTOyHOrO NNN npaboro nPnBOAHOrO Bana OTAEnbHO"
+       },
+       "words": 1525,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t083_ab2faa72",
+       "title": {
+        "ru": "4 CHaTNe N ycTaHOBKacynnoptoB N aHkepHbIXCK06 3aAHnX TOPM03HbIXMexaHN3MOB",
+        "en": "4 CHaTNe N ycTaHOBKacynnoptoB N aHkepHbIXCK06 3aAHnX TOPM03HbIXMexaHN3MOB"
+       },
+       "words": 1400,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t084_9014b7b4",
+       "title": {
+        "ru": "11 CHaTne N ycTaHOBka neAann TOpM03a, AaTyNka HHNOSROOn nenann TopM03a N A/B CTO",
+        "en": "11 CHaTne N ycTaHOBka neAann TOpM03a, AaTyNka HHNOSROOn nenann TopM03a N A/B CTO"
+       },
+       "words": 868,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t085_b015accc",
+       "title": {
+        "ru": "4acTb E: CnCTeMbl AKTNBHON NOABeCKN N KHTPONS AaBneHnn HakayKN WNH",
+        "en": "4acTb E: CnCTeMbl AKTNBHON NOABeCKN N KHTPONS AaBneHnn HakayKN WNH"
+       },
+       "words": 494,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t086_a3ffa5ae",
+       "title": {
+        "ru": "1.3b PacnonoxeHne KOMNOHEHTOB CNCTeMbl aKTNBHON NOABeckn Ha3aAHen noABecke",
+        "en": "1.3b PacnonoxeHne KOMNOHEHTOB CNCTeMbl aKTNBHON NOABeckn Ha3aAHen noABecke"
+       },
+       "words": 2049,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t087_8347e968",
+       "title": {
+        "ru": "6 CHaTNe N yCTaHOBKa NOBOPOTHOrO kynaka, 3aMeHa KonecHoro NOAWNNHNKA",
+        "en": "6 CHaTNe N yCTaHOBKa NOBOPOTHOrO kynaka, 3aMeHa KonecHoro NOAWNNHNKA"
+       },
+       "words": 1079,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t088_780735c0",
+       "title": {
+        "ru": "CHaTNe N ycTaHOBKa HAkOHeyHNkapynebon TArN, 3aMeHa nblnbHnkapyneboro MexaHN3Ma",
+        "en": "CHaTNe N ycTaHOBKa HAkOHeyHNkapynebon TArN, 3aMeHa nblnbHnkapyneboro MexaHN3Ma"
+       },
+       "words": 1502,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t089_4ad94da4",
+       "title": {
+        "ru": "23 yrnbl yCTaHOBKN KOnec ABTOMO6nnn emmag HhooPmauns",
+        "en": "23 yrnbl yCTaHOBKN KOnec ABTOMO6nnn emmag HhooPmauns"
+       },
+       "words": 1128,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t090_8f73987d",
+       "title": {
+        "ru": "26 CHaTne N ycTaHOBka AaT4NKOB BbICOTbl nepeAHen N 3aAHen nOABeCOk",
+        "en": "26 CHaTne N ycTaHOBka AaT4NKOB BbICOTbl nepeAHen N 3aAHen nOABeCOk"
+       },
+       "words": 915,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t091_422cac20",
+       "title": {
+        "ru": "CHaTNe N yCTaHOBka HPOAONbhbIX 6anok BepxHero 6araxHnka MoAenen Galaxy",
+        "en": "CHaTNe N yCTaHOBka HPOAONbhbIX 6anok BepxHero 6araxHnka MoAenen Galaxy"
+       },
+       "words": 1638,
+       "images": 53,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t092_ef4d8e6d",
+       "title": {
+        "ru": "Perynstop 3aAHero 6okoboro CTekna MOAenen Galaxy",
+        "en": "Perynstop 3aAHero 6okoboro CTekna MOAenen Galaxy"
+       },
+       "words": 947,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t093_8dd3257c",
+       "title": {
+        "ru": "16 CHaTNe N yCTaHOBKaHapyXHbIX 3epkan 3aAHeroBNAa",
+        "en": "16 CHaTNe N yCTaHOBKaHapyXHbIX 3epkan 3aAHeroBNAa"
+       },
+       "words": 918,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t094_d79f0da8",
+       "title": {
+        "ru": "21 CHaTne N ycTaHOBkaBepxHen ceKunn KOHCONNMexAy nePeAHNMNCAAHMN (MOAenn C06bl4H",
+        "en": "21 CHaTne N ycTaHOBkaBepxHen ceKunn KOHCONNMexAy nePeAHNMNCAAHMN (MOAenn C06bl4H"
+       },
+       "words": 1732,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t095_4e287537",
+       "title": {
+        "ru": "25 CHaTne N ycTaHOBkanepeAHero Pemha6e30nacHocTN N eroBO3BPaTHoro MexaHN3Ma",
+        "en": "25 CHaTne N ycTaHOBkanepeAHero Pemha6e30nacHocTN N eroBO3BPaTHoro MexaHN3Ma"
+       },
+       "words": 643,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t096_bb484807",
+       "title": {
+        "ru": "Pene (RA, RB, RC, R5M) B 3aAHeM MOHTAKHOM 6noke (RJB)",
+        "en": "Pene (RA, RB, RC, R5M) B 3aAHeM MOHTAKHOM 6noke (RJB)"
+       },
+       "words": 535,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t097_77dc8137",
+       "title": {
+        "ru": "2 AnarHocTNka HeNcnpaBHocTen 6opToBoro SnektpooGopyAobahns",
+        "en": "2 AnarHocTNka HeNcnpaBHocTen 6opToBoro SnektpooGopyAobahns"
+       },
+       "words": 1435,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t098_5610a9e6",
+       "title": {
+        "ru": "CHaTNe N ycTaHOBka c6opknnIPOTNBOTyMAHHON Φapbl/nepeAHero ra6apnTHoro IAHanCOOTB",
+        "en": "CHaTNe N ycTaHOBka c6opknnIPOTNBOTyMAHHON Φapbl/nepeAHero ra6apnTHoro IAHanCOOTB"
+       },
+       "words": 829,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t099_ed47f75c",
+       "title": {
+        "ru": "9 CHaTne N ycTaHOBka KOMNOHeHTOB, JRHCSSNCS K ynpabneHnio HapyXHbIM OCBEWEHNeM",
+        "en": "9 CHaTne N ycTaHOBka KOMNOHeHTOB, JRHCSSNCS K ynpabneHnio HapyXHbIM OCBEWEHNeM"
+       },
+       "words": 754,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t100_7f0ccaae",
+       "title": {
+        "ru": "12 CHaTNe N ycTaHOBka3/MoTopa N pblyarobO4NCTNTEnen BeTpOBoroCTekna",
+        "en": "12 CHaTNe N ycTaHOBka3/MoTopa N pblyarobO4NCTNTEnen BeTpOBoroCTekna"
+       },
+       "words": 855,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t101_04323e4f",
+       "title": {
+        "ru": "MoAysb POHTanbhOn noAyWKN 6e30nacHocTN BOANTENS/ BblkniOyaTenb KakcOHa",
+        "en": "MoAysb POHTanbhOn noAyWKN 6e30nacHocTN BOANTENS/ BblkniOyaTenb KakcOHa"
+       },
+       "words": 833,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t102_c32b93f6",
+       "title": {
+        "ru": "19 BbIKnoyaTenb NOAyWKN 6e30nacHoctn nepeAHero naccaxnpa",
+        "en": "19 BbIKnoyaTenb NOAyWKN 6e30nacHoctn nepeAHero naccaxnpa"
+       },
+       "words": 632,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t103_af3cda60",
+       "title": {
+        "ru": "MoAynb HPeAynpexAenng 。 NPnunnenn K NPEnsTcTBniO (MOAenn C aAanTNBHbIM TeMnOCTaT",
+        "en": "MoAynb HPeAynpexAenng 。 NPnunnenn K NPEnsTcTBniO (MOAenn C aAanTNBHbIM TeMnOCTaT"
+       },
+       "words": 757,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_s_max_general_t104_d3ade693",
+       "title": {
+        "ru": "0603Ha4eHne KOAa ənekTpnyeckoro pa3beMa （5 Ha NSII",
+        "en": "0603Ha4eHne KOAa ənekTpnyeckoro pa3beMa （5 Ha NSII"
+       },
+       "words": 695,
+       "images": 3,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

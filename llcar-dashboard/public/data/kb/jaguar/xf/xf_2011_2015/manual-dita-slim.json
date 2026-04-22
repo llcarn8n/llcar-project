@@ -1,0 +1,3905 @@
+{
+ "version": "1.0",
+ "model": "xf_2011_2015",
+ "manuals": [
+  {
+   "model": "xf_2011_2015",
+   "label": {
+    "ru": "Jaguar Xf 2011 2015 — Руководство по ремонту",
+    "en": "Jaguar Xf 2011 2015 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_engine_t000_19a24d23",
+       "title": {
+        "ru": "V6 S/C 3.0L Petrol Engine Control Module (ECM)",
+        "en": "V6 S/C 3.0L Petrol Engine Control Module (ECM)"
+       },
+       "words": 1963,
+       "images": 179,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t001_9ab5a53c",
+       "title": {
+        "ru": "High Pressure Air, Lubrication and Oil Test Equipment",
+        "en": "High Pressure Air, Lubrication and Oil Test Equipment"
+       },
+       "words": 1485,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t002_9db3e6dd",
+       "title": {
+        "ru": "Know the Probability of Certain Conditions Developing",
+        "en": "Know the Probability of Certain Conditions Developing"
+       },
+       "words": 1027,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t003_f3a20aa7",
+       "title": {
+        "ru": "NOTE: Prior to carrying out any diagnosis, make sure the brake system warning in",
+        "en": "NOTE: Prior to carrying out any diagnosis, make sure the brake system warning in"
+       },
+       "words": 876,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t004_497ef3c5",
+       "title": {
+        "ru": "NOTE: Prior to carrying out any diagnosis, make sure the brake system warning in",
+        "en": "NOTE: Prior to carrying out any diagnosis, make sure the brake system warning in"
+       },
+       "words": 1240,
+       "images": 25,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t005_634716ad",
+       "title": {
+        "ru": "Non Pressure Leaks",
+        "en": "Non Pressure Leaks"
+       },
+       "words": 1131,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t006_71345b10",
+       "title": {
+        "ru": "NOTE: Dynamic mode cannot be active at the same time as winter mode.",
+        "en": "NOTE: Dynamic mode cannot be active at the same time as winter mode."
+       },
+       "words": 1091,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t007_361a328d",
+       "title": {
+        "ru": "Fluorescent Oil Additive Method",
+        "en": "Fluorescent Oil Additive Method"
+       },
+       "words": 1587,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t008_e87218d3",
+       "title": {
+        "ru": "Interpreting Vacuum Gauge Readings",
+        "en": "Interpreting Vacuum Gauge Readings"
+       },
+       "words": 2304,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t009_3f1710a2",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 1730,
+       "images": 57,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t010_6da4477e",
+       "title": {
+        "ru": "FLEX FUEL SENSOR (NAS VEHICLES ONLY)",
+        "en": "FLEX FUEL SENSOR (NAS VEHICLES ONLY)"
+       },
+       "words": 2442,
+       "images": 67,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t011_b5566207",
+       "title": {
+        "ru": "Diesel Particulate Filter Temperature Sensors",
+        "en": "Diesel Particulate Filter Temperature Sensors"
+       },
+       "words": 1243,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t012_20d18479",
+       "title": {
+        "ru": "OTE: Ensure the engine is at normal operating temperatur",
+        "en": "OTE: Ensure the engine is at normal operating temperatur"
+       },
+       "words": 1381,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t013_4d4f5d16",
+       "title": {
+        "ru": "Engine - V6 S/C 3.0L Petrol - Exhaust Manifold LH Removal and Installation",
+        "en": "Engine - V6 S/C 3.0L Petrol - Exhaust Manifold LH Removal and Installation"
+       },
+       "words": 1004,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t014_c6e9b265",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 1830,
+       "images": 21,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t015_fbc6145f",
+       "title": {
+        "ru": "Engine Speed Between 200 and 350 RPM",
+        "en": "Engine Speed Between 200 and 350 RPM"
+       },
+       "words": 1925,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t016_4b387621",
+       "title": {
+        "ru": "Engine Cooling - V6 S/C 3.0L Petrol - Engine Cooling - Component Location Descri",
+        "en": "Engine Cooling - V6 S/C 3.0L Petrol - Engine Cooling - Component Location Descri"
+       },
+       "words": 1759,
+       "images": 19,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t017_72392e3d",
+       "title": {
+        "ru": "Automatic Transmission/Transaxle - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Di",
+        "en": "Automatic Transmission/Transaxle - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Di"
+       },
+       "words": 2503,
+       "images": 44,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t018_1f4c2351",
+       "title": {
+        "ru": "CAUTION: Only rotate the crankshaft clockwise.",
+        "en": "CAUTION: Only rotate the crankshaft clockwise."
+       },
+       "words": 1363,
+       "images": 54,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t019_d3fd0929",
+       "title": {
+        "ru": "Published: 02-Jan-2013 Engine - V6 S/C 3.0L Petrol - Exhaust Manifold RH Removal",
+        "en": "Published: 02-Jan-2013 Engine - V6 S/C 3.0L Petrol - Exhaust Manifold RH Removal"
+       },
+       "words": 840,
+       "images": 37,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t020_a23d85be",
+       "title": {
+        "ru": "Engine - V6 S/C 3.0L Petrol - Engine - System Operation and Component Descriptio",
+        "en": "Engine - V6 S/C 3.0L Petrol - Engine - System Operation and Component Descriptio"
+       },
+       "words": 1067,
+       "images": 23,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t021_f82eb403",
+       "title": {
+        "ru": "Dynamic Balancers and Auxiliary Camshaft",
+        "en": "Dynamic Balancers and Auxiliary Camshaft"
+       },
+       "words": 2096,
+       "images": 24,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t022_2a950a27",
+       "title": {
+        "ru": "Published: 09-Nov-2012 Engine - V6 S/C 3.0L Petrol - Engine Diagnosis and Testin",
+        "en": "Published: 09-Nov-2012 Engine - V6 S/C 3.0L Petrol - Engine Diagnosis and Testin"
+       },
+       "words": 1749,
+       "images": 69,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t023_a811b4e6",
+       "title": {
+        "ru": "Engine - V6 S/C 3.0L Petrol - Engine Mount LH AWD Removal and Installation",
+        "en": "Engine - V6 S/C 3.0L Petrol - Engine Mount LH AWD Removal and Installation"
+       },
+       "words": 2059,
+       "images": 23,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t024_8353a174",
+       "title": {
+        "ru": "Published: 13-May-2014 Engine - V6 S/C 3.0L Petrol - Flexplate Removal and Insta",
+        "en": "Published: 13-May-2014 Engine - V6 S/C 3.0L Petrol - Flexplate Removal and Insta"
+       },
+       "words": 2026,
+       "images": 90,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t025_7c7e18c8",
+       "title": {
+        "ru": "Engine - V6 S/C 3.0L Petrol - Oil Pan Extension RWD",
+        "en": "Engine - V6 S/C 3.0L Petrol - Oil Pan Extension RWD"
+       },
+       "words": 1228,
+       "images": 75,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t026_660645e4",
+       "title": {
+        "ru": "Published: 10-Aug-2015 Engine - V6 S/C 3.0L Petrol - Timing Chain Tensioner - En",
+        "en": "Published: 10-Aug-2015 Engine - V6 S/C 3.0L Petrol - Timing Chain Tensioner - En"
+       },
+       "words": 1463,
+       "images": 87,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t027_3f0ab959",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 1162,
+       "images": 27,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t028_85971a35",
+       "title": {
+        "ru": "Engine Emission Control - V6 S/C 3.0L Petrol - Engine Emission Control - System ",
+        "en": "Engine Emission Control - V6 S/C 3.0L Petrol - Engine Emission Control - System "
+       },
+       "words": 549,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t029_f6896f50",
+       "title": {
+        "ru": "Electronic Engine Controls - V6 S/C 3.0L Petrol - Electronic Engine Controls Com",
+        "en": "Electronic Engine Controls - V6 S/C 3.0L Petrol - Electronic Engine Controls Com"
+       },
+       "words": 1510,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t030_41c142e6",
+       "title": {
+        "ru": "MASS AIR FLOW AND TEMPERATURE (MAFT) SENSORS",
+        "en": "MASS AIR FLOW AND TEMPERATURE (MAFT) SENSORS"
+       },
+       "words": 1288,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t031_44e19d75",
+       "title": {
+        "ru": "Electronic Engine Controls - V6 S/C 3.0L Petrol - Left Mid catalyst Heated Oxyge",
+        "en": "Electronic Engine Controls - V6 S/C 3.0L Petrol - Left Mid catalyst Heated Oxyge"
+       },
+       "words": 1289,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t032_c80d564b",
+       "title": {
+        "ru": "Electronic Engine Controls - V6 S/C 3.0L Petrol - Right Mid catalyst Heated Oxyg",
+        "en": "Electronic Engine Controls - V6 S/C 3.0L Petrol - Right Mid catalyst Heated Oxyg"
+       },
+       "words": 656,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t033_c07d776c",
+       "title": {
+        "ru": "Engine cranks but will not start",
+        "en": "Engine cranks but will not start"
+       },
+       "words": 1990,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t034_2c070fa8",
+       "title": {
+        "ru": "SERVICE INTERVAL INDICATOR - 2.2 DIESEL (DW12c), 3.0 V6 DIESEL (TdV6), 5.0L V8 S",
+        "en": "SERVICE INTERVAL INDICATOR - 2.2 DIESEL (DW12c), 3.0 V6 DIESEL (TdV6), 5.0L V8 S"
+       },
+       "words": 1913,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t035_b692415d",
+       "title": {
+        "ru": "Engine Compartment Lid Latches",
+        "en": "Engine Compartment Lid Latches"
+       },
+       "words": 802,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_engine_t036_2537773f",
+       "title": {
+        "ru": "Engine Compartment Lid",
+        "en": "Engine Compartment Lid"
+       },
+       "words": 917,
+       "images": 4,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t000_2954fb56",
+       "title": {
+        "ru": "Anti-Lock Brake System Control Module (ABS)",
+        "en": "Anti-Lock Brake System Control Module (ABS)"
+       },
+       "words": 1413,
+       "images": 23,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t001_7e668e63",
+       "title": {
+        "ru": "Brake Fluids (Polyalkylene Glycols)",
+        "en": "Brake Fluids (Polyalkylene Glycols)"
+       },
+       "words": 1779,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t002_d2b5c0d9",
+       "title": {
+        "ru": "Electronic Brake Prefill (all diesel and V6 petrol vehicles and all other vehicl",
+        "en": "Electronic Brake Prefill (all diesel and V6 petrol vehicles and all other vehicl"
+       },
+       "words": 1426,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t003_c299aaff",
+       "title": {
+        "ru": "Brake Booster Vacuum Sensor (3.0L Petrol Vehicles Only)",
+        "en": "Brake Booster Vacuum Sensor (3.0L Petrol Vehicles Only)"
+       },
+       "words": 984,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t004_072ee913",
+       "title": {
+        "ru": "Front Disc Brake - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Diesel /V6 S/C 3.0",
+        "en": "Front Disc Brake - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Diesel /V6 S/C 3.0"
+       },
+       "words": 1098,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t005_ef38f6a7",
+       "title": {
+        "ru": "NOTE: Left-hand shown, right-hand similar.",
+        "en": "NOTE: Left-hand shown, right-hand similar."
+       },
+       "words": 977,
+       "images": 21,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t006_90c67cb1",
+       "title": {
+        "ru": "Standard Brakes - 5.0L Naturally Aspirated V8, Mid and High Power 3.0L TdV6 Vehi",
+        "en": "Standard Brakes - 5.0L Naturally Aspirated V8, Mid and High Power 3.0L TdV6 Vehi"
+       },
+       "words": 1041,
+       "images": 29,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t007_0a622a03",
+       "title": {
+        "ru": "Published: 11-May-2011 Front Disc Brake - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 ",
+        "en": "Published: 11-May-2011 Front Disc Brake - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 "
+       },
+       "words": 1038,
+       "images": 35,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t008_ff26788c",
+       "title": {
+        "ru": "Hydraulic Brake Actuation - Hydraulic Brake Actuation - Component Location Descr",
+        "en": "Hydraulic Brake Actuation - Hydraulic Brake Actuation - Component Location Descr"
+       },
+       "words": 641,
+       "images": 22,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t009_63be4aba",
+       "title": {
+        "ru": "Parking Brake and Actuation - Parking Brake - Component Location Description and",
+        "en": "Parking Brake and Actuation - Parking Brake - Component Location Description and"
+       },
+       "words": 1472,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t010_70009f58",
+       "title": {
+        "ru": "Parking Brake Actuator",
+        "en": "Parking Brake Actuator"
+       },
+       "words": 1056,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t011_9191f1ad",
+       "title": {
+        "ru": "Parking Brake and Actuation - Parking Brake Cable Tension Release General Proced",
+        "en": "Parking Brake and Actuation - Parking Brake Cable Tension Release General Proced"
+       },
+       "words": 1309,
+       "images": 19,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t012_fa5bd438",
+       "title": {
+        "ru": "Published: 11-May-2011 Rear Disc Brake - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3",
+        "en": "Published: 11-May-2011 Rear Disc Brake - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3"
+       },
+       "words": 717,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t013_3dd3460c",
+       "title": {
+        "ru": "Rear Disc Brake - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Diesel /V6 S/C 3.0L",
+        "en": "Rear Disc Brake - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Diesel /V6 S/C 3.0L"
+       },
+       "words": 1383,
+       "images": 33,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t014_9cdc8a44",
+       "title": {
+        "ru": "Rear Disc Brake - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Diesel /V6 S/C 3.0L",
+        "en": "Rear Disc Brake - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Diesel /V6 S/C 3.0L"
+       },
+       "words": 806,
+       "images": 22,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t015_41ab4cbc",
+       "title": {
+        "ru": "Advanced Emergency Brake Assist - Malfunction Warnings",
+        "en": "Advanced Emergency Brake Assist - Malfunction Warnings"
+       },
+       "words": 885,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t016_88c01613",
+       "title": {
+        "ru": "NOTE: A = Primary battery supply, B = Secondary battery supply",
+        "en": "NOTE: A = Primary battery supply, B = Secondary battery supply"
+       },
+       "words": 1681,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t017_a9e85eba",
+       "title": {
+        "ru": "8. and 9. Anti-lock Braking System (ABS) Warning Indicator",
+        "en": "8. and 9. Anti-lock Braking System (ABS) Warning Indicator"
+       },
+       "words": 1189,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t018_9f32c7cd",
+       "title": {
+        "ru": "NOTE: Sportbrake shown, Saloon similar",
+        "en": "NOTE: Sportbrake shown, Saloon similar"
+       },
+       "words": 1324,
+       "images": 27,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_brakes_t019_698cd4f1",
+       "title": {
+        "ru": "WINDSHIELD WASHER RESERVOIR",
+        "en": "WINDSHIELD WASHER RESERVOIR"
+       },
+       "words": 790,
+       "images": 25,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_suspension_t000_f156bf62",
+       "title": {
+        "ru": "Front Suspension - Front Stabilizer Bar V6 S/C 3.0L Petrol /V8 S/C 5.0L Petrol R",
+        "en": "Front Suspension - Front Stabilizer Bar V6 S/C 3.0L Petrol /V8 S/C 5.0L Petrol R"
+       },
+       "words": 648,
+       "images": 11,
+       "section_id": "suspension"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_suspension_t001_0a1b697b",
+       "title": {
+        "ru": "Front Suspension - Front Suspension AWD - System Operation and Component Descrip",
+        "en": "Front Suspension - Front Suspension AWD - System Operation and Component Descrip"
+       },
+       "words": 773,
+       "images": 9,
+       "section_id": "suspension"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_suspension_t002_d8d2b268",
+       "title": {
+        "ru": "Front Suspension - Rear Lower Arm Bushing Removal and Installation",
+        "en": "Front Suspension - Rear Lower Arm Bushing Removal and Installation"
+       },
+       "words": 1460,
+       "images": 9,
+       "section_id": "suspension"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_suspension_t003_9b65c351",
+       "title": {
+        "ru": "Published: 11-May-2011 Vehicle Dynamic Suspension - Vehicle Dynamic Suspension V",
+        "en": "Published: 11-May-2011 Vehicle Dynamic Suspension - Vehicle Dynamic Suspension V"
+       },
+       "words": 1653,
+       "images": 16,
+       "section_id": "suspension"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_suspension_t004_e7d8f0f9",
+       "title": {
+        "ru": "Rear Suspension - Shock Absorber and Spring Assembly 4-Door Removal and Installa",
+        "en": "Rear Suspension - Shock Absorber and Spring Assembly 4-Door Removal and Installa"
+       },
+       "words": 594,
+       "images": 12,
+       "section_id": "suspension"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_suspension_t005_744c9318",
+       "title": {
+        "ru": "3 Install and fully tighten the new air line connector to the correct compónent'",
+        "en": "3 Install and fully tighten the new air line connector to the correct compónent'"
+       },
+       "words": 1191,
+       "images": 33,
+       "section_id": "suspension"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_suspension_t006_aa26009d",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 892,
+       "images": 19,
+       "section_id": "suspension"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_suspension_t007_1c09196b",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 1577,
+       "images": 20,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_electrical_t000_9f5bf449",
+       "title": {
+        "ru": "SRS harness and connectors",
+        "en": "SRS harness and connectors"
+       },
+       "words": 581,
+       "images": 7,
+       "section_id": "electrical"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_electrical_t001_a49ed939",
+       "title": {
+        "ru": "Approved probing and repair methods",
+        "en": "Approved probing and repair methods"
+       },
+       "words": 912,
+       "images": 50,
+       "section_id": "electrical"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_electrical_t002_5c2b3f7a",
+       "title": {
+        "ru": "Approved Electrical Wiring Harness Repair Methods",
+        "en": "Approved Electrical Wiring Harness Repair Methods"
+       },
+       "words": 1032,
+       "images": 17,
+       "section_id": "electrical"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_electrical_t003_0d36d928",
+       "title": {
+        "ru": "Types of Electrical Wiring Harness Splice Repairs",
+        "en": "Types of Electrical Wiring Harness Splice Repairs"
+       },
+       "words": 1257,
+       "images": 18,
+       "section_id": "electrical"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_electrical_t004_804a8673",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 564,
+       "images": 5,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_hvac_t000_d2174a0b",
+       "title": {
+        "ru": "Water - based Adhesives/Sealers",
+        "en": "Water - based Adhesives/Sealers"
+       },
+       "words": 810,
+       "images": 11,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_hvac_t001_5536d774",
+       "title": {
+        "ru": "Auxiliary Climate Control - Electric Booster Heater - Component Location Descrip",
+        "en": "Auxiliary Climate Control - Electric Booster Heater - Component Location Descrip"
+       },
+       "words": 784,
+       "images": 14,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_hvac_t002_3b6a1db3",
+       "title": {
+        "ru": "Published: 25-Jul-2012 Climate Control - Control Components - Component Location",
+        "en": "Published: 25-Jul-2012 Climate Control - Control Components - Component Location"
+       },
+       "words": 604,
+       "images": 19,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_hvac_t003_132eaa11",
+       "title": {
+        "ru": "Climate Control - Heating and Ventilation - Component Location Description and O",
+        "en": "Climate Control - Heating and Ventilation - Component Location Description and O"
+       },
+       "words": 787,
+       "images": 25,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_hvac_t004_02bc1aa8",
+       "title": {
+        "ru": "Climate Control - Air Distribution and Filtering - System Operation and Componen",
+        "en": "Climate Control - Air Distribution and Filtering - System Operation and Componen"
+       },
+       "words": 930,
+       "images": 9,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_body_t000_d9b4aae2",
+       "title": {
+        "ru": "Diagnostic Procedures For DTC B11DB-87 (Battery Monitoring Module \"A\" - Missing ",
+        "en": "Diagnostic Procedures For DTC B11DB-87 (Battery Monitoring Module \"A\" - Missing "
+       },
+       "words": 967,
+       "images": 16,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t001_62109a39",
+       "title": {
+        "ru": "HIGH PRESSURE FUEL PUMPS",
+        "en": "HIGH PRESSURE FUEL PUMPS"
+       },
+       "words": 1118,
+       "images": 20,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t002_bf76c2d8",
+       "title": {
+        "ru": "Vehicles Without DPF",
+        "en": "Vehicles Without DPF"
+       },
+       "words": 913,
+       "images": 40,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t003_6854716d",
+       "title": {
+        "ru": "Draining",
+        "en": "Draining"
+       },
+       "words": 1775,
+       "images": 44,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t004_48c750b8",
+       "title": {
+        "ru": "Keyless Vehicle Module",
+        "en": "Keyless Vehicle Module"
+       },
+       "words": 1394,
+       "images": 30,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t005_bc4e19eb",
+       "title": {
+        "ru": "SECONDARY BATTERY - DUAL BATTERY VEHICLES ONLY",
+        "en": "SECONDARY BATTERY - DUAL BATTERY VEHICLES ONLY"
+       },
+       "words": 1100,
+       "images": 12,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t006_d0b0b2af",
+       "title": {
+        "ru": "CENTRAL JUNCTION BOX (CJB) AND REAR JUNCTION BOX (RJB)",
+        "en": "CENTRAL JUNCTION BOX (CJB) AND REAR JUNCTION BOX (RJB)"
+       },
+       "words": 1047,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t007_830c9135",
+       "title": {
+        "ru": "DTE: The term interior lamps also includes the door mirror approach lamps",
+        "en": "DTE: The term interior lamps also includes the door mirror approach lamps"
+       },
+       "words": 768,
+       "images": 15,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t008_2f8e2fd5",
+       "title": {
+        "ru": "Principles of Operation",
+        "en": "Principles of Operation"
+       },
+       "words": 480,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t009_634a7702",
+       "title": {
+        "ru": "Blind Spot Monitoring",
+        "en": "Blind Spot Monitoring"
+       },
+       "words": 1617,
+       "images": 15,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t010_35373faf",
+       "title": {
+        "ru": "Jaguar Original Parts",
+        "en": "Jaguar Original Parts"
+       },
+       "words": 1738,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t011_a838783b",
+       "title": {
+        "ru": "Area of Underbody Sealer Application - Spare Wheel Well and Rear Side Member",
+        "en": "Area of Underbody Sealer Application - Spare Wheel Well and Rear Side Member"
+       },
+       "words": 1245,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t012_9a3441c8",
+       "title": {
+        "ru": "NOTE: Check dimensions and gaps continuously during straightening.",
+        "en": "NOTE: Check dimensions and gaps continuously during straightening."
+       },
+       "words": 1333,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t013_6a824f1c",
+       "title": {
+        "ru": "IOTE: A = Non-deployed hinge; B = Deployed hinge",
+        "en": "IOTE: A = Non-deployed hinge; B = Deployed hinge"
+       },
+       "words": 878,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t014_7922e4aa",
+       "title": {
+        "ru": "NOTE: The prescribed length of a seal must not be shortened.",
+        "en": "NOTE: The prescribed length of a seal must not be shortened."
+       },
+       "words": 1069,
+       "images": 15,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t015_8ae76c6f",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 709,
+       "images": 30,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t016_0dcdded5",
+       "title": {
+        "ru": "Front End Sheet Metal Repairs - Fender Apron Panel Removal and Installation",
+        "en": "Front End Sheet Metal Repairs - Fender Apron Panel Removal and Installation"
+       },
+       "words": 1893,
+       "images": 33,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t017_ed2a9a53",
+       "title": {
+        "ru": "Glass, Frames and Mechanisms - Door Window Motor Initialization General Procedur",
+        "en": "Glass, Frames and Mechanisms - Door Window Motor Initialization General Procedur"
+       },
+       "words": 2981,
+       "images": 29,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t018_e0af5234",
+       "title": {
+        "ru": "Published: 24-Jan-2013 Glass, Frames and Mechanisms - Glass, Frames and Mechanis",
+        "en": "Published: 24-Jan-2013 Glass, Frames and Mechanisms - Glass, Frames and Mechanis"
+       },
+       "words": 643,
+       "images": 14,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t019_d0535c67",
+       "title": {
+        "ru": "Interior Mirror and Rain Sensor",
+        "en": "Interior Mirror and Rain Sensor"
+       },
+       "words": 864,
+       "images": 20,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t020_44e1ba4e",
+       "title": {
+        "ru": "System Operation",
+        "en": "System Operation"
+       },
+       "words": 1229,
+       "images": 28,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t021_5d4af01d",
+       "title": {
+        "ru": "IOTE: A = Non-deployed hinge; B = Deployed hinge",
+        "en": "IOTE: A = Non-deployed hinge; B = Deployed hinge"
+       },
+       "words": 824,
+       "images": 28,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t022_78515757",
+       "title": {
+        "ru": "Interior Trim and Ornamentation - Sun Visor Vanity Mirror Removal and Installati",
+        "en": "Interior Trim and Ornamentation - Sun Visor Vanity Mirror Removal and Installati"
+       },
+       "words": 827,
+       "images": 13,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t023_4e7efa32",
+       "title": {
+        "ru": "Rear View Mirrors - Rear View Mirrors - Component Location Description and Opera",
+        "en": "Rear View Mirrors - Rear View Mirrors - Component Location Description and Opera"
+       },
+       "words": 1369,
+       "images": 27,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t024_6ba6f9fa",
+       "title": {
+        "ru": "Roof Opening Panel Motor Synchronization De-activation Procedure.",
+        "en": "Roof Opening Panel Motor Synchronization De-activation Procedure."
+       },
+       "words": 1836,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t025_9f6ea954",
+       "title": {
+        "ru": "Roof Opening Panel - Roof Opening Panel Alignment General Procedures",
+        "en": "Roof Opening Panel - Roof Opening Panel Alignment General Procedures"
+       },
+       "words": 1071,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t026_0735587b",
+       "title": {
+        "ru": "Roof Sheet Metal Repairs - Roof",
+        "en": "Roof Sheet Metal Repairs - Roof"
+       },
+       "words": 1446,
+       "images": 27,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t027_3cf7ea34",
+       "title": {
+        "ru": "Combination panel replacement times",
+        "en": "Combination panel replacement times"
+       },
+       "words": 2817,
+       "images": 29,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t028_4222c01c",
+       "title": {
+        "ru": "Published: 11-May-2011 Uni-Body, Subframe and Mounting System - Rear Subframe Re",
+        "en": "Published: 11-May-2011 Uni-Body, Subframe and Mounting System - Rear Subframe Re"
+       },
+       "words": 1589,
+       "images": 11,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_body_t029_03af7eac",
+       "title": {
+        "ru": "Published: 17-Aug-2011 Uni-Body, Subframe and Mounting System -",
+        "en": "Published: 17-Aug-2011 Uni-Body, Subframe and Mounting System -"
+       },
+       "words": 687,
+       "images": 27,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_steering_t000_dee0fade",
+       "title": {
+        "ru": "Power Steering - Power Steering AWD - Component Location Description and Operati",
+        "en": "Power Steering - Power Steering AWD - Component Location Description and Operati"
+       },
+       "words": 1099,
+       "images": 26,
+       "section_id": "steering"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_steering_t001_af63c3c4",
+       "title": {
+        "ru": "Power Steering Pump - V6 3.0L S/C Petrol",
+        "en": "Power Steering Pump - V6 3.0L S/C Petrol"
+       },
+       "words": 2105,
+       "images": 18,
+       "section_id": "steering"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_steering_t002_b6eb22e5",
+       "title": {
+        "ru": "Power Steering - Power Steering RWD - Component Location",
+        "en": "Power Steering - Power Steering RWD - Component Location"
+       },
+       "words": 2288,
+       "images": 18,
+       "section_id": "steering"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_steering_t003_f580871a",
+       "title": {
+        "ru": "DIAGNOSTIC STEPS FOR HEAVY STEERING/STEERING REQUIRES UNEVEN EFFORT",
+        "en": "DIAGNOSTIC STEPS FOR HEAVY STEERING/STEERING REQUIRES UNEVEN EFFORT"
+       },
+       "words": 456,
+       "images": 23,
+       "section_id": "steering"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_steering_t004_4d2aa32d",
+       "title": {
+        "ru": "CAUTION: Do not allow the gaiter to twist.",
+        "en": "CAUTION: Do not allow the gaiter to twist."
+       },
+       "words": 841,
+       "images": 7,
+       "section_id": "steering"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_steering_t005_73687000",
+       "title": {
+        "ru": "Published: 03-Jun-2011 Power Steering - Steering Gear to Fluid Cooler Return Hos",
+        "en": "Published: 03-Jun-2011 Power Steering - Steering Gear to Fluid Cooler Return Hos"
+       },
+       "words": 1582,
+       "images": 22,
+       "section_id": "steering"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_steering_t006_22c7428d",
+       "title": {
+        "ru": "Published: 11-May-2011 Steering Column Switches - Steering Column Switches - Com",
+        "en": "Published: 11-May-2011 Steering Column Switches - Steering Column Switches - Com"
+       },
+       "words": 941,
+       "images": 9,
+       "section_id": "steering"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_steering_t007_c1cca5aa",
+       "title": {
+        "ru": "Published: 11-May-2011 Steering Linkage - Steering Linkage - Component Location ",
+        "en": "Published: 11-May-2011 Steering Linkage - Steering Linkage - Component Location "
+       },
+       "words": 560,
+       "images": 13,
+       "section_id": "steering"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_steering_t008_e80ca9ac",
+       "title": {
+        "ru": "DIAGNOSTIC PROCEDURES FOR STEERING LINKAGE",
+        "en": "DIAGNOSTIC PROCEDURES FOR STEERING LINKAGE"
+       },
+       "words": 589,
+       "images": 14,
+       "section_id": "steering"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_steering_t009_a7ca8d18",
+       "title": {
+        "ru": "Vehicles with electric power steering",
+        "en": "Vehicles with electric power steering"
+       },
+       "words": 809,
+       "images": 19,
+       "section_id": "steering"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_steering_t010_6611a1e7",
+       "title": {
+        "ru": "18. Side Lights Indicator",
+        "en": "18. Side Lights Indicator"
+       },
+       "words": 826,
+       "images": 7,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t000_aefceb38",
+       "title": {
+        "ru": "Trustmark Authoring Standards (TAS) Repair Procedures",
+        "en": "Trustmark Authoring Standards (TAS) Repair Procedures"
+       },
+       "words": 654,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t001_e35de0b0",
+       "title": {
+        "ru": "Front And Rear Lamp Condensation",
+        "en": "Front And Rear Lamp Condensation"
+       },
+       "words": 1091,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t002_10d27f4e",
+       "title": {
+        "ru": "Shown below are examples of abnormal exterior lamp condensation that may be cove",
+        "en": "Shown below are examples of abnormal exterior lamp condensation that may be cove"
+       },
+       "words": 1050,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t003_d351d432",
+       "title": {
+        "ru": "Service Repair Operation Numbering",
+        "en": "Service Repair Operation Numbering"
+       },
+       "words": 490,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t004_ea91dfaa",
+       "title": {
+        "ru": "Use of Control Modules",
+        "en": "Use of Control Modules"
+       },
+       "words": 648,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t005_1e24b7f6",
+       "title": {
+        "ru": "Principle of Operation",
+        "en": "Principle of Operation"
+       },
+       "words": 1025,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t006_c20f6485",
+       "title": {
+        "ru": "JaguarDrive Control System or Control Module Fault",
+        "en": "JaguarDrive Control System or Control Module Fault"
+       },
+       "words": 1121,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t007_9287ab2e",
+       "title": {
+        "ru": "Steering Linkage Inspection and Backlash (Free Play) Check",
+        "en": "Steering Linkage Inspection and Backlash (Free Play) Check"
+       },
+       "words": 1851,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t008_72c97cd8",
+       "title": {
+        "ru": "Principles of Operation",
+        "en": "Principles of Operation"
+       },
+       "words": 724,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t009_cf3c8b49",
+       "title": {
+        "ru": "Principles of Operation",
+        "en": "Principles of Operation"
+       },
+       "words": 1136,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t010_6b4520b1",
+       "title": {
+        "ru": "Principles of Operation",
+        "en": "Principles of Operation"
+       },
+       "words": 2381,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t011_25ae2c58",
+       "title": {
+        "ru": "Intelligent Stop/Start System",
+        "en": "Intelligent Stop/Start System"
+       },
+       "words": 1524,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t012_45ed945f",
+       "title": {
+        "ru": "Malfunction Indicator Lamp (MIL)",
+        "en": "Malfunction Indicator Lamp (MIL)"
+       },
+       "words": 1973,
+       "images": 41,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t013_4a510013",
+       "title": {
+        "ru": "Automatic Transmission/Transaxle - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Di",
+        "en": "Automatic Transmission/Transaxle - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Di"
+       },
+       "words": 2037,
+       "images": 49,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t014_b0a79625",
+       "title": {
+        "ru": "Transmission/Transaxle Cooling - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Dies",
+        "en": "Transmission/Transaxle Cooling - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Dies"
+       },
+       "words": 1314,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t015_5e2598a0",
+       "title": {
+        "ru": "Diagnosis of Bosch UHEGO & HEGO sensors",
+        "en": "Diagnosis of Bosch UHEGO & HEGO sensors"
+       },
+       "words": 975,
+       "images": 45,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t016_1e7e7723",
+       "title": {
+        "ru": "Showroom Representative Responsibilities",
+        "en": "Showroom Representative Responsibilities"
+       },
+       "words": 1391,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t017_8cb3dba9",
+       "title": {
+        "ru": "A/C Compressor Solenoid Valve",
+        "en": "A/C Compressor Solenoid Valve"
+       },
+       "words": 1430,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t018_164ab68f",
+       "title": {
+        "ru": "Humidity and Temperature Sensor",
+        "en": "Humidity and Temperature Sensor"
+       },
+       "words": 929,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t019_2b231f3d",
+       "title": {
+        "ru": "Exterior Lighting - Exterior Lighting - System Operation and Component Descripti",
+        "en": "Exterior Lighting - Exterior Lighting - System Operation and Component Descripti"
+       },
+       "words": 1535,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t020_51cbfd8d",
+       "title": {
+        "ru": "NOTE: The static bending lamps are not fitted to NAS vehicles.",
+        "en": "NOTE: The static bending lamps are not fitted to NAS vehicles."
+       },
+       "words": 1807,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t021_50173c58",
+       "title": {
+        "ru": "TURN SIGNAL INDICATOR SIDE REPEATER LAMPS",
+        "en": "TURN SIGNAL INDICATOR SIDE REPEATER LAMPS"
+       },
+       "words": 812,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t022_4b54e9b0",
+       "title": {
+        "ru": "Exterior Lighting - Exterior Lighting - System Operation and Component Descripti",
+        "en": "Exterior Lighting - Exterior Lighting - System Operation and Component Descripti"
+       },
+       "words": 1107,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t023_048e201e",
+       "title": {
+        "ru": "TURN SIGNAL INDICATOR SIDE REPEATER LAMPS",
+        "en": "TURN SIGNAL INDICATOR SIDE REPEATER LAMPS"
+       },
+       "words": 1721,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t024_cc78bc88",
+       "title": {
+        "ru": "Supported Video and Audio Extensions",
+        "en": "Supported Video and Audio Extensions"
+       },
+       "words": 573,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t025_d2d290df",
+       "title": {
+        "ru": "16. Dynamic Stability Control (DSC) Warning / Operation Indicator",
+        "en": "16. Dynamic Stability Control (DSC) Warning / Operation Indicator"
+       },
+       "words": 1239,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t026_f68b120e",
+       "title": {
+        "ru": "Multifunction Electronic Modules - Module Controlled Functions - Component Locat",
+        "en": "Multifunction Electronic Modules - Module Controlled Functions - Component Locat"
+       },
+       "words": 538,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t027_6543641e",
+       "title": {
+        "ru": "Parking Aid System On-Board Self-Test",
+        "en": "Parking Aid System On-Board Self-Test"
+       },
+       "words": 614,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t028_09e089d7",
+       "title": {
+        "ru": "Resistance spot welding panels where the total thickness is 3 mm or more",
+        "en": "Resistance spot welding panels where the total thickness is 3 mm or more"
+       },
+       "words": 1297,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t029_d5553ef9",
+       "title": {
+        "ru": "Manual Sunblind Initialization Routine",
+        "en": "Manual Sunblind Initialization Routine"
+       },
+       "words": 1810,
+       "images": 37,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t030_7ed37097",
+       "title": {
+        "ru": "Front Belt Minder Function",
+        "en": "Front Belt Minder Function"
+       },
+       "words": 1121,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t031_c4efe347",
+       "title": {
+        "ru": "Principles of Operation",
+        "en": "Principles of Operation"
+       },
+       "words": 2364,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t032_235f75fe",
+       "title": {
+        "ru": "Front Belt Minder Function",
+        "en": "Front Belt Minder Function"
+       },
+       "words": 2224,
+       "images": 44,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t033_8670c6a1",
+       "title": {
+        "ru": "Restraints Control Module",
+        "en": "Restraints Control Module"
+       },
+       "words": 1593,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_lighting_t034_24d4bba6",
+       "title": {
+        "ru": "WINDSHIELD AND REAR WINDOW WASHERS",
+        "en": "WINDSHIELD AND REAR WINDOW WASHERS"
+       },
+       "words": 673,
+       "images": 8,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_interior_t000_9a135f0a",
+       "title": {
+        "ru": "Seat Climate Control Module/Seat Climate Assembly - Further Diagnostics",
+        "en": "Seat Climate Control Module/Seat Climate Assembly - Further Diagnostics"
+       },
+       "words": 1267,
+       "images": 29,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t001_765b3b38",
+       "title": {
+        "ru": "Diagnostic Guide Inertia Reel Seatbelts",
+        "en": "Diagnostic Guide Inertia Reel Seatbelts"
+       },
+       "words": 466,
+       "images": 12,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t002_b0602458",
+       "title": {
+        "ru": "WARNING: The following precautions MUST be adhered to when working on the SRS sy",
+        "en": "WARNING: The following precautions MUST be adhered to when working on the SRS sy"
+       },
+       "words": 1572,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t003_8773f5fc",
+       "title": {
+        "ru": "Additionally, the following items must be inspected for damage and replaced as n",
+        "en": "Additionally, the following items must be inspected for damage and replaced as n"
+       },
+       "words": 1188,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t004_56a2e761",
+       "title": {
+        "ru": "Published: 05-Jan-2016 Interior Lighting - Interior Lighting - System Operation ",
+        "en": "Published: 05-Jan-2016 Interior Lighting - Interior Lighting - System Operation "
+       },
+       "words": 1004,
+       "images": 17,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t005_fcee3ef1",
+       "title": {
+        "ru": "Navigation System - Navigation System Antenna Removal and Installation",
+        "en": "Navigation System - Navigation System Antenna Removal and Installation"
+       },
+       "words": 463,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t006_208b1ead",
+       "title": {
+        "ru": "Dynamic Seat Belts (DSB)",
+        "en": "Dynamic Seat Belts (DSB)"
+       },
+       "words": 574,
+       "images": 35,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t007_28c29388",
+       "title": {
+        "ru": "Passenger Airbag Deactivation Switch (All Except NAS)",
+        "en": "Passenger Airbag Deactivation Switch (All Except NAS)"
+       },
+       "words": 891,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t008_3abe7e09",
+       "title": {
+        "ru": "Occupant Classification System",
+        "en": "Occupant Classification System"
+       },
+       "words": 839,
+       "images": 41,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t009_c19c16a9",
+       "title": {
+        "ru": "Diagnostic Guide Inertia Reel Seatbelts",
+        "en": "Diagnostic Guide Inertia Reel Seatbelts"
+       },
+       "words": 674,
+       "images": 27,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t010_7cc345a3",
+       "title": {
+        "ru": "Electric Driver Seat Adjustment - Non-Memory Seats",
+        "en": "Electric Driver Seat Adjustment - Non-Memory Seats"
+       },
+       "words": 952,
+       "images": 24,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t011_3d4630b1",
+       "title": {
+        "ru": "Electric Driver Seat Adjustment - Memory Seats",
+        "en": "Electric Driver Seat Adjustment - Memory Seats"
+       },
+       "words": 1354,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t012_a7deed4f",
+       "title": {
+        "ru": "Leather Seat Covers Manufacturing Defect Guidelines",
+        "en": "Leather Seat Covers Manufacturing Defect Guidelines"
+       },
+       "words": 1298,
+       "images": 17,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t013_d06f3041",
+       "title": {
+        "ru": "Examples of Natural Characteristics of Leather",
+        "en": "Examples of Natural Characteristics of Leather"
+       },
+       "words": 978,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t014_c63d8835",
+       "title": {
+        "ru": "Seating - Seats - System Operation and Component Description Description and Ope",
+        "en": "Seating - Seats - System Operation and Component Description Description and Ope"
+       },
+       "words": 1375,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t015_6cc5a82e",
+       "title": {
+        "ru": "Passenger Airbag Deactivation Indicator",
+        "en": "Passenger Airbag Deactivation Indicator"
+       },
+       "words": 910,
+       "images": 16,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_interior_t016_49ac1890",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 91,
+       "images": 7,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_ev_t000_1ded6f8c",
+       "title": {
+        "ru": "Portable Audio Interface Panel/USB Power Supply",
+        "en": "Portable Audio Interface Panel/USB Power Supply"
+       },
+       "words": 698,
+       "images": 17,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t001_e49941b2",
+       "title": {
+        "ru": "Portable Audio Interface Panel/USB Power Supply",
+        "en": "Portable Audio Interface Panel/USB Power Supply"
+       },
+       "words": 2058,
+       "images": 24,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t002_1c758d3f",
+       "title": {
+        "ru": "Making the system safe",
+        "en": "Making the system safe"
+       },
+       "words": 833,
+       "images": 14,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t003_240dae12",
+       "title": {
+        "ru": "ELECTRIC REAR DIFFERENTIAL - V8 S/C 5.OL PETROL VEHICLES",
+        "en": "ELECTRIC REAR DIFFERENTIAL - V8 S/C 5.OL PETROL VEHICLES"
+       },
+       "words": 1750,
+       "images": 52,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t004_571205d8",
+       "title": {
+        "ru": "Fuel Charging and Controls - V6 S/C 3.0L Petrol - Fuel Rail LH Removal and Insta",
+        "en": "Fuel Charging and Controls - V6 S/C 3.0L Petrol - Fuel Rail LH Removal and Insta"
+       },
+       "words": 629,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t005_561deeb9",
+       "title": {
+        "ru": "System Operation",
+        "en": "System Operation"
+       },
+       "words": 882,
+       "images": 18,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t006_d0621ddc",
+       "title": {
+        "ru": "System Operation",
+        "en": "System Operation"
+       },
+       "words": 1475,
+       "images": 53,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t007_2adb19c4",
+       "title": {
+        "ru": "MECHATRONIC VALVE BLOCK",
+        "en": "MECHATRONIC VALVE BLOCK"
+       },
+       "words": 1044,
+       "images": 25,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t008_014e0540",
+       "title": {
+        "ru": "MECHATRONIC VALVE BLOCK",
+        "en": "MECHATRONIC VALVE BLOCK"
+       },
+       "words": 995,
+       "images": 41,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t009_ea76e8c6",
+       "title": {
+        "ru": "All vehicles",
+        "en": "All vehicles"
+       },
+       "words": 1395,
+       "images": 51,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t010_6cf480d9",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 1235,
+       "images": 28,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t011_997e9d88",
+       "title": {
+        "ru": "2.4 Jump Starting New vehicles before they have been delivered to the customer",
+        "en": "2.4 Jump Starting New vehicles before they have been delivered to the customer"
+       },
+       "words": 1494,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t012_ed5f9a65",
+       "title": {
+        "ru": "All AGM and Flooded Battery Testing",
+        "en": "All AGM and Flooded Battery Testing"
+       },
+       "words": 1133,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t013_8985f2ed",
+       "title": {
+        "ru": "Published: 07-Jan-2013 Battery, Mounting and Cables - Battery and Cables - Compo",
+        "en": "Published: 07-Jan-2013 Battery, Mounting and Cables - Battery and Cables - Compo"
+       },
+       "words": 1470,
+       "images": 14,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t014_173d49c0",
+       "title": {
+        "ru": "BATTERY MONITORING SYSTEM - SINGLE AND DUAL BATTERY SYSTEM VEHICLES",
+        "en": "BATTERY MONITORING SYSTEM - SINGLE AND DUAL BATTERY SYSTEM VEHICLES"
+       },
+       "words": 2938,
+       "images": 5,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t015_f40ae0ad",
+       "title": {
+        "ru": "Midtronics EXP-1080 User Guide",
+        "en": "Midtronics EXP-1080 User Guide"
+       },
+       "words": 639,
+       "images": 13,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t016_8ebbcd1e",
+       "title": {
+        "ru": "Published: 07-Jan-2013 Battery, Mounting and Cables - Battery and Cables - Compo",
+        "en": "Published: 07-Jan-2013 Battery, Mounting and Cables - Battery and Cables - Compo"
+       },
+       "words": 643,
+       "images": 37,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t017_de6cd58c",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 1251,
+       "images": 29,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t018_01502417",
+       "title": {
+        "ru": "Portable Audio Interface Panel/USB Power Supply",
+        "en": "Portable Audio Interface Panel/USB Power Supply"
+       },
+       "words": 1126,
+       "images": 16,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t019_ba5ba495",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 1054,
+       "images": 11,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t020_5ea1a702",
+       "title": {
+        "ru": "Extraction Tools",
+        "en": "Extraction Tools"
+       },
+       "words": 1599,
+       "images": 60,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t021_67f5b62e",
+       "title": {
+        "ru": "2.4 Jump Starting New vehicles before they have been delivered to the customer",
+        "en": "2.4 Jump Starting New vehicles before they have been delivered to the customer"
+       },
+       "words": 1451,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t022_8b366399",
+       "title": {
+        "ru": "All AGM and Flooded Battery Testing",
+        "en": "All AGM and Flooded Battery Testing"
+       },
+       "words": 1096,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t023_9f4ff43b",
+       "title": {
+        "ru": "Tailgate/Luggage Compartment Lid Latch",
+        "en": "Tailgate/Luggage Compartment Lid Latch"
+       },
+       "words": 1282,
+       "images": 40,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t024_bb56487e",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 1466,
+       "images": 47,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_ev_t025_eef3b8eb",
+       "title": {
+        "ru": "Removal",
+        "en": "Removal"
+       },
+       "words": 1108,
+       "images": 53,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_chassis_t000_e927e747",
+       "title": {
+        "ru": "Noise, Vibration and Harshness - Exhaust System Neutralizing General Procedures",
+        "en": "Noise, Vibration and Harshness - Exhaust System Neutralizing General Procedures"
+       },
+       "words": 1489,
+       "images": 3,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_chassis_t001_60282070",
+       "title": {
+        "ru": "Published: 21-Apr-2015 Front Suspension - Front Stabilizer Bar Bushing V6 S/C 3.",
+        "en": "Published: 21-Apr-2015 Front Suspension - Front Stabilizer Bar Bushing V6 S/C 3."
+       },
+       "words": 922,
+       "images": 28,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_chassis_t002_26be0ce0",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 1235,
+       "images": 34,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_chassis_t003_c18745f1",
+       "title": {
+        "ru": "Upper Control Arm",
+        "en": "Upper Control Arm"
+       },
+       "words": 1218,
+       "images": 33,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_chassis_t004_228b80dd",
+       "title": {
+        "ru": "Upper Control Arm",
+        "en": "Upper Control Arm"
+       },
+       "words": 1034,
+       "images": 29,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_chassis_t005_01b420cf",
+       "title": {
+        "ru": "Wheel Alignment - Rear Thrust Angle",
+        "en": "Wheel Alignment - Rear Thrust Angle"
+       },
+       "words": 646,
+       "images": 26,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_chassis_t006_60703bda",
+       "title": {
+        "ru": "Wheels and Tires - Wheels and Tires - System Operation and Component Description",
+        "en": "Wheels and Tires - Wheels and Tires - System Operation and Component Description"
+       },
+       "words": 1092,
+       "images": 9,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_chassis_t007_5edaf4cc",
+       "title": {
+        "ru": "When a customer contacts a retailer concerning the chip and chunk phenomenon, de",
+        "en": "When a customer contacts a retailer concerning the chip and chunk phenomenon, de"
+       },
+       "words": 1176,
+       "images": 4,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_chassis_t008_7270f2bc",
+       "title": {
+        "ru": "When a customer contacts a retailer concerning the tire flaking phenomenon, deal",
+        "en": "When a customer contacts a retailer concerning the tire flaking phenomenon, deal"
+       },
+       "words": 799,
+       "images": 17,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_chassis_t009_0ce07177",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 1982,
+       "images": 28,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_general_t000_edff008a",
+       "title": {
+        "ru": "Special Tools, Equipment, Materials and Torque Figures",
+        "en": "Special Tools, Equipment, Materials and Torque Figures"
+       },
+       "words": 562,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t001_b3007f45",
+       "title": {
+        "ru": "Apply Chemical or load symbols",
+        "en": "Apply Chemical or load symbols"
+       },
+       "words": 249,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t002_551d8f2d",
+       "title": {
+        "ru": "Control Diagram symbols - Description and Operation procedures",
+        "en": "Control Diagram symbols - Description and Operation procedures"
+       },
+       "words": 877,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t003_5a78a5f0",
+       "title": {
+        "ru": "Auto High Beam Control Module (AHBCM)",
+        "en": "Auto High Beam Control Module (AHBCM)"
+       },
+       "words": 1004,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t004_d41afdd5",
+       "title": {
+        "ru": "Control Module Connections to the CAN Harness",
+        "en": "Control Module Connections to the CAN Harness"
+       },
+       "words": 907,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t005_5e7b2ecf",
+       "title": {
+        "ru": "CAN Harness 'Spur' Type Configuration Circuits",
+        "en": "CAN Harness 'Spur' Type Configuration Circuits"
+       },
+       "words": 1067,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t006_b5a58f6c",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 911,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t007_e9b34664",
+       "title": {
+        "ru": "Over Temperature and Fluid/Air Leak Diagnostics",
+        "en": "Over Temperature and Fluid/Air Leak Diagnostics"
+       },
+       "words": 684,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t008_2bc5ad42",
+       "title": {
+        "ru": "Over Temperature and Fluid/Air Leak Diagnostics",
+        "en": "Over Temperature and Fluid/Air Leak Diagnostics"
+       },
+       "words": 1177,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t009_d78cabaa",
+       "title": {
+        "ru": "Integrated Control Panel (ICP)",
+        "en": "Integrated Control Panel (ICP)"
+       },
+       "words": 1094,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t010_e03e39b7",
+       "title": {
+        "ru": "Keyless Vehicle Module (KVM)",
+        "en": "Keyless Vehicle Module (KVM)"
+       },
+       "words": 951,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t011_d6959833",
+       "title": {
+        "ru": "PINPOINT TEST E : INTERFERENCE-WEBBING ROUTING",
+        "en": "PINPOINT TEST E : INTERFERENCE-WEBBING ROUTING"
+       },
+       "words": 767,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t012_4f82bc1c",
+       "title": {
+        "ru": "Parking Aid Control Module (PACM)",
+        "en": "Parking Aid Control Module (PACM)"
+       },
+       "words": 1069,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t013_4aee2b4d",
+       "title": {
+        "ru": "CAN Harness 'Spur' Type Configuration Circuits",
+        "en": "CAN Harness 'Spur' Type Configuration Circuits"
+       },
+       "words": 923,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t014_b555d2c4",
+       "title": {
+        "ru": "Tailgate Control Module (TGCM)",
+        "en": "Tailgate Control Module (TGCM)"
+       },
+       "words": 771,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t015_1f4d1fd4",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 719,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t016_00f309d7",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 458,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t017_618a7fe9",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 957,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t018_a95f89ae",
+       "title": {
+        "ru": "Calibration of Essential Measuring Equipment",
+        "en": "Calibration of Essential Measuring Equipment"
+       },
+       "words": 697,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t019_572bb53b",
+       "title": {
+        "ru": "Corrosion Protection Materials",
+        "en": "Corrosion Protection Materials"
+       },
+       "words": 941,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t020_82fc5211",
+       "title": {
+        "ru": "Warning Symbols on Vehicles",
+        "en": "Warning Symbols on Vehicles"
+       },
+       "words": 1209,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t021_14d5dfcc",
+       "title": {
+        "ru": "Anaerobic, Cyanoacrylate (Super - glues) and other Acrylic Adhesives",
+        "en": "Anaerobic, Cyanoacrylate (Super - glues) and other Acrylic Adhesives"
+       },
+       "words": 890,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t022_89f2c6cf",
+       "title": {
+        "ru": "Prohibition - Health and safety symbols and component damage",
+        "en": "Prohibition - Health and safety symbols and component damage"
+       },
+       "words": 250,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t023_dfe9c42e",
+       "title": {
+        "ru": "Control Diagram symbols - Description and Operation procedures",
+        "en": "Control Diagram symbols - Description and Operation procedures"
+       },
+       "words": 248,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t024_7887e9d4",
+       "title": {
+        "ru": "OTE: Some concerns may be apparent only on smooth asphalt roads",
+        "en": "OTE: Some concerns may be apparent only on smooth asphalt roads"
+       },
+       "words": 795,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t025_fc694c87",
+       "title": {
+        "ru": "Noise, Vibration and Harshness - Noise, Vibration and Harshness (NVH)",
+        "en": "Noise, Vibration and Harshness - Noise, Vibration and Harshness (NVH)"
+       },
+       "words": 587,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t026_466b08c7",
+       "title": {
+        "ru": "Anti-Lock Control - Stability Assist - Anti-Lock Control - Stability Assist Comp",
+        "en": "Anti-Lock Control - Stability Assist - Anti-Lock Control - Stability Assist Comp"
+       },
+       "words": 424,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t027_4e7769db",
+       "title": {
+        "ru": "NOTE: A = Hardwired",
+        "en": "NOTE: A = Hardwired"
+       },
+       "words": 371,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t028_686ae6f7",
+       "title": {
+        "ru": "Identify the Condition",
+        "en": "Identify the Condition"
+       },
+       "words": 817,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t029_952e5f1e",
+       "title": {
+        "ru": "Published: 14-Nov-2014 Front Drive Halfshafts - Inner Constant Velocity (CV) Joi",
+        "en": "Published: 14-Nov-2014 Front Drive Halfshafts - Inner Constant Velocity (CV) Joi"
+       },
+       "words": 802,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t030_94409643",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 635,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t031_114e7e66",
+       "title": {
+        "ru": "NOTE: Note the fitted position.",
+        "en": "NOTE: Note the fitted position."
+       },
+       "words": 1158,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t032_a07cb4f9",
+       "title": {
+        "ru": "PINPOINT TEST E : THE PEDAL GOES DOWN FAST",
+        "en": "PINPOINT TEST E : THE PEDAL GOES DOWN FAST"
+       },
+       "words": 472,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t033_8c776659",
+       "title": {
+        "ru": "PINPOINT TEST E : THE PEDAL GOES DOWN FAST",
+        "en": "PINPOINT TEST E : THE PEDAL GOES DOWN FAST"
+       },
+       "words": 345,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t034_02916c94",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 796,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t035_2a7609cc",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 531,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t036_40a0409e",
+       "title": {
+        "ru": "Published: 16-Mar-2015 Rear Drive Halfshafts - Rear Halfshaft GTDi 2.0L Petrol/T",
+        "en": "Published: 16-Mar-2015 Rear Drive Halfshafts - Rear Halfshaft GTDi 2.0L Petrol/T"
+       },
+       "words": 817,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t037_22c3da57",
+       "title": {
+        "ru": "Published: 16-Mar-2015 Rear Drive Halfshafts - Rear Halfshaft GTDi 2.0L Petrol/T",
+        "en": "Published: 16-Mar-2015 Rear Drive Halfshafts - Rear Halfshaft GTDi 2.0L Petrol/T"
+       },
+       "words": 853,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t038_0a71f8e5",
+       "title": {
+        "ru": "Rear Drive Halfshafts - Rear Halfshaft GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0",
+        "en": "Rear Drive Halfshafts - Rear Halfshaft GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0"
+       },
+       "words": 905,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t039_796e4774",
+       "title": {
+        "ru": "Vehicles without active damping",
+        "en": "Vehicles without active damping"
+       },
+       "words": 484,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t040_f2e5c336",
+       "title": {
+        "ru": "Ride and Handling Optimization - Ride and Handling Optimization - System Operati",
+        "en": "Ride and Handling Optimization - Ride and Handling Optimization - System Operati"
+       },
+       "words": 777,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t041_49be46fa",
+       "title": {
+        "ru": "Intermittent Delay/Auto Wipe Switch",
+        "en": "Intermittent Delay/Auto Wipe Switch"
+       },
+       "words": 629,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t042_5ad59128",
+       "title": {
+        "ru": "TIE ROD CHECKS 1: Check For Bending Or Deflection of Tie-Rod Shafts",
+        "en": "TIE ROD CHECKS 1: Check For Bending Or Deflection of Tie-Rod Shafts"
+       },
+       "words": 860,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t043_0f02b84b",
+       "title": {
+        "ru": "Click/Thump",
+        "en": "Click/Thump"
+       },
+       "words": 86,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t044_30057b38",
+       "title": {
+        "ru": "TIE ROD CHECKS 1: Check For Bending Or Deflection of Tie-Rod Shafts",
+        "en": "TIE ROD CHECKS 1: Check For Bending Or Deflection of Tie-Rod Shafts"
+       },
+       "words": 283,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t045_7e3360cf",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 671,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t046_14e2687b",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 900,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t047_de373f45",
+       "title": {
+        "ru": "Evaporative Emissions - V6 S/C 3.0L Petrol - Evaporative Emissions - Component L",
+        "en": "Evaporative Emissions - V6 S/C 3.0L Petrol - Evaporative Emissions - Component L"
+       },
+       "words": 1933,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t048_101c140d",
+       "title": {
+        "ru": "INPOINT TEST B : DIAGNOSTIC MODULE TANK LEAKAGE TEST",
+        "en": "INPOINT TEST B : DIAGNOSTIC MODULE TANK LEAKAGE TEST"
+       },
+       "words": 607,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t049_2e486971",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 1624,
+       "images": 66,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t050_608c337e",
+       "title": {
+        "ru": "Fuel Tank and Lines - V6 S/C 3.0L Petrol - Fuel Tank and Lines - Component Locat",
+        "en": "Fuel Tank and Lines - V6 S/C 3.0L Petrol - Fuel Tank and Lines - Component Locat"
+       },
+       "words": 1729,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t051_910ad9de",
+       "title": {
+        "ru": ":xhaust System - GTDi 2.0L Petrol - Exhaust System - Component Location Descrint",
+        "en": ":xhaust System - GTDi 2.0L Petrol - Exhaust System - Component Location Descrint"
+       },
+       "words": 858,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t052_6f5841a2",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 938,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t053_22f1715e",
+       "title": {
+        "ru": "Exhaust System - TD4 2.2L Diesel - Catalytic Converter Vehicles Without: Diesel ",
+        "en": "Exhaust System - TD4 2.2L Diesel - Catalytic Converter Vehicles Without: Diesel "
+       },
+       "words": 403,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t054_4cffedc6",
+       "title": {
+        "ru": "Diesel particulate filter regeneration procedure",
+        "en": "Diesel particulate filter regeneration procedure"
+       },
+       "words": 716,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t055_db16cb9d",
+       "title": {
+        "ru": "Exhaust System - TDV6 3.0L Diesel - Exhaust System - Component Location Descript",
+        "en": "Exhaust System - TDV6 3.0L Diesel - Exhaust System - Component Location Descript"
+       },
+       "words": 1334,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t056_25ec031a",
+       "title": {
+        "ru": "Diesel particulate filter regeneration procedure",
+        "en": "Diesel particulate filter regeneration procedure"
+       },
+       "words": 714,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t057_695b874d",
+       "title": {
+        "ru": "Exhaust System - V6 S/C 3.0L Petrol - Exhaust System RWD Removal and Installatio",
+        "en": "Exhaust System - V6 S/C 3.0L Petrol - Exhaust System RWD Removal and Installatio"
+       },
+       "words": 494,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t058_3d0693cf",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 1762,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t059_1bdfb5fe",
+       "title": {
+        "ru": "Fuel Tank and Lines - TDV6 3.0L Diesel - Fuel Tank and Lines - Component Locatio",
+        "en": "Fuel Tank and Lines - TDV6 3.0L Diesel - Fuel Tank and Lines - Component Locatio"
+       },
+       "words": 740,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t060_766c7f9a",
+       "title": {
+        "ru": "Fuel Gauge, Resistance, Voltage And Fuel Tank Level Comparison Chart",
+        "en": "Fuel Gauge, Resistance, Voltage And Fuel Tank Level Comparison Chart"
+       },
+       "words": 1101,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t061_723b23a1",
+       "title": {
+        "ru": "Fuel Tank and Lines - V6 S/C 3.0L Petrol -",
+        "en": "Fuel Tank and Lines - V6 S/C 3.0L Petrol -"
+       },
+       "words": 525,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t062_878e6bfa",
+       "title": {
+        "ru": "Published: 03-Sep-2012 Intake Air Distribution and Filtering - V6 S/ 3.0L Petrol",
+        "en": "Published: 03-Sep-2012 Intake Air Distribution and Filtering - V6 S/ 3.0L Petrol"
+       },
+       "words": 278,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t063_d08e3cde",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 826,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t064_a58575c6",
+       "title": {
+        "ru": "Speed Control - System Operation and Component Description Description and Opera",
+        "en": "Speed Control - System Operation and Component Description Description and Opera"
+       },
+       "words": 856,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t065_0c925b75",
+       "title": {
+        "ru": "ADAPTIVE SPEED CONTROL - MALFUNCTION WARNINGS",
+        "en": "ADAPTIVE SPEED CONTROL - MALFUNCTION WARNINGS"
+       },
+       "words": 1462,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t066_3d5d7b6f",
+       "title": {
+        "ru": "Starting System - V6 S/C 3.0L Petrol - Starting System - System Operation and Co",
+        "en": "Starting System - V6 S/C 3.0L Petrol - Starting System - System Operation and Co"
+       },
+       "words": 644,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t067_9f4b18a6",
+       "title": {
+        "ru": "Special Tool(s)",
+        "en": "Special Tool(s)"
+       },
+       "words": 1286,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t068_6dff65d8",
+       "title": {
+        "ru": "Pinpoint Tests",
+        "en": "Pinpoint Tests"
+       },
+       "words": 757,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t069_9db4e516",
+       "title": {
+        "ru": "NOTE: A = Hardwired; D = High speed Can bus",
+        "en": "NOTE: A = Hardwired; D = High speed Can bus"
+       },
+       "words": 445,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t070_70e44d7f",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 1206,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t071_50d259c6",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 340,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t072_bfa4f399",
+       "title": {
+        "ru": "NOTE: A refer to the procedure for correct torque sequence",
+        "en": "NOTE: A refer to the procedure for correct torque sequence"
+       },
+       "words": 667,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t073_3abe41fe",
+       "title": {
+        "ru": "NOTE: \\* refer to the procedure for correct torque sequence",
+        "en": "NOTE: \\* refer to the procedure for correct torque sequence"
+       },
+       "words": 923,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t074_e2071a24",
+       "title": {
+        "ru": "Pistons and Connecting Rods",
+        "en": "Pistons and Connecting Rods"
+       },
+       "words": 1408,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t075_bccf6657",
+       "title": {
+        "ru": "Right-hand drive vehicles",
+        "en": "Right-hand drive vehicles"
+       },
+       "words": 650,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t076_66143a64",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 1236,
+       "images": 67,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t077_d9e37f16",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 1251,
+       "images": 83,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t078_85bf821e",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 1336,
+       "images": 75,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t079_463731d4",
+       "title": {
+        "ru": "Visual Inspection",
+        "en": "Visual Inspection"
+       },
+       "words": 519,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t080_1bdb1572",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 576,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t081_01a0d1a5",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 589,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t082_a24c2342",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 774,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t083_11717867",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 434,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t084_e0ac7ebc",
+       "title": {
+        "ru": "Published: 11-May-2011 Anti-Theft - Active - Anti-Theft - Active - Component Loc",
+        "en": "Published: 11-May-2011 Anti-Theft - Active - Anti-Theft - Active - Component Loc"
+       },
+       "words": 526,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t085_71829e04",
+       "title": {
+        "ru": "Anti-Theft - Passive - Anti-Theft - Passive - System Operation and Component Des",
+        "en": "Anti-Theft - Passive - Anti-Theft - Passive - System Operation and Component Des"
+       },
+       "words": 619,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t086_ba3b8ef5",
+       "title": {
+        "ru": "Transit Relay Installation Summary",
+        "en": "Transit Relay Installation Summary"
+       },
+       "words": 691,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t087_afefa461",
+       "title": {
+        "ru": "Thermostatic Expansion Valve",
+        "en": "Thermostatic Expansion Valve"
+       },
+       "words": 976,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t088_5505dfcc",
+       "title": {
+        "ru": "Left-hand drive vehicles",
+        "en": "Left-hand drive vehicles"
+       },
+       "words": 645,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t089_e9b9c808",
+       "title": {
+        "ru": "Refrigerant Oil Adding Capacities",
+        "en": "Refrigerant Oil Adding Capacities"
+       },
+       "words": 474,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t090_18640894",
+       "title": {
+        "ru": ":xterior Lighting - Exterior Lighting - Component Location Description and Opera",
+        "en": ":xterior Lighting - Exterior Lighting - Component Location Description and Opera"
+       },
+       "words": 431,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t091_cd354799",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 976,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t092_62610de7",
+       "title": {
+        "ru": "Generator and Regulator - V6 S/C 3.0L Petrol - Generator  - Component Location D",
+        "en": "Generator and Regulator - V6 S/C 3.0L Petrol - Generator  - Component Location D"
+       },
+       "words": 812,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t093_9506c83d",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 591,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t094_56a25317",
+       "title": {
+        "ru": "Pinpoint Tests For Suspected Speaker Faults",
+        "en": "Pinpoint Tests For Suspected Speaker Faults"
+       },
+       "words": 567,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t095_6c000a67",
+       "title": {
+        "ru": "Integrated Control Panel (ICP)",
+        "en": "Integrated Control Panel (ICP)"
+       },
+       "words": 545,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t096_79ec1e33",
+       "title": {
+        "ru": "INSTRUMENT CLUSTER - WARNING INDICATOR LOCATIONS",
+        "en": "INSTRUMENT CLUSTER - WARNING INDICATOR LOCATIONS"
+       },
+       "words": 1122,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t097_a64ed2d6",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 866,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t098_0dea948f",
+       "title": {
+        "ru": "CAN Harness 'Spur' Type Configuration Circuits",
+        "en": "CAN Harness 'Spur' Type Configuration Circuits"
+       },
+       "words": 821,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t099_d568fda3",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 829,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t100_70c71a7e",
+       "title": {
+        "ru": "NOTE: The PDC system can not be activated whilst the vehicle is in park (P).",
+        "en": "NOTE: The PDC system can not be activated whilst the vehicle is in park (P)."
+       },
+       "words": 1225,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t101_e47c4623",
+       "title": {
+        "ru": "Published: 11-May-2011 Warning Devices - Blindspot Monitoring System - System Op",
+        "en": "Published: 11-May-2011 Warning Devices - Blindspot Monitoring System - System Op"
+       },
+       "words": 431,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t102_a36aba54",
+       "title": {
+        "ru": "Cable Correctly Gripped in Stripper Blades",
+        "en": "Cable Correctly Gripped in Stripper Blades"
+       },
+       "words": 202,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t103_4c3c1e89",
+       "title": {
+        "ru": "Splice Repair to Wire Smaller than 0.35mm²",
+        "en": "Splice Repair to Wire Smaller than 0.35mm²"
+       },
+       "words": 481,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t104_4c04944f",
+       "title": {
+        "ru": "LNOTE: See illustration: Splice Correctly Located",
+        "en": "LNOTE: See illustration: Splice Correctly Located"
+       },
+       "words": 1938,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t105_50c311ce",
+       "title": {
+        "ru": "Cable Correctly Gripped in Stripper Blades",
+        "en": "Cable Correctly Gripped in Stripper Blades"
+       },
+       "words": 464,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t106_269a2fd7",
+       "title": {
+        "ru": "MOST Harness Repair Components and Tools",
+        "en": "MOST Harness Repair Components and Tools"
+       },
+       "words": 1456,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t107_5f131e90",
+       "title": {
+        "ru": "Application of Cavity Wax Protection on a Rocker Panel After Partial Repair",
+        "en": "Application of Cavity Wax Protection on a Rocker Panel After Partial Repair"
+       },
+       "words": 858,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t108_fb2b9b9e",
+       "title": {
+        "ru": "Expanding Foam Acoustic Seals - A-pillar, (inner panel)",
+        "en": "Expanding Foam Acoustic Seals - A-pillar, (inner panel)"
+       },
+       "words": 837,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t109_8dcc2325",
+       "title": {
+        "ru": "VOTE: The flattening effect is increased by speeding up the heating and cooling ",
+        "en": "VOTE: The flattening effect is increased by speeding up the heating and cooling "
+       },
+       "words": 1534,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t110_0222150e",
+       "title": {
+        "ru": "Protective equipment and safety at work",
+        "en": "Protective equipment and safety at work"
+       },
+       "words": 1233,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t111_4cb6fe22",
+       "title": {
+        "ru": "Water leaks according to mileage or running time",
+        "en": "Water leaks according to mileage or running time"
+       },
+       "words": 479,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t112_e75ea521",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 336,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t113_1b0f450d",
+       "title": {
+        "ru": "Front End Sheet Metal Repairs - Front End Sheet Metal Description and Operation",
+        "en": "Front End Sheet Metal Repairs - Front End Sheet Metal Description and Operation"
+       },
+       "words": 591,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t114_cf7efa5c",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 1125,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t115_d6fab713",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 357,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t116_69cfdd15",
+       "title": {
+        "ru": "Published: 03-Oct-2012 Handles, Locks, Latches and Entry Systems - Handles, Lock",
+        "en": "Published: 03-Oct-2012 Handles, Locks, Latches and Entry Systems - Handles, Lock"
+       },
+       "words": 714,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t117_a5bf919b",
+       "title": {
+        "ru": "Published: 11-May-2011 Handles, Locks, Latches and Entry Systems -",
+        "en": "Published: 11-May-2011 Handles, Locks, Latches and Entry Systems -"
+       },
+       "words": 357,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t118_68f397db",
+       "title": {
+        "ru": "Published: 17-Nov-2014 Supplemental Restraint System - Air Bag and Safety Belt P",
+        "en": "Published: 17-Nov-2014 Supplemental Restraint System - Air Bag and Safety Belt P"
+       },
+       "words": 763,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t119_52710514",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 271,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t120_c6bd4e95",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 335,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t121_2046238b",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 206,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t122_9a0a1ecf",
+       "title": {
+        "ru": "Pedestrian Protection System - Pedestrian Protection System - System Operation a",
+        "en": "Pedestrian Protection System - Pedestrian Protection System - System Operation a"
+       },
+       "words": 719,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t123_2555eeb3",
+       "title": {
+        "ru": "Rear End Sheet Metal Repairs - Rear End Sheet Metal Description and Operation",
+        "en": "Rear End Sheet Metal Repairs - Rear End Sheet Metal Description and Operation"
+       },
+       "words": 2110,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t124_cc1f7788",
+       "title": {
+        "ru": "Inspection and Verification",
+        "en": "Inspection and Verification"
+       },
+       "words": 398,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t125_3657abce",
+       "title": {
+        "ru": "Safety Belt System - Safety Belt System - Overview",
+        "en": "Safety Belt System - Safety Belt System - Overview"
+       },
+       "words": 459,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t126_3426c9c8",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 550,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t127_a01877a8",
+       "title": {
+        "ru": "Published: 03-Sep-2012 Supplemental Restraint System - Air Bag and Safety Belt P",
+        "en": "Published: 03-Sep-2012 Supplemental Restraint System - Air Bag and Safety Belt P"
+       },
+       "words": 844,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t128_8faa85c0",
+       "title": {
+        "ru": "Side Panel Sheet Metal Repairs - Side Panel Sheet Metal Description and Operatio",
+        "en": "Side Panel Sheet Metal Repairs - Side Panel Sheet Metal Description and Operatio"
+       },
+       "words": 3740,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t129_6dcdc2d2",
+       "title": {
+        "ru": "Supplemental Restraint System - Air Bag and Safety Belt Pretensioner Supplementa",
+        "en": "Supplemental Restraint System - Air Bag and Safety Belt Pretensioner Supplementa"
+       },
+       "words": 1166,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t130_31ab9d85",
+       "title": {
+        "ru": "Published: 11-May-2011 Supplemental Restraint System - Driver Air Bag Module Rem",
+        "en": "Published: 11-May-2011 Supplemental Restraint System - Driver Air Bag Module Rem"
+       },
+       "words": 1331,
+       "images": 88,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t131_92cc4f9d",
+       "title": {
+        "ru": "Installation",
+        "en": "Installation"
+       },
+       "words": 439,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_general_t132_59bfef3b",
+       "title": {
+        "ru": "WINDSHIELD WIPER MOTOR AND LINKAGE",
+        "en": "WINDSHIELD WIPER MOTOR AND LINKAGE"
+       },
+       "words": 1091,
+       "images": 8,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t000_0e2682a0",
+       "title": {
+        "ru": "Playback Of Audio Files Stored On A USB Storage Device",
+        "en": "Playback Of Audio Files Stored On A USB Storage Device"
+       },
+       "words": 1721,
+       "images": 29,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t001_ecc8198d",
+       "title": {
+        "ru": "Playback Of Audio Files Stored On A USB Storage Device",
+        "en": "Playback Of Audio Files Stored On A USB Storage Device"
+       },
+       "words": 2434,
+       "images": 27,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t002_34f0d10e",
+       "title": {
+        "ru": "Playback Of Audio Files Stored On A USB Storage Device",
+        "en": "Playback Of Audio Files Stored On A USB Storage Device"
+       },
+       "words": 1548,
+       "images": 27,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t003_0fcba930",
+       "title": {
+        "ru": "Playback Of Audio Files Stored On A USB Storage Device",
+        "en": "Playback Of Audio Files Stored On A USB Storage Device"
+       },
+       "words": 2049,
+       "images": 13,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t004_7955565b",
+       "title": {
+        "ru": "NOTE: 11 is not fitted on vehicles with the Navigation system",
+        "en": "NOTE: 11 is not fitted on vehicles with the Navigation system"
+       },
+       "words": 2864,
+       "images": 26,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t005_c197577e",
+       "title": {
+        "ru": "NOTE: The users device must be discoverable for this method to work.",
+        "en": "NOTE: The users device must be discoverable for this method to work."
+       },
+       "words": 3048,
+       "images": 12,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t006_47f6e2d7",
+       "title": {
+        "ru": "USB/CD Data Disk Audio File Compatibility",
+        "en": "USB/CD Data Disk Audio File Compatibility"
+       },
+       "words": 1395,
+       "images": 10,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t007_2a672807",
+       "title": {
+        "ru": "Playback Of Audio Files Stored On A USB Storage Device",
+        "en": "Playback Of Audio Files Stored On A USB Storage Device"
+       },
+       "words": 2978,
+       "images": 11,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t008_0f937261",
+       "title": {
+        "ru": "Navigation Destination Entry by Voice",
+        "en": "Navigation Destination Entry by Voice"
+       },
+       "words": 1464,
+       "images": 12,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t009_0f38ab49",
+       "title": {
+        "ru": "VOTE: Meridian® Surround Audio System shown",
+        "en": "VOTE: Meridian® Surround Audio System shown"
+       },
+       "words": 955,
+       "images": 20,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t010_9ae61d42",
+       "title": {
+        "ru": "Telematics - Telematics",
+        "en": "Telematics - Telematics"
+       },
+       "words": 1011,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_infotainment_t011_4448b507",
+       "title": {
+        "ru": "Central Locking – Radio Frequency Remote System",
+        "en": "Central Locking – Radio Frequency Remote System"
+       },
+       "words": 377,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_sensors_t000_2799aef0",
+       "title": {
+        "ru": "Physical damage to the sensor (impact damage or scratched sensor surface) must N",
+        "en": "Physical damage to the sensor (impact damage or scratched sensor surface) must N"
+       },
+       "words": 1702,
+       "images": 15,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_sensors_t001_b5ec2e10",
+       "title": {
+        "ru": "Exhaust System - GTDi 2.0L Petrol -",
+        "en": "Exhaust System - GTDi 2.0L Petrol -"
+       },
+       "words": 970,
+       "images": 30,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_sensors_t002_daf4377c",
+       "title": {
+        "ru": "Universal Heated Exhaust Gas Oxygen sensor & Heated Exhaust Gas Oxygen sensor co",
+        "en": "Universal Heated Exhaust Gas Oxygen sensor & Heated Exhaust Gas Oxygen sensor co"
+       },
+       "words": 2060,
+       "images": 16,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_sensors_t003_949c1a4d",
+       "title": {
+        "ru": "Symptom Chart Universal Heated Exhaust Gas Oxygen sensors & Heated Exhaust Gas O",
+        "en": "Symptom Chart Universal Heated Exhaust Gas Oxygen sensors & Heated Exhaust Gas O"
+       },
+       "words": 1073,
+       "images": 6,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_sensors_t004_c686fb98",
+       "title": {
+        "ru": "Parking Aid - Parking Aid - Component Location",
+        "en": "Parking Aid - Parking Aid - Component Location"
+       },
+       "words": 883,
+       "images": 9,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_sensors_t005_34c0dc03",
+       "title": {
+        "ru": ".6: FRONT SENSORS NOT VIBRATING WITH PARKING AID FAULT",
+        "en": ".6: FRONT SENSORS NOT VIBRATING WITH PARKING AID FAULT"
+       },
+       "words": 1037,
+       "images": 22,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_sensors_t006_3b16fbf6",
+       "title": {
+        "ru": "Occupant Detection System",
+        "en": "Occupant Detection System"
+       },
+       "words": 819,
+       "images": 7,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_sensors_t007_de49dd31",
+       "title": {
+        "ru": "SAFETY BELT TENSION SENSOR",
+        "en": "SAFETY BELT TENSION SENSOR"
+       },
+       "words": 130,
+       "images": 4,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t000_bf961e67",
+       "title": {
+        "ru": "Transfer Case Clutch Calibration Angle Results Table",
+        "en": "Transfer Case Clutch Calibration Angle Results Table"
+       },
+       "words": 1497,
+       "images": 34,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t001_993747a9",
+       "title": {
+        "ru": "Automatic Transmission Number",
+        "en": "Automatic Transmission Number"
+       },
+       "words": 840,
+       "images": 6,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t002_03df7ec1",
+       "title": {
+        "ru": "Driveshaft - Driveshaft TDV6 3.0L Diesel",
+        "en": "Driveshaft - Driveshaft TDV6 3.0L Diesel"
+       },
+       "words": 862,
+       "images": 30,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t003_3a8e3e94",
+       "title": {
+        "ru": "Front Drive Axle/Differential - Front Drive Axle and Differential - Component Lo",
+        "en": "Front Drive Axle/Differential - Front Drive Axle and Differential - Component Lo"
+       },
+       "words": 1014,
+       "images": 20,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t004_68af7df5",
+       "title": {
+        "ru": "Rear Drive Axle/Differential - Differential Front Bushing GTDi 2.0L Petrol/V6 S/",
+        "en": "Rear Drive Axle/Differential - Differential Front Bushing GTDi 2.0L Petrol/V6 S/"
+       },
+       "words": 533,
+       "images": 14,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t005_94f81425",
+       "title": {
+        "ru": "Rear Drive Axle/Differential - Rear Drive Axle and Differential - System Operati",
+        "en": "Rear Drive Axle/Differential - Rear Drive Axle and Differential - System Operati"
+       },
+       "words": 1628,
+       "images": 39,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t006_2527e67e",
+       "title": {
+        "ru": "Using the manufacturer approved diagnostic system clear the DTCs and re-test B10",
+        "en": "Using the manufacturer approved diagnostic system clear the DTCs and re-test B10"
+       },
+       "words": 732,
+       "images": 2,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t007_47439abd",
+       "title": {
+        "ru": "Transfer Case - Transfer Case Front Output Seal Removal and Installation",
+        "en": "Transfer Case - Transfer Case Front Output Seal Removal and Installation"
+       },
+       "words": 1407,
+       "images": 9,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t008_8c621ea2",
+       "title": {
+        "ru": "Automatic Transmission/Transaxle - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Di",
+        "en": "Automatic Transmission/Transaxle - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Di"
+       },
+       "words": 1597,
+       "images": 46,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t009_795a8f70",
+       "title": {
+        "ru": "Automatic Transmission/Transaxle - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Di",
+        "en": "Automatic Transmission/Transaxle - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Di"
+       },
+       "words": 1251,
+       "images": 8,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t010_8015dbfc",
+       "title": {
+        "ru": "Automatic Transmission/Transaxle - V6 S/C 3.0L Petrol AWD - Transmission Descrip",
+        "en": "Automatic Transmission/Transaxle - V6 S/C 3.0L Petrol AWD - Transmission Descrip"
+       },
+       "words": 1486,
+       "images": 11,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t011_488b94a1",
+       "title": {
+        "ru": "Automatic Transmission/Transaxle - V6 S/C 3.0L Petrol AWD - Transmission Fluid P",
+        "en": "Automatic Transmission/Transaxle - V6 S/C 3.0L Petrol AWD - Transmission Fluid P"
+       },
+       "words": 1749,
+       "images": 52,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t012_6f2ee1b9",
+       "title": {
+        "ru": "Automatic Transmission/Transaxle - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Di",
+        "en": "Automatic Transmission/Transaxle - GTDi 2.0L Petrol/TD4 2.2L Diesel/TDV6 3.0L Di"
+       },
+       "words": 617,
+       "images": 43,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t013_9a6a348d",
+       "title": {
+        "ru": "Published: 04-Jan-2016 Transmission/Transaxle Cooling - GTDi 2.0L Petrol/TD4 2.2",
+        "en": "Published: 04-Jan-2016 Transmission/Transaxle Cooling - GTDi 2.0L Petrol/TD4 2.2"
+       },
+       "words": 1509,
+       "images": 16,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t014_a00cbe7c",
+       "title": {
+        "ru": "V8 5.0L Petrol/V8 S/C 5.0L Petrol -Lubricants",
+        "en": "V8 5.0L Petrol/V8 S/C 5.0L Petrol -Lubricants"
+       },
+       "words": 684,
+       "images": 8,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t015_271f3547",
+       "title": {
+        "ru": "NOTE: This can only be activated when reverse gear is selected",
+        "en": "NOTE: This can only be activated when reverse gear is selected"
+       },
+       "words": 947,
+       "images": 12,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_xf_2011_2015_drivetrain_t016_f17f932e",
+       "title": {
+        "ru": "Restraints Control Module",
+        "en": "Restraints Control Module"
+       },
+       "words": 534,
+       "images": 1,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

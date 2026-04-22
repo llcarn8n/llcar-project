@@ -1,0 +1,1795 @@
+{
+ "version": "1.0",
+ "model": "palisade",
+ "manuals": [
+  {
+   "model": "palisade",
+   "label": {
+    "ru": "Hyundai Palisade — Руководство по ремонту",
+    "en": "Hyundai Palisade — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "hyundai_palisade_engine_t000_1fbca913",
+       "title": {
+        "ru": "Предупреждение об открытом верхнем люке (при наличий)",
+        "en": "Предупреждение об открытом верхнем люке (при наличий)"
+       },
+       "words": 746,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_palisade_engine_t001_34a1200c",
+       "title": {
+        "ru": "Check BRAKE SWITCH fuse [Проверьте предохранитель ВRAKE SИIТСН) (для системы эле",
+        "en": "Check BRAKE SWITCH fuse [Проверьте предохранитель ВRAKE SИIТСН) (для системы эле"
+       },
+       "words": 486,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_palisade_engine_t002_f5172b7a",
+       "title": {
+        "ru": "Запуск дизельного двигателя К СВЕДЕНИЮ",
+        "en": "Запуск дизельного двигателя К СВЕДЕНИЮ"
+       },
+       "words": 598,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_palisade_engine_t003_cc9e42c7",
+       "title": {
+        "ru": "Топливо, охлаждающая жидкость двигателя и моторное масло",
+        "en": "Топливо, охлаждающая жидкость двигателя и моторное масло"
+       },
+       "words": 560,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_palisade_engine_t004_539146c9",
+       "title": {
+        "ru": "Не помещайте посторонние предметы или материалы в моторный отсек",
+        "en": "Не помещайте посторонние предметы или материалы в моторный отсек"
+       },
+       "words": 914,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_palisade_engine_t005_c744e950",
+       "title": {
+        "ru": "Техническое обслуживание при тяжелых условиях эксплуатации и малом пробеге (бенз",
+        "en": "Техническое обслуживание при тяжелых условиях эксплуатации и малом пробеге (бенз"
+       },
+       "words": 864,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_palisade_engine_t006_da6162e8",
+       "title": {
+        "ru": "Техническое обслуживание при тяжелых условиях эксплуатации и малом пробеге (бенз",
+        "en": "Техническое обслуживание при тяжелых условиях эксплуатации и малом пробеге (бенз"
+       },
+       "words": 519,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_palisade_engine_t007_c7d459f9",
+       "title": {
+        "ru": "Проверка уровня моторного масла (бензиновый двигатель)",
+        "en": "Проверка уровня моторного масла (бензиновый двигатель)"
+       },
+       "words": 905,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_palisade_engine_t008_2299176c",
+       "title": {
+        "ru": "Технические характеристики & Информация для потребителя",
+        "en": "Технические характеристики & Информация для потребителя"
+       },
+       "words": 566,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_palisade_engine_t009_3d4efccc",
+       "title": {
+        "ru": "Моторное масло",
+        "en": "Моторное масло"
+       },
+       "words": 83,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "hyundai_palisade_brakes_t000_70e9d99f",
+       "title": {
+        "ru": "Информация - контрольная лампа системы электронного распределения тормозного уси",
+        "en": "Информация - контрольная лампа системы электронного распределения тормозного уси"
+       },
+       "words": 694,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_palisade_brakes_t001_a8234a69",
+       "title": {
+        "ru": "Shift to P to edit settings / Engage parking brake to edit Settings [Редактирова",
+        "en": "Shift to P to edit settings / Engage parking brake to edit Settings [Редактирова"
+       },
+       "words": 526,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_palisade_brakes_t002_7aac1ea5",
+       "title": {
+        "ru": "AUTO HOLD deactivating. Press brake pedal [AUTO HOLD будет откл. Нажмите тормоз]",
+        "en": "AUTO HOLD deactivating. Press brake pedal [AUTO HOLD будет откл. Нажмите тормоз]"
+       },
+       "words": 551,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_palisade_brakes_t003_e01fee83",
+       "title": {
+        "ru": "AUTO HOLD deactivating. Press brake pedal [AUTO HOLD будет откл. Нажмите тормоз]",
+        "en": "AUTO HOLD deactivating. Press brake pedal [AUTO HOLD будет откл. Нажмите тормоз]"
+       },
+       "words": 568,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_palisade_brakes_t004_ceefc96e",
+       "title": {
+        "ru": "Система помощи при подъеме по склону (НАС) (при наличии)",
+        "en": "Система помощи при подъеме по склону (НАС) (при наличии)"
+       },
+       "words": 562,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_palisade_brakes_t005_dcb8c995",
+       "title": {
+        "ru": "Управление автомобилем в затопленных местах",
+        "en": "Управление автомобилем в затопленных местах"
+       },
+       "words": 541,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_palisade_brakes_t006_39091e77",
+       "title": {
+        "ru": "Не допускайте замерзания стояночного тормоза",
+        "en": "Не допускайте замерзания стояночного тормоза"
+       },
+       "words": 717,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_palisade_brakes_t007_857ff33a",
+       "title": {
+        "ru": "Проверка уровня тормозной \\*идкости",
+        "en": "Проверка уровня тормозной \\*идкости"
+       },
+       "words": 416,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_palisade_brakes_t008_c276d05f",
+       "title": {
+        "ru": "Выключатель зажигания Стояночный тормоз (педаль) Система круиз-контроля",
+        "en": "Выключатель зажигания Стояночный тормоз (педаль) Система круиз-контроля"
+       },
+       "words": 102,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "hyundai_palisade_suspension_t000_66f78d8c",
+       "title": {
+        "ru": "Продольное перемещение (сиденье 2-го ряда)",
+        "en": "Продольное перемещение (сиденье 2-го ряда)"
+       },
+       "words": 673,
+       "images": 7,
+       "section_id": "suspension"
+      },
+      {
+       "id": "hyundai_palisade_suspension_t001_6176ad9c",
+       "title": {
+        "ru": "Экстренное отпирание крышки багажника",
+        "en": "Экстренное отпирание крышки багажника"
+       },
+       "words": 462,
+       "images": 4,
+       "section_id": "suspension"
+      },
+      {
+       "id": "hyundai_palisade_suspension_t002_30fe1d06",
+       "title": {
+        "ru": "Shift to P or N to start engine [Рычаг в Р или № для запуска] (для системы элект",
+        "en": "Shift to P or N to start engine [Рычаг в Р или № для запуска] (для системы элект"
+       },
+       "words": 508,
+       "images": 3,
+       "section_id": "suspension"
+      },
+      {
+       "id": "hyundai_palisade_suspension_t003_441e0ba9",
+       "title": {
+        "ru": "Неисправности и меры предосторожности при использовании системы предупреждения о",
+        "en": "Неисправности и меры предосторожности при использовании системы предупреждения о"
+       },
+       "words": 973,
+       "images": 5,
+       "section_id": "suspension"
+      },
+      {
+       "id": "hyundai_palisade_suspension_t004_343a9886",
+       "title": {
+        "ru": "Вентиляционные отверстия на приборной панели",
+        "en": "Вентиляционные отверстия на приборной панели"
+       },
+       "words": 332,
+       "images": 2,
+       "section_id": "suspension"
+      },
+      {
+       "id": "hyundai_palisade_suspension_t005_f8f7283c",
+       "title": {
+        "ru": "Переключите рычаг селектора в положение N (нейтраль) при выключенном двигателя а",
+        "en": "Переключите рычаг селектора в положение N (нейтраль) при выключенном двигателя а"
+       },
+       "words": 488,
+       "images": 3,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "hyundai_palisade_hvac_t000_4642c919",
+       "title": {
+        "ru": "Вакуумные шланги вентиляции картера (при наличии)",
+        "en": "Вакуумные шланги вентиляции картера (при наличии)"
+       },
+       "words": 281,
+       "images": 5,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "hyundai_palisade_body_t000_a839e700",
+       "title": {
+        "ru": "Добавление оборудования или модификация оборудования системы подушек безопасност",
+        "en": "Добавление оборудования или модификация оборудования системы подушек безопасност"
+       },
+       "words": 437,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t001_15e0e241",
+       "title": {
+        "ru": "При помощи переключателя центрального замка блокировки/разблокировки дверей",
+        "en": "При помощи переключателя центрального замка блокировки/разблокировки дверей"
+       },
+       "words": 673,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t002_8338cff6",
+       "title": {
+        "ru": "Электрохроматическое зеркало заднего вида (ЕСМ) (при наличии)",
+        "en": "Электрохроматическое зеркало заднего вида (ЕСМ) (при наличии)"
+       },
+       "words": 404,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t003_f6ffe89e",
+       "title": {
+        "ru": "Автоматическое закрытие/ открытие окна (при 'наличии)",
+        "en": "Автоматическое закрытие/ открытие окна (при 'наличии)"
+       },
+       "words": 486,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t004_ca077e60",
+       "title": {
+        "ru": "Перезагрузка системы управления электрическими стеклоподъемниками",
+        "en": "Перезагрузка системы управления электрическими стеклоподъемниками"
+       },
+       "words": 541,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t005_5c1f1fcb",
+       "title": {
+        "ru": "Условия, в которых крышка багажника с электроприводом не открываётся",
+        "en": "Условия, в которых крышка багажника с электроприводом не открываётся"
+       },
+       "words": 508,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t006_a3763467",
+       "title": {
+        "ru": "Дезактивация функции автоматического открытия багажника с помощью электронного к",
+        "en": "Дезактивация функции автоматического открытия багажника с помощью электронного к"
+       },
+       "words": 622,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t007_7b1c51ab",
+       "title": {
+        "ru": "Меры предосторожности при использовании дисплея проекции информации на ветровое ",
+        "en": "Меры предосторожности при использовании дисплея проекции информации на ветровое "
+       },
+       "words": 460,
+       "images": 10,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t008_090674fa",
+       "title": {
+        "ru": "Настройка проекции информации на ветровое стекло",
+        "en": "Настройка проекции информации на ветровое стекло"
+       },
+       "words": 600,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t009_350b1b55",
+       "title": {
+        "ru": "Задний стеклоочиститель с автоматическим управлением (при наличии)",
+        "en": "Задний стеклоочиститель с автоматическим управлением (при наличии)"
+       },
+       "words": 383,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t010_096bc619",
+       "title": {
+        "ru": "Чтобы отпустить ЕРВ (электронный стояночный тормоз) автоматически:",
+        "en": "Чтобы отпустить ЕРВ (электронный стояночный тормоз) автоматически:"
+       },
+       "words": 881,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t011_768be181",
+       "title": {
+        "ru": "По крайне мере два раза в год: (каждую весну и каждую осень, например)",
+        "en": "По крайне мере два раза в год: (каждую весну и каждую осень, например)"
+       },
+       "words": 711,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t012_817630f2",
+       "title": {
+        "ru": "Положение обслуживания переднего стеклоочистителя",
+        "en": "Положение обслуживания переднего стеклоочистителя"
+       },
+       "words": 486,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_palisade_body_t013_257b73e1",
+       "title": {
+        "ru": "Объем багажника",
+        "en": "Объем багажника"
+       },
+       "words": 78,
+       "images": 1,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "hyundai_palisade_steering_t000_6fee5b10",
+       "title": {
+        "ru": "Press START button while turning wheel [Поверните руль и нажмите кнопку START] (",
+        "en": "Press START button while turning wheel [Поверните руль и нажмите кнопку START] ("
+       },
+       "words": 780,
+       "images": 4,
+       "section_id": "steering"
+      },
+      {
+       "id": "hyundai_palisade_steering_t001_6fa515dc",
+       "title": {
+        "ru": "Check Steering Wheel Lock System [Проверьте систему блокировки руля] (для систем",
+        "en": "Check Steering Wheel Lock System [Проверьте систему блокировки руля] (для систем"
+       },
+       "words": 287,
+       "images": 2,
+       "section_id": "steering"
+      },
+      {
+       "id": "hyundai_palisade_steering_t002_0ea2af8a",
+       "title": {
+        "ru": "Безопасность при использовании полного привода",
+        "en": "Безопасность при использовании полного привода"
+       },
+       "words": 669,
+       "images": 2,
+       "section_id": "steering"
+      },
+      {
+       "id": "hyundai_palisade_steering_t003_e2058265",
+       "title": {
+        "ru": "Не допускайте накапливания снега и льда",
+        "en": "Не допускайте накапливания снега и льда"
+       },
+       "words": 307,
+       "images": 1,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "hyundai_palisade_lighting_t000_92e5be2c",
+       "title": {
+        "ru": "Контрольная лампа ремня безопасности переднего пассажира",
+        "en": "Контрольная лампа ремня безопасности переднего пассажира"
+       },
+       "words": 559,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_palisade_lighting_t001_7b84d402",
+       "title": {
+        "ru": "Контрольная лампа системы предупреждения о низком давлении в шинах (при наличии)",
+        "en": "Контрольная лампа системы предупреждения о низком давлении в шинах (при наличии)"
+       },
+       "words": 503,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_palisade_lighting_t002_6551dd3d",
+       "title": {
+        "ru": "Check High Beam Assist (HBA) systет [Проверить НВА (автопе-реключ. дальнего свет",
+        "en": "Check High Beam Assist (HBA) systет [Проверить НВА (автопе-реключ. дальнего свет"
+       },
+       "words": 353,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_palisade_lighting_t003_cbe476d0",
+       "title": {
+        "ru": "Положение автоматического включения световых приборов (при наличии)",
+        "en": "Положение автоматического включения световых приборов (при наличии)"
+       },
+       "words": 761,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_palisade_lighting_t004_00b11b70",
+       "title": {
+        "ru": "Неисправность или ограничения системы автоматического управления дальним светом",
+        "en": "Неисправность или ограничения системы автоматического управления дальним светом"
+       },
+       "words": 626,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_palisade_lighting_t005_efce5bc6",
+       "title": {
+        "ru": "Отключение вспомогательной системы предотвращения лобового столкновения (FСА)",
+        "en": "Отключение вспомогательной системы предотвращения лобового столкновения (FСА)"
+       },
+       "words": 565,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_palisade_lighting_t006_c09f39a8",
+       "title": {
+        "ru": "Замена фары, габаритных огней, лампы указателя поворота и дневных ходовых огней",
+        "en": "Замена фары, габаритных огней, лампы указателя поворота и дневных ходовых огней"
+       },
+       "words": 681,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_palisade_lighting_t007_160c5529",
+       "title": {
+        "ru": "Лампа направленного освещения, плафон освещения салона, лампы подсветки зеркала ",
+        "en": "Лампа направленного освещения, плафон освещения салона, лампы подсветки зеркала "
+       },
+       "words": 513,
+       "images": 10,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "hyundai_palisade_interior_t000_333d6c35",
+       "title": {
+        "ru": "Необходимо всегда пристегивать ремень безопасности",
+        "en": "Необходимо всегда пристегивать ремень безопасности"
+       },
+       "words": 642,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t001_df66700f",
+       "title": {
+        "ru": "Наклон для доступа к задним сиденьям (сиденье 2-го ряда, при наличии)",
+        "en": "Наклон для доступа к задним сиденьям (сиденье 2-го ряда, при наличии)"
+       },
+       "words": 622,
+       "images": 12,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t002_df7b1610",
+       "title": {
+        "ru": "Меры предосторожности при использовании ремней безопасности",
+        "en": "Меры предосторожности при использовании ремней безопасности"
+       },
+       "words": 851,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t003_e44b11f9",
+       "title": {
+        "ru": "Хранение ремня безопасности центрального заднего сиденья",
+        "en": "Хранение ремня безопасности центрального заднего сиденья"
+       },
+       "words": 535,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t004_2a4029ec",
+       "title": {
+        "ru": "Установка детской удерживающей системы с использованием трехточечного ремня безо",
+        "en": "Установка детской удерживающей системы с использованием трехточечного ремня безо"
+       },
+       "words": 875,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t005_c7f36005",
+       "title": {
+        "ru": "Не устанавливайте детское удерживающее устройство на переднее сиденье пассажира",
+        "en": "Не устанавливайте детское удерживающее устройство на переднее сиденье пассажира"
+       },
+       "words": 1426,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t006_d4d3867c",
+       "title": {
+        "ru": "Боковое подушки безопасности и шторки безопасности",
+        "en": "Боковое подушки безопасности и шторки безопасности"
+       },
+       "words": 908,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t007_6df8e8af",
+       "title": {
+        "ru": "СИСТЕМА КЛИМАТ-КОНТРОЛЯ С РУЧНЫМ УПРАВЛЕНИЕМ (ПРИ НАЛИЧИИ)",
+        "en": "СИСТЕМА КЛИМАТ-КОНТРОЛЯ С РУЧНЫМ УПРАВЛЕНИЕМ (ПРИ НАЛИЧИИ)"
+       },
+       "words": 408,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t008_a31afe3d",
+       "title": {
+        "ru": "Проверка количества хладагента и масла в системе кондиционера",
+        "en": "Проверка количества хладагента и масла в системе кондиционера"
+       },
+       "words": 693,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t009_fb6d855f",
+       "title": {
+        "ru": "Управление частотой вращения вентилятора",
+        "en": "Управление частотой вращения вентилятора"
+       },
+       "words": 501,
+       "images": 12,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t010_83c2ad5f",
+       "title": {
+        "ru": "Автоматическая система управления климатической установкой",
+        "en": "Автоматическая система управления климатической установкой"
+       },
+       "words": 662,
+       "images": 6,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t011_be545883",
+       "title": {
+        "ru": "Общие меры предосторожности, связанные с салоном",
+        "en": "Общие меры предосторожности, связанные с салоном"
+       },
+       "words": 798,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_palisade_interior_t012_1f544fb0",
+       "title": {
+        "ru": "ЭТИКЕТКА КОМПРЕССОРА КОНДИЦИОНЕРА ВОЗДУХА",
+        "en": "ЭТИКЕТКА КОМПРЕССОРА КОНДИЦИОНЕРА ВОЗДУХА"
+       },
+       "words": 117,
+       "images": 1,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "hyundai_palisade_ev_t000_936b1ab6",
+       "title": {
+        "ru": "УСТАНОВКА СИСТЕМ ДУПЛЕКСНОЙ РАДИОСВЯЗИ ИЛИ СОТОВОГО ТЕЛЕФОНА",
+        "en": "УСТАНОВКА СИСТЕМ ДУПЛЕКСНОЙ РАДИОСВЯЗИ ИЛИ СОТОВОГО ТЕЛЕФОНА"
+       },
+       "words": 590,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "hyundai_palisade_ev_t001_82496c95",
+       "title": {
+        "ru": "Система контроля безопасного выходя связана с электронным замком для защиты дете",
+        "en": "Система контроля безопасного выходя связана с электронным замком для защиты дете"
+       },
+       "words": 957,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "hyundai_palisade_ev_t002_a8da5671",
+       "title": {
+        "ru": "Press START button with key [Нажмите кнопку START ключом] (для системы с электро",
+        "en": "Press START button with key [Нажмите кнопку START ключом] (для системы с электро"
+       },
+       "words": 473,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "hyundai_palisade_ev_t003_ced4b6ac",
+       "title": {
+        "ru": "Функция экономии заряда аккумуляторной батареи",
+        "en": "Функция экономии заряда аккумуляторной батареи"
+       },
+       "words": 792,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "hyundai_palisade_ev_t004_e3a46f11",
+       "title": {
+        "ru": "Электронная система динамической стабилизации (уSC) (при наличии)",
+        "en": "Электронная система динамической стабилизации (уSC) (при наличии)"
+       },
+       "words": 823,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "hyundai_palisade_ev_t005_4a0ef2e8",
+       "title": {
+        "ru": "Для продления срока службы аккумуляторной батареи",
+        "en": "Для продления срока службы аккумуляторной батареи"
+       },
+       "words": 905,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "hyundai_palisade_ev_t006_633caa96",
+       "title": {
+        "ru": "Этикетка с указанием емкости аккумуляторной батареи",
+        "en": "Этикетка с указанием емкости аккумуляторной батареи"
+       },
+       "words": 713,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "hyundai_palisade_ev_t007_34af9c0d",
+       "title": {
+        "ru": "Аккумуляторная батарея",
+        "en": "Аккумуляторная батарея"
+       },
+       "words": 211,
+       "images": 1,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "hyundai_palisade_general_t000_9a0c170a",
+       "title": {
+        "ru": "ПРЕДУПРЕЖДЕНИЕ О СОБЛЮДЕНИИ ТЕХНИКИ БЕЗОПАСНОСТИ Й ПРЕДУПРЕЖДЕНИЕ О ПОВРЕЖДЕНИИ ",
+        "en": "ПРЕДУПРЕЖДЕНИЕ О СОБЛЮДЕНИИ ТЕХНИКИ БЕЗОПАСНОСТИ Й ПРЕДУПРЕЖДЕНИЕ О ПОВРЕЖДЕНИИ "
+       },
+       "words": 623,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t001_09fbe327",
+       "title": {
+        "ru": "Бензин, содержащий этиловый и метиловый спирт",
+        "en": "Бензин, содержащий этиловый и метиловый спирт"
+       },
+       "words": 597,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t002_02a5c609",
+       "title": {
+        "ru": "Использование метилтербутилэфира (МТВЕ)",
+        "en": "Использование метилтербутилэфира (МТВЕ)"
+       },
+       "words": 704,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t003_c1b51f9f",
+       "title": {
+        "ru": "Необходимо поддерживать безопасное состояние транспортного средства",
+        "en": "Необходимо поддерживать безопасное состояние транспортного средства"
+       },
+       "words": 549,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t004_ec3fa39b",
+       "title": {
+        "ru": "Регулировка заднего сиденья",
+        "en": "Регулировка заднего сиденья"
+       },
+       "words": 637,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t005_4220e567",
+       "title": {
+        "ru": "Подлокотник (2-й ряд, 7-местный автомобиль)",
+        "en": "Подлокотник (2-й ряд, 7-местный автомобиль)"
+       },
+       "words": 686,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t006_e28ae5d3",
+       "title": {
+        "ru": "Предупреждение о непристегнутом ремне безопасности заднего пассажира",
+        "en": "Предупреждение о непристегнутом ремне безопасности заднего пассажира"
+       },
+       "words": 726,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t007_379fc19e",
+       "title": {
+        "ru": "Использование ремня безопасности для пристегивания детей",
+        "en": "Использование ремня безопасности для пристегивания детей"
+       },
+       "words": 652,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t008_4ac7d4ab",
+       "title": {
+        "ru": "Детская удерживающая система с расположением против хода движения",
+        "en": "Детская удерживающая система с расположением против хода движения"
+       },
+       "words": 772,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t009_74a8c740",
+       "title": {
+        "ru": "Пригодность каждого посадочного места для детских удерживающих систем с использо",
+        "en": "Пригодность каждого посадочного места для детских удерживающих систем с использо"
+       },
+       "words": 1052,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t010_7054dfe2",
+       "title": {
+        "ru": "Этикетки, предупреждающие о наличии подушек безопасности (при наличии)",
+        "en": "Этикетки, предупреждающие о наличии подушек безопасности (при наличии)"
+       },
+       "words": 617,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t011_a7d3e386",
+       "title": {
+        "ru": "Меры предосторожности при использовании дистанционного ключа",
+        "en": "Меры предосторожности при использовании дистанционного ключа"
+       },
+       "words": 571,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t012_cadfeb4f",
+       "title": {
+        "ru": "Устройство блокировки замков задних дверей, предотвращающее их открывание детьми",
+        "en": "Устройство блокировки замков задних дверей, предотвращающее их открывание детьми"
+       },
+       "words": 585,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t013_b420adce",
+       "title": {
+        "ru": "Неисправности и ограничения системы обеспечения безопасного выхода",
+        "en": "Неисправности и ограничения системы обеспечения безопасного выхода"
+       },
+       "words": 432,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t014_59359656",
+       "title": {
+        "ru": "Система предупреждения 0 пассажирах сзади (ROA) (при наличии)",
+        "en": "Система предупреждения 0 пассажирах сзади (ROA) (при наличии)"
+       },
+       "words": 558,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t015_533702ab",
+       "title": {
+        "ru": "Дневной/ночной режим работы зеркала заднего вида (при наличии)",
+        "en": "Дневной/ночной режим работы зеркала заднего вида (при наличии)"
+       },
+       "words": 538,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t016_023deec9",
+       "title": {
+        "ru": "Автоматический реверс (при наличии)",
+        "en": "Автоматический реверс (при наличии)"
+       },
+       "words": 445,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t017_3ada3f82",
+       "title": {
+        "ru": "Крышка люка топливозаливной горловины",
+        "en": "Крышка люка топливозаливной горловины"
+       },
+       "words": 471,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t018_91a08664",
+       "title": {
+        "ru": "Указатель температуры охлаждающей жидкости двигателя",
+        "en": "Указатель температуры охлаждающей жидкости двигателя"
+       },
+       "words": 773,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t019_e1932a69",
+       "title": {
+        "ru": "Индикатор автоматического переключёния передач",
+        "en": "Индикатор автоматического переключёния передач"
+       },
+       "words": 574,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t020_1ab99e3d",
+       "title": {
+        "ru": "Engine has overheated [Перегрев двигателя] (при наличии)",
+        "en": "Engine has overheated [Перегрев двигателя] (при наличии)"
+       },
+       "words": 318,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t021_52437b30",
+       "title": {
+        "ru": "Check Forward Collision Warning sуstem [Проверить FCW (предуп. столкновения спер",
+        "en": "Check Forward Collision Warning sуstem [Проверить FCW (предуп. столкновения спер"
+       },
+       "words": 303,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t022_20264db8",
+       "title": {
+        "ru": "7. Service interval [Интервал обслуживание]",
+        "en": "7. Service interval [Интервал обслуживание]"
+       },
+       "words": 367,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t023_a2b07b2c",
+       "title": {
+        "ru": "Корректор угла наклона передних фар (при наличии)",
+        "en": "Корректор угла наклона передних фар (при наличии)"
+       },
+       "words": 328,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t024_169f1ebb",
+       "title": {
+        "ru": "СИСТЕМА ПРЕДУПРЕЖДЕНИЯ О РАССТОЯНИИ ПРИ ПАРКОВКЕ ЗАДНИМ ХОДОМ (PDW)",
+        "en": "СИСТЕМА ПРЕДУПРЕЖДЕНИЯ О РАССТОЯНИИ ПРИ ПАРКОВКЕ ЗАДНИМ ХОДОМ (PDW)"
+       },
+       "words": 317,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t025_fd93a0f7",
+       "title": {
+        "ru": "СИСТЕМА ПРЕДУПРЕЖДЕНИЯ О РАССТОЯНИИ ПРИ ПАРКОВКЕ ПЕРЕДНИМ/ ЗАДНИМ ХОДОМ (РДW) (П",
+        "en": "СИСТЕМА ПРЕДУПРЕЖДЕНИЯ О РАССТОЯНИИ ПРИ ПАРКОВКЕ ПЕРЕДНИМ/ ЗАДНИМ ХОДОМ (РДW) (П"
+       },
+       "words": 653,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t026_1a9b4e52",
+       "title": {
+        "ru": "Обогреватель наружных зеркал (при наличии)",
+        "en": "Обогреватель наружных зеркал (при наличии)"
+       },
+       "words": 553,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t027_8b182725",
+       "title": {
+        "ru": "Регулятор подачи воздуха в положении подачи наружного воздуха",
+        "en": "Регулятор подачи воздуха в положении подачи наружного воздуха"
+       },
+       "words": 522,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t028_de9a68d2",
+       "title": {
+        "ru": "Индивидуальное регулирование температуры со стороны водителя и пассажира",
+        "en": "Индивидуальное регулирование температуры со стороны водителя и пассажира"
+       },
+       "words": 472,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t029_39e17791",
+       "title": {
+        "ru": "Переключение режимов подачи воздуха при открытии люка в крыше (при наличии)",
+        "en": "Переключение режимов подачи воздуха при открытии люка в крыше (при наличии)"
+       },
+       "words": 816,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t030_96286589",
+       "title": {
+        "ru": "Заднее (2-й ряд, 8-местный автомобиль)",
+        "en": "Заднее (2-й ряд, 8-местный автомобиль)"
+       },
+       "words": 378,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t031_32cf7673",
+       "title": {
+        "ru": "Система беспроводной зарядки смартфонов (при наличий)",
+        "en": "Система беспроводной зарядки смартфонов (при наличий)"
+       },
+       "words": 672,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t032_22e2dcc0",
+       "title": {
+        "ru": "Фиксатор(ы) для напольных ковриков (при наличии)",
+        "en": "Фиксатор(ы) для напольных ковриков (при наличии)"
+       },
+       "words": 523,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t033_21630302",
+       "title": {
+        "ru": "Прием радиосигналов диапазона (MW, LW)",
+        "en": "Прием радиосигналов диапазона (MW, LW)"
+       },
+       "words": 436,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t034_5445f2ea",
+       "title": {
+        "ru": "АОсТОРОЖНО",
+        "en": "АОсТОРОЖНО"
+       },
+       "words": 1136,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t035_8ddb6cff",
+       "title": {
+        "ru": "Press and hold OK button to stay in Neutral when vehicle is Of [Держать кнопку О",
+        "en": "Press and hold OK button to stay in Neutral when vehicle is Of [Держать кнопку О"
+       },
+       "words": 361,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t036_c41b4600",
+       "title": {
+        "ru": "Приемы безопасного вождения",
+        "en": "Приемы безопасного вождения"
+       },
+       "words": 595,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t037_6ef13830",
+       "title": {
+        "ru": "Система управления торможением при движении на спуске (DBC) (при наличии)",
+        "en": "Система управления торможением при движении на спуске (DBC) (при наличии)"
+       },
+       "words": 559,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t038_d7970c2a",
+       "title": {
+        "ru": "Движение по заснеженным и обледенелым дорогам",
+        "en": "Движение по заснеженным и обледенелым дорогам"
+       },
+       "words": 639,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t039_5a13be6a",
+       "title": {
+        "ru": "Различные ситуации вождения, с которыми вы можете столкнуться в режиме вождения ",
+        "en": "Различные ситуации вождения, с которыми вы можете столкнуться в режиме вождения "
+       },
+       "words": 1141,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t040_6b5c77eb",
+       "title": {
+        "ru": "Остановка автомобиля и отключение системы управления торможением",
+        "en": "Остановка автомобиля и отключение системы управления торможением"
+       },
+       "words": 530,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t041_a79089cf",
+       "title": {
+        "ru": "Неисправности и ограничения вспомогательной функции предотвращения лобового стол",
+        "en": "Неисправности и ограничения вспомогательной функции предотвращения лобового стол"
+       },
+       "words": 1204,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t042_10ef3db6",
+       "title": {
+        "ru": "СИСТЕМА ПРЕДУПРЕЖДЕНИЯ ОБ ОПАСНОСТИ СТОЛКНОВЕНИЯ В НЕПРОСМАТРИВАЕМОЙ ЗОНЕ (ВСW) ",
+        "en": "СИСТЕМА ПРЕДУПРЕЖДЕНИЯ ОБ ОПАСНОСТИ СТОЛКНОВЕНИЯ В НЕПРОСМАТРИВАЕМОЙ ЗОНЕ (ВСW) "
+       },
+       "words": 787,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t043_0156f8e3",
+       "title": {
+        "ru": "ВСПОМОГАТЕЛЬНАЯ СИСТЕМА ПРЕДОТВРАЩЕНИЯ СТОЛКНОВЕНИЯ В «МЕРТВОЙе ЗОНЕ (ВСА) (ПРИ ",
+        "en": "ВСПОМОГАТЕЛЬНАЯ СИСТЕМА ПРЕДОТВРАЩЕНИЯ СТОЛКНОВЕНИЯ В «МЕРТВОЙе ЗОНЕ (ВСА) (ПРИ "
+       },
+       "words": 859,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t044_2a72d3f4",
+       "title": {
+        "ru": "Остановка автомобиля и отключение системы управления торможением",
+        "en": "Остановка автомобиля и отключение системы управления торможением"
+       },
+       "words": 750,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t045_81c45a80",
+       "title": {
+        "ru": "СИСТЕМА ОПОВЕЩЕНИЯ ОБ ОБЪЕКТАХ, ДВИЖУЩИХСЯ В ПОПЕРЕЧНОМ НАПРАВЛЕНИИ СЗАДИ АВТОМО",
+        "en": "СИСТЕМА ОПОВЕЩЕНИЯ ОБ ОБЪЕКТАХ, ДВИЖУЩИХСЯ В ПОПЕРЕЧНОМ НАПРАВЛЕНИИ СЗАДИ АВТОМО"
+       },
+       "words": 526,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t046_2191d232",
+       "title": {
+        "ru": "Неисправность и ограничения системы",
+        "en": "Неисправность и ограничения системы"
+       },
+       "words": 549,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t047_71911a8c",
+       "title": {
+        "ru": "СИСТЕМА ПРЕДУПРЕЖДЕНИЯ СТОЛКНОВЕНИЙ С ОБЪЕКТАМИ, ДВИЖУЩИМИСЯ В ПОПЕРЕЧНОМ НАПРАВ",
+        "en": "СИСТЕМА ПРЕДУПРЕЖДЕНИЯ СТОЛКНОВЕНИЙ С ОБЪЕКТАМИ, ДВИЖУЩИМИСЯ В ПОПЕРЕЧНОМ НАПРАВ"
+       },
+       "words": 450,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t048_8df81227",
+       "title": {
+        "ru": "Обеспечение безопасности при пересеченном движении сзади",
+        "en": "Обеспечение безопасности при пересеченном движении сзади"
+       },
+       "words": 445,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t049_b7c90c2d",
+       "title": {
+        "ru": "Неисправность и ограничения системы",
+        "en": "Неисправность и ограничения системы"
+       },
+       "words": 924,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t050_4184095e",
+       "title": {
+        "ru": "СИСТЕМА ПОМОЩИ ПРИ УДЕРЖАНИИ В ПРЕДЕЛАХ ПОЛОСЫ ДВИЖЕНИЯ (ЛКА, ПРИ НАЛИЧИИ)",
+        "en": "СИСТЕМА ПОМОЩИ ПРИ УДЕРЖАНИИ В ПРЕДЕЛАХ ПОЛОСЫ ДВИЖЕНИЯ (ЛКА, ПРИ НАЛИЧИИ)"
+       },
+       "words": 504,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t051_d985302f",
+       "title": {
+        "ru": "Предупреждение о выезде за пределы полосы движения",
+        "en": "Предупреждение о выезде за пределы полосы движения"
+       },
+       "words": 893,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t052_ca47b698",
+       "title": {
+        "ru": "Функция контроля отъезда впереди стоящего автомобиля",
+        "en": "Функция контроля отъезда впереди стоящего автомобиля"
+       },
+       "words": 514,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t053_9f5cb922",
+       "title": {
+        "ru": "Функция контроля отъезда впереди стоящего автомобиля",
+        "en": "Функция контроля отъезда впереди стоящего автомобиля"
+       },
+       "words": 502,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t054_b42b8a9e",
+       "title": {
+        "ru": "ИНТЕЛЛЕКТУАЛЬНЫЙ КРУИЗ-КОНТРОЛЬ (ССС) (ПРИ НАЛИЧИИ)",
+        "en": "ИНТЕЛЛЕКТУАЛЬНЫЙ КРУИЗ-КОНТРОЛЬ (ССС) (ПРИ НАЛИЧИИ)"
+       },
+       "words": 558,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t055_c0da961b",
+       "title": {
+        "ru": "Восстановление заданной скорости для системы интеллектуального круизконтроля",
+        "en": "Восстановление заданной скорости для системы интеллектуального круизконтроля"
+       },
+       "words": 349,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t056_f67c4a29",
+       "title": {
+        "ru": "Реакция системы интеллектуального круизконтроля",
+        "en": "Реакция системы интеллектуального круизконтроля"
+       },
+       "words": 467,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t057_aaff4cb1",
+       "title": {
+        "ru": "Предупреждение о дорожных условиях по ходу движения",
+        "en": "Предупреждение о дорожных условиях по ходу движения"
+       },
+       "words": 1019,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t058_7675ebae",
+       "title": {
+        "ru": "УВЕДОМЛЕНИЕ О ПОКИДАНИИ ВЕДУЩЕГО АВТОМОБИЛЯ (ПРИ НАЛИЧИИ)",
+        "en": "УВЕДОМЛЕНИЕ О ПОКИДАНИИ ВЕДУЩЕГО АВТОМОБИЛЯ (ПРИ НАЛИЧИИ)"
+       },
+       "words": 515,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t059_d3b6d705",
+       "title": {
+        "ru": "Вождение в ночное время",
+        "en": "Вождение в ночное время"
+       },
+       "words": 677,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t060_fb5cfd29",
+       "title": {
+        "ru": "Использование высококачественной охлаждающей жидкости на основе этиленгликоля",
+        "en": "Использование высококачественной охлаждающей жидкости на основе этиленгликоля"
+       },
+       "words": 395,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t061_4c7984f7",
+       "title": {
+        "ru": "Полная номинальная нагрузка на мост (GAWR)",
+        "en": "Полная номинальная нагрузка на мост (GAWR)"
+       },
+       "words": 226,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t062_14cdb153",
+       "title": {
+        "ru": "Для Европы и стран использующих сертификат Е",
+        "en": "Для Европы и стран использующих сертификат Е"
+       },
+       "words": 589,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t063_fa6c6ae4",
+       "title": {
+        "ru": "(!) Индикатор неисправности системы контроля давления в шинах (TPMS)",
+        "en": "(!) Индикатор неисправности системы контроля давления в шинах (TPMS)"
+       },
+       "words": 1114,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t064_a241f2ea",
+       "title": {
+        "ru": "Инструкции по подъему автомобиля домкратом",
+        "en": "Инструкции по подъему автомобиля домкратом"
+       },
+       "words": 1053,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t065_7e64844b",
+       "title": {
+        "ru": "Использование компактного запасного колеса (при наличии)",
+        "en": "Использование компактного запасного колеса (при наличии)"
+       },
+       "words": 992,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t066_582c1257",
+       "title": {
+        "ru": "Активация экстренного вызова в ручном режиме нажатием кнопки «SOSе",
+        "en": "Активация экстренного вызова в ручном режиме нажатием кнопки «SOSе"
+       },
+       "words": 808,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t067_b556d887",
+       "title": {
+        "ru": "Предостережения относительно технического обслуживания владельцем",
+        "en": "Предостережения относительно технического обслуживания владельцем"
+       },
+       "words": 1038,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t068_2e4ee676",
+       "title": {
+        "ru": "Шланг паров и крышка заливной горловины топливного бака",
+        "en": "Шланг паров и крышка заливной горловины топливного бака"
+       },
+       "words": 205,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t069_4af52d06",
+       "title": {
+        "ru": "Рекомендованная охлаждающая жидкость для двигателя",
+        "en": "Рекомендованная охлаждающая жидкость для двигателя"
+       },
+       "words": 568,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t070_d22c9a9f",
+       "title": {
+        "ru": "Запуск двигателя от внешнего источника",
+        "en": "Запуск двигателя от внешнего источника"
+       },
+       "words": 954,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t071_f01888ea",
+       "title": {
+        "ru": "Регулировка углов установки колес и балансировка шин",
+        "en": "Регулировка углов установки колес и балансировка шин"
+       },
+       "words": 639,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t072_0619173f",
+       "title": {
+        "ru": "3. Проверка состояния шины (TIN: Идентификационный номер шины)",
+        "en": "3. Проверка состояния шины (TIN: Идентификационный номер шины)"
+       },
+       "words": 344,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t073_e328c7df",
+       "title": {
+        "ru": "7. Система классификации шин UTQG (Uniform tire quality grading)",
+        "en": "7. Система классификации шин UTQG (Uniform tire quality grading)"
+       },
+       "words": 665,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t074_d4594932",
+       "title": {
+        "ru": "Общие предупреждения об уходе за внешним видом автомобиля",
+        "en": "Общие предупреждения об уходе за внешним видом автомобиля"
+       },
+       "words": 753,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t075_ee4124e8",
+       "title": {
+        "ru": "Техническое обслуживание ярких металлов",
+        "en": "Техническое обслуживание ярких металлов"
+       },
+       "words": 513,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t076_91406f9b",
+       "title": {
+        "ru": "1. Система снижения токсичности выбросов из картера двигателя",
+        "en": "1. Система снижения токсичности выбросов из картера двигателя"
+       },
+       "words": 450,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t077_a4067e7e",
+       "title": {
+        "ru": "Предупреждения об отработавших газах автомобиля (монооксид углерода)",
+        "en": "Предупреждения об отработавших газах автомобиля (монооксид углерода)"
+       },
+       "words": 770,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t078_3c255652",
+       "title": {
+        "ru": "ТАБЛИЧКА ТЕХНИЧЕСКИХ ХАРАКТЕРИСТИК/ ЗНАЧЕНИЙ ДАВЛЕНИЯ В ШИНАХ",
+        "en": "ТАБЛИЧКА ТЕХНИЧЕСКИХ ХАРАКТЕРИСТИК/ ЗНАЧЕНИЙ ДАВЛЕНИЯ В ШИНАХ"
+       },
+       "words": 228,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_palisade_general_t079_1a0caf5c",
+       "title": {
+        "ru": "Усовершенствованная система безопасного управления автомобилем (лVSM)",
+        "en": "Усовершенствованная система безопасного управления автомобилем (лVSM)"
+       },
+       "words": 146,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_palisade_sensors_t000_19357d37",
+       "title": {
+        "ru": "Управление AUTO (автоматическое) (при наличии)",
+        "en": "Управление AUTO (автоматическое) (при наличии)"
+       },
+       "words": 497,
+       "images": 6,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_palisade_sensors_t001_34c94e3f",
+       "title": {
+        "ru": "Ограничения системы предупреждения о расстоянии при парковке передним/задним ход",
+        "en": "Ограничения системы предупреждения о расстоянии при парковке передним/задним ход"
+       },
+       "words": 764,
+       "images": 6,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_palisade_sensors_t002_90d5f335",
+       "title": {
+        "ru": "ВСПОМОГАТЕЛЬНАЯ СИСТЕМА ПРЕДОТВРАЩЕНИЯ ЛОБОВОГО СТОЛКНОВЕНИЯ (ФСА) (СОВОКУПНОСТЬ",
+        "en": "ВСПОМОГАТЕЛЬНАЯ СИСТЕМА ПРЕДОТВРАЩЕНИЯ ЛОБОВОГО СТОЛКНОВЕНИЯ (ФСА) (СОВОКУПНОСТЬ"
+       },
+       "words": 1795,
+       "images": 15,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_palisade_sensors_t003_99e72508",
+       "title": {
+        "ru": "•Обнаружение транспортного средства",
+        "en": "•Обнаружение транспортного средства"
+       },
+       "words": 1079,
+       "images": 16,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_palisade_sensors_t004_0d91b223",
+       "title": {
+        "ru": "Камера заднего вида",
+        "en": "Камера заднего вида"
+       },
+       "words": 125,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_palisade_drivetrain_t000_a339374c",
+       "title": {
+        "ru": "NEUTRAL engaged [Задействована нейтральная передача N]",
+        "en": "NEUTRAL engaged [Задействована нейтральная передача N]"
+       },
+       "words": 590,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_palisade_drivetrain_t001_2971e001",
+       "title": {
+        "ru": "Shifter system malfunction [Ошибка системы переключения передач]",
+        "en": "Shifter system malfunction [Ошибка системы переключения передач]"
+       },
+       "words": 355,
+       "images": 4,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_palisade_drivetrain_t002_9f8d3252",
+       "title": {
+        "ru": "Коробка рулевого механизма, привод и пыльники/шаровой шарнир нижнего рычага",
+        "en": "Коробка рулевого механизма, привод и пыльники/шаровой шарнир нижнего рычага"
+       },
+       "words": 526,
+       "images": 1,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_palisade_infotainment_t000_047d851e",
+       "title": {
+        "ru": "ДИСПЛЕЙ ПРОЕКЦИИ ИНФОРМАЦИИ НА ВЕТРОВОЕ СТЕКЛО (НУД) (ПРИ НАЛИЧИИ)",
+        "en": "ДИСПЛЕЙ ПРОЕКЦИИ ИНФОРМАЦИИ НА ВЕТРОВОЕ СТЕКЛО (НУД) (ПРИ НАЛИЧИИ)"
+       },
+       "words": 366,
+       "images": 3,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_palisade_infotainment_t001_e6aab196",
+       "title": {
+        "ru": "Неисправности системы мониторинга слепых зон",
+        "en": "Неисправности системы мониторинга слепых зон"
+       },
+       "words": 429,
+       "images": 1,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_palisade_infotainment_t002_7b7003fc",
+       "title": {
+        "ru": "Использование мобильного телефона или приемопередатчика",
+        "en": "Использование мобильного телефона или приемопередатчика"
+       },
+       "words": 511,
+       "images": 3,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hyundai_palisade_infotainment_t003_bf74fb12",
+       "title": {
+        "ru": "Аудиосистема",
+        "en": "Аудиосистема"
+       },
+       "words": 7,
+       "images": 7,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

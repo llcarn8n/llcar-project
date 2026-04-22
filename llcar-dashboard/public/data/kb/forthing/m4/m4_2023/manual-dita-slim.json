@@ -1,0 +1,135 @@
+{
+ "version": "1.0",
+ "model": "m4",
+ "manuals": [
+  {
+   "model": "m4",
+   "label": {
+    "ru": "Forthing M4 — Руководство по ремонту",
+    "en": "Forthing M4 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "forthing_m4_lighting_t000_b21dffce",
+       "title": {
+        "ru": "Rear combination lamp",
+        "en": "Rear combination lamp"
+       },
+       "words": 55,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "forthing_m4_interior_t000_d8375278",
+       "title": {
+        "ru": "Seat ventilation (it is recommended to match",
+        "en": "Seat ventilation (it is recommended to match"
+       },
+       "words": 383,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "forthing_m4_ev_t000_b3584bb0",
+       "title": {
+        "ru": "Face air outlet with switch (cold air can be",
+        "en": "Face air outlet with switch (cold air can be"
+       },
+       "words": 36,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "forthing_m4_general_t000_c717a1ea",
+       "title": {
+        "ru": "One at the front of the auxiliary instrument",
+        "en": "One at the front of the auxiliary instrument"
+       },
+       "words": 130,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "forthing_m4_sensors_t000_54e0f560",
+       "title": {
+        "ru": "Reverse image",
+        "en": "Reverse image"
+       },
+       "words": 36,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "forthing_m4_infotainment_t000_9ad5761e",
+       "title": {
+        "ru": "Center console display",
+        "en": "Center console display"
+       },
+       "words": 60,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

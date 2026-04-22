@@ -1,0 +1,2475 @@
+{
+ "version": "1.0",
+ "model": "elantra",
+ "manuals": [
+  {
+   "model": "elantra",
+   "label": {
+    "ru": "Hyundai Elantra — Руководство по ремонту",
+    "en": "Hyundai Elantra — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "hyundai_elantra_engine_t000_bf05294f",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 555,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "hyundai_elantra_brakes_t000_4ca89e2b",
+       "title": {
+        "ru": "Manifold Absolute Pressure (MAP) sensor",
+        "en": "Manifold Absolute Pressure (MAP) sensor"
+       },
+       "words": 2603,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_elantra_brakes_t001_9da7a87d",
+       "title": {
+        "ru": "Manifold Absolute Pressure (MAP) sensor",
+        "en": "Manifold Absolute Pressure (MAP) sensor"
+       },
+       "words": 3660,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_elantra_brakes_t002_367b1ee5",
+       "title": {
+        "ru": "Manifold Absolute Pressure (MAP) sensor",
+        "en": "Manifold Absolute Pressure (MAP) sensor"
+       },
+       "words": 5120,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_elantra_brakes_t003_c13b3b7d",
+       "title": {
+        "ru": "Manifold Absolute Pressure (MAP) sensor",
+        "en": "Manifold Absolute Pressure (MAP) sensor"
+       },
+       "words": 5568,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_elantra_brakes_t004_e630bfa9",
+       "title": {
+        "ru": "Manifold Absolute Pressure (MAP) sensor",
+        "en": "Manifold Absolute Pressure (MAP) sensor"
+       },
+       "words": 6027,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_elantra_brakes_t005_d189d459",
+       "title": {
+        "ru": "Manifold Absolute Pressure (MAP) sensor",
+        "en": "Manifold Absolute Pressure (MAP) sensor"
+       },
+       "words": 6620,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_elantra_brakes_t006_09e274c9",
+       "title": {
+        "ru": "Manifold Absolute Pressure (MAP) sensor",
+        "en": "Manifold Absolute Pressure (MAP) sensor"
+       },
+       "words": 5172,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "hyundai_elantra_suspension_t000_fdf728bc",
+       "title": {
+        "ru": "2Strut/coil spring assembly (front) - removal, inspection and installation",
+        "en": "2Strut/coil spring assembly (front) - removal, inspection and installation"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "hyundai_elantra_electrical_t000_def74f2a",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 261,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "hyundai_elantra_body_t000_852fd9ae",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 511,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "hyundai_elantra_lighting_t000_13e80c7a",
+       "title": {
+        "ru": "19Spark plug check and replacement (every 30,000 miles or 24 months)",
+        "en": "19Spark plug check and replacement (every 30,000 miles or 24 months)"
+       },
+       "words": 1277,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_elantra_lighting_t001_959f4c92",
+       "title": {
+        "ru": "23.12 Installing the compression rings with a ring expander - the \"TOP\" mark (ar",
+        "en": "23.12 Installing the compression rings with a ring expander - the \"TOP\" mark (ar"
+       },
+       "words": 2306,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_elantra_lighting_t002_6aac57db",
+       "title": {
+        "ru": "8 Engine Coolant Temperature (ECT) sensor - check and replacement",
+        "en": "8 Engine Coolant Temperature (ECT) sensor - check and replacement"
+       },
+       "words": 1692,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_elantra_lighting_t003_192f0cf7",
+       "title": {
+        "ru": "11 Hub and wheel bearing assembly (rear) - removal and installation",
+        "en": "11 Hub and wheel bearing assembly (rear) - removal and installation"
+       },
+       "words": 1282,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_elantra_lighting_t004_19c978d2",
+       "title": {
+        "ru": "23.12 Installing the compression rings with a ring expander - the \"TOP\" mark (ar",
+        "en": "23.12 Installing the compression rings with a ring expander - the \"TOP\" mark (ar"
+       },
+       "words": 1316,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_elantra_lighting_t005_977f3018",
+       "title": {
+        "ru": "13 Headlight bulb - replacement",
+        "en": "13 Headlight bulb - replacement"
+       },
+       "words": 1225,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_elantra_lighting_t006_458af419",
+       "title": {
+        "ru": "Acknowledgements",
+        "en": "Acknowledgements"
+       },
+       "words": 2127,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "hyundai_elantra_interior_t000_836db49b",
+       "title": {
+        "ru": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec",
+        "en": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec"
+       },
+       "words": 1385,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_elantra_interior_t001_51d2dc04",
+       "title": {
+        "ru": "8Ignition switch and key lock cylinder - replacement",
+        "en": "8Ignition switch and key lock cylinder - replacement"
+       },
+       "words": 1813,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_elantra_interior_t002_b34b0614",
+       "title": {
+        "ru": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec",
+        "en": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec"
+       },
+       "words": 676,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_elantra_interior_t003_9cc9b2be",
+       "title": {
+        "ru": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec",
+        "en": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec"
+       },
+       "words": 715,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_elantra_interior_t004_1976f9fa",
+       "title": {
+        "ru": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec",
+        "en": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec"
+       },
+       "words": 1180,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_elantra_interior_t005_28504b0e",
+       "title": {
+        "ru": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec",
+        "en": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec"
+       },
+       "words": 1734,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_elantra_interior_t006_bf37914e",
+       "title": {
+        "ru": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec",
+        "en": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec"
+       },
+       "words": 2191,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_elantra_interior_t007_08008120",
+       "title": {
+        "ru": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec",
+        "en": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec"
+       },
+       "words": 2680,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_elantra_interior_t008_5cf1f6e1",
+       "title": {
+        "ru": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec",
+        "en": "14.4Carefully lift the airbag module and disconnect the airbag electrical connec"
+       },
+       "words": 908,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "hyundai_elantra_ev_t000_4bfc6ca1",
+       "title": {
+        "ru": "Removal",
+        "en": "Removal"
+       },
+       "words": 7,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "hyundai_elantra_chassis_t000_281a04c4",
+       "title": {
+        "ru": "Flywheel",
+        "en": "Flywheel"
+       },
+       "words": 6,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "hyundai_elantra_general_t000_e3b1c05c",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 9011,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t001_355013b5",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 3694,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t002_b46935ee",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 20635,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t003_08dc0844",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 19874,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t004_6324f27a",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 13405,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t005_04aa1ec1",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 14031,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t006_7414adbe",
+       "title": {
+        "ru": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen",
+        "en": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen"
+       },
+       "words": 11399,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t007_b669ab4c",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 12783,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t008_1200ec3b",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 11532,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t009_83d51d51",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 10181,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t010_fcbe0bad",
+       "title": {
+        "ru": "32Clutch slips (engine speed increases with no increase in vehicle speed)",
+        "en": "32Clutch slips (engine speed increases with no increase in vehicle speed)"
+       },
+       "words": 10235,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t011_3fb6a311",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 7465,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t012_3284d0e4",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 20680,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t013_3a6e262b",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 21541,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t014_f2c06793",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 13935,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t015_76a0e389",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 15522,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t016_716f2e46",
+       "title": {
+        "ru": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen",
+        "en": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen"
+       },
+       "words": 12057,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t017_b0dc24f7",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 14577,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t018_3f2d99ab",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 12706,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t019_b386fc45",
+       "title": {
+        "ru": "26Liftgate support struts (station wagon models) - removal and installation",
+        "en": "26Liftgate support struts (station wagon models) - removal and installation"
+       },
+       "words": 13556,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t020_b58860c9",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 11785,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t021_dcd8eba7",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 5216,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t022_d1b321a6",
+       "title": {
+        "ru": "21.4 With the engine running at idle, remove the PCV valve and verify that vacuu",
+        "en": "21.4 With the engine running at idle, remove the PCV valve and verify that vacuu"
+       },
+       "words": 17079,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t023_d16e6a0d",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 21022,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t024_a6d29339",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 20983,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t025_67c4e374",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 16009,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t026_ef25bcb5",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 14713,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t027_967828c6",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 13153,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t028_a90f4f11",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 15034,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t029_7a5e8b94",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 13958,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t030_bd6460d4",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 12629,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t031_2de8f4a2",
+       "title": {
+        "ru": "16 Pinging or knocking engine sounds during acceleration or uphill",
+        "en": "16 Pinging or knocking engine sounds during acceleration or uphill"
+       },
+       "words": 12985,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t032_434eb465",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 6161,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t033_76c738f4",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 22900,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t034_e6ee4cef",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 24568,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t035_2db66761",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 16915,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t036_524f0fed",
+       "title": {
+        "ru": "6.2aFuel pump/fuel level sending unit electrical connector terminal guide (1996 ",
+        "en": "6.2aFuel pump/fuel level sending unit electrical connector terminal guide (1996 "
+       },
+       "words": 18441,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t037_aaf74c93",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 14215,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t038_a7b8d631",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 16851,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t039_b2357ef9",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 16042,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t040_91e1d148",
+       "title": {
+        "ru": "26Liftgate support struts (station wagon models) - removal and installation",
+        "en": "26Liftgate support struts (station wagon models) - removal and installation"
+       },
+       "words": 12603,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t041_be6c9080",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 15127,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t042_3b00b6a6",
+       "title": {
+        "ru": "32Clutch slips (engine speed increases with no increase in vehicle speed)",
+        "en": "32Clutch slips (engine speed increases with no increase in vehicle speed)"
+       },
+       "words": 10890,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t043_2a55b308",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 13472,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t044_8fad4099",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 22281,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t045_50bf2b1a",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 25144,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t046_3af21085",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 17705,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t047_af73c32d",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 18326,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t048_970bba67",
+       "title": {
+        "ru": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen",
+        "en": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen"
+       },
+       "words": 15685,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t049_0c11a992",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 17889,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t050_c4d8b0e7",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 16352,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t051_72641437",
+       "title": {
+        "ru": "26Liftgate support struts (station wagon models) - removal and installation",
+        "en": "26Liftgate support struts (station wagon models) - removal and installation"
+       },
+       "words": 15625,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t052_85c7ac6e",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 16449,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t053_5ca918cd",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 8644,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t054_7cbf5c25",
+       "title": {
+        "ru": "21.4 With the engine running at idle, remove the PCV valve and verify that vacuu",
+        "en": "21.4 With the engine running at idle, remove the PCV valve and verify that vacuu"
+       },
+       "words": 19029,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t055_7375ec2e",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 24563,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t056_30d1fbd8",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 23109,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t057_cfb92941",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 20451,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t058_fbbff347",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 18496,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t059_adb2adf5",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 16560,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t060_417e9b8d",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 18128,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t061_c7c236f9",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 16841,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t062_29da67cc",
+       "title": {
+        "ru": "Rear turn signal, brake light and taillight bulbs",
+        "en": "Rear turn signal, brake light and taillight bulbs"
+       },
+       "words": 17284,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t063_9562e601",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 16221,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t064_459d2bfc",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 9236,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t065_d2a2f16e",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 24186,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t066_76ae8e75",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 27145,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t067_30252428",
+       "title": {
+        "ru": "23.12 Installing the compression rings with a ring expander - the \"TOP\" mark (ar",
+        "en": "23.12 Installing the compression rings with a ring expander - the \"TOP\" mark (ar"
+       },
+       "words": 22656,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t068_e9605dc5",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 21727,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t069_10b79949",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 17489,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t070_f8ec649a",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 19018,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t071_13adce93",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 19910,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t072_938f5fa2",
+       "title": {
+        "ru": "26Liftgate support struts (station wagon models) - removal and installation",
+        "en": "26Liftgate support struts (station wagon models) - removal and installation"
+       },
+       "words": 16609,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t073_775ec619",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 16999,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t074_2b7d4eac",
+       "title": {
+        "ru": "32Clutch slips (engine speed increases with no increase in vehicle speed)",
+        "en": "32Clutch slips (engine speed increases with no increase in vehicle speed)"
+       },
+       "words": 16413,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t075_6bcc5cbe",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 13861,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t076_7b1f6b17",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 27441,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t077_2a0a999f",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 28552,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t078_c119a5ea",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 20203,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t079_391bd729",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 22821,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t080_e26c021b",
+       "title": {
+        "ru": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen",
+        "en": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen"
+       },
+       "words": 18344,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t081_ec98f811",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 21638,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t082_44a673d0",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 20195,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t083_91020738",
+       "title": {
+        "ru": "26Liftgate support struts (station wagon models) - removal and installation",
+        "en": "26Liftgate support struts (station wagon models) - removal and installation"
+       },
+       "words": 17820,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t084_2fdb972a",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 20298,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t085_b2779cbb",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 12879,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t086_1df37370",
+       "title": {
+        "ru": "10 Windshield wiper blade inspection and replacement (every 7500 miles or 6 mont",
+        "en": "10 Windshield wiper blade inspection and replacement (every 7500 miles or 6 mont"
+       },
+       "words": 20388,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t087_d80dfef9",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 26688,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t088_673fc0f2",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 29051,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t089_63094091",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 21270,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t090_b7ba572a",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 24194,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t091_e8e6dce7",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 19540,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t092_48be7d27",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 21735,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t093_ba7ab5d9",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 20292,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t094_012795da",
+       "title": {
+        "ru": "Rear turn signal, brake light and taillight bulbs",
+        "en": "Rear turn signal, brake light and taillight bulbs"
+       },
+       "words": 21041,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t095_dc353d49",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 19580,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t096_cf8607cb",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 12528,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t097_8b494cad",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 25456,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t098_007b59b5",
+       "title": {
+        "ru": "3.6Align the notch (arrow) on the crankshaft drivebelt pulley with the mark on t",
+        "en": "3.6Align the notch (arrow) on the crankshaft drivebelt pulley with the mark on t"
+       },
+       "words": 29260,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t099_86cdeedb",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 28443,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t100_9bdcad0e",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 25032,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t101_3eabc1a6",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 20903,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t102_d105dfb9",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 21652,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t103_e4d29cc0",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 22672,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t104_e8cce101",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 21422,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t105_df2df82f",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 20226,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t106_37224544",
+       "title": {
+        "ru": "16 Pinging or knocking engine sounds during acceleration or uphill",
+        "en": "16 Pinging or knocking engine sounds during acceleration or uphill"
+       },
+       "words": 20348,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t107_ddd06fc9",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 14786,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t108_8ce1df14",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 31786,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t109_ffc731a8",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 31495,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t110_b5751e6d",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 24608,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t111_4245a1fa",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 26443,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t112_a49d49ce",
+       "title": {
+        "ru": "10.7b Vehicle Speed Sensor (VSS) connector terminal guide (2001 and later models",
+        "en": "10.7b Vehicle Speed Sensor (VSS) connector terminal guide (2001 and later models"
+       },
+       "words": 21010,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t113_37c1beec",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 24976,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t114_6c459286",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 23636,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t115_8fd27941",
+       "title": {
+        "ru": "26Liftgate support struts (station wagon models) - removal and installation",
+        "en": "26Liftgate support struts (station wagon models) - removal and installation"
+       },
+       "words": 20280,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t116_a2e7740b",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 23914,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t117_63dc582e",
+       "title": {
+        "ru": "32Clutch slips (engine speed increases with no increase in vehicle speed)",
+        "en": "32Clutch slips (engine speed increases with no increase in vehicle speed)"
+       },
+       "words": 17465,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t118_b751261f",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 21952,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t119_175d9ef2",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 30491,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t120_fed4cf4d",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 32687,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t121_093fabb0",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 25184,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t122_816effc2",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 26541,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t123_b87251c2",
+       "title": {
+        "ru": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen",
+        "en": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen"
+       },
+       "words": 22862,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t124_d9bf096a",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 25381,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t125_61a58573",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 24202,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t126_33de05ea",
+       "title": {
+        "ru": "Rear turn signal, brake light and taillight bulbs",
+        "en": "Rear turn signal, brake light and taillight bulbs"
+       },
+       "words": 24195,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t127_3abb6733",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 23196,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t128_bda9a8d1",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 16381,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t129_a964ed91",
+       "title": {
+        "ru": "21.4 With the engine running at idle, remove the PCV valve and verify that vacuu",
+        "en": "21.4 With the engine running at idle, remove the PCV valve and verify that vacuu"
+       },
+       "words": 27819,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t130_7fe57b78",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 32193,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t131_67d2a5b0",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 31215,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t132_241b1563",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 28163,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t133_76f0313f",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 25296,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t134_39374c47",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 24356,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t135_4c9996b7",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 26340,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t136_49fcc26d",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 25073,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t137_408612d2",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 23943,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t138_26f8eb0c",
+       "title": {
+        "ru": "16 Pinging or knocking engine sounds during acceleration or uphill",
+        "en": "16 Pinging or knocking engine sounds during acceleration or uphill"
+       },
+       "words": 24108,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t139_4f95e87b",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 17219,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t140_62884977",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 33345,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t141_3650f657",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 35794,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t142_f1cec84d",
+       "title": {
+        "ru": "23.12 Installing the compression rings with a ring expander - the \"TOP\" mark (ar",
+        "en": "23.12 Installing the compression rings with a ring expander - the \"TOP\" mark (ar"
+       },
+       "words": 28469,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t143_2ab791f7",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 29404,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t144_02428b88",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 25487,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t145_3575494f",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 27851,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t146_ee14a729",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 27088,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t147_e7f0c713",
+       "title": {
+        "ru": "26Liftgate support struts (station wagon models) - removal and installation",
+        "en": "26Liftgate support struts (station wagon models) - removal and installation"
+       },
+       "words": 23874,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t148_88f7a79c",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 25843,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t149_7539e0ea",
+       "title": {
+        "ru": "32Clutch slips (engine speed increases with no increase in vehicle speed)",
+        "en": "32Clutch slips (engine speed increases with no increase in vehicle speed)"
+       },
+       "words": 22429,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t150_f50da124",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 23768,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t151_7acef1ec",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 33818,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t152_53851389",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 36115,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t153_59392c28",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 28878,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t154_cc28fb59",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 29638,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t155_a2c38a8b",
+       "title": {
+        "ru": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen",
+        "en": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen"
+       },
+       "words": 26804,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t156_e97b3a01",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 29042,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t157_11c28baa",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 27518,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t158_68aef466",
+       "title": {
+        "ru": "26Liftgate support struts (station wagon models) - removal and installation",
+        "en": "26Liftgate support struts (station wagon models) - removal and installation"
+       },
+       "words": 26771,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t159_a2cc7120",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 27398,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t160_f4d95868",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 19848,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t161_4d9b2e96",
+       "title": {
+        "ru": "10 Windshield wiper blade inspection and replacement (every 7500 miles or 6 mont",
+        "en": "10 Windshield wiper blade inspection and replacement (every 7500 miles or 6 mont"
+       },
+       "words": 30018,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t162_c4ed3f58",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 34922,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t163_ae124a40",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 35006,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t164_e28208f3",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 31316,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t165_0cdd4b68",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 29928,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t166_5d6d5833",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 27617,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t167_5cb39fb7",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 29153,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t168_5bf51dfe",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 27956,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t169_be1fcf5a",
+       "title": {
+        "ru": "Rear turn signal, brake light and taillight bulbs",
+        "en": "Rear turn signal, brake light and taillight bulbs"
+       },
+       "words": 28428,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t170_89bf6082",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 27303,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t171_a69f4a67",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 20373,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t172_52bb6f69",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 34830,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t173_f2eb1b83",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 38126,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t174_d33a2409",
+       "title": {
+        "ru": "23.12 Installing the compression rings with a ring expander - the \"TOP\" mark (ar",
+        "en": "23.12 Installing the compression rings with a ring expander - the \"TOP\" mark (ar"
+       },
+       "words": 34307,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t175_2aebfe64",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 32772,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t176_d2c8346a",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 28357,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t177_89b926b8",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 29549,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t178_410a64e6",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 31861,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t179_bcaf3a15",
+       "title": {
+        "ru": "26Liftgate support struts (station wagon models) - removal and installation",
+        "en": "26Liftgate support struts (station wagon models) - removal and installation"
+       },
+       "words": 27434,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t180_17d80835",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 28103,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t181_12741cdb",
+       "title": {
+        "ru": "32Clutch slips (engine speed increases with no increase in vehicle speed)",
+        "en": "32Clutch slips (engine speed increases with no increase in vehicle speed)"
+       },
+       "words": 27775,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t182_597faa48",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 24750,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t183_866f2971",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 38737,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t184_ff26e56a",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 39455,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t185_5735c06b",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 31321,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t186_77bf3106",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 34038,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t187_a464c727",
+       "title": {
+        "ru": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen",
+        "en": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen"
+       },
+       "words": 29267,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t188_a0a86696",
+       "title": {
+        "ru": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the ",
+        "en": "12.10 Wrap the splined area of the axleshaft with tape to prevent damage to the "
+       },
+       "words": 32871,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t189_13768d38",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 31334,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t190_526b05b9",
+       "title": {
+        "ru": "26Liftgate support struts (station wagon models) - removal and installation",
+        "en": "26Liftgate support struts (station wagon models) - removal and installation"
+       },
+       "words": 28576,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t191_a14bcf99",
+       "title": {
+        "ru": "Haynes Repair Manual Based on a complete teardown and rebuild",
+        "en": "Haynes Repair Manual Based on a complete teardown and rebuild"
+       },
+       "words": 31477,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t192_81eaab1a",
+       "title": {
+        "ru": "32Clutch slips (engine speed increases with no increase in vehicle speed)",
+        "en": "32Clutch slips (engine speed increases with no increase in vehicle speed)"
+       },
+       "words": 24160,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t193_3b06282a",
+       "title": {
+        "ru": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers",
+        "en": "54Transaxle slips, shifts roughly, is noisy or has no drive in forward or revers"
+       },
+       "words": 31181,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t194_b8fd2a2c",
+       "title": {
+        "ru": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l",
+        "en": "27.2a Check all of the flanged and slip-jointed exhaust connections (arrows) - l"
+       },
+       "words": 37333,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t195_11ad1c56",
+       "title": {
+        "ru": "12.19a Install the special lifter tool as shown, squeeze the handles together to",
+        "en": "12.19a Install the special lifter tool as shown, squeeze the handles together to"
+       },
+       "words": 40767,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t196_ef33639a",
+       "title": {
+        "ru": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju",
+        "en": "3.3b .. . to use the fuel pump check connector, remove the plug and connect a ju"
+       },
+       "words": 32612,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t197_537f5950",
+       "title": {
+        "ru": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front ",
+        "en": "8.1 The Engine Coolant Temperature (ECT) sensor (arrow) is located at the front "
+       },
+       "words": 35205,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t198_1fb139a2",
+       "title": {
+        "ru": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen",
+        "en": "19 On-Board Refueling Vapor Recovery (ORVR) system (1998 and later models) - gen"
+       },
+       "words": 30521,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t199_087b3c76",
+       "title": {
+        "ru": "3.3 Install the spring compressor according to the tool manufacturer's instructi",
+        "en": "3.3 Install the spring compressor according to the tool manufacturer's instructi"
+       },
+       "words": 32758,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t200_e279e34e",
+       "title": {
+        "ru": "Repair of flexible plastic body panels (front and rear bumper covers)",
+        "en": "Repair of flexible plastic body panels (front and rear bumper covers)"
+       },
+       "words": 31358,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t201_966a7cb0",
+       "title": {
+        "ru": "Rear turn signal, brake light and taillight bulbs",
+        "en": "Rear turn signal, brake light and taillight bulbs"
+       },
+       "words": 32296,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_elantra_general_t202_b891a72c",
+       "title": {
+        "ru": "52Transaxle will not downshift with accelerator pedal pressed to the floor",
+        "en": "52Transaxle will not downshift with accelerator pedal pressed to the floor"
+       },
+       "words": 5265,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_elantra_drivetrain_t000_ffd731c6",
+       "title": {
+        "ru": "39Noise most pronounced when turning",
+        "en": "39Noise most pronounced when turning"
+       },
+       "words": 5,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_elantra_sensors_t000_3e25c8f2",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 310,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

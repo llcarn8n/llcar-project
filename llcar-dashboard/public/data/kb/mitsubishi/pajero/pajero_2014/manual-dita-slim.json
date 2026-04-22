@@ -1,0 +1,1654 @@
+{
+ "version": "1.0",
+ "model": "pajero_2014",
+ "manuals": [
+  {
+   "model": "pajero_2014",
+   "label": {
+    "ru": "Mitsubishi pajero_2014 — Руководство по ремонту",
+    "en": "Mitsubishi pajero_2014 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "mitsubishi_pajero_2014_engine_t000_6fe2a266",
+       "title": {
+        "ru": "Контрольная лампа предпускового подогрева дизельного двигателя (для автомобилей",
+        "en": "Контрольная лампа предпускового подогрева дизельного двигателя (для автомобилей"
+       },
+       "words": 472,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_engine_t001_573b2ef0",
+       "title": {
+        "ru": "Действия в сложных ситуациях",
+        "en": "Действия в сложных ситуациях"
+       },
+       "words": 632,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_engine_t002_c9ecb710",
+       "title": {
+        "ru": "Проверка уровня и заправка моторного масла",
+        "en": "Проверка уровня и заправка моторного масла"
+       },
+       "words": 450,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_engine_t003_18380b6d",
+       "title": {
+        "ru": "Проверка уровня жидкости",
+        "en": "Проверка уровня жидкости"
+       },
+       "words": 119,
+       "images": 6,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "mitsubishi_pajero_2014_brakes_t001_0ae94126",
+       "title": {
+        "ru": "Тормозные колодки",
+        "en": "Тормозные колодки"
+       },
+       "words": 466,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_brakes_t002_2797291c",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 469,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_brakes_t003_833ca1c4",
+       "title": {
+        "ru": "Замена колеса",
+        "en": "Замена колеса"
+       },
+       "words": 586,
+       "images": 1,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "mitsubishi_pajero_2014_electrical_t000_425a1f96",
+       "title": {
+        "ru": "Предохранители",
+        "en": "Предохранители"
+       },
+       "words": 172,
+       "images": 2,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "mitsubishi_pajero_2014_transmission_t000_6bf66f5c",
+       "title": {
+        "ru": "Если двигатель не запускается",
+        "en": "Если двигатель не запускается"
+       },
+       "words": 689,
+       "images": 4,
+       "section_id": "transmission"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_transmission_t001_8136b84c",
+       "title": {
+        "ru": "Использование системы полного привода",
+        "en": "Использование системы полного привода"
+       },
+       "words": 472,
+       "images": 0,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": []
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "mitsubishi_pajero_2014_body_t000_d107aba8",
+       "title": {
+        "ru": "Запирание и отпирание дверей",
+        "en": "Запирание и отпирание дверей"
+       },
+       "words": 334,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_body_t001_523ce748",
+       "title": {
+        "ru": "Возврат в рабочее положение",
+        "en": "Возврат в рабочее положение"
+       },
+       "words": 523,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_body_t002_c8a96d9c",
+       "title": {
+        "ru": "Активация сигнала тревоги",
+        "en": "Активация сигнала тревоги"
+       },
+       "words": 501,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_body_t005_ba4e5f82",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 126,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "mitsubishi_pajero_2014_steering_t000_512534ab",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 504,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "fuel_ev",
+     "title": {
+      "ru": "Топливная / ВВ система",
+      "en": "Fuel / HV System"
+     },
+     "icon": "⛽",
+     "topics": [
+      {
+       "id": "mitsubishi_pajero_2014_fuel_ev_t000_7f61c391",
+       "title": {
+        "ru": "Внешнее оборудование (задняя часть автомобиля)",
+        "en": "Внешнее оборудование (задняя часть автомобиля)"
+       },
+       "words": 692,
+       "images": 3,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_fuel_ev_t001_21a7f0ab",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 218,
+       "images": 1,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_fuel_ev_t002_821f8701",
+       "title": {
+        "ru": "Запас хода",
+        "en": "Запас хода"
+       },
+       "words": 257,
+       "images": 4,
+       "section_id": "fuel_ev"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "mitsubishi_pajero_2014_lighting_t002_8bbae616",
+       "title": {
+        "ru": "Кроме автомобилей с газоразрядными ксеноновыми лампами фар",
+        "en": "Кроме автомобилей с газоразрядными ксеноновыми лампами фар"
+       },
+       "words": 228,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_lighting_t003_c38c2755",
+       "title": {
+        "ru": "Включатель заднего противотуманного фонаря",
+        "en": "Включатель заднего противотуманного фонаря"
+       },
+       "words": 357,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_lighting_t004_3ebb2dde",
+       "title": {
+        "ru": "Начало движения и вождение автомобиля",
+        "en": "Начало движения и вождение автомобиля"
+       },
+       "words": 514,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_lighting_t007_0b317b80",
+       "title": {
+        "ru": "Световые приборы, расположенные внутри автомобиля",
+        "en": "Световые приборы, расположенные внутри автомобиля"
+       },
+       "words": 202,
+       "images": 3,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "mitsubishi_pajero_2014_adas_t000_061522b5",
+       "title": {
+        "ru": "Включение круиз",
+        "en": "Включение круиз"
+       },
+       "words": 188,
+       "images": 3,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "mitsubishi_pajero_2014_interior_t000_64a4d89e",
+       "title": {
+        "ru": "Регулировка сидений",
+        "en": "Регулировка сидений"
+       },
+       "words": 333,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_interior_t001_eaa683fc",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 229,
+       "images": 1,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "mitsubishi_pajero_2014_general_t001_b0df89cc",
+       "title": {
+        "ru": "Модернизация/изменения в электросистеме или системе питания",
+        "en": "Модернизация/изменения в электросистеме или системе питания"
+       },
+       "words": 275,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t003_73d6cc97",
+       "title": {
+        "ru": "Процедура замены элемента питания в пульте дистанционного управления",
+        "en": "Процедура замены элемента питания в пульте дистанционного управления"
+       },
+       "words": 230,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t004_c380e541",
+       "title": {
+        "ru": "Запирание и отпирание двери ключом",
+        "en": "Запирание и отпирание двери ключом"
+       },
+       "words": 134,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t006_1916dc20",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 189,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t008_5748cfcb",
+       "title": {
+        "ru": "Активация сигнала тревоги",
+        "en": "Активация сигнала тревоги"
+       },
+       "words": 188,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t009_9f1f3aab",
+       "title": {
+        "ru": "Запирание и отпирание дверей",
+        "en": "Запирание и отпирание дверей"
+       },
+       "words": 394,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t011_b84b5eab",
+       "title": {
+        "ru": "Клавиши у пассажирских мест",
+        "en": "Клавиши у пассажирских мест"
+       },
+       "words": 187,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t012_ccf852ab",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 265,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t015_c2950c99",
+       "title": {
+        "ru": "2 – Задние сиденья (3",
+        "en": "2 – Задние сиденья (3"
+       },
+       "words": 120,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t016_0c0aacef",
+       "title": {
+        "ru": "Механическая регулировка",
+        "en": "Механическая регулировка"
+       },
+       "words": 147,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t017_9b36212e",
+       "title": {
+        "ru": "Регулировка поясничного подпора (сиденье водителя с электроприводом)",
+        "en": "Регулировка поясничного подпора (сиденье водителя с электроприводом)"
+       },
+       "words": 161,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t018_ac16b258",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 344,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t022_e31b5096",
+       "title": {
+        "ru": "Сиденья и ремни безопасности",
+        "en": "Сиденья и ремни безопасности"
+       },
+       "words": 176,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t023_3f3ec5b7",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 192,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t027_85e93d29",
+       "title": {
+        "ru": "Хранение ремней безопасности заднего/второго и третьего рядов сидений\\*",
+        "en": "Хранение ремней безопасности заднего/второго и третьего рядов сидений\\*"
+       },
+       "words": 152,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t028_b07804a5",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 289,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t030_f9b76953",
+       "title": {
+        "ru": "Правила",
+        "en": "Правила"
+       },
+       "words": 345,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t031_441fd7fb",
+       "title": {
+        "ru": "Расшифровка символов, используемых в таблице",
+        "en": "Расшифровка символов, используемых в таблице"
+       },
+       "words": 221,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t033_31366199",
+       "title": {
+        "ru": "Установка",
+        "en": "Установка"
+       },
+       "words": 210,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t034_a82e1b2c",
+       "title": {
+        "ru": "Проверка ремней безопасности",
+        "en": "Проверка ремней безопасности"
+       },
+       "words": 550,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t037_0f3e6153",
+       "title": {
+        "ru": "Передние подушки безопасности РАССЧИТАНЫ НА СРАБАТЫВАНИЕ в следующих случаях",
+        "en": "Передние подушки безопасности РАССЧИТАНЫ НА СРАБАТЫВАНИЕ в следующих случаях"
+       },
+       "words": 628,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t038_53f6e80c",
+       "title": {
+        "ru": "Система боковых подушек безопасности \\*",
+        "en": "Система боковых подушек безопасности \\*"
+       },
+       "words": 552,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t040_77b0a148",
+       "title": {
+        "ru": "Одометр/счетчик суточного пробега/контроль техобслуживания",
+        "en": "Одометр/счетчик суточного пробега/контроль техобслуживания"
+       },
+       "words": 434,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t042_42556c4e",
+       "title": {
+        "ru": "Контрольная лампа тормозной системы (зуммер тормозной системы)",
+        "en": "Контрольная лампа тормозной системы (зуммер тормозной системы)"
+       },
+       "words": 281,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t043_2b09ffaa",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 285,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t044_c56ca413",
+       "title": {
+        "ru": "Контрольная лампа незакрытых дверей",
+        "en": "Контрольная лампа незакрытых дверей"
+       },
+       "words": 388,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t045_da98200b",
+       "title": {
+        "ru": "Режимы информационного дисплея",
+        "en": "Режимы информационного дисплея"
+       },
+       "words": 315,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t047_b85113e6",
+       "title": {
+        "ru": "Обнуление показаний температуры наружного воздуха",
+        "en": "Обнуление показаний температуры наружного воздуха"
+       },
+       "words": 225,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t049_7d0978e5",
+       "title": {
+        "ru": "Календарь",
+        "en": "Календарь"
+       },
+       "words": 378,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t050_a563dee4",
+       "title": {
+        "ru": "Настройка яркости дисплея",
+        "en": "Настройка яркости дисплея"
+       },
+       "words": 377,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t051_b354739d",
+       "title": {
+        "ru": "Установка магнитного склонения",
+        "en": "Установка магнитного склонения"
+       },
+       "words": 236,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t052_541acd03",
+       "title": {
+        "ru": "Органы управления и контрольно",
+        "en": "Органы управления и контрольно"
+       },
+       "words": 253,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t056_c8a24866",
+       "title": {
+        "ru": "Настройка барометра",
+        "en": "Настройка барометра"
+       },
+       "words": 220,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t057_9d4f4013",
+       "title": {
+        "ru": "Уход за дисплеем",
+        "en": "Уход за дисплеем"
+       },
+       "words": 246,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t058_2bc9f82b",
+       "title": {
+        "ru": "Автомобили только с передними сиденьями",
+        "en": "Автомобили только с передними сиденьями"
+       },
+       "words": 330,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t059_3106daba",
+       "title": {
+        "ru": "Регулировка частоты срабатывания очистителя ветрового стекла",
+        "en": "Регулировка частоты срабатывания очистителя ветрового стекла"
+       },
+       "words": 447,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t060_eeb7e821",
+       "title": {
+        "ru": "Настройка чувствительности датчика дождя",
+        "en": "Настройка чувствительности датчика дождя"
+       },
+       "words": 325,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t062_c30d9ca2",
+       "title": {
+        "ru": "Включатель обогрева заднего стекла",
+        "en": "Включатель обогрева заднего стекла"
+       },
+       "words": 242,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t063_3eeb2799",
+       "title": {
+        "ru": "Работа двигателя на холостом ходу",
+        "en": "Работа двигателя на холостом ходу"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t065_f52c41b7",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 267,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t066_4b8ab48b",
+       "title": {
+        "ru": "Стоянка автомобиля",
+        "en": "Стоянка автомобиля"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t068_4f488ddf",
+       "title": {
+        "ru": "Тип 1",
+        "en": "Тип 1"
+       },
+       "words": 299,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t069_9e009abc",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 295,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t070_d24436a4",
+       "title": {
+        "ru": "Положение АСС",
+        "en": "Положение АСС"
+       },
+       "words": 201,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t071_9a896ba2",
+       "title": {
+        "ru": "Разблокировать",
+        "en": "Разблокировать"
+       },
+       "words": 292,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t074_325b5e41",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 248,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t075_d0165732",
+       "title": {
+        "ru": "Управление A/T с помощью рычага селектора",
+        "en": "Управление A/T с помощью рычага селектора"
+       },
+       "words": 164,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t076_9b921b52",
+       "title": {
+        "ru": "Р — Стоянка",
+        "en": "Р — Стоянка"
+       },
+       "words": 254,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t077_50e0d87c",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 379,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t081_c5ab3754",
+       "title": {
+        "ru": "Контрольная лампа блокировки дифференциала задней оси",
+        "en": "Контрольная лампа блокировки дифференциала задней оси"
+       },
+       "words": 259,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t083_8567ee2a",
+       "title": {
+        "ru": "Движение по песку и грязи",
+        "en": "Движение по песку и грязи"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t084_cd20ca2d",
+       "title": {
+        "ru": "Спуск с крутых уклонов",
+        "en": "Спуск с крутых уклонов"
+       },
+       "words": 517,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t085_bdb77954",
+       "title": {
+        "ru": "Шины и колесные диски",
+        "en": "Шины и колесные диски"
+       },
+       "words": 367,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t086_ae7935b8",
+       "title": {
+        "ru": "Усилитель тормозов",
+        "en": "Усилитель тормозов"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t087_502ec37a",
+       "title": {
+        "ru": "Система помощи при экстренном торможении",
+        "en": "Система помощи при экстренном торможении"
+       },
+       "words": 305,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t088_ea161648",
+       "title": {
+        "ru": "Контрольная лампа системы ASTC",
+        "en": "Контрольная лампа системы ASTC"
+       },
+       "words": 348,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t089_dde9b6f1",
+       "title": {
+        "ru": "Начало движения и вождение автомобиля",
+        "en": "Начало движения и вождение автомобиля"
+       },
+       "words": 394,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t092_ca08cf3f",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 264,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t093_94af9817",
+       "title": {
+        "ru": "На автомобилях без тягово",
+        "en": "На автомобилях без тягово"
+       },
+       "words": 416,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t095_f74eb78f",
+       "title": {
+        "ru": "Изменение зон обнаружения препятствий",
+        "en": "Изменение зон обнаружения препятствий"
+       },
+       "words": 251,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t096_95a2e325",
+       "title": {
+        "ru": "Как пользоваться видеокамерой заднего вида",
+        "en": "Как пользоваться видеокамерой заднего вида"
+       },
+       "words": 342,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t097_468ee38b",
+       "title": {
+        "ru": "Временно включить режим с выключенным дисплеем",
+        "en": "Временно включить режим с выключенным дисплеем"
+       },
+       "words": 307,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t100_f004d442",
+       "title": {
+        "ru": "Регулировка объема и направления подаваемого воздуха",
+        "en": "Регулировка объема и направления подаваемого воздуха"
+       },
+       "words": 198,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t103_5b571cbc",
+       "title": {
+        "ru": "Подача воздуха в верхнюю часть салона",
+        "en": "Подача воздуха в верхнюю часть салона"
+       },
+       "words": 103,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t104_ab13599a",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 249,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t107_fe1cd168",
+       "title": {
+        "ru": "Если кондиционер долго не используется",
+        "en": "Если кондиционер долго не используется"
+       },
+       "words": 269,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t108_d34443b0",
+       "title": {
+        "ru": "Регулировка звучания",
+        "en": "Регулировка звучания"
+       },
+       "words": 354,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t109_865d08a8",
+       "title": {
+        "ru": "Прослушивание радио",
+        "en": "Прослушивание радио"
+       },
+       "words": 584,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t110_9d3c0fbd",
+       "title": {
+        "ru": "Функция альтернативной частоты (AF)",
+        "en": "Функция альтернативной частоты (AF)"
+       },
+       "words": 503,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t111_85e5aa3a",
+       "title": {
+        "ru": "Запись типов программ в память",
+        "en": "Запись типов программ в память"
+       },
+       "words": 525,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t112_1abf2712",
+       "title": {
+        "ru": "Создание комфортных условий в салоне",
+        "en": "Создание комфортных условий в салоне"
+       },
+       "words": 418,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t114_5f23ff10",
+       "title": {
+        "ru": "Повторное воспроизведение записи",
+        "en": "Повторное воспроизведение записи"
+       },
+       "words": 238,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t116_76832162",
+       "title": {
+        "ru": "Текст, содержащийся на компакт",
+        "en": "Текст, содержащийся на компакт"
+       },
+       "words": 359,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t118_d0aed6a5",
+       "title": {
+        "ru": "Sound Field (Выбор Типа Звукового Поля)",
+        "en": "Sound Field (Выбор Типа Звукового Поля)"
+       },
+       "words": 424,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t121_43b0da36",
+       "title": {
+        "ru": "Типы радиопередач (PTY)",
+        "en": "Типы радиопередач (PTY)"
+       },
+       "words": 804,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t124_4e943594",
+       "title": {
+        "ru": "Выбор нужного компакт",
+        "en": "Выбор нужного компакт"
+       },
+       "words": 418,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t125_34cddb9d",
+       "title": {
+        "ru": "Создание комфортных условий в салоне",
+        "en": "Создание комфортных условий в салоне"
+       },
+       "words": 160,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t127_41c423a5",
+       "title": {
+        "ru": "Предпрослушивание каждой записи на компакт диске",
+        "en": "Предпрослушивание каждой записи на компакт диске"
+       },
+       "words": 338,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t130_339dbbde",
+       "title": {
+        "ru": "Поиск записей в меню проигрывателя iPod",
+        "en": "Поиск записей в меню проигрывателя iPod"
+       },
+       "words": 380,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t131_8a22787b",
+       "title": {
+        "ru": "Воспроизведение записей проигрывателя iPod с помощью голосового управления (для",
+        "en": "Воспроизведение записей проигрывателя iPod с помощью голосового управления (для"
+       },
+       "words": 312,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t136_7c267958",
+       "title": {
+        "ru": "Поиск записи",
+        "en": "Поиск записи"
+       },
+       "words": 196,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t137_4acb801b",
+       "title": {
+        "ru": "Воспроизведение записей в папке в случайном порядке",
+        "en": "Воспроизведение записей в папке в случайном порядке"
+       },
+       "words": 229,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t138_aae7822f",
+       "title": {
+        "ru": "Создание комфортных условий в салоне",
+        "en": "Создание комфортных условий в салоне"
+       },
+       "words": 268,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t141_81ec487d",
+       "title": {
+        "ru": "Воспроизведение записей в случайном порядке (если поддерживается устройством)",
+        "en": "Воспроизведение записей в случайном порядке (если поддерживается устройством)"
+       },
+       "words": 321,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t142_e5458601",
+       "title": {
+        "ru": "Переход в режим использования внешнего аудиовхода",
+        "en": "Переход в режим использования внешнего аудиовхода"
+       },
+       "words": 371,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t143_b9c1e32c",
+       "title": {
+        "ru": "Регулировка громкости",
+        "en": "Регулировка громкости"
+       },
+       "words": 218,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t144_451617a2",
+       "title": {
+        "ru": "Выбор записи",
+        "en": "Выбор записи"
+       },
+       "words": 156,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t145_a18e742b",
+       "title": {
+        "ru": "Создание комфортных условий в салоне",
+        "en": "Создание комфортных условий в салоне"
+       },
+       "words": 504,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t146_17f75a27",
+       "title": {
+        "ru": "Лицензионное соглашение с конечным пользователем системы Link System",
+        "en": "Лицензионное соглашение с конечным пользователем системы Link System"
+       },
+       "words": 574,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t147_9df49180",
+       "title": {
+        "ru": "Кнопка PICK",
+        "en": "Кнопка PICK"
+       },
+       "words": 307,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t149_c38a0766",
+       "title": {
+        "ru": "Функция защиты",
+        "en": "Функция защиты"
+       },
+       "words": 434,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t150_e515194b",
+       "title": {
+        "ru": "Создание списка лиц, подающих голосовые команды",
+        "en": "Создание списка лиц, подающих голосовые команды"
+       },
+       "words": 419,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t151_7b9b7e9d",
+       "title": {
+        "ru": "Включение и отключение голосовой модели; создание другой модели",
+        "en": "Включение и отключение голосовой модели; создание другой модели"
+       },
+       "words": 462,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t153_5872bd59",
+       "title": {
+        "ru": "Выбор музыкального проигрывателя",
+        "en": "Выбор музыкального проигрывателя"
+       },
+       "words": 446,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t155_2c557e2a",
+       "title": {
+        "ru": "Набор номера",
+        "en": "Набор номера"
+       },
+       "words": 427,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t156_37ab7cf7",
+       "title": {
+        "ru": "Создание комфортных условий в салоне",
+        "en": "Создание комфортных условий в салоне"
+       },
+       "words": 422,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t157_c6dbc9e9",
+       "title": {
+        "ru": "Функция MUTE (отключение звука)",
+        "en": "Функция MUTE (отключение звука)"
+       },
+       "words": 267,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t158_ef9e8916",
+       "title": {
+        "ru": "Регистрация путем произнесения телефонного номера",
+        "en": "Регистрация путем произнесения телефонного номера"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t164_657451ce",
+       "title": {
+        "ru": "Типы устройств",
+        "en": "Типы устройств"
+       },
+       "words": 223,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t165_e486b546",
+       "title": {
+        "ru": "Держатель для карточек",
+        "en": "Держатель для карточек"
+       },
+       "words": 135,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t166_3f96f0b4",
+       "title": {
+        "ru": "Прикуриватель\\*",
+        "en": "Прикуриватель\\*"
+       },
+       "words": 312,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t167_5c381331",
+       "title": {
+        "ru": "Тип 2",
+        "en": "Тип 2"
+       },
+       "words": 245,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t169_a0962381",
+       "title": {
+        "ru": "Держатель для карточек",
+        "en": "Держатель для карточек"
+       },
+       "words": 89,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t170_6f7b4d73",
+       "title": {
+        "ru": "Отсек для солнцезащитных очков \\*",
+        "en": "Отсек для солнцезащитных очков \\*"
+       },
+       "words": 88,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t171_55ee3119",
+       "title": {
+        "ru": "Для пассажиров сидений третьего ряда \\*",
+        "en": "Для пассажиров сидений третьего ряда \\*"
+       },
+       "words": 112,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t172_67377bbd",
+       "title": {
+        "ru": "Крюки для багажа (5",
+        "en": "Крюки для багажа (5"
+       },
+       "words": 155,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t173_eb79b5d7",
+       "title": {
+        "ru": "Место крепления знака аварийной остановки",
+        "en": "Место крепления знака аварийной остановки"
+       },
+       "words": 221,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t174_806b3dd4",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t178_7feb4306",
+       "title": {
+        "ru": "Действия в сложных ситуациях",
+        "en": "Действия в сложных ситуациях"
+       },
+       "words": 268,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t182_f3acb514",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 304,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t183_b92ce1ee",
+       "title": {
+        "ru": "При буксировке автомобиля другим автомобилем",
+        "en": "При буксировке автомобиля другим автомобилем"
+       },
+       "words": 280,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t184_ae9b834c",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 252,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t186_277d652e",
+       "title": {
+        "ru": "Чистка наружных деталей кузова автомобиля",
+        "en": "Чистка наружных деталей кузова автомобиля"
+       },
+       "words": 387,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t187_64c1dfd9",
+       "title": {
+        "ru": "! Предостережение",
+        "en": "! Предостережение"
+       },
+       "words": 340,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t188_a348c2ed",
+       "title": {
+        "ru": "Легкосплавные диски \\*",
+        "en": "Легкосплавные диски \\*"
+       },
+       "words": 278,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t191_71a4b76c",
+       "title": {
+        "ru": "Выбор моторного масла",
+        "en": "Выбор моторного масла"
+       },
+       "words": 315,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t192_13fc4107",
+       "title": {
+        "ru": "Антифриз",
+        "en": "Антифриз"
+       },
+       "words": 314,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t193_5956abfb",
+       "title": {
+        "ru": "В холодную погоду",
+        "en": "В холодную погоду"
+       },
+       "words": 341,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t194_3fc868d6",
+       "title": {
+        "ru": "Проверка уровня жидкости",
+        "en": "Проверка уровня жидкости"
+       },
+       "words": 255,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t195_d7ae514e",
+       "title": {
+        "ru": "Отсоединение и подключение",
+        "en": "Отсоединение и подключение"
+       },
+       "words": 332,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t196_824bac93",
+       "title": {
+        "ru": "Техническое обслуживание автомобиля",
+        "en": "Техническое обслуживание автомобиля"
+       },
+       "words": 409,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t197_c91a302d",
+       "title": {
+        "ru": "Зимние шины",
+        "en": "Зимние шины"
+       },
+       "words": 284,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t198_1dae1df7",
+       "title": {
+        "ru": "Замена резиновых скребков щеток стеклоочистителя",
+        "en": "Замена резиновых скребков щеток стеклоочистителя"
+       },
+       "words": 199,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t199_3f2392cb",
+       "title": {
+        "ru": "Общее техническое обслуживание",
+        "en": "Общее техническое обслуживание"
+       },
+       "words": 147,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t203_2ce00b5a",
+       "title": {
+        "ru": "На бампере \\*",
+        "en": "На бампере \\*"
+       },
+       "words": 186,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t204_feb4094b",
+       "title": {
+        "ru": "Лампа освещения салона и лампы местной подсветки",
+        "en": "Лампа освещения салона и лампы местной подсветки"
+       },
+       "words": 148,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mitsubishi_pajero_2014_general_t206_70bc4d2b",
+       "title": {
+        "ru": "Эксплуатационные характеристики автомобиля",
+        "en": "Эксплуатационные характеристики автомобиля"
+       },
+       "words": 106,
+       "images": 5,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

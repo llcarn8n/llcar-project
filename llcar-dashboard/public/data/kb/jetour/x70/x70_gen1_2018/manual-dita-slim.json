@@ -1,0 +1,95 @@
+{
+ "version": "1.0",
+ "model": "x70",
+ "manuals": [
+  {
+   "model": "x70",
+   "label": {
+    "ru": "Jetour X70 — Руководство по ремонту",
+    "en": "Jetour X70 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "jetour_x70_brakes_t000_dc35f10c",
+       "title": {
+        "ru": "CHAPTER 3 TABLE OF CONTENTS",
+        "en": "CHAPTER 3 TABLE OF CONTENTS"
+       },
+       "words": 25,
+       "images": 9,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "jetour_x70_electrical_t000_4fe88f9b",
+       "title": {
+        "ru": "3.1 Wire Harness Connector Definition (Reference Standard: QC/T 417.1-2001)",
+        "en": "3.1 Wire Harness Connector Definition (Reference Standard: QC/T 417.1-2001)"
+       },
+       "words": 755,
+       "images": 7,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "jetour_x70_body_t000_e76e1e38",
+       "title": {
+        "ru": "9.1. Back Door Wire Harness Connector Terminal Diagram",
+        "en": "9.1. Back Door Wire Harness Connector Terminal Diagram"
+       },
+       "words": 357,
+       "images": 35,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "jetour_x70_general_t000_06bca438",
+       "title": {
+        "ru": "3.2.4 IR/FL A, IR/FL B, IR/FL C Connector",
+        "en": "3.2.4 IR/FL A, IR/FL B, IR/FL C Connector"
+       },
+       "words": 987,
+       "images": 84,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3785 @@
+{
+ "version": "1.0",
+ "model": "jeep_wrangler",
+ "manuals": [
+  {
+   "model": "jeep_wrangler",
+   "label": {
+    "ru": "Jeep Wrangler — Руководство по ремонту",
+    "en": "Jeep Wrangler — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_engine_t000_31fd5070",
+       "title": {
+        "ru": "Correct fluid level is between the Add and Full",
+        "en": "Correct fluid level is between the Add and Full"
+       },
+       "words": 833,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t001_4e5e1678",
+       "title": {
+        "ru": "Do not allow anyone to ride in a vehicle being",
+        "en": "Do not allow anyone to ride in a vehicle being"
+       },
+       "words": 769,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t002_1dc0fe92",
+       "title": {
+        "ru": "Both engines are designed for unleaded fuel",
+        "en": "Both engines are designed for unleaded fuel"
+       },
+       "words": 709,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t003_d261726c",
+       "title": {
+        "ru": "These malfunctions may be classified as either",
+        "en": "These malfunctions may be classified as either"
+       },
+       "words": 1814,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t004_e70116fa",
+       "title": {
+        "ru": "If oil is forced into the manifold and if smoke is",
+        "en": "If oil is forced into the manifold and if smoke is"
+       },
+       "words": 886,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t005_0b82fb7d",
+       "title": {
+        "ru": "Failure to route the wires properly can result in",
+        "en": "Failure to route the wires properly can result in"
+       },
+       "words": 915,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t006_f8ddd94f",
+       "title": {
+        "ru": "Start the engine and slowly increase the speed",
+        "en": "Start the engine and slowly increase the speed"
+       },
+       "words": 865,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t007_d9dcb22f",
+       "title": {
+        "ru": "Refer to the Specifications chart and the Vehicle",
+        "en": "Refer to the Specifications chart and the Vehicle"
+       },
+       "words": 832,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t008_283b203e",
+       "title": {
+        "ru": "The letters are decoded as follows",
+        "en": "The letters are decoded as follows"
+       },
+       "words": 730,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t009_d41d7bbd",
+       "title": {
+        "ru": "Disconnect the ignition coil and distributor wire",
+        "en": "Disconnect the ignition coil and distributor wire"
+       },
+       "words": 860,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t010_7e629cbe",
+       "title": {
+        "ru": "Install the air cleaner bonnet to the throttle body",
+        "en": "Install the air cleaner bonnet to the throttle body"
+       },
+       "words": 826,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t011_a604450d",
+       "title": {
+        "ru": "Install the cylinder head cover. Refer to Cylinder",
+        "en": "Install the cylinder head cover. Refer to Cylinder"
+       },
+       "words": 871,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t012_2f6ac505",
+       "title": {
+        "ru": "Install the distributor, distributor cap and ignition",
+        "en": "Install the distributor, distributor cap and ignition"
+       },
+       "words": 916,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t013_1327fc01",
+       "title": {
+        "ru": "Install the intake and exhaust manifolds. Use the",
+        "en": "Install the intake and exhaust manifolds. Use the"
+       },
+       "words": 832,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t014_e4598cdb",
+       "title": {
+        "ru": "NOTE: Verify that the oil squirt holes in the rods",
+        "en": "NOTE: Verify that the oil squirt holes in the rods"
+       },
+       "words": 908,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t015_4f20129a",
+       "title": {
+        "ru": "Example: The code letters PM indicate that the crank-",
+        "en": "Example: The code letters PM indicate that the crank-"
+       },
+       "words": 885,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t016_838b87bc",
+       "title": {
+        "ru": "It consists of a cylinder block, piston and rod",
+        "en": "It consists of a cylinder block, piston and rod"
+       },
+       "words": 1079,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t017_31643ce3",
+       "title": {
+        "ru": "Fill the power steering pump reservoir with fluid",
+        "en": "Fill the power steering pump reservoir with fluid"
+       },
+       "words": 949,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t018_9598f8af",
+       "title": {
+        "ru": "Install the cylinder head cover. Refer to Cylinder",
+        "en": "Install the cylinder head cover. Refer to Cylinder"
+       },
+       "words": 933,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t019_2c4941e4",
+       "title": {
+        "ru": "Install the rocker arms, pivots and bridge at their",
+        "en": "Install the rocker arms, pivots and bridge at their"
+       },
+       "words": 859,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t020_cce5f6da",
+       "title": {
+        "ru": "Loosen the front four oil pan bolts three turns to",
+        "en": "Loosen the front four oil pan bolts three turns to"
+       },
+       "words": 851,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t021_40834e27",
+       "title": {
+        "ru": "Alternately loosen each capscrew, one turn at a",
+        "en": "Alternately loosen each capscrew, one turn at a"
+       },
+       "words": 898,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t022_fbd7bb95",
+       "title": {
+        "ru": "Install a replacement oil pan front seal (1) on the",
+        "en": "Install a replacement oil pan front seal (1) on the"
+       },
+       "words": 940,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t023_77fc8295",
+       "title": {
+        "ru": "Install the oil pan with replacement gaskets and",
+        "en": "Install the oil pan with replacement gaskets and"
+       },
+       "words": 800,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t024_d1689b48",
+       "title": {
+        "ru": "If coolant leaks into the lubricating system, it will",
+        "en": "If coolant leaks into the lubricating system, it will"
+       },
+       "words": 1029,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t025_98e1c98a",
+       "title": {
+        "ru": "If it is necessary to replace either the Tempatrol",
+        "en": "If it is necessary to replace either the Tempatrol"
+       },
+       "words": 889,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t026_8173b7d7",
+       "title": {
+        "ru": "Connect the tube to the radiator filler neck fitting",
+        "en": "Connect the tube to the radiator filler neck fitting"
+       },
+       "words": 1044,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t027_3b3ef1fc",
+       "title": {
+        "ru": "Add coolant to the radiator to raise the level to",
+        "en": "Add coolant to the radiator to raise the level to"
+       },
+       "words": 1068,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t028_c5f385ea",
+       "title": {
+        "ru": "Bubbles in the coolant at the filler neck indicate a",
+        "en": "Bubbles in the coolant at the filler neck indicate a"
+       },
+       "words": 825,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t029_d630ce3d",
+       "title": {
+        "ru": "Install fuel filler hose (A) and filler vent hose (B)",
+        "en": "Install fuel filler hose (A) and filler vent hose (B)"
+       },
+       "words": 784,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t030_bbb7ed92",
+       "title": {
+        "ru": "If the valve does not just begin to open with the",
+        "en": "If the valve does not just begin to open with the"
+       },
+       "words": 965,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t031_ee6c6fb0",
+       "title": {
+        "ru": "Turn both the idle mixture screws in small, equal",
+        "en": "Turn both the idle mixture screws in small, equal"
+       },
+       "words": 899,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t032_50777fae",
+       "title": {
+        "ru": "Start the engine and allow it to idle. Observe the",
+        "en": "Start the engine and allow it to idle. Observe the"
+       },
+       "words": 875,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t033_68105062",
+       "title": {
+        "ru": "If the air valve does not function as described in",
+        "en": "If the air valve does not function as described in"
+       },
+       "words": 891,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t034_4fb61548",
+       "title": {
+        "ru": "Above 18°C (65°F), it provides an open circuit to",
+        "en": "Above 18°C (65°F), it provides an open circuit to"
+       },
+       "words": 805,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t035_b31019a0",
+       "title": {
+        "ru": "Secure the acrylic sheet on top of the air cleaner",
+        "en": "Secure the acrylic sheet on top of the air cleaner"
+       },
+       "words": 1099,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t037_5392fe27",
+       "title": {
+        "ru": "Cover and increase engine speed to 2000 rpm and maintain while observing",
+        "en": "Cover and increase engine speed to 2000 rpm and maintain while observing"
+       },
+       "words": 750,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t038_c8474aaf",
+       "title": {
+        "ru": "Battery voltage is applied across pins 85 and 86 of relay connector during",
+        "en": "Battery voltage is applied across pins 85 and 86 of relay connector during"
+       },
+       "words": 803,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t039_cbf8c1b8",
+       "title": {
+        "ru": "If the vacuum is normal, the muffler or tail pipe is",
+        "en": "If the vacuum is normal, the muffler or tail pipe is"
+       },
+       "words": 801,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t040_6959314c",
+       "title": {
+        "ru": "If the cluster voltmeter is not operating, refer to",
+        "en": "If the cluster voltmeter is not operating, refer to"
+       },
+       "words": 841,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t041_b38604a4",
+       "title": {
+        "ru": "If the solenoid fails the test, replace the solenoid",
+        "en": "If the solenoid fails the test, replace the solenoid"
+       },
+       "words": 949,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t042_b1ebeffc",
+       "title": {
+        "ru": "Test the armature winding for short circuits to",
+        "en": "Test the armature winding for short circuits to"
+       },
+       "words": 871,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t043_e6ca6360",
+       "title": {
+        "ru": "Correct the transmission fluid level, as required",
+        "en": "Correct the transmission fluid level, as required"
+       },
+       "words": 705,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t044_9ac0b277",
+       "title": {
+        "ru": "NOTE: This is generally a condition that causes",
+        "en": "NOTE: This is generally a condition that causes"
+       },
+       "words": 890,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t045_63ab94e9",
+       "title": {
+        "ru": "After setting the armature end play, lubricate the",
+        "en": "After setting the armature end play, lubricate the"
+       },
+       "words": 794,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t046_d7cd362f",
+       "title": {
+        "ru": "Motorcraft (s-cyl engine) ignition system simplified schematic",
+        "en": "Motorcraft (s-cyl engine) ignition system simplified schematic"
+       },
+       "words": 954,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t047_d6326c00",
+       "title": {
+        "ru": "Start the engine and observe the timing degree",
+        "en": "Start the engine and observe the timing degree"
+       },
+       "words": 885,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t048_c08007d1",
+       "title": {
+        "ru": "Turn the distributor shaft until the rotor tip points",
+        "en": "Turn the distributor shaft until the rotor tip points"
+       },
+       "words": 1140,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t049_66304ae9",
+       "title": {
+        "ru": "Fusible links are used to prevent major harness",
+        "en": "Fusible links are used to prevent major harness"
+       },
+       "words": 916,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t050_d5f23d71",
+       "title": {
+        "ru": "Insert the clutch plate alignment tool in the driv-",
+        "en": "Insert the clutch plate alignment tool in the driv-"
+       },
+       "words": 794,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t051_cd7ae8b5",
+       "title": {
+        "ru": "Slide the rubber insulator (5) out of the insulator",
+        "en": "Slide the rubber insulator (5) out of the insulator"
+       },
+       "words": 905,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t052_d611697f",
+       "title": {
+        "ru": "Connect the clutch slave cylinder inlet line to the",
+        "en": "Connect the clutch slave cylinder inlet line to the"
+       },
+       "words": 787,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t053_14687215",
+       "title": {
+        "ru": "Turn the test gauge selector handle to line pres-",
+        "en": "Turn the test gauge selector handle to line pres-"
+       },
+       "words": 1016,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t054_1bb94e40",
+       "title": {
+        "ru": "Install the transmission fill tube and install the",
+        "en": "Install the transmission fill tube and install the"
+       },
+       "words": 932,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t055_00fdd4b4",
+       "title": {
+        "ru": "Fill the pump reservoir to the correct level with",
+        "en": "Fill the pump reservoir to the correct level with"
+       },
+       "words": 1152,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t056_efb7910b",
+       "title": {
+        "ru": "Fill the axle with 1.2 liters (2.5 pts) of JEEP axle",
+        "en": "Fill the axle with 1.2 liters (2.5 pts) of JEEP axle"
+       },
+       "words": 943,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t057_959e5285",
+       "title": {
+        "ru": "Block off the shift motor-to-transfer case port (D)",
+        "en": "Block off the shift motor-to-transfer case port (D)"
+       },
+       "words": 798,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t058_5fd5a318",
+       "title": {
+        "ru": "Also, check brake warning lamp operation by observing",
+        "en": "Also, check brake warning lamp operation by observing"
+       },
+       "words": 1111,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t059_fb1bffb5",
+       "title": {
+        "ru": "Install the pistons (2) and the replacement dust",
+        "en": "Install the pistons (2) and the replacement dust"
+       },
+       "words": 855,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t060_fb2df23a",
+       "title": {
+        "ru": "The valve is located on the left fender panel just",
+        "en": "The valve is located on the left fender panel just"
+       },
+       "words": 986,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t061_d640a516",
+       "title": {
+        "ru": "Drain approximately 1.9 liters (2 qts) of coolant",
+        "en": "Drain approximately 1.9 liters (2 qts) of coolant"
+       },
+       "words": 822,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t062_8bc7b697",
+       "title": {
+        "ru": "Fill the station charging cylinder. Refrigerant",
+        "en": "Fill the station charging cylinder. Refrigerant"
+       },
+       "words": 1144,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t063_c1f50fe7",
+       "title": {
+        "ru": "Drain the radiator. Drain the coolant into a clean",
+        "en": "Drain the radiator. Drain the coolant into a clean"
+       },
+       "words": 978,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t064_855941e5",
+       "title": {
+        "ru": "If there is a white mark, release the vehicle",
+        "en": "If there is a white mark, release the vehicle"
+       },
+       "words": 1410,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t065_d7038263",
+       "title": {
+        "ru": "The compensating circuits adjust automatically",
+        "en": "The compensating circuits adjust automatically"
+       },
+       "words": 954,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t066_38e86e16",
+       "title": {
+        "ru": "The new Mercon® fluid will be the only fluid sup-",
+        "en": "The new Mercon® fluid will be the only fluid sup-"
+       },
+       "words": 926,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t067_69e81d0d",
+       "title": {
+        "ru": "The planetary gear drive is splined to both the",
+        "en": "The planetary gear drive is splined to both the"
+       },
+       "words": 814,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t068_027525d3",
+       "title": {
+        "ru": "Unseat the stop ring (26) using a 12 point 14mm",
+        "en": "Unseat the stop ring (26) using a 12 point 14mm"
+       },
+       "words": 1036,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t069_1a1c0b36",
+       "title": {
+        "ru": "Emission Control Information label in the engine",
+        "en": "Emission Control Information label in the engine"
+       },
+       "words": 918,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t071_8a2c461a",
+       "title": {
+        "ru": "R e f e r to the V e h i c l e E m i s s i o n Control",
+        "en": "R e f e r to the V e h i c l e E m i s s i o n Control"
+       },
+       "words": 947,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t072_2e4fc662",
+       "title": {
+        "ru": "The automatic transmission fluid additive will",
+        "en": "The automatic transmission fluid additive will"
+       },
+       "words": 1107,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t073_a0650574",
+       "title": {
+        "ru": "Leakage from the ball plug (A) can be verified",
+        "en": "Leakage from the ball plug (A) can be verified"
+       },
+       "words": 1086,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t074_ba76fee9",
+       "title": {
+        "ru": "The new tools are designed for use with an arbor",
+        "en": "The new tools are designed for use with an arbor"
+       },
+       "words": 1438,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t075_bd6fba31",
+       "title": {
+        "ru": "These engines are identified by a letter code (A)",
+        "en": "These engines are identified by a letter code (A)"
+       },
+       "words": 753,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t076_21818e12",
+       "title": {
+        "ru": "Thoroughly clean the machined surfaces of the",
+        "en": "Thoroughly clean the machined surfaces of the"
+       },
+       "words": 735,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t077_c3478d6b",
+       "title": {
+        "ru": "If the cylinder bore taper or out-of-round condi-",
+        "en": "If the cylinder bore taper or out-of-round condi-"
+       },
+       "words": 926,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t078_bd728d94",
+       "title": {
+        "ru": "Crosshatch pattern on the cylinder walls. Do not",
+        "en": "Crosshatch pattern on the cylinder walls. Do not"
+       },
+       "words": 924,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t079_25872a11",
+       "title": {
+        "ru": "Install the front oil pan seal (A) to the timing case",
+        "en": "Install the front oil pan seal (A) to the timing case"
+       },
+       "words": 1004,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t080_fc1f1292",
+       "title": {
+        "ru": "Install the rocker arms (B), pivots (C) and bridge",
+        "en": "Install the rocker arms (B), pivots (C) and bridge"
+       },
+       "words": 846,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t081_38749dce",
+       "title": {
+        "ru": "The E C U utilizes it as a reference voltage to vary",
+        "en": "The E C U utilizes it as a reference voltage to vary"
+       },
+       "words": 1111,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t082_06184c25",
+       "title": {
+        "ru": "F o r v e h i c l e s e q u i p p e d with a m a n u a l",
+        "en": "F o r v e h i c l e s e q u i p p e d with a m a n u a l"
+       },
+       "words": 967,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t083_a40d8394",
+       "title": {
+        "ru": "The chart below contains a list of troubles, possible",
+        "en": "The chart below contains a list of troubles, possible"
+       },
+       "words": 964,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t084_7a05da98",
+       "title": {
+        "ru": "Throttle body fuel injection system n\\ g",
+        "en": "Throttle body fuel injection system n\\ g"
+       },
+       "words": 825,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t085_3e2454c1",
+       "title": {
+        "ru": "Be sure the ignition switch is in the O F F position",
+        "en": "Be sure the ignition switch is in the O F F position"
+       },
+       "words": 1010,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t086_8d5363c8",
+       "title": {
+        "ru": "Turn the ignition off. Disconnect the tachometer",
+        "en": "Turn the ignition off. Disconnect the tachometer"
+       },
+       "words": 1102,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t087_3c7136f2",
+       "title": {
+        "ru": "Install the three retaining screws (A) to secure",
+        "en": "Install the three retaining screws (A) to secure"
+       },
+       "words": 919,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t088_0d00c290",
+       "title": {
+        "ru": "Check the fuel filter. Replace the filter",
+        "en": "Check the fuel filter. Replace the filter"
+       },
+       "words": 874,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t089_10709c70",
+       "title": {
+        "ru": "If the voltage is always greater than 2 volts, test",
+        "en": "If the voltage is always greater than 2 volts, test"
+       },
+       "words": 913,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t090_8975aee6",
+       "title": {
+        "ru": "Turn the ignition off. Disconnect the tachometer",
+        "en": "Turn the ignition off. Disconnect the tachometer"
+       },
+       "words": 1022,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t091_7d075c9a",
+       "title": {
+        "ru": "The 2.0L engines utilizes quick-connect fuel line",
+        "en": "The 2.0L engines utilizes quick-connect fuel line"
+       },
+       "words": 1016,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t092_6b74c7e6",
+       "title": {
+        "ru": "If the voltage is always more than 2 volts, test for",
+        "en": "If the voltage is always more than 2 volts, test for"
+       },
+       "words": 955,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t093_ce5a50fe",
+       "title": {
+        "ru": "The voltmeter test leads through the back of the wire harness",
+        "en": "The voltmeter test leads through the back of the wire harness"
+       },
+       "words": 1058,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t094_6329a025",
+       "title": {
+        "ru": "Gear End Clearance — Feeler Gauge",
+        "en": "Gear End Clearance — Feeler Gauge"
+       },
+       "words": 837,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t095_64be68dd",
+       "title": {
+        "ru": "Position the valve spring and retainer on cylin-",
+        "en": "Position the valve spring and retainer on cylin-"
+       },
+       "words": 892,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t096_e5ec4d14",
+       "title": {
+        "ru": "If the cylinder bore taper does not exceed 0",
+        "en": "If the cylinder bore taper does not exceed 0"
+       },
+       "words": 876,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t097_6e91c162",
+       "title": {
+        "ru": "Install the grooved main bearings into the cylin-",
+        "en": "Install the grooved main bearings into the cylin-"
+       },
+       "words": 1033,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t098_39921f60",
+       "title": {
+        "ru": "Torque the remaining oil pan bolts to 9.5 N«m (7",
+        "en": "Torque the remaining oil pan bolts to 9.5 N«m (7"
+       },
+       "words": 1003,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t099_b126491b",
+       "title": {
+        "ru": "Lubricate the oil filter seal with clean engine oil",
+        "en": "Lubricate the oil filter seal with clean engine oil"
+       },
+       "words": 844,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t100_c13abd7a",
+       "title": {
+        "ru": "The electric choke is needed to open the choke plate as the",
+        "en": "The electric choke is needed to open the choke plate as the"
+       },
+       "words": 942,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t101_cca7d8cc",
+       "title": {
+        "ru": "An indicator lamp incorporated into the switch will alert",
+        "en": "An indicator lamp incorporated into the switch will alert"
+       },
+       "words": 955,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t102_36384817",
+       "title": {
+        "ru": "The brake indicator is a dual function lamp. It will in-",
+        "en": "The brake indicator is a dual function lamp. It will in-"
+       },
+       "words": 996,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t103_f2b7680a",
+       "title": {
+        "ru": "Taped to cruise control harness near fuse panel",
+        "en": "Taped to cruise control harness near fuse panel"
+       },
+       "words": 793,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t104_72dc95d8",
+       "title": {
+        "ru": "The bendix clutch is momentarily thrown into the ring gear",
+        "en": "The bendix clutch is momentarily thrown into the ring gear"
+       },
+       "words": 1030,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t105_cc965b8e",
+       "title": {
+        "ru": "The electric choke switch, which is wired in series with",
+        "en": "The electric choke switch, which is wired in series with"
+       },
+       "words": 882,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t106_6956240d",
+       "title": {
+        "ru": "The blower switch allows the driver to select one of three",
+        "en": "The blower switch allows the driver to select one of three"
+       },
+       "words": 815,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t107_3a6497f6",
+       "title": {
+        "ru": "Under instrument panel to left of blower housing",
+        "en": "Under instrument panel to left of blower housing"
+       },
+       "words": 744,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t108_ae278d22",
+       "title": {
+        "ru": "Near transmission (automatic)",
+        "en": "Near transmission (automatic)"
+       },
+       "words": 742,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t109_f463ec9d",
+       "title": {
+        "ru": "Electronic Control Unit 2.5I",
+        "en": "Electronic Control Unit 2.5I"
+       },
+       "words": 812,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t110_cf0f746e",
+       "title": {
+        "ru": "Center of cylinder block on rt. side of",
+        "en": "Center of cylinder block on rt. side of"
+       },
+       "words": 857,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t111_9955bd73",
+       "title": {
+        "ru": "C194 - At manifold heater switch",
+        "en": "C194 - At manifold heater switch"
+       },
+       "words": 817,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jeep_jeep_wrangler_engine_t112_8bd143f4",
+       "title": {
+        "ru": "All Rights Reserved, Litho in U.S.A",
+        "en": "All Rights Reserved, Litho in U.S.A"
+       },
+       "words": 680,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_brakes_t000_6f7f7779",
+       "title": {
+        "ru": "Install the seal on the retaining clips and install",
+        "en": "Install the seal on the retaining clips and install"
+       },
+       "words": 866,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t001_38c81281",
+       "title": {
+        "ru": "Cut the field winding terminal strap as close as",
+        "en": "Cut the field winding terminal strap as close as"
+       },
+       "words": 897,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t002_b22b683c",
+       "title": {
+        "ru": "Remove the snap ring (D) that holds the gover-",
+        "en": "Remove the snap ring (D) that holds the gover-"
+       },
+       "words": 948,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t003_763e40b5",
+       "title": {
+        "ru": "Refer to the Axle Ratio-Ring and Pinion chart in",
+        "en": "Refer to the Axle Ratio-Ring and Pinion chart in"
+       },
+       "words": 1114,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t004_c942ccc5",
+       "title": {
+        "ru": "NOTE: If the pinion gear, bearings or seal are to",
+        "en": "NOTE: If the pinion gear, bearings or seal are to"
+       },
+       "words": 800,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t005_11d97d0b",
+       "title": {
+        "ru": "The parking brakes are actuated by a foot-op-",
+        "en": "The parking brakes are actuated by a foot-op-"
+       },
+       "words": 1050,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t006_d02a66e3",
+       "title": {
+        "ru": "Install the adjuster screw (14), spring (13) and",
+        "en": "Install the adjuster screw (14), spring (13) and"
+       },
+       "words": 856,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t007_3d56980f",
+       "title": {
+        "ru": "Unseat the adjuster lever (C) from the adjuster",
+        "en": "Unseat the adjuster lever (C) from the adjuster"
+       },
+       "words": 820,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t008_cd136ba7",
+       "title": {
+        "ru": "The electrical switch is actuated by the differen-",
+        "en": "The electrical switch is actuated by the differen-"
+       },
+       "words": 985,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t009_bd3076cd",
+       "title": {
+        "ru": "Inspect the connecting rod bearings for scoring",
+        "en": "Inspect the connecting rod bearings for scoring"
+       },
+       "words": 838,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t010_4865c543",
+       "title": {
+        "ru": "The resume/accelerate switch is used after the cruise",
+        "en": "The resume/accelerate switch is used after the cruise"
+       },
+       "words": 813,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t011_bfd85bee",
+       "title": {
+        "ru": "The turn/hazard switch, which is mounted in the steering",
+        "en": "The turn/hazard switch, which is mounted in the steering"
+       },
+       "words": 965,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jeep_jeep_wrangler_brakes_t012_78f9e4c1",
+       "title": {
+        "ru": "C212: Cruise control inline fuse",
+        "en": "C212: Cruise control inline fuse"
+       },
+       "words": 793,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_hvac_t000_d046d602",
+       "title": {
+        "ru": "NOTE: The richer the choke setting, the greater",
+        "en": "NOTE: The richer the choke setting, the greater"
+       },
+       "words": 834,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jeep_jeep_wrangler_hvac_t001_29478f33",
+       "title": {
+        "ru": "3. CHOKE HEATER: Jumper across oil pressure switch; ignition ON",
+        "en": "3. CHOKE HEATER: Jumper across oil pressure switch; ignition ON"
+       },
+       "words": 707,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_body_t000_3adfdab4",
+       "title": {
+        "ru": "Use Jeep gear lubricant or an equivalent SAE",
+        "en": "Use Jeep gear lubricant or an equivalent SAE"
+       },
+       "words": 883,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t001_4e513dea",
+       "title": {
+        "ru": "Position and align the tailgate in the body open-",
+        "en": "Position and align the tailgate in the body open-"
+       },
+       "words": 846,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t002_1d9b6921",
+       "title": {
+        "ru": "Disconnect the top (Q) from the drip rails (R)",
+        "en": "Disconnect the top (Q) from the drip rails (R)"
+       },
+       "words": 779,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t003_a0827823",
+       "title": {
+        "ru": "Also, drive the vehicle in all directions because",
+        "en": "Also, drive the vehicle in all directions because"
+       },
+       "words": 893,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t004_8118537d",
+       "title": {
+        "ru": "The distance (E) is determined by the thickness",
+        "en": "The distance (E) is determined by the thickness"
+       },
+       "words": 958,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t005_04d7e86b",
+       "title": {
+        "ru": "Spot welding can be used to effectively dupli-",
+        "en": "Spot welding can be used to effectively dupli-"
+       },
+       "words": 837,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t006_47579a11",
+       "title": {
+        "ru": "It is essential to use a good quality degreaser to",
+        "en": "It is essential to use a good quality degreaser to"
+       },
+       "words": 936,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t007_880aecb4",
+       "title": {
+        "ru": "Cylinder Combustion Pressure Leakage Test Diagnosis",
+        "en": "Cylinder Combustion Pressure Leakage Test Diagnosis"
+       },
+       "words": 912,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t008_23305508",
+       "title": {
+        "ru": "Do not remove the idle orifice tubes or main vent",
+        "en": "Do not remove the idle orifice tubes or main vent"
+       },
+       "words": 855,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t009_3c5988cd",
+       "title": {
+        "ru": "Slowly move the throttle linkage to full throttle",
+        "en": "Slowly move the throttle linkage to full throttle"
+       },
+       "words": 939,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t010_f17c1e2b",
+       "title": {
+        "ru": "NOTE: If the park lock rod is difficult to remove",
+        "en": "NOTE: If the park lock rod is difficult to remove"
+       },
+       "words": 953,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t011_542cf941",
+       "title": {
+        "ru": "Inspect the flow control valve to be sure it slides",
+        "en": "Inspect the flow control valve to be sure it slides"
+       },
+       "words": 1011,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t012_32ddfec7",
+       "title": {
+        "ru": "Install the attaching nuts on the housing studs",
+        "en": "Install the attaching nuts on the housing studs"
+       },
+       "words": 989,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t013_0f8dfce8",
+       "title": {
+        "ru": "Position the cloth on a surface plate or flat piece",
+        "en": "Position the cloth on a surface plate or flat piece"
+       },
+       "words": 968,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t015_8bafeaf6",
+       "title": {
+        "ru": "Usines Renault. All Rights Reserved. Litho in U.S.A",
+        "en": "Usines Renault. All Rights Reserved. Litho in U.S.A"
+       },
+       "words": 899,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t016_94712cce",
+       "title": {
+        "ru": "The E C U controls the A/C compressor clutch via",
+        "en": "The E C U controls the A/C compressor clutch via"
+       },
+       "words": 834,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t017_f701b2bf",
+       "title": {
+        "ru": "Note that the backup ring (E) fits over the upper",
+        "en": "Note that the backup ring (E) fits over the upper"
+       },
+       "words": 873,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t018_f98d184f",
+       "title": {
+        "ru": "Repair the h a r n e s s a s n e c e s s a r y if the",
+        "en": "Repair the h a r n e s s a s n e c e s s a r y if the"
+       },
+       "words": 862,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t019_051cb878",
+       "title": {
+        "ru": "Lubricate with light oil and install a replacement",
+        "en": "Lubricate with light oil and install a replacement"
+       },
+       "words": 797,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t020_1a84b232",
+       "title": {
+        "ru": "Install the filter retaining strap and bolt (C)",
+        "en": "Install the filter retaining strap and bolt (C)"
+       },
+       "words": 880,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t021_39e7e309",
+       "title": {
+        "ru": "The voltmeter test leads through the back of the wire harness",
+        "en": "The voltmeter test leads through the back of the wire harness"
+       },
+       "words": 887,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t022_c7ef5fa1",
+       "title": {
+        "ru": "The buzzer module contains solid state components that",
+        "en": "The buzzer module contains solid state components that"
+       },
+       "words": 970,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jeep_jeep_wrangler_body_t023_369e229d",
+       "title": {
+        "ru": "3. SEATBELT INDICATOR LAMP: Turn ignition switch to RUN for voltage tests",
+        "en": "3. SEATBELT INDICATOR LAMP: Turn ignition switch to RUN for voltage tests"
+       },
+       "words": 838,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_lighting_t000_86f279a8",
+       "title": {
+        "ru": "Adjust the belt tension to the specification if less",
+        "en": "Adjust the belt tension to the specification if less"
+       },
+       "words": 861,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t001_ce79403f",
+       "title": {
+        "ru": "Touch one test lead probe to one slip ring and",
+        "en": "Touch one test lead probe to one slip ring and"
+       },
+       "words": 777,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t002_2ef9a5f4",
+       "title": {
+        "ru": "Because all three stator winding terminals are",
+        "en": "Because all three stator winding terminals are"
+       },
+       "words": 906,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t003_62540bcd",
+       "title": {
+        "ru": "Remove the attaching screws (D), taillamp lens",
+        "en": "Remove the attaching screws (D), taillamp lens"
+       },
+       "words": 777,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t004_6d4f44c1",
+       "title": {
+        "ru": "Transfer Case-to-Transmission Nuts 35 N»m (26 ft-lbs)",
+        "en": "Transfer Case-to-Transmission Nuts 35 N»m (26 ft-lbs)"
+       },
+       "words": 890,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t005_b914bd33",
+       "title": {
+        "ru": "Install the front and rear propeller shafts. Align",
+        "en": "Install the front and rear propeller shafts. Align"
+       },
+       "words": 839,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t006_60609d7d",
+       "title": {
+        "ru": "Slide the slip yoke out of the transfer case and",
+        "en": "Slide the slip yoke out of the transfer case and"
+       },
+       "words": 825,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t007_c920d044",
+       "title": {
+        "ru": "Inspect the rear clutch to front clutch thrust",
+        "en": "Inspect the rear clutch to front clutch thrust"
+       },
+       "words": 944,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t008_6fcf5580",
+       "title": {
+        "ru": "Install the filter retaining strap and bolt (A)",
+        "en": "Install the filter retaining strap and bolt (A)"
+       },
+       "words": 948,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t009_b7cba054",
+       "title": {
+        "ru": "Since further shifts are no longer possible in fifth gear",
+        "en": "Since further shifts are no longer possible in fifth gear"
+       },
+       "words": 866,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t010_9f545dbf",
+       "title": {
+        "ru": "The dimmer switch transfers battery feed from the",
+        "en": "The dimmer switch transfers battery feed from the"
+       },
+       "words": 804,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t011_a864a4ef",
+       "title": {
+        "ru": "Since further shifts are no longer possible in fifth gear",
+        "en": "Since further shifts are no longer possible in fifth gear"
+       },
+       "words": 796,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t012_40bdd249",
+       "title": {
+        "ru": "The cargo and courtesy lamps can also be turned on at",
+        "en": "The cargo and courtesy lamps can also be turned on at"
+       },
+       "words": 810,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t013_a1521f14",
+       "title": {
+        "ru": "C141: 4.2L Microprocessor control unit",
+        "en": "C141: 4.2L Microprocessor control unit"
+       },
+       "words": 907,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jeep_jeep_wrangler_lighting_t014_87410f9b",
+       "title": {
+        "ru": "Copyright© 1987 American Motors Corporation",
+        "en": "Copyright© 1987 American Motors Corporation"
+       },
+       "words": 137,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_interior_t000_b0749b4c",
+       "title": {
+        "ru": "The right front seat is not adjustable fore-and-",
+        "en": "The right front seat is not adjustable fore-and-"
+       },
+       "words": 843,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jeep_jeep_wrangler_interior_t001_c59e96c7",
+       "title": {
+        "ru": "A flexible nylon nozzle should be used for inner",
+        "en": "A flexible nylon nozzle should be used for inner"
+       },
+       "words": 752,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jeep_jeep_wrangler_interior_t002_2bde4dd0",
+       "title": {
+        "ru": "Install the shift lever, stub shaft (B) and retainer",
+        "en": "Install the shift lever, stub shaft (B) and retainer"
+       },
+       "words": 1103,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jeep_jeep_wrangler_interior_t003_a33fd1d7",
+       "title": {
+        "ru": "Install the bearing (42) in the plug (45) until flush",
+        "en": "Install the bearing (42) in the plug (45) until flush"
+       },
+       "words": 964,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jeep_jeep_wrangler_interior_t004_550a5258",
+       "title": {
+        "ru": "Lower the front axle until it it fully supported by",
+        "en": "Lower the front axle until it it fully supported by"
+       },
+       "words": 860,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jeep_jeep_wrangler_interior_t005_3e6232aa",
+       "title": {
+        "ru": "Install spacer (68) on shift sector (67) and install",
+        "en": "Install spacer (68) on shift sector (67) and install"
+       },
+       "words": 1124,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jeep_jeep_wrangler_interior_t006_f4a491ca",
+       "title": {
+        "ru": "NOTE: Be sure that the lips of the seals face into",
+        "en": "NOTE: Be sure that the lips of the seals face into"
+       },
+       "words": 1044,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jeep_jeep_wrangler_interior_t007_d4161a7c",
+       "title": {
+        "ru": "Insert the lock finger (75) into the detent bore at",
+        "en": "Insert the lock finger (75) into the detent bore at"
+       },
+       "words": 982,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jeep_jeep_wrangler_interior_t008_0c16d6d2",
+       "title": {
+        "ru": "If the driver's seatbelt is left unbuckled, the module will",
+        "en": "If the driver's seatbelt is left unbuckled, the module will"
+       },
+       "words": 1011,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_ev_t000_11f01434",
+       "title": {
+        "ru": "Install the radiator. Connect the radiator hoses",
+        "en": "Install the radiator. Connect the radiator hoses"
+       },
+       "words": 805,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t001_82b6ea29",
+       "title": {
+        "ru": "Test the specific gravity of the electrolyte in each",
+        "en": "Test the specific gravity of the electrolyte in each"
+       },
+       "words": 969,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t002_a9f01302",
+       "title": {
+        "ru": "NOTE: All bolt and screw threads are in metric",
+        "en": "NOTE: All bolt and screw threads are in metric"
+       },
+       "words": 926,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t003_969e659f",
+       "title": {
+        "ru": "Carefully note the correct locations for insulating",
+        "en": "Carefully note the correct locations for insulating"
+       },
+       "words": 853,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t004_c0075de3",
+       "title": {
+        "ru": "Refer to the Steering Column Section for the",
+        "en": "Refer to the Steering Column Section for the"
+       },
+       "words": 809,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t005_f9bc89a8",
+       "title": {
+        "ru": "If pressures are abnormally high or low, refer to",
+        "en": "If pressures are abnormally high or low, refer to"
+       },
+       "words": 780,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t006_e762d9c0",
+       "title": {
+        "ru": "Install the overrunning clutch (33) on the pinion",
+        "en": "Install the overrunning clutch (33) on the pinion"
+       },
+       "words": 882,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t007_a33ba3ac",
+       "title": {
+        "ru": "NOTE: Ensure O-ring is properly positioned in",
+        "en": "NOTE: Ensure O-ring is properly positioned in"
+       },
+       "words": 927,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t008_d116b79c",
+       "title": {
+        "ru": "The output terminal wire on the back of the alternator",
+        "en": "The output terminal wire on the back of the alternator"
+       },
+       "words": 962,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t009_c5a24d8c",
+       "title": {
+        "ru": "If the vehicle is equipped with air conditioning, a short",
+        "en": "If the vehicle is equipped with air conditioning, a short"
+       },
+       "words": 882,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t010_e9bf5ced",
+       "title": {
+        "ru": "Because they share these common connection points in a",
+        "en": "Because they share these common connection points in a"
+       },
+       "words": 978,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t011_164a6f4e",
+       "title": {
+        "ru": "The metallic lamp body serves as the ground connection",
+        "en": "The metallic lamp body serves as the ground connection"
+       },
+       "words": 860,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t012_18fc1645",
+       "title": {
+        "ru": "The electric choke and the relay coil receive battery volt-",
+        "en": "The electric choke and the relay coil receive battery volt-"
+       },
+       "words": 822,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t013_ddce0d08",
+       "title": {
+        "ru": "2. PUMP SWITCH CIRCUIT: Turn ignition switch to RUN; press washer",
+        "en": "2. PUMP SWITCH CIRCUIT: Turn ignition switch to RUN; press washer"
+       },
+       "words": 770,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t014_034f06ba",
+       "title": {
+        "ru": "The radio illumination relay is energized when the headlamp",
+        "en": "The radio illumination relay is energized when the headlamp"
+       },
+       "words": 780,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t015_7b2d9fdf",
+       "title": {
+        "ru": "The accy fuse supplies voltage to the cruise control module",
+        "en": "The accy fuse supplies voltage to the cruise control module"
+       },
+       "words": 864,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t016_3b9e41fa",
+       "title": {
+        "ru": "1. TURN SIGNAL INDICATOR CIRCUIT: Ignition switch in RUN for voltage",
+        "en": "1. TURN SIGNAL INDICATOR CIRCUIT: Ignition switch in RUN for voltage"
+       },
+       "words": 847,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t017_81ccdc9e",
+       "title": {
+        "ru": "The metallic lamp body serves as the ground connection",
+        "en": "The metallic lamp body serves as the ground connection"
+       },
+       "words": 716,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jeep_jeep_wrangler_ev_t018_9ed482d1",
+       "title": {
+        "ru": "Copyright© 1987 American Motors Corporation",
+        "en": "Copyright© 1987 American Motors Corporation"
+       },
+       "words": 607,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_chassis_t000_f909462f",
+       "title": {
+        "ru": "Install the alternator belt and adjust the tension",
+        "en": "Install the alternator belt and adjust the tension"
+       },
+       "words": 821,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t001_f5d0d83d",
+       "title": {
+        "ru": "To determine if the delay is defective, rotate the",
+        "en": "To determine if the delay is defective, rotate the"
+       },
+       "words": 708,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t002_ee913b91",
+       "title": {
+        "ru": "Power Steering Pump Installation",
+        "en": "Power Steering Pump Installation"
+       },
+       "words": 778,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t003_aeb839cb",
+       "title": {
+        "ru": "Check the steering knuckle ball studs, steering",
+        "en": "Check the steering knuckle ball studs, steering"
+       },
+       "words": 845,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t004_c1a41692",
+       "title": {
+        "ru": "Remove the tape holding the actuator rod (3) to",
+        "en": "Remove the tape holding the actuator rod (3) to"
+       },
+       "words": 840,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t005_785013c5",
+       "title": {
+        "ru": "Compress the wire lock tabs (A) with a drill bit or",
+        "en": "Compress the wire lock tabs (A) with a drill bit or"
+       },
+       "words": 1118,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t006_c4f3a5ec",
+       "title": {
+        "ru": "Lubricate all of the bearing, friction and thrust",
+        "en": "Lubricate all of the bearing, friction and thrust"
+       },
+       "words": 1142,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t007_73b1c905",
+       "title": {
+        "ru": "Steering gear leaks can develop in the following",
+        "en": "Steering gear leaks can develop in the following"
+       },
+       "words": 949,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t008_84952c96",
+       "title": {
+        "ru": "Install the front stablizer bar and connect the",
+        "en": "Install the front stablizer bar and connect the"
+       },
+       "words": 1212,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t009_044edd98",
+       "title": {
+        "ru": "If the spool valve does not rotate freely within the",
+        "en": "If the spool valve does not rotate freely within the"
+       },
+       "words": 1009,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t010_673b772d",
+       "title": {
+        "ru": "After adjusting drag torque, hold the adjusting",
+        "en": "After adjusting drag torque, hold the adjusting"
+       },
+       "words": 917,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t011_ad4fc650",
+       "title": {
+        "ru": "Install the spring (17) on the hex-end of the flow",
+        "en": "Install the spring (17) on the hex-end of the flow"
+       },
+       "words": 904,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t012_c34ca37b",
+       "title": {
+        "ru": "Inspect the bearings and cups for pitting, galling",
+        "en": "Inspect the bearings and cups for pitting, galling"
+       },
+       "words": 906,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t013_ac45f809",
+       "title": {
+        "ru": "Remove the bolts (4) that attach the stabilizer",
+        "en": "Remove the bolts (4) that attach the stabilizer"
+       },
+       "words": 961,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jeep_jeep_wrangler_chassis_t014_ce7f30c4",
+       "title": {
+        "ru": "3. SWITCH: Steering column connector separated; switch in left or right",
+        "en": "3. SWITCH: Steering column connector separated; switch in left or right"
+       },
+       "words": 698,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_general_t000_22f9a50f",
+       "title": {
+        "ru": "Note specify the page an I.S. Note is to be re-",
+        "en": "Note specify the page an I.S. Note is to be re-"
+       },
+       "words": 962,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t001_a364ecd4",
+       "title": {
+        "ru": "Do not allow any portion of the lifting or towing",
+        "en": "Do not allow any portion of the lifting or towing"
+       },
+       "words": 906,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t002_d513aa3b",
+       "title": {
+        "ru": "Plastic retaining clips (B) retain the seal to the",
+        "en": "Plastic retaining clips (B) retain the seal to the"
+       },
+       "words": 2393,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t003_624e99f3",
+       "title": {
+        "ru": "Smooth the area to contour using a 50 grit disc",
+        "en": "Smooth the area to contour using a 50 grit disc"
+       },
+       "words": 798,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t004_dbb62371",
+       "title": {
+        "ru": "Slide the lock on the drip rail forward, then pull",
+        "en": "Slide the lock on the drip rail forward, then pull"
+       },
+       "words": 771,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t005_c58f71e3",
+       "title": {
+        "ru": "Align the drain hole with the hole in the floorpan",
+        "en": "Align the drain hole with the hole in the floorpan"
+       },
+       "words": 828,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t006_2c3e25da",
+       "title": {
+        "ru": "Consequently, when installing gauges, it is sim-",
+        "en": "Consequently, when installing gauges, it is sim-"
+       },
+       "words": 955,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t007_f422203a",
+       "title": {
+        "ru": "The bench is equipped with casters for mobility",
+        "en": "The bench is equipped with casters for mobility"
+       },
+       "words": 885,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t008_c65fb2a3",
+       "title": {
+        "ru": "Apply anti-corrosive sealant/primer to the areas",
+        "en": "Apply anti-corrosive sealant/primer to the areas"
+       },
+       "words": 770,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t009_fa9c7e44",
+       "title": {
+        "ru": "A metal vehicle identification plate is affixed to",
+        "en": "A metal vehicle identification plate is affixed to"
+       },
+       "words": 814,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t010_69983d74",
+       "title": {
+        "ru": "The following colors are being introduced on",
+        "en": "The following colors are being introduced on"
+       },
+       "words": 1159,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t011_5a7c1f06",
+       "title": {
+        "ru": "Apply body filler as required and finish to obtain",
+        "en": "Apply body filler as required and finish to obtain"
+       },
+       "words": 898,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t012_7e5801b3",
+       "title": {
+        "ru": "Apply the color coat, if applicable, to the wheel",
+        "en": "Apply the color coat, if applicable, to the wheel"
+       },
+       "words": 817,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t013_4da522ae",
+       "title": {
+        "ru": "Apply either a thin coat of polypropylene primer",
+        "en": "Apply either a thin coat of polypropylene primer"
+       },
+       "words": 697,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t014_2ce6d947",
+       "title": {
+        "ru": "Clear Coat Acrylic Lacquer 380-S",
+        "en": "Clear Coat Acrylic Lacquer 380-S"
+       },
+       "words": 695,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t015_0948c4cd",
+       "title": {
+        "ru": "38. Refinish system for all flexible plastic",
+        "en": "38. Refinish system for all flexible plastic"
+       },
+       "words": 633,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t016_0e2af46c",
+       "title": {
+        "ru": "After the allotted time, peel the decal away from",
+        "en": "After the allotted time, peel the decal away from"
+       },
+       "words": 874,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t017_224ef077",
+       "title": {
+        "ru": "Immediately apply the wetted decal to the panel",
+        "en": "Immediately apply the wetted decal to the panel"
+       },
+       "words": 1085,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t018_5d143cf7",
+       "title": {
+        "ru": "Use safety chains at all times. The chains must",
+        "en": "Use safety chains at all times. The chains must"
+       },
+       "words": 2823,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t019_dffc4251",
+       "title": {
+        "ru": "Cylinder Head Cover Installation—119",
+        "en": "Cylinder Head Cover Installation—119"
+       },
+       "words": 750,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t020_39fbc5d6",
+       "title": {
+        "ru": "Position the carburetor fast idle speed adjust-",
+        "en": "Position the carburetor fast idle speed adjust-"
+       },
+       "words": 1260,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t021_c7a45c1c",
+       "title": {
+        "ru": "If using an ignition coil tester (not an ohmmeter)",
+        "en": "If using an ignition coil tester (not an ohmmeter)"
+       },
+       "words": 796,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t022_25358383",
+       "title": {
+        "ru": "Liquid fuel leaks not only waste fuel but also",
+        "en": "Liquid fuel leaks not only waste fuel but also"
+       },
+       "words": 780,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t023_052ac2e1",
+       "title": {
+        "ru": "Disconnect the coolant hoses from the rear of",
+        "en": "Disconnect the coolant hoses from the rear of"
+       },
+       "words": 916,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t024_19c26626",
+       "title": {
+        "ru": "Refer to the Specifications chart for the correct",
+        "en": "Refer to the Specifications chart for the correct"
+       },
+       "words": 846,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t025_13da910c",
+       "title": {
+        "ru": "NOTE: To verify correct installation of the timing",
+        "en": "NOTE: To verify correct installation of the timing"
+       },
+       "words": 830,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t026_5fda2ec6",
+       "title": {
+        "ru": "Fill the oil pan with replacement engine oil to the",
+        "en": "Fill the oil pan with replacement engine oil to the"
+       },
+       "words": 797,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t027_8d03bcab",
+       "title": {
+        "ru": "Install and tighten the cylinder head cover nuts",
+        "en": "Install and tighten the cylinder head cover nuts"
+       },
+       "words": 677,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t028_7bfdb0d1",
+       "title": {
+        "ru": "Rotate the crankshaft until the push rod is at its",
+        "en": "Rotate the crankshaft until the push rod is at its"
+       },
+       "words": 934,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t029_95febbb6",
+       "title": {
+        "ru": "Install the cylinder head cover. Refer to Cylinder",
+        "en": "Install the cylinder head cover. Refer to Cylinder"
+       },
+       "words": 871,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t030_eb9014fc",
+       "title": {
+        "ru": "Fill the crankcase with engine oil to the specified",
+        "en": "Fill the crankcase with engine oil to the specified"
+       },
+       "words": 758,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t031_057bf6ad",
+       "title": {
+        "ru": "Drain the coolant from the radiator until the level",
+        "en": "Drain the coolant from the radiator until the level"
+       },
+       "words": 826,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t032_c432cfc7",
+       "title": {
+        "ru": "Satisfactory operation of the fan drive requires",
+        "en": "Satisfactory operation of the fan drive requires"
+       },
+       "words": 879,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t033_8533f2e1",
+       "title": {
+        "ru": "Attach a pressure tester (J-24460-01) to the filler",
+        "en": "Attach a pressure tester (J-24460-01) to the filler"
+       },
+       "words": 922,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t034_1d2add47",
+       "title": {
+        "ru": "Disconnect the electrical connection (4) from the",
+        "en": "Disconnect the electrical connection (4) from the"
+       },
+       "words": 939,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t035_5dba3845",
+       "title": {
+        "ru": "Position the choke cover at the following basic",
+        "en": "Position the choke cover at the following basic"
+       },
+       "words": 832,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t036_62b9e37d",
+       "title": {
+        "ru": "Install and tighten all the cover retaining screws",
+        "en": "Install and tighten all the cover retaining screws"
+       },
+       "words": 853,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t037_a3189af4",
+       "title": {
+        "ru": "If the door opens during the step above, inspect",
+        "en": "If the door opens during the step above, inspect"
+       },
+       "words": 832,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t038_05671ba8",
+       "title": {
+        "ru": "When the engine is not operating, the solenoid is",
+        "en": "When the engine is not operating, the solenoid is"
+       },
+       "words": 816,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t039_7e7349d0",
+       "title": {
+        "ru": "D i s c o n n e c t w i r e c o n n e c t o r f r o m s o l e n o i d",
+        "en": "D i s c o n n e c t w i r e c o n n e c t o r f r o m s o l e n o i d"
+       },
+       "words": 998,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t040_2bc624d0",
+       "title": {
+        "ru": "Operation of choke linkage. ensure hoses and wires are not interferring",
+        "en": "Operation of choke linkage. ensure hoses and wires are not interferring"
+       },
+       "words": 752,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t041_d47d79b8",
+       "title": {
+        "ru": "An alternate test method is to determine the field",
+        "en": "An alternate test method is to determine the field"
+       },
+       "words": 771,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t042_090be9c2",
+       "title": {
+        "ru": "Press out the front bearing and slinger from the",
+        "en": "Press out the front bearing and slinger from the"
+       },
+       "words": 957,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t043_aeef4bb1",
+       "title": {
+        "ru": "Hold the steel blade (3) parallel to and touching",
+        "en": "Hold the steel blade (3) parallel to and touching"
+       },
+       "words": 805,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t044_cf88f782",
+       "title": {
+        "ru": "Insert the brushes into the brush holder. Refer to",
+        "en": "Insert the brushes into the brush holder. Refer to"
+       },
+       "words": 822,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t045_2df81bfa",
+       "title": {
+        "ru": "If the battery voltage is present and the starter",
+        "en": "If the battery voltage is present and the starter"
+       },
+       "words": 821,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t046_cf48e46c",
+       "title": {
+        "ru": "When installing a replacement rotor, apply a thin",
+        "en": "When installing a replacement rotor, apply a thin"
+       },
+       "words": 1159,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t047_57e99957",
+       "title": {
+        "ru": "If the distributor is not installed in the engine",
+        "en": "If the distributor is not installed in the engine"
+       },
+       "words": 908,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t048_43eb5e43",
+       "title": {
+        "ru": "For example: if a 10-amp load is drawn through",
+        "en": "For example: if a 10-amp load is drawn through"
+       },
+       "words": 772,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t049_a4c0fda5",
+       "title": {
+        "ru": "Attach two strips of cellophane tape to the inside",
+        "en": "Attach two strips of cellophane tape to the inside"
+       },
+       "words": 888,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t050_58fdc439",
+       "title": {
+        "ru": "All electrical troubleshooting is covered in the",
+        "en": "All electrical troubleshooting is covered in the"
+       },
+       "words": 786,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t051_e04ed50d",
+       "title": {
+        "ru": "Remove the retainer (14), spring (13), and valve",
+        "en": "Remove the retainer (14), spring (13), and valve"
+       },
+       "words": 927,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t052_2e67e2e6",
+       "title": {
+        "ru": "The throttle (TV) linkage positions a valve that",
+        "en": "The throttle (TV) linkage positions a valve that"
+       },
+       "words": 878,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t053_40b28d71",
+       "title": {
+        "ru": "Inspect condition of the pump housing and con-",
+        "en": "Inspect condition of the pump housing and con-"
+       },
+       "words": 933,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t054_f5a15334",
+       "title": {
+        "ru": "Pull the throttle control rod (5) rearward until the",
+        "en": "Pull the throttle control rod (5) rearward until the"
+       },
+       "words": 911,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t055_4719800b",
+       "title": {
+        "ru": "Remove the wiring connector from the switch",
+        "en": "Remove the wiring connector from the switch"
+       },
+       "words": 771,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t056_4e8b53c0",
+       "title": {
+        "ru": "Install the upper and lower toe plates (4) on the",
+        "en": "Install the upper and lower toe plates (4) on the"
+       },
+       "words": 784,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t057_6e20da2f",
+       "title": {
+        "ru": "Install the turn signal switch (10). Fold the wires",
+        "en": "Install the turn signal switch (10). Fold the wires"
+       },
+       "words": 887,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t058_a50b0438",
+       "title": {
+        "ru": "Install one bearing (13) in each ball guide hole in",
+        "en": "Install one bearing (13) in each ball guide hole in"
+       },
+       "words": 923,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t059_0ff7ba75",
+       "title": {
+        "ru": "Slide the adjuster screw (6) into the pitman shaft",
+        "en": "Slide the adjuster screw (6) into the pitman shaft"
+       },
+       "words": 1048,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t060_792375ca",
+       "title": {
+        "ru": "Install the side cover (9) on the pitman shaft (6)",
+        "en": "Install the side cover (9) on the pitman shaft (6)"
+       },
+       "words": 910,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t061_548c0bba",
+       "title": {
+        "ru": "Partially fill the hub cavity of the steering knuckle",
+        "en": "Partially fill the hub cavity of the steering knuckle"
+       },
+       "words": 847,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t062_f1b57b7c",
+       "title": {
+        "ru": "Seat the bearing on the gear and in the cup (20)",
+        "en": "Seat the bearing on the gear and in the cup (20)"
+       },
+       "words": 960,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t063_05f598e5",
+       "title": {
+        "ru": "Install a replacement pinion oil seal (23) with tool",
+        "en": "Install a replacement pinion oil seal (23) with tool"
+       },
+       "words": 888,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t065_967ae80f",
+       "title": {
+        "ru": "Install a replacement bearing retaining ring (6)",
+        "en": "Install a replacement bearing retaining ring (6)"
+       },
+       "words": 881,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t066_5680db99",
+       "title": {
+        "ru": "Install the pinion gear, bearings and seal if re-",
+        "en": "Install the pinion gear, bearings and seal if re-"
+       },
+       "words": 811,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t067_75bd9512",
+       "title": {
+        "ru": "NOTE: Retain the pinion nut. It will be used for",
+        "en": "NOTE: Retain the pinion nut. It will be used for"
+       },
+       "words": 1026,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t068_3f20d72f",
+       "title": {
+        "ru": "Install the required pinion depth shim (14) in the",
+        "en": "Install the required pinion depth shim (14) in the"
+       },
+       "words": 851,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t069_123df101",
+       "title": {
+        "ru": "Install the differential bearing shim packs on the",
+        "en": "Install the differential bearing shim packs on the"
+       },
+       "words": 941,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t070_2ebfe2ab",
+       "title": {
+        "ru": "Rotate the side gears with the rotating tool until",
+        "en": "Rotate the side gears with the rotating tool until"
+       },
+       "words": 979,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t071_d6d208ef",
+       "title": {
+        "ru": "Install the required pinion depth shim (17) in the",
+        "en": "Install the required pinion depth shim (17) in the"
+       },
+       "words": 836,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t072_5145ed24",
+       "title": {
+        "ru": "Install the pinions (3). Rotate the side gear with",
+        "en": "Install the pinions (3). Rotate the side gear with"
+       },
+       "words": 1001,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t073_6780f9e5",
+       "title": {
+        "ru": "Install and tighten the track bar attaching bolts",
+        "en": "Install and tighten the track bar attaching bolts"
+       },
+       "words": 880,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t074_96c6dff3",
+       "title": {
+        "ru": "The receiver-dryer is a reservoir that supplies",
+        "en": "The receiver-dryer is a reservoir that supplies"
+       },
+       "words": 888,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t075_46f2cdd7",
+       "title": {
+        "ru": "R-12 is transparent and colorless in both the",
+        "en": "R-12 is transparent and colorless in both the"
+       },
+       "words": 935,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t076_363e2caa",
+       "title": {
+        "ru": "Lower the flame until it is about 6.4 mm (1/4 in)",
+        "en": "Lower the flame until it is about 6.4 mm (1/4 in)"
+       },
+       "words": 944,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t077_3a001aea",
+       "title": {
+        "ru": "Loosen the center service hose at the manifold",
+        "en": "Loosen the center service hose at the manifold"
+       },
+       "words": 726,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t078_5cc57e2b",
+       "title": {
+        "ru": "Install the front plate assembly and the original",
+        "en": "Install the front plate assembly and the original"
+       },
+       "words": 931,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t079_166d4cb6",
+       "title": {
+        "ru": "If the air gap is not consistent around the pe-",
+        "en": "If the air gap is not consistent around the pe-"
+       },
+       "words": 960,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t080_6b8f9de1",
+       "title": {
+        "ru": "On one side of the regulator there are two holes",
+        "en": "On one side of the regulator there are two holes"
+       },
+       "words": 711,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t081_fa97cfe7",
+       "title": {
+        "ru": "T-connector just installed in the vacuum hose",
+        "en": "T-connector just installed in the vacuum hose"
+       },
+       "words": 875,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t082_069ada8f",
+       "title": {
+        "ru": "The indicator light is located in the instrument",
+        "en": "The indicator light is located in the instrument"
+       },
+       "words": 806,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t083_0dffd514",
+       "title": {
+        "ru": "If the starter will not operate and current draw is",
+        "en": "If the starter will not operate and current draw is"
+       },
+       "words": 824,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t084_e237830c",
+       "title": {
+        "ru": "Inspect the brushes and brush holder. Replace",
+        "en": "Inspect the brushes and brush holder. Replace"
+       },
+       "words": 997,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t085_b2eaa79b",
+       "title": {
+        "ru": "Remove the housing seal by prying it out with a",
+        "en": "Remove the housing seal by prying it out with a"
+       },
+       "words": 884,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t086_e851e55e",
+       "title": {
+        "ru": "With the vehicle on level ground, raise the left-",
+        "en": "With the vehicle on level ground, raise the left-"
+       },
+       "words": 715,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t087_edc825e4",
+       "title": {
+        "ru": "Be sure lever tab (B) is aligned with switch",
+        "en": "Be sure lever tab (B) is aligned with switch"
+       },
+       "words": 831,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t088_141c3baa",
+       "title": {
+        "ru": "Any burr or sharp edge could result in a boot rupture",
+        "en": "Any burr or sharp edge could result in a boot rupture"
+       },
+       "words": 1058,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t089_50aa7912",
+       "title": {
+        "ru": "NOTE: If the transfer case is not equipped with a",
+        "en": "NOTE: If the transfer case is not equipped with a"
+       },
+       "words": 950,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t090_3b17ffa6",
+       "title": {
+        "ru": "Input gear oil seal (12); front output shaft oil seal",
+        "en": "Input gear oil seal (12); front output shaft oil seal"
+       },
+       "words": 843,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t091_8092fcd7",
+       "title": {
+        "ru": "Install the drive sprocket (38) on the mainshaft",
+        "en": "Install the drive sprocket (38) on the mainshaft"
+       },
+       "words": 868,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t092_026223d8",
+       "title": {
+        "ru": "Separate the rear case from the front case using",
+        "en": "Separate the rear case from the front case using"
+       },
+       "words": 1012,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t093_7d3d127a",
+       "title": {
+        "ru": "Install the s y n c h r o n i z e r s l e e v e on the",
+        "en": "Install the s y n c h r o n i z e r s l e e v e on the"
+       },
+       "words": 944,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t094_90c5c0df",
+       "title": {
+        "ru": "Be sure the case locating dowels are in place",
+        "en": "Be sure the case locating dowels are in place"
+       },
+       "words": 1105,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t095_a57f14a3",
+       "title": {
+        "ru": "Inspect all mating surfaces for burrs, nicks and",
+        "en": "Inspect all mating surfaces for burrs, nicks and"
+       },
+       "words": 870,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t096_59b4eb03",
+       "title": {
+        "ru": "Remove the oil filter attaching screws (A) and oil",
+        "en": "Remove the oil filter attaching screws (A) and oil"
+       },
+       "words": 903,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t097_8ba3d2cd",
+       "title": {
+        "ru": "Align and install the reaction shaft support on the",
+        "en": "Align and install the reaction shaft support on the"
+       },
+       "words": 934,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t098_eec73b02",
+       "title": {
+        "ru": "N O T E : Be sure snap ring is completely seated in",
+        "en": "N O T E : Be sure snap ring is completely seated in"
+       },
+       "words": 908,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t099_71848d02",
+       "title": {
+        "ru": "Lift the pressure plate (2), clutch plates (3) (4)",
+        "en": "Lift the pressure plate (2), clutch plates (3) (4)"
+       },
+       "words": 1035,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t100_53090bf6",
+       "title": {
+        "ru": "Install the thrust washer (12) on the output shaft",
+        "en": "Install the thrust washer (12) on the output shaft"
+       },
+       "words": 967,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t101_bd54cd63",
+       "title": {
+        "ru": "Install the piston rod spring (5) on the piston rod",
+        "en": "Install the piston rod spring (5) on the piston rod"
+       },
+       "words": 914,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t102_597ccd21",
+       "title": {
+        "ru": "Rotate the input and output shafts to see if any",
+        "en": "Rotate the input and output shafts to see if any"
+       },
+       "words": 812,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t103_7f46d90b",
+       "title": {
+        "ru": "N O T E : Mark or note position of the synchronizer",
+        "en": "N O T E : Mark or note position of the synchronizer"
+       },
+       "words": 827,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t104_dcf7a898",
+       "title": {
+        "ru": "Install the front bearing (38), but not the preload",
+        "en": "Install the front bearing (38), but not the preload"
+       },
+       "words": 928,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t105_19fa0921",
+       "title": {
+        "ru": "Secure the shift fork (62) to the shift rail (63) with",
+        "en": "Secure the shift fork (62) to the shift rail (63) with"
+       },
+       "words": 925,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t106_b045c798",
+       "title": {
+        "ru": "Front Support Cushion-to-Bracket",
+        "en": "Front Support Cushion-to-Bracket"
+       },
+       "words": 758,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t107_4b1ab375",
+       "title": {
+        "ru": "Remove the bridges, pivots and corresponding",
+        "en": "Remove the bridges, pivots and corresponding"
+       },
+       "words": 675,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t108_f8dc18dd",
+       "title": {
+        "ru": "Apply force to the piloted driver to press the pin",
+        "en": "Apply force to the piloted driver to press the pin"
+       },
+       "words": 952,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t109_3faa659c",
+       "title": {
+        "ru": "Install the lower half of the rear main oil seal into",
+        "en": "Install the lower half of the rear main oil seal into"
+       },
+       "words": 857,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t110_fdc66573",
+       "title": {
+        "ru": "T h e c l e a r a n c e m e a s u r e d with a pair of",
+        "en": "T h e c l e a r a n c e m e a s u r e d with a pair of"
+       },
+       "words": 998,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t111_77d17a06",
+       "title": {
+        "ru": "Test Oil J-5268, or equivalent, until the tappet is",
+        "en": "Test Oil J-5268, or equivalent, until the tappet is"
+       },
+       "words": 763,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t112_9977332b",
+       "title": {
+        "ru": "When the E C U receives the input (deceleration)",
+        "en": "When the E C U receives the input (deceleration)"
+       },
+       "words": 896,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t113_58a39e6e",
+       "title": {
+        "ru": "If the E C U is functioning normally, the test bulb",
+        "en": "If the E C U is functioning normally, the test bulb"
+       },
+       "words": 947,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t114_699fd9c0",
+       "title": {
+        "ru": "Install the O-ring seal (E) and the sending unit/",
+        "en": "Install the O-ring seal (E) and the sending unit/"
+       },
+       "words": 917,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t115_f7370d85",
+       "title": {
+        "ru": "If no voltage is present in either position, test for",
+        "en": "If no voltage is present in either position, test for"
+       },
+       "words": 887,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t116_370a4acb",
+       "title": {
+        "ru": "If the ground connection is good, replace the",
+        "en": "If the ground connection is good, replace the"
+       },
+       "words": 823,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t117_456df466",
+       "title": {
+        "ru": "Loosen the EGR tube mounting bolts (A) at the",
+        "en": "Loosen the EGR tube mounting bolts (A) at the"
+       },
+       "words": 844,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t118_6b980f06",
+       "title": {
+        "ru": "Using a ring installer, install the top ring with the",
+        "en": "Using a ring installer, install the top ring with the"
+       },
+       "words": 984,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t119_116065c8",
+       "title": {
+        "ru": "Install the grooved main bearings into the cylin-",
+        "en": "Install the grooved main bearings into the cylin-"
+       },
+       "words": 825,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t120_28921c88",
+       "title": {
+        "ru": "Install the lower bearing insert in the bearing",
+        "en": "Install the lower bearing insert in the bearing"
+       },
+       "words": 901,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t121_4411ac31",
+       "title": {
+        "ru": "Following the numbered sequence is important because the",
+        "en": "Following the numbered sequence is important because the"
+       },
+       "words": 1096,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t122_11e3b359",
+       "title": {
+        "ru": "The solid state circuits in the tachometer are powered-",
+        "en": "The solid state circuits in the tachometer are powered-"
+       },
+       "words": 828,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t123_28d7f620",
+       "title": {
+        "ru": "Operation of the relay is prevented unless the ignition",
+        "en": "Operation of the relay is prevented unless the ignition"
+       },
+       "words": 870,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t124_e6b22473",
+       "title": {
+        "ru": "The four gauges and the clock are connected to battery",
+        "en": "The four gauges and the clock are connected to battery"
+       },
+       "words": 750,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t125_c3cbf639",
+       "title": {
+        "ru": "2. SET SWITCH: Ignition ON; cruise switch ON; set switch pressed",
+        "en": "2. SET SWITCH: Ignition ON; cruise switch ON; set switch pressed"
+       },
+       "words": 988,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t126_92b734cc",
+       "title": {
+        "ru": "The solid state circuits in the tachometer are powered-up",
+        "en": "The solid state circuits in the tachometer are powered-up"
+       },
+       "words": 852,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t127_e71269b5",
+       "title": {
+        "ru": "The electronically tuned radio requires an additional con-",
+        "en": "The electronically tuned radio requires an additional con-"
+       },
+       "words": 872,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t128_7bca274f",
+       "title": {
+        "ru": "The four gauges and the clock are connected to battery",
+        "en": "The four gauges and the clock are connected to battery"
+       },
+       "words": 762,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t129_e850a650",
+       "title": {
+        "ru": "Repair open from fuse panel",
+        "en": "Repair open from fuse panel"
+       },
+       "words": 926,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t130_44c3bb31",
+       "title": {
+        "ru": "All Rights Reserved. Litho in U.S.A",
+        "en": "All Rights Reserved. Litho in U.S.A"
+       },
+       "words": 929,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jeep_jeep_wrangler_general_t131_26c4e509",
+       "title": {
+        "ru": "N s i kuivlfclni i k m i m u l",
+        "en": "N s i kuivlfclni i k m i m u l"
+       },
+       "words": 642,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t000_0de40f47",
+       "title": {
+        "ru": "Use AMC/Jeep/Renault gear lubricant, or equivalent 75W-90",
+        "en": "Use AMC/Jeep/Renault gear lubricant, or equivalent 75W-90"
+       },
+       "words": 783,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t001_64afda31",
+       "title": {
+        "ru": "Lift the vehicle and position supports at the front",
+        "en": "Lift the vehicle and position supports at the front"
+       },
+       "words": 777,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t002_f3bda2eb",
+       "title": {
+        "ru": "Fill the transmission and transfer with the speci-",
+        "en": "Fill the transmission and transfer with the speci-"
+       },
+       "words": 815,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t003_39f71469",
+       "title": {
+        "ru": "Install the shift lever and stub shaft in the trans-",
+        "en": "Install the shift lever and stub shaft in the trans-"
+       },
+       "words": 737,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t004_97904a92",
+       "title": {
+        "ru": "Drive the vehicle until the transmission fluid is",
+        "en": "Drive the vehicle until the transmission fluid is"
+       },
+       "words": 870,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t005_9adbeca9",
+       "title": {
+        "ru": "If a trickle type of leak develops, it indicates an",
+        "en": "If a trickle type of leak develops, it indicates an"
+       },
+       "words": 952,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t006_269d2951",
+       "title": {
+        "ru": "Install the oil pan and replacement pan gasket",
+        "en": "Install the oil pan and replacement pan gasket"
+       },
+       "words": 826,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t007_8d0aa4ac",
+       "title": {
+        "ru": "Install the yoke. Secure the yoke with a replace-",
+        "en": "Install the yoke. Secure the yoke with a replace-"
+       },
+       "words": 826,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t008_a757b2bb",
+       "title": {
+        "ru": "Fill the transfer case with 2.1 liters (4.5 pints) of",
+        "en": "Fill the transfer case with 2.1 liters (4.5 pints) of"
+       },
+       "words": 873,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t009_fe24b603",
+       "title": {
+        "ru": "Install Detent Ball Retainer Tool J-24044 around",
+        "en": "Install Detent Ball Retainer Tool J-24044 around"
+       },
+       "words": 904,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t010_79452d85",
+       "title": {
+        "ru": "Clean the filter in solvent and air dry. Replace it if",
+        "en": "Clean the filter in solvent and air dry. Replace it if"
+       },
+       "words": 807,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t011_5e4a6647",
+       "title": {
+        "ru": "If the lining is so badly worn that the grooves are",
+        "en": "If the lining is so badly worn that the grooves are"
+       },
+       "words": 938,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t012_9851ec0c",
+       "title": {
+        "ru": "Then remove the shift fork roll pin (61) with a pin",
+        "en": "Then remove the shift fork roll pin (61) with a pin"
+       },
+       "words": 836,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t013_3ccbcbd8",
+       "title": {
+        "ru": "Install the cluster gear front bearing race (37) on",
+        "en": "Install the cluster gear front bearing race (37) on"
+       },
+       "words": 945,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t014_7d7ad116",
+       "title": {
+        "ru": "3. PARK/NEUTRAL 4.2L (AUTO TRANS ONLY): Parking brake fully engaged",
+        "en": "3. PARK/NEUTRAL 4.2L (AUTO TRANS ONLY): Parking brake fully engaged"
+       },
+       "words": 883,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jeep_jeep_wrangler_drivetrain_t015_8f3681df",
+       "title": {
+        "ru": "Under instrument panel to left of",
+        "en": "Under instrument panel to left of"
+       },
+       "words": 135,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_infotainment_t000_917e0f1e",
+       "title": {
+        "ru": "Insert the pitman shaft in the housing bore and",
+        "en": "Insert the pitman shaft in the housing bore and"
+       },
+       "words": 257,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "jeep_jeep_wrangler_sensors_t000_07da535f",
+       "title": {
+        "ru": "Start the engine and inspect for leaks. Repair as",
+        "en": "Start the engine and inspect for leaks. Repair as"
+       },
+       "words": 877,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jeep_jeep_wrangler_sensors_t001_93ba9996",
+       "title": {
+        "ru": "Align the wire terminals in the proper orientation",
+        "en": "Align the wire terminals in the proper orientation"
+       },
+       "words": 729,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jeep_jeep_wrangler_sensors_t002_f0330d49",
+       "title": {
+        "ru": "Refer to the 2.5L fuel injection circuit schematic",
+        "en": "Refer to the 2.5L fuel injection circuit schematic"
+       },
+       "words": 872,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jeep_jeep_wrangler_sensors_t003_b261c899",
+       "title": {
+        "ru": "Position linkage rod (K) so it is a free fit in the",
+        "en": "Position linkage rod (K) so it is a free fit in the"
+       },
+       "words": 816,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jeep_jeep_wrangler_sensors_t004_06241559",
+       "title": {
+        "ru": "It is e x p e c t e d that the t e c h n i c i a n will",
+        "en": "It is e x p e c t e d that the t e c h n i c i a n will"
+       },
+       "words": 868,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jeep_jeep_wrangler_sensors_t005_fcea8a1e",
+       "title": {
+        "ru": "Replace the sensor if it is not within the range of",
+        "en": "Replace the sensor if it is not within the range of"
+       },
+       "words": 904,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jeep_jeep_wrangler_sensors_t006_5e8f5bf6",
+       "title": {
+        "ru": "If no voltage is present in either position, test for",
+        "en": "If no voltage is present in either position, test for"
+       },
+       "words": 835,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jeep_jeep_wrangler_sensors_t007_d265795d",
+       "title": {
+        "ru": "Replace the sensor if it is not within the range of",
+        "en": "Replace the sensor if it is not within the range of"
+       },
+       "words": 814,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jeep_jeep_wrangler_sensors_t008_3e9bf5a2",
+       "title": {
+        "ru": "All wires, connectors, switches and loads are shown",
+        "en": "All wires, connectors, switches and loads are shown"
+       },
+       "words": 981,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jeep_jeep_wrangler_sensors_t009_59f5c600",
+       "title": {
+        "ru": "The cruise control module controls the servo on the",
+        "en": "The cruise control module controls the servo on the"
+       },
+       "words": 747,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

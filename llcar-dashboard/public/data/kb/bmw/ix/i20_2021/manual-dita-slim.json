@@ -1,0 +1,615 @@
+{
+ "version": "1.0",
+ "model": "ix_i20",
+ "manuals": [
+  {
+   "model": "ix_i20",
+   "label": {
+    "ru": "Bmw Ix I20 — Руководство по ремонту",
+    "en": "Bmw Ix I20 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_engine_t000_de9684b9",
+       "title": {
+        "ru": "Refer to section on engine oil change re-",
+        "en": "Refer to section on engine oil change re-"
+       },
+       "words": 1234,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_brakes_t000_27eb17f3",
+       "title": {
+        "ru": "In selector lever position B, the vehicle will de-",
+        "en": "In selector lever position B, the vehicle will de-"
+       },
+       "words": 2939,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "bmw_ix_i20_brakes_t001_caf76299",
+       "title": {
+        "ru": "Indicator light illuminates continuously: there",
+        "en": "Indicator light illuminates continuously: there"
+       },
+       "words": 3437,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "bmw_ix_i20_brakes_t002_ad7472e2",
+       "title": {
+        "ru": "To increase maneuverability, wheels are",
+        "en": "To increase maneuverability, wheels are"
+       },
+       "words": 2336,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_suspension_t000_fc3aa9bd",
+       "title": {
+        "ru": "Safety information",
+        "en": "Safety information"
+       },
+       "words": 674,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_hvac_t000_3d2c25c0",
+       "title": {
+        "ru": "5. Insert the new wiper blade and press it on",
+        "en": "5. Insert the new wiper blade and press it on"
+       },
+       "words": 961,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_body_t000_eef71490",
+       "title": {
+        "ru": "In some situations, the idle state is not set au-",
+        "en": "In some situations, the idle state is not set au-"
+       },
+       "words": 2258,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_ix_i20_body_t001_1c5887a5",
+       "title": {
+        "ru": "In the event of a severe accident, the vehicle",
+        "en": "In the event of a severe accident, the vehicle"
+       },
+       "words": 3150,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_ix_i20_body_t002_c17d0d51",
+       "title": {
+        "ru": "Depending on the national-market version, the",
+        "en": "Depending on the national-market version, the"
+       },
+       "words": 2649,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "bmw_ix_i20_body_t003_459ac58c",
+       "title": {
+        "ru": "When the defrost function is turned on, the rear",
+        "en": "When the defrost function is turned on, the rear"
+       },
+       "words": 1934,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_steering_t000_a16a755e",
+       "title": {
+        "ru": "The setting is applied to all collision warning",
+        "en": "The setting is applied to all collision warning"
+       },
+       "words": 2561,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "bmw_ix_i20_steering_t001_391073b2",
+       "title": {
+        "ru": "At higher speeds, the rear wheels are turned",
+        "en": "At higher speeds, the rear wheels are turned"
+       },
+       "words": 2641,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "bmw_ix_i20_steering_t002_65e06c7c",
+       "title": {
+        "ru": "The steering wheel displays can be turned",
+        "en": "The steering wheel displays can be turned"
+       },
+       "words": 1588,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_lighting_t000_c2f0cd71",
+       "title": {
+        "ru": "Switching off the tilt alarm sensor and",
+        "en": "Switching off the tilt alarm sensor and"
+       },
+       "words": 2658,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_ix_i20_lighting_t001_767b718c",
+       "title": {
+        "ru": "Indicator light flashes and an acoustic signal",
+        "en": "Indicator light flashes and an acoustic signal"
+       },
+       "words": 2750,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_ix_i20_lighting_t002_6608de42",
+       "title": {
+        "ru": "Spilled liquids can distract from the surround-",
+        "en": "Spilled liquids can distract from the surround-"
+       },
+       "words": 3006,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "bmw_ix_i20_lighting_t003_b7eb4dc9",
+       "title": {
+        "ru": "If the situation allows, wait in your vehicle",
+        "en": "If the situation allows, wait in your vehicle"
+       },
+       "words": 1902,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_interior_t000_bc5f5296",
+       "title": {
+        "ru": "A Check Control message is displayed where",
+        "en": "A Check Control message is displayed where"
+       },
+       "words": 2754,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_ix_i20_interior_t001_432d08ce",
+       "title": {
+        "ru": "Buttons, rear automatic climate control",
+        "en": "Buttons, rear automatic climate control"
+       },
+       "words": 3022,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_ix_i20_interior_t002_cdc5c197",
+       "title": {
+        "ru": "Automatic deactivation, front-seat passenger",
+        "en": "Automatic deactivation, front-seat passenger"
+       },
+       "words": 2834,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "bmw_ix_i20_interior_t003_04e1dac7",
+       "title": {
+        "ru": "Icons and displays 7",
+        "en": "Icons and displays 7"
+       },
+       "words": 769,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_maintenance_t000_c7e91cf5",
+       "title": {
+        "ru": "The data is collected, processed, and used",
+        "en": "The data is collected, processed, and used"
+       },
+       "words": 2787,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_ev_t000_2e09d4c5",
+       "title": {
+        "ru": "If the drive-ready state is turned on, the vehicle",
+        "en": "If the drive-ready state is turned on, the vehicle"
+       },
+       "words": 3190,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "bmw_ix_i20_ev_t001_51337de8",
+       "title": {
+        "ru": "Adaptive recuperation, recuperative brak-",
+        "en": "Adaptive recuperation, recuperative brak-"
+       },
+       "words": 2767,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "bmw_ix_i20_ev_t002_cd7b6e98",
+       "title": {
+        "ru": "To protect the sides of the vehicle, obstacle",
+        "en": "To protect the sides of the vehicle, obstacle"
+       },
+       "words": 3453,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "bmw_ix_i20_ev_t003_70ff2d23",
+       "title": {
+        "ru": "Modifications, technical, see For Your Own",
+        "en": "Modifications, technical, see For Your Own"
+       },
+       "words": 3190,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_general_t000_39b967b2",
+       "title": {
+        "ru": "The use of personal settings that are stored for",
+        "en": "The use of personal settings that are stored for"
+       },
+       "words": 2295,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_ix_i20_general_t001_6622d9b9",
+       "title": {
+        "ru": "When you approach a curve the system may",
+        "en": "When you approach a curve the system may"
+       },
+       "words": 3448,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_ix_i20_general_t002_ef2b6f25",
+       "title": {
+        "ru": "The recording function or data transfer can be",
+        "en": "The recording function or data transfer can be"
+       },
+       "words": 2935,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "bmw_ix_i20_general_t003_59381f15",
+       "title": {
+        "ru": "Avoid cleaning the wiper blades manually, as",
+        "en": "Avoid cleaning the wiper blades manually, as"
+       },
+       "words": 1480,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_infotainment_t000_3ea34fa6",
+       "title": {
+        "ru": "Entering letters and numbers",
+        "en": "Entering letters and numbers"
+       },
+       "words": 2250,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_ix_i20_infotainment_t001_eca32fb6",
+       "title": {
+        "ru": "Average fuel consumption",
+        "en": "Average fuel consumption"
+       },
+       "words": 2921,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_ix_i20_infotainment_t002_ae2a2b65",
+       "title": {
+        "ru": "When the system is automatically aborted, se-",
+        "en": "When the system is automatically aborted, se-"
+       },
+       "words": 3152,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "bmw_ix_i20_infotainment_t003_2f3dc279",
+       "title": {
+        "ru": "Services, ConnectedDrive, see Owner's",
+        "en": "Services, ConnectedDrive, see Owner's"
+       },
+       "words": 1209,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_safety_t000_4388ddc7",
+       "title": {
+        "ru": "Vehicle modifications for a person with disabil-",
+        "en": "Vehicle modifications for a person with disabil-"
+       },
+       "words": 3170,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "bmw_ix_i20_safety_t001_93fbaaa6",
+       "title": {
+        "ru": "Avoid lateral loading of the tow fitting, for",
+        "en": "Avoid lateral loading of the tow fitting, for"
+       },
+       "words": 3443,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_sensors_t000_55d00db8",
+       "title": {
+        "ru": "Activating/deactivating rain sensor",
+        "en": "Activating/deactivating rain sensor"
+       },
+       "words": 2500,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "bmw_ix_i20_sensors_t001_525679eb",
+       "title": {
+        "ru": "Ultrasonic sensors in the front/rear bump-",
+        "en": "Ultrasonic sensors in the front/rear bump-"
+       },
+       "words": 3021,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "bmw_ix_i20_sensors_t002_3910e1c3",
+       "title": {
+        "ru": "Ultrasonic sensors measure parking spaces on",
+        "en": "Ultrasonic sensors measure parking spaces on"
+       },
+       "words": 2273,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_drivetrain_t000_0e19233e",
+       "title": {
+        "ru": "Place activated Key Card in the center of",
+        "en": "Place activated Key Card in the center of"
+       },
+       "words": 3404,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_ix_i20_drivetrain_t001_1e7801cf",
+       "title": {
+        "ru": "Additionally, the limits of the Cruise Control,",
+        "en": "Additionally, the limits of the Cruise Control,"
+       },
+       "words": 2998,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "bmw_ix_i20_drivetrain_t002_567b5b4a",
+       "title": {
+        "ru": "Tire pressure values up to",
+        "en": "Tire pressure values up to"
+       },
+       "words": 1013,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "tires",
+     "title": {
+      "ru": "tires",
+      "en": "tires"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "bmw_ix_i20_tires_t000_82c17f96",
+       "title": {
+        "ru": "Do not allow the vehicle body or underbody",
+        "en": "Do not allow the vehicle body or underbody"
+       },
+       "words": 3435,
+       "images": 0,
+       "section_id": "tires"
+      },
+      {
+       "id": "bmw_ix_i20_tires_t001_a2cc53cc",
+       "title": {
+        "ru": "After the tire inflation pressure has been",
+        "en": "After the tire inflation pressure has been"
+       },
+       "words": 3456,
+       "images": 0,
+       "section_id": "tires"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

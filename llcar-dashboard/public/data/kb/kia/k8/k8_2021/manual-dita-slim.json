@@ -1,0 +1,845 @@
+{
+ "version": "1.0",
+ "model": "k8",
+ "manuals": [
+  {
+   "model": "k8",
+   "label": {
+    "ru": "Kia K8 — Руководство по ремонту",
+    "en": "Kia K8 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "kia_k8_engine_t000_82e1edca",
+       "title": {
+        "ru": "AIR BAG - ADVANCED SUPPLEMENTAL RESTRAINT SYSTEM",
+        "en": "AIR BAG - ADVANCED SUPPLEMENTAL RESTRAINT SYSTEM"
+       },
+       "words": 3601,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t001_893d276a",
+       "title": {
+        "ru": "Whenever the ENGINE START/STOP",
+        "en": "Whenever the ENGINE START/STOP"
+       },
+       "words": 1391,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t002_5f8e6037",
+       "title": {
+        "ru": "ENGINE START/STOP button is in",
+        "en": "ENGINE START/STOP button is in"
+       },
+       "words": 1163,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t003_d5f81f75",
+       "title": {
+        "ru": "START/STOP button for 10 sec-",
+        "en": "START/STOP button for 10 sec-"
+       },
+       "words": 1606,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t004_8bc63187",
+       "title": {
+        "ru": "CAUTION - Malfunction",
+        "en": "CAUTION - Malfunction"
+       },
+       "words": 1214,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t005_7b05c0c9",
+       "title": {
+        "ru": "START/STOP button with the",
+        "en": "START/STOP button with the"
+       },
+       "words": 1518,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t006_012b0799",
+       "title": {
+        "ru": "1. ENGINE START/STOP button is",
+        "en": "1. ENGINE START/STOP button is"
+       },
+       "words": 967,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t007_02f88228",
+       "title": {
+        "ru": "Do not press the ENGINE START/",
+        "en": "Do not press the ENGINE START/"
+       },
+       "words": 1472,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t008_5486198c",
+       "title": {
+        "ru": "ENGINE START/STOP button in the",
+        "en": "ENGINE START/STOP button in the"
+       },
+       "words": 1106,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t009_6925d3b4",
+       "title": {
+        "ru": "With the ENGINE START/STOP but-",
+        "en": "With the ENGINE START/STOP but-"
+       },
+       "words": 1368,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t010_fc4b22b7",
+       "title": {
+        "ru": "ENGINE START/STOP button in any",
+        "en": "ENGINE START/STOP button in any"
+       },
+       "words": 2820,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t011_f1005d57",
+       "title": {
+        "ru": "WARNING - Maintenance",
+        "en": "WARNING - Maintenance"
+       },
+       "words": 3856,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t012_de3fbe32",
+       "title": {
+        "ru": "CAUTION - Radiator cap",
+        "en": "CAUTION - Radiator cap"
+       },
+       "words": 1737,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t013_2ce98f2e",
+       "title": {
+        "ru": "WARNING - Fuse replace-",
+        "en": "WARNING - Fuse replace-"
+       },
+       "words": 1212,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_k8_engine_t014_3a12195a",
+       "title": {
+        "ru": "VEHICLE CERTIFICATION",
+        "en": "VEHICLE CERTIFICATION"
+       },
+       "words": 555,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "kia_k8_brakes_t000_69bc53fc",
+       "title": {
+        "ru": "WARNING - Driver respon-",
+        "en": "WARNING - Driver respon-"
+       },
+       "words": 1301,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_k8_brakes_t001_ef461412",
+       "title": {
+        "ru": "WARNING - Shifting from",
+        "en": "WARNING - Shifting from"
+       },
+       "words": 887,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_k8_brakes_t002_0bd79500",
+       "title": {
+        "ru": "START/STOP button is in the",
+        "en": "START/STOP button is in the"
+       },
+       "words": 1970,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_k8_brakes_t003_4f52609c",
+       "title": {
+        "ru": "WARNING - Maintaining",
+        "en": "WARNING - Maintaining"
+       },
+       "words": 1669,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_k8_brakes_t004_8ab91b95",
+       "title": {
+        "ru": "NAVIGATION-BASED SMART CRUISE CONTROL (NSCC)",
+        "en": "NAVIGATION-BASED SMART CRUISE CONTROL (NSCC)"
+       },
+       "words": 2351,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_k8_brakes_t005_d1910369",
+       "title": {
+        "ru": "HIGHWAY DRIVING ASSIST (HDA)",
+        "en": "HIGHWAY DRIVING ASSIST (HDA)"
+       },
+       "words": 1721,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_k8_brakes_t006_30da2130",
+       "title": {
+        "ru": "WARNING - Working on",
+        "en": "WARNING - Working on"
+       },
+       "words": 261,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "kia_k8_suspension_t000_12780197",
+       "title": {
+        "ru": "WARNING - Driver’s seat",
+        "en": "WARNING - Driver’s seat"
+       },
+       "words": 1409,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_k8_suspension_t001_159658f7",
+       "title": {
+        "ru": "START/STOP button changes to",
+        "en": "START/STOP button changes to"
+       },
+       "words": 1642,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_k8_suspension_t002_7fb9d4f1",
+       "title": {
+        "ru": "LANE KEEPING ASSIST (LKA)",
+        "en": "LANE KEEPING ASSIST (LKA)"
+       },
+       "words": 1549,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_k8_suspension_t003_e4462dfc",
+       "title": {
+        "ru": "With the ENGINE START/STOP but-",
+        "en": "With the ENGINE START/STOP but-"
+       },
+       "words": 2030,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_k8_suspension_t004_83e13ccc",
+       "title": {
+        "ru": "REAR CROSS-TRAFFIC COLLISION WARNING (RCCW) /",
+        "en": "REAR CROSS-TRAFFIC COLLISION WARNING (RCCW) /"
+       },
+       "words": 2151,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_k8_suspension_t005_f8612b07",
+       "title": {
+        "ru": "TIRE PRESSURE MONITORING SYSTEM (TPMS)",
+        "en": "TIRE PRESSURE MONITORING SYSTEM (TPMS)"
+       },
+       "words": 2122,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_k8_suspension_t006_a0378bf3",
+       "title": {
+        "ru": "WARNING - Installing a",
+        "en": "WARNING - Installing a"
+       },
+       "words": 1920,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_k8_suspension_t007_06f81ae0",
+       "title": {
+        "ru": "DOT XXXX XXXX 1620 represents",
+        "en": "DOT XXXX XXXX 1620 represents"
+       },
+       "words": 2068,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_k8_suspension_t008_a85f3f5f",
+       "title": {
+        "ru": "GAWR FRT: Gross Axle Weight",
+        "en": "GAWR FRT: Gross Axle Weight"
+       },
+       "words": 3424,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "kia_k8_transmission_t000_e43ecb8c",
+       "title": {
+        "ru": "CAUTION - Transmission",
+        "en": "CAUTION - Transmission"
+       },
+       "words": 449,
+       "images": 0,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "kia_k8_hvac_t000_0678e487",
+       "title": {
+        "ru": "When the “PASS AIR BAG “OFF””",
+        "en": "When the “PASS AIR BAG “OFF””"
+       },
+       "words": 1536,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_k8_hvac_t001_1d222013",
+       "title": {
+        "ru": "WINDSHIELD DEFROSTING AND DEFOGGING",
+        "en": "WINDSHIELD DEFROSTING AND DEFOGGING"
+       },
+       "words": 885,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "kia_k8_body_t000_2413d3f9",
+       "title": {
+        "ru": "WARNING - Luggage and",
+        "en": "WARNING - Luggage and"
+       },
+       "words": 1349,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_k8_body_t001_9cc9ac03",
+       "title": {
+        "ru": "WARNING - Skin Irritation",
+        "en": "WARNING - Skin Irritation"
+       },
+       "words": 1485,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_k8_body_t002_61b817d8",
+       "title": {
+        "ru": "You will find the PASSENGER AIR",
+        "en": "You will find the PASSENGER AIR"
+       },
+       "words": 1819,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_k8_body_t003_98b4f862",
+       "title": {
+        "ru": "WARNING - Exhaust",
+        "en": "WARNING - Exhaust"
+       },
+       "words": 2366,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_k8_body_t004_c324b8f8",
+       "title": {
+        "ru": "WARNING - Power win-",
+        "en": "WARNING - Power win-"
+       },
+       "words": 1659,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_k8_body_t005_3abed9c3",
+       "title": {
+        "ru": "SURROUND VIEW MONITORING (SVM) (IF EQUIPPED)",
+        "en": "SURROUND VIEW MONITORING (SVM) (IF EQUIPPED)"
+       },
+       "words": 1605,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_k8_body_t006_151a93a4",
+       "title": {
+        "ru": "IN CASE OF AN EMERGENCY WHILE DRIVING",
+        "en": "IN CASE OF AN EMERGENCY WHILE DRIVING"
+       },
+       "words": 1463,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_k8_body_t007_01eb73ea",
+       "title": {
+        "ru": "VEHICLE IDENTIFICATION NUMBER (VIN)",
+        "en": "VEHICLE IDENTIFICATION NUMBER (VIN)"
+       },
+       "words": 86,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "kia_k8_lighting_t000_be17a9ad",
+       "title": {
+        "ru": "CAUTION - Immobilizer",
+        "en": "CAUTION - Immobilizer"
+       },
+       "words": 1465,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_k8_lighting_t001_3df8f5eb",
+       "title": {
+        "ru": "FCA ON/OFF status on the LCD dis-",
+        "en": "FCA ON/OFF status on the LCD dis-"
+       },
+       "words": 1614,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_k8_lighting_t002_c9461cca",
+       "title": {
+        "ru": "WARNING - Emergency",
+        "en": "WARNING - Emergency"
+       },
+       "words": 2348,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_k8_lighting_t003_02a0d217",
+       "title": {
+        "ru": "Lambda II 3.3L GDI",
+        "en": "Lambda II 3.3L GDI"
+       },
+       "words": 760,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "kia_k8_adas_t000_8fd9a81e",
+       "title": {
+        "ru": "REVERSE PARKING DISTANCE WARNING (PDW)",
+        "en": "REVERSE PARKING DISTANCE WARNING (PDW)"
+       },
+       "words": 1974,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_k8_adas_t001_0bd41def",
+       "title": {
+        "ru": "FORWARD COLLISION-AVOIDANCE ASSIST (FCA) (SENSOR FUSION) (IF EQUIPPED)",
+        "en": "FORWARD COLLISION-AVOIDANCE ASSIST (FCA) (SENSOR FUSION) (IF EQUIPPED)"
+       },
+       "words": 3575,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_k8_adas_t002_abd4d6e0",
+       "title": {
+        "ru": "OJF055028",
+        "en": "OJF055028"
+       },
+       "words": 2620,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_k8_adas_t003_3a87d75e",
+       "title": {
+        "ru": "START/STOP button to the ON",
+        "en": "START/STOP button to the ON"
+       },
+       "words": 1802,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_k8_adas_t004_b5369ddd",
+       "title": {
+        "ru": "Turn off BCW, BCA and RCCA",
+        "en": "Turn off BCW, BCA and RCCA"
+       },
+       "words": 1267,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "kia_k8_interior_t000_9df909ad",
+       "title": {
+        "ru": "VEHICLE DATA COLLECTION AND EVENT DATA RECORDERS",
+        "en": "VEHICLE DATA COLLECTION AND EVENT DATA RECORDERS"
+       },
+       "words": 721,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "kia_k8_general_t000_93751ab8",
+       "title": {
+        "ru": "CAUTION - Automatic",
+        "en": "CAUTION - Automatic"
+       },
+       "words": 1310,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_k8_general_t001_7376de21",
+       "title": {
+        "ru": "CAUTION - Drying vehicle",
+        "en": "CAUTION - Drying vehicle"
+       },
+       "words": 3129,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "ev_battery",
+     "title": {
+      "ru": "ev_battery",
+      "en": "ev_battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_k8_ev_battery_t000_a58a7ece",
+       "title": {
+        "ru": "WARNING - Folded",
+        "en": "WARNING - Folded"
+       },
+       "words": 1336,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t001_2c1601cc",
+       "title": {
+        "ru": "WARNING - Shoulder Belt",
+        "en": "WARNING - Shoulder Belt"
+       },
+       "words": 1938,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t002_bca374b3",
+       "title": {
+        "ru": "SENGER AIR BAG “OFF” indicator",
+        "en": "SENGER AIR BAG “OFF” indicator"
+       },
+       "words": 5323,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t003_58175fae",
+       "title": {
+        "ru": "WARNING - Portable fuel",
+        "en": "WARNING - Portable fuel"
+       },
+       "words": 1625,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t004_d9a5bee4",
+       "title": {
+        "ru": "ENGINE START/STOP button is in",
+        "en": "ENGINE START/STOP button is in"
+       },
+       "words": 1155,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t005_a8f7eb1e",
+       "title": {
+        "ru": "CAUTION - Wipers &",
+        "en": "CAUTION - Wipers &"
+       },
+       "words": 2100,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t006_06aaf1a9",
+       "title": {
+        "ru": "WARNING - Driving while",
+        "en": "WARNING - Driving while"
+       },
+       "words": 3761,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t007_8d65631d",
+       "title": {
+        "ru": "Press the ENGINE START/STOP",
+        "en": "Press the ENGINE START/STOP"
+       },
+       "words": 1133,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t008_669bdbb6",
+       "title": {
+        "ru": "DRIVER ATTENTION WARNING (DAW)",
+        "en": "DRIVER ATTENTION WARNING (DAW)"
+       },
+       "words": 1784,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t009_6f85c20e",
+       "title": {
+        "ru": "CAUTION - Push/pull start",
+        "en": "CAUTION - Push/pull start"
+       },
+       "words": 1531,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t010_855cc2e3",
+       "title": {
+        "ru": "WARNING - Recharging",
+        "en": "WARNING - Recharging"
+       },
+       "words": 1022,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t011_fb1371ae",
+       "title": {
+        "ru": "CAUTION - Electrical",
+        "en": "CAUTION - Electrical"
+       },
+       "words": 1575,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_k8_ev_battery_t012_072e3071",
+       "title": {
+        "ru": "ELECTRICAL EQUIPMENT (U.S. ONLY)",
+        "en": "ELECTRICAL EQUIPMENT (U.S. ONLY)"
+       },
+       "words": 1245,
+       "images": 0,
+       "section_id": "ev_battery"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_k8_safety_t000_fbb1ced5",
+       "title": {
+        "ru": "WARNING - Seat Belt Use",
+        "en": "WARNING - Seat Belt Use"
+       },
+       "words": 1904,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_k8_safety_t001_2de41130",
+       "title": {
+        "ru": "WARNING - ODS System",
+        "en": "WARNING - ODS System"
+       },
+       "words": 1096,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_k8_infotainment_t000_3114e044",
+       "title": {
+        "ru": "MODULE 2",
+        "en": "MODULE 2"
+       },
+       "words": 1741,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

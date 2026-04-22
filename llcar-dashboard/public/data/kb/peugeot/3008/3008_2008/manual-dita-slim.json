@@ -1,0 +1,1185 @@
+{
+ "version": "1.0",
+ "model": "3008",
+ "manuals": [
+  {
+   "model": "3008",
+   "label": {
+    "ru": "Peugeot 3008 — Руководство по ремонту",
+    "en": "Peugeot 3008 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "peugeot_3008_brakes_t000_542bf773",
+       "title": {
+        "ru": "Anti-lock braking system (ABS) and electronic brake force distribution (EBFD)",
+        "en": "Anti-lock braking system (ABS) and electronic brake force distribution (EBFD)"
+       },
+       "words": 1153,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "peugeot_3008_brakes_t001_55e13f4f",
+       "title": {
+        "ru": "Conditions for operation Operation",
+        "en": "Conditions for operation Operation"
+       },
+       "words": 2006,
+       "images": 12,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "peugeot_3008_electrical_t000_6418cdb4",
+       "title": {
+        "ru": "Changing a fuse",
+        "en": "Changing a fuse"
+       },
+       "words": 522,
+       "images": 1,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "peugeot_3008_transmission_t000_c78243b9",
+       "title": {
+        "ru": "Version with ​Keyless Entry and Starting",
+        "en": "Version with ​Keyless Entry and Starting"
+       },
+       "words": 1219,
+       "images": 6,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "peugeot_3008_body_t000_fb87157a",
+       "title": {
+        "ru": "Remote control General information",
+        "en": "Remote control General information"
+       },
+       "words": 741,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "peugeot_3008_body_t001_810e60c6",
+       "title": {
+        "ru": "Selective unlocking and opening of the tailgate",
+        "en": "Selective unlocking and opening of the tailgate"
+       },
+       "words": 1092,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "peugeot_3008_body_t002_0ad08697",
+       "title": {
+        "ru": "When locking deadlocking from the outside",
+        "en": "When locking deadlocking from the outside"
+       },
+       "words": 506,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "peugeot_3008_body_t003_60ee38f8",
+       "title": {
+        "ru": "Locking the vehicle without activating the alarm",
+        "en": "Locking the vehicle without activating the alarm"
+       },
+       "words": 790,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "peugeot_3008_body_t004_9010740d",
+       "title": {
+        "ru": "Automatic guide-me-home lighting",
+        "en": "Automatic guide-me-home lighting"
+       },
+       "words": 728,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "peugeot_3008_body_t005_389f1ae5",
+       "title": {
+        "ru": "Automatic exterior welcome lighting",
+        "en": "Automatic exterior welcome lighting"
+       },
+       "words": 1424,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "peugeot_3008_body_t006_557aaef1",
+       "title": {
+        "ru": "Active Blind Spot Monitoring System",
+        "en": "Active Blind Spot Monitoring System"
+       },
+       "words": 1389,
+       "images": 13,
+       "section_id": "body"
+      },
+      {
+       "id": "peugeot_3008_body_t007_5771da9d",
+       "title": {
+        "ru": "Telephone",
+        "en": "Telephone"
+       },
+       "words": 778,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "peugeot_3008_steering_t000_4a65cb4c",
+       "title": {
+        "ru": "Voice commands:",
+        "en": "Voice commands:"
+       },
+       "words": 241,
+       "images": 2,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "fuel_ev",
+     "title": {
+      "ru": "Топливная / ВВ система",
+      "en": "Fuel / HV System"
+     },
+     "icon": "⛽",
+     "topics": [
+      {
+       "id": "peugeot_3008_fuel_ev_t000_f5b0aa63",
+       "title": {
+        "ru": "Observe the recommendations on maintenance",
+        "en": "Observe the recommendations on maintenance"
+       },
+       "words": 1249,
+       "images": 4,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "peugeot_3008_fuel_ev_t001_73f2d12c",
+       "title": {
+        "ru": "With 1.6 BlueHDi and 2.0 BlueHDi 150 S&S engines",
+        "en": "With 1.6 BlueHDi and 2.0 BlueHDi 150 S&S engines"
+       },
+       "words": 796,
+       "images": 1,
+       "section_id": "fuel_ev"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "peugeot_3008_lighting_t000_a6448bd0",
+       "title": {
+        "ru": "Selection of main lighting mode",
+        "en": "Selection of main lighting mode"
+       },
+       "words": 839,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_3008_lighting_t001_bf2f02c3",
+       "title": {
+        "ru": "Switching off the lamps when the ignition is switched off",
+        "en": "Switching off the lamps when the ignition is switched off"
+       },
+       "words": 645,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_3008_lighting_t002_aab7c3fa",
+       "title": {
+        "ru": "Deactivating the front passenger airbag",
+        "en": "Deactivating the front passenger airbag"
+       },
+       "words": 734,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_3008_lighting_t003_8669b87c",
+       "title": {
+        "ru": "The system must not be activated in the following situations:",
+        "en": "The system must not be activated in the following situations:"
+       },
+       "words": 1950,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_3008_lighting_t004_e9f21f36",
+       "title": {
+        "ru": "Model with halogen headlamps",
+        "en": "Model with halogen headlamps"
+       },
+       "words": 235,
+       "images": 2,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "peugeot_3008_adas_t000_8bf9dcaf",
+       "title": {
+        "ru": "Versions fitted with an automatic gearbox",
+        "en": "Versions fitted with an automatic gearbox"
+       },
+       "words": 1191,
+       "images": 5,
+       "section_id": "adas"
+      },
+      {
+       "id": "peugeot_3008_adas_t001_d1103778",
+       "title": {
+        "ru": "Recommendations on care",
+        "en": "Recommendations on care"
+       },
+       "words": 419,
+       "images": 2,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "peugeot_3008_interior_t000_f6e11e18",
+       "title": {
+        "ru": "For the airbags to be fully effective, observe the safety recommendations below.",
+        "en": "For the airbags to be fully effective, observe the safety recommendations below."
+       },
+       "words": 805,
+       "images": 2,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "peugeot_3008_general_t000_12fdc0cc",
+       "title": {
+        "ru": "Control the use of your electrical equipment",
+        "en": "Control the use of your electrical equipment"
+       },
+       "words": 782,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t001_666026e5",
+       "title": {
+        "ru": "Customisation of the instrument panel",
+        "en": "Customisation of the instrument panel"
+       },
+       "words": 688,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t002_b0583a80",
+       "title": {
+        "ru": "Resetting the service indicator Retrieving the service information",
+        "en": "Resetting the service indicator Retrieving the service information"
+       },
+       "words": 608,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t003_08f7409d",
+       "title": {
+        "ru": "Remaining range less than 60 miles (100 km) (with 1.5 BlueHDi 130 S&S and 2.0 Bl",
+        "en": "Remaining range less than 60 miles (100 km) (with 1.5 BlueHDi 130 S&S and 2.0 Bl"
+       },
+       "words": 762,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t004_499db833",
+       "title": {
+        "ru": "Instrument panel ambient lighting Version with touch screen",
+        "en": "Instrument panel ambient lighting Version with touch screen"
+       },
+       "words": 474,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t005_519172cd",
+       "title": {
+        "ru": "Monochrome screen C Displays",
+        "en": "Monochrome screen C Displays"
+       },
+       "words": 400,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t006_d57c22a4",
+       "title": {
+        "ru": "Settings PEUGEOT Connect Nav",
+        "en": "Settings PEUGEOT Connect Nav"
+       },
+       "words": 576,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t007_be743f99",
+       "title": {
+        "ru": "Complete unlocking locking of the vehicle with the key",
+        "en": "Complete unlocking locking of the vehicle with the key"
+       },
+       "words": 427,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t008_fc011627",
+       "title": {
+        "ru": "Deactivating the interior volumetric and anti-tilt monitoring",
+        "en": "Deactivating the interior volumetric and anti-tilt monitoring"
+       },
+       "words": 359,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t009_07967ec4",
+       "title": {
+        "ru": "Reactivating the interior volumetric and anti-tilt monitoring",
+        "en": "Reactivating the interior volumetric and anti-tilt monitoring"
+       },
+       "words": 648,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t010_061d8cce",
+       "title": {
+        "ru": "Automatic locking using the \"Hands-Free Tailgate Access\" function",
+        "en": "Automatic locking using the \"Hands-Free Tailgate Access\" function"
+       },
+       "words": 566,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t011_1988c4e2",
+       "title": {
+        "ru": "Recommendations related to the \"Hands-Free Tailgate Access\" function",
+        "en": "Recommendations related to the \"Hands-Free Tailgate Access\" function"
+       },
+       "words": 934,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t012_9b8d43bf",
+       "title": {
+        "ru": "Operating the sunroof blind",
+        "en": "Operating the sunroof blind"
+       },
+       "words": 707,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t013_90c0ab19",
+       "title": {
+        "ru": "Placing the passenger seat in the table position",
+        "en": "Placing the passenger seat in the table position"
+       },
+       "words": 715,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t014_b9681960",
+       "title": {
+        "ru": "Automatic tilting in reverse gear",
+        "en": "Automatic tilting in reverse gear"
+       },
+       "words": 732,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t015_91158150",
+       "title": {
+        "ru": "Returning the backrests to their original position",
+        "en": "Returning the backrests to their original position"
+       },
+       "words": 551,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t016_cc7ed687",
+       "title": {
+        "ru": "Recommendations for ventilation and air conditioning",
+        "en": "Recommendations for ventilation and air conditioning"
+       },
+       "words": 848,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t017_6ec51748",
+       "title": {
+        "ru": "Semi-automatic monozone air conditioning",
+        "en": "Semi-automatic monozone air conditioning"
+       },
+       "words": 438,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t018_9ad1b803",
+       "title": {
+        "ru": "Automatic dual-zone air conditioning",
+        "en": "Automatic dual-zone air conditioning"
+       },
+       "words": 863,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t019_aa2a82eb",
+       "title": {
+        "ru": "Recirculation of the interior air",
+        "en": "Recirculation of the interior air"
+       },
+       "words": 747,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t020_bbe34496",
+       "title": {
+        "ru": "With semi-automatic and automatic air conditioning",
+        "en": "With semi-automatic and automatic air conditioning"
+       },
+       "words": 521,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t021_ae145469",
+       "title": {
+        "ru": "Cigarette lighter/12 V accessory socket(s)",
+        "en": "Cigarette lighter/12 V accessory socket(s)"
+       },
+       "words": 682,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t022_efd3fd23",
+       "title": {
+        "ru": "FOCAL® premium Hi-Fi system",
+        "en": "FOCAL® premium Hi-Fi system"
+       },
+       "words": 593,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t023_f1352d52",
+       "title": {
+        "ru": "Front and rear map reading lamps",
+        "en": "Front and rear map reading lamps"
+       },
+       "words": 583,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t024_902b46ee",
+       "title": {
+        "ru": "Boot floor (2 positions)",
+        "en": "Boot floor (2 positions)"
+       },
+       "words": 580,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t025_d571acb5",
+       "title": {
+        "ru": "Automatic adjustment of \"Full LED\" technology headlamps",
+        "en": "Automatic adjustment of \"Full LED\" technology headlamps"
+       },
+       "words": 560,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t026_ad050234",
+       "title": {
+        "ru": "Automatic illumination of headlamps",
+        "en": "Automatic illumination of headlamps"
+       },
+       "words": 442,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t027_4b1e7f8b",
+       "title": {
+        "ru": "Special position of the windscreen wipers",
+        "en": "Special position of the windscreen wipers"
+       },
+       "words": 594,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t028_7c30d0d1",
+       "title": {
+        "ru": "Installation of accessory radio communication transmitters",
+        "en": "Installation of accessory radio communication transmitters"
+       },
+       "words": 647,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t029_aada9fc4",
+       "title": {
+        "ru": "For Russia, Belarus and Kazakhstan.",
+        "en": "For Russia, Belarus and Kazakhstan."
+       },
+       "words": 558,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t030_77931ea9",
+       "title": {
+        "ru": "All terrain (mud, damp grass, etc.)",
+        "en": "All terrain (mud, damp grass, etc.)"
+       },
+       "words": 825,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t031_525a1848",
+       "title": {
+        "ru": "Seat belts not fastened/unfastened identification warning lamp",
+        "en": "Seat belts not fastened/unfastened identification warning lamp"
+       },
+       "words": 398,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t032_44ed81b9",
+       "title": {
+        "ru": "The airbags do not operate when the ignition is switched off.",
+        "en": "The airbags do not operate when the ignition is switched off."
+       },
+       "words": 689,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t033_37819144",
+       "title": {
+        "ru": "Child seat at the front \"Rearward facing\"",
+        "en": "Child seat at the front \"Rearward facing\""
+       },
+       "words": 718,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t034_bde5f68a",
+       "title": {
+        "ru": "Locations for child seats secured using the seat belt",
+        "en": "Locations for child seats secured using the seat belt"
+       },
+       "words": 978,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t035_36480c69",
+       "title": {
+        "ru": "Locations for i-Size child seats",
+        "en": "Locations for i-Size child seats"
+       },
+       "words": 1021,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t036_36c90e90",
+       "title": {
+        "ru": "Switching the ignition on (without starting)",
+        "en": "Switching the ignition on (without starting)"
+       },
+       "words": 919,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t037_1a3cf4f0",
+       "title": {
+        "ru": "Immobilisation of the vehicle with the engine running",
+        "en": "Immobilisation of the vehicle with the engine running"
+       },
+       "words": 742,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t038_4119ead4",
+       "title": {
+        "ru": "Parking the vehicle with the brake released",
+        "en": "Parking the vehicle with the brake released"
+       },
+       "words": 738,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t039_351f9991",
+       "title": {
+        "ru": "Special aspects of automatic mode",
+        "en": "Special aspects of automatic mode"
+       },
+       "words": 965,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t040_0df6a9e0",
+       "title": {
+        "ru": "Special cases: START mode triggered automatically",
+        "en": "Special cases: START mode triggered automatically"
+       },
+       "words": 713,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t041_a58dbdc2",
+       "title": {
+        "ru": "With the button on the touch screen",
+        "en": "With the button on the touch screen"
+       },
+       "words": 743,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t042_1286e4f7",
+       "title": {
+        "ru": "Recognition of speed limit signs and recommendation",
+        "en": "Recognition of speed limit signs and recommendation"
+       },
+       "words": 800,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t043_fb77f506",
+       "title": {
+        "ru": "Temporarily exceeding the programmed speed",
+        "en": "Temporarily exceeding the programmed speed"
+       },
+       "words": 867,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t044_3069190e",
+       "title": {
+        "ru": "Temporarily exceeding the programmed speed",
+        "en": "Temporarily exceeding the programmed speed"
+       },
+       "words": 1027,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t045_2e0af5a5",
+       "title": {
+        "ru": "Cases where the driver is encouraged to take back control immediately:",
+        "en": "Cases where the driver is encouraged to take back control immediately:"
+       },
+       "words": 474,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t046_db55112a",
+       "title": {
+        "ru": "Intelligent emergency braking assistance",
+        "en": "Intelligent emergency braking assistance"
+       },
+       "words": 776,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t047_2ba61984",
+       "title": {
+        "ru": "Driving situations and associated alerts",
+        "en": "Driving situations and associated alerts"
+       },
+       "words": 605,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t048_14fbee57",
+       "title": {
+        "ru": "Conditions for operation",
+        "en": "Conditions for operation"
+       },
+       "words": 670,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t049_a120ea14",
+       "title": {
+        "ru": "F Select Panoramic visual aid\".",
+        "en": "F Select Panoramic visual aid\"."
+       },
+       "words": 564,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t050_00382c5f",
+       "title": {
+        "ru": "Assistance in exiting from a parallel parking space",
+        "en": "Assistance in exiting from a parallel parking space"
+       },
+       "words": 1226,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t051_8b2a0986",
+       "title": {
+        "ru": "Vehicle equipped with motorised tailgate with \"Hands-Free Tailgate Access\" funct",
+        "en": "Vehicle equipped with motorised tailgate with \"Hands-Free Tailgate Access\" funct"
+       },
+       "words": 875,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t052_35a4869f",
+       "title": {
+        "ru": "Very cold climate screen",
+        "en": "Very cold climate screen"
+       },
+       "words": 767,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t053_f954978e",
+       "title": {
+        "ru": "Fitting on longitudinal bars",
+        "en": "Fitting on longitudinal bars"
+       },
+       "words": 738,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t054_6db8dc11",
+       "title": {
+        "ru": "Diesel fuel additive level (Diesel with particle filter)",
+        "en": "Diesel fuel additive level (Diesel with particle filter)"
+       },
+       "words": 732,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t055_4150a9eb",
+       "title": {
+        "ru": "Filter, passenger compartment",
+        "en": "Filter, passenger compartment"
+       },
+       "words": 473,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t056_fe6bcb8a",
+       "title": {
+        "ru": "Running out of fuel (Diesel)",
+        "en": "Running out of fuel (Diesel)"
+       },
+       "words": 788,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t057_0c72a7bc",
+       "title": {
+        "ru": "For versions with a temporary puncture repair kit:",
+        "en": "For versions with a temporary puncture repair kit:"
+       },
+       "words": 900,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t058_d333e735",
+       "title": {
+        "ru": "Fitting a steel or space-saver\" spare wheel",
+        "en": "Fitting a steel or space-saver\" spare wheel"
+       },
+       "words": 875,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t059_3c543954",
+       "title": {
+        "ru": "Changing dipped beam headlamp bulbs (on models with halogen headlamps)",
+        "en": "Changing dipped beam headlamp bulbs (on models with halogen headlamps)"
+       },
+       "words": 684,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t060_e666d4b4",
+       "title": {
+        "ru": "Charging the battery using a battery charger",
+        "en": "Charging the battery using a battery charger"
+       },
+       "words": 1007,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t061_df68f610",
+       "title": {
+        "ru": "Following reconnection of the battery",
+        "en": "Following reconnection of the battery"
+       },
+       "words": 740,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t062_5287b531",
+       "title": {
+        "ru": "D. Tyres paint code label.",
+        "en": "D. Tyres paint code label."
+       },
+       "words": 799,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t063_c18e9c8c",
+       "title": {
+        "ru": "Information – Using the system Global voice commands",
+        "en": "Information – Using the system Global voice commands"
+       },
+       "words": 823,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t064_4863d6d1",
+       "title": {
+        "ru": "Towards points of interest (POI)",
+        "en": "Towards points of interest (POI)"
+       },
+       "words": 442,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t065_8d3cc219",
+       "title": {
+        "ru": "Network connection provided by the vehicle",
+        "en": "Network connection provided by the vehicle"
+       },
+       "words": 620,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t066_c77f9c1f",
+       "title": {
+        "ru": "MirrorLinkTM smartphone connection",
+        "en": "MirrorLinkTM smartphone connection"
+       },
+       "words": 789,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t067_63cfb69d",
+       "title": {
+        "ru": "Activating Deactivating RDS",
+        "en": "Activating Deactivating RDS"
+       },
+       "words": 677,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t068_930eaa3d",
+       "title": {
+        "ru": "Display text information Play TA messages",
+        "en": "Display text information Play TA messages"
+       },
+       "words": 919,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t069_696ee8c6",
+       "title": {
+        "ru": "Pairing a Bluetooth® telephone",
+        "en": "Pairing a Bluetooth® telephone"
+       },
+       "words": 516,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t070_d7033818",
+       "title": {
+        "ru": "Calling a recently used number",
+        "en": "Calling a recently used number"
+       },
+       "words": 467,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t071_d2e7a3bb",
+       "title": {
+        "ru": "Modifying system settings",
+        "en": "Modifying system settings"
+       },
+       "words": 623,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t072_688b90de",
+       "title": {
+        "ru": "Steering mounted controls – Type 2",
+        "en": "Steering mounted controls – Type 2"
+       },
+       "words": 716,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t073_d66ed331",
+       "title": {
+        "ru": "Selecting a station",
+        "en": "Selecting a station"
+       },
+       "words": 259,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t074_7c0d6dd5",
+       "title": {
+        "ru": "Activating Deactivating RDS",
+        "en": "Activating Deactivating RDS"
+       },
+       "words": 864,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t075_6580885d",
+       "title": {
+        "ru": "Connecting Apple® players Information and advice",
+        "en": "Connecting Apple® players Information and advice"
+       },
+       "words": 1249,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t076_d3f7c66d",
+       "title": {
+        "ru": "Procedure from the system Automatic reconnection",
+        "en": "Procedure from the system Automatic reconnection"
+       },
+       "words": 611,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t077_3b2807ba",
+       "title": {
+        "ru": "Settings Profile settings",
+        "en": "Settings Profile settings"
+       },
+       "words": 459,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t078_ddeb4f56",
+       "title": {
+        "ru": "SRCII Other than telephone call:",
+        "en": "SRCII Other than telephone call:"
+       },
+       "words": 547,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t079_a20cf7c1",
+       "title": {
+        "ru": "Steering mounted controls – Type 2",
+        "en": "Steering mounted controls – Type 2"
+       },
+       "words": 538,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t080_631853c3",
+       "title": {
+        "ru": "DAB (Digital Audio Broadcasting) radio",
+        "en": "DAB (Digital Audio Broadcasting) radio"
+       },
+       "words": 771,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t081_172abf62",
+       "title": {
+        "ru": "Pairing a Bluetooth® telephone",
+        "en": "Pairing a Bluetooth® telephone"
+       },
+       "words": 898,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t082_8099bbc4",
+       "title": {
+        "ru": "Procedure from the telephone Completing the pairing",
+        "en": "Procedure from the telephone Completing the pairing"
+       },
+       "words": 581,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_3008_general_t083_cd6ea0bd",
+       "title": {
+        "ru": "Interactive voice response",
+        "en": "Interactive voice response"
+       },
+       "words": 344,
+       "images": 7,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

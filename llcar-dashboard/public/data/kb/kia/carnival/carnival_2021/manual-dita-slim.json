@@ -1,0 +1,3125 @@
+{
+ "version": "1.0",
+ "model": "carnival_2021",
+ "manuals": [
+  {
+   "model": "carnival_2021",
+   "label": {
+    "ru": "Kia carnival_2021 — Руководство по ремонту",
+    "en": "Kia carnival_2021 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_engine_t001_2124a484",
+       "title": {
+        "ru": "Использование дистанционного ключа",
+        "en": "Использование дистанционного ключа"
+       },
+       "words": 328,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t002_9223c1ee",
+       "title": {
+        "ru": "Капот",
+        "en": "Капот"
+       },
+       "words": 424,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t003_a5104d24",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 283,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t004_0b5edc81",
+       "title": {
+        "ru": "Индикатор низкого давления масла",
+        "en": "Индикатор низкого давления масла"
+       },
+       "words": 271,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t005_ef578588",
+       "title": {
+        "ru": "Индикаторная лампа задней противотуманной фары (при наличии)",
+        "en": "Индикаторная лампа задней противотуманной фары (при наличии)"
+       },
+       "words": 401,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t006_e449ff2e",
+       "title": {
+        "ru": "Start (Запуск) (4)",
+        "en": "Start (Запуск) (4)"
+       },
+       "words": 301,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t007_462b6970",
+       "title": {
+        "ru": "АПредостережение",
+        "en": "АПредостережение"
+       },
+       "words": 478,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t008_98c4e134",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 300,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t009_ecae9090",
+       "title": {
+        "ru": "Кнопка «Engine Start/Stop» (Запуск/ Остановка Двигателя)",
+        "en": "Кнопка «Engine Start/Stop» (Запуск/ Остановка Двигателя)"
+       },
+       "words": 317,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t011_51bd607e",
+       "title": {
+        "ru": "Если двигатель не заводится. .. 7-5",
+        "en": "Если двигатель не заводится. .. 7-5"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t012_27be8523",
+       "title": {
+        "ru": "Перегрев двигателя",
+        "en": "Перегрев двигателя"
+       },
+       "words": 397,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t013_ca8c1ecf",
+       "title": {
+        "ru": "Дизельный двигатель Smartstream D2",
+        "en": "Дизельный двигатель Smartstream D2"
+       },
+       "words": 324,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t014_b153bbb8",
+       "title": {
+        "ru": "Топливный фильтр (бензиновый двигатель)",
+        "en": "Топливный фильтр (бензиновый двигатель)"
+       },
+       "words": 316,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t015_2d966db2",
+       "title": {
+        "ru": "Проверка уровня моторного масла",
+        "en": "Проверка уровня моторного масла"
+       },
+       "words": 267,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t017_51d6a5e0",
+       "title": {
+        "ru": "Снятие крышки с бачка охлаждающей жидкости двигателя",
+        "en": "Снятие крышки с бачка охлаждающей жидкости двигателя"
+       },
+       "words": 420,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t018_33ebcb09",
+       "title": {
+        "ru": "Панель с предохранителями в моторном отсеке (крышка клемм аккумулятора)",
+        "en": "Панель с предохранителями в моторном отсеке (крышка клемм аккумулятора)"
+       },
+       "words": 302,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_carnival_2021_engine_t019_b5c44cd0",
+       "title": {
+        "ru": "Номер двигателя",
+        "en": "Номер двигателя"
+       },
+       "words": 232,
+       "images": 2,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_brakes_t000_676e8966",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 334,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t001_7e8f3d8c",
+       "title": {
+        "ru": "Индикатор системы электронного распределения тормозного усилия",
+        "en": "Индикатор системы электронного распределения тормозного усилия"
+       },
+       "words": 283,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t002_55d2ad86",
+       "title": {
+        "ru": "Запуск бензинового двигателя",
+        "en": "Запуск бензинового двигателя"
+       },
+       "words": 351,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t003_b48e91d5",
+       "title": {
+        "ru": "A Предупреждение",
+        "en": "A Предупреждение"
+       },
+       "words": 769,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t004_6366e9ef",
+       "title": {
+        "ru": "Парковка",
+        "en": "Парковка"
+       },
+       "words": 374,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t005_7c80da5b",
+       "title": {
+        "ru": "Педаль тормоза",
+        "en": "Педаль тормоза"
+       },
+       "words": 300,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t006_3364f558",
+       "title": {
+        "ru": "Износ тормозов",
+        "en": "Износ тормозов"
+       },
+       "words": 284,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t007_f8f6d049",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 370,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t008_f9c88b6f",
+       "title": {
+        "ru": "Экстренное торможение с помощью переключателя ЕРВ",
+        "en": "Экстренное торможение с помощью переключателя ЕРВ"
+       },
+       "words": 461,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t009_454036b6",
+       "title": {
+        "ru": "Антиблокировочная тормозная система (ABS)",
+        "en": "Антиблокировочная тормозная система (ABS)"
+       },
+       "words": 844,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t010_b7ed8f6e",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 307,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t012_d9dad342",
+       "title": {
+        "ru": "Повреждения из-за низкого давления",
+        "en": "Повреждения из-за низкого давления"
+       },
+       "words": 335,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t013_aceb6217",
+       "title": {
+        "ru": "Тормозные диски, колодки, суппорты и роторы",
+        "en": "Тормозные диски, колодки, суппорты и роторы"
+       },
+       "words": 403,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_carnival_2021_brakes_t014_4c4503fb",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_suspension_t000_0cde895a",
+       "title": {
+        "ru": "Сиденье второго ряда",
+        "en": "Сиденье второго ряда"
+       },
+       "words": 282,
+       "images": 4,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_carnival_2021_suspension_t001_17913b22",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 255,
+       "images": 2,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_carnival_2021_suspension_t002_848bd432",
+       "title": {
+        "ru": "Автоматическое открытие люка в крыше",
+        "en": "Автоматическое открытие люка в крыше"
+       },
+       "words": 749,
+       "images": 3,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_carnival_2021_suspension_t003_c2ce08ae",
+       "title": {
+        "ru": "Всплывающий индикатор переключения передач",
+        "en": "Всплывающий индикатор переключения передач"
+       },
+       "words": 410,
+       "images": 2,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_carnival_2021_suspension_t004_6df8982b",
+       "title": {
+        "ru": "Функция смены полосы движения одним касанием",
+        "en": "Функция смены полосы движения одним касанием"
+       },
+       "words": 287,
+       "images": 5,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_carnival_2021_suspension_t005_420f2f32",
+       "title": {
+        "ru": "Перемотка назад/вперед",
+        "en": "Перемотка назад/вперед"
+       },
+       "words": 209,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_carnival_2021_suspension_t006_e2590e67",
+       "title": {
+        "ru": "«Р» (парковка)",
+        "en": "«Р» (парковка)"
+       },
+       "words": 196,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_carnival_2021_suspension_t009_c481413d",
+       "title": {
+        "ru": "Меры предосторожности при аварийной буксировке",
+        "en": "Меры предосторожности при аварийной буксировке"
+       },
+       "words": 280,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_carnival_2021_suspension_t010_6072fc1e",
+       "title": {
+        "ru": "Тип В",
+        "en": "Тип В"
+       },
+       "words": 210,
+       "images": 6,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_hvac_t000_87ace6fc",
+       "title": {
+        "ru": "Вентиляция",
+        "en": "Вентиляция"
+       },
+       "words": 185,
+       "images": 6,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_body_t000_479615c3",
+       "title": {
+        "ru": "Обзор экстерьера",
+        "en": "Обзор экстерьера"
+       },
+       "words": 244,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t002_cd6313ca",
+       "title": {
+        "ru": "Дверь багажного отделения . ..4-48",
+        "en": "Дверь багажного отделения . ..4-48"
+       },
+       "words": 153,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t004_8fd45ef2",
+       "title": {
+        "ru": "Разблокировка/открывание двери багажного отделения (3)",
+        "en": "Разблокировка/открывание двери багажного отделения (3)"
+       },
+       "words": 553,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t005_1c5d4091",
+       "title": {
+        "ru": "Дверные замки",
+        "en": "Дверные замки"
+       },
+       "words": 397,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t006_b4d786cb",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 256,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t007_8d7b4c3f",
+       "title": {
+        "ru": "Сдвижная дверь с электроприводом (при наличии)",
+        "en": "Сдвижная дверь с электроприводом (при наличии)"
+       },
+       "words": 759,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t009_e029cccf",
+       "title": {
+        "ru": "Кнопка включения и выключения электропривода двери (при наличии)",
+        "en": "Кнопка включения и выключения электропривода двери (при наличии)"
+       },
+       "words": 272,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t010_98332c99",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 244,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t011_86896da7",
+       "title": {
+        "ru": "3. Автоматическое открывание",
+        "en": "3. Автоматическое открывание"
+       },
+       "words": 232,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t012_97dbbdc8",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 228,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t014_79b89627",
+       "title": {
+        "ru": "АПредостережение",
+        "en": "АПредостережение"
+       },
+       "words": 464,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t015_1004b2a2",
+       "title": {
+        "ru": "1. Настройка",
+        "en": "1. Настройка"
+       },
+       "words": 274,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t017_83cfc8f2",
+       "title": {
+        "ru": "2. Обнаружение и предупреждение",
+        "en": "2. Обнаружение и предупреждение"
+       },
+       "words": 326,
+       "images": 3,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t018_7d711ca1",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 375,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t019_a7f9f957",
+       "title": {
+        "ru": "АПредупреждение",
+        "en": "АПредупреждение"
+       },
+       "words": 447,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t021_57bc61f6",
+       "title": {
+        "ru": "Зеркала заднего вида",
+        "en": "Зеркала заднего вида"
+       },
+       "words": 209,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t022_4e0934d5",
+       "title": {
+        "ru": "4. Дверь",
+        "en": "4. Дверь"
+       },
+       "words": 282,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t023_34cb092f",
+       "title": {
+        "ru": "Меры предосторожности",
+        "en": "Меры предосторожности"
+       },
+       "words": 316,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t025_90e81023",
+       "title": {
+        "ru": "Форсунки стеклоомывателя с подогревом (при наличии)",
+        "en": "Форсунки стеклоомывателя с подогревом (при наличии)"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t027_0071f773",
+       "title": {
+        "ru": "Багажник на крыше (при наличии)",
+        "en": "Багажник на крыше (при наличии)"
+       },
+       "words": 605,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t029_c739ccc1",
+       "title": {
+        "ru": "Снятие запасного колеса",
+        "en": "Снятие запасного колеса"
+       },
+       "words": 436,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t030_f9a83d21",
+       "title": {
+        "ru": "Не реже одного раза в год выполните следующее",
+        "en": "Не реже одного раза в год выполните следующее"
+       },
+       "words": 348,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t031_1af816d7",
+       "title": {
+        "ru": "Замена щеток",
+        "en": "Замена щеток"
+       },
+       "words": 293,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t032_c627b1bd",
+       "title": {
+        "ru": "Замена лампы заднего указателя поворота (лампа накаливания)",
+        "en": "Замена лампы заднего указателя поворота (лампа накаливания)"
+       },
+       "words": 491,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_carnival_2021_body_t033_737f2551",
+       "title": {
+        "ru": "Этикетка хладагента",
+        "en": "Этикетка хладагента"
+       },
+       "words": 146,
+       "images": 1,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_steering_t000_d8a2edde",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 245,
+       "images": 1,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_carnival_2021_steering_t001_1d8dc84e",
+       "title": {
+        "ru": "Регулировка наклона и вылета рулевого колеса",
+        "en": "Регулировка наклона и вылета рулевого колеса"
+       },
+       "words": 359,
+       "images": 1,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_carnival_2021_steering_t002_da0eb96c",
+       "title": {
+        "ru": "Звуковой сигнал",
+        "en": "Звуковой сигнал"
+       },
+       "words": 185,
+       "images": 1,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_carnival_2021_steering_t003_48413fd6",
+       "title": {
+        "ru": "Аудиосистеем (бе сенсорного крана)",
+        "en": "Аудиосистеем (бе сенсорного крана)"
+       },
+       "words": 347,
+       "images": 1,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_carnival_2021_steering_t004_664e9fcb",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 202,
+       "images": 1,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_carnival_2021_steering_t005_a0e8dacd",
+       "title": {
+        "ru": "Режим «Sport» (Спортивный)",
+        "en": "Режим «Sport» (Спортивный)"
+       },
+       "words": 541,
+       "images": 4,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_carnival_2021_steering_t006_e6ef73be",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 785,
+       "images": 1,
+       "section_id": "steering"
+      },
+      {
+       "id": "kia_carnival_2021_steering_t007_60ccfc0b",
+       "title": {
+        "ru": "Не допускайте, чтобы под днищем автомобиля скапливался лед и снег",
+        "en": "Не допускайте, чтобы под днищем автомобиля скапливался лед и снег"
+       },
+       "words": 391,
+       "images": 3,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_lighting_t000_4473984f",
+       "title": {
+        "ru": "Предупреждение о непристегнутых ремнях безопасности",
+        "en": "Предупреждение о непристегнутых ремнях безопасности"
+       },
+       "words": 487,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t001_897c059b",
+       "title": {
+        "ru": "Режим общего предупреждения",
+        "en": "Режим общего предупреждения"
+       },
+       "words": 178,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t002_d05ad204",
+       "title": {
+        "ru": "Сигнальная лампа подушки безопасности",
+        "en": "Сигнальная лампа подушки безопасности"
+       },
+       "words": 416,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t003_e81f418f",
+       "title": {
+        "ru": "Индикаторная лампа неисправноСТИ (MIL",
+        "en": "Индикаторная лампа неисправноСТИ (MIL"
+       },
+       "words": 447,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t004_f62343c5",
+       "title": {
+        "ru": "Эта сигнальная лампа загорается в следующих случаях",
+        "en": "Эта сигнальная лампа загорается в следующих случаях"
+       },
+       "words": 491,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t005_1ec47330",
+       "title": {
+        "ru": "Индикаторные лампы",
+        "en": "Индикаторные лампы"
+       },
+       "words": 357,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t006_40e3a3c8",
+       "title": {
+        "ru": "При каких условиях этот световой индикатор загорается на 2 секунды и гаснет",
+        "en": "При каких условиях этот световой индикатор загорается на 2 секунды и гаснет"
+       },
+       "words": 255,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t007_0836881d",
+       "title": {
+        "ru": "Индикаторная лампа круиз-контроля (при наличии)",
+        "en": "Индикаторная лампа круиз-контроля (при наличии)"
+       },
+       "words": 207,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t008_a6e2385f",
+       "title": {
+        "ru": "Головные фары (ближний свет) MD",
+        "en": "Головные фары (ближний свет) MD"
+       },
+       "words": 452,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t009_5d5b4f6a",
+       "title": {
+        "ru": "Неисправность и ограничения",
+        "en": "Неисправность и ограничения"
+       },
+       "words": 518,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t010_62d098ee",
+       "title": {
+        "ru": "Лампа внутреннего освещения",
+        "en": "Лампа внутреннего освещения"
+       },
+       "words": 167,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t011_926525f1",
+       "title": {
+        "ru": "Солнцезащитный козырек",
+        "en": "Солнцезащитный козырек"
+       },
+       "words": 342,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t012_d33886e5",
+       "title": {
+        "ru": "Переключатель зажигания с подсветкой (при наличии)",
+        "en": "Переключатель зажигания с подсветкой (при наличии)"
+       },
+       "words": 537,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t014_a6c1fa15",
+       "title": {
+        "ru": "Работа функции",
+        "en": "Работа функции"
+       },
+       "words": 409,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t015_cc3e6fb6",
+       "title": {
+        "ru": "Аварийная световая сигнализация",
+        "en": "Аварийная световая сигнализация"
+       },
+       "words": 470,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t016_68ae445b",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 451,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t017_c3397ac2",
+       "title": {
+        "ru": "Замена лампы переднего указателя поворота (лампа накаливания)",
+        "en": "Замена лампы переднего указателя поворота (лампа накаливания)"
+       },
+       "words": 457,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t018_c7fdce76",
+       "title": {
+        "ru": "Замена задней противотуманной фары (лампа накаливания)",
+        "en": "Замена задней противотуманной фары (лампа накаливания)"
+       },
+       "words": 216,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_carnival_2021_lighting_t019_2a222a6f",
+       "title": {
+        "ru": "Замена лампы внутреннего освещения (светодиодной)",
+        "en": "Замена лампы внутреннего освещения (светодиодной)"
+       },
+       "words": 386,
+       "images": 5,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_interior_t000_e6f8d4c7",
+       "title": {
+        "ru": "Обзор салона",
+        "en": "Обзор салона"
+       },
+       "words": 474,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t001_3100f5bb",
+       "title": {
+        "ru": "Переднее сиденье",
+        "en": "Переднее сиденье"
+       },
+       "words": 158,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t002_6bd93f7f",
+       "title": {
+        "ru": "Сиденье третьего ряда",
+        "en": "Сиденье третьего ряда"
+       },
+       "words": 489,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t003_09a8157c",
+       "title": {
+        "ru": "Регулировка переднего сиденья с электроприводом (при наличии)",
+        "en": "Регулировка переднего сиденья с электроприводом (при наличии)"
+       },
+       "words": 181,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t004_1aed15f3",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 282,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t005_5dc8f629",
+       "title": {
+        "ru": "Повреждение пряжек ремней безопасности задних сидений",
+        "en": "Повреждение пряжек ремней безопасности задних сидений"
+       },
+       "words": 419,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t006_4f03c8d0",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 545,
+       "images": 13,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t007_4c23869b",
+       "title": {
+        "ru": "Складывание заднего сиденья (третьего ряда)",
+        "en": "Складывание заднего сиденья (третьего ряда)"
+       },
+       "words": 560,
+       "images": 17,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t008_db72d6db",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 1064,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t010_662a63e4",
+       "title": {
+        "ru": "Чтобы отстегнуть ремень заднего центрального сиденья",
+        "en": "Чтобы отстегнуть ремень заднего центрального сиденья"
+       },
+       "words": 519,
+       "images": 15,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t012_2d2f251f",
+       "title": {
+        "ru": "Плечевые ремни безопасности для маленьких детей",
+        "en": "Плечевые ремни безопасности для маленьких детей"
+       },
+       "words": 325,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t013_d48991fe",
+       "title": {
+        "ru": "Типы детских автокресел",
+        "en": "Типы детских автокресел"
+       },
+       "words": 630,
+       "images": 6,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t014_0534d153",
+       "title": {
+        "ru": "Якорный ремень",
+        "en": "Якорный ремень"
+       },
+       "words": 663,
+       "images": 1,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t015_ce3d9301",
+       "title": {
+        "ru": "Подушка безопасности — система пассивной безопасности",
+        "en": "Подушка безопасности — система пассивной безопасности"
+       },
+       "words": 593,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t016_ff6017a4",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 1125,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t018_804c0f13",
+       "title": {
+        "ru": "Подушка безопасности — система пассивной безопасности",
+        "en": "Подушка безопасности — система пассивной безопасности"
+       },
+       "words": 550,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t019_89a58038",
+       "title": {
+        "ru": "При наличии датчика опрокидывания",
+        "en": "При наличии датчика опрокидывания"
+       },
+       "words": 667,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t023_668193db",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 346,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t024_d0259d06",
+       "title": {
+        "ru": "Проверка количества хладагента в кондиционере и масла в компресcope",
+        "en": "Проверка количества хладагента в кондиционере и масла в компресcope"
+       },
+       "words": 202,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t026_f67c82da",
+       "title": {
+        "ru": "С заднего сиденья",
+        "en": "С заднего сиденья"
+       },
+       "words": 331,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t027_9d776d7d",
+       "title": {
+        "ru": "\\* Примечание",
+        "en": "\\* Примечание"
+       },
+       "words": 338,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t028_592f6ad5",
+       "title": {
+        "ru": "С заднего сиденья",
+        "en": "С заднего сиденья"
+       },
+       "words": 733,
+       "images": 6,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t029_aa8fc504",
+       "title": {
+        "ru": "Принадлежности салона",
+        "en": "Принадлежности салона"
+       },
+       "words": 146,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t030_2a01354d",
+       "title": {
+        "ru": "Заднее сиденье",
+        "en": "Заднее сиденье"
+       },
+       "words": 235,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t031_d234ef5e",
+       "title": {
+        "ru": "Работа системы",
+        "en": "Работа системы"
+       },
+       "words": 303,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t032_ee773b8b",
+       "title": {
+        "ru": "Устройство ЭРА-ГЛОНАСС",
+        "en": "Устройство ЭРА-ГЛОНАСС"
+       },
+       "words": 404,
+       "images": 7,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t033_f27c440d",
+       "title": {
+        "ru": "Сброс настроек элементов",
+        "en": "Сброс настроек элементов"
+       },
+       "words": 214,
+       "images": 1,
+       "section_id": "interior"
+      },
+      {
+       "id": "kia_carnival_2021_interior_t034_c22901dc",
+       "title": {
+        "ru": "Подушка безопасности",
+        "en": "Подушка безопасности"
+       },
+       "words": 20,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_ev_t000_2eed80f1",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 173,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_carnival_2021_ev_t002_4b3ec459",
+       "title": {
+        "ru": "2. Обнаружение и предупреждение",
+        "en": "2. Обнаружение и предупреждение"
+       },
+       "words": 455,
+       "images": 4,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_carnival_2021_ev_t003_6fb60662",
+       "title": {
+        "ru": "Разряжен аккумулятор в ключе (для системы интеллектуального доступа)",
+        "en": "Разряжен аккумулятор в ключе (для системы интеллектуального доступа)"
+       },
+       "words": 281,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_carnival_2021_ev_t004_31abb002",
+       "title": {
+        "ru": "Зарядное устройство USB (при наличии)",
+        "en": "Зарядное устройство USB (при наличии)"
+       },
+       "words": 471,
+       "images": 5,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_carnival_2021_ev_t005_add7d036",
+       "title": {
+        "ru": "Беспроводная зарядка смартфона",
+        "en": "Беспроводная зарядка смартфона"
+       },
+       "words": 493,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_carnival_2021_ev_t006_9a1e7aa4",
+       "title": {
+        "ru": "Во время работы",
+        "en": "Во время работы"
+       },
+       "words": 351,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_carnival_2021_ev_t007_0285b0d0",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 212,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_carnival_2021_ev_t008_f2680af6",
+       "title": {
+        "ru": "Аккумулятор",
+        "en": "Аккумулятор"
+       },
+       "words": 933,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_carnival_2021_ev_t009_cb2ec174",
+       "title": {
+        "ru": "Продление срока службы аккумулятора",
+        "en": "Продление срока службы аккумулятора"
+       },
+       "words": 388,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "kia_carnival_2021_ev_t011_cd15c236",
+       "title": {
+        "ru": "Аккумуляторная батарея",
+        "en": "Аккумуляторная батарея"
+       },
+       "words": 39,
+       "images": 1,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_general_t000_9400bd06",
+       "title": {
+        "ru": "Предисловие",
+        "en": "Предисловие"
+       },
+       "words": 438,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t001_0b9c1ac7",
+       "title": {
+        "ru": "Введение1",
+        "en": "Введение1"
+       },
+       "words": 309,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t002_d6bab6a3",
+       "title": {
+        "ru": "Бензин, содержащий этиловый и метиловый спирт",
+        "en": "Бензин, содержащий этиловый и метиловый спирт"
+       },
+       "words": 366,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t003_50c662bc",
+       "title": {
+        "ru": "Топливные присадки",
+        "en": "Топливные присадки"
+       },
+       "words": 472,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t004_152f2e29",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 738,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t008_74187291",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 521,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t009_d56e6d1d",
+       "title": {
+        "ru": "Ремни безопасности задних сидений",
+        "en": "Ремни безопасности задних сидений"
+       },
+       "words": 311,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t010_22c6b5bc",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 694,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t011_8641364e",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 193,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t012_1801f7a2",
+       "title": {
+        "ru": "Регулировка подлокотника",
+        "en": "Регулировка подлокотника"
+       },
+       "words": 496,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t013_e70f8441",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 1460,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t017_b96ea13f",
+       "title": {
+        "ru": "Проверка детского автокресла",
+        "en": "Проверка детского автокресла"
+       },
+       "words": 470,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t018_0d3bdd46",
+       "title": {
+        "ru": "Рекомендуемое автокресло для автомобиля в соответствии с нормами оон",
+        "en": "Рекомендуемое автокресло для автомобиля в соответствии с нормами оон"
+       },
+       "words": 265,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t019_5f311290",
+       "title": {
+        "ru": "Не размещать предметы вблизи подушек безопасности",
+        "en": "Не размещать предметы вблизи подушек безопасности"
+       },
+       "words": 279,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t020_c4540454",
+       "title": {
+        "ru": "Крышка заливной горловины топливного бака .….4-76",
+        "en": "Крышка заливной горловины топливного бака .….4-76"
+       },
+       "words": 85,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t022_90ba3e88",
+       "title": {
+        "ru": "АПредостережение",
+        "en": "АПредостережение"
+       },
+       "words": 399,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t023_03562960",
+       "title": {
+        "ru": "Разблокировка (2)",
+        "en": "Разблокировка (2)"
+       },
+       "words": 285,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t024_a66dfcb3",
+       "title": {
+        "ru": "Активация иммобилайзера",
+        "en": "Активация иммобилайзера"
+       },
+       "words": 168,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t025_b25c1680",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 296,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t026_674fddc4",
+       "title": {
+        "ru": "С помощью переключателя центральной блокировки дверей",
+        "en": "С помощью переключателя центральной блокировки дверей"
+       },
+       "words": 270,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t027_fcc076e1",
+       "title": {
+        "ru": "Замки задних дверей",
+        "en": "Замки задних дверей"
+       },
+       "words": 272,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t028_94e31c0b",
+       "title": {
+        "ru": "Восстановление положений из памяти",
+        "en": "Восстановление положений из памяти"
+       },
+       "words": 680,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t029_d7df7433",
+       "title": {
+        "ru": "Задний грузовой отсек",
+        "en": "Задний грузовой отсек"
+       },
+       "words": 300,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t030_29ba862c",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 343,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t032_bbf6feb4",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 208,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t033_3b9c7b6d",
+       "title": {
+        "ru": "Багаж на крыше",
+        "en": "Багаж на крыше"
+       },
+       "words": 206,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t034_79400557",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 252,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t035_98f462c8",
+       "title": {
+        "ru": "Приборы",
+        "en": "Приборы"
+       },
+       "words": 176,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t036_711610af",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 279,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t037_299f6c93",
+       "title": {
+        "ru": "Система помощи при вождении",
+        "en": "Система помощи при вождении"
+       },
+       "words": 158,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t038_1817469d",
+       "title": {
+        "ru": "3. Освещение",
+        "en": "3. Освещение"
+       },
+       "words": 167,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t039_c7637785",
+       "title": {
+        "ru": "Расход топлива",
+        "en": "Расход топлива"
+       },
+       "words": 297,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t040_168b4fdb",
+       "title": {
+        "ru": "Отображение информации о движении",
+        "en": "Отображение информации о движении"
+       },
+       "words": 262,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t041_ca34a89d",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 178,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t042_0fef5a55",
+       "title": {
+        "ru": "Безопасная остановка",
+        "en": "Безопасная остановка"
+       },
+       "words": 233,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t043_af0976e5",
+       "title": {
+        "ru": "A Предостережение",
+        "en": "A Предостережение"
+       },
+       "words": 143,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t044_4b2959ce",
+       "title": {
+        "ru": "Громкость предупреждений",
+        "en": "Громкость предупреждений"
+       },
+       "words": 542,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t046_cd89d789",
+       "title": {
+        "ru": "Использование передней противотуманной фары (при наличии)",
+        "en": "Использование передней противотуманной фары (при наличии)"
+       },
+       "words": 328,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t047_a0ca0362",
+       "title": {
+        "ru": "Обогрев",
+        "en": "Обогрев"
+       },
+       "words": 594,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t048_1a5112bb",
+       "title": {
+        "ru": "Автомобили, оснащенные R-134а",
+        "en": "Автомобили, оснащенные R-134а"
+       },
+       "words": 355,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t049_8e97b206",
+       "title": {
+        "ru": "Обогрев и кондиционирование воздуха в ручном режиме",
+        "en": "Обогрев и кондиционирование воздуха в ручном режиме"
+       },
+       "words": 441,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t050_434846f3",
+       "title": {
+        "ru": "Воздухоочиститель (при наличии)",
+        "en": "Воздухоочиститель (при наличии)"
+       },
+       "words": 376,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t052_7de317f3",
+       "title": {
+        "ru": "Отсек для хранения",
+        "en": "Отсек для хранения"
+       },
+       "words": 212,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t053_6c827ca0",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 319,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t054_0b5f27c9",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 405,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t055_a3cef981",
+       "title": {
+        "ru": "Поражение электрическим током",
+        "en": "Поражение электрическим током"
+       },
+       "words": 738,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t056_77309e81",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 289,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t057_22ad5232",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 645,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t059_88d292bd",
+       "title": {
+        "ru": "3. Кнопка FAV",
+        "en": "3. Кнопка FAV"
+       },
+       "words": 195,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t060_b26d9405",
+       "title": {
+        "ru": "Вопросы вождения",
+        "en": "Вопросы вождения"
+       },
+       "words": 364,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t061_0c6028b7",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 568,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t063_aa817d0f",
+       "title": {
+        "ru": "Воспроизведение в случайном порядке",
+        "en": "Воспроизведение в случайном порядке"
+       },
+       "words": 320,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t066_e7688079",
+       "title": {
+        "ru": "Сертификация по стандарту FСС",
+        "en": "Сертификация по стандарту FСС"
+       },
+       "words": 323,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t068_34968f16",
+       "title": {
+        "ru": "Систем контроол полосы (",
+        "en": "Систем контроол полосы ("
+       },
+       "words": 260,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t069_1807ad91",
+       "title": {
+        "ru": "Невнимательное вождение",
+        "en": "Невнимательное вождение"
+       },
+       "words": 176,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t071_7e4390ce",
+       "title": {
+        "ru": "Механизм ограничения скорости (при наличии)",
+        "en": "Механизм ограничения скорости (при наличии)"
+       },
+       "words": 267,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t072_c674b9b9",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 493,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t073_9ea52ab7",
+       "title": {
+        "ru": "Сообщения на ЖК-дисплее",
+        "en": "Сообщения на ЖК-дисплее"
+       },
+       "words": 394,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t074_6fe72920",
+       "title": {
+        "ru": "Торможение при нажатой педали акселератора",
+        "en": "Торможение при нажатой педали акселератора"
+       },
+       "words": 380,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t075_3af3ea1e",
+       "title": {
+        "ru": "Автоматическое удержание",
+        "en": "Автоматическое удержание"
+       },
+       "words": 379,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t076_543661c1",
+       "title": {
+        "ru": "Отключение системы ESC",
+        "en": "Отключение системы ESC"
+       },
+       "words": 285,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t077_79c7df5c",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 372,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t078_d3e44a9a",
+       "title": {
+        "ru": "При включенном режиме «ЕСО» (Экономичный)",
+        "en": "При включенном режиме «ЕСО» (Экономичный)"
+       },
+       "words": 636,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t080_71af675f",
+       "title": {
+        "ru": "Громкость предупреждений",
+        "en": "Громкость предупреждений"
+       },
+       "words": 373,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t083_17158bb1",
+       "title": {
+        "ru": "Функция предупреждения при повороте на перекрестке",
+        "en": "Функция предупреждения при повороте на перекрестке"
+       },
+       "words": 277,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t084_e65ff207",
+       "title": {
+        "ru": "Громкость предупреждений",
+        "en": "Громкость предупреждений"
+       },
+       "words": 416,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t085_98e90ff8",
+       "title": {
+        "ru": "Предупреждение функции и управление",
+        "en": "Предупреждение функции и управление"
+       },
+       "words": 581,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t086_05171428",
+       "title": {
+        "ru": "Неисправность",
+        "en": "Неисправность"
+       },
+       "words": 502,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t087_30781d4d",
+       "title": {
+        "ru": "Включение и отключение",
+        "en": "Включение и отключение"
+       },
+       "words": 436,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t088_807c2314",
+       "title": {
+        "ru": "Неисправность",
+        "en": "Неисправность"
+       },
+       "words": 592,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t090_53cf1e9c",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 256,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t091_de0f303a",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 573,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t093_9ee32a2b",
+       "title": {
+        "ru": "Мониторинг слепых зон",
+        "en": "Мониторинг слепых зон"
+       },
+       "words": 420,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t094_83c3fa3a",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 774,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t095_5c52a01e",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 614,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t098_9fb5a9bc",
+       "title": {
+        "ru": "Система ручного контроля за ограничениями скорости (MSLA) (при наличии)",
+        "en": "Система ручного контроля за ограничениями скорости (MSLA) (при наличии)"
+       },
+       "words": 344,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t099_f1cebf58",
+       "title": {
+        "ru": "Интеллектуальная система контроля ограничения скорости (ISLA) (при наличии)",
+        "en": "Интеллектуальная система контроля ограничения скорости (ISLA) (при наличии)"
+       },
+       "words": 353,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t100_fc17f7b6",
+       "title": {
+        "ru": "Отображение и управление функцией",
+        "en": "Отображение и управление функцией"
+       },
+       "words": 395,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t101_8487cc7c",
+       "title": {
+        "ru": "Неисправность и ограничения",
+        "en": "Неисправность и ограничения"
+       },
+       "words": 503,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t102_3cc655a3",
+       "title": {
+        "ru": "Настройка",
+        "en": "Настройка"
+       },
+       "words": 266,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t103_90cead84",
+       "title": {
+        "ru": "Перерыв в вождении",
+        "en": "Перерыв в вождении"
+       },
+       "words": 287,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t104_fcc8ee34",
+       "title": {
+        "ru": "Неисправность и ограничения",
+        "en": "Неисправность и ограничения"
+       },
+       "words": 378,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t105_58ebdbe9",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 167,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t106_662862be",
+       "title": {
+        "ru": "Включение функции",
+        "en": "Включение функции"
+       },
+       "words": 498,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t107_7d1fc4a5",
+       "title": {
+        "ru": "Интеллектуальный круиз-контроль (SCC) (при наличии)",
+        "en": "Интеллектуальный круиз-контроль (SCC) (при наличии)"
+       },
+       "words": 377,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t108_bb0bb5fc",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 330,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t109_2a501ddc",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 264,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t110_8eff1606",
+       "title": {
+        "ru": "Временное ускорение",
+        "en": "Временное ускорение"
+       },
+       "words": 314,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t111_27da1a46",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 1322,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t114_1a4e2e4c",
+       "title": {
+        "ru": "АПредостережение",
+        "en": "АПредостережение"
+       },
+       "words": 235,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t116_7990c5fc",
+       "title": {
+        "ru": "Движение ближе к одной из сторон полосы (при наличии)",
+        "en": "Движение ближе к одной из сторон полосы (при наличии)"
+       },
+       "words": 344,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t117_27c2c94e",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 832,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t119_42153638",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 1045,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t122_99d64532",
+       "title": {
+        "ru": "Предупреждение функции и управление",
+        "en": "Предупреждение функции и управление"
+       },
+       "words": 587,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t123_38fb5ca2",
+       "title": {
+        "ru": "Неисправность",
+        "en": "Неисправность"
+       },
+       "words": 273,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t124_7c8d7707",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 481,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t125_32534895",
+       "title": {
+        "ru": "Вспомогательная система предотвращения столкновения при парковке задним ходом",
+        "en": "Вспомогательная система предотвращения столкновения при парковке задним ходом"
+       },
+       "words": 519,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t126_69e7b297",
+       "title": {
+        "ru": "Условия работы",
+        "en": "Условия работы"
+       },
+       "words": 588,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t127_b48408b1",
+       "title": {
+        "ru": "Декларация соответствия (при наличии)",
+        "en": "Декларация соответствия (при наличии)"
+       },
+       "words": 1009,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t128_bc6617e5",
+       "title": {
+        "ru": "Особые условия движения",
+        "en": "Особые условия движения"
+       },
+       "words": 291,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t129_0745fa96",
+       "title": {
+        "ru": "Управление автомобилем под дождем",
+        "en": "Управление автомобилем под дождем"
+       },
+       "words": 356,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t130_d666c755",
+       "title": {
+        "ru": "Протектор шин",
+        "en": "Протектор шин"
+       },
+       "words": 600,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t131_5bce3d39",
+       "title": {
+        "ru": "Предохранение замков от замерзания",
+        "en": "Предохранение замков от замерзания"
+       },
+       "words": 202,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t132_3a5b857e",
+       "title": {
+        "ru": "GAW (полная нагрузка на ось)",
+        "en": "GAW (полная нагрузка на ось)"
+       },
+       "words": 165,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t134_72731810",
+       "title": {
+        "ru": "Сигнализация при остановке на дороге",
+        "en": "Сигнализация при остановке на дороге"
+       },
+       "words": 245,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t135_0536e57c",
+       "title": {
+        "ru": "Система контроля давления в шинах (TPMS) (при наличии)",
+        "en": "Система контроля давления в шинах (TPMS) (при наличии)"
+       },
+       "words": 978,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t136_23bcef52",
+       "title": {
+        "ru": "Замена колеса с системой TPMS (система контроля давления в шинах)",
+        "en": "Замена колеса с системой TPMS (система контроля давления в шинах)"
+       },
+       "words": 279,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t137_462b807e",
+       "title": {
+        "ru": "Если спустило колесо (при наличии запасного колеса)",
+        "en": "Если спустило колесо (при наличии запасного колеса)"
+       },
+       "words": 238,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t139_13aadb33",
+       "title": {
+        "ru": "Неправильное давление в шине запасного колеса",
+        "en": "Неправильное давление в шине запасного колеса"
+       },
+       "words": 427,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t140_1bf3aabf",
+       "title": {
+        "ru": "Если спустило колесо (при наличии запасного колеса)",
+        "en": "Если спустило колесо (при наличии запасного колеса)"
+       },
+       "words": 297,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t141_f2b9ac33",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 351,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t142_9982b92c",
+       "title": {
+        "ru": "Если спустило колесо (при наличии ремонтного комплекта ТМК)",
+        "en": "Если спустило колесо (при наличии ремонтного комплекта ТМК)"
+       },
+       "words": 316,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t143_8326bec3",
+       "title": {
+        "ru": "Проверка внутреннего давления в шине",
+        "en": "Проверка внутреннего давления в шине"
+       },
+       "words": 239,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t144_67f870b4",
+       "title": {
+        "ru": "Примечания по безопасному использованию ремонтного комплекта",
+        "en": "Примечания по безопасному использованию ремонтного комплекта"
+       },
+       "words": 467,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t146_00b66678",
+       "title": {
+        "ru": "Экстренный вызов ЭРА-ГЛОНАСС (при наличии)",
+        "en": "Экстренный вызов ЭРА-ГЛОНАСС (при наличии)"
+       },
+       "words": 567,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t148_d04d6e29",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 623,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t149_f0112ab8",
+       "title": {
+        "ru": "Обычный график техобслуживания",
+        "en": "Обычный график техобслуживания"
+       },
+       "words": 358,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t150_7f771556",
+       "title": {
+        "ru": "Только для дизельного двигателя",
+        "en": "Только для дизельного двигателя"
+       },
+       "words": 257,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t151_73b7e0be",
+       "title": {
+        "ru": "А Предостережение",
+        "en": "А Предостережение"
+       },
+       "words": 256,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t152_d7b1e9e0",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 225,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t154_ed6384f8",
+       "title": {
+        "ru": "Рекомендуемое давление в шинах в холодном состоянии",
+        "en": "Рекомендуемое давление в шинах в холодном состоянии"
+       },
+       "words": 353,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t155_a8bc6192",
+       "title": {
+        "ru": "Порядок проверки",
+        "en": "Порядок проверки"
+       },
+       "words": 564,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t156_0871f112",
+       "title": {
+        "ru": "АПредостережение",
+        "en": "АПредостережение"
+       },
+       "words": 455,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t157_47bfb26d",
+       "title": {
+        "ru": "Техническое обслуживание шин",
+        "en": "Техническое обслуживание шин"
+       },
+       "words": 263,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t158_f82fb357",
+       "title": {
+        "ru": "Возраст шины",
+        "en": "Возраст шины"
+       },
+       "words": 452,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t159_00434741",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 829,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t161_30c28fcd",
+       "title": {
+        "ru": "Самовосстанавливающийся Предохранитель (Тип А)",
+        "en": "Самовосстанавливающийся Предохранитель (Тип А)"
+       },
+       "words": 221,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t162_7618d524",
+       "title": {
+        "ru": "\\*Примечание",
+        "en": "\\*Примечание"
+       },
+       "words": 219,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t163_d91f215e",
+       "title": {
+        "ru": "AПредупреждение",
+        "en": "AПредупреждение"
+       },
+       "words": 188,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t164_199927a7",
+       "title": {
+        "ru": "Мойка",
+        "en": "Мойка"
+       },
+       "words": 473,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t165_b8deed18",
+       "title": {
+        "ru": "Обслуживание алюминиевых колес",
+        "en": "Обслуживание алюминиевых колес"
+       },
+       "words": 528,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t166_2bb5c802",
+       "title": {
+        "ru": "Поддерживайте сухость в гараже",
+        "en": "Поддерживайте сухость в гараже"
+       },
+       "words": 426,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t167_7624dd91",
+       "title": {
+        "ru": "Винил",
+        "en": "Винил"
+       },
+       "words": 203,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t168_128b21e7",
+       "title": {
+        "ru": "Система понижения токсичности выхлопа (при наличии)",
+        "en": "Система понижения токсичности выхлопа (при наличии)"
+       },
+       "words": 683,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t169_6743ff10",
+       "title": {
+        "ru": "Бензиновый сажевый фильтр (при наличии)",
+        "en": "Бензиновый сажевый фильтр (при наличии)"
+       },
+       "words": 608,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t170_dfd1cdcf",
+       "title": {
+        "ru": "Предупреждение о низком уровне раствора мочевины (при наличии)",
+        "en": "Предупреждение о низком уровне раствора мочевины (при наличии)"
+       },
+       "words": 871,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t171_60bd90d9",
+       "title": {
+        "ru": "А Предупреждение",
+        "en": "А Предупреждение"
+       },
+       "words": 1015,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t172_edf88e9b",
+       "title": {
+        "ru": "Габаритные размеры",
+        "en": "Габаритные размеры"
+       },
+       "words": 44,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t173_57dc1cfd",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 376,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t174_5b772764",
+       "title": {
+        "ru": "Табличка с характеристиками и давлением шин",
+        "en": "Табличка с характеристиками и давлением шин"
+       },
+       "words": 127,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t175_80a28e86",
+       "title": {
+        "ru": "Система иммобилайзера",
+        "en": "Система иммобилайзера"
+       },
+       "words": 115,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_carnival_2021_general_t176_fa55970c",
+       "title": {
+        "ru": "Система регулировки скорости",
+        "en": "Система регулировки скорости"
+       },
+       "words": 105,
+       "images": 1,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_drivetrain_t000_6ed2489d",
+       "title": {
+        "ru": "А Предостережение",
+        "en": "А Предостережение"
+       },
+       "words": 200,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "kia_carnival_2021_drivetrain_t001_5fc67ade",
+       "title": {
+        "ru": "Автоматическая трансмиссия",
+        "en": "Автоматическая трансмиссия"
+       },
+       "words": 304,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "kia_carnival_2021_drivetrain_t002_6e5d7498",
+       "title": {
+        "ru": "Передача уже выбрана",
+        "en": "Передача уже выбрана"
+       },
+       "words": 570,
+       "images": 5,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "kia_carnival_2021_drivetrain_t003_a40e6186",
+       "title": {
+        "ru": "Движение в зимний период",
+        "en": "Движение в зимний период"
+       },
+       "words": 266,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "kia_carnival_2021_drivetrain_t004_706a6044",
+       "title": {
+        "ru": "2. Обозначение размера шины",
+        "en": "2. Обозначение размера шины"
+       },
+       "words": 171,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_infotainment_t000_caf667d7",
+       "title": {
+        "ru": "ЖК-дисплей… -1",
+        "en": "ЖК-дисплей… -1"
+       },
+       "words": 201,
+       "images": 4,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_carnival_2021_infotainment_t001_03c4a639",
+       "title": {
+        "ru": "A Предупреждение",
+        "en": "A Предупреждение"
+       },
+       "words": 439,
+       "images": 2,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_carnival_2021_infotainment_t003_fa037a38",
+       "title": {
+        "ru": "Аудиосистема .. …",
+        "en": "Аудиосистема .. …"
+       },
+       "words": 195,
+       "images": 1,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_carnival_2021_infotainment_t004_547e0b25",
+       "title": {
+        "ru": "2. Кнопка РHONE (Телефон)",
+        "en": "2. Кнопка РHONE (Телефон)"
+       },
+       "words": 426,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_carnival_2021_infotainment_t005_3fdcc0a3",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 481,
+       "images": 2,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_carnival_2021_infotainment_t006_12863483",
+       "title": {
+        "ru": "Использование функции автосохранения",
+        "en": "Использование функции автосохранения"
+       },
+       "words": 565,
+       "images": 1,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_carnival_2021_infotainment_t008_520e310e",
+       "title": {
+        "ru": "\\* Примечание",
+        "en": "\\* Примечание"
+       },
+       "words": 787,
+       "images": 1,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_carnival_2021_infotainment_t009_95c8e3bf",
+       "title": {
+        "ru": "Ответ на вызовы",
+        "en": "Ответ на вызовы"
+       },
+       "words": 443,
+       "images": 4,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_carnival_2021_infotainment_t010_b6c96ebb",
+       "title": {
+        "ru": "Товарные знаки",
+        "en": "Товарные знаки"
+       },
+       "words": 203,
+       "images": 4,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_carnival_2021_infotainment_t011_5b52acaa",
+       "title": {
+        "ru": "Интеллектуальная система круиз-контроля с навигацией (NSCC) (при наличии)",
+        "en": "Интеллектуальная система круиз-контроля с навигацией (NSCC) (при наличии)"
+       },
+       "words": 192,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "kia_carnival_2021_infotainment_t012_7f15f23c",
+       "title": {
+        "ru": "Отображение и управление функцией",
+        "en": "Отображение и управление функцией"
+       },
+       "words": 1095,
+       "images": 5,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_carnival_2021_sensors_t000_694de16f",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 320,
+       "images": 1,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_carnival_2021_sensors_t001_7d07e08e",
+       "title": {
+        "ru": "Датчик обнаружения",
+        "en": "Датчик обнаружения"
+       },
+       "words": 128,
+       "images": 4,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_carnival_2021_sensors_t002_b9334611",
+       "title": {
+        "ru": "Условия, в которых может уменьшаться диапазон обнаружения",
+        "en": "Условия, в которых может уменьшаться диапазон обнаружения"
+       },
+       "words": 538,
+       "images": 3,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_carnival_2021_sensors_t003_d4844adb",
+       "title": {
+        "ru": "Система предупреждения о расстоянии при парковке передним/задним ходом (PDW)",
+        "en": "Система предупреждения о расстоянии при парковке передним/задним ходом (PDW)"
+       },
+       "words": 292,
+       "images": 3,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_carnival_2021_sensors_t004_55bf16ea",
+       "title": {
+        "ru": "Неумеренное использование функции кондиционирования воздуха",
+        "en": "Неумеренное использование функции кондиционирования воздуха"
+       },
+       "words": 478,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_carnival_2021_sensors_t008_54c5d539",
+       "title": {
+        "ru": "AПредостережение",
+        "en": "AПредостережение"
+       },
+       "words": 473,
+       "images": 2,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_carnival_2021_sensors_t012_907d9677",
+       "title": {
+        "ru": "Датчик обнаружения",
+        "en": "Датчик обнаружения"
+       },
+       "words": 395,
+       "images": 4,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_carnival_2021_sensors_t013_76ee0387",
+       "title": {
+        "ru": "АПредостережение",
+        "en": "АПредостережение"
+       },
+       "words": 642,
+       "images": 1,
+       "section_id": "sensors"
+      },
+      {
+       "id": "kia_carnival_2021_sensors_t014_649de994",
+       "title": {
+        "ru": "Датчик уровня раствора мочевины (при наличии)",
+        "en": "Датчик уровня раствора мочевины (при наличии)"
+       },
+       "words": 11,
+       "images": 1,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

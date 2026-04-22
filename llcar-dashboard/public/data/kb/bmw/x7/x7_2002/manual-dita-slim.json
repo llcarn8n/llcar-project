@@ -1,0 +1,4945 @@
+{
+ "version": "1.0",
+ "model": "x7",
+ "manuals": [
+  {
+   "model": "x7",
+   "label": {
+    "ru": "Bmw X7 — Руководство",
+    "en": "Bmw X7 — Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "t_7ccd2401",
+       "title": {
+        "ru": "Engine compartment",
+        "en": "Engine compartment"
+       },
+       "words": 124,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "t_e27ce540",
+       "title": {
+        "ru": "Manual engine stop",
+        "en": "Manual engine stop"
+       },
+       "words": 352,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "t_77434bc9",
+       "title": {
+        "ru": "When the maximum permissible engine speed is",
+        "en": "When the maximum permissible engine speed is"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "t_8c814479",
+       "title": {
+        "ru": "Engine braking effect can be additionally in‐",
+        "en": "Engine braking effect can be additionally in‐"
+       },
+       "words": 394,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "t_7ccd2401",
+       "title": {
+        "ru": "Engine compartment",
+        "en": "Engine compartment"
+       },
+       "words": 139,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "t_3b8f51df",
+       "title": {
+        "ru": "8-cylinder engine",
+        "en": "8-cylinder engine"
+       },
+       "words": 210,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "t_ef653cc2",
+       "title": {
+        "ru": "Engine oil",
+        "en": "Engine oil"
+       },
+       "words": 366,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "t_443902ea",
+       "title": {
+        "ru": "3. Add engine oil.",
+        "en": "3. Add engine oil."
+       },
+       "words": 288,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "t_35ca3bfd",
+       "title": {
+        "ru": "If the vehicle ahead brakes to a standstill and",
+        "en": "If the vehicle ahead brakes to a standstill and"
+       },
+       "words": 371,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "t_85fd248d",
+       "title": {
+        "ru": "▷Steptronic transmission: selector lever posi‐",
+        "en": "▷Steptronic transmission: selector lever posi‐"
+       },
+       "words": 268,
+       "images": 0,
+       "section_id": "transmission"
+      },
+      {
+       "id": "t_ea7217d9",
+       "title": {
+        "ru": "Manual mode, Steptronic transmission 174",
+        "en": "Manual mode, Steptronic transmission 174"
+       },
+       "words": 424,
+       "images": 0,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Интерьер",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "t_6cc2c4a2",
+       "title": {
+        "ru": "Interior equipment",
+        "en": "Interior equipment"
+       },
+       "words": 357,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "Датчики",
+      "en": "Sensors"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "t_34ed370a",
+       "title": {
+        "ru": "Sensors of the vehicle",
+        "en": "Sensors of the vehicle"
+       },
+       "words": 193,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "t_c2f11a52",
+       "title": {
+        "ru": "Side radar sensors, rear",
+        "en": "Side radar sensors, rear"
+       },
+       "words": 306,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "t_08bc40ad",
+       "title": {
+        "ru": "with you. Two sensors detect a directed foot",
+        "en": "with you. Two sensors detect a directed foot"
+       },
+       "words": 404,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "t_af29aa17",
+       "title": {
+        "ru": "Sensors",
+        "en": "Sensors"
+       },
+       "words": 343,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "t_af29aa17",
+       "title": {
+        "ru": "Sensors",
+        "en": "Sensors"
+       },
+       "words": 309,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "battery",
+     "title": {
+      "ru": "АКБ / ВВБ",
+      "en": "Battery"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "t_683bb575",
+       "title": {
+        "ru": "▷When the battery state of charge is low.",
+        "en": "▷When the battery state of charge is low."
+       },
+       "words": 320,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "t_10e0f9f9",
+       "title": {
+        "ru": "▷Protect the battery from direct sunlight and",
+        "en": "▷Protect the battery from direct sunlight and"
+       },
+       "words": 267,
+       "images": 0,
+       "section_id": "battery"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "EV система",
+      "en": "EV System"
+     },
+     "icon": "🔌",
+     "topics": [
+      {
+       "id": "t_84197007",
+       "title": {
+        "ru": "Mobile devices",
+        "en": "Mobile devices"
+       },
+       "words": 568,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_f9fe7351",
+       "title": {
+        "ru": "▷To indicate a turn briefly: press the lever as",
+        "en": "▷To indicate a turn briefly: press the lever as"
+       },
+       "words": 169,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_42e381c0",
+       "title": {
+        "ru": "A maximum of four devices can be connected to",
+        "en": "A maximum of four devices can be connected to"
+       },
+       "words": 330,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_3a6a4958",
+       "title": {
+        "ru": "▷Audio devices, for example MP3 players.",
+        "en": "▷Audio devices, for example MP3 players."
+       },
+       "words": 326,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_b5c79d57",
+       "title": {
+        "ru": "or even death. Make sure that the rear backr‐",
+        "en": "or even death. Make sure that the rear backr‐"
+       },
+       "words": 214,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_913be572",
+       "title": {
+        "ru": "Selector lever positions",
+        "en": "Selector lever positions"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_15eb5135",
+       "title": {
+        "ru": "point. The selector lever returns to the middle",
+        "en": "point. The selector lever returns to the middle"
+       },
+       "words": 274,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_25b4db70",
+       "title": {
+        "ru": "In the event of an advance warning, brake or take",
+        "en": "In the event of an advance warning, brake or take"
+       },
+       "words": 323,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_de8164ec",
+       "title": {
+        "ru": "ing mobile devices, make sure there are no ob‐",
+        "en": "ing mobile devices, make sure there are no ob‐"
+       },
+       "words": 282,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_cedb209b",
+       "title": {
+        "ru": "The tank in the vehicle is filled when the level",
+        "en": "The tank in the vehicle is filled when the level"
+       },
+       "words": 318,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_01513a1f",
+       "title": {
+        "ru": "As with a service booklet, the entries provide evi‐",
+        "en": "As with a service booklet, the entries provide evi‐"
+       },
+       "words": 393,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_93505952",
+       "title": {
+        "ru": "Everything from A to Z",
+        "en": "Everything from A to Z"
+       },
+       "words": 370,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "t_67ce7226",
+       "title": {
+        "ru": "Two-axle ride level control 315",
+        "en": "Two-axle ride level control 315"
+       },
+       "words": 393,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общее",
+      "en": "General"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "t_cb048c94",
+       "title": {
+        "ru": "The Ultimate",
+        "en": "The Ultimate"
+       },
+       "words": 41,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8a512c2a",
+       "title": {
+        "ru": "WELCOME TO BMW.",
+        "en": "WELCOME TO BMW."
+       },
+       "words": 193,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f4c6f851",
+       "title": {
+        "ru": "Notes",
+        "en": "Notes"
+       },
+       "words": 348,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ae28b385",
+       "title": {
+        "ru": "Symbols and displays",
+        "en": "Symbols and displays"
+       },
+       "words": 377,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_026ce6a5",
+       "title": {
+        "ru": "may mean that the features described in this",
+        "en": "may mean that the features described in this"
+       },
+       "words": 502,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_16aa0068",
+       "title": {
+        "ru": "high-performance electronics, requires appropri‐",
+        "en": "high-performance electronics, requires appropri‐"
+       },
+       "words": 512,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_984e03bc",
+       "title": {
+        "ru": "ownership or use is required in order to obtain",
+        "en": "ownership or use is required in order to obtain"
+       },
+       "words": 424,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7897f70c",
+       "title": {
+        "ru": "Transaction and interaction data",
+        "en": "Transaction and interaction data"
+       },
+       "words": 443,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_734dab16",
+       "title": {
+        "ru": "▷Status reports relating to the vehicle and its",
+        "en": "▷Status reports relating to the vehicle and its"
+       },
+       "words": 509,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_546246c6",
+       "title": {
+        "ru": "Service data",
+        "en": "Service data"
+       },
+       "words": 540,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cbd74d63",
+       "title": {
+        "ru": "vated or deactivated. Excluded from this are",
+        "en": "vated or deactivated. Excluded from this are"
+       },
+       "words": 515,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_9b3db62f",
+       "title": {
+        "ru": "▷The vehicle identification number for rapidly",
+        "en": "▷The vehicle identification number for rapidly"
+       },
+       "words": 572,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0f547d7b",
+       "title": {
+        "ru": "In addition to the intelligent emergency call sys‐",
+        "en": "In addition to the intelligent emergency call sys‐"
+       },
+       "words": 513,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_4dd3a001",
+       "title": {
+        "ru": "Sent information",
+        "en": "Sent information"
+       },
+       "words": 527,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_85ec1e97",
+       "title": {
+        "ru": "Owner's Handbook media",
+        "en": "Owner's Handbook media"
+       },
+       "words": 330,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_53e0350d",
+       "title": {
+        "ru": "3. \"Owner's Handbook\"",
+        "en": "3. \"Owner's Handbook\""
+       },
+       "words": 200,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f4377683",
+       "title": {
+        "ru": "Getting in",
+        "en": "Getting in"
+       },
+       "words": 243,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_fe40fca0",
+       "title": {
+        "ru": "The vehicle automatically recognises the vehicle",
+        "en": "The vehicle automatically recognises the vehicle"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_4db467fc",
+       "title": {
+        "ru": "Displays, control functions",
+        "en": "Displays, control functions"
+       },
+       "words": 186,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_93831ce9",
+       "title": {
+        "ru": "Button Function",
+        "en": "Button Function"
+       },
+       "words": 136,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ab8c4273",
+       "title": {
+        "ru": "Adjustment and operation",
+        "en": "Adjustment and operation"
+       },
+       "words": 119,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8f0ff1f7",
+       "title": {
+        "ru": "To adjust the exterior mirrors",
+        "en": "To adjust the exterior mirrors"
+       },
+       "words": 211,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_49c2883e",
+       "title": {
+        "ru": "If applicable, the search term will be automati‐",
+        "en": "If applicable, the search term will be automati‐"
+       },
+       "words": 400,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e56d8116",
+       "title": {
+        "ru": "Operating requirements",
+        "en": "Operating requirements"
+       },
+       "words": 167,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_449ac52d",
+       "title": {
+        "ru": "On the move",
+        "en": "On the move"
+       },
+       "words": 238,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f1bdeb67",
+       "title": {
+        "ru": "With the driver's seat belt fastened, briefly press",
+        "en": "With the driver's seat belt fastened, briefly press"
+       },
+       "words": 228,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_01a34f7d",
+       "title": {
+        "ru": "Switching off and flick-wiping",
+        "en": "Switching off and flick-wiping"
+       },
+       "words": 127,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_09a47cd4",
+       "title": {
+        "ru": "To clean the rear window",
+        "en": "To clean the rear window"
+       },
+       "words": 215,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_6fc795a0",
+       "title": {
+        "ru": "Diesel",
+        "en": "Diesel"
+       },
+       "words": 264,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f5eb3001",
+       "title": {
+        "ru": "How to get assistance",
+        "en": "How to get assistance"
+       },
+       "words": 177,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a2d8660d",
+       "title": {
+        "ru": "Driving area",
+        "en": "Driving area"
+       },
+       "words": 140,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a9b6027a",
+       "title": {
+        "ru": "Front passenger seat functional‐",
+        "en": "Front passenger seat functional‐"
+       },
+       "words": 216,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7ff024e7",
+       "title": {
+        "ru": "Rear wiper  173",
+        "en": "Rear wiper  173"
+       },
+       "words": 111,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ed362a06",
+       "title": {
+        "ru": "Around the centre console",
+        "en": "Around the centre console"
+       },
+       "words": 126,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_084e2da1",
+       "title": {
+        "ru": "Panorama View  309",
+        "en": "Panorama View  309"
+       },
+       "words": 87,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d3caa19d",
+       "title": {
+        "ru": "Rear-view camera",
+        "en": "Rear-view camera"
+       },
+       "words": 238,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_19c4a560",
+       "title": {
+        "ru": "▷Certain weather conditions; for example, high",
+        "en": "▷Certain weather conditions; for example, high"
+       },
+       "words": 165,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ea855f3a",
+       "title": {
+        "ru": "Vehicle operating state",
+        "en": "Vehicle operating state"
+       },
+       "words": 347,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a7930f17",
+       "title": {
+        "ru": "Observe the following to ensure that the vehi‐",
+        "en": "Observe the following to ensure that the vehi‐"
+       },
+       "words": 338,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0c7e15e2",
+       "title": {
+        "ru": "iDrive",
+        "en": "iDrive"
+       },
+       "words": 314,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_1ddf3b82",
+       "title": {
+        "ru": "well as management of driver profiles and setting",
+        "en": "well as management of driver profiles and setting"
+       },
+       "words": 344,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3bae8730",
+       "title": {
+        "ru": "Symbol Meaning",
+        "en": "Symbol Meaning"
+       },
+       "words": 237,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f6f8e1ad",
+       "title": {
+        "ru": "Removing all button assignments",
+        "en": "Removing all button assignments"
+       },
+       "words": 318,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_4dda0bf6",
+       "title": {
+        "ru": "▷Press to select a menu item, for example.",
+        "en": "▷Press to select a menu item, for example."
+       },
+       "words": 161,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_510eea78",
+       "title": {
+        "ru": "3. Press the Controller.",
+        "en": "3. Press the Controller."
+       },
+       "words": 376,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_c6464085",
+       "title": {
+        "ru": "Using alphabetical lists",
+        "en": "Using alphabetical lists"
+       },
+       "words": 351,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8fb063d6",
+       "title": {
+        "ru": "The main menu is displayed.",
+        "en": "The main menu is displayed."
+       },
+       "words": 359,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_00c80e78",
+       "title": {
+        "ru": "Operation via voice control",
+        "en": "Operation via voice control"
+       },
+       "words": 345,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f76e0ed7",
+       "title": {
+        "ru": "Personalised wake word",
+        "en": "Personalised wake word"
+       },
+       "words": 368,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7234f5b9",
+       "title": {
+        "ru": "▷›General information on voice control‹: to have",
+        "en": "▷›General information on voice control‹: to have"
+       },
+       "words": 393,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e51564a7",
+       "title": {
+        "ru": "If activation is successful, a confirmation ap‐",
+        "en": "If activation is successful, a confirmation ap‐"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_33e8e9ca",
+       "title": {
+        "ru": "BMW Intelligent Personal",
+        "en": "BMW Intelligent Personal"
+       },
+       "words": 345,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_19e08f9a",
+       "title": {
+        "ru": "ing once a certain outside temperature is",
+        "en": "ing once a certain outside temperature is"
+       },
+       "words": 305,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_9bd21bef",
+       "title": {
+        "ru": "BMW Gesture Control",
+        "en": "BMW Gesture Control"
+       },
+       "words": 188,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_1b6fa9d2",
+       "title": {
+        "ru": "Gesture",
+        "en": "Gesture"
+       },
+       "words": 218,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ddddc1d9",
+       "title": {
+        "ru": "▷Messages.",
+        "en": "▷Messages."
+       },
+       "words": 124,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_483bc419",
+       "title": {
+        "ru": "BMW Remote Software Upgrade",
+        "en": "BMW Remote Software Upgrade"
+       },
+       "words": 370,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_35bef15b",
+       "title": {
+        "ru": "Version information",
+        "en": "Version information"
+       },
+       "words": 345,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_de62775a",
+       "title": {
+        "ru": "General settings",
+        "en": "General settings"
+       },
+       "words": 286,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b9eb5d8a",
+       "title": {
+        "ru": "Setting the date format",
+        "en": "Setting the date format"
+       },
+       "words": 280,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_03c65bdf",
+       "title": {
+        "ru": "4. \"Reset journey data\"",
+        "en": "4. \"Reset journey data\""
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_fab3d246",
+       "title": {
+        "ru": "Resetting the vehicle",
+        "en": "Resetting the vehicle"
+       },
+       "words": 290,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_771cf4af",
+       "title": {
+        "ru": "Personal settings",
+        "en": "Personal settings"
+       },
+       "words": 320,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e3f3c40f",
+       "title": {
+        "ru": "Driver profiles",
+        "en": "Driver profiles"
+       },
+       "words": 472,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_87079471",
+       "title": {
+        "ru": "The guest profile is automatically active in the",
+        "en": "The guest profile is automatically active in the"
+       },
+       "words": 482,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_68d3f4f5",
+       "title": {
+        "ru": "tection that can be used to activate the driver",
+        "en": "tection that can be used to activate the driver"
+       },
+       "words": 458,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_6114bd43",
+       "title": {
+        "ru": "4. \"Settings\"",
+        "en": "4. \"Settings\""
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_98a2bc79",
+       "title": {
+        "ru": "Connections",
+        "en": "Connections"
+       },
+       "words": 239,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_86408593",
+       "title": {
+        "ru": "Function",
+        "en": "Function"
+       },
+       "words": 318,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_83b0dcbd",
+       "title": {
+        "ru": "Bluetooth connection",
+        "en": "Bluetooth connection"
+       },
+       "words": 418,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3f83ee5c",
+       "title": {
+        "ru": "▷Ambient temperature too high or too low to",
+        "en": "▷Ambient temperature too high or too low to"
+       },
+       "words": 398,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e56d8116",
+       "title": {
+        "ru": "Operating requirements",
+        "en": "Operating requirements"
+       },
+       "words": 364,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d02e1b65",
+       "title": {
+        "ru": "The WLAN name of the vehicle is displayed",
+        "en": "The WLAN name of the vehicle is displayed"
+       },
+       "words": 435,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_10e16381",
+       "title": {
+        "ru": "Android Auto preparation",
+        "en": "Android Auto preparation"
+       },
+       "words": 410,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_98c4b05d",
+       "title": {
+        "ru": "Opening and closing",
+        "en": "Opening and closing"
+       },
+       "words": 391,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 396,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_eb02ff95",
+       "title": {
+        "ru": "Press the button on the vehicle key.",
+        "en": "Press the button on the vehicle key."
+       },
+       "words": 436,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_059e9861",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 358,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8ffbf06a",
+       "title": {
+        "ru": "Dispose of old batteries at a Service",
+        "en": "Dispose of old batteries at a Service"
+       },
+       "words": 430,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_30e36283",
+       "title": {
+        "ru": "▷The Remote Services of the BMW Connec‐",
+        "en": "▷The Remote Services of the BMW Connec‐"
+       },
+       "words": 408,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 349,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8cff4471",
+       "title": {
+        "ru": "Press the button on the left of the display key.",
+        "en": "Press the button on the left of the display key."
+       },
+       "words": 418,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0fbbd5a1",
+       "title": {
+        "ru": "key; in exceptional cases, the charging proc‐",
+        "en": "key; in exceptional cases, the charging proc‐"
+       },
+       "words": 339,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0a9d0acc",
+       "title": {
+        "ru": "Malfunction",
+        "en": "Malfunction"
+       },
+       "words": 404,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_56d88041",
+       "title": {
+        "ru": "Deactivating the Key Card",
+        "en": "Deactivating the Key Card"
+       },
+       "words": 277,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_1f33dfa3",
+       "title": {
+        "ru": "A driver profile with individual settings can be as‐",
+        "en": "A driver profile with individual settings can be as‐"
+       },
+       "words": 507,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_c9431772",
+       "title": {
+        "ru": "If a digital key has expired, it can still be used to",
+        "en": "If a digital key has expired, it can still be used to"
+       },
+       "words": 434,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_afff202c",
+       "title": {
+        "ru": "Unlocking and locking the",
+        "en": "Unlocking and locking the"
+       },
+       "words": 263,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7bb54148",
+       "title": {
+        "ru": "Integrated key",
+        "en": "Integrated key"
+       },
+       "words": 249,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e64356d8",
+       "title": {
+        "ru": "3. Remove the cover.",
+        "en": "3. Remove the cover."
+       },
+       "words": 269,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_c0c2cbff",
+       "title": {
+        "ru": "▷Open and close the tailgate contactlessly.",
+        "en": "▷Open and close the tailgate contactlessly."
+       },
+       "words": 365,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_20a0833d",
+       "title": {
+        "ru": "▷With alarm system: The alarm system is",
+        "en": "▷With alarm system: The alarm system is"
+       },
+       "words": 327,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_17c9e283",
+       "title": {
+        "ru": "2. Kick your foot underneath the vehicle and im‐",
+        "en": "2. Kick your foot underneath the vehicle and im‐"
+       },
+       "words": 460,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e56d8116",
+       "title": {
+        "ru": "Operating requirements",
+        "en": "Operating requirements"
+       },
+       "words": 457,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_10de4bc8",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 347,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7911d155",
+       "title": {
+        "ru": "The lower tailgate closes automatically with",
+        "en": "The lower tailgate closes automatically with"
+       },
+       "words": 342,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a03df842",
+       "title": {
+        "ru": "▷When driving off suddenly.",
+        "en": "▷When driving off suddenly."
+       },
+       "words": 405,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_dc58216e",
+       "title": {
+        "ru": "Calling up the menu for parking",
+        "en": "Calling up the menu for parking"
+       },
+       "words": 365,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_2ff1fe55",
+       "title": {
+        "ru": "Guest profile",
+        "en": "Guest profile"
+       },
+       "words": 315,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_5eadc58a",
+       "title": {
+        "ru": "Tailgate",
+        "en": "Tailgate"
+       },
+       "words": 314,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ea5b26a9",
+       "title": {
+        "ru": "Contactless opening of the tailgate",
+        "en": "Contactless opening of the tailgate"
+       },
+       "words": 364,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cf8ba161",
+       "title": {
+        "ru": "Switching on/off",
+        "en": "Switching on/off"
+       },
+       "words": 407,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_42736dc2",
+       "title": {
+        "ru": "The indicator lamp illuminates for approximately",
+        "en": "The indicator lamp illuminates for approximately"
+       },
+       "words": 311,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7955acd2",
+       "title": {
+        "ru": "The window is opened automatically. Press‐",
+        "en": "The window is opened automatically. Press‐"
+       },
+       "words": 349,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 256,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 334,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d2f627f2",
+       "title": {
+        "ru": "Pressing the switch again",
+        "en": "Pressing the switch again"
+       },
+       "words": 327,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_c4953722",
+       "title": {
+        "ru": "On the control panel above the third",
+        "en": "On the control panel above the third"
+       },
+       "words": 399,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ac83df0b",
+       "title": {
+        "ru": "1. Close all doors.",
+        "en": "1. Close all doors."
+       },
+       "words": 289,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 90,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b203726c",
+       "title": {
+        "ru": "Sport seat",
+        "en": "Sport seat"
+       },
+       "words": 253,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8dedb590",
+       "title": {
+        "ru": "Front passenger seat",
+        "en": "Front passenger seat"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_957aed48",
+       "title": {
+        "ru": "back and lock the seats of the second row of",
+        "en": "back and lock the seats of the second row of"
+       },
+       "words": 175,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_fa85705b",
+       "title": {
+        "ru": "Make sure that the rear seat backrest is locked",
+        "en": "Make sure that the rear seat backrest is locked"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_dd5f6da1",
+       "title": {
+        "ru": "Adjusting the forward/back setting",
+        "en": "Adjusting the forward/back setting"
+       },
+       "words": 232,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7a8ca73b",
+       "title": {
+        "ru": "▷Push and hold the switch. The rear seat",
+        "en": "▷Push and hold the switch. The rear seat"
+       },
+       "words": 293,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e9d58461",
+       "title": {
+        "ru": "Unlocking from the third row of seats",
+        "en": "Unlocking from the third row of seats"
+       },
+       "words": 517,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_059e9861",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 436,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b3e5e845",
+       "title": {
+        "ru": "▷The length of the diagonal shoulder strap ad‐",
+        "en": "▷The length of the diagonal shoulder strap ad‐"
+       },
+       "words": 355,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e78a2a5c",
+       "title": {
+        "ru": "If the belt tension does not loosen automatically,",
+        "en": "If the belt tension does not loosen automatically,"
+       },
+       "words": 355,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f45e42d6",
+       "title": {
+        "ru": "▷Forward: pull the head restraint forwards.",
+        "en": "▷Forward: pull the head restraint forwards."
+       },
+       "words": 335,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_2b51092b",
+       "title": {
+        "ru": "Two rows of seats",
+        "en": "Two rows of seats"
+       },
+       "words": 185,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f04e5c6f",
+       "title": {
+        "ru": "Air cushions for head rests in the",
+        "en": "Air cushions for head rests in the"
+       },
+       "words": 215,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_882f0302",
+       "title": {
+        "ru": "Selecting a mirror",
+        "en": "Selecting a mirror"
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e56d8116",
+       "title": {
+        "ru": "Operating requirements",
+        "en": "Operating requirements"
+       },
+       "words": 233,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_046c2b6e",
+       "title": {
+        "ru": "Memory function",
+        "en": "Memory function"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d350d186",
+       "title": {
+        "ru": "▷Pelvic activation.",
+        "en": "▷Pelvic activation."
+       },
+       "words": 149,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_6f3626b6",
+       "title": {
+        "ru": "Third seat row",
+        "en": "Third seat row"
+       },
+       "words": 251,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d79c327e",
+       "title": {
+        "ru": "Switching on",
+        "en": "Switching on"
+       },
+       "words": 312,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cfefdee2",
+       "title": {
+        "ru": "Depending on the equipment version, the",
+        "en": "Depending on the equipment version, the"
+       },
+       "words": 119,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_1e1b72c0",
+       "title": {
+        "ru": "Carrying children safely",
+        "en": "Carrying children safely"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_5a1ff9bd",
+       "title": {
+        "ru": "Before installation",
+        "en": "Before installation"
+       },
+       "words": 337,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d54c5fe9",
+       "title": {
+        "ru": "Follow the information on the front passenger",
+        "en": "Follow the information on the front passenger"
+       },
+       "words": 357,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_20c78e79",
+       "title": {
+        "ru": "The fixtures for the lower ISOFIX anchors of the",
+        "en": "The fixtures for the lower ISOFIX anchors of the"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_c3732123",
+       "title": {
+        "ru": "Seat backrest",
+        "en": "Seat backrest"
+       },
+       "words": 267,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_25c40c51",
+       "title": {
+        "ru": "Seat",
+        "en": "Seat"
+       },
+       "words": 164,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_25c40c51",
+       "title": {
+        "ru": "Seat",
+        "en": "Seat"
+       },
+       "words": 160,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3bae8730",
+       "title": {
+        "ru": "Symbol Meaning",
+        "en": "Symbol Meaning"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_03937134",
+       "title": {
+        "ru": "Group",
+        "en": "Group"
+       },
+       "words": 385,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_03937134",
+       "title": {
+        "ru": "Group",
+        "en": "Group"
+       },
+       "words": 310,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_80010386",
+       "title": {
+        "ru": "Group Front passen‐",
+        "en": "Group Front passen‐"
+       },
+       "words": 376,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_71302547",
+       "title": {
+        "ru": "Mounting points",
+        "en": "Mounting points"
+       },
+       "words": 169,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f52e75cb",
+       "title": {
+        "ru": "Direction of travel",
+        "en": "Direction of travel"
+       },
+       "words": 267,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8060dc31",
+       "title": {
+        "ru": "Driving",
+        "en": "Driving"
+       },
+       "words": 349,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_2942236d",
+       "title": {
+        "ru": "Parking the vehicle during",
+        "en": "Parking the vehicle during"
+       },
+       "words": 233,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_87b7760f",
+       "title": {
+        "ru": "Button",
+        "en": "Button"
+       },
+       "words": 230,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_1b2b93b1",
+       "title": {
+        "ru": "4. \"ECO PRO INDIVIDUAL\"",
+        "en": "4. \"ECO PRO INDIVIDUAL\""
+       },
+       "words": 322,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 281,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_864f8481",
+       "title": {
+        "ru": "Automatic activation of the parking",
+        "en": "Automatic activation of the parking"
+       },
+       "words": 331,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3886c4f1",
+       "title": {
+        "ru": "Indicating a turn briefly",
+        "en": "Indicating a turn briefly"
+       },
+       "words": 300,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_01a34f7d",
+       "title": {
+        "ru": "Switching off and flick-wiping",
+        "en": "Switching off and flick-wiping"
+       },
+       "words": 200,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a83e9b07",
+       "title": {
+        "ru": "Windscreen washer",
+        "en": "Windscreen washer"
+       },
+       "words": 277,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3646ef63",
+       "title": {
+        "ru": "Activating the sport programme",
+        "en": "Activating the sport programme"
+       },
+       "words": 284,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b75bf5ab",
+       "title": {
+        "ru": "Short-term manual operation",
+        "en": "Short-term manual operation"
+       },
+       "words": 340,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7c5a686a",
+       "title": {
+        "ru": "Without mild hybrid technology:",
+        "en": "Without mild hybrid technology:"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d32b7a6d",
+       "title": {
+        "ru": "Starting with Launch Control",
+        "en": "Starting with Launch Control"
+       },
+       "words": 219,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8e8c433c",
+       "title": {
+        "ru": "Displays",
+        "en": "Displays"
+       },
+       "words": 246,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d2fba623",
+       "title": {
+        "ru": "Central display area",
+        "en": "Central display area"
+       },
+       "words": 315,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b258ce81",
+       "title": {
+        "ru": "4. \"Instrument cluster\"",
+        "en": "4. \"Instrument cluster\""
+       },
+       "words": 220,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f2c6151d",
+       "title": {
+        "ru": "Drive",
+        "en": "Drive"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b9987a24",
+       "title": {
+        "ru": "Display",
+        "en": "Display"
+       },
+       "words": 339,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7b4791ad",
+       "title": {
+        "ru": "Brake system",
+        "en": "Brake system"
+       },
+       "words": 366,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e7509954",
+       "title": {
+        "ru": "For further information:",
+        "en": "For further information:"
+       },
+       "words": 414,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_24169986",
+       "title": {
+        "ru": "other qualified Service Partner or a specialist",
+        "en": "other qualified Service Partner or a specialist"
+       },
+       "words": 304,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_6090ac25",
+       "title": {
+        "ru": "Automatic Hold",
+        "en": "Automatic Hold"
+       },
+       "words": 327,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_21af74a8",
+       "title": {
+        "ru": "High-beam headlights, see page 171.",
+        "en": "High-beam headlights, see page 171."
+       },
+       "words": 272,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_c57888a3",
+       "title": {
+        "ru": "Performance display",
+        "en": "Performance display"
+       },
+       "words": 255,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bd6d74de",
+       "title": {
+        "ru": "Service Partner or a specialist workshop. The",
+        "en": "Service Partner or a specialist workshop. The"
+       },
+       "words": 323,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bbfc4a6b",
+       "title": {
+        "ru": "If a navigation system is installed, the system",
+        "en": "If a navigation system is installed, the system"
+       },
+       "words": 389,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b9987a24",
+       "title": {
+        "ru": "Display",
+        "en": "Display"
+       },
+       "words": 252,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_29f0b9bb",
+       "title": {
+        "ru": "3. \"Driver assistance\"",
+        "en": "3. \"Driver assistance\""
+       },
+       "words": 316,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_6e78b9da",
+       "title": {
+        "ru": "Displaying and using the list",
+        "en": "Displaying and using the list"
+       },
+       "words": 339,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_2a7b505c",
+       "title": {
+        "ru": "4. \"Values since\"",
+        "en": "4. \"Values since\""
+       },
+       "words": 283,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_db8cd56e",
+       "title": {
+        "ru": "Vehicle status",
+        "en": "Vehicle status"
+       },
+       "words": 225,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f8ba6888",
+       "title": {
+        "ru": "3. \"Displays\"",
+        "en": "3. \"Displays\""
+       },
+       "words": 348,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_fcc31142",
+       "title": {
+        "ru": "▷Sunglasses with certain polarisation filters.",
+        "en": "▷Sunglasses with certain polarisation filters."
+       },
+       "words": 129,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e1f238e1",
+       "title": {
+        "ru": "Lights",
+        "en": "Lights"
+       },
+       "words": 215,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cead48a5",
+       "title": {
+        "ru": "Activating",
+        "en": "Activating"
+       },
+       "words": 339,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_1658e260",
+       "title": {
+        "ru": "Switch off parking lights:",
+        "en": "Switch off parking lights:"
+       },
+       "words": 237,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_02ac4265",
+       "title": {
+        "ru": "The indicator light in the instrument clus‐",
+        "en": "The indicator light in the instrument clus‐"
+       },
+       "words": 317,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_60649fe3",
+       "title": {
+        "ru": "Headlights for hairpin bends",
+        "en": "Headlights for hairpin bends"
+       },
+       "words": 399,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_375799cc",
+       "title": {
+        "ru": "If the headlights are converted, high-beam assis‐",
+        "en": "If the headlights are converted, high-beam assis‐"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a083c740",
+       "title": {
+        "ru": "Laser high-beam",
+        "en": "Laser high-beam"
+       },
+       "words": 323,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_80d50c31",
+       "title": {
+        "ru": "Converting the headlights",
+        "en": "Converting the headlights"
+       },
+       "words": 217,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cf8ba161",
+       "title": {
+        "ru": "Switching on/off",
+        "en": "Switching on/off"
+       },
+       "words": 292,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_dc50dae0",
+       "title": {
+        "ru": "Adjusting the brightness",
+        "en": "Adjusting the brightness"
+       },
+       "words": 44,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7cdc2ea2",
+       "title": {
+        "ru": "In a side-on crash, the side airbag in the rear pro‐",
+        "en": "In a side-on crash, the side airbag in the rear pro‐"
+       },
+       "words": 502,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_059e9861",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 362,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3e9f7414",
+       "title": {
+        "ru": "Activating the front passenger",
+        "en": "Activating the front passenger"
+       },
+       "words": 380,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_6f8e5e1e",
+       "title": {
+        "ru": "system tested, repaired or removed and dis‐",
+        "en": "system tested, repaired or removed and dis‐"
+       },
+       "words": 411,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_5e488f7e",
+       "title": {
+        "ru": "traffic conditions. Observe the traffic situation",
+        "en": "traffic conditions. Observe the traffic situation"
+       },
+       "words": 348,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_263be54b",
+       "title": {
+        "ru": "Collision warning with",
+        "en": "Collision warning with"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cf8ba161",
+       "title": {
+        "ru": "Switching on/off",
+        "en": "Switching on/off"
+       },
+       "words": 319,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_c4d4093f",
+       "title": {
+        "ru": "Advance warning",
+        "en": "Advance warning"
+       },
+       "words": 448,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_04cedbd1",
+       "title": {
+        "ru": "▷Two-wheeled vehicles ahead.",
+        "en": "▷Two-wheeled vehicles ahead."
+       },
+       "words": 395,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e56d8116",
+       "title": {
+        "ru": "Operating requirements",
+        "en": "Operating requirements"
+       },
+       "words": 327,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7f923bf6",
+       "title": {
+        "ru": "For example it is possible that the following may",
+        "en": "For example it is possible that the following may"
+       },
+       "words": 440,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_9d74ef90",
+       "title": {
+        "ru": "The selected time is saved for the current driver",
+        "en": "The selected time is saved for the current driver"
+       },
+       "words": 405,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0e094e42",
+       "title": {
+        "ru": "Detection range",
+        "en": "Detection range"
+       },
+       "words": 370,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b3845223",
+       "title": {
+        "ru": "dent. Adapt your driving style to the traffic con‐",
+        "en": "dent. Adapt your driving style to the traffic con‐"
+       },
+       "words": 280,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_009bb086",
+       "title": {
+        "ru": "The setting switches between the following:",
+        "en": "The setting switches between the following:"
+       },
+       "words": 411,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_be42de74",
+       "title": {
+        "ru": "▷Pedestrians less than approximately 80 cm,",
+        "en": "▷Pedestrians less than approximately 80 cm,"
+       },
+       "words": 317,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a8cf3c54",
+       "title": {
+        "ru": "Objects with a shape similar to a human and",
+        "en": "Objects with a shape similar to a human and"
+       },
+       "words": 326,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d79c327e",
+       "title": {
+        "ru": "Switching on",
+        "en": "Switching on"
+       },
+       "words": 354,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bfe3e38d",
+       "title": {
+        "ru": "Switching off temporarily",
+        "en": "Switching off temporarily"
+       },
+       "words": 368,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cf8ba161",
+       "title": {
+        "ru": "Switching on/off",
+        "en": "Switching on/off"
+       },
+       "words": 363,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e8b34a46",
+       "title": {
+        "ru": "▷Cameras, see page 43.",
+        "en": "▷Cameras, see page 43."
+       },
+       "words": 431,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 305,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bff06a53",
+       "title": {
+        "ru": "Adjusting the strength of the",
+        "en": "Adjusting the strength of the"
+       },
+       "words": 343,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_9ee976f2",
+       "title": {
+        "ru": "Upper speed limit",
+        "en": "Upper speed limit"
+       },
+       "words": 427,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_dc675194",
+       "title": {
+        "ru": "Switching off manually",
+        "en": "Switching off manually"
+       },
+       "words": 322,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_6c5c7015",
+       "title": {
+        "ru": "▷If lane markings are covered by snow, ice, dirt",
+        "en": "▷If lane markings are covered by snow, ice, dirt"
+       },
+       "words": 361,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_af3f3962",
+       "title": {
+        "ru": "System limits",
+        "en": "System limits"
+       },
+       "words": 321,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_44a70fd2",
+       "title": {
+        "ru": "The timing of the warnings may vary depending",
+        "en": "The timing of the warnings may vary depending"
+       },
+       "words": 275,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_126b3a31",
+       "title": {
+        "ru": "No Warning",
+        "en": "No Warning"
+       },
+       "words": 440,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e56d8116",
+       "title": {
+        "ru": "Operating requirements",
+        "en": "Operating requirements"
+       },
+       "words": 284,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8f0477d8",
+       "title": {
+        "ru": "Functional limitations",
+        "en": "Functional limitations"
+       },
+       "words": 395,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_c254b476",
+       "title": {
+        "ru": "▷The system takes over vehicle control for a",
+        "en": "▷The system takes over vehicle control for a"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0db37792",
+       "title": {
+        "ru": "General",
+        "en": "General"
+       },
+       "words": 342,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_4ee3ee3a",
+       "title": {
+        "ru": "5. \"Recording allowed\"",
+        "en": "5. \"Recording allowed\""
+       },
+       "words": 275,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a69bc31d",
+       "title": {
+        "ru": "If driver assistance systems are active, their cam‐",
+        "en": "If driver assistance systems are active, their cam‐"
+       },
+       "words": 386,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_22e3bf36",
+       "title": {
+        "ru": "PostCrash – iBrake",
+        "en": "PostCrash – iBrake"
+       },
+       "words": 401,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3f97bf06",
+       "title": {
+        "ru": "4. \"Attentiveness Assistant\"",
+        "en": "4. \"Attentiveness Assistant\""
+       },
+       "words": 208,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_9da25a93",
+       "title": {
+        "ru": "Driving Stability Control Systems",
+        "en": "Driving Stability Control Systems"
+       },
+       "words": 361,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0db37792",
+       "title": {
+        "ru": "General",
+        "en": "General"
+       },
+       "words": 289,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_81500ece",
+       "title": {
+        "ru": "Display on the Control Display",
+        "en": "Display on the Control Display"
+       },
+       "words": 408,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 287,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bd3d64eb",
+       "title": {
+        "ru": "Driver Assistance Systems",
+        "en": "Driver Assistance Systems"
+       },
+       "words": 311,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_2f979f93",
+       "title": {
+        "ru": "Change speed limit",
+        "en": "Change speed limit"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3bc03ebb",
+       "title": {
+        "ru": "Cruise Control",
+        "en": "Cruise Control"
+       },
+       "words": 376,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cad0841f",
+       "title": {
+        "ru": "Dynamic Stability Control DSC is switched on, if",
+        "en": "Dynamic Stability Control DSC is switched on, if"
+       },
+       "words": 348,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d4874b2f",
+       "title": {
+        "ru": "yond the resistance point accelerates the ve‐",
+        "en": "yond the resistance point accelerates the ve‐"
+       },
+       "words": 421,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_93831ce9",
+       "title": {
+        "ru": "Button Function",
+        "en": "Button Function"
+       },
+       "words": 306,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_2e5d376b",
+       "title": {
+        "ru": "Changing the speed",
+        "en": "Changing the speed"
+       },
+       "words": 389,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8e885f25",
+       "title": {
+        "ru": "With the system interrupted, press the button on",
+        "en": "With the system interrupted, press the button on"
+       },
+       "words": 300,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_02c86eb2",
+       "title": {
+        "ru": "Symbol",
+        "en": "Symbol"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_02c86eb2",
+       "title": {
+        "ru": "Symbol",
+        "en": "Symbol"
+       },
+       "words": 298,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_2a9b6f7f",
+       "title": {
+        "ru": "For example two-wheeled vehicles may not be",
+        "en": "For example two-wheeled vehicles may not be"
+       },
+       "words": 300,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3cd18301",
+       "title": {
+        "ru": "In such cases, press the accelerator pedal.",
+        "en": "In such cases, press the accelerator pedal."
+       },
+       "words": 405,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a2fa60dd",
+       "title": {
+        "ru": "5. \"Speed Assistant\"",
+        "en": "5. \"Speed Assistant\""
+       },
+       "words": 315,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8a628038",
+       "title": {
+        "ru": "Speed adjustment",
+        "en": "Speed adjustment"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3957b84d",
+       "title": {
+        "ru": "▷The function must be available in the country",
+        "en": "▷The function must be available in the country"
+       },
+       "words": 347,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_80f32d46",
+       "title": {
+        "ru": "▷At a road junction with multiple lanes where",
+        "en": "▷At a road junction with multiple lanes where"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cf8ba161",
+       "title": {
+        "ru": "Switching on/off",
+        "en": "Switching on/off"
+       },
+       "words": 343,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a26341d2",
+       "title": {
+        "ru": "Displays in the instrument",
+        "en": "Displays in the instrument"
+       },
+       "words": 260,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_02c86eb2",
+       "title": {
+        "ru": "Symbol",
+        "en": "Symbol"
+       },
+       "words": 312,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_1441df6b",
+       "title": {
+        "ru": "Weather",
+        "en": "Weather"
+       },
+       "words": 387,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d79c327e",
+       "title": {
+        "ru": "Switching on",
+        "en": "Switching on"
+       },
+       "words": 271,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a26341d2",
+       "title": {
+        "ru": "Displays in the instrument",
+        "en": "Displays in the instrument"
+       },
+       "words": 223,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_75a60483",
+       "title": {
+        "ru": "Depending on the",
+        "en": "Depending on the"
+       },
+       "words": 348,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0db37792",
+       "title": {
+        "ru": "General",
+        "en": "General"
+       },
+       "words": 410,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_af3f3962",
+       "title": {
+        "ru": "System limits",
+        "en": "System limits"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 333,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_eb9f44eb",
+       "title": {
+        "ru": "If there are objects in front of and behind the ve‐",
+        "en": "If there are objects in front of and behind the ve‐"
+       },
+       "words": 383,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a3b01c04",
+       "title": {
+        "ru": "Limits of the ultrasound",
+        "en": "Limits of the ultrasound"
+       },
+       "words": 418,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f4f70727",
+       "title": {
+        "ru": "Settings",
+        "en": "Settings"
+       },
+       "words": 334,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a812fefd",
+       "title": {
+        "ru": "black after a certain time when the vehicle is sta‐",
+        "en": "black after a certain time when the vehicle is sta‐"
+       },
+       "words": 288,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0e1fa5f8",
+       "title": {
+        "ru": "The parking assistance functions are shown on",
+        "en": "The parking assistance functions are shown on"
+       },
+       "words": 315,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d982aa39",
+       "title": {
+        "ru": "Parking with the help of driving path and",
+        "en": "Parking with the help of driving path and"
+       },
+       "words": 339,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ed1461f3",
+       "title": {
+        "ru": "With Parking Assistant:",
+        "en": "With Parking Assistant:"
+       },
+       "words": 332,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 317,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7d9034fd",
+       "title": {
+        "ru": "Display on the control display",
+        "en": "Display on the control display"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cc44e58e",
+       "title": {
+        "ru": "The status of the parking space search and",
+        "en": "The status of the parking space search and"
+       },
+       "words": 383,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8f0477d8",
+       "title": {
+        "ru": "Functional limitations",
+        "en": "Functional limitations"
+       },
+       "words": 413,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_acb3e41e",
+       "title": {
+        "ru": "▷The vehicle has been parked using the Park",
+        "en": "▷The vehicle has been parked using the Park"
+       },
+       "words": 450,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8dae566d",
+       "title": {
+        "ru": "▷Park Assistant, see page 297.",
+        "en": "▷Park Assistant, see page 297."
+       },
+       "words": 472,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0db37792",
+       "title": {
+        "ru": "General",
+        "en": "General"
+       },
+       "words": 315,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_53f97f1f",
+       "title": {
+        "ru": "▷On: the LED is illuminated.",
+        "en": "▷On: the LED is illuminated."
+       },
+       "words": 388,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_800daabb",
+       "title": {
+        "ru": "\"Park Assist\".",
+        "en": "\"Park Assist\"."
+       },
+       "words": 262,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_228c3664",
+       "title": {
+        "ru": "The colour grading of the obstacle markings is",
+        "en": "The colour grading of the obstacle markings is"
+       },
+       "words": 285,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_08a0e471",
+       "title": {
+        "ru": "The maximum door opening angles are dis‐",
+        "en": "The maximum door opening angles are dis‐"
+       },
+       "words": 377,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b834ff9d",
+       "title": {
+        "ru": "With Parking Assistant",
+        "en": "With Parking Assistant"
+       },
+       "words": 307,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_58b041cc",
+       "title": {
+        "ru": "With navigation system:",
+        "en": "With navigation system:"
+       },
+       "words": 330,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0db37792",
+       "title": {
+        "ru": "General",
+        "en": "General"
+       },
+       "words": 262,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_c789ae86",
+       "title": {
+        "ru": "Depending on the equipment, the system is",
+        "en": "Depending on the equipment, the system is"
+       },
+       "words": 223,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8f0477d8",
+       "title": {
+        "ru": "Functional limitations",
+        "en": "Functional limitations"
+       },
+       "words": 101,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bebf84b5",
+       "title": {
+        "ru": "Driving comfort",
+        "en": "Driving comfort"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e48cf3be",
+       "title": {
+        "ru": "xOffroad package",
+        "en": "xOffroad package"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_dc042a93",
+       "title": {
+        "ru": "xOffroad driving modes in detail",
+        "en": "xOffroad driving modes in detail"
+       },
+       "words": 418,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_745bcbe8",
+       "title": {
+        "ru": "2. \"Driving information\"",
+        "en": "2. \"Driving information\""
+       },
+       "words": 338,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0db37792",
+       "title": {
+        "ru": "General",
+        "en": "General"
+       },
+       "words": 164,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_67cfd87f",
+       "title": {
+        "ru": "Air conditioning",
+        "en": "Air conditioning"
+       },
+       "words": 186,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_87b7760f",
+       "title": {
+        "ru": "Button",
+        "en": "Button"
+       },
+       "words": 290,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0f8628e8",
+       "title": {
+        "ru": "Ventilation temperature",
+        "en": "Ventilation temperature"
+       },
+       "words": 361,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cf8ba161",
+       "title": {
+        "ru": "Switching on/off",
+        "en": "Switching on/off"
+       },
+       "words": 354,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bfb9a0bc",
+       "title": {
+        "ru": "Adjusting",
+        "en": "Adjusting"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_4c6bfed6",
+       "title": {
+        "ru": "3. \"Climate comfort\"",
+        "en": "3. \"Climate comfort\""
+       },
+       "words": 322,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d31362c5",
+       "title": {
+        "ru": "▷Knurled wheel for steplessly opening and",
+        "en": "▷Knurled wheel for steplessly opening and"
+       },
+       "words": 137,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_87b7760f",
+       "title": {
+        "ru": "Button",
+        "en": "Button"
+       },
+       "words": 311,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_993f62ad",
+       "title": {
+        "ru": "AUTO programme",
+        "en": "AUTO programme"
+       },
+       "words": 291,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f89c6d8d",
+       "title": {
+        "ru": "Activating/deactivating",
+        "en": "Activating/deactivating"
+       },
+       "words": 176,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ee7a8e26",
+       "title": {
+        "ru": "Temperature",
+        "en": "Temperature"
+       },
+       "words": 322,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_993f62ad",
+       "title": {
+        "ru": "AUTO programme",
+        "en": "AUTO programme"
+       },
+       "words": 285,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f89c6d8d",
+       "title": {
+        "ru": "Activating/deactivating",
+        "en": "Activating/deactivating"
+       },
+       "words": 443,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_666d13f0",
+       "title": {
+        "ru": "Switching on/off directly",
+        "en": "Switching on/off directly"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_fb1f1857",
+       "title": {
+        "ru": "▷Departure time with day of the week: the time",
+        "en": "▷Departure time with day of the week: the time"
+       },
+       "words": 363,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_1fff2aee",
+       "title": {
+        "ru": "Press the vehicle key button three times",
+        "en": "Press the vehicle key button three times"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_619e4926",
+       "title": {
+        "ru": "4. Select the required departure time.",
+        "en": "4. Select the required departure time."
+       },
+       "words": 354,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_9af27bfc",
+       "title": {
+        "ru": "Calling up the air conditioning",
+        "en": "Calling up the air conditioning"
+       },
+       "words": 326,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3060adba",
+       "title": {
+        "ru": "Insert scent cartridges (left-hand",
+        "en": "Insert scent cartridges (left-hand"
+       },
+       "words": 209,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ec312881",
+       "title": {
+        "ru": "The cartridge holder slides downwards.",
+        "en": "The cartridge holder slides downwards."
+       },
+       "words": 98,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_6857577a",
+       "title": {
+        "ru": "▷Hand-held transmitter arrow 3; required for",
+        "en": "▷Hand-held transmitter arrow 3; required for"
+       },
+       "words": 459,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_71935549",
+       "title": {
+        "ru": "Reprogramming individual",
+        "en": "Reprogramming individual"
+       },
+       "words": 439,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ccc5bbd4",
+       "title": {
+        "ru": "Folding up",
+        "en": "Folding up"
+       },
+       "words": 175,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_59ec2623",
+       "title": {
+        "ru": "Lighter",
+        "en": "Lighter"
+       },
+       "words": 199,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0db37792",
+       "title": {
+        "ru": "General",
+        "en": "General"
+       },
+       "words": 237,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ff4115e4",
+       "title": {
+        "ru": "Inside the luggage compartment",
+        "en": "Inside the luggage compartment"
+       },
+       "words": 186,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_fa9ad67b",
+       "title": {
+        "ru": "Properties:",
+        "en": "Properties:"
+       },
+       "words": 330,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a885daca",
+       "title": {
+        "ru": "LED displays",
+        "en": "LED displays"
+       },
+       "words": 273,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_adf35072",
+       "title": {
+        "ru": "Fitting special equipment",
+        "en": "Fitting special equipment"
+       },
+       "words": 43,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_068e6371",
+       "title": {
+        "ru": "Storage compartments",
+        "en": "Storage compartments"
+       },
+       "words": 316,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_45d217a0",
+       "title": {
+        "ru": "integrated key, for example if the car is being",
+        "en": "integrated key, for example if the car is being"
+       },
+       "words": 239,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0a821ed9",
+       "title": {
+        "ru": "Front centre armrest",
+        "en": "Front centre armrest"
+       },
+       "words": 189,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_9bd99a0b",
+       "title": {
+        "ru": "Opening",
+        "en": "Opening"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_34c8ed99",
+       "title": {
+        "ru": "holder. Use lightweight, sealable and shatter‐",
+        "en": "holder. Use lightweight, sealable and shatter‐"
+       },
+       "words": 239,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_059e9861",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 72,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_25f58269",
+       "title": {
+        "ru": "Luggage compartment",
+        "en": "Luggage compartment"
+       },
+       "words": 416,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_399ec890",
+       "title": {
+        "ru": "the back seat, insert both outer seat belts into",
+        "en": "the back seat, insert both outer seat belts into"
+       },
+       "words": 229,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_9bd99a0b",
+       "title": {
+        "ru": "Opening",
+        "en": "Opening"
+       },
+       "words": 254,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_059e9861",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 284,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bbc155fb",
+       "title": {
+        "ru": "Switch",
+        "en": "Switch"
+       },
+       "words": 341,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_9db13945",
+       "title": {
+        "ru": "a risk of injury and material damage. Make sure",
+        "en": "a risk of injury and material damage. Make sure"
+       },
+       "words": 280,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e44b66d2",
+       "title": {
+        "ru": "Removing",
+        "en": "Removing"
+       },
+       "words": 213,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_701bf2ec",
+       "title": {
+        "ru": "4. Turn the luggage compartment cover and",
+        "en": "4. Turn the luggage compartment cover and"
+       },
+       "words": 306,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_c6a2cc6c",
+       "title": {
+        "ru": "Attaching the FlexNet",
+        "en": "Attaching the FlexNet"
+       },
+       "words": 221,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_2dbb9eda",
+       "title": {
+        "ru": "holders as far as they will go, arrow 1, and",
+        "en": "holders as far as they will go, arrow 1, and"
+       },
+       "words": 109,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_80b179e3",
+       "title": {
+        "ru": "Driving precautions",
+        "en": "Driving precautions"
+       },
+       "words": 351,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8684f05c",
+       "title": {
+        "ru": "parking, no flammable materials can come into",
+        "en": "parking, no flammable materials can come into"
+       },
+       "words": 460,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b1c7b64",
+       "title": {
+        "ru": "▷Deactivate the Automatic Start/Stop function.",
+        "en": "▷Deactivate the Automatic Start/Stop function."
+       },
+       "words": 491,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_abd6c28d",
+       "title": {
+        "ru": "▷Do not allow objects to protrude into the",
+        "en": "▷Do not allow objects to protrude into the"
+       },
+       "words": 389,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a3b148e4",
+       "title": {
+        "ru": "The higher mechanical and thermal loads in‐",
+        "en": "The higher mechanical and thermal loads in‐"
+       },
+       "words": 79,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a9e3c66f",
+       "title": {
+        "ru": "Towing a trailer",
+        "en": "Towing a trailer"
+       },
+       "words": 465,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b48ea086",
+       "title": {
+        "ru": "Stow the load as low as possible and as close as",
+        "en": "Stow the load as low as possible and as close as"
+       },
+       "words": 412,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e56d8116",
+       "title": {
+        "ru": "Operating requirements",
+        "en": "Operating requirements"
+       },
+       "words": 338,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_2d4f1818",
+       "title": {
+        "ru": "Trailer socket",
+        "en": "Trailer socket"
+       },
+       "words": 242,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ade4452b",
+       "title": {
+        "ru": "Removing the cover",
+        "en": "Removing the cover"
+       },
+       "words": 117,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bd407b55",
+       "title": {
+        "ru": "Keep an appropriate distance from the vehicle",
+        "en": "Keep an appropriate distance from the vehicle"
+       },
+       "words": 439,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_6a664e76",
+       "title": {
+        "ru": "▷ECO PRO air conditioning.",
+        "en": "▷ECO PRO air conditioning."
+       },
+       "words": 285,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cfaa1860",
+       "title": {
+        "ru": "Resetting settings",
+        "en": "Resetting settings"
+       },
+       "words": 333,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_20876016",
+       "title": {
+        "ru": "data, certain sections of the route ahead can be",
+        "en": "data, certain sections of the route ahead can be"
+       },
+       "words": 362,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_af3f3962",
+       "title": {
+        "ru": "System limits",
+        "en": "System limits"
+       },
+       "words": 401,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b9987a24",
+       "title": {
+        "ru": "Display",
+        "en": "Display"
+       },
+       "words": 348,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_69d5a316",
+       "title": {
+        "ru": "Wheels and tyres",
+        "en": "Wheels and tyres"
+       },
+       "words": 319,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8c34c690",
+       "title": {
+        "ru": "For Australia/New Zealand",
+        "en": "For Australia/New Zealand"
+       },
+       "words": 455,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_409ca6ea",
+       "title": {
+        "ru": "Reinitialise the runflat indicator RPA.",
+        "en": "Reinitialise the runflat indicator RPA."
+       },
+       "words": 307,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_059e9861",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 421,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_69eaa682",
+       "title": {
+        "ru": "tion is available from a Service Partner of the",
+        "en": "tion is available from a Service Partner of the"
+       },
+       "words": 428,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b021df6a",
+       "title": {
+        "ru": "Label",
+        "en": "Label"
+       },
+       "words": 322,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_236e7163",
+       "title": {
+        "ru": "Sealant container",
+        "en": "Sealant container"
+       },
+       "words": 253,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_12451bce",
+       "title": {
+        "ru": "2. Pull filler hose completely from the cover of",
+        "en": "2. Pull filler hose completely from the cover of"
+       },
+       "words": 206,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3f37d60e",
+       "title": {
+        "ru": "Removing and storing the sealant",
+        "en": "Removing and storing the sealant"
+       },
+       "words": 318,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_4363dcce",
+       "title": {
+        "ru": "3. Insert the plug into the socket in the vehicle",
+        "en": "3. Insert the plug into the socket in the vehicle"
+       },
+       "words": 345,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_4061813a",
+       "title": {
+        "ru": "Do not initialise the runflat indicator RPA with",
+        "en": "Do not initialise the runflat indicator RPA with"
+       },
+       "words": 423,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_9af76a7b",
+       "title": {
+        "ru": "incorrect. As a result, reliable signalling of a loss",
+        "en": "incorrect. As a result, reliable signalling of a loss"
+       },
+       "words": 430,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_eb2d4488",
+       "title": {
+        "ru": "The current tyre inflation pressures can vary de‐",
+        "en": "The current tyre inflation pressures can vary de‐"
+       },
+       "words": 450,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d5f90f0e",
+       "title": {
+        "ru": "You can interrupt your journey at any time. The",
+        "en": "You can interrupt your journey at any time. The"
+       },
+       "words": 371,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e7bd3809",
+       "title": {
+        "ru": "The symbol identifying run-flat tyres is a cir‐",
+        "en": "The symbol identifying run-flat tyres is a cir‐"
+       },
+       "words": 368,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7704e9e1",
+       "title": {
+        "ru": "2. At the next opportunity, for example at a filling",
+        "en": "2. At the next opportunity, for example at a filling"
+       },
+       "words": 479,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bc56b721",
+       "title": {
+        "ru": "Maximum speed",
+        "en": "Maximum speed"
+       },
+       "words": 454,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bebd30ac",
+       "title": {
+        "ru": "Control message is shown. Tyre pressure losses",
+        "en": "Control message is shown. Tyre pressure losses"
+       },
+       "words": 406,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a6c442f6",
+       "title": {
+        "ru": "Continuing a journey with a flat tyre",
+        "en": "Continuing a journey with a flat tyre"
+       },
+       "words": 498,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_905c51c5",
+       "title": {
+        "ru": "If the vehicle is raised with the jack, do not lie",
+        "en": "If the vehicle is raised with the jack, do not lie"
+       },
+       "words": 534,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f39947c4",
+       "title": {
+        "ru": "The jack of your BMW is maintenance-free.",
+        "en": "The jack of your BMW is maintenance-free."
+       },
+       "words": 283,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_60e56c1e",
+       "title": {
+        "ru": "▷Switch on the hazard warning lights.",
+        "en": "▷Switch on the hazard warning lights."
+       },
+       "words": 227,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_73081dc1",
+       "title": {
+        "ru": "4. Remove your hand from the jack as soon as",
+        "en": "4. Remove your hand from the jack as soon as"
+       },
+       "words": 394,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8583cf46",
+       "title": {
+        "ru": "Spare wheel",
+        "en": "Spare wheel"
+       },
+       "words": 310,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_a4b43c99",
+       "title": {
+        "ru": "4. Tie the lashing strap. Make sure that it is",
+        "en": "4. Tie the lashing strap. Make sure that it is"
+       },
+       "words": 70,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_059e9861",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 249,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_9029b57b",
+       "title": {
+        "ru": "Operating fluids",
+        "en": "Operating fluids"
+       },
+       "words": 374,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d946eddd",
+       "title": {
+        "ru": "Super, RON 95.",
+        "en": "Super, RON 95."
+       },
+       "words": 272,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d21d91a9",
+       "title": {
+        "ru": "AdBlue reduction agents is a registered trade‐",
+        "en": "AdBlue reduction agents is a registered trade‐"
+       },
+       "words": 452,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3e1a3312",
+       "title": {
+        "ru": "Topping up AdBlue yourself",
+        "en": "Topping up AdBlue yourself"
+       },
+       "words": 394,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_98394325",
+       "title": {
+        "ru": "Adding reducing agent",
+        "en": "Adding reducing agent"
+       },
+       "words": 178,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0db37792",
+       "title": {
+        "ru": "General",
+        "en": "General"
+       },
+       "words": 352,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_0f40b656",
+       "title": {
+        "ru": "The viscosity classes SAE 0W-20 and",
+        "en": "The viscosity classes SAE 0W-20 and"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3eece9f4",
+       "title": {
+        "ru": "3. Turn cap on coolant tank slightly anticlock‐",
+        "en": "3. Turn cap on coolant tank slightly anticlock‐"
+       },
+       "words": 371,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 61,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_10d0de28",
+       "title": {
+        "ru": "Maintenance",
+        "en": "Maintenance"
+       },
+       "words": 403,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_42f2cb2c",
+       "title": {
+        "ru": "Have the vehicle checked as soon as",
+        "en": "Have the vehicle checked as soon as"
+       },
+       "words": 113,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e69da814",
+       "title": {
+        "ru": "Replacing parts",
+        "en": "Replacing parts"
+       },
+       "words": 281,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e0217a57",
+       "title": {
+        "ru": "Replacing the rear wiper blade",
+        "en": "Replacing the rear wiper blade"
+       },
+       "words": 351,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e2dbaf19",
+       "title": {
+        "ru": "Notes on installation",
+        "en": "Notes on installation"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_263af2be",
+       "title": {
+        "ru": "Batteries filled with acid should be transported",
+        "en": "Batteries filled with acid should be transported"
+       },
+       "words": 283,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_27716ab6",
+       "title": {
+        "ru": "Help in case of a breakdown",
+        "en": "Help in case of a breakdown"
+       },
+       "words": 178,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8c4aa541",
+       "title": {
+        "ru": "Storage",
+        "en": "Storage"
+       },
+       "words": 342,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f47d56fa",
+       "title": {
+        "ru": "BMW Accident Assistance",
+        "en": "BMW Accident Assistance"
+       },
+       "words": 358,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_3b878279",
+       "title": {
+        "ru": "Overview",
+        "en": "Overview"
+       },
+       "words": 408,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cc45dc8c",
+       "title": {
+        "ru": "mobile telephone network and national regula‐",
+        "en": "mobile telephone network and national regula‐"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_5039e816",
+       "title": {
+        "ru": "▷Do not inhale the extinguishing agent. If",
+        "en": "▷Do not inhale the extinguishing agent. If"
+       },
+       "words": 407,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7162e63e",
+       "title": {
+        "ru": "Jump-starting connections",
+        "en": "Jump-starting connections"
+       },
+       "words": 424,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_10de4bc8",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 424,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_96e864ff",
+       "title": {
+        "ru": "Towing eye",
+        "en": "Towing eye"
+       },
+       "words": 234,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_70032112",
+       "title": {
+        "ru": "General care",
+        "en": "General care"
+       },
+       "words": 356,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cd6bcdfb",
+       "title": {
+        "ru": "Entering a car wash with a",
+        "en": "Entering a car wash with a"
+       },
+       "words": 419,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_5fe2e19e",
+       "title": {
+        "ru": "Matt paintwork",
+        "en": "Matt paintwork"
+       },
+       "words": 440,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_c7ea33c7",
+       "title": {
+        "ru": "Plastic parts",
+        "en": "Plastic parts"
+       },
+       "words": 476,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cbfe3ef8",
+       "title": {
+        "ru": "Clean the protective glass of the Head-Up Dis‐",
+        "en": "Clean the protective glass of the Head-Up Dis‐"
+       },
+       "words": 96,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_55826c56",
+       "title": {
+        "ru": "Technical data",
+        "en": "Technical data"
+       },
+       "words": 277,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_8831731b",
+       "title": {
+        "ru": "Weights",
+        "en": "Weights"
+       },
+       "words": 203,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_aee8b27e",
+       "title": {
+        "ru": "X7 xDrive40d",
+        "en": "X7 xDrive40d"
+       },
+       "words": 253,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7d7e89df",
+       "title": {
+        "ru": "X7 xDrive40i",
+        "en": "X7 xDrive40i"
+       },
+       "words": 298,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_65a3a858",
+       "title": {
+        "ru": "X7 xDrive30d",
+        "en": "X7 xDrive30d"
+       },
+       "words": 282,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_aee8b27e",
+       "title": {
+        "ru": "X7 xDrive40d",
+        "en": "X7 xDrive40d"
+       },
+       "words": 265,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ce1b9fd9",
+       "title": {
+        "ru": "Seats for child restraint systems",
+        "en": "Seats for child restraint systems"
+       },
+       "words": 243,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e2b8a5de",
+       "title": {
+        "ru": "Seat position",
+        "en": "Seat position"
+       },
+       "words": 258,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_e2b8a5de",
+       "title": {
+        "ru": "Seat position",
+        "en": "Seat position"
+       },
+       "words": 167,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cff1be7f",
+       "title": {
+        "ru": "Appendix",
+        "en": "Appendix"
+       },
+       "words": 110,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_bf4ff60a",
+       "title": {
+        "ru": "Anti-theft alarm system, see Alarm system 116",
+        "en": "Anti-theft alarm system, see Alarm system 116"
+       },
+       "words": 405,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_ac3012a3",
+       "title": {
+        "ru": "BMW Services, see Owner's Handbook for Navi‐",
+        "en": "BMW Services, see Owner's Handbook for Navi‐"
+       },
+       "words": 427,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_5f902370",
+       "title": {
+        "ru": "Cigarette lighter 347",
+        "en": "Cigarette lighter 347"
+       },
+       "words": 422,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_61bc9a64",
+       "title": {
+        "ru": "Deleting personal data 74",
+        "en": "Deleting personal data 74"
+       },
+       "words": 429,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_7e45cf31",
+       "title": {
+        "ru": "ECO PRO, driving style analysis 390",
+        "en": "ECO PRO, driving style analysis 390"
+       },
+       "words": 457,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_d0e61da0",
+       "title": {
+        "ru": "Fire extinguisher 449",
+        "en": "Fire extinguisher 449"
+       },
+       "words": 412,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_f0593a8e",
+       "title": {
+        "ru": "Headlights, care 455",
+        "en": "Headlights, care 455"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_beed96c1",
+       "title": {
+        "ru": "Kenaf, care 456",
+        "en": "Kenaf, care 456"
+       },
+       "words": 390,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_958b26fb",
+       "title": {
+        "ru": "Opening with the Key Card 97",
+        "en": "Opening with the Key Card 97"
+       },
+       "words": 415,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_49a3f6cf",
+       "title": {
+        "ru": "Rear luggage rack 375",
+        "en": "Rear luggage rack 375"
+       },
+       "words": 451,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_2724b960",
+       "title": {
+        "ru": "Running in 370",
+        "en": "Running in 370"
+       },
+       "words": 421,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_b49e260d",
+       "title": {
+        "ru": "SMS, see Short messages, see Owner's",
+        "en": "SMS, see Short messages, see Owner's"
+       },
+       "words": 431,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_6f637f6d",
+       "title": {
+        "ru": "Switch for driving dynamics, see Driving Experi‐",
+        "en": "Switch for driving dynamics, see Driving Experi‐"
+       },
+       "words": 431,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_12c4add8",
+       "title": {
+        "ru": "Warning of crossing traffic 311",
+        "en": "Warning of crossing traffic 311"
+       },
+       "words": 242,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "t_cb048c94",
+       "title": {
+        "ru": "The Ultimate",
+        "en": "The Ultimate"
+       },
+       "words": 47,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "Безопасность",
+      "en": "Safety"
+     },
+     "icon": "🦺",
+     "topics": [
+      {
+       "id": "t_1e5de3d6",
+       "title": {
+        "ru": "Safety notes",
+        "en": "Safety notes"
+       },
+       "words": 365,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_371258a8",
+       "title": {
+        "ru": "Safety note",
+        "en": "Safety note"
+       },
+       "words": 493,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_f761ac97",
+       "title": {
+        "ru": "Safety function",
+        "en": "Safety function"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_1e5de3d6",
+       "title": {
+        "ru": "Safety notes",
+        "en": "Safety notes"
+       },
+       "words": 333,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_1e5de3d6",
+       "title": {
+        "ru": "Safety notes",
+        "en": "Safety notes"
+       },
+       "words": 283,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_371258a8",
+       "title": {
+        "ru": "Safety note",
+        "en": "Safety note"
+       },
+       "words": 302,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_6472ce41",
+       "title": {
+        "ru": "Safety",
+        "en": "Safety"
+       },
+       "words": 174,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_f3523f19",
+       "title": {
+        "ru": "Intelligent Safety Systems before tow-starting/",
+        "en": "Intelligent Safety Systems before tow-starting/"
+       },
+       "words": 289,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_1e5de3d6",
+       "title": {
+        "ru": "Safety notes",
+        "en": "Safety notes"
+       },
+       "words": 351,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_1e5de3d6",
+       "title": {
+        "ru": "Safety notes",
+        "en": "Safety notes"
+       },
+       "words": 316,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_371258a8",
+       "title": {
+        "ru": "Safety note",
+        "en": "Safety note"
+       },
+       "words": 260,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_cbdbffed",
+       "title": {
+        "ru": "For safety reasons, lowering is only possi‐",
+        "en": "For safety reasons, lowering is only possi‐"
+       },
+       "words": 527,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_1e5de3d6",
+       "title": {
+        "ru": "Safety notes",
+        "en": "Safety notes"
+       },
+       "words": 409,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_371258a8",
+       "title": {
+        "ru": "Safety note",
+        "en": "Safety note"
+       },
+       "words": 432,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_1e5de3d6",
+       "title": {
+        "ru": "Safety notes",
+        "en": "Safety notes"
+       },
+       "words": 453,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_1e5de3d6",
+       "title": {
+        "ru": "Safety notes",
+        "en": "Safety notes"
+       },
+       "words": 397,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_371258a8",
+       "title": {
+        "ru": "Safety note",
+        "en": "Safety note"
+       },
+       "words": 454,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "t_1e5de3d6",
+       "title": {
+        "ru": "Safety notes",
+        "en": "Safety notes"
+       },
+       "words": 349,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "t_23594898",
+       "title": {
+        "ru": "Seats, mirrors and steering wheel",
+        "en": "Seats, mirrors and steering wheel"
+       },
+       "words": 351,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "t_eb03849a",
+       "title": {
+        "ru": "Switching steering intervention",
+        "en": "Switching steering intervention"
+       },
+       "words": 431,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "t_8ad4318c",
+       "title": {
+        "ru": "Integral Active Steering",
+        "en": "Integral Active Steering"
+       },
+       "words": 308,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "t_658080b7",
+       "title": {
+        "ru": "Press the button on the steering wheel.",
+        "en": "Press the button on the steering wheel."
+       },
+       "words": 363,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "fuel",
+     "title": {
+      "ru": "Топливная система",
+      "en": "Fuel System"
+     },
+     "icon": "⛽",
+     "topics": [
+      {
+       "id": "t_31108480",
+       "title": {
+        "ru": "Saving fuel",
+        "en": "Saving fuel"
+       },
+       "words": 361,
+       "images": 0,
+       "section_id": "fuel"
+      },
+      {
+       "id": "t_7b8efff9",
+       "title": {
+        "ru": "Refuelling",
+        "en": "Refuelling"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "fuel"
+      },
+      {
+       "id": "t_562ba30d",
+       "title": {
+        "ru": "2. Turn the fuel tank cap anticlockwise.",
+        "en": "2. Turn the fuel tank cap anticlockwise."
+       },
+       "words": 192,
+       "images": 0,
+       "section_id": "fuel"
+      },
+      {
+       "id": "t_fe8c5dfd",
+       "title": {
+        "ru": "Observe the additional information on fuel qual‐",
+        "en": "Observe the additional information on fuel qual‐"
+       },
+       "words": 35,
+       "images": 0,
+       "section_id": "fuel"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1115 @@
+{
+ "version": "1.0",
+ "model": "is",
+ "manuals": [
+  {
+   "model": "is",
+   "label": {
+    "ru": "Lexus Is — Руководство по ремонту",
+    "en": "Lexus Is — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "lexus_is_engine_t000_4663e457",
+       "title": {
+        "ru": "ACCESSORY or IGNITION ON",
+        "en": "ACCESSORY or IGNITION ON"
+       },
+       "words": 1816,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_is_engine_t001_5476064f",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1104,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_is_engine_t002_922a9aa1",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1032,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_is_engine_t003_26e4eeef",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1244,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_is_engine_t004_1b1bd7e2",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 632,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_is_engine_t005_8a96d9b6",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 840,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_is_engine_t006_772528b5",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 908,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_is_engine_t007_506496bb",
+       "title": {
+        "ru": "IS300 AWD)",
+        "en": "IS300 AWD)"
+       },
+       "words": 988,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_is_engine_t008_c30a406f",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1169,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "lexus_is_engine_t009_41be6f67",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 44,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "lexus_is_brakes_t000_02429c87",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2963,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lexus_is_brakes_t001_4ad50233",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1374,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "lexus_is_brakes_t002_941be5d8",
+       "title": {
+        "ru": "AVERTISSEMENT",
+        "en": "AVERTISSEMENT"
+       },
+       "words": 887,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "lexus_is_hvac_t000_238034ed",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1220,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "lexus_is_hvac_t001_b00233c8",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 53,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "lexus_is_body_t000_fce17c62",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 4142,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_is_body_t001_7b673df5",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1438,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_is_body_t002_c2aaa039",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1486,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_is_body_t003_86117d31",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1754,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_is_body_t004_39de7d40",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1619,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_is_body_t005_f0d5c1f3",
+       "title": {
+        "ru": "AUTO",
+        "en": "AUTO"
+       },
+       "words": 1426,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_is_body_t006_f72760e2",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1506,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_is_body_t007_4eb2a1d0",
+       "title": {
+        "ru": "MPEG1 AUDIO LAYERIII: 32-320 (kbps)",
+        "en": "MPEG1 AUDIO LAYERIII: 32-320 (kbps)"
+       },
+       "words": 903,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_is_body_t008_e7c42c93",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1780,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_is_body_t009_770fa680",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1270,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_is_body_t010_78727280",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1403,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "lexus_is_body_t011_31887ee6",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 842,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "lexus_is_steering_t000_6044f436",
+       "title": {
+        "ru": "NOTICE:",
+        "en": "NOTICE:"
+       },
+       "words": 1203,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "lexus_is_steering_t001_888669c4",
+       "title": {
+        "ru": "MP3/WMA/AAC",
+        "en": "MP3/WMA/AAC"
+       },
+       "words": 904,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "lexus_is_steering_t002_91b3b239",
+       "title": {
+        "ru": "MPEG4/AAC-LC",
+        "en": "MPEG4/AAC-LC"
+       },
+       "words": 1562,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "lexus_is_steering_t003_97b0ae99",
+       "title": {
+        "ru": "(F SPORT",
+        "en": "(F SPORT"
+       },
+       "words": 226,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "lexus_is_lighting_t000_6fba8fa1",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 786,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_is_lighting_t001_cd3d5efc",
+       "title": {
+        "ru": "(P. 202)",
+        "en": "(P. 202)"
+       },
+       "words": 756,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_is_lighting_t002_ce27c9a2",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1160,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_is_lighting_t003_5cd77821",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 2144,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_is_lighting_t004_46b07ab7",
+       "title": {
+        "ru": "AM, FM",
+        "en": "AM, FM"
+       },
+       "words": 1776,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_is_lighting_t005_46d5e1e4",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 994,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "lexus_is_lighting_t006_3eb86d3d",
+       "title": {
+        "ru": "(P. 462)",
+        "en": "(P. 462)"
+       },
+       "words": 403,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "lexus_is_adas_t000_ce2b9acc",
+       "title": {
+        "ru": "(P. 525)",
+        "en": "(P. 525)"
+       },
+       "words": 992,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "lexus_is_adas_t001_a6689841",
+       "title": {
+        "ru": "• PCS",
+        "en": "• PCS"
+       },
+       "words": 749,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "lexus_is_interior_t000_00d1d8ca",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2241,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_is_interior_t001_5005fa87",
+       "title": {
+        "ru": "“AIR BAG ON” and “AIR BAG",
+        "en": "“AIR BAG ON” and “AIR BAG"
+       },
+       "words": 1441,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_is_interior_t002_1147b512",
+       "title": {
+        "ru": "“AIR BAG OFF”",
+        "en": "“AIR BAG OFF”"
+       },
+       "words": 952,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_is_interior_t003_929d71d5",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 941,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "lexus_is_interior_t004_b9c74925",
+       "title": {
+        "ru": "ON” et “AIR BAG OFF”",
+        "en": "ON” et “AIR BAG OFF”"
+       },
+       "words": 954,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "wheels",
+     "title": {
+      "ru": "Колёса и шины",
+      "en": "Wheels & Tires"
+     },
+     "icon": "🛞",
+     "topics": [
+      {
+       "id": "lexus_is_wheels_t000_162564f1",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1609,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_is_wheels_t001_25641379",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1228,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_is_wheels_t002_aa94bca3",
+       "title": {
+        "ru": "P. 532",
+        "en": "P. 532"
+       },
+       "words": 1626,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_is_wheels_t003_a60492de",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 932,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_is_wheels_t004_7dc5333f",
+       "title": {
+        "ru": "(P. 604)",
+        "en": "(P. 604)"
+       },
+       "words": 1401,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "lexus_is_wheels_t005_10da9935",
+       "title": {
+        "ru": "P. 462",
+        "en": "P. 462"
+       },
+       "words": 87,
+       "images": 0,
+       "section_id": "wheels"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "lexus_is_maintenance_t000_a380ffdd",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 744,
+       "images": 0,
+       "section_id": "maintenance"
+      },
+      {
+       "id": "lexus_is_maintenance_t001_ae117f95",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 751,
+       "images": 0,
+       "section_id": "maintenance"
+      },
+      {
+       "id": "lexus_is_maintenance_t002_c9780e10",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 373,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "lexus_is_ev_t000_5f0f3077",
+       "title": {
+        "ru": "SYSTEM OWNER’S MANUAL”.",
+        "en": "SYSTEM OWNER’S MANUAL”."
+       },
+       "words": 922,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "lexus_is_ev_t001_de4f09d4",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 46,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "lexus_is_general_t000_aeb0a486",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1830,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_is_general_t001_8cb09094",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 877,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_is_general_t002_4262f219",
+       "title": {
+        "ru": "OWNER’S",
+        "en": "OWNER’S"
+       },
+       "words": 1042,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_is_general_t003_f66efbf0",
+       "title": {
+        "ru": "USE OF CONTROL OR ADJUSTMENT OR PERFORMANCE OF PROCE-",
+        "en": "USE OF CONTROL OR ADJUSTMENT OR PERFORMANCE OF PROCE-"
+       },
+       "words": 1425,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_is_general_t004_ff3d3973",
+       "title": {
+        "ru": "“NAVIGATION SYSTEM OWNER’S MANUAL”.",
+        "en": "“NAVIGATION SYSTEM OWNER’S MANUAL”."
+       },
+       "words": 786,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "lexus_is_general_t005_9be55e45",
+       "title": {
+        "ru": "SAE J1704 or FMVSS No. 116 DOT 4",
+        "en": "SAE J1704 or FMVSS No. 116 DOT 4"
+       },
+       "words": 646,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_is_infotainment_t000_781dd462",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1341,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t001_81b7b899",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1426,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t002_bf881be2",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1039,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t003_33b91d6a",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1035,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t004_69484bf1",
+       "title": {
+        "ru": "“DSP”",
+        "en": "“DSP”"
+       },
+       "words": 633,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t005_32da14f4",
+       "title": {
+        "ru": "●RADIO OPERATION",
+        "en": "●RADIO OPERATION"
+       },
+       "words": 971,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t006_4c367345",
+       "title": {
+        "ru": "MPEG1 AUDIO LAYERIII: 32, 44.1, 48 (kHz)",
+        "en": "MPEG1 AUDIO LAYERIII: 32, 44.1, 48 (kHz)"
+       },
+       "words": 855,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t007_ea4a437b",
+       "title": {
+        "ru": "(P. 363)",
+        "en": "(P. 363)"
+       },
+       "words": 823,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t008_e4dda947",
+       "title": {
+        "ru": "(P. 368)",
+        "en": "(P. 368)"
+       },
+       "words": 716,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t009_4c7bf8d0",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1559,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t010_45cdeeb8",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 982,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t011_de60e164",
+       "title": {
+        "ru": "“NAVIGATION SYSTEM OWNER’S MANUAL”.",
+        "en": "“NAVIGATION SYSTEM OWNER’S MANUAL”."
+       },
+       "words": 860,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "lexus_is_infotainment_t012_bc2afb27",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 831,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_is_drivetrain_t000_110942bb",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1569,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_is_drivetrain_t001_1eceea56",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1300,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_is_drivetrain_t002_e624d6a3",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1918,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_is_drivetrain_t003_b6d06339",
+       "title": {
+        "ru": "■AI-SHIFT",
+        "en": "■AI-SHIFT"
+       },
+       "words": 1878,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_is_drivetrain_t004_f3336db7",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1845,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_is_drivetrain_t005_76dfc0ee",
+       "title": {
+        "ru": "●IMPORTANT INFORMATION ABOUT YOUR SUBSCRIPTION:",
+        "en": "●IMPORTANT INFORMATION ABOUT YOUR SUBSCRIPTION:"
+       },
+       "words": 1750,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_is_drivetrain_t006_68ed736d",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1629,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_is_drivetrain_t007_a6a6ea52",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1479,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_is_drivetrain_t008_24739fb0",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 933,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_is_drivetrain_t009_c474df3f",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1298,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_is_drivetrain_t010_ecf8fbbf",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1188,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "lexus_is_drivetrain_t011_449bd9da",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 790,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_is_safety_t000_bd536379",
+       "title": {
+        "ru": "U.S.A.",
+        "en": "U.S.A."
+       },
+       "words": 2080,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_is_safety_t001_abc7109b",
+       "title": {
+        "ru": "“AIR BAG OFF”",
+        "en": "“AIR BAG OFF”"
+       },
+       "words": 1678,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_is_safety_t002_40a0d4ae",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1446,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_is_safety_t003_29eb19b1",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2026,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "lexus_is_safety_t004_def7bb08",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 1757,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "lexus_is_sensors_t000_ad0efa3c",
+       "title": {
+        "ru": "IS350 AWD/IS350/IS300 AWD/IS300_U",
+        "en": "IS350 AWD/IS350/IS300 AWD/IS300_U"
+       },
+       "words": 2576,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "lexus_is_sensors_t001_743e05da",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1859,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

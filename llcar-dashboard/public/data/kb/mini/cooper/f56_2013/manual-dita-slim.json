@@ -1,0 +1,1415 @@
+{
+ "version": "1.0",
+ "model": "cooper",
+ "manuals": [
+  {
+   "model": "cooper",
+   "label": {
+    "ru": "Mini Cooper — Руководство по ремонту",
+    "en": "Mini Cooper — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "mini_cooper_engine_t000_f7e509e0",
+       "title": {
+        "ru": "CRANKSHAFT Main bearings",
+        "en": "CRANKSHAFT Main bearings"
+       },
+       "words": 1132,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t001_7833ace1",
+       "title": {
+        "ru": "MINI 850/1000 SALOON, VAN, & PICK-UP",
+        "en": "MINI 850/1000 SALOON, VAN, & PICK-UP"
+       },
+       "words": 545,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t002_986b78fd",
+       "title": {
+        "ru": "ENGINE LUBRICATION SYSTEM",
+        "en": "ENGINE LUBRICATION SYSTEM"
+       },
+       "words": 721,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t003_4628cd59",
+       "title": {
+        "ru": "Vacuum advance",
+        "en": "Vacuum advance"
+       },
+       "words": 956,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t004_5e043bc2",
+       "title": {
+        "ru": "Centrifugal advance",
+        "en": "Centrifugal advance"
+       },
+       "words": 602,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t005_7d0178f6",
+       "title": {
+        "ru": "Vacuum advance",
+        "en": "Vacuum advance"
+       },
+       "words": 239,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t006_c3f48c97",
+       "title": {
+        "ru": "Draining and refilling",
+        "en": "Draining and refilling"
+       },
+       "words": 334,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t007_4515c770",
+       "title": {
+        "ru": "Contact breaker—lubrication",
+        "en": "Contact breaker—lubrication"
+       },
+       "words": 1041,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t008_0b18a8e7",
+       "title": {
+        "ru": "Removing and dismantling",
+        "en": "Removing and dismantling"
+       },
+       "words": 1219,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t009_0ed86934",
+       "title": {
+        "ru": "Removing engine from sub-frame",
+        "en": "Removing engine from sub-frame"
+       },
+       "words": 1026,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t010_11ba817d",
+       "title": {
+        "ru": "Primary gear bushes",
+        "en": "Primary gear bushes"
+       },
+       "words": 1212,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t011_aa8b011b",
+       "title": {
+        "ru": "Cylinder liners",
+        "en": "Cylinder liners"
+       },
+       "words": 1070,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t012_4fe20a78",
+       "title": {
+        "ru": "The enginelautomatic transmission oil filter. (Inset) the filter components",
+        "en": "The enginelautomatic transmission oil filter. (Inset) the filter components"
+       },
+       "words": 1417,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t013_dadca79e",
+       "title": {
+        "ru": "Inspecting",
+        "en": "Inspecting"
+       },
+       "words": 877,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t014_f21003cc",
+       "title": {
+        "ru": "Draining and reflling",
+        "en": "Draining and reflling"
+       },
+       "words": 1220,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t015_27dc50bc",
+       "title": {
+        "ru": "Right-hand mounting",
+        "en": "Right-hand mounting"
+       },
+       "words": 719,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t016_025ae1ed",
+       "title": {
+        "ru": "Stroboscopic check",
+        "en": "Stroboscopic check"
+       },
+       "words": 624,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t017_9e3e3ff2",
+       "title": {
+        "ru": "General description and operation",
+        "en": "General description and operation"
+       },
+       "words": 946,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t018_c4841533",
+       "title": {
+        "ru": "A section through the clutch master cylinder",
+        "en": "A section through the clutch master cylinder"
+       },
+       "words": 977,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t019_ba0b08dc",
+       "title": {
+        "ru": "The low-pressure valve",
+        "en": "The low-pressure valve"
+       },
+       "words": 639,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t020_725d7e80",
+       "title": {
+        "ru": "Removing (later 848-c.c. and 998-c.c. models)",
+        "en": "Removing (later 848-c.c. and 998-c.c. models)"
+       },
+       "words": 1998,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t021_06949687",
+       "title": {
+        "ru": "Removing front and rear",
+        "en": "Removing front and rear"
+       },
+       "words": 737,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t022_d530aaa9",
+       "title": {
+        "ru": "THE VACUUM SERVO COMPONENTS (Lockheed Type 6)",
+        "en": "THE VACUUM SERVO COMPONENTS (Lockheed Type 6)"
+       },
+       "words": 1878,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t023_f18667de",
+       "title": {
+        "ru": "PRESSURE FAILURE SWITCH ASSEMBLY (Split braking system)",
+        "en": "PRESSURE FAILURE SWITCH ASSEMBLY (Split braking system)"
+       },
+       "words": 1196,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t024_39ce96ce",
+       "title": {
+        "ru": "18G 123 AN. Camshaft Liner Reamer Cutter—Front",
+        "en": "18G 123 AN. Camshaft Liner Reamer Cutter—Front"
+       },
+       "words": 708,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "mini_cooper_engine_t025_4197a854",
+       "title": {
+        "ru": "18G 123 AQ. Camshaft Liner Reamer Pilot—Front",
+        "en": "18G 123 AQ. Camshaft Liner Reamer Pilot—Front"
+       },
+       "words": 40,
+       "images": 6,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "mini_cooper_brakes_t000_88da2d04",
+       "title": {
+        "ru": "BRAKE AND CLUTCH FLUID",
+        "en": "BRAKE AND CLUTCH FLUID"
+       },
+       "words": 684,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mini_cooper_brakes_t001_cd171821",
+       "title": {
+        "ru": "Reassembling the transmission unit",
+        "en": "Reassembling the transmission unit"
+       },
+       "words": 1773,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mini_cooper_brakes_t002_4dc59ca0",
+       "title": {
+        "ru": "Dismantling gear train (early-type)",
+        "en": "Dismantling gear train (early-type)"
+       },
+       "words": 941,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mini_cooper_brakes_t003_67650e43",
+       "title": {
+        "ru": "Removing disc brake friction pads",
+        "en": "Removing disc brake friction pads"
+       },
+       "words": 755,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mini_cooper_brakes_t004_1687ab03",
+       "title": {
+        "ru": "BLEEDING THE SYSTEM (Split braking system)",
+        "en": "BLEEDING THE SYSTEM (Split braking system)"
+       },
+       "words": 785,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "mini_cooper_brakes_t005_4ce2ffbb",
+       "title": {
+        "ru": "Commutator",
+        "en": "Commutator"
+       },
+       "words": 47,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "mini_cooper_suspension_t000_f74ce207",
+       "title": {
+        "ru": "HYDRAULIC DAMPERS (Rubber suspension only)",
+        "en": "HYDRAULIC DAMPERS (Rubber suspension only)"
+       },
+       "words": 435,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mini_cooper_suspension_t001_d768c2cc",
+       "title": {
+        "ru": "SUSPENSION—up to Commission No. S 20 D 8155A",
+        "en": "SUSPENSION—up to Commission No. S 20 D 8155A"
+       },
+       "words": 422,
+       "images": 1,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mini_cooper_suspension_t002_2521f3c4",
+       "title": {
+        "ru": "Contact breaker—renewing",
+        "en": "Contact breaker—renewing"
+       },
+       "words": 645,
+       "images": 3,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mini_cooper_suspension_t003_ac4cdf13",
+       "title": {
+        "ru": "THE AUF 201 and SP FUEL PUMP COMPONENTS",
+        "en": "THE AUF 201 and SP FUEL PUMP COMPONENTS"
+       },
+       "words": 989,
+       "images": 2,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mini_cooper_suspension_t004_285f646d",
+       "title": {
+        "ru": "Dismantling .ь",
+        "en": "Dismantling .ь"
+       },
+       "words": 793,
+       "images": 6,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mini_cooper_suspension_t005_7dd2f23b",
+       "title": {
+        "ru": "The governor system",
+        "en": "The governor system"
+       },
+       "words": 1372,
+       "images": 11,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mini_cooper_suspension_t006_4df6b602",
+       "title": {
+        "ru": "Assembling the shaft to the joint",
+        "en": "Assembling the shaft to the joint"
+       },
+       "words": 1100,
+       "images": 7,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mini_cooper_suspension_t007_455902e9",
+       "title": {
+        "ru": "DEPRESSURIZING, EVACUATING, AND PRESSURIZING THE HYDROLASTIC SYSTEM",
+        "en": "DEPRESSURIZING, EVACUATING, AND PRESSURIZING THE HYDROLASTIC SYSTEM"
+       },
+       "words": 1160,
+       "images": 4,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mini_cooper_suspension_t008_55a77016",
+       "title": {
+        "ru": "Servicing Brushes",
+        "en": "Servicing Brushes"
+       },
+       "words": 636,
+       "images": 1,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mini_cooper_suspension_t009_f25cfacc",
+       "title": {
+        "ru": "An exploded view of the starter motor and drive",
+        "en": "An exploded view of the starter motor and drive"
+       },
+       "words": 936,
+       "images": 3,
+       "section_id": "suspension"
+      },
+      {
+       "id": "mini_cooper_suspension_t010_598ee4ce",
+       "title": {
+        "ru": "Mounting brackets—central console",
+        "en": "Mounting brackets—central console"
+       },
+       "words": 1684,
+       "images": 4,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "mini_cooper_electrical_t000_227ca5cc",
+       "title": {
+        "ru": "WIRING DIAGRAM Saloon, Van, and Pick-up (1964 to 1967)",
+        "en": "WIRING DIAGRAM Saloon, Van, and Pick-up (1964 to 1967)"
+       },
+       "words": 853,
+       "images": 4,
+       "section_id": "electrical"
+      },
+      {
+       "id": "mini_cooper_electrical_t001_e54d0cdd",
+       "title": {
+        "ru": "KEY TO WIRING DIAGRAM",
+        "en": "KEY TO WIRING DIAGRAM"
+       },
+       "words": 1493,
+       "images": 5,
+       "section_id": "electrical"
+      },
+      {
+       "id": "mini_cooper_electrical_t002_c657e447",
+       "title": {
+        "ru": "The 16ACR alternator components",
+        "en": "The 16ACR alternator components"
+       },
+       "words": 646,
+       "images": 4,
+       "section_id": "electrical"
+      },
+      {
+       "id": "mini_cooper_electrical_t003_fd3d1b3f",
+       "title": {
+        "ru": "MASTER KEY TO WIRING DIAGRAMS",
+        "en": "MASTER KEY TO WIRING DIAGRAMS"
+       },
+       "words": 350,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "mini_cooper_hvac_t000_e806b558",
+       "title": {
+        "ru": "THE HEATER ASSEMBLY COMPONENTS (Fresh-air Heater)",
+        "en": "THE HEATER ASSEMBLY COMPONENTS (Fresh-air Heater)"
+       },
+       "words": 553,
+       "images": 5,
+       "section_id": "hvac"
+      },
+      {
+       "id": "mini_cooper_hvac_t001_fd577060",
+       "title": {
+        "ru": "THE HEATER UNIT COMPONENTS",
+        "en": "THE HEATER UNIT COMPONENTS"
+       },
+       "words": 189,
+       "images": 2,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "mini_cooper_body_t000_156ceead",
+       "title": {
+        "ru": "Dismantling and reassembling (Hobourn-Eaton)",
+        "en": "Dismantling and reassembling (Hobourn-Eaton)"
+       },
+       "words": 712,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "mini_cooper_body_t001_394b00d5",
+       "title": {
+        "ru": "Using Service tool C2030\\* to remove and refit the end cover",
+        "en": "Using Service tool C2030\\* to remove and refit the end cover"
+       },
+       "words": 854,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "mini_cooper_body_t002_49a49dac",
+       "title": {
+        "ru": "Removing and refitting",
+        "en": "Removing and refitting"
+       },
+       "words": 625,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "mini_cooper_body_t003_10ed0a14",
+       "title": {
+        "ru": "CHECKING BODY ALIGNMENT (With Checking Jig)",
+        "en": "CHECKING BODY ALIGNMENT (With Checking Jig)"
+       },
+       "words": 699,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "mini_cooper_body_t004_b7262a69",
+       "title": {
+        "ru": "The door striker unit",
+        "en": "The door striker unit"
+       },
+       "words": 974,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "mini_cooper_body_t005_4ba9c9b2",
+       "title": {
+        "ru": "Cutting and sticking the liner around the screen, door and quarter light exterio",
+        "en": "Cutting and sticking the liner around the screen, door and quarter light exterio"
+       },
+       "words": 897,
+       "images": 9,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "mini_cooper_steering_t000_021385a9",
+       "title": {
+        "ru": "Checking for wear",
+        "en": "Checking for wear"
+       },
+       "words": 584,
+       "images": 4,
+       "section_id": "steering"
+      },
+      {
+       "id": "mini_cooper_steering_t001_b4da8683",
+       "title": {
+        "ru": "Removing and dismantling",
+        "en": "Removing and dismantling"
+       },
+       "words": 619,
+       "images": 4,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "mini_cooper_lighting_t000_1c4f5ca7",
+       "title": {
+        "ru": "Throttle linkage adjustment",
+        "en": "Throttle linkage adjustment"
+       },
+       "words": 488,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mini_cooper_lighting_t001_53d498ad",
+       "title": {
+        "ru": "Visual checks",
+        "en": "Visual checks"
+       },
+       "words": 719,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mini_cooper_lighting_t002_61828b9b",
+       "title": {
+        "ru": "The valve block",
+        "en": "The valve block"
+       },
+       "words": 559,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mini_cooper_lighting_t003_98fd845a",
+       "title": {
+        "ru": "Gear-change cable and selector rod",
+        "en": "Gear-change cable and selector rod"
+       },
+       "words": 672,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mini_cooper_lighting_t004_2e766a22",
+       "title": {
+        "ru": "New, unfilled, uncharged battery",
+        "en": "New, unfilled, uncharged battery"
+       },
+       "words": 1457,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mini_cooper_lighting_t005_7f57a883",
+       "title": {
+        "ru": "Removing the printed circuit",
+        "en": "Removing the printed circuit"
+       },
+       "words": 863,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "mini_cooper_lighting_t006_7b5fb686",
+       "title": {
+        "ru": "Heater motor replacement",
+        "en": "Heater motor replacement"
+       },
+       "words": 1262,
+       "images": 5,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "mini_cooper_interior_t000_0a3adc56",
+       "title": {
+        "ru": "NYLON TIE-ROD BALL ENDS",
+        "en": "NYLON TIE-ROD BALL ENDS"
+       },
+       "words": 867,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "mini_cooper_interior_t001_48846b8b",
+       "title": {
+        "ru": "18G 27. Valve Seat Cutter Handle",
+        "en": "18G 27. Valve Seat Cutter Handle"
+       },
+       "words": 107,
+       "images": 2,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "mini_cooper_ev_t000_04899298",
+       "title": {
+        "ru": "General maintenance",
+        "en": "General maintenance"
+       },
+       "words": 1566,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "mini_cooper_ev_t001_e0c66dc1",
+       "title": {
+        "ru": "Checking points opening—electrical",
+        "en": "Checking points opening—electrical"
+       },
+       "words": 980,
+       "images": 6,
+       "section_id": "ev"
+      },
+      {
+       "id": "mini_cooper_ev_t002_f5252440",
+       "title": {
+        "ru": "Charging (used battery)",
+        "en": "Charging (used battery)"
+       },
+       "words": 1084,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "mini_cooper_ev_t003_80b9a231",
+       "title": {
+        "ru": "TESTING THE ALTERNATOR CHARGING CIRCUIT IN POSITION",
+        "en": "TESTING THE ALTERNATOR CHARGING CIRCUIT IN POSITION"
+       },
+       "words": 890,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "mini_cooper_ev_t004_81457dae",
+       "title": {
+        "ru": "Blower switch replacement",
+        "en": "Blower switch replacement"
+       },
+       "words": 316,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "mini_cooper_chassis_t000_8e61020f",
+       "title": {
+        "ru": "BRAKES (Up to Chassis Nos. 296256 and 638878)",
+        "en": "BRAKES (Up to Chassis Nos. 296256 and 638878)"
+       },
+       "words": 541,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "mini_cooper_chassis_t001_10386021",
+       "title": {
+        "ru": "FUEL PUMP—TYPE SP AND AUF 201",
+        "en": "FUEL PUMP—TYPE SP AND AUF 201"
+       },
+       "words": 967,
+       "images": 4,
+       "section_id": "chassis"
+      },
+      {
+       "id": "mini_cooper_chassis_t002_df47e123",
+       "title": {
+        "ru": "SUB-FRAME(Moke)",
+        "en": "SUB-FRAME(Moke)"
+       },
+       "words": 1248,
+       "images": 5,
+       "section_id": "chassis"
+      },
+      {
+       "id": "mini_cooper_chassis_t003_f194e799",
+       "title": {
+        "ru": "Right-hand damper (rear)",
+        "en": "Right-hand damper (rear)"
+       },
+       "words": 1019,
+       "images": 1,
+       "section_id": "chassis"
+      },
+      {
+       "id": "mini_cooper_chassis_t004_edfd495d",
+       "title": {
+        "ru": "18G 134. Bearing and Oil Seal Replacer (basic tool)",
+        "en": "18G 134. Bearing and Oil Seal Replacer (basic tool)"
+       },
+       "words": 600,
+       "images": 27,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "mini_cooper_general_t000_8c2ae8d5",
+       "title": {
+        "ru": "British Leyland (Austin-Morri) Limited, 1972",
+        "en": "British Leyland (Austin-Morri) Limited, 1972"
+       },
+       "words": 835,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t001_24c28e46",
+       "title": {
+        "ru": "PISTON RINGS",
+        "en": "PISTON RINGS"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t002_907ab8ad",
+       "title": {
+        "ru": "GENERAL DIMENSIONS",
+        "en": "GENERAL DIMENSIONS"
+       },
+       "words": 656,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t003_7f9804bc",
+       "title": {
+        "ru": "Fuel pump",
+        "en": "Fuel pump"
+       },
+       "words": 343,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t004_7c10a518",
+       "title": {
+        "ru": "Big-end bearings",
+        "en": "Big-end bearings"
+       },
+       "words": 632,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t005_e8fa2415",
+       "title": {
+        "ru": "HYDRAULIC DAMPERS (Later cars only)",
+        "en": "HYDRAULIC DAMPERS (Later cars only)"
+       },
+       "words": 337,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t006_aaf93734",
+       "title": {
+        "ru": "Centrifugal advance",
+        "en": "Centrifugal advance"
+       },
+       "words": 254,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t007_cef84ee9",
+       "title": {
+        "ru": "SPARKING PLUGS",
+        "en": "SPARKING PLUGS"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t008_da0936b9",
+       "title": {
+        "ru": "Centrifugal advance",
+        "en": "Centrifugal advance"
+       },
+       "words": 304,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t009_4e5597e8",
+       "title": {
+        "ru": "Centrifugal advance",
+        "en": "Centrifugal advance"
+       },
+       "words": 287,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t010_43fec191",
+       "title": {
+        "ru": "Checking oil level",
+        "en": "Checking oil level"
+       },
+       "words": 236,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t011_20356d9d",
+       "title": {
+        "ru": "Upper support arm inner pivot",
+        "en": "Upper support arm inner pivot"
+       },
+       "words": 542,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t012_cd372a56",
+       "title": {
+        "ru": "Slow running adjustment and synchronization",
+        "en": "Slow running adjustment and synchronization"
+       },
+       "words": 645,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t013_d5da27ed",
+       "title": {
+        "ru": "Rockers and bushes",
+        "en": "Rockers and bushes"
+       },
+       "words": 584,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t014_1efbd41a",
+       "title": {
+        "ru": "Breather control valve",
+        "en": "Breather control valve"
+       },
+       "words": 432,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t015_8e3fe921",
+       "title": {
+        "ru": "GEAR CHANGE REMOTE CONTROL COMPONENTS",
+        "en": "GEAR CHANGE REMOTE CONTROL COMPONENTS"
+       },
+       "words": 697,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t016_e06e41ed",
+       "title": {
+        "ru": "Idler and input gear adjustment (Later Models)",
+        "en": "Idler and input gear adjustment (Later Models)"
+       },
+       "words": 742,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t017_f1ed947a",
+       "title": {
+        "ru": "Idler and input gear adjustment (Later Models)",
+        "en": "Idler and input gear adjustment (Later Models)"
+       },
+       "words": 1197,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t018_ea01db8e",
+       "title": {
+        "ru": "Input gear adjustment shims",
+        "en": "Input gear adjustment shims"
+       },
+       "words": 849,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t019_948873fe",
+       "title": {
+        "ru": "Distributor amembly",
+        "en": "Distributor amembly"
+       },
+       "words": 729,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t020_3feffc3a",
+       "title": {
+        "ru": "VAN, PICK-UP, AND LATER TRAVELLER",
+        "en": "VAN, PICK-UP, AND LATER TRAVELLER"
+       },
+       "words": 451,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t021_ab7863bf",
+       "title": {
+        "ru": "Cleaning the filter",
+        "en": "Cleaning the filter"
+       },
+       "words": 347,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t022_606db8cd",
+       "title": {
+        "ru": "Linkage adjustment, Fig. D.8",
+        "en": "Linkage adjustment, Fig. D.8"
+       },
+       "words": 430,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t023_6d06dffd",
+       "title": {
+        "ru": "Dismantling and assembling",
+        "en": "Dismantling and assembling"
+       },
+       "words": 232,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t024_21185da2",
+       "title": {
+        "ru": "The fuel pump location",
+        "en": "The fuel pump location"
+       },
+       "words": 273,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t025_8db75f7b",
+       "title": {
+        "ru": "POWER FLOW DIAGRAMS (MECHANICAL)",
+        "en": "POWER FLOW DIAGRAMS (MECHANICAL)"
+       },
+       "words": 515,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t026_60f54c4a",
+       "title": {
+        "ru": "LINE PRESSURE AND LUBRICATION DIAGRAMS",
+        "en": "LINE PRESSURE AND LUBRICATION DIAGRAMS"
+       },
+       "words": 188,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t027_19b1965d",
+       "title": {
+        "ru": "Reassembling gear train (later-type)",
+        "en": "Reassembling gear train (later-type)"
+       },
+       "words": 1040,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t028_63733020",
+       "title": {
+        "ru": "Constant-velocity (bell) joint",
+        "en": "Constant-velocity (bell) joint"
+       },
+       "words": 637,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t029_133bd683",
+       "title": {
+        "ru": "Dismantling and overhauling",
+        "en": "Dismantling and overhauling"
+       },
+       "words": 1482,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t030_a2f6ac0b",
+       "title": {
+        "ru": "Servicing unit maintenance",
+        "en": "Servicing unit maintenance"
+       },
+       "words": 1023,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t031_3b77a89e",
+       "title": {
+        "ru": "Adjustment (Early models)",
+        "en": "Adjustment (Early models)"
+       },
+       "words": 593,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t032_a22680e4",
+       "title": {
+        "ru": "Reassembling",
+        "en": "Reassembling"
+       },
+       "words": 595,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t033_027235e7",
+       "title": {
+        "ru": "Super De-luxe, Countryman, Traveller, Cooper, and Cooper 'S' Mark II",
+        "en": "Super De-luxe, Countryman, Traveller, Cooper, and Cooper 'S' Mark II"
+       },
+       "words": 507,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t034_851f5cd5",
+       "title": {
+        "ru": "Reassembling and refitting",
+        "en": "Reassembling and refitting"
+       },
+       "words": 312,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t035_a21b0700",
+       "title": {
+        "ru": "Dismantling the motor (later type)",
+        "en": "Dismantling the motor (later type)"
+       },
+       "words": 616,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t036_ee0855d2",
+       "title": {
+        "ru": "Fuel and temperature gauges",
+        "en": "Fuel and temperature gauges"
+       },
+       "words": 553,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t037_077eb48f",
+       "title": {
+        "ru": "Armature end-float adjusting",
+        "en": "Armature end-float adjusting"
+       },
+       "words": 713,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t038_2ced0ed1",
+       "title": {
+        "ru": "Mini 1000 Special De-luxe Saloon and Cooper 'S' Mk. III",
+        "en": "Mini 1000 Special De-luxe Saloon and Cooper 'S' Mk. III"
+       },
+       "words": 298,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t039_f9469912",
+       "title": {
+        "ru": "(Operation, Adjustments, Lubrication)",
+        "en": "(Operation, Adjustments, Lubrication)"
+       },
+       "words": 647,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t040_f391d4e2",
+       "title": {
+        "ru": "18G 468. Rubber Moulding Glazing Tool",
+        "en": "18G 468. Rubber Moulding Glazing Tool"
+       },
+       "words": 1201,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "mini_cooper_general_t041_738b06a8",
+       "title": {
+        "ru": "18G 471. Dummy Layshaft",
+        "en": "18G 471. Dummy Layshaft"
+       },
+       "words": 117,
+       "images": 12,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "mini_cooper_drivetrain_t000_2a669c6b",
+       "title": {
+        "ru": "Optional gearbox (close ratio)",
+        "en": "Optional gearbox (close ratio)"
+       },
+       "words": 843,
+       "images": 1,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "mini_cooper_drivetrain_t001_405abb44",
+       "title": {
+        "ru": "Release lever clearance",
+        "en": "Release lever clearance"
+       },
+       "words": 854,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "mini_cooper_drivetrain_t002_5b0185dd",
+       "title": {
+        "ru": "Idler and input gear adjustment (Early Models)",
+        "en": "Idler and input gear adjustment (Early Models)"
+       },
+       "words": 782,
+       "images": 6,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "mini_cooper_drivetrain_t003_2515cd3d",
+       "title": {
+        "ru": "The third motion shaft assembly (four-speed synchromesh transmission)",
+        "en": "The third motion shaft assembly (four-speed synchromesh transmission)"
+       },
+       "words": 2280,
+       "images": 11,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "mini_cooper_drivetrain_t004_f062c340",
+       "title": {
+        "ru": "SYNCHRONIZING CONES (Non-baulk-ring Transmission)",
+        "en": "SYNCHRONIZING CONES (Non-baulk-ring Transmission)"
+       },
+       "words": 698,
+       "images": 4,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "mini_cooper_drivetrain_t005_f25a47ef",
+       "title": {
+        "ru": "Removing the one-way clutch and the input gear with its Torrington needle thrust",
+        "en": "Removing the one-way clutch and the input gear with its Torrington needle thrust"
+       },
+       "words": 1122,
+       "images": 7,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "mini_cooper_drivetrain_t006_d4adce7e",
+       "title": {
+        "ru": "18G 575. Front Hub Drive Flange Remover",
+        "en": "18G 575. Front Hub Drive Flange Remover"
+       },
+       "words": 1165,
+       "images": 58,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "mini_cooper_infotainment_t000_0ee0787b",
+       "title": {
+        "ru": "WINDSCREEN WIPER MOTOR (Moke)",
+        "en": "WINDSCREEN WIPER MOTOR (Moke)"
+       },
+       "words": 328,
+       "images": 1,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

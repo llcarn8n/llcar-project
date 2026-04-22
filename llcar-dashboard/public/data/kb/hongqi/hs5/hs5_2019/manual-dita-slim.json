@@ -1,0 +1,615 @@
+{
+ "version": "1.0",
+ "model": "hs5",
+ "manuals": [
+  {
+   "model": "hs5",
+   "label": {
+    "ru": "Hongqi Hs5 — Руководство по ремонту",
+    "en": "Hongqi Hs5 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "hongqi_hs5_engine_t001_8a0a0602",
+       "title": {
+        "ru": "Pull back the wiper control lever for cleaning the front",
+        "en": "Pull back the wiper control lever for cleaning the front"
+       },
+       "words": 4154,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hs5_engine_t002_4249581e",
+       "title": {
+        "ru": "Press the seat heating and ventilation button to select the",
+        "en": "Press the seat heating and ventilation button to select the"
+       },
+       "words": 2498,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hs5_engine_t003_b2f609b1",
+       "title": {
+        "ru": "Add oil of the same rating as the existing oil in the engine if",
+        "en": "Add oil of the same rating as the existing oil in the engine if"
+       },
+       "words": 1266,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hs5_engine_t004_684c45ed",
+       "title": {
+        "ru": "The sticker is affixed under the front window glass on the",
+        "en": "The sticker is affixed under the front window glass on the"
+       },
+       "words": 1740,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hongqi_hs5_engine_t005_b5ebe251",
+       "title": {
+        "ru": "Temperature range anticipated before the next",
+        "en": "Temperature range anticipated before the next"
+       },
+       "words": 229,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "hongqi_hs5_brakes_t000_fd011ca4",
+       "title": {
+        "ru": "After depressing the brake pedal to stop the vehicle and",
+        "en": "After depressing the brake pedal to stop the vehicle and"
+       },
+       "words": 2588,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hongqi_hs5_brakes_t001_9e115dd5",
+       "title": {
+        "ru": "Reasonable use range of the brake friction pair",
+        "en": "Reasonable use range of the brake friction pair"
+       },
+       "words": 1093,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hongqi_hs5_brakes_t002_3ec4939b",
+       "title": {
+        "ru": "Controlled Deceleration for Parking Brake",
+        "en": "Controlled Deceleration for Parking Brake"
+       },
+       "words": 14,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "hongqi_hs5_suspension_t000_871e0a79",
+       "title": {
+        "ru": "Front suspension",
+        "en": "Front suspension"
+       },
+       "words": 32,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "hongqi_hs5_hvac_t000_e6d1f0f1",
+       "title": {
+        "ru": "AUTO button",
+        "en": "AUTO button"
+       },
+       "words": 13,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "hongqi_hs5_body_t001_d8c8bdf0",
+       "title": {
+        "ru": "SOS alarm switch is located at the rear of the front indoor",
+        "en": "SOS alarm switch is located at the rear of the front indoor"
+       },
+       "words": 1639,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "hongqi_hs5_steering_t000_eab9f768",
+       "title": {
+        "ru": "Long pressing the steering wheel roller or disconnecting",
+        "en": "Long pressing the steering wheel roller or disconnecting"
+       },
+       "words": 1011,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "hongqi_hs5_steering_t001_9ab4f4e5",
+       "title": {
+        "ru": "The exterior mirrors will be automatically folded as the",
+        "en": "The exterior mirrors will be automatically folded as the"
+       },
+       "words": 1788,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "hongqi_hs5_steering_t002_4e6f1d6b",
+       "title": {
+        "ru": "Electronic steering column system fault warning lamp",
+        "en": "Electronic steering column system fault warning lamp"
+       },
+       "words": 89,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "hongqi_hs5_lighting_t000_c982008a",
+       "title": {
+        "ru": "Conditions under which the high beam is automatically turned on or off",
+        "en": "Conditions under which the high beam is automatically turned on or off"
+       },
+       "words": 1489,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hongqi_hs5_lighting_t001_4d008e91",
+       "title": {
+        "ru": "Panoramic cameras are respectively installed at the front",
+        "en": "Panoramic cameras are respectively installed at the front"
+       },
+       "words": 2204,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hongqi_hs5_lighting_t002_52988ed5",
+       "title": {
+        "ru": "Please enter the keyword you want to",
+        "en": "Please enter the keyword you want to"
+       },
+       "words": 1119,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hongqi_hs5_lighting_t003_b6890f32",
+       "title": {
+        "ru": "IFC system camera fault warning light",
+        "en": "IFC system camera fault warning light"
+       },
+       "words": 871,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "hongqi_hs5_interior_t000_0aa4f0ed",
+       "title": {
+        "ru": "Adjust the tilt of the steering wheel so that the airbag is",
+        "en": "Adjust the tilt of the steering wheel so that the airbag is"
+       },
+       "words": 1507,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hongqi_hs5_interior_t001_6c608c53",
+       "title": {
+        "ru": "Slightly increase the gap between seat",
+        "en": "Slightly increase the gap between seat"
+       },
+       "words": 3294,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hongqi_hs5_interior_t002_fbb99f6b",
+       "title": {
+        "ru": "The driver must adjust the interior rearview mirror to a",
+        "en": "The driver must adjust the interior rearview mirror to a"
+       },
+       "words": 1236,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hongqi_hs5_interior_t003_4f2c9eee",
+       "title": {
+        "ru": "Some bottles might not be held there because of their",
+        "en": "Some bottles might not be held there because of their"
+       },
+       "words": 981,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "hongqi_hs5_ev_t000_a9a6ac89",
+       "title": {
+        "ru": "Phones that support Qi standard wireless charging can",
+        "en": "Phones that support Qi standard wireless charging can"
+       },
+       "words": 1928,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "hongqi_hs5_ev_t001_4a6a0929",
+       "title": {
+        "ru": "If the key does not work properly",
+        "en": "If the key does not work properly"
+       },
+       "words": 369,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "hongqi_hs5_general_t000_6d6e51ea",
+       "title": {
+        "ru": "List the abbreviations contained in this manual",
+        "en": "List the abbreviations contained in this manual"
+       },
+       "words": 897,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t001_649f0f92",
+       "title": {
+        "ru": "If the head restraint hampers the correct installation of",
+        "en": "If the head restraint hampers the correct installation of"
+       },
+       "words": 796,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t002_15bbc3bc",
+       "title": {
+        "ru": "If the smart key is within the sensing area outside the",
+        "en": "If the smart key is within the sensing area outside the"
+       },
+       "words": 739,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t003_9966e352",
+       "title": {
+        "ru": "The power window switch on the driver side regulates other windows",
+        "en": "The power window switch on the driver side regulates other windows"
+       },
+       "words": 1635,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t005_43f46615",
+       "title": {
+        "ru": "Panoramic image system screen mode",
+        "en": "Panoramic image system screen mode"
+       },
+       "words": 2630,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t006_2ce2d287",
+       "title": {
+        "ru": "When the lane departure warning system detects that the",
+        "en": "When the lane departure warning system detects that the"
+       },
+       "words": 2776,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t008_7c0fb1bc",
+       "title": {
+        "ru": "Auto parking upon power off",
+        "en": "Auto parking upon power off"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t009_39a2f7c2",
+       "title": {
+        "ru": "Average fuel consumption billing",
+        "en": "Average fuel consumption billing"
+       },
+       "words": 961,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t010_41da2429",
+       "title": {
+        "ru": "Select the corresponding media source list and touch the screen button",
+        "en": "Select the corresponding media source list and touch the screen button"
+       },
+       "words": 1154,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t011_e929b4c7",
+       "title": {
+        "ru": "The contacts can be introduced through the contact interface screen key",
+        "en": "The contacts can be introduced through the contact interface screen key"
+       },
+       "words": 896,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t013_2eb715eb",
+       "title": {
+        "ru": "The system will automatically shut down after running",
+        "en": "The system will automatically shut down after running"
+       },
+       "words": 698,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t014_450ae853",
+       "title": {
+        "ru": "Remove the plastic fixing bolts on the left and right sides of",
+        "en": "Remove the plastic fixing bolts on the left and right sides of"
+       },
+       "words": 1982,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t015_88afaba7",
+       "title": {
+        "ru": "Insert the towing eyelet into the hole and tighten partially",
+        "en": "Insert the towing eyelet into the hole and tighten partially"
+       },
+       "words": 1125,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t016_82edd2f3",
+       "title": {
+        "ru": "Unscrew and remove the spare tire fasteners to take out the",
+        "en": "Unscrew and remove the spare tire fasteners to take out the"
+       },
+       "words": 705,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t017_a72c63de",
+       "title": {
+        "ru": "Push the unlock pin of the trunk lid lock and open the",
+        "en": "Push the unlock pin of the trunk lid lock and open the"
+       },
+       "words": 565,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t018_b6f694fd",
+       "title": {
+        "ru": "Additional information on sales to other countries and",
+        "en": "Additional information on sales to other countries and"
+       },
+       "words": 408,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hongqi_hs5_general_t019_37de305d",
+       "title": {
+        "ru": "Wireless Local Area Networks",
+        "en": "Wireless Local Area Networks"
+       },
+       "words": 56,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hongqi_hs5_infotainment_t001_592d5f49",
+       "title": {
+        "ru": "Enable the adaptive cruise control in the vehicle settings",
+        "en": "Enable the adaptive cruise control in the vehicle settings"
+       },
+       "words": 4535,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hongqi_hs5_infotainment_t003_4a11c548",
+       "title": {
+        "ru": "Smart speed restriction reminding",
+        "en": "Smart speed restriction reminding"
+       },
+       "words": 849,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hongqi_hs5_infotainment_t004_47b5b38b",
+       "title": {
+        "ru": "Hawk view map road condition and progress",
+        "en": "Hawk view map road condition and progress"
+       },
+       "words": 903,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "hongqi_hs5_infotainment_t005_5691dbe6",
+       "title": {
+        "ru": "If any cleaner does not work or a message appears on the",
+        "en": "If any cleaner does not work or a message appears on the"
+       },
+       "words": 1474,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hongqi_hs5_sensors_t000_517dd7f1",
+       "title": {
+        "ru": "The range of the sensors may change depending on the",
+        "en": "The range of the sensors may change depending on the"
+       },
+       "words": 2577,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hongqi_hs5_drivetrain_t000_fc907421",
+       "title": {
+        "ru": "Transmissions",
+        "en": "Transmissions"
+       },
+       "words": 146,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1305 @@
+{
+ "version": "1.0",
+ "model": "maverick",
+ "manuals": [
+  {
+   "model": "maverick",
+   "label": {
+    "ru": "Ford Maverick — Руководство по ремонту",
+    "en": "Ford Maverick — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "ford_maverick_engine_t000_f6fedadf",
+       "title": {
+        "ru": "НЕЗНАЧИТЕЛЬНЫЙ РЕМОНТ ДВИГАТЕЛЯ....... 11",
+        "en": "НЕЗНАЧИТЕЛЬНЫЙ РЕМОНТ ДВИГАТЕЛЯ....... 11"
+       },
+       "words": 653,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t001_880b8d48",
+       "title": {
+        "ru": "1. Не эксплуатируйте двигатель автомобиля в тече­",
+        "en": "1. Не эксплуатируйте двигатель автомобиля в тече­"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t002_734f33af",
+       "title": {
+        "ru": "МОТОРНОЕ МАСЛО И НЕЗНАЧИТЕЛЬНЫЙ РЕМОНТ ДВИГАТЕЛЯ",
+        "en": "МОТОРНОЕ МАСЛО И НЕЗНАЧИТЕЛЬНЫЙ РЕМОНТ ДВИГАТЕЛЯ"
+       },
+       "words": 543,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t003_856656ed",
+       "title": {
+        "ru": "4. Установите ключ зажигания в положение OFF, ус­",
+        "en": "4. Установите ключ зажигания в положение OFF, ус­"
+       },
+       "words": 389,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t004_51f42c3e",
+       "title": {
+        "ru": "6. Погоняйте двигатель в течение нескольких минут.",
+        "en": "6. Погоняйте двигатель в течение нескольких минут."
+       },
+       "words": 419,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t005_c402c902",
+       "title": {
+        "ru": "4. Слейте хладагент, затем надежно завинтите слив­",
+        "en": "4. Слейте хладагент, затем надежно завинтите слив­"
+       },
+       "words": 369,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t006_b19fbe88",
+       "title": {
+        "ru": "ЭКСПЛУАТАЦИОННЫЕ И ТЕХНИЧЕСКИЕ ДАННЫЕ",
+        "en": "ЭКСПЛУАТАЦИОННЫЕ И ТЕХНИЧЕСКИЕ ДАННЫЕ"
+       },
+       "words": 331,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t007_2e60f2eb",
+       "title": {
+        "ru": "3. Нанесите моторное масло на клапан регулятора и",
+        "en": "3. Нанесите моторное масло на клапан регулятора и"
+       },
+       "words": 497,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t008_83fd10fd",
+       "title": {
+        "ru": "3. Затем проверьте, закрывается ли клапан при тем­",
+        "en": "3. Затем проверьте, закрывается ли клапан при тем­"
+       },
+       "words": 487,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t009_28e8b406",
+       "title": {
+        "ru": "ЭКСПЛУАТАЦИОННЫЕ И ТЕХНИЧЕСКИЕ ДАННЫЕ (дви г атель TD27T)",
+        "en": "ЭКСПЛУАТАЦИОННЫЕ И ТЕХНИЧЕСКИЕ ДАННЫЕ (дви г атель TD27T)"
+       },
+       "words": 417,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t010_3485483e",
+       "title": {
+        "ru": "8. Запустите двигатель и считайте наивысшее пока­",
+        "en": "8. Запустите двигатель и считайте наивысшее пока­"
+       },
+       "words": 300,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t011_d1ed61e9",
+       "title": {
+        "ru": "5. Затяните болт звездочки распределительного",
+        "en": "5. Затяните болт звездочки распределительного"
+       },
+       "words": 490,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t012_ac42a06d",
+       "title": {
+        "ru": "3. Отсоедините трубку E.G.R. от выпускного коллек­",
+        "en": "3. Отсоедините трубку E.G.R. от выпускного коллек­"
+       },
+       "words": 426,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t013_c9bf20af",
+       "title": {
+        "ru": "2. Если этот предел превышен, проверьте зазор ме­",
+        "en": "2. Если этот предел превышен, проверьте зазор ме­"
+       },
+       "words": 343,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t014_3ffe98b7",
+       "title": {
+        "ru": "3. Нагрейте головку цилиндра до температуры 150 -",
+        "en": "3. Нагрейте головку цилиндра до температуры 150 -"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t015_c5484b27",
+       "title": {
+        "ru": "3. Установите головку цилиндров с новой проклад­",
+        "en": "3. Установите головку цилиндров с новой проклад­"
+       },
+       "words": 488,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t016_789a4e47",
+       "title": {
+        "ru": "4. Проверьте, что зазор между поршнем и отверсти­",
+        "en": "4. Проверьте, что зазор между поршнем и отверсти­"
+       },
+       "words": 349,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t017_e9b0f527",
+       "title": {
+        "ru": "4. Отсоедините провод соленоида отсечки топлива,",
+        "en": "4. Отсоедините провод соленоида отсечки топлива,"
+       },
+       "words": 497,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t018_65f31866",
+       "title": {
+        "ru": "12. Установите все снятые части в порядке, обрат­",
+        "en": "12. Установите все снятые части в порядке, обрат­"
+       },
+       "words": 435,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t019_3078d121",
+       "title": {
+        "ru": "2. Проверьте работу регулятора перепускного кла­",
+        "en": "2. Проверьте работу регулятора перепускного кла­"
+       },
+       "words": 594,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t020_26b9d778",
+       "title": {
+        "ru": "2. Непрерывно нанесите герметик на поверхность",
+        "en": "2. Непрерывно нанесите герметик на поверхность"
+       },
+       "words": 488,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t021_a780c3ec",
+       "title": {
+        "ru": "ДАТЧИК УГЛА ПОВОРОТА КОЛЕНЧАТО­",
+        "en": "ДАТЧИК УГЛА ПОВОРОТА КОЛЕНЧАТО­"
+       },
+       "words": 582,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t022_43322d06",
+       "title": {
+        "ru": "ВПУСКНОЙ КЛАПАН ВОЗДУХА (A.I.V).",
+        "en": "ВПУСКНОЙ КЛАПАН ВОЗДУХА (A.I.V)."
+       },
+       "words": 544,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t023_29e07178",
+       "title": {
+        "ru": "2. Проверьте проводимость цепи электроклапана.",
+        "en": "2. Проверьте проводимость цепи электроклапана."
+       },
+       "words": 829,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t024_81f95229",
+       "title": {
+        "ru": "2. Спустите воздух из амортизатора муфты согласно",
+        "en": "2. Спустите воздух из амортизатора муфты согласно"
+       },
+       "words": 499,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t025_22696fd8",
+       "title": {
+        "ru": "4. Проверьте тормозную систему на наличие утечек,",
+        "en": "4. Проверьте тормозную систему на наличие утечек,"
+       },
+       "words": 580,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t026_19ecf987",
+       "title": {
+        "ru": "1. Вставьте уплотнение поршня в канавку на корпусе",
+        "en": "1. Вставьте уплотнение поршня в канавку на корпусе"
+       },
+       "words": 460,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t027_7200478f",
+       "title": {
+        "ru": "3. Спустите воздух. Руководствуйтесь рекоменда­",
+        "en": "3. Спустите воздух. Руководствуйтесь рекоменда­"
+       },
+       "words": 450,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t028_d8448d44",
+       "title": {
+        "ru": "СНЯТИЕ И УСТАНОВКА (ПЕРЕДНЯЯ КОНЕЧНАЯ",
+        "en": "СНЯТИЕ И УСТАНОВКА (ПЕРЕДНЯЯ КОНЕЧНАЯ"
+       },
+       "words": 307,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "ford_maverick_engine_t029_19a3c191",
+       "title": {
+        "ru": "ЭЛЕКТРООБОРУДОВАНИЕ",
+        "en": "ЭЛЕКТРООБОРУДОВАНИЕ"
+       },
+       "words": 84,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "ford_maverick_brakes_t000_84e7a0c4",
+       "title": {
+        "ru": "4. Установите рычаг переключения передач в",
+        "en": "4. Установите рычаг переключения передач в"
+       },
+       "words": 775,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ford_maverick_brakes_t001_d9c47b08",
+       "title": {
+        "ru": "ПРОВЕРКА ДЕЙСТВИЯ ПЕДАЛИ НОЖНОГО ТОР­",
+        "en": "ПРОВЕРКА ДЕЙСТВИЯ ПЕДАЛИ НОЖНОГО ТОР­"
+       },
+       "words": 511,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ford_maverick_brakes_t002_4c89864b",
+       "title": {
+        "ru": "4. При разъединении гидравлической линии, сле­",
+        "en": "4. При разъединении гидравлической линии, сле­"
+       },
+       "words": 373,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ford_maverick_brakes_t003_ff648814",
+       "title": {
+        "ru": "3. Спустите воздух, руководствуясь вышеописанной",
+        "en": "3. Спустите воздух, руководствуясь вышеописанной"
+       },
+       "words": 372,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ford_maverick_brakes_t004_16c5fd28",
+       "title": {
+        "ru": "1. Перед сборкой усилителя, временно приспособь­",
+        "en": "1. Перед сборкой усилителя, временно приспособь­"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ford_maverick_brakes_t005_fa931a60",
+       "title": {
+        "ru": "6. Проверьте правильность установки всех частей.",
+        "en": "6. Проверьте правильность установки всех частей."
+       },
+       "words": 377,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ford_maverick_brakes_t006_6974b38a",
+       "title": {
+        "ru": "5. Не применяя стояночный тормоз, проверьте, что",
+        "en": "5. Не применяя стояночный тормоз, проверьте, что"
+       },
+       "words": 399,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ford_maverick_brakes_t007_dbdc0c1e",
+       "title": {
+        "ru": "СПЕЦИАЛЬНЫЕ ИНСТРУМЕНТАЛЬНЫЕ СРЕДСТВА",
+        "en": "СПЕЦИАЛЬНЫЕ ИНСТРУМЕНТАЛЬНЫЕ СРЕДСТВА"
+       },
+       "words": 309,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "ford_maverick_suspension_t000_10aaa71f",
+       "title": {
+        "ru": "1. Проверьте рычаг управления на износ или меха­",
+        "en": "1. Проверьте рычаг управления на износ или меха­"
+       },
+       "words": 603,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "ford_maverick_suspension_t001_f096e75f",
+       "title": {
+        "ru": "_______________ ПЕРЕДНЯЯ ОСЬ И ПЕРЕДНЯЯ ПОДВЕСКА",
+        "en": "_______________ ПЕРЕДНЯЯ ОСЬ И ПЕРЕДНЯЯ ПОДВЕСКА"
+       },
+       "words": 417,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "ford_maverick_suspension_t002_a7d560f3",
+       "title": {
+        "ru": "9. Если размер \"Н\" отличается от указанного в спе­",
+        "en": "9. Если размер \"Н\" отличается от указанного в спе­"
+       },
+       "words": 363,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "ford_maverick_suspension_t003_df5a4b57",
+       "title": {
+        "ru": "ЗАДНЯЯ ОСЬ И ЗАДНЯЯ ПОДВЕСКА",
+        "en": "ЗАДНЯЯ ОСЬ И ЗАДНЯЯ ПОДВЕСКА"
+       },
+       "words": 551,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "ford_maverick_suspension_t004_2740ff32",
+       "title": {
+        "ru": "СТАБИЛИЗАТОР ПОПЕРЕЧНОЙ УСТОЙЧИВОСТИ",
+        "en": "СТАБИЛИЗАТОР ПОПЕРЕЧНОЙ УСТОЙЧИВОСТИ"
+       },
+       "words": 438,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "ford_maverick_suspension_t005_cfeec155",
+       "title": {
+        "ru": "5. Проверьте глубину изолирующей слюды от по­",
+        "en": "5. Проверьте глубину изолирующей слюды от по­"
+       },
+       "words": 387,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "ford_maverick_electrical_t000_a487df0e",
+       "title": {
+        "ru": "ТЕПЛОВОЙ ПРЕДОХРАНИТЕЛЬ",
+        "en": "ТЕПЛОВОЙ ПРЕДОХРАНИТЕЛЬ"
+       },
+       "words": 776,
+       "images": 0,
+       "section_id": "electrical"
+      },
+      {
+       "id": "ford_maverick_electrical_t001_706a08d7",
+       "title": {
+        "ru": "4. Регулятор напряжения не подлежит ремонту. При",
+        "en": "4. Регулятор напряжения не подлежит ремонту. При"
+       },
+       "words": 597,
+       "images": 0,
+       "section_id": "electrical"
+      },
+      {
+       "id": "ford_maverick_electrical_t002_17c65d89",
+       "title": {
+        "ru": "ПРАВЫЙ ВЫКЛ.",
+        "en": "ПРАВЫЙ ВЫКЛ."
+       },
+       "words": 20,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "ford_maverick_hvac_t000_cf002130",
+       "title": {
+        "ru": "СИСТЕМА ПОНИЖЕНИЯ ТОКСИЧНОСТИ ВЫХЛОПА",
+        "en": "СИСТЕМА ПОНИЖЕНИЯ ТОКСИЧНОСТИ ВЫХЛОПА"
+       },
+       "words": 563,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "ford_maverick_hvac_t001_7214a4ac",
+       "title": {
+        "ru": "РАСПОЛОЖЕНИЕ ЖГУТОВ СИСТЕМЫ КОНДИЦИОНИРОВАНИЯ",
+        "en": "РАСПОЛОЖЕНИЕ ЖГУТОВ СИСТЕМЫ КОНДИЦИОНИРОВАНИЯ"
+       },
+       "words": 469,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "ford_maverick_body_t000_edb0990d",
+       "title": {
+        "ru": "2. Поверните ручку переключения пото­",
+        "en": "2. Поверните ручку переключения пото­"
+       },
+       "words": 539,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "ford_maverick_body_t001_72610707",
+       "title": {
+        "ru": "ЗАДНЯЯ СТОРОНА КУЗОВА",
+        "en": "ЗАДНЯЯ СТОРОНА КУЗОВА"
+       },
+       "words": 464,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "ford_maverick_body_t002_240bde56",
+       "title": {
+        "ru": "4. Установить молдинг, выравнивая метку на",
+        "en": "4. Установить молдинг, выравнивая метку на"
+       },
+       "words": 390,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "ford_maverick_body_t003_9fc5d0c3",
+       "title": {
+        "ru": "5. Снимите три болта, крепящие внешнее зеркало.",
+        "en": "5. Снимите три болта, крепящие внешнее зеркало."
+       },
+       "words": 378,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "ford_maverick_body_t004_2bef3147",
+       "title": {
+        "ru": "УПРАВЛЕНИЕ ВЫКЛЮЧАТЕЛЬ",
+        "en": "УПРАВЛЕНИЕ ВЫКЛЮЧАТЕЛЬ"
+       },
+       "words": 467,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "ford_maverick_steering_t000_c9b82a2b",
+       "title": {
+        "ru": "ПРОВЕРКА УРОВНЯ ЖИДКОСТИ И УТЕЧЕК",
+        "en": "ПРОВЕРКА УРОВНЯ ЖИДКОСТИ И УТЕЧЕК"
+       },
+       "words": 913,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "ford_maverick_steering_t001_4cdb1490",
+       "title": {
+        "ru": "РАЗБОРКА И СБОРКА",
+        "en": "РАЗБОРКА И СБОРКА"
+       },
+       "words": 466,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "ford_maverick_steering_t002_6817835d",
+       "title": {
+        "ru": "1. Укрепите рулевую передачу с помощью специаль­",
+        "en": "1. Укрепите рулевую передачу с помощью специаль­"
+       },
+       "words": 514,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "ford_maverick_lighting_t000_d26a74e2",
+       "title": {
+        "ru": "1. Лампа не загорается и не гаснет че­",
+        "en": "1. Лампа не загорается и не гаснет че­"
+       },
+       "words": 644,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ford_maverick_lighting_t001_76b9b630",
+       "title": {
+        "ru": "ЭЛЕКТРОСХЕМА СИСТЕМЫ ПОДСВЕТКИ",
+        "en": "ЭЛЕКТРОСХЕМА СИСТЕМЫ ПОДСВЕТКИ"
+       },
+       "words": 487,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ford_maverick_lighting_t002_f7f09d9d",
+       "title": {
+        "ru": "ЗАЗЕМЛЕНИЕ ЛАМПЫ СТОП-СИГНАЛА",
+        "en": "ЗАЗЕМЛЕНИЕ ЛАМПЫ СТОП-СИГНАЛА"
+       },
+       "words": 406,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ford_maverick_lighting_t003_28d30a94",
+       "title": {
+        "ru": "СТОП-СИГНАЛА",
+        "en": "СТОП-СИГНАЛА"
+       },
+       "words": 23,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "ford_maverick_interior_t000_18104527",
+       "title": {
+        "ru": "2. Осмотрите провисание ремня привода толканием",
+        "en": "2. Осмотрите провисание ремня привода толканием"
+       },
+       "words": 426,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "ford_maverick_interior_t001_6de0d4a1",
+       "title": {
+        "ru": "2. Отрегулируйте скорость холостого хода с нерабо­",
+        "en": "2. Отрегулируйте скорость холостого хода с нерабо­"
+       },
+       "words": 361,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "ford_maverick_ev_t000_aa9a6d4b",
+       "title": {
+        "ru": "10. Размещайте разбираемые части в соответствии",
+        "en": "10. Размещайте разбираемые части в соответствии"
+       },
+       "words": 536,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "ford_maverick_ev_t001_46b76f3e",
+       "title": {
+        "ru": "ПРОВЕРКА АККУМУЛЯТОРА РЕЖИМОМ",
+        "en": "ПРОВЕРКА АККУМУЛЯТОРА РЕЖИМОМ"
+       },
+       "words": 335,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "ford_maverick_ev_t002_16b21e25",
+       "title": {
+        "ru": "1. Отсоедините кабель подключения к аккумулятору.",
+        "en": "1. Отсоедините кабель подключения к аккумулятору."
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "ford_maverick_ev_t003_f995691c",
+       "title": {
+        "ru": "ЭЛЕКТРООБОРУДОВАНИЕ",
+        "en": "ЭЛЕКТРООБОРУДОВАНИЕ"
+       },
+       "words": 55,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "ford_maverick_general_t000_87eb463c",
+       "title": {
+        "ru": "БУКСИРОВКА АВАРИЙНОЙ МАШИНЫ......................9",
+        "en": "БУКСИРОВКА АВАРИЙНОЙ МАШИНЫ......................9"
+       },
+       "words": 259,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t001_b02c7ab5",
+       "title": {
+        "ru": "® КНОПКА ВКЛЮЧЕНИЯ СВ (М) ИЛИ ДВ (L) ДИАПАЗОНА",
+        "en": "® КНОПКА ВКЛЮЧЕНИЯ СВ (М) ИЛИ ДВ (L) ДИАПАЗОНА"
+       },
+       "words": 389,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t002_bd8e8fe1",
+       "title": {
+        "ru": "© КНОПКИ УСКОРЕННОЙ ПЕРЕМОТКИ И ОБРАЩЕНИЯ",
+        "en": "© КНОПКИ УСКОРЕННОЙ ПЕРЕМОТКИ И ОБРАЩЕНИЯ"
+       },
+       "words": 380,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t003_993cd351",
+       "title": {
+        "ru": "РАДИОПРИЕМНИК С КАССЕТНЫМ ПРОИГРЫВАТЕЛЕМ И УПРАВЛЕНИЕМ РА­",
+        "en": "РАДИОПРИЕМНИК С КАССЕТНЫМ ПРОИГРЫВАТЕЛЕМ И УПРАВЛЕНИЕМ РА­"
+       },
+       "words": 371,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t004_256a214a",
+       "title": {
+        "ru": "ИДЕНТИФИКАЦИОННАЯ ТАБЛИЧКА",
+        "en": "ИДЕНТИФИКАЦИОННАЯ ТАБЛИЧКА"
+       },
+       "words": 552,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t005_e89bd585",
+       "title": {
+        "ru": "2. Снимите все шланги и продуйте их сжатым воз­",
+        "en": "2. Снимите все шланги и продуйте их сжатым воз­"
+       },
+       "words": 351,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t006_ad8a591f",
+       "title": {
+        "ru": "3. Если повреждена или изношена основа, замените сборку ремня.",
+        "en": "3. Если повреждена или изношена основа, замените сборку ремня."
+       },
+       "words": 287,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t007_addd239c",
+       "title": {
+        "ru": "1. Измерьте внутренний диаметр отверстия порш­",
+        "en": "1. Измерьте внутренний диаметр отверстия порш­"
+       },
+       "words": 401,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t008_3943e6be",
+       "title": {
+        "ru": "3. Снимите турбонагнетатель из выпускного коллек­",
+        "en": "3. Снимите турбонагнетатель из выпускного коллек­"
+       },
+       "words": 428,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t009_abf2a0bd",
+       "title": {
+        "ru": "МЕХАНИЧЕСКАЯ ЧАСТЬ ДВИГАТЕЛЯ",
+        "en": "МЕХАНИЧЕСКАЯ ЧАСТЬ ДВИГАТЕЛЯ"
+       },
+       "words": 450,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t010_c0432fc8",
+       "title": {
+        "ru": "ВЫКЛЮЧАТЕЛЬ СОСТОЯНИЯ ВАКУУМА*",
+        "en": "ВЫКЛЮЧАТЕЛЬ СОСТОЯНИЯ ВАКУУМА*"
+       },
+       "words": 404,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t011_089fd88d",
+       "title": {
+        "ru": "3. Если биение находится вне пределов, указанных в",
+        "en": "3. Если биение находится вне пределов, указанных в"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t012_3a162ef6",
+       "title": {
+        "ru": "2. Надежно установите сборку крестовины, должным",
+        "en": "2. Надежно установите сборку крестовины, должным"
+       },
+       "words": 406,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t013_465ee05f",
+       "title": {
+        "ru": "6. Затяните установочную гайку лапки до состояния,",
+        "en": "6. Затяните установочную гайку лапки до состояния,"
+       },
+       "words": 485,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t014_4405a478",
+       "title": {
+        "ru": "2. Заблокируйте фиксирующие гайки тяги так, чтобы",
+        "en": "2. Заблокируйте фиксирующие гайки тяги так, чтобы"
+       },
+       "words": 424,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t015_40df0ebf",
+       "title": {
+        "ru": "5. Снимите упорное кольцо и извлеките 3-ий и 4-ый",
+        "en": "5. Снимите упорное кольцо и извлеките 3-ий и 4-ый"
+       },
+       "words": 407,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t016_9d0ecbfd",
+       "title": {
+        "ru": "7. Извлеките сборку основного вала, постукивая по",
+        "en": "7. Извлеките сборку основного вала, постукивая по"
+       },
+       "words": 407,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t017_40fb962a",
+       "title": {
+        "ru": "ПРЕДУПРЕЖДЕНИЕ:",
+        "en": "ПРЕДУПРЕЖДЕНИЕ:"
+       },
+       "words": 337,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t018_39676b07",
+       "title": {
+        "ru": "7. Снимите болты, крепящие центральный картер к",
+        "en": "7. Снимите болты, крепящие центральный картер к"
+       },
+       "words": 272,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t019_2970a819",
+       "title": {
+        "ru": "4. Снова проверьте биение. Если биение все еще",
+        "en": "4. Снова проверьте биение. Если биение все еще"
+       },
+       "words": 424,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t020_6c782b8a",
+       "title": {
+        "ru": "13. Измерьте оба подшипника таким же образом и",
+        "en": "13. Измерьте оба подшипника таким же образом и"
+       },
+       "words": 507,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t021_9a1dcfb7",
+       "title": {
+        "ru": "1. Тщательно почистите зубцы ведущей шестерни и",
+        "en": "1. Тщательно почистите зубцы ведущей шестерни и"
+       },
+       "words": 356,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t022_cc90e347",
+       "title": {
+        "ru": "4. Разместите внутренний конус переднего подшип­",
+        "en": "4. Разместите внутренний конус переднего подшип­"
+       },
+       "words": 463,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t023_655f18c3",
+       "title": {
+        "ru": "14. Затяните болты крепления головки бокового",
+        "en": "14. Затяните болты крепления головки бокового"
+       },
+       "words": 295,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t024_c1eff4ed",
+       "title": {
+        "ru": "ЛЮК НА КРЫШЕ АВТОМОБИЛЯ",
+        "en": "ЛЮК НА КРЫШЕ АВТОМОБИЛЯ"
+       },
+       "words": 725,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t025_75ad00f2",
+       "title": {
+        "ru": "ТАБЛИЦА СООТНОШЕНИЯ ТЕМПЕРАТУРЫ ВНЕШНЕГО ВОЗДУХА - ДАВЛЕНИЯ КОМПРЕССОРА",
+        "en": "ТАБЛИЦА СООТНОШЕНИЯ ТЕМПЕРАТУРЫ ВНЕШНЕГО ВОЗДУХА - ДАВЛЕНИЯ КОМПРЕССОРА"
+       },
+       "words": 429,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ford_maverick_general_t026_3e332bb1",
+       "title": {
+        "ru": "2. При пайке проводов к щеткам устанавливайте",
+        "en": "2. При пайке проводов к щеткам устанавливайте"
+       },
+       "words": 316,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "fuel",
+     "title": {
+      "ru": "fuel",
+      "en": "fuel"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "ford_maverick_fuel_t000_5b4eb573",
+       "title": {
+        "ru": "14. Используйте рекомендуемые уплотнители или их",
+        "en": "14. Используйте рекомендуемые уплотнители или их"
+       },
+       "words": 546,
+       "images": 0,
+       "section_id": "fuel"
+      },
+      {
+       "id": "ford_maverick_fuel_t001_79847aa4",
+       "title": {
+        "ru": "1. Проверьте шланги и его соединения на наличие",
+        "en": "1. Проверьте шланги и его соединения на наличие"
+       },
+       "words": 391,
+       "images": 0,
+       "section_id": "fuel"
+      },
+      {
+       "id": "ford_maverick_fuel_t002_7786ccae",
+       "title": {
+        "ru": "2. Отсоедините трубку подачи топлива и трубку воз­",
+        "en": "2. Отсоедините трубку подачи топлива и трубку воз­"
+       },
+       "words": 533,
+       "images": 0,
+       "section_id": "fuel"
+      },
+      {
+       "id": "ford_maverick_fuel_t003_70c3c2ed",
+       "title": {
+        "ru": "ИЗМЕРИТЕЛЬ УРОВНЯ ТОПЛИВА",
+        "en": "ИЗМЕРИТЕЛЬ УРОВНЯ ТОПЛИВА"
+       },
+       "words": 31,
+       "images": 0,
+       "section_id": "fuel"
+      }
+     ]
+    },
+    {
+     "id": "cooling",
+     "title": {
+      "ru": "cooling",
+      "en": "cooling"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "ford_maverick_cooling_t000_d5a588f0",
+       "title": {
+        "ru": "10. Повторите шаги 2 - 9 до тех пор, пока из радиа­",
+        "en": "10. Повторите шаги 2 - 9 до тех пор, пока из радиа­"
+       },
+       "words": 389,
+       "images": 0,
+       "section_id": "cooling"
+      },
+      {
+       "id": "ford_maverick_cooling_t001_921035ca",
+       "title": {
+        "ru": "СИСТЕМА СМАЗКИ И СИСТЕМА ОХЛАЖДЕНИЯ ДВИГАТЕЛЯ",
+        "en": "СИСТЕМА СМАЗКИ И СИСТЕМА ОХЛАЖДЕНИЯ ДВИГАТЕЛЯ"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "cooling"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "ford_maverick_sensors_t000_566ba42d",
+       "title": {
+        "ru": "4. Установите чехол так, чтобы на протяжении своей",
+        "en": "4. Установите чехол так, чтобы на протяжении своей"
+       },
+       "words": 423,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "ford_maverick_drivetrain_t000_3c770d67",
+       "title": {
+        "ru": "1. При обычном обогреве следует от­",
+        "en": "1. При обычном обогреве следует от­"
+       },
+       "words": 627,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ford_maverick_drivetrain_t001_f1d8c520",
+       "title": {
+        "ru": "БУКСИРОВКА АВАРИЙНОЙ МАШИНЫ",
+        "en": "БУКСИРОВКА АВАРИЙНОЙ МАШИНЫ"
+       },
+       "words": 581,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ford_maverick_drivetrain_t002_4e93b7ef",
+       "title": {
+        "ru": "4. Измерьте наружный диаметр вала привода \"В\".",
+        "en": "4. Измерьте наружный диаметр вала привода \"В\"."
+       },
+       "words": 401,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ford_maverick_drivetrain_t003_54516aed",
+       "title": {
+        "ru": "3. Отделите картер трансмиссии от плиты адаптера.",
+        "en": "3. Отделите картер трансмиссии от плиты адаптера."
+       },
+       "words": 562,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ford_maverick_drivetrain_t004_ea73da13",
+       "title": {
+        "ru": "18. Установите основной вал, задний концевой под­",
+        "en": "18. Установите основной вал, задний концевой под­"
+       },
+       "words": 568,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ford_maverick_drivetrain_t005_c2db8923",
+       "title": {
+        "ru": "3. Снимите рычаг управления раздаточной коробкой",
+        "en": "3. Снимите рычаг управления раздаточной коробкой"
+       },
+       "words": 315,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ford_maverick_drivetrain_t006_ff45e886",
+       "title": {
+        "ru": "9. Разберите сборку центрального картера.",
+        "en": "9. Разберите сборку центрального картера."
+       },
+       "words": 396,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ford_maverick_drivetrain_t007_e817c772",
+       "title": {
+        "ru": "6. Нанесите герметик на поверхность совмещения и",
+        "en": "6. Нанесите герметик на поверхность совмещения и"
+       },
+       "words": 489,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ford_maverick_drivetrain_t008_53cfaceb",
+       "title": {
+        "ru": "6. Установите гайку ведущей шестерни и соедини­",
+        "en": "6. Установите гайку ведущей шестерни и соедини­"
+       },
+       "words": 493,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ford_maverick_drivetrain_t009_b32a75c1",
+       "title": {
+        "ru": "17. Проверьте контакты зубьв (См. раздел \"Регу­",
+        "en": "17. Проверьте контакты зубьв (См. раздел \"Регу­"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "ford_maverick_drivetrain_t010_891d0a05",
+       "title": {
+        "ru": "ВЫКЛЮЧАТЕЛЬ СИГНАЛА ОПАСТНОСТИ",
+        "en": "ВЫКЛЮЧАТЕЛЬ СИГНАЛА ОПАСТНОСТИ"
+       },
+       "words": 162,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "ford_maverick_infotainment_t000_8f9c36da",
+       "title": {
+        "ru": "3. Нажмите на символ \"«\" или \"»\" для",
+        "en": "3. Нажмите на символ \"«\" или \"»\" для"
+       },
+       "words": 119,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

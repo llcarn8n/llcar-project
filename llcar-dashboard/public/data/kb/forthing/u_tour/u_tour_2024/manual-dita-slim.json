@@ -1,0 +1,965 @@
+{
+ "version": "1.0",
+ "model": "u_tour",
+ "manuals": [
+  {
+   "model": "u_tour",
+   "label": {
+    "ru": "Forthing U Tour — Руководство по ремонту",
+    "en": "Forthing U Tour — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "forthing_u_tour_engine_t000_1af3c55c",
+       "title": {
+        "ru": "Technical update instructions: IoV and electronic technology products are update",
+        "en": "Technical update instructions: IoV and electronic technology products are update"
+       },
+       "words": 489,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "forthing_u_tour_engine_t001_99680ef2",
+       "title": {
+        "ru": "The page will be directly displayed at the",
+        "en": "The page will be directly displayed at the"
+       },
+       "words": 453,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "forthing_u_tour_engine_t002_fd80a9c8",
+       "title": {
+        "ru": "If the vehicle is parked for a long time in",
+        "en": "If the vehicle is parked for a long time in"
+       },
+       "words": 578,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "forthing_u_tour_engine_t003_08854cdc",
+       "title": {
+        "ru": "EPS steering system or related system is",
+        "en": "EPS steering system or related system is"
+       },
+       "words": 680,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "forthing_u_tour_engine_t004_2a0f5954",
+       "title": {
+        "ru": "The formation of ash is closely related",
+        "en": "The formation of ash is closely related"
+       },
+       "words": 515,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "forthing_u_tour_engine_t005_d14150ec",
+       "title": {
+        "ru": "Be sure to use the brake fluid designated",
+        "en": "Be sure to use the brake fluid designated"
+       },
+       "words": 512,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "forthing_u_tour_engine_t006_59fc332a",
+       "title": {
+        "ru": "The radiator warning label and the A/C",
+        "en": "The radiator warning label and the A/C"
+       },
+       "words": 197,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "forthing_u_tour_brakes_t000_c609c25d",
+       "title": {
+        "ru": "ON position: When the vehicle is in \"ACC\"",
+        "en": "ON position: When the vehicle is in \"ACC\""
+       },
+       "words": 438,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "forthing_u_tour_brakes_t001_fa19bd62",
+       "title": {
+        "ru": "Release: Depress the brake pedal and press",
+        "en": "Release: Depress the brake pedal and press"
+       },
+       "words": 527,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "forthing_u_tour_brakes_t002_f9a6a6fb",
+       "title": {
+        "ru": "Observe the following precautions in this",
+        "en": "Observe the following precautions in this"
+       },
+       "words": 545,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "forthing_u_tour_brakes_t003_7baedfcf",
+       "title": {
+        "ru": "The driver can depress the accelerator pedal",
+        "en": "The driver can depress the accelerator pedal"
+       },
+       "words": 612,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "forthing_u_tour_brakes_t004_3a88764a",
+       "title": {
+        "ru": "ACC system may not be able to control the",
+        "en": "ACC system may not be able to control the"
+       },
+       "words": 542,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "forthing_u_tour_brakes_t005_0dd2c244",
+       "title": {
+        "ru": "If the vehicle has been parked for one year",
+        "en": "If the vehicle has been parked for one year"
+       },
+       "words": 316,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "forthing_u_tour_body_t000_04d3eaad",
+       "title": {
+        "ru": "Stand behind the vehicle with the smart key",
+        "en": "Stand behind the vehicle with the smart key"
+       },
+       "words": 458,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_u_tour_body_t001_167bb68e",
+       "title": {
+        "ru": "Set the opening angle of trunk lid through",
+        "en": "Set the opening angle of trunk lid through"
+       },
+       "words": 360,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_u_tour_body_t002_e2a49058",
+       "title": {
+        "ru": "Do not adjust the position of the rearview",
+        "en": "Do not adjust the position of the rearview"
+       },
+       "words": 454,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_u_tour_body_t003_e08dc977",
+       "title": {
+        "ru": "Pull the light control handle back once",
+        "en": "Pull the light control handle back once"
+       },
+       "words": 422,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_u_tour_body_t004_d466ff38",
+       "title": {
+        "ru": "Forthing\" APP to check the vehicle state and",
+        "en": "Forthing\" APP to check the vehicle state and"
+       },
+       "words": 681,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_u_tour_body_t005_f0d75640",
+       "title": {
+        "ru": "Please pay attention to the following matters",
+        "en": "Please pay attention to the following matters"
+       },
+       "words": 454,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_u_tour_body_t006_da0ceb62",
+       "title": {
+        "ru": "Description of factors affecting calibration",
+        "en": "Description of factors affecting calibration"
+       },
+       "words": 606,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_u_tour_body_t007_c7f7aa61",
+       "title": {
+        "ru": "Wax the vehicle only after cleaning and",
+        "en": "Wax the vehicle only after cleaning and"
+       },
+       "words": 558,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_u_tour_body_t008_ec5a94eb",
+       "title": {
+        "ru": "Do not jack the jack at any position other",
+        "en": "Do not jack the jack at any position other"
+       },
+       "words": 434,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_u_tour_body_t009_b5f093db",
+       "title": {
+        "ru": "Do not paste film or metal materials on",
+        "en": "Do not paste film or metal materials on"
+       },
+       "words": 39,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "forthing_u_tour_steering_t000_b1e46252",
+       "title": {
+        "ru": "Pull the light control handle upward or",
+        "en": "Pull the light control handle upward or"
+       },
+       "words": 547,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "forthing_u_tour_steering_t001_77f4cec7",
+       "title": {
+        "ru": "Conditions in which the driver needs to take",
+        "en": "Conditions in which the driver needs to take"
+       },
+       "words": 528,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "forthing_u_tour_steering_t002_a1a5f23d",
+       "title": {
+        "ru": "TJA system degradation and exit conditions",
+        "en": "TJA system degradation and exit conditions"
+       },
+       "words": 307,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "forthing_u_tour_lighting_t000_9e2430fb",
+       "title": {
+        "ru": "If the rear-facing child restraint system is",
+        "en": "If the rear-facing child restraint system is"
+       },
+       "words": 630,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "forthing_u_tour_lighting_t001_1cc0c076",
+       "title": {
+        "ru": "In order to ensure the effectiveness of the",
+        "en": "In order to ensure the effectiveness of the"
+       },
+       "words": 507,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "forthing_u_tour_lighting_t002_3a9065de",
+       "title": {
+        "ru": "After the ambient light rhythm mode is",
+        "en": "After the ambient light rhythm mode is"
+       },
+       "words": 443,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "forthing_u_tour_lighting_t003_5a77199a",
+       "title": {
+        "ru": "Do not allow children to use or touch the",
+        "en": "Do not allow children to use or touch the"
+       },
+       "words": 663,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "forthing_u_tour_lighting_t004_6715ea72",
+       "title": {
+        "ru": "As the parking assist system has a blind",
+        "en": "As the parking assist system has a blind"
+       },
+       "words": 587,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "forthing_u_tour_lighting_t005_c4a7d61e",
+       "title": {
+        "ru": "Conditions in which TSR system function",
+        "en": "Conditions in which TSR system function"
+       },
+       "words": 487,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "forthing_u_tour_lighting_t006_dbf7434b",
+       "title": {
+        "ru": "Usage of emergency tools for vehicle tire",
+        "en": "Usage of emergency tools for vehicle tire"
+       },
+       "words": 445,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "forthing_u_tour_lighting_t007_0851f6f8",
+       "title": {
+        "ru": "Precautions",
+        "en": "Precautions"
+       },
+       "words": 97,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "forthing_u_tour_interior_t000_e1d214d5",
+       "title": {
+        "ru": "Do not place seat belt across the lower",
+        "en": "Do not place seat belt across the lower"
+       },
+       "words": 584,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "forthing_u_tour_interior_t001_9d775875",
+       "title": {
+        "ru": "It helps to protect the head and chest of",
+        "en": "It helps to protect the head and chest of"
+       },
+       "words": 543,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "forthing_u_tour_interior_t002_e19b328d",
+       "title": {
+        "ru": "Types of collisions without deployment of",
+        "en": "Types of collisions without deployment of"
+       },
+       "words": 508,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "forthing_u_tour_interior_t003_4f6aff0e",
+       "title": {
+        "ru": "Manual adjustment of front passenger's seat",
+        "en": "Manual adjustment of front passenger's seat"
+       },
+       "words": 586,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "forthing_u_tour_interior_t004_1d69fcd1",
+       "title": {
+        "ru": "Electric adjustment of front passenger's seat*",
+        "en": "Electric adjustment of front passenger's seat*"
+       },
+       "words": 822,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "forthing_u_tour_interior_t005_ae82a35a",
+       "title": {
+        "ru": "Models supporting seat heating and ventilation",
+        "en": "Models supporting seat heating and ventilation"
+       },
+       "words": 931,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "forthing_u_tour_interior_t006_09cfa9aa",
+       "title": {
+        "ru": "Do not hang hangers or other hard objects",
+        "en": "Do not hang hangers or other hard objects"
+       },
+       "words": 532,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "forthing_u_tour_interior_t007_c4e867bd",
+       "title": {
+        "ru": "Risk of carbon monoxide (CO) poisoning",
+        "en": "Risk of carbon monoxide (CO) poisoning"
+       },
+       "words": 114,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "wheels",
+     "title": {
+      "ru": "Колёса и шины",
+      "en": "Wheels & Tires"
+     },
+     "icon": "🛞",
+     "topics": [
+      {
+       "id": "forthing_u_tour_wheels_t000_284f3375",
+       "title": {
+        "ru": "If the light illuminates because the tire",
+        "en": "If the light illuminates because the tire"
+       },
+       "words": 342,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "forthing_u_tour_wheels_t001_ea4d9a07",
+       "title": {
+        "ru": "Tire pressure labels are attached on the",
+        "en": "Tire pressure labels are attached on the"
+       },
+       "words": 576,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "forthing_u_tour_wheels_t002_12ab04f7",
+       "title": {
+        "ru": "Replacing only one tire will seriously affect",
+        "en": "Replacing only one tire will seriously affect"
+       },
+       "words": 507,
+       "images": 0,
+       "section_id": "wheels"
+      },
+      {
+       "id": "forthing_u_tour_wheels_t003_f2f08ee2",
+       "title": {
+        "ru": "The validity period of the tire repair fluid",
+        "en": "The validity period of the tire repair fluid"
+       },
+       "words": 507,
+       "images": 0,
+       "section_id": "wheels"
+      }
+     ]
+    },
+    {
+     "id": "maintenance",
+     "title": {
+      "ru": "Техобслуживание",
+      "en": "Maintenance"
+     },
+     "icon": "📋",
+     "topics": [
+      {
+       "id": "forthing_u_tour_maintenance_t000_92c050db",
+       "title": {
+        "ru": "Replace the fuel filter according to the",
+        "en": "Replace the fuel filter according to the"
+       },
+       "words": 821,
+       "images": 0,
+       "section_id": "maintenance"
+      },
+      {
+       "id": "forthing_u_tour_maintenance_t001_46e4629c",
+       "title": {
+        "ru": "Forthing to purchase new tire repair fluid as",
+        "en": "Forthing to purchase new tire repair fluid as"
+       },
+       "words": 450,
+       "images": 0,
+       "section_id": "maintenance"
+      },
+      {
+       "id": "forthing_u_tour_maintenance_t002_49c1176f",
+       "title": {
+        "ru": "Information of key components and parts for emission control",
+        "en": "Information of key components and parts for emission control"
+       },
+       "words": 19,
+       "images": 0,
+       "section_id": "maintenance"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "forthing_u_tour_ev_t000_3d64a1f7",
+       "title": {
+        "ru": "If the vehicle runs for a long time in an",
+        "en": "If the vehicle runs for a long time in an"
+       },
+       "words": 634,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "forthing_u_tour_ev_t001_530538d0",
+       "title": {
+        "ru": "If it is necessary to connect the battery to",
+        "en": "If it is necessary to connect the battery to"
+       },
+       "words": 457,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "forthing_u_tour_general_t000_a1307413",
+       "title": {
+        "ru": "Press OK to call up the clear option to",
+        "en": "Press OK to call up the clear option to"
+       },
+       "words": 348,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_u_tour_general_t001_77a715a5",
+       "title": {
+        "ru": "During the opening/closing of sunroof",
+        "en": "During the opening/closing of sunroof"
+       },
+       "words": 478,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_u_tour_general_t002_9c3fb801",
+       "title": {
+        "ru": "AUTO position and the automatic wiping",
+        "en": "AUTO position and the automatic wiping"
+       },
+       "words": 434,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_u_tour_general_t003_e613591c",
+       "title": {
+        "ru": "Description of special circumstance for mobile phone interconnection",
+        "en": "Description of special circumstance for mobile phone interconnection"
+       },
+       "words": 456,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_u_tour_general_t004_2dd5ff95",
+       "title": {
+        "ru": "The system will synchronously send a",
+        "en": "The system will synchronously send a"
+       },
+       "words": 417,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_u_tour_general_t005_18cd2e00",
+       "title": {
+        "ru": "You can choose to view the files of the",
+        "en": "You can choose to view the files of the"
+       },
+       "words": 349,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_u_tour_general_t006_dc6e0640",
+       "title": {
+        "ru": "There are auxiliary lines in the 2D front",
+        "en": "There are auxiliary lines in the 2D front"
+       },
+       "words": 496,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_u_tour_general_t007_5bb7272f",
+       "title": {
+        "ru": "Description of vehicle handling stability and",
+        "en": "Description of vehicle handling stability and"
+       },
+       "words": 522,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_u_tour_general_t008_ca6c5096",
+       "title": {
+        "ru": "The system is turned off after any of the",
+        "en": "The system is turned off after any of the"
+       },
+       "words": 551,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_u_tour_general_t009_618f0ea8",
+       "title": {
+        "ru": "Conditions in which RCTA system may not",
+        "en": "Conditions in which RCTA system may not"
+       },
+       "words": 700,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_u_tour_general_t010_189c3916",
+       "title": {
+        "ru": "When the detergent is used to remove such",
+        "en": "When the detergent is used to remove such"
+       },
+       "words": 385,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "forthing_u_tour_safety_t000_1abbc42b",
+       "title": {
+        "ru": "Child restraint system (provided by the user)",
+        "en": "Child restraint system (provided by the user)"
+       },
+       "words": 601,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "forthing_u_tour_infotainment_t000_4cdaf7a4",
+       "title": {
+        "ru": "Segment code screen: Display the average",
+        "en": "Segment code screen: Display the average"
+       },
+       "words": 480,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "forthing_u_tour_infotainment_t001_1f04a82c",
+       "title": {
+        "ru": "The horn is located in the middle of the",
+        "en": "The horn is located in the middle of the"
+       },
+       "words": 618,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "forthing_u_tour_infotainment_t002_93134205",
+       "title": {
+        "ru": "Connection mode for mobile phone interconnection",
+        "en": "Connection mode for mobile phone interconnection"
+       },
+       "words": 1136,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "forthing_u_tour_infotainment_t003_ce3ad5b9",
+       "title": {
+        "ru": "Mobile phone interconnection screen projection function: Tap to add a",
+        "en": "Mobile phone interconnection screen projection function: Tap to add a"
+       },
+       "words": 359,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "forthing_u_tour_infotainment_t004_260a5bf6",
+       "title": {
+        "ru": "Bluetooth pairing between the mobile phone",
+        "en": "Bluetooth pairing between the mobile phone"
+       },
+       "words": 488,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "forthing_u_tour_infotainment_t005_a430fe1f",
+       "title": {
+        "ru": "Priority: R gear > turning on the left or right",
+        "en": "Priority: R gear > turning on the left or right"
+       },
+       "words": 446,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "forthing_u_tour_infotainment_t006_0c1606b7",
+       "title": {
+        "ru": "Lane line detection state icon displayed on",
+        "en": "Lane line detection state icon displayed on"
+       },
+       "words": 540,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "forthing_u_tour_infotainment_t007_97ef38aa",
+       "title": {
+        "ru": "The system is turned on after all following",
+        "en": "The system is turned on after all following"
+       },
+       "words": 539,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "forthing_u_tour_drivetrain_t000_72484bcf",
+       "title": {
+        "ru": "When it is necessary to stop the vehicle",
+        "en": "When it is necessary to stop the vehicle"
+       },
+       "words": 449,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "forthing_u_tour_drivetrain_t001_39cc6c28",
+       "title": {
+        "ru": "The auxiliary line is only for reference and",
+        "en": "The auxiliary line is only for reference and"
+       },
+       "words": 503,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "forthing_u_tour_drivetrain_t002_d434909a",
+       "title": {
+        "ru": "LKA system is suitable for expressways",
+        "en": "LKA system is suitable for expressways"
+       },
+       "words": 474,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "forthing_u_tour_drivetrain_t003_f0b71e44",
+       "title": {
+        "ru": "Conditions in which the system function",
+        "en": "Conditions in which the system function"
+       },
+       "words": 667,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "forthing_u_tour_drivetrain_t004_81354b2e",
+       "title": {
+        "ru": "Description of conditions for system to clear",
+        "en": "Description of conditions for system to clear"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "forthing_u_tour_sensors_t000_c95384c2",
+       "title": {
+        "ru": "The front radar switch controls the radar",
+        "en": "The front radar switch controls the radar"
+       },
+       "words": 460,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "forthing_u_tour_sensors_t001_a0d284fc",
+       "title": {
+        "ru": "Failure to follow the regulation may result in",
+        "en": "Failure to follow the regulation may result in"
+       },
+       "words": 434,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "forthing_u_tour_sensors_t002_96eeab1d",
+       "title": {
+        "ru": "Rinse the surface of the vehicle sensor and",
+        "en": "Rinse the surface of the vehicle sensor and"
+       },
+       "words": 641,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "forthing_u_tour_sensors_t003_5f675e1e",
+       "title": {
+        "ru": "In order not to affect the performance of",
+        "en": "In order not to affect the performance of"
+       },
+       "words": 551,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "forthing_u_tour_sensors_t004_a836f3da",
+       "title": {
+        "ru": "Please pay attention to the network",
+        "en": "Please pay attention to the network"
+       },
+       "words": 129,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

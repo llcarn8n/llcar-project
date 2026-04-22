@@ -1,0 +1,2725 @@
+{
+ "version": "1.0",
+ "model": "boxster_f1583ed1",
+ "manuals": [
+  {
+   "model": "boxster_f1583ed1",
+   "label": {
+    "ru": "Porsche boxster_f1583ed1 — Руководство по ремонту",
+    "en": "Porsche boxster_f1583ed1 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t000_ed0c8ca5",
+       "title": {
+        "ru": "Your car has thousands of parts and components",
+        "en": "Your car has thousands of parts and components"
+       },
+       "words": 168,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t001_baf43b22",
+       "title": {
+        "ru": "California Proposition 65 Warning",
+        "en": "California Proposition 65 Warning"
+       },
+       "words": 93,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t003_40366ef2",
+       "title": {
+        "ru": "Check all fluid levels such as windshield",
+        "en": "Check all fluid levels such as windshield"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t005_c299b91f",
+       "title": {
+        "ru": "Type 3",
+        "en": "Type 3"
+       },
+       "words": 344,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t006_f53e5d46",
+       "title": {
+        "ru": "Brake system warning light",
+        "en": "Brake system warning light"
+       },
+       "words": 436,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t007_e9b7b1d0",
+       "title": {
+        "ru": "Retractable Spoiler",
+        "en": "Retractable Spoiler"
+       },
+       "words": 159,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t008_ded2d2e1",
+       "title": {
+        "ru": "Warning light",
+        "en": "Warning light"
+       },
+       "words": 214,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t009_b2082189",
+       "title": {
+        "ru": "The ignition key cannot be withdrawn when the",
+        "en": "The ignition key cannot be withdrawn when the"
+       },
+       "words": 145,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t010_1552d188",
+       "title": {
+        "ru": "Engine exhaust fumes have many compo-",
+        "en": "Engine exhaust fumes have many compo-"
+       },
+       "words": 417,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t011_ee9bf38d",
+       "title": {
+        "ru": "Before working on any part in the engine",
+        "en": "Before working on any part in the engine"
+       },
+       "words": 160,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t012_dee00bde",
+       "title": {
+        "ru": "Serious personal injury or death could result",
+        "en": "Serious personal injury or death could result"
+       },
+       "words": 185,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t013_efaf0a2f",
+       "title": {
+        "ru": "General instructions for air-conditioning",
+        "en": "General instructions for air-conditioning"
+       },
+       "words": 171,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t014_216e2bc2",
+       "title": {
+        "ru": "Pointer in the middle – normal operating tem-",
+        "en": "Pointer in the middle – normal operating tem-"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t015_c433d39a",
+       "title": {
+        "ru": "Warning “Transmission temperature too high”",
+        "en": "Warning “Transmission temperature too high”"
+       },
+       "words": 260,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t016_1dde9acf",
+       "title": {
+        "ru": "In order to avoid consequential damage to the",
+        "en": "In order to avoid consequential damage to the"
+       },
+       "words": 270,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t017_87ec89cc",
+       "title": {
+        "ru": "2. It is important to ensure that the vehicle is",
+        "en": "2. It is important to ensure that the vehicle is"
+       },
+       "words": 73,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t018_cc34260f",
+       "title": {
+        "ru": "One segment of the display corresponds to a",
+        "en": "One segment of the display corresponds to a"
+       },
+       "words": 144,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t019_050f2ed7",
+       "title": {
+        "ru": "Engine oil pressure too low",
+        "en": "Engine oil pressure too low"
+       },
+       "words": 98,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t020_30afca6f",
+       "title": {
+        "ru": "Oil level display faulty",
+        "en": "Oil level display faulty"
+       },
+       "words": 149,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t021_7e6ccf53",
+       "title": {
+        "ru": "You should change into a higher gear before",
+        "en": "You should change into a higher gear before"
+       },
+       "words": 197,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t022_093793e1",
+       "title": {
+        "ru": "Depending on the way the vehicle is driven",
+        "en": "Depending on the way the vehicle is driven"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t023_74bfbfcd",
+       "title": {
+        "ru": "Shifting down on downward slopes",
+        "en": "Shifting down on downward slopes"
+       },
+       "words": 220,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t024_8c4c9757",
+       "title": {
+        "ru": "Avoid frequent operation of the convertible top",
+        "en": "Avoid frequent operation of the convertible top"
+       },
+       "words": 301,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t025_f85bebac",
+       "title": {
+        "ru": "The engine-compartment blower is mounted in",
+        "en": "The engine-compartment blower is mounted in"
+       },
+       "words": 254,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t026_c3422361",
+       "title": {
+        "ru": "Allow the engine to cool down before opening",
+        "en": "Allow the engine to cool down before opening"
+       },
+       "words": 344,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t027_38d38401",
+       "title": {
+        "ru": "The diluting ingredients evaporate out when the",
+        "en": "The diluting ingredients evaporate out when the"
+       },
+       "words": 252,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t028_23fa596b",
+       "title": {
+        "ru": "Engine Oil Recommendation",
+        "en": "Engine Oil Recommendation"
+       },
+       "words": 205,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t029_b337cca9",
+       "title": {
+        "ru": "Porsche engines have long intervals between oil",
+        "en": "Porsche engines have long intervals between oil"
+       },
+       "words": 388,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t030_5ce5de3d",
+       "title": {
+        "ru": "Check engine warning light",
+        "en": "Check engine warning light"
+       },
+       "words": 262,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t031_04447089",
+       "title": {
+        "ru": "Purge system",
+        "en": "Purge system"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t032_0ca1d126",
+       "title": {
+        "ru": "Risk of accident resulting in serious personal",
+        "en": "Risk of accident resulting in serious personal"
+       },
+       "words": 196,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t033_e3998de1",
+       "title": {
+        "ru": "To prevent the door lock from freezing during",
+        "en": "To prevent the door lock from freezing during"
+       },
+       "words": 431,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t034_40b4cfa2",
+       "title": {
+        "ru": "Effective rust-proofing is particularly important",
+        "en": "Effective rust-proofing is particularly important"
+       },
+       "words": 389,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t035_3edf1946",
+       "title": {
+        "ru": "Your Porsche is equipped with an electronic ig-",
+        "en": "Your Porsche is equipped with an electronic ig-"
+       },
+       "words": 261,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t036_df146bbc",
+       "title": {
+        "ru": "Soiled valve inserts can cause a gradual loss",
+        "en": "Soiled valve inserts can cause a gradual loss"
+       },
+       "words": 198,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t037_4fd7d2dc",
+       "title": {
+        "ru": "Do not operate additional accessories for more",
+        "en": "Do not operate additional accessories for more"
+       },
+       "words": 172,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t038_b6d49dbc",
+       "title": {
+        "ru": "2. First connect the negative cable (black) to",
+        "en": "2. First connect the negative cable (black) to"
+       },
+       "words": 287,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_engine_t039_84342408",
+       "title": {
+        "ru": "Engine oil consumption",
+        "en": "Engine oil consumption"
+       },
+       "words": 214,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t000_cf184b3a",
+       "title": {
+        "ru": "Porsche Ceramic Composite Brake",
+        "en": "Porsche Ceramic Composite Brake"
+       },
+       "words": 91,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t001_bed72dd4",
+       "title": {
+        "ru": "Break in brake pads and brake discs",
+        "en": "Break in brake pads and brake discs"
+       },
+       "words": 120,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t002_1dac8b7f",
+       "title": {
+        "ru": "Parking Brake",
+        "en": "Parking Brake"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t003_f3e9319a",
+       "title": {
+        "ru": "Brake system function",
+        "en": "Brake system function"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t004_6d1bf124",
+       "title": {
+        "ru": "Always check the movement of the brake pedal",
+        "en": "Always check the movement of the brake pedal"
+       },
+       "words": 318,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t005_27842412",
+       "title": {
+        "ru": "The high-performance brake system is designed",
+        "en": "The high-performance brake system is designed"
+       },
+       "words": 221,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t006_9440ce70",
+       "title": {
+        "ru": "If you experience these sensations while driv-",
+        "en": "If you experience these sensations while driv-"
+       },
+       "words": 150,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t007_643ddee1",
+       "title": {
+        "ru": "The following functions stabilize the vehicle in",
+        "en": "The following functions stabilize the vehicle in"
+       },
+       "words": 193,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t008_e2e0b087",
+       "title": {
+        "ru": "Keep engine running at increased idle for",
+        "en": "Keep engine running at increased idle for"
+       },
+       "words": 304,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t009_e5160d5f",
+       "title": {
+        "ru": "Do not use a conventional record cleaner or",
+        "en": "Do not use a conventional record cleaner or"
+       },
+       "words": 277,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t010_ad9ca80d",
+       "title": {
+        "ru": "Brake pad wear",
+        "en": "Brake pad wear"
+       },
+       "words": 127,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t011_338f6372",
+       "title": {
+        "ru": "Changing the selector lever position",
+        "en": "Changing the selector lever position"
+       },
+       "words": 158,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t012_00317fca",
+       "title": {
+        "ru": "Engage parking lock after applying the",
+        "en": "Engage parking lock after applying the"
+       },
+       "words": 118,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t013_22ce639d",
+       "title": {
+        "ru": "Mobile Roofs",
+        "en": "Mobile Roofs"
+       },
+       "words": 170,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t014_2b7a7b90",
+       "title": {
+        "ru": "Have the brake system checked without delay",
+        "en": "Have the brake system checked without delay"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t015_356f45db",
+       "title": {
+        "ru": "Remove the battery from the vehicle and store",
+        "en": "Remove the battery from the vehicle and store"
+       },
+       "words": 224,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t016_b19693d6",
+       "title": {
+        "ru": "Maximum power consumption for both sock-",
+        "en": "Maximum power consumption for both sock-"
+       },
+       "words": 181,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t017_b5fe13cd",
+       "title": {
+        "ru": "Never drive the car with a disconnected bat-",
+        "en": "Never drive the car with a disconnected bat-"
+       },
+       "words": 213,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_brakes_t018_0a15183c",
+       "title": {
+        "ru": "2. First lift release tab B, then push both release",
+        "en": "2. First lift release tab B, then push both release"
+       },
+       "words": 39,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_suspension_t000_1225aecc",
+       "title": {
+        "ru": "Porsche Active Suspension Management",
+        "en": "Porsche Active Suspension Management"
+       },
+       "words": 270,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_suspension_t001_39612d1c",
+       "title": {
+        "ru": "Please contact your authorized Porsche dealer",
+        "en": "Please contact your authorized Porsche dealer"
+       },
+       "words": 107,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_hvac_t000_ba3d2564",
+       "title": {
+        "ru": "The blue light-emitting diodes in the buttons show",
+        "en": "The blue light-emitting diodes in the buttons show"
+       },
+       "words": 100,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_body_t001_6a80b3dd",
+       "title": {
+        "ru": "Passenger Compartment Monitoring ............",
+        "en": "Passenger Compartment Monitoring ............"
+       },
+       "words": 126,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t002_99184c88",
+       "title": {
+        "ru": "2. Open driver’s door and insert the ignition key",
+        "en": "2. Open driver’s door and insert the ignition key"
+       },
+       "words": 202,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t003_8325ec9c",
+       "title": {
+        "ru": "Emergency operation – opening",
+        "en": "Emergency operation – opening"
+       },
+       "words": 144,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t004_a44d8a09",
+       "title": {
+        "ru": "Type 2",
+        "en": "Type 2"
+       },
+       "words": 189,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t005_967006eb",
+       "title": {
+        "ru": "Automatic relocking",
+        "en": "Automatic relocking"
+       },
+       "words": 127,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t006_84594022",
+       "title": {
+        "ru": "Note on operation",
+        "en": "Note on operation"
+       },
+       "words": 200,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t007_1676b99d",
+       "title": {
+        "ru": "Automatically locked doors can be unlocked with",
+        "en": "Automatically locked doors can be unlocked with"
+       },
+       "words": 123,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t008_4ea2319e",
+       "title": {
+        "ru": "Function indication",
+        "en": "Function indication"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t009_ec604c8b",
+       "title": {
+        "ru": "Opening/closing windows",
+        "en": "Opening/closing windows"
+       },
+       "words": 132,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t010_54576cb7",
+       "title": {
+        "ru": "Once the anti-crushing protection acts to stop",
+        "en": "Once the anti-crushing protection acts to stop"
+       },
+       "words": 189,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t011_aafba847",
+       "title": {
+        "ru": "Unfolding door mirrors",
+        "en": "Unfolding door mirrors"
+       },
+       "words": 167,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t012_9f18b30e",
+       "title": {
+        "ru": "Safety belts only offer protection when the",
+        "en": "Safety belts only offer protection when the"
+       },
+       "words": 102,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t013_a7252658",
+       "title": {
+        "ru": "Operating with the remote control of the",
+        "en": "Operating with the remote control of the"
+       },
+       "words": 162,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t014_286ea359",
+       "title": {
+        "ru": "The vanity mirror illumination is switched on auto-",
+        "en": "The vanity mirror illumination is switched on auto-"
+       },
+       "words": 293,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t015_4f30b788",
+       "title": {
+        "ru": "Safety belts only offer protection when the",
+        "en": "Safety belts only offer protection when the"
+       },
+       "words": 306,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t016_a16e147e",
+       "title": {
+        "ru": "Porsche window cleaner. If they are very dirty",
+        "en": "Porsche window cleaner. If they are very dirty"
+       },
+       "words": 239,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t018_df92077c",
+       "title": {
+        "ru": "Please contact your authorized Porsche dealer",
+        "en": "Please contact your authorized Porsche dealer"
+       },
+       "words": 125,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t019_eaa4330a",
+       "title": {
+        "ru": "Air distribution to windshield",
+        "en": "Air distribution to windshield"
+       },
+       "words": 133,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t020_bb23b169",
+       "title": {
+        "ru": "Mobile Roofs",
+        "en": "Mobile Roofs"
+       },
+       "words": 188,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t021_7d58286e",
+       "title": {
+        "ru": "Pull the ring in the right-hand door aperture",
+        "en": "Pull the ring in the right-hand door aperture"
+       },
+       "words": 150,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t022_531ed4ae",
+       "title": {
+        "ru": "Dark colors are also more susceptible to scratch-",
+        "en": "Dark colors are also more susceptible to scratch-"
+       },
+       "words": 298,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t023_5970bf16",
+       "title": {
+        "ru": "Periodically clean the wiper blades with",
+        "en": "Periodically clean the wiper blades with"
+       },
+       "words": 263,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t024_49882325",
+       "title": {
+        "ru": "1. In this case, unlock the driver’s door with the",
+        "en": "1. In this case, unlock the driver’s door with the"
+       },
+       "words": 114,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_body_t025_91bc1fd2",
+       "title": {
+        "ru": "3. Fold the cover up and press on its upper edge",
+        "en": "3. Fold the cover up and press on its upper edge"
+       },
+       "words": 79,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t002_453d28d3",
+       "title": {
+        "ru": "Never invite car theft!",
+        "en": "Never invite car theft!"
+       },
+       "words": 298,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t003_d19ec8a3",
+       "title": {
+        "ru": "3. Adjust steering wheel to fit the chosen",
+        "en": "3. Adjust steering wheel to fit the chosen"
+       },
+       "words": 96,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t004_daf6cdf2",
+       "title": {
+        "ru": "Carry out any complicated operating or setting",
+        "en": "Carry out any complicated operating or setting"
+       },
+       "words": 258,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t005_5b2d98fa",
+       "title": {
+        "ru": "The ABS system represents a major contribution",
+        "en": "The ABS system represents a major contribution"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t006_ec1ac2fc",
+       "title": {
+        "ru": "The steering column is automatically locked when",
+        "en": "The steering column is automatically locked when"
+       },
+       "words": 122,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t007_f501bf25",
+       "title": {
+        "ru": "Move wiper lever downwards. The windshield",
+        "en": "Move wiper lever downwards. The windshield"
+       },
+       "words": 163,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t008_8ab0d5a9",
+       "title": {
+        "ru": "The Tire Pressure Monitoring continuously",
+        "en": "The Tire Pressure Monitoring continuously"
+       },
+       "words": 288,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t009_d3b8fd5c",
+       "title": {
+        "ru": "Only if the message “Process complete” appears",
+        "en": "Only if the message “Process complete” appears"
+       },
+       "words": 148,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t010_2b31a018",
+       "title": {
+        "ru": "The wheel learning process takes place",
+        "en": "The wheel learning process takes place"
+       },
+       "words": 184,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t011_8e0bda7f",
+       "title": {
+        "ru": "Partial monitoring",
+        "en": "Partial monitoring"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t012_bdd9c6a7",
+       "title": {
+        "ru": "The Tire Pressure Monitoring is learning the",
+        "en": "The Tire Pressure Monitoring is learning the"
+       },
+       "words": 184,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t013_298f92fc",
+       "title": {
+        "ru": "M – Manual selection mode",
+        "en": "M – Manual selection mode"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t014_75b1c2cb",
+       "title": {
+        "ru": "Cleaners with an oxide-removing effect or the",
+        "en": "Cleaners with an oxide-removing effect or the"
+       },
+       "words": 296,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t015_aa3b20f1",
+       "title": {
+        "ru": "Inspect your tires for wear and damage before",
+        "en": "Inspect your tires for wear and damage before"
+       },
+       "words": 138,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t016_08fe2438",
+       "title": {
+        "ru": "Removing and storing tires",
+        "en": "Removing and storing tires"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t017_2978e830",
+       "title": {
+        "ru": "Always screw in both assembly aids when",
+        "en": "Always screw in both assembly aids when"
+       },
+       "words": 125,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t018_dcfbc3ac",
+       "title": {
+        "ru": "Note on operation for vehicles with Tire Pressure",
+        "en": "Note on operation for vehicles with Tire Pressure"
+       },
+       "words": 138,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t019_b679e2e6",
+       "title": {
+        "ru": "4. For wheel mounting without a spacer, 5 mm",
+        "en": "4. For wheel mounting without a spacer, 5 mm"
+       },
+       "words": 119,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_steering_t020_2905e1ad",
+       "title": {
+        "ru": "Vehicle towing",
+        "en": "Vehicle towing"
+       },
+       "words": 184,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t000_02d192b0",
+       "title": {
+        "ru": "Owner’s Manual",
+        "en": "Owner’s Manual"
+       },
+       "words": 191,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t002_ad75f82b",
+       "title": {
+        "ru": "Changing Light-Emitting Diodes and Long-Life",
+        "en": "Changing Light-Emitting Diodes and Long-Life"
+       },
+       "words": 113,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t003_7cf6652c",
+       "title": {
+        "ru": "Light Switch on Vehicles",
+        "en": "Light Switch on Vehicles"
+       },
+       "words": 181,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t004_3a8c3709",
+       "title": {
+        "ru": "Switching on the automatic anti-glare",
+        "en": "Switching on the automatic anti-glare"
+       },
+       "words": 117,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t005_901c4e5c",
+       "title": {
+        "ru": "Please see the chapter “PASSENGER AIRBAG",
+        "en": "Please see the chapter “PASSENGER AIRBAG"
+       },
+       "words": 103,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t007_45d7cecd",
+       "title": {
+        "ru": "A sporty gear-changing map is enabled and the",
+        "en": "A sporty gear-changing map is enabled and the"
+       },
+       "words": 172,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t008_c3587302",
+       "title": {
+        "ru": "In conjunction with a message on the on-board",
+        "en": "In conjunction with a message on the on-board"
+       },
+       "words": 138,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t009_20cb48b8",
+       "title": {
+        "ru": "A detected obstacle is signalled by an intermit-",
+        "en": "A detected obstacle is signalled by an intermit-"
+       },
+       "words": 163,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t010_72202956",
+       "title": {
+        "ru": "USA only",
+        "en": "USA only"
+       },
+       "words": 96,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t011_a4cb3e31",
+       "title": {
+        "ru": "2. Insert ignition key and switch ignition on",
+        "en": "2. Insert ignition key and switch ignition on"
+       },
+       "words": 138,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t012_1b61fcf5",
+       "title": {
+        "ru": "On vehicles with the Sport Chrono Package",
+        "en": "On vehicles with the Sport Chrono Package"
+       },
+       "words": 162,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t013_635c9122",
+       "title": {
+        "ru": "Lever in center position – Low beam",
+        "en": "Lever in center position – Low beam"
+       },
+       "words": 131,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t014_a9f116c3",
+       "title": {
+        "ru": "The washer system sprays and wipes while the",
+        "en": "The washer system sprays and wipes while the"
+       },
+       "words": 146,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t015_7dfa2e0c",
+       "title": {
+        "ru": "Heating lighter",
+        "en": "Heating lighter"
+       },
+       "words": 147,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t016_a7ba24b3",
+       "title": {
+        "ru": "Any portable telephone or radio transmitter which",
+        "en": "Any portable telephone or radio transmitter which"
+       },
+       "words": 137,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t017_741933dd",
+       "title": {
+        "ru": "3. Press the transmit button on the original hand-",
+        "en": "3. Press the transmit button on the original hand-"
+       },
+       "words": 156,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t018_42b67492",
+       "title": {
+        "ru": "If uncooled air flows out when the lowest",
+        "en": "If uncooled air flows out when the lowest"
+       },
+       "words": 108,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t020_4aba8e13",
+       "title": {
+        "ru": "Lights when high beam or headlight flasher is",
+        "en": "Lights when high beam or headlight flasher is"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t021_02dc3a74",
+       "title": {
+        "ru": "Push operating lever slightly up or down until",
+        "en": "Push operating lever slightly up or down until"
+       },
+       "words": 193,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t022_08d04e2c",
+       "title": {
+        "ru": "The tire pressure warning light on the instrument",
+        "en": "The tire pressure warning light on the instrument"
+       },
+       "words": 122,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t024_9b4f2ea3",
+       "title": {
+        "ru": "Your autorized Porsche dealer will be pleased to",
+        "en": "Your autorized Porsche dealer will be pleased to"
+       },
+       "words": 179,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t025_69734a41",
+       "title": {
+        "ru": "Washer fluid",
+        "en": "Washer fluid"
+       },
+       "words": 197,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t027_21e54f87",
+       "title": {
+        "ru": "Avoid sunlight striking the tires before measur-",
+        "en": "Avoid sunlight striking the tires before measur-"
+       },
+       "words": 235,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t028_d91ed520",
+       "title": {
+        "ru": "Load switch-off after 2 hours or 7 days",
+        "en": "Load switch-off after 2 hours or 7 days"
+       },
+       "words": 209,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t029_7250b125",
+       "title": {
+        "ru": "Risk of damage. Bulbs of a higher wattage",
+        "en": "Risk of damage. Bulbs of a higher wattage"
+       },
+       "words": 164,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_lighting_t030_8b11ca36",
+       "title": {
+        "ru": "The following lights are equipped with light-",
+        "en": "The following lights are equipped with light-"
+       },
+       "words": 341,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_adas_t000_b902b3e9",
+       "title": {
+        "ru": "Canada L4V 1W1",
+        "en": "Canada L4V 1W1"
+       },
+       "words": 253,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_adas_t001_6c633c8e",
+       "title": {
+        "ru": "Tire traction",
+        "en": "Tire traction"
+       },
+       "words": 51,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t002_49d84b79",
+       "title": {
+        "ru": "Child seat bracket on the passenger’s seat ...",
+        "en": "Child seat bracket on the passenger’s seat ..."
+       },
+       "words": 237,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t003_0a6cde73",
+       "title": {
+        "ru": "Vehicles with Porsche Doppelkupplung",
+        "en": "Vehicles with Porsche Doppelkupplung"
+       },
+       "words": 136,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t004_81a01192",
+       "title": {
+        "ru": "Storing seat position",
+        "en": "Storing seat position"
+       },
+       "words": 96,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t005_ccaf291b",
+       "title": {
+        "ru": "Note on operation",
+        "en": "Note on operation"
+       },
+       "words": 95,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t006_bbab6f4f",
+       "title": {
+        "ru": "Failure to follow safety belt warnings may re-",
+        "en": "Failure to follow safety belt warnings may re-"
+       },
+       "words": 200,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t007_4ec048d9",
+       "title": {
+        "ru": "Belt tensioner",
+        "en": "Belt tensioner"
+       },
+       "words": 139,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t008_79911ab9",
+       "title": {
+        "ru": "Insert belt tongue into buckle on inboard side",
+        "en": "Insert belt tongue into buckle on inboard side"
+       },
+       "words": 303,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t009_011469a4",
+       "title": {
+        "ru": "Doing so may adversely affect the functioning",
+        "en": "Doing so may adversely affect the functioning"
+       },
+       "words": 249,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t010_bd98b456",
+       "title": {
+        "ru": "Other accidents where the airbags are designed",
+        "en": "Other accidents where the airbags are designed"
+       },
+       "words": 196,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t011_560e28d9",
+       "title": {
+        "ru": "Automatic deactivation of the passenger’s",
+        "en": "Automatic deactivation of the passenger’s"
+       },
+       "words": 162,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t012_0a731874",
+       "title": {
+        "ru": "Key-operated airbag deactivation device",
+        "en": "Key-operated airbag deactivation device"
+       },
+       "words": 205,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t013_34ba8da7",
+       "title": {
+        "ru": "A statement by the seat manufacturer of compli-",
+        "en": "A statement by the seat manufacturer of compli-"
+       },
+       "words": 240,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t014_894d4bbf",
+       "title": {
+        "ru": "Risk of serious personal injury or death due",
+        "en": "Risk of serious personal injury or death due"
+       },
+       "words": 157,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t015_4aa39bbb",
+       "title": {
+        "ru": "Make sure that excessive seat belt forces do",
+        "en": "Make sure that excessive seat belt forces do"
+       },
+       "words": 124,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t016_3e09036f",
+       "title": {
+        "ru": "The ignition key rebounds to the initial position",
+        "en": "The ignition key rebounds to the initial position"
+       },
+       "words": 118,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t017_98fa6778",
+       "title": {
+        "ru": "Air Conditioning",
+        "en": "Air Conditioning"
+       },
+       "words": 122,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_interior_t018_25d29759",
+       "title": {
+        "ru": "Check that the wiper blades are seated",
+        "en": "Check that the wiper blades are seated"
+       },
+       "words": 228,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_ev_t001_a26f018f",
+       "title": {
+        "ru": "Possible causes",
+        "en": "Possible causes"
+       },
+       "words": 94,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_ev_t003_150f9357",
+       "title": {
+        "ru": "8. Push positive terminal C into the fuse box and",
+        "en": "8. Push positive terminal C into the fuse box and"
+       },
+       "words": 214,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_ev_t004_b608cb07",
+       "title": {
+        "ru": "Charge state",
+        "en": "Charge state"
+       },
+       "words": 180,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_ev_t005_15e3fba8",
+       "title": {
+        "ru": "5. Connect the charger to the battery",
+        "en": "5. Connect the charger to the battery"
+       },
+       "words": 110,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_general_t000_3c976b40",
+       "title": {
+        "ru": "Owner’s Manual",
+        "en": "Owner’s Manual"
+       },
+       "words": 175,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t001_f93294ed",
+       "title": {
+        "ru": "Porsche therefore will not accept any",
+        "en": "Porsche therefore will not accept any"
+       },
+       "words": 220,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t002_e0b955ca",
+       "title": {
+        "ru": "Setting and operating vehicle",
+        "en": "Setting and operating vehicle"
+       },
+       "words": 178,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t009_5e3543ba",
+       "title": {
+        "ru": "Malfunction of the remote control",
+        "en": "Malfunction of the remote control"
+       },
+       "words": 116,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t010_fa60bb42",
+       "title": {
+        "ru": "Any changes or modifications not expressly",
+        "en": "Any changes or modifications not expressly"
+       },
+       "words": 80,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t011_e839fdfb",
+       "title": {
+        "ru": "Locking twice – continuous illumination for",
+        "en": "Locking twice – continuous illumination for"
+       },
+       "words": 80,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t012_78a99c31",
+       "title": {
+        "ru": "The passenger compartment monitoring system",
+        "en": "The passenger compartment monitoring system"
+       },
+       "words": 93,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t013_f2a2b2be",
+       "title": {
+        "ru": "6. Keep memory button M depressed and also",
+        "en": "6. Keep memory button M depressed and also"
+       },
+       "words": 83,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t014_b2c4a59a",
+       "title": {
+        "ru": "Please see the chapter “WARNINGS ON THE",
+        "en": "Please see the chapter “WARNINGS ON THE"
+       },
+       "words": 189,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t015_e20b2335",
+       "title": {
+        "ru": "PSM should always be switched on during",
+        "en": "PSM should always be switched on during"
+       },
+       "words": 100,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t016_826fcbdd",
+       "title": {
+        "ru": "Risk of burn injury when standing near or",
+        "en": "Risk of burn injury when standing near or"
+       },
+       "words": 160,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t017_3288f48d",
+       "title": {
+        "ru": "A - Automatic speed control readiness off/on",
+        "en": "A - Automatic speed control readiness off/on"
+       },
+       "words": 97,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t018_94447f04",
+       "title": {
+        "ru": "Note on operation",
+        "en": "Note on operation"
+       },
+       "words": 142,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t019_5c6f7c34",
+       "title": {
+        "ru": "Extending cupholder",
+        "en": "Extending cupholder"
+       },
+       "words": 162,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t020_d7eae5f5",
+       "title": {
+        "ru": "Unsecured luggage and heavy objects may",
+        "en": "Unsecured luggage and heavy objects may"
+       },
+       "words": 176,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t021_58db2b3b",
+       "title": {
+        "ru": "J - Tire sealant",
+        "en": "J - Tire sealant"
+       },
+       "words": 145,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t022_d4dc58a6",
+       "title": {
+        "ru": "This could distract you from the traffic and",
+        "en": "This could distract you from the traffic and"
+       },
+       "words": 256,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t023_e945c3a8",
+       "title": {
+        "ru": "As a vehicle moves through these electronic dead",
+        "en": "As a vehicle moves through these electronic dead"
+       },
+       "words": 145,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t024_78d5864c",
+       "title": {
+        "ru": "1. Place fire extinguisher in the mounting",
+        "en": "1. Place fire extinguisher in the mounting"
+       },
+       "words": 149,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t025_f8354d71",
+       "title": {
+        "ru": "4. Repeat steps 1 to 3 to allocate other buttons",
+        "en": "4. Repeat steps 1 to 3 to allocate other buttons"
+       },
+       "words": 81,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t026_0787cf8a",
+       "title": {
+        "ru": "Depending on the outside temperature and hu-",
+        "en": "Depending on the outside temperature and hu-"
+       },
+       "words": 177,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t027_a0f902a6",
+       "title": {
+        "ru": "Please observe the chapter “Individual",
+        "en": "Please observe the chapter “Individual"
+       },
+       "words": 76,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t029_1c7af482",
+       "title": {
+        "ru": "Trip Odometer",
+        "en": "Trip Odometer"
+       },
+       "words": 86,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t030_cffd0cd0",
+       "title": {
+        "ru": "The corresponding selector lever position",
+        "en": "The corresponding selector lever position"
+       },
+       "words": 127,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t031_bc4a8eba",
+       "title": {
+        "ru": "Turn button in the appropriate direction",
+        "en": "Turn button in the appropriate direction"
+       },
+       "words": 88,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t032_062b4b03",
+       "title": {
+        "ru": "Push operating lever up in order to page",
+        "en": "Push operating lever up in order to page"
+       },
+       "words": 117,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t033_7088f67c",
+       "title": {
+        "ru": "Telephone information",
+        "en": "Telephone information"
+       },
+       "words": 126,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t034_30c93368",
+       "title": {
+        "ru": "Select destination",
+        "en": "Select destination"
+       },
+       "words": 89,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t035_22238e2b",
+       "title": {
+        "ru": "Please see the chapter “PRESSURE INCREASE",
+        "en": "Please see the chapter “PRESSURE INCREASE"
+       },
+       "words": 100,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t036_e478e692",
+       "title": {
+        "ru": "Stage 1 – Add air",
+        "en": "Stage 1 – Add air"
+       },
+       "words": 160,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t037_85f2d6bc",
+       "title": {
+        "ru": "Please see the chapter “WARNINGS ON THE",
+        "en": "Please see the chapter “WARNINGS ON THE"
+       },
+       "words": 70,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t038_12c6f6fa",
+       "title": {
+        "ru": "Select the desired function with the operating",
+        "en": "Select the desired function with the operating"
+       },
+       "words": 102,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t039_ac25c8b6",
+       "title": {
+        "ru": "PASM failure",
+        "en": "PASM failure"
+       },
+       "words": 72,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t040_c5ab52fa",
+       "title": {
+        "ru": "Service in mls/days",
+        "en": "Service in mls/days"
+       },
+       "words": 95,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t041_8d09e779",
+       "title": {
+        "ru": "Release button",
+        "en": "Release button"
+       },
+       "words": 120,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t042_8e15ce71",
+       "title": {
+        "ru": "Stress on components increases dramatically",
+        "en": "Stress on components increases dramatically"
+       },
+       "words": 103,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t044_51bbbd55",
+       "title": {
+        "ru": "In order to abort convertible top operation in",
+        "en": "In order to abort convertible top operation in"
+       },
+       "words": 278,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t046_c671dd91",
+       "title": {
+        "ru": "Installing center section of windstop",
+        "en": "Installing center section of windstop"
+       },
+       "words": 109,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t047_7fd833ad",
+       "title": {
+        "ru": "Unplug plug of the hardtop heated rear win-",
+        "en": "Unplug plug of the hardtop heated rear win-"
+       },
+       "words": 141,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t049_ac17f94e",
+       "title": {
+        "ru": "Please see the chapter “EXERCISE EXTREME",
+        "en": "Please see the chapter “EXERCISE EXTREME"
+       },
+       "words": 133,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t050_d34402b0",
+       "title": {
+        "ru": "Opening the filler flap",
+        "en": "Opening the filler flap"
+       },
+       "words": 142,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t051_28c3f819",
+       "title": {
+        "ru": "Cars with catalytic converters have a smaller fuel",
+        "en": "Cars with catalytic converters have a smaller fuel"
+       },
+       "words": 164,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t052_75c33a76",
+       "title": {
+        "ru": "Porsche warrants the Emission Control System in",
+        "en": "Porsche warrants the Emission Control System in"
+       },
+       "words": 332,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t053_a26bd34e",
+       "title": {
+        "ru": "Topping off washer fluid",
+        "en": "Topping off washer fluid"
+       },
+       "words": 160,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t054_c0f5bf7e",
+       "title": {
+        "ru": "Periodically clean the wiper blades with win-",
+        "en": "Periodically clean the wiper blades with win-"
+       },
+       "words": 138,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t055_862cc5c8",
+       "title": {
+        "ru": "Always read directions on the container before",
+        "en": "Always read directions on the container before"
+       },
+       "words": 263,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t056_bcbbdb2a",
+       "title": {
+        "ru": "Optional add-on parts or parts which project",
+        "en": "Optional add-on parts or parts which project"
+       },
+       "words": 204,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t057_ca7de612",
+       "title": {
+        "ru": "Remove bird droppings immediately since the",
+        "en": "Remove bird droppings immediately since the"
+       },
+       "words": 131,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t058_e5fe1d2f",
+       "title": {
+        "ru": "Minor paint damage",
+        "en": "Minor paint damage"
+       },
+       "words": 202,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t059_c6755cd8",
+       "title": {
+        "ru": "Observe the following care instructions",
+        "en": "Observe the following care instructions"
+       },
+       "words": 97,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t060_113e4548",
+       "title": {
+        "ru": "Secure the floor-mat to prevent it from sliding",
+        "en": "Secure the floor-mat to prevent it from sliding"
+       },
+       "words": 152,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t061_07d58e89",
+       "title": {
+        "ru": "Incomplete or improper servicing may cause",
+        "en": "Incomplete or improper servicing may cause"
+       },
+       "words": 131,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t062_95af1b88",
+       "title": {
+        "ru": "Do not use commercially available sealant or",
+        "en": "Do not use commercially available sealant or"
+       },
+       "words": 163,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t063_19051b53",
+       "title": {
+        "ru": "C Tire size for the front axle",
+        "en": "C Tire size for the front axle"
+       },
+       "words": 355,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t064_a5bc79ec",
+       "title": {
+        "ru": "Driving the vehicle with low tire pressure",
+        "en": "Driving the vehicle with low tire pressure"
+       },
+       "words": 275,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t065_d7b37f1b",
+       "title": {
+        "ru": "Snow tires",
+        "en": "Snow tires"
+       },
+       "words": 107,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t066_72c9bc84",
+       "title": {
+        "ru": "A Tire size",
+        "en": "A Tire size"
+       },
+       "words": 184,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t067_1f574991",
+       "title": {
+        "ru": "Speed code letter",
+        "en": "Speed code letter"
+       },
+       "words": 185,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t068_f3d002f8",
+       "title": {
+        "ru": "The Gross Combined Weight Rating is the",
+        "en": "The Gross Combined Weight Rating is the"
+       },
+       "words": 197,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t069_f4b90769",
+       "title": {
+        "ru": "Steps for determining correct load limit",
+        "en": "Steps for determining correct load limit"
+       },
+       "words": 166,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t070_a1ba528e",
+       "title": {
+        "ru": "A valve turner and",
+        "en": "A valve turner and"
+       },
+       "words": 172,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t071_a465aa7c",
+       "title": {
+        "ru": "3. Remove the corresponding fuse from its slot",
+        "en": "3. Remove the corresponding fuse from its slot"
+       },
+       "words": 91,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t072_6cddc397",
+       "title": {
+        "ru": "Checking the electrolyte fluid level",
+        "en": "Checking the electrolyte fluid level"
+       },
+       "words": 92,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t073_d619f1d2",
+       "title": {
+        "ru": "4. Replace the defective bulb with bulb holder",
+        "en": "4. Replace the defective bulb with bulb holder"
+       },
+       "words": 93,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t075_b40fd974",
+       "title": {
+        "ru": "Cubic capacity",
+        "en": "Cubic capacity"
+       },
+       "words": 142,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_general_t076_6cf94cce",
+       "title": {
+        "ru": "Acceleration 0 – 60 mph with Sport+",
+        "en": "Acceleration 0 – 60 mph with Sport+"
+       },
+       "words": 126,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_drivetrain_t000_1ef2a58a",
+       "title": {
+        "ru": "Porsche and its performance characteristics. Al-",
+        "en": "Porsche and its performance characteristics. Al-"
+       },
+       "words": 91,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_drivetrain_t002_b15616d7",
+       "title": {
+        "ru": "SPORT PLUS button",
+        "en": "SPORT PLUS button"
+       },
+       "words": 167,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_drivetrain_t003_73547ff3",
+       "title": {
+        "ru": "In vehicles with PDK transmission",
+        "en": "In vehicles with PDK transmission"
+       },
+       "words": 206,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_drivetrain_t004_286d28b3",
+       "title": {
+        "ru": "If you should require equipment with transmission",
+        "en": "If you should require equipment with transmission"
+       },
+       "words": 84,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_drivetrain_t005_b573b3fd",
+       "title": {
+        "ru": "Despite the advantages offered by the Tire",
+        "en": "Despite the advantages offered by the Tire"
+       },
+       "words": 84,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_drivetrain_t007_3a8e5ae3",
+       "title": {
+        "ru": "2. Fully depress the clutch pedal",
+        "en": "2. Fully depress the clutch pedal"
+       },
+       "words": 223,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_drivetrain_t009_a01b7031",
+       "title": {
+        "ru": "When items of luggage or other objects hinder",
+        "en": "When items of luggage or other objects hinder"
+       },
+       "words": 205,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_drivetrain_t010_57085dfc",
+       "title": {
+        "ru": "If you continue your trip without having the",
+        "en": "If you continue your trip without having the"
+       },
+       "words": 350,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_drivetrain_t011_7b57f03c",
+       "title": {
+        "ru": "3. If the warnings do not disappear, then",
+        "en": "3. If the warnings do not disappear, then"
+       },
+       "words": 85,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t000_d9551b65",
+       "title": {
+        "ru": "For U.S. only",
+        "en": "For U.S. only"
+       },
+       "words": 221,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t001_321143e6",
+       "title": {
+        "ru": "Porsche Stability Management",
+        "en": "Porsche Stability Management"
+       },
+       "words": 123,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t002_3a770f2f",
+       "title": {
+        "ru": "Overload protection",
+        "en": "Overload protection"
+       },
+       "words": 174,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t003_47c2ac43",
+       "title": {
+        "ru": "Always see the separate installation",
+        "en": "Always see the separate installation"
+       },
+       "words": 227,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t004_726d1b90",
+       "title": {
+        "ru": "Direction of installation for child restraint",
+        "en": "Direction of installation for child restraint"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t005_de747b16",
+       "title": {
+        "ru": "2. Pull the child seat to check that both fastening",
+        "en": "2. Pull the child seat to check that both fastening"
+       },
+       "words": 124,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t006_84cfca83",
+       "title": {
+        "ru": "Please refer to the chapter ”Individual Memory“",
+        "en": "Please refer to the chapter ”Individual Memory“"
+       },
+       "words": 90,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t007_3d533f94",
+       "title": {
+        "ru": "Safety reasons therefore require that you",
+        "en": "Safety reasons therefore require that you"
+       },
+       "words": 167,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t008_b4241f56",
+       "title": {
+        "ru": "Emergency operation",
+        "en": "Emergency operation"
+       },
+       "words": 274,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t009_61b9e8ad",
+       "title": {
+        "ru": "Keep these fluids out of children’s reach and",
+        "en": "Keep these fluids out of children’s reach and"
+       },
+       "words": 390,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t010_b39281eb",
+       "title": {
+        "ru": "Tire designations",
+        "en": "Tire designations"
+       },
+       "words": 198,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t011_ecfc57a9",
+       "title": {
+        "ru": "Please see the chapter “TPM TIRE PRESSURE",
+        "en": "Please see the chapter “TPM TIRE PRESSURE"
+       },
+       "words": 174,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t012_da54e6ca",
+       "title": {
+        "ru": "Garage lift",
+        "en": "Garage lift"
+       },
+       "words": 122,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t013_da4d1789",
+       "title": {
+        "ru": "1. Push on cover until it is felt to engage",
+        "en": "1. Push on cover until it is felt to engage"
+       },
+       "words": 163,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_safety_t014_0dbe6901",
+       "title": {
+        "ru": "5. Secure straps to front of flat bed",
+        "en": "5. Secure straps to front of flat bed"
+       },
+       "words": 92,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_sensors_t000_98ae72fb",
+       "title": {
+        "ru": "The parking assistant system is activated auto-",
+        "en": "The parking assistant system is activated auto-"
+       },
+       "words": 125,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_sensors_t001_1b0d596c",
+       "title": {
+        "ru": "Always switch off windshield wipers before",
+        "en": "Always switch off windshield wipers before"
+       },
+       "words": 139,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_sensors_t002_bb6032cc",
+       "title": {
+        "ru": "Changing the sensitivity of the rain sensor",
+        "en": "Changing the sensitivity of the rain sensor"
+       },
+       "words": 85,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "porsche_boxster_f1583ed1_infotainment_t000_dc363d89",
+       "title": {
+        "ru": "If the frequency of the display becomes notice-",
+        "en": "If the frequency of the display becomes notice-"
+       },
+       "words": 159,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_infotainment_t001_37708902",
+       "title": {
+        "ru": "Recommended setting in Winter –",
+        "en": "Recommended setting in Winter –"
+       },
+       "words": 273,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_infotainment_t002_1ec2ee3f",
+       "title": {
+        "ru": "Changing over between",
+        "en": "Changing over between"
+       },
+       "words": 87,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_infotainment_t003_940665e6",
+       "title": {
+        "ru": "Outside Temperature",
+        "en": "Outside Temperature"
+       },
+       "words": 217,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_infotainment_t004_02ea86ad",
+       "title": {
+        "ru": "Select “LIMIT active” with the operating lever",
+        "en": "Select “LIMIT active” with the operating lever"
+       },
+       "words": 148,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_infotainment_t005_6a91c811",
+       "title": {
+        "ru": "Starting/stopping stopwatch",
+        "en": "Starting/stopping stopwatch"
+       },
+       "words": 159,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_infotainment_t006_84735677",
+       "title": {
+        "ru": "Resetting the time",
+        "en": "Resetting the time"
+       },
+       "words": 172,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_infotainment_t007_6f0ea8f6",
+       "title": {
+        "ru": "Selecting a radio station",
+        "en": "Selecting a radio station"
+       },
+       "words": 161,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_infotainment_t008_1f052b69",
+       "title": {
+        "ru": "Push operating lever forward in order to switch",
+        "en": "Push operating lever forward in order to switch"
+       },
+       "words": 193,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_infotainment_t009_8feee644",
+       "title": {
+        "ru": "The difference between the minimum and",
+        "en": "The difference between the minimum and"
+       },
+       "words": 143,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_boxster_f1583ed1_infotainment_t010_942da977",
+       "title": {
+        "ru": "Text display on on-board",
+        "en": "Text display on on-board"
+       },
+       "words": 64,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

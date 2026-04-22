@@ -1,0 +1,2875 @@
+{
+ "version": "1.0",
+ "model": "civic",
+ "manuals": [
+  {
+   "model": "civic",
+   "label": {
+    "ru": "Honda Civic — Руководство по ремонту",
+    "en": "Honda Civic — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "honda_civic_brakes_t000_208f3fea",
+       "title": {
+        "ru": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)",
+        "en": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)"
+       },
+       "words": 777,
+       "images": 4,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t001_0ba06890",
+       "title": {
+        "ru": "DTC U0121: F-CAN Malfunction (PCM-ABS Modulator-Control Unit)",
+        "en": "DTC U0121: F-CAN Malfunction (PCM-ABS Modulator-Control Unit)"
+       },
+       "words": 1830,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t002_72474c26",
+       "title": {
+        "ru": "SERVO UNIT 25P CONNECTOR Wire side of female terminals",
+        "en": "SERVO UNIT 25P CONNECTOR Wire side of female terminals"
+       },
+       "words": 1082,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t003_40308547",
+       "title": {
+        "ru": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco",
+        "en": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco"
+       },
+       "words": 883,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t004_f790874f",
+       "title": {
+        "ru": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals",
+        "en": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals"
+       },
+       "words": 2127,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t005_33da7d07",
+       "title": {
+        "ru": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals",
+        "en": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals"
+       },
+       "words": 682,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t006_c1b21521",
+       "title": {
+        "ru": "GAUGE CONTROL MODULE (TACH) 36P CONNECTOR Wire side of female terminals",
+        "en": "GAUGE CONTROL MODULE (TACH) 36P CONNECTOR Wire side of female terminals"
+       },
+       "words": 1091,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t007_1f5d968f",
+       "title": {
+        "ru": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)",
+        "en": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)"
+       },
+       "words": 1014,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t008_96d9bd43",
+       "title": {
+        "ru": "DTC U0121: F-CAN Malfunction (PCM-ABS Modulator-Control Unit)",
+        "en": "DTC U0121: F-CAN Malfunction (PCM-ABS Modulator-Control Unit)"
+       },
+       "words": 1680,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t009_d07ebd51",
+       "title": {
+        "ru": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco",
+        "en": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco"
+       },
+       "words": 745,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t010_dbac9444",
+       "title": {
+        "ru": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR",
+        "en": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR"
+       },
+       "words": 2365,
+       "images": 13,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t011_7cfaaed0",
+       "title": {
+        "ru": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals",
+        "en": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals"
+       },
+       "words": 803,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t012_bdd0621d",
+       "title": {
+        "ru": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)",
+        "en": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)"
+       },
+       "words": 900,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t013_77875cac",
+       "title": {
+        "ru": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco",
+        "en": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco"
+       },
+       "words": 1456,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t014_c8af7245",
+       "title": {
+        "ru": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals",
+        "en": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals"
+       },
+       "words": 1190,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t015_9ad62cf2",
+       "title": {
+        "ru": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)",
+        "en": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)"
+       },
+       "words": 1373,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t016_1cb05dda",
+       "title": {
+        "ru": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco",
+        "en": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco"
+       },
+       "words": 1450,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t017_88b95519",
+       "title": {
+        "ru": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)",
+        "en": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)"
+       },
+       "words": 1162,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t018_49cfb82e",
+       "title": {
+        "ru": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco",
+        "en": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco"
+       },
+       "words": 1756,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t019_db5f5bb6",
+       "title": {
+        "ru": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals",
+        "en": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals"
+       },
+       "words": 1490,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t020_8115e74d",
+       "title": {
+        "ru": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)",
+        "en": "Engine Coolant Temperature (ECT) Sensor 1 and 2 Manifold Absolute Pressure (MAP)"
+       },
+       "words": 1673,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t021_e3deed85",
+       "title": {
+        "ru": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco",
+        "en": "ABS Modulator-control Unit Inputs and Outputs for 25P Connector (Connector Disco"
+       },
+       "words": 1750,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t022_793aeff6",
+       "title": {
+        "ru": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals",
+        "en": "ABS MODULATOR-CONTROL UNIT 25P CONNECTOR Wire side of female terminals"
+       },
+       "words": 1664,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "honda_civic_brakes_t023_3aad998e",
+       "title": {
+        "ru": "DTC Troubleshooting Index (cont'd)",
+        "en": "DTC Troubleshooting Index (cont'd)"
+       },
+       "words": 27,
+       "images": 2,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "honda_civic_suspension_t000_02aebcc4",
+       "title": {
+        "ru": "Spring-loaded Lock Connector",
+        "en": "Spring-loaded Lock Connector"
+       },
+       "words": 11,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "honda_civic_body_t000_728eccaf",
+       "title": {
+        "ru": "Driver's Power Window Motor Test",
+        "en": "Driver's Power Window Motor Test"
+       },
+       "words": 413,
+       "images": 1,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "honda_civic_lighting_t000_e2305f29",
+       "title": {
+        "ru": "If the Crankshaft is Already Installed",
+        "en": "If the Crankshaft is Already Installed"
+       },
+       "words": 1767,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t001_cc6f7fdc",
+       "title": {
+        "ru": "DTC P1570 (66): Battery Module Individual Voltage Problem",
+        "en": "DTC P1570 (66): Battery Module Individual Voltage Problem"
+       },
+       "words": 1770,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t002_2682b147",
+       "title": {
+        "ru": "Start Clutch Pressure Control",
+        "en": "Start Clutch Pressure Control"
+       },
+       "words": 1422,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t003_7bf50951",
+       "title": {
+        "ru": "Diagnostic Trouble Code (DTC)",
+        "en": "Diagnostic Trouble Code (DTC)"
+       },
+       "words": 1418,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t004_ab1a93fa",
+       "title": {
+        "ru": "How to Release Locked odometer mileage to the original gauge control module.",
+        "en": "How to Release Locked odometer mileage to the original gauge control module."
+       },
+       "words": 1574,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t005_6f806df2",
+       "title": {
+        "ru": "Voice guidance cannot be heard, is broken up, or there is static",
+        "en": "Voice guidance cannot be heard, is broken up, or there is static"
+       },
+       "words": 1732,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t006_ed412f9a",
+       "title": {
+        "ru": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic",
+        "en": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic"
+       },
+       "words": 1661,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t007_eec4a589",
+       "title": {
+        "ru": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic",
+        "en": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic"
+       },
+       "words": 1821,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t008_dccc1c70",
+       "title": {
+        "ru": "If the Crankshaft is Already Installed",
+        "en": "If the Crankshaft is Already Installed"
+       },
+       "words": 1729,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t009_18e636df",
+       "title": {
+        "ru": "DTC P1570 (66): Battery Module Individual Voltage Problem",
+        "en": "DTC P1570 (66): Battery Module Individual Voltage Problem"
+       },
+       "words": 1337,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t010_dba23290",
+       "title": {
+        "ru": "Solenoid Valves for Master Cylinder Electrical Controls",
+        "en": "Solenoid Valves for Master Cylinder Electrical Controls"
+       },
+       "words": 1465,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t011_2d9862ae",
+       "title": {
+        "ru": "If the Crankshaft is Already Installed",
+        "en": "If the Crankshaft is Already Installed"
+       },
+       "words": 1852,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "honda_civic_lighting_t012_b9047a6e",
+       "title": {
+        "ru": "If the Crankshaft is Already Installed",
+        "en": "If the Crankshaft is Already Installed"
+       },
+       "words": 1090,
+       "images": 9,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "honda_civic_interior_t000_0c87f127",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require"
+       },
+       "words": 2422,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t001_8accbdbe",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If electrical maintenance is required)",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If electrical maintenance is required)"
+       },
+       "words": 1720,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t002_865656e1",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation",
+        "en": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation"
+       },
+       "words": 741,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t003_abf47ed3",
+       "title": {
+        "ru": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 3165,
+       "images": 15,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t004_f320a52d",
+       "title": {
+        "ru": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 3452,
+       "images": 16,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t005_93e6f07e",
+       "title": {
+        "ru": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 2546,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t006_eba718ca",
+       "title": {
+        "ru": "Passenger's airbag cutoff indicator stays on or comes on suddenly",
+        "en": "Passenger's airbag cutoff indicator stays on or comes on suddenly"
+       },
+       "words": 1836,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t007_ee5534fd",
+       "title": {
+        "ru": "Left side shown; right side is similar.",
+        "en": "Left side shown; right side is similar."
+       },
+       "words": 974,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t008_62dfba75",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require"
+       },
+       "words": 1563,
+       "images": 9,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t009_19eb7d87",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If electrical maintenance is required)",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If electrical maintenance is required)"
+       },
+       "words": 2272,
+       "images": 6,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t010_6c58f064",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation",
+        "en": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation"
+       },
+       "words": 772,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t011_4bb3217e",
+       "title": {
+        "ru": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 2820,
+       "images": 12,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t012_09dce89d",
+       "title": {
+        "ru": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 2342,
+       "images": 7,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t013_d798336b",
+       "title": {
+        "ru": "Front Passenger's Airbag Replacement",
+        "en": "Front Passenger's Airbag Replacement"
+       },
+       "words": 1210,
+       "images": 9,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t014_56636fc4",
+       "title": {
+        "ru": "Deploying Components Out of the Vehicle Disposal of Damaged Components",
+        "en": "Deploying Components Out of the Vehicle Disposal of Damaged Components"
+       },
+       "words": 921,
+       "images": 13,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t015_f9c7df01",
+       "title": {
+        "ru": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 1753,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t016_29882a7f",
+       "title": {
+        "ru": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 32-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 2697,
+       "images": 9,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t017_43b6e4db",
+       "title": {
+        "ru": "Passenger's airbag cutoff indicator stays on or comes on suddenly",
+        "en": "Passenger's airbag cutoff indicator stays on or comes on suddenly"
+       },
+       "words": 1469,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t018_bc298b94",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator Illumination Bulb Test/Replacement",
+        "en": "Passenger's Airbag Cutoff Indicator Illumination Bulb Test/Replacement"
+       },
+       "words": 980,
+       "images": 12,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t019_acd88876",
+       "title": {
+        "ru": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 2122,
+       "images": 6,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t020_a68e8b87",
+       "title": {
+        "ru": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 2814,
+       "images": 7,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t021_a9ba77c9",
+       "title": {
+        "ru": "Passenger's airbag cutoff indicator stays on or comes on suddenly",
+        "en": "Passenger's airbag cutoff indicator stays on or comes on suddenly"
+       },
+       "words": 1295,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t022_b918a055",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation",
+        "en": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation"
+       },
+       "words": 1261,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t023_f82d023b",
+       "title": {
+        "ru": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 2648,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t024_e156add4",
+       "title": {
+        "ru": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 2861,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t025_5500367b",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator Illumination Bulb Test/Replacement",
+        "en": "Passenger's Airbag Cutoff Indicator Illumination Bulb Test/Replacement"
+       },
+       "words": 1160,
+       "images": 7,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t026_4ca7f96e",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation",
+        "en": "Passenger's Airbag Cutoff Indicator/Front Passenger's Weight Sensor Operation"
+       },
+       "words": 1418,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t027_e8a1a294",
+       "title": {
+        "ru": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 12-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 3312,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t028_98788250",
+       "title": {
+        "ru": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 34-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 2531,
+       "images": 3,
+       "section_id": "interior"
+      },
+      {
+       "id": "honda_civic_interior_t029_214385df",
+       "title": {
+        "ru": "Passenger's Airbag Cutoff Indicator Illumination Bulb Test/Replacement",
+        "en": "Passenger's Airbag Cutoff Indicator Illumination Bulb Test/Replacement"
+       },
+       "words": 1022,
+       "images": 6,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "honda_civic_ev_t000_64e4f41f",
+       "title": {
+        "ru": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If CVT maintenance is required)",
+        "en": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If CVT maintenance is required)"
+       },
+       "words": 312,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "honda_civic_general_t000_4d558496",
+       "title": {
+        "ru": "Ignition Coil Relay Circuit Troubleshooting (cont'd)",
+        "en": "Ignition Coil Relay Circuit Troubleshooting (cont'd)"
+       },
+       "words": 6158,
+       "images": 88,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t001_7c79b3dd",
+       "title": {
+        "ru": "Transmission End Crankshaft Oil Seal Installation - In Car",
+        "en": "Transmission End Crankshaft Oil Seal Installation - In Car"
+       },
+       "words": 15953,
+       "images": 254,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t002_bcff0a42",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 9138,
+       "images": 127,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t003_63ef80d9",
+       "title": {
+        "ru": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt",
+        "en": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt"
+       },
+       "words": 18021,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t004_ff8f8dd2",
+       "title": {
+        "ru": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod",
+        "en": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod"
+       },
+       "words": 25323,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t005_d5faf134",
+       "title": {
+        "ru": "DTC P2138: APP Sensor A/B (TP Sensor D/E) Incorrect Voltage Correlation",
+        "en": "DTC P2138: APP Sensor A/B (TP Sensor D/E) Incorrect Voltage Correlation"
+       },
+       "words": 17537,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t006_a974b5fd",
+       "title": {
+        "ru": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage",
+        "en": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage"
+       },
+       "words": 20751,
+       "images": 88,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t007_3f3a72ae",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 15837,
+       "images": 91,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t008_fcf35fc7",
+       "title": {
+        "ru": "DTC P0A9E (50): Battery Module Temperature Sensor 1 Circuit High Voltage",
+        "en": "DTC P0A9E (50): Battery Module Temperature Sensor 1 Circuit High Voltage"
+       },
+       "words": 31309,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t009_57609cc2",
+       "title": {
+        "ru": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections",
+        "en": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections"
+       },
+       "words": 18353,
+       "images": 104,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t010_cac8629c",
+       "title": {
+        "ru": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit",
+        "en": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit"
+       },
+       "words": 24064,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t011_18f3738d",
+       "title": {
+        "ru": "A/T Gear Position Indicator Panel Light Harness/Park Pin Switch Replacement",
+        "en": "A/T Gear Position Indicator Panel Light Harness/Park Pin Switch Replacement"
+       },
+       "words": 16449,
+       "images": 276,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t012_16f82976",
+       "title": {
+        "ru": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte",
+        "en": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte"
+       },
+       "words": 11472,
+       "images": 90,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t013_74b51634",
+       "title": {
+        "ru": "Knuckle/Hub Replacement, page 18-15 Wheel Bearing Replacement, page 18-18",
+        "en": "Knuckle/Hub Replacement, page 18-15 Wheel Bearing Replacement, page 18-18"
+       },
+       "words": 13816,
+       "images": 171,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t014_8abd409c",
+       "title": {
+        "ru": "DTC 33: RNO Solenoid Valve Malfunction DTC 35: NO Solenoid Valve Duty Limit Out",
+        "en": "DTC 33: RNO Solenoid Valve Malfunction DTC 35: NO Solenoid Valve Duty Limit Out"
+       },
+       "words": 13709,
+       "images": 110,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t015_ded28ac6",
+       "title": {
+        "ru": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco",
+        "en": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco"
+       },
+       "words": 11237,
+       "images": 76,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t016_4962c21c",
+       "title": {
+        "ru": "DTC 25-17: Yaw Rate-Lateral Acceleration Sensor Power Source Voltage Malfunction",
+        "en": "DTC 25-17: Yaw Rate-Lateral Acceleration Sensor Power Source Voltage Malfunction"
+       },
+       "words": 13683,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t017_7220cd2b",
+       "title": {
+        "ru": "Dashboard/Steering Hanger Beam Removal/Installation (cont'd)",
+        "en": "Dashboard/Steering Hanger Beam Removal/Installation (cont'd)"
+       },
+       "words": 12738,
+       "images": 227,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t018_38e44ee8",
+       "title": {
+        "ru": "Trunk Lid Opener Cable/Fuel Fill Door Opener Cable Replacement (cont'd)",
+        "en": "Trunk Lid Opener Cable/Fuel Fill Door Opener Cable Replacement (cont'd)"
+       },
+       "words": 10626,
+       "images": 164,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t019_05af3ccf",
+       "title": {
+        "ru": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se",
+        "en": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se"
+       },
+       "words": 10092,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t020_82a5f513",
+       "title": {
+        "ru": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating ",
+        "en": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating "
+       },
+       "words": 13750,
+       "images": 101,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t021_21f77bbb",
+       "title": {
+        "ru": "Lighting System (Headlights, Parking Lights, Side Marker Lights, License Plate L",
+        "en": "Lighting System (Headlights, Parking Lights, Side Marker Lights, License Plate L"
+       },
+       "words": 5854,
+       "images": 142,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t022_da35991c",
+       "title": {
+        "ru": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t",
+        "en": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t"
+       },
+       "words": 12525,
+       "images": 128,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t023_d3a90f1b",
+       "title": {
+        "ru": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T",
+        "en": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T"
+       },
+       "words": 10377,
+       "images": 113,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t024_68964083",
+       "title": {
+        "ru": "DTC B1906: Immobilizer-Keyless Control Unit Lost Communication With the Gauge Co",
+        "en": "DTC B1906: Immobilizer-Keyless Control Unit Lost Communication With the Gauge Co"
+       },
+       "words": 8808,
+       "images": 87,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t025_052acf45",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 12814,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t026_134c49e8",
+       "title": {
+        "ru": "Audio Unit Connector for Inputs and Outputs With navigation (Audio-navigation un",
+        "en": "Audio Unit Connector for Inputs and Outputs With navigation (Audio-navigation un"
+       },
+       "words": 9828,
+       "images": 103,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t027_73cf9b68",
+       "title": {
+        "ru": "Audio unit power switch will not turn on (No information display and no sound) (",
+        "en": "Audio unit power switch will not turn on (No information display and no sound) ("
+       },
+       "words": 11528,
+       "images": 63,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t028_eb38d5b5",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 10866,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t029_b7bbda99",
+       "title": {
+        "ru": "AUDIO-NAVIGATION UNIT CONNECTOR A (24P) Wire side of female terminals",
+        "en": "AUDIO-NAVIGATION UNIT CONNECTOR A (24P) Wire side of female terminals"
+       },
+       "words": 15696,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t030_ee0391fd",
+       "title": {
+        "ru": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 15264,
+       "images": 97,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t031_4ceceb47",
+       "title": {
+        "ru": "DTC 46-2x, 46-3x, 46-Bx (\"x\" can be 0 thru 9 or A thru F): Internal Failure of t",
+        "en": "DTC 46-2x, 46-3x, 46-Bx (\"x\" can be 0 thru 9 or A thru F): Internal Failure of t"
+       },
+       "words": 15493,
+       "images": 65,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t032_5b51c5a0",
+       "title": {
+        "ru": "Front Passenger's Weight Sensor Replacement (cont'd)",
+        "en": "Front Passenger's Weight Sensor Replacement (cont'd)"
+       },
+       "words": 8293,
+       "images": 99,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t033_c812f14d",
+       "title": {
+        "ru": "Ignition Coil Relay Circuit Troubleshooting (cont'd)",
+        "en": "Ignition Coil Relay Circuit Troubleshooting (cont'd)"
+       },
+       "words": 16870,
+       "images": 233,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t034_c312a569",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 12878,
+       "images": 140,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t035_69b67506",
+       "title": {
+        "ru": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt",
+        "en": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt"
+       },
+       "words": 13949,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t036_53b8fe00",
+       "title": {
+        "ru": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod",
+        "en": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod"
+       },
+       "words": 28627,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t037_d8ccf4e5",
+       "title": {
+        "ru": "DTC P2118: Throttle Actuator Current Range/Performance Problem",
+        "en": "DTC P2118: Throttle Actuator Current Range/Performance Problem"
+       },
+       "words": 19366,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t038_6ea43969",
+       "title": {
+        "ru": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage",
+        "en": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage"
+       },
+       "words": 23441,
+       "images": 76,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t039_0167056a",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 18213,
+       "images": 96,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t040_41baac90",
+       "title": {
+        "ru": "DTC P0A9E (50): Battery Module Temperature Sensor 1 Circuit High Voltage",
+        "en": "DTC P0A9E (50): Battery Module Temperature Sensor 1 Circuit High Voltage"
+       },
+       "words": 29930,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t041_6e5ff363",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 24547,
+       "images": 84,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t042_c3b770ce",
+       "title": {
+        "ru": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections",
+        "en": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections"
+       },
+       "words": 22459,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t043_35b78e06",
+       "title": {
+        "ru": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit",
+        "en": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit"
+       },
+       "words": 21399,
+       "images": 190,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t044_8015a207",
+       "title": {
+        "ru": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte",
+        "en": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte"
+       },
+       "words": 14701,
+       "images": 195,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t045_82866972",
+       "title": {
+        "ru": "DTC 32-07: EPS Control Unit Internal Circuit (Current Sensor) (Steering Diagnosi",
+        "en": "DTC 32-07: EPS Control Unit Internal Circuit (Current Sensor) (Steering Diagnosi"
+       },
+       "words": 14648,
+       "images": 144,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t046_7c2f8c8e",
+       "title": {
+        "ru": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If brakes maintenance is required)",
+        "en": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If brakes maintenance is required)"
+       },
+       "words": 17506,
+       "images": 137,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t047_f20128b3",
+       "title": {
+        "ru": "DTC 64: Brake Pedal Stroke Sensor, PREG Sensor and PMC Sensor Voltage Malfunctio",
+        "en": "DTC 64: Brake Pedal Stroke Sensor, PREG Sensor and PMC Sensor Voltage Malfunctio"
+       },
+       "words": 12462,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t048_d7a37bca",
+       "title": {
+        "ru": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco",
+        "en": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco"
+       },
+       "words": 15274,
+       "images": 77,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t049_6f69b628",
+       "title": {
+        "ru": "DTC 81-xx\\*: Central Processing Unit (CPU) Internal Circuit Malfunction",
+        "en": "DTC 81-xx\\*: Central Processing Unit (CPU) Internal Circuit Malfunction"
+       },
+       "words": 15056,
+       "images": 146,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t050_3dc62008",
+       "title": {
+        "ru": "Dashboard/Steering Hanger Beam Disassembly/Reassembly (cont'd)",
+        "en": "Dashboard/Steering Hanger Beam Disassembly/Reassembly (cont'd)"
+       },
+       "words": 12541,
+       "images": 193,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t051_71580ed6",
+       "title": {
+        "ru": "DTC B1220 or DTC indicator E and AUTO: A Short in the Recirculation Control Moto",
+        "en": "DTC B1220 or DTC indicator E and AUTO: A Short in the Recirculation Control Moto"
+       },
+       "words": 11626,
+       "images": 119,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t052_f0d0c1a6",
+       "title": {
+        "ru": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se",
+        "en": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se"
+       },
+       "words": 12782,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t053_ead2c855",
+       "title": {
+        "ru": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating ",
+        "en": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating "
+       },
+       "words": 13204,
+       "images": 158,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t054_3ac5940e",
+       "title": {
+        "ru": "Lighting System (Headlights, Parking Lights, Side Marker Lights, License Plate L",
+        "en": "Lighting System (Headlights, Parking Lights, Side Marker Lights, License Plate L"
+       },
+       "words": 11137,
+       "images": 111,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t055_48635bf5",
+       "title": {
+        "ru": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t",
+        "en": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t"
+       },
+       "words": 12518,
+       "images": 156,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t056_cdc4b384",
+       "title": {
+        "ru": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T",
+        "en": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T"
+       },
+       "words": 11683,
+       "images": 84,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t057_b629db84",
+       "title": {
+        "ru": "Audio unit power switch will not turn on (No information display and no sound) (",
+        "en": "Audio unit power switch will not turn on (No information display and no sound) ("
+       },
+       "words": 12176,
+       "images": 78,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t058_f058ea43",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 13080,
+       "images": 53,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t059_a224ddc0",
+       "title": {
+        "ru": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic",
+        "en": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic"
+       },
+       "words": 12802,
+       "images": 108,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t060_0bea406c",
+       "title": {
+        "ru": "Audio unit power switch will not turn on (No information display and no sound) (",
+        "en": "Audio unit power switch will not turn on (No information display and no sound) ("
+       },
+       "words": 13407,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t061_1c80267c",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 12717,
+       "images": 76,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t062_f39819cb",
+       "title": {
+        "ru": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic",
+        "en": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic"
+       },
+       "words": 19698,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t063_faa83d69",
+       "title": {
+        "ru": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 19875,
+       "images": 113,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t064_bdbd193e",
+       "title": {
+        "ru": "DTC 46-2x, 46-3x, 46-Bx (\"x\" can be 0 thru 9 or A thru F): Internal Failure of t",
+        "en": "DTC 46-2x, 46-3x, 46-Bx (\"x\" can be 0 thru 9 or A thru F): Internal Failure of t"
+       },
+       "words": 18001,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t065_8c638b9e",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require"
+       },
+       "words": 10309,
+       "images": 103,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t066_f460ff54",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine maintenance is required)",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine maintenance is required)"
+       },
+       "words": 18995,
+       "images": 231,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t067_c7c3fa8e",
+       "title": {
+        "ru": "RADIATOR FAN RELAY 4P SOCKET Terminal side of female terminals",
+        "en": "RADIATOR FAN RELAY 4P SOCKET Terminal side of female terminals"
+       },
+       "words": 14730,
+       "images": 143,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t068_23b74435",
+       "title": {
+        "ru": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt",
+        "en": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt"
+       },
+       "words": 12988,
+       "images": 71,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t069_2483ee4e",
+       "title": {
+        "ru": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod",
+        "en": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod"
+       },
+       "words": 31747,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t070_f9b50926",
+       "title": {
+        "ru": "DTC P2118: Throttle Actuator Current Range/Performance Problem",
+        "en": "DTC P2118: Throttle Actuator Current Range/Performance Problem"
+       },
+       "words": 22579,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t071_5f314d23",
+       "title": {
+        "ru": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage",
+        "en": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage"
+       },
+       "words": 25187,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t072_b0999853",
+       "title": {
+        "ru": "Disconnecting the motor power cable connector from the motor stator",
+        "en": "Disconnecting the motor power cable connector from the motor stator"
+       },
+       "words": 20865,
+       "images": 113,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t073_eb3084f2",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 25027,
+       "images": 68,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t074_d7decec3",
+       "title": {
+        "ru": "DTC U1207 (80): IMA-CAN Malfunction (A/C Compressor Driver-BCM Module)",
+        "en": "DTC U1207 (80): IMA-CAN Malfunction (A/C Compressor Driver-BCM Module)"
+       },
+       "words": 32738,
+       "images": 68,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t075_ceb1cc71",
+       "title": {
+        "ru": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections",
+        "en": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections"
+       },
+       "words": 19940,
+       "images": 72,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t076_c60426b8",
+       "title": {
+        "ru": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit",
+        "en": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit"
+       },
+       "words": 26152,
+       "images": 131,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t077_1c67ad0a",
+       "title": {
+        "ru": "A/T Gear Position Indicator Panel Light Harness/Park Pin Switch Replacement",
+        "en": "A/T Gear Position Indicator Panel Light Harness/Park Pin Switch Replacement"
+       },
+       "words": 17704,
+       "images": 246,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t078_7bea1884",
+       "title": {
+        "ru": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte",
+        "en": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte"
+       },
+       "words": 15180,
+       "images": 96,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t079_1c6a7727",
+       "title": {
+        "ru": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If brakes maintenance is required)",
+        "en": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If brakes maintenance is required)"
+       },
+       "words": 18251,
+       "images": 139,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t080_46f3c30c",
+       "title": {
+        "ru": "DTC 64: Brake Pedal Stroke Sensor, PREG Sensor and PMC Sensor Voltage Malfunctio",
+        "en": "DTC 64: Brake Pedal Stroke Sensor, PREG Sensor and PMC Sensor Voltage Malfunctio"
+       },
+       "words": 16382,
+       "images": 96,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t081_67bb1af0",
+       "title": {
+        "ru": "DTC 12-12: Right-front Wheel Speed Sensor Short to the Other Sensor Circuit",
+        "en": "DTC 12-12: Right-front Wheel Speed Sensor Short to the Other Sensor Circuit"
+       },
+       "words": 16132,
+       "images": 86,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t082_a1d61768",
+       "title": {
+        "ru": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco",
+        "en": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco"
+       },
+       "words": 17510,
+       "images": 64,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t083_1159191e",
+       "title": {
+        "ru": "Front Door Glass and Regulator Replacement (cont'd)",
+        "en": "Front Door Glass and Regulator Replacement (cont'd)"
+       },
+       "words": 16281,
+       "images": 214,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t084_42e5b2f3",
+       "title": {
+        "ru": "Trunk Lid Opener Cable/Fuel Fill Door Opener Cable Replacement (cont'd)",
+        "en": "Trunk Lid Opener Cable/Fuel Fill Door Opener Cable Replacement (cont'd)"
+       },
+       "words": 13710,
+       "images": 170,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t085_73fc2099",
+       "title": {
+        "ru": "DTC B1220 or DTC indicator E and AUTO: A Short in the Recirculation Control Moto",
+        "en": "DTC B1220 or DTC indicator E and AUTO: A Short in the Recirculation Control Moto"
+       },
+       "words": 13875,
+       "images": 67,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t086_13d9db57",
+       "title": {
+        "ru": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se",
+        "en": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se"
+       },
+       "words": 16335,
+       "images": 97,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t087_701e8ddd",
+       "title": {
+        "ru": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating ",
+        "en": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating "
+       },
+       "words": 12055,
+       "images": 132,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t088_7eae9f26",
+       "title": {
+        "ru": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t",
+        "en": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t"
+       },
+       "words": 14860,
+       "images": 106,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t089_89043bcc",
+       "title": {
+        "ru": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T",
+        "en": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T"
+       },
+       "words": 13549,
+       "images": 137,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t090_c4cf3c63",
+       "title": {
+        "ru": "DTC B1906: Immobilizer-Keyless Control Unit Lost Communication With the Gauge Co",
+        "en": "DTC B1906: Immobilizer-Keyless Control Unit Lost Communication With the Gauge Co"
+       },
+       "words": 12365,
+       "images": 95,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t091_1eceff55",
+       "title": {
+        "ru": "Audio unit power switch will not turn on (No information display and no sound) (",
+        "en": "Audio unit power switch will not turn on (No information display and no sound) ("
+       },
+       "words": 15828,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t092_cbd4c2d4",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 14966,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t093_739eeff1",
+       "title": {
+        "ru": "Audio unit power switch will not turn on (No information display and no sound) (",
+        "en": "Audio unit power switch will not turn on (No information display and no sound) ("
+       },
+       "words": 14038,
+       "images": 108,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t094_ebdc7706",
+       "title": {
+        "ru": "Poor or no sound with XM radio (Navigation unit does display XM channels) (with ",
+        "en": "Poor or no sound with XM radio (Navigation unit does display XM channels) (with "
+       },
+       "words": 16076,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t095_d93f9772",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 15790,
+       "images": 72,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t096_18673cc8",
+       "title": {
+        "ru": "SRS Unit, Front and Side Impact Sensors, Driver's Seat Position Sensor, Front Pa",
+        "en": "SRS Unit, Front and Side Impact Sensors, Driver's Seat Position Sensor, Front Pa"
+       },
+       "words": 18695,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t097_08fc5d7a",
+       "title": {
+        "ru": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 23684,
+       "images": 103,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t098_72dba819",
+       "title": {
+        "ru": "DTC 46-2x, 46-3x, 46-Bx (\"x\" can be 0 thru 9 or A thru F): Internal Failure of t",
+        "en": "DTC 46-2x, 46-3x, 46-Bx (\"x\" can be 0 thru 9 or A thru F): Internal Failure of t"
+       },
+       "words": 19315,
+       "images": 83,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t099_4ff2a9b2",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require"
+       },
+       "words": 11947,
+       "images": 93,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t100_82d44c20",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine maintenance is required)",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine maintenance is required)"
+       },
+       "words": 20804,
+       "images": 239,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t101_37f1445a",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 15860,
+       "images": 132,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t102_235b81bf",
+       "title": {
+        "ru": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt",
+        "en": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt"
+       },
+       "words": 18318,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t103_9272d7c0",
+       "title": {
+        "ru": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod",
+        "en": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod"
+       },
+       "words": 31591,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t104_f7edc330",
+       "title": {
+        "ru": "DTC P2118: Throttle Actuator Current Range/Performance Problem",
+        "en": "DTC P2118: Throttle Actuator Current Range/Performance Problem"
+       },
+       "words": 22881,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t105_838f4727",
+       "title": {
+        "ru": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage",
+        "en": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage"
+       },
+       "words": 26945,
+       "images": 69,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t106_14ecb721",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 21606,
+       "images": 96,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t107_79cd6650",
+       "title": {
+        "ru": "DTC P0A9E (50): Battery Module Temperature Sensor 1 Circuit High Voltage",
+        "en": "DTC P0A9E (50): Battery Module Temperature Sensor 1 Circuit High Voltage"
+       },
+       "words": 31996,
+       "images": 58,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t108_96f322e5",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 29963,
+       "images": 78,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t109_8eb7becd",
+       "title": {
+        "ru": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections",
+        "en": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections"
+       },
+       "words": 24381,
+       "images": 56,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t110_40eaa26d",
+       "title": {
+        "ru": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit",
+        "en": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit"
+       },
+       "words": 26541,
+       "images": 170,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t111_36e5367e",
+       "title": {
+        "ru": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte",
+        "en": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte"
+       },
+       "words": 18112,
+       "images": 221,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t112_2781b5d6",
+       "title": {
+        "ru": "DTC 32-07: EPS Control Unit Internal Circuit (Current Sensor) (Steering Diagnosi",
+        "en": "DTC 32-07: EPS Control Unit Internal Circuit (Current Sensor) (Steering Diagnosi"
+       },
+       "words": 17621,
+       "images": 110,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t113_6ecde41c",
+       "title": {
+        "ru": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If brakes maintenance is required)",
+        "en": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If brakes maintenance is required)"
+       },
+       "words": 20631,
+       "images": 139,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t114_fb57fd17",
+       "title": {
+        "ru": "DTC 64: Brake Pedal Stroke Sensor, PREG Sensor and PMC Sensor Voltage Malfunctio",
+        "en": "DTC 64: Brake Pedal Stroke Sensor, PREG Sensor and PMC Sensor Voltage Malfunctio"
+       },
+       "words": 17032,
+       "images": 68,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t115_16d046bf",
+       "title": {
+        "ru": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco",
+        "en": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco"
+       },
+       "words": 18275,
+       "images": 112,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t116_a7718b5b",
+       "title": {
+        "ru": "DTC 25-17: Yaw Rate-Lateral Acceleration Sensor Power Source Voltage Malfunction",
+        "en": "DTC 25-17: Yaw Rate-Lateral Acceleration Sensor Power Source Voltage Malfunction"
+       },
+       "words": 18306,
+       "images": 67,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t117_52be2a62",
+       "title": {
+        "ru": "Dashboard/Steering Hanger Beam Disassembly/Reassembly (cont'd)",
+        "en": "Dashboard/Steering Hanger Beam Disassembly/Reassembly (cont'd)"
+       },
+       "words": 18015,
+       "images": 212,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t118_14504c9e",
+       "title": {
+        "ru": "Trunk Lid Opener Cable/Fuel Fill Door Opener Cable Replacement (cont'd)",
+        "en": "Trunk Lid Opener Cable/Fuel Fill Door Opener Cable Replacement (cont'd)"
+       },
+       "words": 16152,
+       "images": 166,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t119_3936f56f",
+       "title": {
+        "ru": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se",
+        "en": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se"
+       },
+       "words": 15327,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t120_421326cd",
+       "title": {
+        "ru": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating ",
+        "en": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating "
+       },
+       "words": 19360,
+       "images": 101,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t121_ba097b1f",
+       "title": {
+        "ru": "Lighting System (Headlights, Parking Lights, Side Marker Lights, License Plate L",
+        "en": "Lighting System (Headlights, Parking Lights, Side Marker Lights, License Plate L"
+       },
+       "words": 11096,
+       "images": 139,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t122_fc1ecfd5",
+       "title": {
+        "ru": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t",
+        "en": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t"
+       },
+       "words": 17676,
+       "images": 120,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t123_93c54f76",
+       "title": {
+        "ru": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T",
+        "en": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T"
+       },
+       "words": 15580,
+       "images": 113,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t124_6c80b4df",
+       "title": {
+        "ru": "DTC B1906: Immobilizer-Keyless Control Unit Lost Communication With the Gauge Co",
+        "en": "DTC B1906: Immobilizer-Keyless Control Unit Lost Communication With the Gauge Co"
+       },
+       "words": 13474,
+       "images": 96,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t125_a857d2da",
+       "title": {
+        "ru": "Audio unit power switch will not turn on (No information display and no sound) (",
+        "en": "Audio unit power switch will not turn on (No information display and no sound) ("
+       },
+       "words": 18796,
+       "images": 53,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t126_88818571",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 17028,
+       "images": 76,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t127_5fd5c601",
+       "title": {
+        "ru": "Audio unit power switch will not turn on (No information display and no sound) (",
+        "en": "Audio unit power switch will not turn on (No information display and no sound) ("
+       },
+       "words": 15344,
+       "images": 84,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t128_75e55963",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 17084,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t129_6a330bf8",
+       "title": {
+        "ru": "Navigation frequently asks for anti-theft code and/or needs GPS initialization",
+        "en": "Navigation frequently asks for anti-theft code and/or needs GPS initialization"
+       },
+       "words": 19457,
+       "images": 63,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t130_0d29acae",
+       "title": {
+        "ru": "SRS Unit, Front and Side Impact Sensors, Driver's Seat Position Sensor, Front Pa",
+        "en": "SRS Unit, Front and Side Impact Sensors, Driver's Seat Position Sensor, Front Pa"
+       },
+       "words": 19160,
+       "images": 78,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t131_517bcfba",
+       "title": {
+        "ru": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 25622,
+       "images": 98,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t132_4fda775f",
+       "title": {
+        "ru": "DTC B2-17, B2-8x, B2-9x, B2-Ax, B2-Bx (\"x\" can be 0 thru 9 or A thru F): Interna",
+        "en": "DTC B2-17, B2-8x, B2-9x, B2-Ax, B2-Bx (\"x\" can be 0 thru 9 or A thru F): Interna"
+       },
+       "words": 20114,
+       "images": 89,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t133_0cbbf924",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require"
+       },
+       "words": 14284,
+       "images": 116,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t134_8d625398",
+       "title": {
+        "ru": "Transmission End Crankshaft Oil Seal Installation - In Car",
+        "en": "Transmission End Crankshaft Oil Seal Installation - In Car"
+       },
+       "words": 23444,
+       "images": 233,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t135_aaa7e0c3",
+       "title": {
+        "ru": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)",
+        "en": "Malfunction Indicator Lamp (MIL) Indication (In relation to Readiness Codes)"
+       },
+       "words": 14887,
+       "images": 124,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t136_f42e4347",
+       "title": {
+        "ru": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt",
+        "en": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt"
+       },
+       "words": 25197,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t137_dd599b19",
+       "title": {
+        "ru": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod",
+        "en": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod"
+       },
+       "words": 32685,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t138_ebe6f77b",
+       "title": {
+        "ru": "DTC P2138: APP Sensor A/B (TP Sensor D/E) Incorrect Voltage Correlation",
+        "en": "DTC P2138: APP Sensor A/B (TP Sensor D/E) Incorrect Voltage Correlation"
+       },
+       "words": 23485,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t139_61ddb10a",
+       "title": {
+        "ru": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage",
+        "en": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage"
+       },
+       "words": 28061,
+       "images": 94,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t140_405d8d81",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 21249,
+       "images": 92,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t141_df552aca",
+       "title": {
+        "ru": "DTC P0A9E (50): Battery Module Temperature Sensor 1 Circuit High Voltage",
+        "en": "DTC P0A9E (50): Battery Module Temperature Sensor 1 Circuit High Voltage"
+       },
+       "words": 39653,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t142_a4ae3c9e",
+       "title": {
+        "ru": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections",
+        "en": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections"
+       },
+       "words": 26505,
+       "images": 90,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t143_12c4e4b2",
+       "title": {
+        "ru": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit",
+        "en": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit"
+       },
+       "words": 30262,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t144_d6437b42",
+       "title": {
+        "ru": "A/T Gear Position Indicator Panel Light Harness/Park Pin Switch Replacement",
+        "en": "A/T Gear Position Indicator Panel Light Harness/Park Pin Switch Replacement"
+       },
+       "words": 24710,
+       "images": 224,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t145_12c2124f",
+       "title": {
+        "ru": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte",
+        "en": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte"
+       },
+       "words": 19624,
+       "images": 169,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t146_0bb1a861",
+       "title": {
+        "ru": "DTC 35-03: EPS Control Unit Internal Circuit (EPS CPU) (Internal Diagnosis)",
+        "en": "DTC 35-03: EPS Control Unit Internal Circuit (EPS CPU) (Internal Diagnosis)"
+       },
+       "words": 20401,
+       "images": 156,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t147_4368bea1",
+       "title": {
+        "ru": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If brakes maintenance is required)",
+        "en": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If brakes maintenance is required)"
+       },
+       "words": 22246,
+       "images": 133,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t148_ce005103",
+       "title": {
+        "ru": "DTC 64: Brake Pedal Stroke Sensor, PREG Sensor and PMC Sensor Voltage Malfunctio",
+        "en": "DTC 64: Brake Pedal Stroke Sensor, PREG Sensor and PMC Sensor Voltage Malfunctio"
+       },
+       "words": 17574,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t149_f8fe6ac4",
+       "title": {
+        "ru": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco",
+        "en": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco"
+       },
+       "words": 21034,
+       "images": 86,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t150_5a949a06",
+       "title": {
+        "ru": "DTC 66-15: Pressure Sensor (Inside of VSA Modulator-control Unit) Malfunction",
+        "en": "DTC 66-15: Pressure Sensor (Inside of VSA Modulator-control Unit) Malfunction"
+       },
+       "words": 19825,
+       "images": 111,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t151_2cbcaf68",
+       "title": {
+        "ru": "Dashboard/Steering Hanger Beam Disassembly/Reassembly (cont'd)",
+        "en": "Dashboard/Steering Hanger Beam Disassembly/Reassembly (cont'd)"
+       },
+       "words": 18980,
+       "images": 204,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t152_c25e9dc4",
+       "title": {
+        "ru": "Trunk Lid Opener Cable/Fuel Fill Door Opener Cable Replacement (cont'd)",
+        "en": "Trunk Lid Opener Cable/Fuel Fill Door Opener Cable Replacement (cont'd)"
+       },
+       "words": 17061,
+       "images": 144,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t153_a4dcfecb",
+       "title": {
+        "ru": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se",
+        "en": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se"
+       },
+       "words": 17756,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t154_95c9fc1f",
+       "title": {
+        "ru": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating ",
+        "en": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating "
+       },
+       "words": 20307,
+       "images": 112,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t155_0b90534e",
+       "title": {
+        "ru": "Lighting System (Headlights, Parking Lights, Side Marker Lights, License Plate L",
+        "en": "Lighting System (Headlights, Parking Lights, Side Marker Lights, License Plate L"
+       },
+       "words": 13429,
+       "images": 143,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t156_26557bcb",
+       "title": {
+        "ru": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t",
+        "en": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t"
+       },
+       "words": 19293,
+       "images": 140,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t157_27f491f4",
+       "title": {
+        "ru": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T",
+        "en": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T"
+       },
+       "words": 17132,
+       "images": 102,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t158_2bb5265b",
+       "title": {
+        "ru": "DTC B1906: Immobilizer-Keyless Control Unit Lost Communication With the Gauge Co",
+        "en": "DTC B1906: Immobilizer-Keyless Control Unit Lost Communication With the Gauge Co"
+       },
+       "words": 16316,
+       "images": 94,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t159_aca64e5b",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 19427,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t160_70fda286",
+       "title": {
+        "ru": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic",
+        "en": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic"
+       },
+       "words": 18133,
+       "images": 94,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t161_ad6dde0b",
+       "title": {
+        "ru": "Audio unit power switch will not turn on (No information display and no sound) (",
+        "en": "Audio unit power switch will not turn on (No information display and no sound) ("
+       },
+       "words": 17999,
+       "images": 65,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t162_5345e69d",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 18071,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t163_1012dea5",
+       "title": {
+        "ru": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic",
+        "en": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic"
+       },
+       "words": 24585,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t164_24b098a4",
+       "title": {
+        "ru": "SRS Unit, Front and Side Impact Sensors, Driver's Seat Position Sensor, Front Pa",
+        "en": "SRS Unit, Front and Side Impact Sensors, Driver's Seat Position Sensor, Front Pa"
+       },
+       "words": 20955,
+       "images": 101,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t165_268630c8",
+       "title": {
+        "ru": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 25819,
+       "images": 67,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t166_8f456314",
+       "title": {
+        "ru": "DTC B2-17, B2-8x, B2-9x, B2-Ax, B2-Bx (\"x\" can be 0 thru 9 or A thru F): Interna",
+        "en": "DTC B2-17, B2-8x, B2-9x, B2-Ax, B2-Bx (\"x\" can be 0 thru 9 or A thru F): Interna"
+       },
+       "words": 19231,
+       "images": 99,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t167_f896a7b0",
+       "title": {
+        "ru": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require",
+        "en": "SUPPLEMENTAL RESTRAINT SYSTEM (SRS) (If engine electrical maintenance is require"
+       },
+       "words": 19973,
+       "images": 175,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t168_df042f1e",
+       "title": {
+        "ru": "Transmission End Crankshaft Oil Seal Installation - In Car",
+        "en": "Transmission End Crankshaft Oil Seal Installation - In Car"
+       },
+       "words": 23240,
+       "images": 206,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t169_1df6a9cf",
+       "title": {
+        "ru": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt",
+        "en": "Warm Up Three Way Catalytic Converter (WU-TWC) and Under-floor Three Way Catalyt"
+       },
+       "words": 15327,
+       "images": 92,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t170_b590ac86",
+       "title": {
+        "ru": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod",
+        "en": "DTC P0603: PCM Internal Control Module Keep Alive Memory (KAM) Error ('06-08 mod"
+       },
+       "words": 32231,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t171_16c85f28",
+       "title": {
+        "ru": "DTC P2A00: A/F Sensor (Sensor 1) Circuit Range/Performance Problem",
+        "en": "DTC P2A00: A/F Sensor (Sensor 1) Circuit Range/Performance Problem"
+       },
+       "words": 31320,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t172_7ddc90e1",
+       "title": {
+        "ru": "DTC P2138: APP Sensor A/B (TP Sensor D/E) Incorrect Voltage Correlation",
+        "en": "DTC P2138: APP Sensor A/B (TP Sensor D/E) Incorrect Voltage Correlation"
+       },
+       "words": 29771,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t173_5a1d1ce2",
+       "title": {
+        "ru": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage",
+        "en": "DTC P0463: Fuel Level Sensor (Fuel Gauge Sending Unit) Circuit High Voltage"
+       },
+       "words": 25580,
+       "images": 96,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t174_ea5ac4ab",
+       "title": {
+        "ru": "How to End a Troubleshooting Session (required after any troubleshooting)",
+        "en": "How to End a Troubleshooting Session (required after any troubleshooting)"
+       },
+       "words": 26829,
+       "images": 82,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t175_b6b34657",
+       "title": {
+        "ru": "DTC P0A9E (50): Battery Module Temperature Sensor 1 Circuit High Voltage",
+        "en": "DTC P0A9E (50): Battery Module Temperature Sensor 1 Circuit High Voltage"
+       },
+       "words": 39194,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t176_067624fa",
+       "title": {
+        "ru": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections",
+        "en": "Electronic Control System (cont'd) PCM CVT Control System Electrical Connections"
+       },
+       "words": 25349,
+       "images": 110,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t177_454d7d45",
+       "title": {
+        "ru": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit",
+        "en": "DTC P2159: Range/Performance Problem in CVT Speed Sensor (Secondary) Circuit"
+       },
+       "words": 33233,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t178_eeae7a42",
+       "title": {
+        "ru": "A/T Gear Position Indicator Panel Light Harness/Park Pin Switch Replacement",
+        "en": "A/T Gear Position Indicator Panel Light Harness/Park Pin Switch Replacement"
+       },
+       "words": 25229,
+       "images": 270,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t179_747bf148",
+       "title": {
+        "ru": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte",
+        "en": "EPS Control Unit Inputs and Outputs for Connector D (28P) (Connector Disconnecte"
+       },
+       "words": 20903,
+       "images": 117,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t180_fe22db0c",
+       "title": {
+        "ru": "Knuckle/Hub Replacement, page 18-15 Wheel Bearing Replacement, page 18-18",
+        "en": "Knuckle/Hub Replacement, page 18-15 Wheel Bearing Replacement, page 18-18"
+       },
+       "words": 22399,
+       "images": 176,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t181_54909b02",
+       "title": {
+        "ru": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If brakes maintenance is required)",
+        "en": "INTEGRATED MOTOR ASSIST (IMA) SYSTEM (If brakes maintenance is required)"
+       },
+       "words": 22988,
+       "images": 116,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t182_0aa26aee",
+       "title": {
+        "ru": "DTC 64: Brake Pedal Stroke Sensor, PREG Sensor and PMC Sensor Voltage Malfunctio",
+        "en": "DTC 64: Brake Pedal Stroke Sensor, PREG Sensor and PMC Sensor Voltage Malfunctio"
+       },
+       "words": 19635,
+       "images": 65,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t183_f9a3c11f",
+       "title": {
+        "ru": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco",
+        "en": "VSA Modulator-control Unit Inputs and Outputs for 37P Connector (Connector Disco"
+       },
+       "words": 24347,
+       "images": 78,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t184_f2268c55",
+       "title": {
+        "ru": "VSA MODULATOR-CONTROL UNIT 37P CONNECTOR Wire side of female terminals",
+        "en": "VSA MODULATOR-CONTROL UNIT 37P CONNECTOR Wire side of female terminals"
+       },
+       "words": 21738,
+       "images": 152,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t185_5f7e167a",
+       "title": {
+        "ru": "Dashboard/Steering Hanger Beam Disassembly/Reassembly (cont'd)",
+        "en": "Dashboard/Steering Hanger Beam Disassembly/Reassembly (cont'd)"
+       },
+       "words": 19281,
+       "images": 194,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t186_5b7245d0",
+       "title": {
+        "ru": "DTC B1220 or DTC indicator E and AUTO: A Short in the Recirculation Control Moto",
+        "en": "DTC B1220 or DTC indicator E and AUTO: A Short in the Recirculation Control Moto"
+       },
+       "words": 18822,
+       "images": 113,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t187_e4aab710",
+       "title": {
+        "ru": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se",
+        "en": "DTC B2996 or DTC indicator P and AUTO: An Open in the Heater Core Temperature Se"
+       },
+       "words": 19538,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t188_ca4f3680",
+       "title": {
+        "ru": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating ",
+        "en": "Leak Detector Usage Tips (Refer to the Operator's Manual for complete operating "
+       },
+       "words": 20221,
+       "images": 157,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t189_60bcf3c8",
+       "title": {
+        "ru": "Lighting System (Headlights, Parking Lights, Side Marker Lights, License Plate L",
+        "en": "Lighting System (Headlights, Parking Lights, Side Marker Lights, License Plate L"
+       },
+       "words": 18445,
+       "images": 110,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t190_823cf49a",
+       "title": {
+        "ru": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t",
+        "en": "Doors automatically relock 30, 60, or 90 seconds after being unlocked with the t"
+       },
+       "words": 19421,
+       "images": 154,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t191_d38a40c9",
+       "title": {
+        "ru": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T",
+        "en": "DTC B1173: Gauge Control Module Lost Communication With the TPMS Control Unit (T"
+       },
+       "words": 18630,
+       "images": 86,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t192_68c24480",
+       "title": {
+        "ru": "Audio unit power switch will not turn on (No information display and no sound) (",
+        "en": "Audio unit power switch will not turn on (No information display and no sound) ("
+       },
+       "words": 18751,
+       "images": 77,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t193_8d4ff0e3",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 19974,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t194_eb622aa0",
+       "title": {
+        "ru": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic",
+        "en": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic"
+       },
+       "words": 19874,
+       "images": 106,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t195_fed826eb",
+       "title": {
+        "ru": "Audio unit power switch will not turn on (No information display and no sound) (",
+        "en": "Audio unit power switch will not turn on (No information display and no sound) ("
+       },
+       "words": 20176,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t196_6aca654b",
+       "title": {
+        "ru": "How do I find the local address of a business that is part of a national chain (",
+        "en": "How do I find the local address of a business that is part of a national chain ("
+       },
+       "words": 19845,
+       "images": 72,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t197_bb8ec23f",
+       "title": {
+        "ru": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic",
+        "en": "The Acura Globe Screen (not the Honda Globe Screen) appears every time the vehic"
+       },
+       "words": 25950,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t198_fac26bee",
+       "title": {
+        "ru": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased ",
+        "en": "DTC 28-3x (\"x\" can be 0 thru 9 or A thru F): Short to Another Wire or Decreased "
+       },
+       "words": 25777,
+       "images": 106,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t199_3e4e7e21",
+       "title": {
+        "ru": "DTC 46-2x, 46-3x, 46-Bx (\"x\" can be 0 thru 9 or A thru F): Internal Failure of t",
+        "en": "DTC 46-2x, 46-3x, 46-Bx (\"x\" can be 0 thru 9 or A thru F): Internal Failure of t"
+       },
+       "words": 26475,
+       "images": 65,
+       "section_id": "general"
+      },
+      {
+       "id": "honda_civic_general_t200_cf257d71",
+       "title": {
+        "ru": "DTC B2-17, B2-8x, B2-9x, B2-Ax, B2-Bx (\"x\" can be 0 thru 9 or A thru F): Interna",
+        "en": "DTC B2-17, B2-8x, B2-9x, B2-Ax, B2-Bx (\"x\" can be 0 thru 9 or A thru F): Interna"
+       },
+       "words": 11127,
+       "images": 72,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "honda_civic_infotainment_t000_93ea5d86",
+       "title": {
+        "ru": "The Bluetooth icon in the navigation displayis grayed-out",
+        "en": "The Bluetooth icon in the navigation displayis grayed-out"
+       },
+       "words": 1166,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_civic_infotainment_t001_a77f7cd5",
+       "title": {
+        "ru": "The Bluetooth icon in the navigation displayis grayed-out",
+        "en": "The Bluetooth icon in the navigation displayis grayed-out"
+       },
+       "words": 780,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "honda_civic_infotainment_t002_2012582f",
+       "title": {
+        "ru": "Navigation System ('09-10 models)",
+        "en": "Navigation System ('09-10 models)"
+       },
+       "words": 186,
+       "images": 4,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "honda_civic_sensors_t000_43ed84b4",
+       "title": {
+        "ru": "A/C PRESSURE SENSOR 3P CONNECTOR",
+        "en": "A/C PRESSURE SENSOR 3P CONNECTOR"
+       },
+       "words": 295,
+       "images": 1,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "honda_civic_drivetrain_t000_1bbb3ba2",
+       "title": {
+        "ru": "A/T Interlock System",
+        "en": "A/T Interlock System"
+       },
+       "words": 47,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

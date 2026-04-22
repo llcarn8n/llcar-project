@@ -1,0 +1,2955 @@
+{
+ "version": "1.0",
+ "model": "a4",
+ "manuals": [
+  {
+   "model": "a4",
+   "label": {
+    "ru": "Audi A4 — Руководство по ремонту",
+    "en": "Audi A4 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "audi_a4_brakes_t000_41a6d1e4",
+       "title": {
+        "ru": "Grip handle cover with power window switch unit and power mirror switch, removin",
+        "en": "Grip handle cover with power window switch unit and power mirror switch, removin"
+       },
+       "words": 474,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t001_0c4644de",
+       "title": {
+        "ru": "Power mirror switch, removing and installing",
+        "en": "Power mirror switch, removing and installing"
+       },
+       "words": 465,
+       "images": 9,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t002_0fcd7f59",
+       "title": {
+        "ru": "Fig. 5 Installation position of lower spring plate",
+        "en": "Fig. 5 Installation position of lower spring plate"
+       },
+       "words": 817,
+       "images": 9,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t003_a96ab49c",
+       "title": {
+        "ru": "Terminal assignment of multi-pin connector for wiring harness ABS control module",
+        "en": "Terminal assignment of multi-pin connector for wiring harness ABS control module"
+       },
+       "words": 1189,
+       "images": 40,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t004_1d1c6f8b",
+       "title": {
+        "ru": "2 - Drive axle with ABS wheel speed sensor rotor",
+        "en": "2 - Drive axle with ABS wheel speed sensor rotor"
+       },
+       "words": 689,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t005_288e2784",
+       "title": {
+        "ru": "ABS wheel speed sensor rotor on FWD rear axle, examining",
+        "en": "ABS wheel speed sensor rotor on FWD rear axle, examining"
+       },
+       "words": 481,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t006_ee71c5a0",
+       "title": {
+        "ru": "ABS wheel speed sensor rotor on AWD rear axle, examining",
+        "en": "ABS wheel speed sensor rotor on AWD rear axle, examining"
+       },
+       "words": 844,
+       "images": 14,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t007_44494465",
+       "title": {
+        "ru": "The steering angle sensor -G85is zeroed using display group 001 = page 01-243",
+        "en": "The steering angle sensor -G85is zeroed using display group 001 = page 01-243"
+       },
+       "words": 700,
+       "images": 14,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t008_534b3c23",
+       "title": {
+        "ru": "Supply voltage for ABS control module -J104at terminal 1:",
+        "en": "Supply voltage for ABS control module -J104at terminal 1:"
+       },
+       "words": 919,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t009_6a74c700",
+       "title": {
+        "ru": "ESP is an additional extension of the wellknown driving safety systems ABS/EDL a",
+        "en": "ESP is an additional extension of the wellknown driving safety systems ABS/EDL a"
+       },
+       "words": 780,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t010_001befcf",
+       "title": {
+        "ru": "Sensor for transverse acceleration -G200-",
+        "en": "Sensor for transverse acceleration -G200-"
+       },
+       "words": 832,
+       "images": 17,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t011_344d1d89",
+       "title": {
+        "ru": "Connect VAG1598 test box using VAG1598/27 adapter.",
+        "en": "Connect VAG1598 test box using VAG1598/27 adapter."
+       },
+       "words": 1678,
+       "images": 21,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t012_65da0053",
+       "title": {
+        "ru": "Fig. 3 Brake line connections at the hydraulic unit for ABS/EDL, all-wheel-drive",
+        "en": "Fig. 3 Brake line connections at the hydraulic unit for ABS/EDL, all-wheel-drive"
+       },
+       "words": 640,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t013_6661701a",
+       "title": {
+        "ru": "ESP includes the functions of EBD, ABS, EDL and ASR. The individual components h",
+        "en": "ESP includes the functions of EBD, ABS, EDL and ASR. The individual components h"
+       },
+       "words": 984,
+       "images": 4,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t014_e5533601",
+       "title": {
+        "ru": "Test sequence",
+        "en": "Test sequence"
+       },
+       "words": 878,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t015_2ed87698",
+       "title": {
+        "ru": "Repair Manual. ABS/EDL/ASR On Board Diagnostic (OBD), Repair Group 01",
+        "en": "Repair Manual. ABS/EDL/ASR On Board Diagnostic (OBD), Repair Group 01"
+       },
+       "words": 681,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "audi_a4_brakes_t016_04215b17",
+       "title": {
+        "ru": "Fig. 4 Pressing in outer race for outer wheel bearing",
+        "en": "Fig. 4 Pressing in outer race for outer wheel bearing"
+       },
+       "words": 174,
+       "images": 5,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "audi_a4_lighting_t000_fc11e4fb",
+       "title": {
+        "ru": "Code Control Module (scan tool function 07)",
+        "en": "Code Control Module (scan tool function 07)"
+       },
+       "words": 639,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t001_7f46ad49",
+       "title": {
+        "ru": "Sealing cap (core plug) in cylinder head, installing",
+        "en": "Sealing cap (core plug) in cylinder head, installing"
+       },
+       "words": 1067,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t002_41baaa30",
+       "title": {
+        "ru": "Valve stem seals, replacing",
+        "en": "Valve stem seals, replacing"
+       },
+       "words": 960,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t003_693e2a90",
+       "title": {
+        "ru": "Crankshaft axial and radial clearance, measuring",
+        "en": "Crankshaft axial and radial clearance, measuring"
+       },
+       "words": 919,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t004_9a9c68e2",
+       "title": {
+        "ru": "Cylinder head installed",
+        "en": "Cylinder head installed"
+       },
+       "words": 702,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t005_bd72b480",
+       "title": {
+        "ru": "13 Hydraulic valve lifter (intake)",
+        "en": "13 Hydraulic valve lifter (intake)"
+       },
+       "words": 276,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t006_1d9ce735",
+       "title": {
+        "ru": "Sealing cap (core plug) in cylinder head, installing",
+        "en": "Sealing cap (core plug) in cylinder head, installing"
+       },
+       "words": 737,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t007_d21c39cd",
+       "title": {
+        "ru": "7 - Fuel pump flange",
+        "en": "7 - Fuel pump flange"
+       },
+       "words": 578,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t008_3f97a813",
+       "title": {
+        "ru": "Fuel supply system, servicing guidelines",
+        "en": "Fuel supply system, servicing guidelines"
+       },
+       "words": 514,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t009_94736dc1",
+       "title": {
+        "ru": "Rear upper tethers (Avant), retrofitting m.y. 1998)",
+        "en": "Rear upper tethers (Avant), retrofitting m.y. 1998)"
+       },
+       "words": 675,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t010_2eed6857",
+       "title": {
+        "ru": "Headlight range adjuster, removing and installing",
+        "en": "Headlight range adjuster, removing and installing"
+       },
+       "words": 737,
+       "images": 8,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t011_f5f2a3a3",
+       "title": {
+        "ru": "Vehicles with electronically-operated throttle valve",
+        "en": "Vehicles with electronically-operated throttle valve"
+       },
+       "words": 1142,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t012_fce364ef",
+       "title": {
+        "ru": "Plastic CV joint boots",
+        "en": "Plastic CV joint boots"
+       },
+       "words": 508,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t013_eb701035",
+       "title": {
+        "ru": "Information on weight codes (code number)",
+        "en": "Information on weight codes (code number)"
+       },
+       "words": 508,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t014_8df451fe",
+       "title": {
+        "ru": "B 一 Center differential was removed and disassembled",
+        "en": "B 一 Center differential was removed and disassembled"
+       },
+       "words": 707,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t015_fee61e3a",
+       "title": {
+        "ru": "Fig. 4 Installing bonded rubber bushing into lower control arm",
+        "en": "Fig. 4 Installing bonded rubber bushing into lower control arm"
+       },
+       "words": 547,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t016_90b29938",
+       "title": {
+        "ru": "Retrofitting radio systems",
+        "en": "Retrofitting radio systems"
+       },
+       "words": 773,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t017_46e8fd58",
+       "title": {
+        "ru": "Headlight range control, removing and installing",
+        "en": "Headlight range control, removing and installing"
+       },
+       "words": 711,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t018_e954edcb",
+       "title": {
+        "ru": "Turning piston into brake caliper housing to stop",
+        "en": "Turning piston into brake caliper housing to stop"
+       },
+       "words": 442,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t019_13da3763",
+       "title": {
+        "ru": "Chiselling open shear bolts",
+        "en": "Chiselling open shear bolts"
+       },
+       "words": 415,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t020_909961b7",
+       "title": {
+        "ru": "Ignitor for gas discharge lamps -N195- (Xenon), removing and installing",
+        "en": "Ignitor for gas discharge lamps -N195- (Xenon), removing and installing"
+       },
+       "words": 495,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t021_d9d2a108",
+       "title": {
+        "ru": "On Board Diagnostic (OBD), function",
+        "en": "On Board Diagnostic (OBD), function"
+       },
+       "words": 267,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t022_c265c539",
+       "title": {
+        "ru": "Fig. 7 Wiring harness with integrated Transmission Fluid Temperature Sensor -G93",
+        "en": "Fig. 7 Wiring harness with integrated Transmission Fluid Temperature Sensor -G93"
+       },
+       "words": 662,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t023_e2083bd1",
+       "title": {
+        "ru": "Fig. 2 Installing right tapered roller bearing outer race into transmission hous",
+        "en": "Fig. 2 Installing right tapered roller bearing outer race into transmission hous"
+       },
+       "words": 610,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t024_fc95b11e",
+       "title": {
+        "ru": "Fig. 8 Installing left tapered roller bearing outer race into differential cover",
+        "en": "Fig. 8 Installing left tapered roller bearing outer race into differential cover"
+       },
+       "words": 860,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t025_7d0d3508",
+       "title": {
+        "ru": "Measuring friction torque",
+        "en": "Measuring friction torque"
+       },
+       "words": 939,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t026_e76be1c5",
+       "title": {
+        "ru": "Drive flange and driveshaft seals, replacing",
+        "en": "Drive flange and driveshaft seals, replacing"
+       },
+       "words": 488,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t027_1f010b53",
+       "title": {
+        "ru": "Crankshaft oil seal (toothed belt side), replacing",
+        "en": "Crankshaft oil seal (toothed belt side), replacing"
+       },
+       "words": 368,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t028_c439e782",
+       "title": {
+        "ru": "Camshafts and hydraulic chain tensioner. removing and installing",
+        "en": "Camshafts and hydraulic chain tensioner. removing and installing"
+       },
+       "words": 556,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t029_e6da8688",
+       "title": {
+        "ru": "Cylinder head, removing",
+        "en": "Cylinder head, removing"
+       },
+       "words": 423,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t030_63e3dab8",
+       "title": {
+        "ru": "Fig. 9 Pressing in small tapered roller bearing outer race",
+        "en": "Fig. 9 Pressing in small tapered roller bearing outer race"
+       },
+       "words": 468,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t031_531fa5fd",
+       "title": {
+        "ru": "Measuring friction torque (check measurement)",
+        "en": "Measuring friction torque (check measurement)"
+       },
+       "words": 443,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t032_ce25e010",
+       "title": {
+        "ru": "Output Diagnostic Test Mode (DTM) (function 03)",
+        "en": "Output Diagnostic Test Mode (DTM) (function 03)"
+       },
+       "words": 1027,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t033_044ece3a",
+       "title": {
+        "ru": "Fig. 3 Note different tightening torques",
+        "en": "Fig. 3 Note different tightening torques"
+       },
+       "words": 481,
+       "images": 8,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t034_62406061",
+       "title": {
+        "ru": "Wiring for primary coil and power supply, checking",
+        "en": "Wiring for primary coil and power supply, checking"
+       },
+       "words": 586,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t035_c1ce1e13",
+       "title": {
+        "ru": "Throttle valve control module, adaptation to Engine Control Module (ECM)",
+        "en": "Throttle valve control module, adaptation to Engine Control Module (ECM)"
+       },
+       "words": 1043,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t036_ddbeeb06",
+       "title": {
+        "ru": "Crankshaft Position (CKP) sensor, checking",
+        "en": "Crankshaft Position (CKP) sensor, checking"
+       },
+       "words": 1453,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t037_d764062a",
+       "title": {
+        "ru": "Checking voltage supply of valves for camshaft adjustment",
+        "en": "Checking voltage supply of valves for camshaft adjustment"
+       },
+       "words": 1378,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t038_76163ffd",
+       "title": {
+        "ru": "Throttle valve control module, adaptation to Engine Control Module (ECM)",
+        "en": "Throttle valve control module, adaptation to Engine Control Module (ECM)"
+       },
+       "words": 890,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t039_9a31a594",
+       "title": {
+        "ru": "Checking signal to EVAP canister purge regulator valve",
+        "en": "Checking signal to EVAP canister purge regulator valve"
+       },
+       "words": 1156,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t040_a3e586c1",
+       "title": {
+        "ru": "The readiness code will be reset to \"11111 1 1 1\" if:",
+        "en": "The readiness code will be reset to \"11111 1 1 1\" if:"
+       },
+       "words": 814,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t041_57762cb2",
+       "title": {
+        "ru": "Intake manifold change-over components, removing and installing",
+        "en": "Intake manifold change-over components, removing and installing"
+       },
+       "words": 510,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t042_ee2042b9",
+       "title": {
+        "ru": "Readiness code is returned to \"0110110 1\" if:",
+        "en": "Readiness code is returned to \"0110110 1\" if:"
+       },
+       "words": 595,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t043_512aaf6b",
+       "title": {
+        "ru": "Information on weight codes (code number)",
+        "en": "Information on weight codes (code number)"
+       },
+       "words": 574,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t044_490dc36b",
+       "title": {
+        "ru": "9 - Locking clip (thick, with compression spring)",
+        "en": "9 - Locking clip (thick, with compression spring)"
+       },
+       "words": 258,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t045_e772fc9c",
+       "title": {
+        "ru": "Information on weight codes (code number)",
+        "en": "Information on weight codes (code number)"
+       },
+       "words": 660,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t046_f25e8ae4",
+       "title": {
+        "ru": "Drive flange oil seals, replacing",
+        "en": "Drive flange oil seals, replacing"
+       },
+       "words": 966,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t047_b5500515",
+       "title": {
+        "ru": "Measuring backlash",
+        "en": "Measuring backlash"
+       },
+       "words": 601,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t048_28c033c2",
+       "title": {
+        "ru": "Fig. 2 Pressing off double tapered roller bearing inner race",
+        "en": "Fig. 2 Pressing off double tapered roller bearing inner race"
+       },
+       "words": 430,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t049_1dd34a98",
+       "title": {
+        "ru": "Transmission, identification",
+        "en": "Transmission, identification"
+       },
+       "words": 894,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t050_334c370b",
+       "title": {
+        "ru": "Speedometer sender -G22and drive wheel for speedometer sender, removing and inst",
+        "en": "Speedometer sender -G22and drive wheel for speedometer sender, removing and inst"
+       },
+       "words": 526,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t051_ee51b480",
+       "title": {
+        "ru": "Speedometer Vehicle Speed Sensor (VSS) -G22and sensor drive gear, removing and i",
+        "en": "Speedometer Vehicle Speed Sensor (VSS) -G22and sensor drive gear, removing and i"
+       },
+       "words": 336,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "audi_a4_lighting_t052_1d7963d7",
+       "title": {
+        "ru": "Fig. 9 Driving in seal for selector shaft",
+        "en": "Fig. 9 Driving in seal for selector shaft"
+       },
+       "words": 55,
+       "images": 1,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "audi_a4_interior_t000_93dbb820",
+       "title": {
+        "ru": "Accident with activation of airbag and belt tensioners (up to and including airb",
+        "en": "Accident with activation of airbag and belt tensioners (up to and including airb"
+       },
+       "words": 839,
+       "images": 1,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t001_261dbbde",
+       "title": {
+        "ru": "Additional safety precautions for side curtain protection airbag",
+        "en": "Additional safety precautions for side curtain protection airbag"
+       },
+       "words": 485,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t002_dbabb4fc",
+       "title": {
+        "ru": "Driver-side airbag for sport steering wheel (m.y. 1998 >）, removing and installi",
+        "en": "Driver-side airbag for sport steering wheel (m.y. 1998 >）, removing and installi"
+       },
+       "words": 422,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t003_743d0f63",
+       "title": {
+        "ru": "Passenger-side airbag unit, removing and installing",
+        "en": "Passenger-side airbag unit, removing and installing"
+       },
+       "words": 499,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t004_cfcde035",
+       "title": {
+        "ru": "Airbag control module -J234-, removing and installing",
+        "en": "Airbag control module -J234-, removing and installing"
+       },
+       "words": 296,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t005_08353002",
+       "title": {
+        "ru": "Side curtain protection airbag, servicing Special tools and equipment",
+        "en": "Side curtain protection airbag, servicing Special tools and equipment"
+       },
+       "words": 536,
+       "images": 6,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t006_54724718",
+       "title": {
+        "ru": "Side curtain protection airbag (Avant), removing and installing",
+        "en": "Side curtain protection airbag (Avant), removing and installing"
+       },
+       "words": 1032,
+       "images": 11,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t007_32baec0a",
+       "title": {
+        "ru": "Airbag system (with and without side airbag) On Board Diagnostic (OBD)",
+        "en": "Airbag system (with and without side airbag) On Board Diagnostic (OBD)"
+       },
+       "words": 350,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t008_703139af",
+       "title": {
+        "ru": "Address word for the airbag system: 15",
+        "en": "Address word for the airbag system: 15"
+       },
+       "words": 909,
+       "images": 15,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t009_2d90dc31",
+       "title": {
+        "ru": "Output Diagnostic Test Mode (scan tool function 03) (vehicles 1997 上 1998)",
+        "en": "Output Diagnostic Test Mode (scan tool function 03) (vehicles 1997 上 1998)"
+       },
+       "words": 533,
+       "images": 4,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t010_3c3ff94a",
+       "title": {
+        "ru": "Brake element for backrest adjustment, removing and installing",
+        "en": "Brake element for backrest adjustment, removing and installing"
+       },
+       "words": 676,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t011_615669cb",
+       "title": {
+        "ru": "Driver-side airbag unit, removing and installing",
+        "en": "Driver-side airbag unit, removing and installing"
+       },
+       "words": 803,
+       "images": 7,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t012_a7dc1d30",
+       "title": {
+        "ru": "Vehicles with mechanically-operated throttle valve",
+        "en": "Vehicles with mechanically-operated throttle valve"
+       },
+       "words": 324,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t013_ea5302f5",
+       "title": {
+        "ru": "Steering lock housing, removing and installing",
+        "en": "Steering lock housing, removing and installing"
+       },
+       "words": 947,
+       "images": 6,
+       "section_id": "interior"
+      },
+      {
+       "id": "audi_a4_interior_t014_c62b618a",
+       "title": {
+        "ru": "VAG1551/VAG1552 Scan Tool (ST), connecting and selecting \"Engine Electronics\" ad",
+        "en": "VAG1551/VAG1552 Scan Tool (ST), connecting and selecting \"Engine Electronics\" ad"
+       },
+       "words": 1239,
+       "images": 7,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "audi_a4_general_t000_70403705",
+       "title": {
+        "ru": "Carrying out \"Output Diagnostic Test Mode\" function 03",
+        "en": "Carrying out \"Output Diagnostic Test Mode\" function 03"
+       },
+       "words": 1979,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t001_da20f743",
+       "title": {
+        "ru": "Coding for vehicles which have tailgates equipped with soft-touch, incorporates:",
+        "en": "Coding for vehicles which have tailgates equipped with soft-touch, incorporates:"
+       },
+       "words": 1600,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t002_899fe907",
+       "title": {
+        "ru": "Grip handle cover with power window switch unit, removing and installing",
+        "en": "Grip handle cover with power window switch unit, removing and installing"
+       },
+       "words": 1522,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t003_a3fc5a24",
+       "title": {
+        "ru": "Lock for split rear backrest (Sedan and Avant 1 m.y. 1998), removing and install",
+        "en": "Lock for split rear backrest (Sedan and Avant 1 m.y. 1998), removing and install"
+       },
+       "words": 1327,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t004_58a5da64",
+       "title": {
+        "ru": "Ultrasonic interior monitoring On Board Diagnostic (OBD)",
+        "en": "Ultrasonic interior monitoring On Board Diagnostic (OBD)"
+       },
+       "words": 1915,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t005_50cab587",
+       "title": {
+        "ru": "End Output (scan tool function 06) Carrying out \"End Output\" function 06",
+        "en": "End Output (scan tool function 06) Carrying out \"End Output\" function 06"
+       },
+       "words": 2010,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t006_c4e45c21",
+       "title": {
+        "ru": "Accelerator pedal module with Throttle Position (TP) sensor, removing and instal",
+        "en": "Accelerator pedal module with Throttle Position (TP) sensor, removing and instal"
+       },
+       "words": 2551,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t007_c9f9895d",
+       "title": {
+        "ru": "Cooling system components (on engine, rear), removing and installing",
+        "en": "Cooling system components (on engine, rear), removing and installing"
+       },
+       "words": 1774,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t008_b7a22560",
+       "title": {
+        "ru": "Dual-mass flywheel drive plate, installation dimensions, removing and installing",
+        "en": "Dual-mass flywheel drive plate, installation dimensions, removing and installing"
+       },
+       "words": 1491,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t009_c03cc1d6",
+       "title": {
+        "ru": "Needle bearing in dual-mass flywheel, removing and installing",
+        "en": "Needle bearing in dual-mass flywheel, removing and installing"
+       },
+       "words": 1670,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t010_894f92cd",
+       "title": {
+        "ru": "Crankcase breather and oil spray jets, removing and installing",
+        "en": "Crankcase breather and oil spray jets, removing and installing"
+       },
+       "words": 1887,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t011_5a1d4a23",
+       "title": {
+        "ru": "Upper and lower sections of oil pan, removing and installing",
+        "en": "Upper and lower sections of oil pan, removing and installing"
+       },
+       "words": 2683,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t012_d853d8ed",
+       "title": {
+        "ru": "Fig. 1 Installation location of Secondary Air Injection (AIR) solenoid valve -N1",
+        "en": "Fig. 1 Installation location of Secondary Air Injection (AIR) solenoid valve -N1"
+       },
+       "words": 2046,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t013_f6959391",
+       "title": {
+        "ru": "Fig. 1 Sealing end points of joints between bearing caps and cylinder head",
+        "en": "Fig. 1 Sealing end points of joints between bearing caps and cylinder head"
+       },
+       "words": 1999,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t014_05fbaa5e",
+       "title": {
+        "ru": "Camshaft adjustment, checking function Special tools and equipment",
+        "en": "Camshaft adjustment, checking function Special tools and equipment"
+       },
+       "words": 2158,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t015_c7aead21",
+       "title": {
+        "ru": "Coolant fan control thermal switch, checking",
+        "en": "Coolant fan control thermal switch, checking"
+       },
+       "words": 1563,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t016_fb5d4138",
+       "title": {
+        "ru": "Note (continued from page = Page 19-12 ):",
+        "en": "Note (continued from page = Page 19-12 ):"
+       },
+       "words": 1884,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t017_4f00ba59",
+       "title": {
+        "ru": "Flywheel pilot needle bearing, removing and installing",
+        "en": "Flywheel pilot needle bearing, removing and installing"
+       },
+       "words": 1557,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t018_44131097",
+       "title": {
+        "ru": "Dual-mass flywheel or driveplate, removing and installing, installation dimensio",
+        "en": "Dual-mass flywheel or driveplate, removing and installing, installation dimensio"
+       },
+       "words": 1524,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t019_78c406f4",
+       "title": {
+        "ru": "Mounting engine cylinder block on assembly stand",
+        "en": "Mounting engine cylinder block on assembly stand"
+       },
+       "words": 1688,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t020_739b650b",
+       "title": {
+        "ru": "Exhaust manifold, front exhaust pipe and Three Way Catalytic Converter (TWC) wit",
+        "en": "Exhaust manifold, front exhaust pipe and Three Way Catalytic Converter (TWC) wit"
+       },
+       "words": 2126,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t021_3d434a77",
+       "title": {
+        "ru": "Installing cylinder head sealing cap",
+        "en": "Installing cylinder head sealing cap"
+       },
+       "words": 1798,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t022_27f589e0",
+       "title": {
+        "ru": "Oil pump, cylinder block breather and oil spray jets, removing and installing",
+        "en": "Oil pump, cylinder block breather and oil spray jets, removing and installing"
+       },
+       "words": 1942,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t023_aa3a0a38",
+       "title": {
+        "ru": "Secondary Air Injection (AIR) system components, removing and installing",
+        "en": "Secondary Air Injection (AIR) system components, removing and installing"
+       },
+       "words": 2133,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t024_1722f874",
+       "title": {
+        "ru": "Oil seal on Camshaft Position (CMP) sensor (left and right cylinder head)",
+        "en": "Oil seal on Camshaft Position (CMP) sensor (left and right cylinder head)"
+       },
+       "words": 1520,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t025_00fb965a",
+       "title": {
+        "ru": "Calculating maximum allowable refacing dimension",
+        "en": "Calculating maximum allowable refacing dimension"
+       },
+       "words": 2272,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t026_56b0265d",
+       "title": {
+        "ru": "Checking LDP via output DTM (vehicles with electronic throttle control)",
+        "en": "Checking LDP via output DTM (vehicles with electronic throttle control)"
+       },
+       "words": 2163,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t027_f78a9e82",
+       "title": {
+        "ru": "EVAP system leak detection circuit, schematic diagram (vehicles with 2.7 Itr. tu",
+        "en": "EVAP system leak detection circuit, schematic diagram (vehicles with 2.7 Itr. tu"
+       },
+       "words": 1374,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t028_87c37a08",
+       "title": {
+        "ru": "Fuel supply system, servicing (vehicles with 2.7 Itr. turbo engine)",
+        "en": "Fuel supply system, servicing (vehicles with 2.7 Itr. turbo engine)"
+       },
+       "words": 1055,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t029_21993ca1",
+       "title": {
+        "ru": "Sender for fuel gauge -G, removing and installing",
+        "en": "Sender for fuel gauge -G, removing and installing"
+       },
+       "words": 1566,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t030_a4eb7b72",
+       "title": {
+        "ru": "Fuel supply unit and sender for fuel gauge -G, component overview",
+        "en": "Fuel supply unit and sender for fuel gauge -G, component overview"
+       },
+       "words": 1494,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t031_fe81c0ae",
+       "title": {
+        "ru": "Required special tools, testing equipment and auxiliary equipment",
+        "en": "Required special tools, testing equipment and auxiliary equipment"
+       },
+       "words": 2132,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t032_69cc510e",
+       "title": {
+        "ru": "Accelerator pedal cable, removing and installing (vehicles with 1.8 Itr. turbo e",
+        "en": "Accelerator pedal cable, removing and installing (vehicles with 1.8 Itr. turbo e"
+       },
+       "words": 1396,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t033_181d2e13",
+       "title": {
+        "ru": "Fuel filler neck, component overview (vehicles without ORVR)",
+        "en": "Fuel filler neck, component overview (vehicles without ORVR)"
+       },
+       "words": 1716,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t034_c7ffa901",
+       "title": {
+        "ru": "Cover flange and surge housing inner section, pre-assembling",
+        "en": "Cover flange and surge housing inner section, pre-assembling"
+       },
+       "words": 1710,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t035_ff78575e",
+       "title": {
+        "ru": "Safety precautions for handling pyrotechnic seat belt tensioners",
+        "en": "Safety precautions for handling pyrotechnic seat belt tensioners"
+       },
+       "words": 2148,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t036_9b1201fd",
+       "title": {
+        "ru": "Connection diagram for charge air control and vacuum pressure control",
+        "en": "Connection diagram for charge air control and vacuum pressure control"
+       },
+       "words": 1238,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t037_39de6de1",
+       "title": {
+        "ru": "Special tool KLI9210 (Evaporative system leak detector), connecting to 2.7L BiTu",
+        "en": "Special tool KLI9210 (Evaporative system leak detector), connecting to 2.7L BiTu"
+       },
+       "words": 2212,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t038_0e610cb3",
+       "title": {
+        "ru": "Turbocharger, removing and installing Special tools and equipment",
+        "en": "Turbocharger, removing and installing Special tools and equipment"
+       },
+       "words": 1856,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t039_b13632af",
+       "title": {
+        "ru": "Stress-free alignment of the exhaust system Vehicles with front wheel drive",
+        "en": "Stress-free alignment of the exhaust system Vehicles with front wheel drive"
+       },
+       "words": 2073,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t040_ec4d350d",
+       "title": {
+        "ru": "Fig. . 2 Installation position for Secondary Air Injection (AIR) Pump motor -V10",
+        "en": "Fig. . 2 Installation position for Secondary Air Injection (AIR) Pump motor -V10"
+       },
+       "words": 1683,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t041_d741dc17",
+       "title": {
+        "ru": "Examples of unacceptable variations in specific gravity:",
+        "en": "Examples of unacceptable variations in specific gravity:"
+       },
+       "words": 2230,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t042_d894782d",
+       "title": {
+        "ru": "Procedure for charging totally discharged, sulfated batteries",
+        "en": "Procedure for charging totally discharged, sulfated batteries"
+       },
+       "words": 1782,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t043_06ca54ad",
+       "title": {
+        "ru": "Three or more control modules are communicating across a \"two-line bus system\"",
+        "en": "Three or more control modules are communicating across a \"two-line bus system\""
+       },
+       "words": 2043,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t044_ee51a804",
+       "title": {
+        "ru": "Needle bearing for spur gear 2, replacing Special tools and equipment",
+        "en": "Needle bearing for spur gear 2, replacing Special tools and equipment"
+       },
+       "words": 1344,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t045_f71ab5c8",
+       "title": {
+        "ru": "Running change from connecting link with ball joint to connecting link with rubb",
+        "en": "Running change from connecting link with ball joint to connecting link with rubb"
+       },
+       "words": 1950,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t046_5608eeaa",
+       "title": {
+        "ru": "Gasoline engines with electronicallyoperated throttle valve only",
+        "en": "Gasoline engines with electronicallyoperated throttle valve only"
+       },
+       "words": 1797,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t047_6df1d230",
+       "title": {
+        "ru": "Fig. 3 Seal connections between double bearing cap and cylinder head",
+        "en": "Fig. 3 Seal connections between double bearing cap and cylinder head"
+       },
+       "words": 2211,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t048_ea12f813",
+       "title": {
+        "ru": "Driveshaft, removing and installing Special tools and equipment",
+        "en": "Driveshaft, removing and installing Special tools and equipment"
+       },
+       "words": 1488,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t049_037c5aa4",
+       "title": {
+        "ru": "Toothed belt, removing and installing Special tools and equipment",
+        "en": "Toothed belt, removing and installing Special tools and equipment"
+       },
+       "words": 2135,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t050_30d3ce9f",
+       "title": {
+        "ru": "Display group 2 (002): Actuation of Electronic Stability Program (ESP) hydraulic",
+        "en": "Display group 2 (002): Actuation of Electronic Stability Program (ESP) hydraulic"
+       },
+       "words": 1654,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t051_c891ac63",
+       "title": {
+        "ru": "Fig. 5 Installation positions of spacer washer and spring washer (outer CV joint",
+        "en": "Fig. 5 Installation positions of spacer washer and spring washer (outer CV joint"
+       },
+       "words": 1466,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t052_8058343a",
+       "title": {
+        "ru": "Ribbed belt pulley with freewheel, removing and installing",
+        "en": "Ribbed belt pulley with freewheel, removing and installing"
+       },
+       "words": 1813,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t053_48fc19c1",
+       "title": {
+        "ru": "Malfunction message \"dEF\" on trip odometer display",
+        "en": "Malfunction message \"dEF\" on trip odometer display"
+       },
+       "words": 2888,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t054_05a9bbfc",
+       "title": {
+        "ru": "Read Measuring Value Block (scan tool function 08)",
+        "en": "Read Measuring Value Block (scan tool function 08)"
+       },
+       "words": 2036,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t055_6d3da55f",
+       "title": {
+        "ru": "Signal from Engine Coolant Temperature (ECT) sensor -G2-, checking",
+        "en": "Signal from Engine Coolant Temperature (ECT) sensor -G2-, checking"
+       },
+       "words": 3524,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t056_0bdab788",
+       "title": {
+        "ru": "Instrument cluster, terminal assignments (1998 through 1999)",
+        "en": "Instrument cluster, terminal assignments (1998 through 1999)"
+       },
+       "words": 2619,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t057_b7c6ba18",
+       "title": {
+        "ru": "Adapting SRI for inspection service Interval-1 (IN1) (distance in km)",
+        "en": "Adapting SRI for inspection service Interval-1 (IN1) (distance in km)"
+       },
+       "words": 2556,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t058_369e595b",
+       "title": {
+        "ru": "Fig. 1 Attaching 3293 lower control arm assembly device to lower control arm",
+        "en": "Fig. 1 Attaching 3293 lower control arm assembly device to lower control arm"
+       },
+       "words": 958,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t059_6f04c1fd",
+       "title": {
+        "ru": "Brake servo for brake master cylinder with 23.81 mm (0.937 in.) diameter piston,",
+        "en": "Brake servo for brake master cylinder with 23.81 mm (0.937 in.) diameter piston,"
+       },
+       "words": 1680,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t060_0b506924",
+       "title": {
+        "ru": "Technical features of the multi-function steering wheel",
+        "en": "Technical features of the multi-function steering wheel"
+       },
+       "words": 1928,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t061_f41d5ccb",
+       "title": {
+        "ru": "Control module for multi-function steering wheel -J453-, removing and installing",
+        "en": "Control module for multi-function steering wheel -J453-, removing and installing"
+       },
+       "words": 1989,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t062_b9ba59ec",
+       "title": {
+        "ru": "Installing power steering pump (power steering pump FP-4) m.y. 1997 Y",
+        "en": "Installing power steering pump (power steering pump FP-4) m.y. 1997 Y"
+       },
+       "words": 2164,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t063_be40b35a",
+       "title": {
+        "ru": "Read Measuring Value Block (scan tool function 08)",
+        "en": "Read Measuring Value Block (scan tool function 08)"
+       },
+       "words": 1487,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t064_878f1b66",
+       "title": {
+        "ru": "Radio, removing and installing (Symphony)",
+        "en": "Radio, removing and installing (Symphony)"
+       },
+       "words": 1079,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t065_b314cad5",
+       "title": {
+        "ru": "BOSE amplifier with bass speaker (subwoofer), removing and installing (Avant)",
+        "en": "BOSE amplifier with bass speaker (subwoofer), removing and installing (Avant)"
+       },
+       "words": 1707,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t066_c0d52387",
+       "title": {
+        "ru": "Fig. 1 Pulling out front bonded rubber bushing from subframe",
+        "en": "Fig. 1 Pulling out front bonded rubber bushing from subframe"
+       },
+       "words": 1521,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t067_3bf17e8c",
+       "title": {
+        "ru": "Removing and installing drive axle (left-hand side)",
+        "en": "Removing and installing drive axle (left-hand side)"
+       },
+       "words": 1371,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t068_9a28d282",
+       "title": {
+        "ru": "Code letters and date of manufacture of rear final drive.",
+        "en": "Code letters and date of manufacture of rear final drive."
+       },
+       "words": 1395,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t069_298c0e78",
+       "title": {
+        "ru": "Guided Troubleshooting, Vehicle On Board Diagnostic (OBD) and Test Instruments",
+        "en": "Guided Troubleshooting, Vehicle On Board Diagnostic (OBD) and Test Instruments"
+       },
+       "words": 2148,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t070_7570209f",
+       "title": {
+        "ru": "Hydraulic fluid level, checking; steering system, bleeding and checking for leak",
+        "en": "Hydraulic fluid level, checking; steering system, bleeding and checking for leak"
+       },
+       "words": 1997,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t071_7d2a1823",
+       "title": {
+        "ru": "Special tools, test equipment and auxiliary items",
+        "en": "Special tools, test equipment and auxiliary items"
+       },
+       "words": 1299,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t072_0fc93cce",
+       "title": {
+        "ru": "Torque tube, removing and installing",
+        "en": "Torque tube, removing and installing"
+       },
+       "words": 1612,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t073_0156d518",
+       "title": {
+        "ru": "For 6 cylinder gasoline engines except for 2.7 Liter 5V turbo engine:",
+        "en": "For 6 cylinder gasoline engines except for 2.7 Liter 5V turbo engine:"
+       },
+       "words": 3083,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t074_4b3ecd94",
+       "title": {
+        "ru": "Automatic transmission, transporting Special tools and equipment",
+        "en": "Automatic transmission, transporting Special tools and equipment"
+       },
+       "words": 1946,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t075_50946994",
+       "title": {
+        "ru": "8 - Transmission Vehicle Speed Sensor (VSS) -G38- (also referred to as Sensor fo",
+        "en": "8 - Transmission Vehicle Speed Sensor (VSS) -G38- (also referred to as Sensor fo"
+       },
+       "words": 2071,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t076_1c9477e4",
+       "title": {
+        "ru": "Output Diagnostic Test Mode (DTM) for transmission with hydraulic regulation -E1",
+        "en": "Output Diagnostic Test Mode (DTM) for transmission with hydraulic regulation -E1"
+       },
+       "words": 2850,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t077_d1830127",
+       "title": {
+        "ru": "Notes and footnotes for display group number 009 for vehicles with CAN-bus are o",
+        "en": "Notes and footnotes for display group number 009 for vehicles with CAN-bus are o"
+       },
+       "words": 1604,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t078_f176ee5d",
+       "title": {
+        "ru": "Overview of selectable display group numbers for transmission with hydraulic con",
+        "en": "Overview of selectable display group numbers for transmission with hydraulic con"
+       },
+       "words": 2099,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t079_b748579d",
+       "title": {
+        "ru": "3. Wiring from Transmission Control Module (TCM) -J217to Multi-function Transmis",
+        "en": "3. Wiring from Transmission Control Module (TCM) -J217to Multi-function Transmis"
+       },
+       "words": 2959,
+       "images": 58,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t080_ea3fb65a",
+       "title": {
+        "ru": "Fig. 1 Centering clutch plate and removing and installing pressure plate",
+        "en": "Fig. 1 Centering clutch plate and removing and installing pressure plate"
+       },
+       "words": 1228,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t081_d9720c56",
+       "title": {
+        "ru": "Fig. 6 Pulling out securing bushing for small tapered roller bearing outer race",
+        "en": "Fig. 6 Pulling out securing bushing for small tapered roller bearing outer race"
+       },
+       "words": 1891,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t082_e0c25799",
+       "title": {
+        "ru": "Final drive gear set, recommended sequence for re-adjusting",
+        "en": "Final drive gear set, recommended sequence for re-adjusting"
+       },
+       "words": 1838,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t083_69aa0db3",
+       "title": {
+        "ru": "Fig. 1 Removing small tapered roller bearing outer race from transmission housin",
+        "en": "Fig. 1 Removing small tapered roller bearing outer race from transmission housin"
+       },
+       "words": 1449,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t084_658b6226",
+       "title": {
+        "ru": "Speedometer Vehicle Speed Sensor (VSS), removing and installing",
+        "en": "Speedometer Vehicle Speed Sensor (VSS), removing and installing"
+       },
+       "words": 1949,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t085_25c8f9ff",
+       "title": {
+        "ru": "Transmission cover, replacing (recalculating shim S4",
+        "en": "Transmission cover, replacing (recalculating shim S4"
+       },
+       "words": 1574,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t086_787540d8",
+       "title": {
+        "ru": "12 - Shift rod with 1st/2nd/5th and reverse gear shift fork",
+        "en": "12 - Shift rod with 1st/2nd/5th and reverse gear shift fork"
+       },
+       "words": 1443,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t087_2f297d5b",
+       "title": {
+        "ru": "Fig. 1 Installation position of 5th and reverse gear shift fork and coupling pla",
+        "en": "Fig. 1 Installation position of 5th and reverse gear shift fork and coupling pla"
+       },
+       "words": 1915,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t088_836ad9f8",
+       "title": {
+        "ru": "Fig. 8 Installing large tapered roller bearing inner race onto pinion shaft",
+        "en": "Fig. 8 Installing large tapered roller bearing inner race onto pinion shaft"
+       },
+       "words": 1900,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t089_692bccd6",
+       "title": {
+        "ru": "Determining total shim thickness \"Stotal\" for shims S1 + S2",
+        "en": "Determining total shim thickness \"Stotal\" for shims S1 + S2"
+       },
+       "words": 1800,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t090_feaeb153",
+       "title": {
+        "ru": "Repair Manual, Engine Mechanical, Repair Group 26",
+        "en": "Repair Manual, Engine Mechanical, Repair Group 26"
+       },
+       "words": 1650,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t091_82b07a7b",
+       "title": {
+        "ru": "Code letters, engine/transmission applications, ratios, capacities",
+        "en": "Code letters, engine/transmission applications, ratios, capacities"
+       },
+       "words": 2245,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t092_86f2990f",
+       "title": {
+        "ru": "Turbocharger and charge air pressure regulator valve, checking",
+        "en": "Turbocharger and charge air pressure regulator valve, checking"
+       },
+       "words": 1359,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t093_7e1b271f",
+       "title": {
+        "ru": "Special tool KLI9210 (Evaporative system leak detector), connecting to 2.7L BiTu",
+        "en": "Special tool KLI9210 (Evaporative system leak detector), connecting to 2.7L BiTu"
+       },
+       "words": 2146,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t094_76af0bbb",
+       "title": {
+        "ru": "Charge air pressure regulation and secondary air system vacuum control system",
+        "en": "Charge air pressure regulation and secondary air system vacuum control system"
+       },
+       "words": 2264,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t095_a86994a2",
+       "title": {
+        "ru": "Vehicles with manual transmission",
+        "en": "Vehicles with manual transmission"
+       },
+       "words": 1575,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t096_b95ffa2d",
+       "title": {
+        "ru": "Cooling system, draining and filling Special tools and equipment",
+        "en": "Cooling system, draining and filling Special tools and equipment"
+       },
+       "words": 1598,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t097_14c7d3af",
+       "title": {
+        "ru": "Cylinder head bolts, conversion from inner 12point to Polydrive",
+        "en": "Cylinder head bolts, conversion from inner 12point to Polydrive"
+       },
+       "words": 1374,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t098_9d8212ab",
+       "title": {
+        "ru": "Fig. 4 Sealing contact surfaces between hydraulic chain tensioner and cylinder h",
+        "en": "Fig. 4 Sealing contact surfaces between hydraulic chain tensioner and cylinder h"
+       },
+       "words": 1855,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t099_3f00888d",
+       "title": {
+        "ru": "V-belt and ribbed belt, routing overview",
+        "en": "V-belt and ribbed belt, routing overview"
+       },
+       "words": 1151,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t100_c0758432",
+       "title": {
+        "ru": "Fig. 1 Installation position for camshaft gear",
+        "en": "Fig. 1 Installation position for camshaft gear"
+       },
+       "words": 1703,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t101_2aa96794",
+       "title": {
+        "ru": "All-wheel-drive vehicleswithout double clamp between front and rear mufflers",
+        "en": "All-wheel-drive vehicleswithout double clamp between front and rear mufflers"
+       },
+       "words": 2248,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t102_e785a26f",
+       "title": {
+        "ru": "Viscosity classes and oil specifications",
+        "en": "Viscosity classes and oil specifications"
+       },
+       "words": 1550,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t103_a7ec2529",
+       "title": {
+        "ru": "Special tool VAG 1687, connecting to pressure adapter VAG 1687/1 (2.7L BiTurbo)",
+        "en": "Special tool VAG 1687, connecting to pressure adapter VAG 1687/1 (2.7L BiTurbo)"
+       },
+       "words": 1751,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t104_1f8a3794",
+       "title": {
+        "ru": "The hydraulic pump for traction control V156is activated using display group 002",
+        "en": "The hydraulic pump for traction control V156is activated using display group 002"
+       },
+       "words": 3742,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t105_8f5124c4",
+       "title": {
+        "ru": "Fig. 6 Pressing off large tapered roller bearing inner race from drive pinion",
+        "en": "Fig. 6 Pressing off large tapered roller bearing inner race from drive pinion"
+       },
+       "words": 2046,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t106_c0390bcf",
+       "title": {
+        "ru": "Transmission diagram (AI Wheel Drive (AWD) vehicles)",
+        "en": "Transmission diagram (AI Wheel Drive (AWD) vehicles)"
+       },
+       "words": 2433,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t107_fb503323",
+       "title": {
+        "ru": "Fig. 1 Driving small tapered roller bearing outer race out of housing",
+        "en": "Fig. 1 Driving small tapered roller bearing outer race out of housing"
+       },
+       "words": 2098,
+       "images": 119,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t108_dfe3ca70",
+       "title": {
+        "ru": "Camshaft adjustment solenoid valves, checking",
+        "en": "Camshaft adjustment solenoid valves, checking"
+       },
+       "words": 2048,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t109_c068e832",
+       "title": {
+        "ru": "The red \"brake system malfunction\" symbol indicates the EBD is deactivated. The ",
+        "en": "The red \"brake system malfunction\" symbol indicates the EBD is deactivated. The "
+       },
+       "words": 1324,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t110_fc0882f3",
+       "title": {
+        "ru": "39 12-point socket-head bolt M10 X 20",
+        "en": "39 12-point socket-head bolt M10 X 20"
+       },
+       "words": 1496,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t111_8ac40b71",
+       "title": {
+        "ru": "Seal for right drive flange, replacing Special Tools and equipment",
+        "en": "Seal for right drive flange, replacing Special Tools and equipment"
+       },
+       "words": 1230,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t112_a2a62044",
+       "title": {
+        "ru": "O-ring at cover for final drive, replacing Special tools and equipment",
+        "en": "O-ring at cover for final drive, replacing Special tools and equipment"
+       },
+       "words": 1419,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t113_5c2cf16d",
+       "title": {
+        "ru": "Step 8: Evaporative Emissions (EVAP) system and fuel tank leak detection",
+        "en": "Step 8: Evaporative Emissions (EVAP) system and fuel tank leak detection"
+       },
+       "words": 2323,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t114_f5b4fe37",
+       "title": {
+        "ru": "Checking wastegate bypass regulator valve N75-",
+        "en": "Checking wastegate bypass regulator valve N75-"
+       },
+       "words": 2665,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t115_3e0485e7",
+       "title": {
+        "ru": "Evaporative Emission (EVAP) Canister Purge Regulator Valve, checking",
+        "en": "Evaporative Emission (EVAP) Canister Purge Regulator Valve, checking"
+       },
+       "words": 2237,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t116_0433bb8c",
+       "title": {
+        "ru": "Required special tools and test equipment",
+        "en": "Required special tools and test equipment"
+       },
+       "words": 2704,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t117_741537b9",
+       "title": {
+        "ru": "Engine Speed (RPM) sensor, checking Required special tools and test equipment",
+        "en": "Engine Speed (RPM) sensor, checking Required special tools and test equipment"
+       },
+       "words": 2258,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t118_cf1891ff",
+       "title": {
+        "ru": "VAG 1551/ VAG 1552 Scan Tool (ST), connecting and selecting \"Engine Electronics'",
+        "en": "VAG 1551/ VAG 1552 Scan Tool (ST), connecting and selecting \"Engine Electronics'"
+       },
+       "words": 2099,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t119_f90ee724",
+       "title": {
+        "ru": "Camshaft Position (CMP) sensor (bank 2), checking",
+        "en": "Camshaft Position (CMP) sensor (bank 2), checking"
+       },
+       "words": 3592,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t120_cd614c7c",
+       "title": {
+        "ru": "Heated Oxygen Sensor (HO2S) before Three Way Catalytic Converter (TWC), checking",
+        "en": "Heated Oxygen Sensor (HO2S) before Three Way Catalytic Converter (TWC), checking"
+       },
+       "words": 3420,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t121_07071a41",
+       "title": {
+        "ru": "Checking Idle Air Control (IAC) valve triggering",
+        "en": "Checking Idle Air Control (IAC) valve triggering"
+       },
+       "words": 2967,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t122_cdf565fb",
+       "title": {
+        "ru": "For any work affecting the Engine Control Module (ECM):",
+        "en": "For any work affecting the Engine Control Module (ECM):"
+       },
+       "words": 2591,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t123_f447b94f",
+       "title": {
+        "ru": "22 Intake manifold change-over valve -N15623 Throttle Position (TP) sensor -G69-",
+        "en": "22 Intake manifold change-over valve -N15623 Throttle Position (TP) sensor -G69-"
+       },
+       "words": 2566,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t124_a9de9844",
+       "title": {
+        "ru": "VAG 1551/1552 Scan Tool (ST), connecting and selecting Engine Electronics addres",
+        "en": "VAG 1551/1552 Scan Tool (ST), connecting and selecting Engine Electronics addres"
+       },
+       "words": 2064,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t125_dafeaba8",
+       "title": {
+        "ru": "Notes:",
+        "en": "Notes:"
+       },
+       "words": 1652,
+       "images": 56,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t126_f3458216",
+       "title": {
+        "ru": "Triggering sequence:",
+        "en": "Triggering sequence:"
+       },
+       "words": 1547,
+       "images": 56,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t127_41462672",
+       "title": {
+        "ru": "Only on vehicles with secondary air injection (AIR) system",
+        "en": "Only on vehicles with secondary air injection (AIR) system"
+       },
+       "words": 2635,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t128_62a8fc3a",
+       "title": {
+        "ru": "Notes on display fields 1 and 2:",
+        "en": "Notes on display fields 1 and 2:"
+       },
+       "words": 2172,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t129_8188c97f",
+       "title": {
+        "ru": "Display group 041 (Voltage signal of oxygen sensors in front of and behind three",
+        "en": "Display group 041 (Voltage signal of oxygen sensors in front of and behind three"
+       },
+       "words": 3522,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t130_6d278737",
+       "title": {
+        "ru": "Checking solenoid valves for camshaft adjustment electrically",
+        "en": "Checking solenoid valves for camshaft adjustment electrically"
+       },
+       "words": 2153,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t131_4bc8a06b",
+       "title": {
+        "ru": "Electrical check of intake manifold tuning valve -N156-",
+        "en": "Electrical check of intake manifold tuning valve -N156-"
+       },
+       "words": 2796,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t132_f0a9af7d",
+       "title": {
+        "ru": "Motronic Multiport Fuel Injection (MFI) and ignition system",
+        "en": "Motronic Multiport Fuel Injection (MFI) and ignition system"
+       },
+       "words": 2872,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t133_57b89230",
+       "title": {
+        "ru": "6 - Intake Air Temperature (IAT) sensor -G427 - Harness connector",
+        "en": "6 - Intake Air Temperature (IAT) sensor -G427 - Harness connector"
+       },
+       "words": 2209,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t134_1d94bc42",
+       "title": {
+        "ru": "Oxygen Sensor (02S) aging, bank 1, sensor 1, checking",
+        "en": "Oxygen Sensor (02S) aging, bank 1, sensor 1, checking"
+       },
+       "words": 2967,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t135_9fed9e34",
+       "title": {
+        "ru": "Checking fuel pump relay voltage supply and actuation",
+        "en": "Checking fuel pump relay voltage supply and actuation"
+       },
+       "words": 2082,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t136_3298961b",
+       "title": {
+        "ru": "Evaporative Emissions (EVAP) canister purge regulator valve, checking",
+        "en": "Evaporative Emissions (EVAP) canister purge regulator valve, checking"
+       },
+       "words": 2394,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t137_502271f1",
+       "title": {
+        "ru": "Oxygen sensor and oxygen sensor control before Three Way Catalytic Converter (TW",
+        "en": "Oxygen sensor and oxygen sensor control before Three Way Catalytic Converter (TW"
+       },
+       "words": 2485,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t138_038b21f6",
+       "title": {
+        "ru": "Checking wiring for Oxygen Sensor (02S) 2 Behind Three Way Catalytic Converter (",
+        "en": "Checking wiring for Oxygen Sensor (02S) 2 Behind Three Way Catalytic Converter ("
+       },
+       "words": 2448,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t139_066194d8",
+       "title": {
+        "ru": "Significance of electronic Engine Power Control (EPC) warning light in instrumen",
+        "en": "Significance of electronic Engine Power Control (EPC) warning light in instrumen"
+       },
+       "words": 3624,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t140_4a10f088",
+       "title": {
+        "ru": "Angle sensor -1for throttle drive (power accelerator actuation) -G187and angle s",
+        "en": "Angle sensor -1for throttle drive (power accelerator actuation) -G187and angle s"
+       },
+       "words": 3115,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t141_660ef362",
+       "title": {
+        "ru": "The following measuring value blocks display misfiring of individual cylinders:",
+        "en": "The following measuring value blocks display misfiring of individual cylinders:"
+       },
+       "words": 1527,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t142_749f8894",
+       "title": {
+        "ru": "H Oxygen Sensor (02S) Behind Three Way Catalytic Converter (TWC) -G130 with Heat",
+        "en": "H Oxygen Sensor (02S) Behind Three Way Catalytic Converter (TWC) -G130 with Heat"
+       },
+       "words": 2029,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t143_bcda0904",
+       "title": {
+        "ru": "Fuel injection volume, fuel injector leakage and spray pattern of injectors, che",
+        "en": "Fuel injection volume, fuel injector leakage and spray pattern of injectors, che"
+       },
+       "words": 2631,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t144_f3c12664",
+       "title": {
+        "ru": "Voltage supply for Mass Air Flow (MAF) sensor, checking (Bosch MAF sensor)",
+        "en": "Voltage supply for Mass Air Flow (MAF) sensor, checking (Bosch MAF sensor)"
+       },
+       "words": 2499,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t145_774ffa5a",
+       "title": {
+        "ru": "The DTM activates the following components in the stated sequence:",
+        "en": "The DTM activates the following components in the stated sequence:"
+       },
+       "words": 4727,
+       "images": 65,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t146_40fee55b",
+       "title": {
+        "ru": "Work step 3: Adaptation Throttle Valve Control Module to Engine Control Module (",
+        "en": "Work step 3: Adaptation Throttle Valve Control Module to Engine Control Module ("
+       },
+       "words": 1880,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t147_5e06a8f0",
+       "title": {
+        "ru": "Vacuum system, checking for proper seal Special Tools and Equipment",
+        "en": "Vacuum system, checking for proper seal Special Tools and Equipment"
+       },
+       "words": 3964,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t148_bf2b2b9f",
+       "title": {
+        "ru": "Oxygen sensors and oxygen sensor control before catalytic converter, checking",
+        "en": "Oxygen sensors and oxygen sensor control before catalytic converter, checking"
+       },
+       "words": 2050,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t149_47e61771",
+       "title": {
+        "ru": "Check oxygen sensor wires for Oxygen Sensor (02S) 2 Behind Three Way Catalytic C",
+        "en": "Check oxygen sensor wires for Oxygen Sensor (02S) 2 Behind Three Way Catalytic C"
+       },
+       "words": 2405,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t150_ddd0dde3",
+       "title": {
+        "ru": "Electronic Power Control (EPC) warning lamp -K132in instrument cluster, signific",
+        "en": "Electronic Power Control (EPC) warning lamp -K132in instrument cluster, signific"
+       },
+       "words": 2150,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t151_eef4a842",
+       "title": {
+        "ru": "Throttle Position (TP) sensor, checking Special Tools and Equipment",
+        "en": "Throttle Position (TP) sensor, checking Special Tools and Equipment"
+       },
+       "words": 2682,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t152_28e1194c",
+       "title": {
+        "ru": "If you cannot determine a cause for the DTC \"Powertrain databus malfunction, che",
+        "en": "If you cannot determine a cause for the DTC \"Powertrain databus malfunction, che"
+       },
+       "words": 2322,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t153_0100ea74",
+       "title": {
+        "ru": "Module (ECM) travels via connector terminal 1 and terminal 2",
+        "en": "Module (ECM) travels via connector terminal 1 and terminal 2"
+       },
+       "words": 1689,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t154_1f4c467c",
+       "title": {
+        "ru": "Evaluation display group O14, display field 3 and display group O15 and O16, dis",
+        "en": "Evaluation display group O14, display field 3 and display group O15 and O16, dis"
+       },
+       "words": 1731,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t155_b77049ce",
+       "title": {
+        "ru": "Fig. 9 Component location Brake Light Switch -Fand Brake Vacuum Vent Valve Switc",
+        "en": "Fig. 9 Component location Brake Light Switch -Fand Brake Vacuum Vent Valve Switc"
+       },
+       "words": 2176,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t156_df0e8253",
+       "title": {
+        "ru": "Injection quantity, proper seal and spray pattern of fuel injectors, checking",
+        "en": "Injection quantity, proper seal and spray pattern of fuel injectors, checking"
+       },
+       "words": 2128,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t157_5325a3df",
+       "title": {
+        "ru": "B Warning lamp for On Board Diagnostic (Malfunction Indicator Lamp -MIL-) remain",
+        "en": "B Warning lamp for On Board Diagnostic (Malfunction Indicator Lamp -MIL-) remain"
+       },
+       "words": 1896,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t158_a4f1ba2b",
+       "title": {
+        "ru": "Activating Leak Detection Pump (diagnostic pump for tank ventilation system)",
+        "en": "Activating Leak Detection Pump (diagnostic pump for tank ventilation system)"
+       },
+       "words": 2030,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t159_74a5b24c",
+       "title": {
+        "ru": "Work step 7: Diagnostic of operational readiness of oxygen sensor behind catalyt",
+        "en": "Work step 7: Diagnostic of operational readiness of oxygen sensor behind catalyt"
+       },
+       "words": 1551,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t160_fed19212",
+       "title": {
+        "ru": "If you cannot determine a cause for the DTC \"Powertrain databus malfunction, che",
+        "en": "If you cannot determine a cause for the DTC \"Powertrain databus malfunction, che"
+       },
+       "words": 3262,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t161_1acfe05a",
+       "title": {
+        "ru": "Motronic Engine Control Module (ECM) power supply relay -J271-, checking",
+        "en": "Motronic Engine Control Module (ECM) power supply relay -J271-, checking"
+       },
+       "words": 2199,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t162_db3f0755",
+       "title": {
+        "ru": "Ground (GND) supply of the Engine Control Module (ECM) travels via connector ter",
+        "en": "Ground (GND) supply of the Engine Control Module (ECM) travels via connector ter"
+       },
+       "words": 2062,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t163_a496b3c0",
+       "title": {
+        "ru": "Fig. .4 Installation location of Secondary Air Injection (AIR) solenoid valve-N1",
+        "en": "Fig. .4 Installation location of Secondary Air Injection (AIR) solenoid valve-N1"
+       },
+       "words": 1917,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t164_df7faea0",
+       "title": {
+        "ru": "Fuel injector injection quantity, proper seal and spray pattern, checking",
+        "en": "Fuel injector injection quantity, proper seal and spray pattern, checking"
+       },
+       "words": 2286,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t165_345e3750",
+       "title": {
+        "ru": "Oxygen sensor aging (oxygen sensor before catalytic converter), checking",
+        "en": "Oxygen sensor aging (oxygen sensor before catalytic converter), checking"
+       },
+       "words": 1753,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t166_2114369e",
+       "title": {
+        "ru": "Oxygen Sensor (02S) heater -Z19and oxygen sensor heater 1 -Z29for oxygen sensor ",
+        "en": "Oxygen Sensor (02S) heater -Z19and oxygen sensor heater 1 -Z29for oxygen sensor "
+       },
+       "words": 1771,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t167_929efd32",
+       "title": {
+        "ru": "If you cannot determine a cause for the DTC \"Powertrain CAN-bus malfunction, che",
+        "en": "If you cannot determine a cause for the DTC \"Powertrain CAN-bus malfunction, che"
+       },
+       "words": 2913,
+       "images": 72,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t168_ce4c4202",
+       "title": {
+        "ru": "Throttle Position (TP) sensor, checking Special Tools and Equipment",
+        "en": "Throttle Position (TP) sensor, checking Special Tools and Equipment"
+       },
+       "words": 2816,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t169_39a0105a",
+       "title": {
+        "ru": "Fig. .4 Installation location of Secondary Air Injection (AIR) solenoid valve-N1",
+        "en": "Fig. .4 Installation location of Secondary Air Injection (AIR) solenoid valve-N1"
+       },
+       "words": 1972,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t170_0b12fd57",
+       "title": {
+        "ru": "Injection quantity, proper seal and spray pattern of fuel injectors, checking",
+        "en": "Injection quantity, proper seal and spray pattern of fuel injectors, checking"
+       },
+       "words": 2211,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t171_263150af",
+       "title": {
+        "ru": "Activating Leak Detection Pump (diagnostic pump for tank ventilation system)",
+        "en": "Activating Leak Detection Pump (diagnostic pump for tank ventilation system)"
+       },
+       "words": 2101,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t172_728eab0d",
+       "title": {
+        "ru": "Oxygen sensor heating, Oxygen Sensor (02S) Heater -Z19before catalytic converter",
+        "en": "Oxygen sensor heating, Oxygen Sensor (02S) Heater -Z19before catalytic converter"
+       },
+       "words": 1421,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t173_5e70bee2",
+       "title": {
+        "ru": "Replace Oxygen Sensor (02S) behind Three Way Catalytic Converter (TWC) -G130-.",
+        "en": "Replace Oxygen Sensor (02S) behind Three Way Catalytic Converter (TWC) -G130-."
+       },
+       "words": 1761,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t174_3acb97ca",
+       "title": {
+        "ru": "Oil pan, oil strainer and valve body, removing and installing",
+        "en": "Oil pan, oil strainer and valve body, removing and installing"
+       },
+       "words": 2383,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t175_81bc86b3",
+       "title": {
+        "ru": "Oil pan, removing and installing Special tools and equipment",
+        "en": "Oil pan, removing and installing Special tools and equipment"
+       },
+       "words": 881,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t176_2a85f020",
+       "title": {
+        "ru": "Note only for Park/Neutral Position (PNP) Switch -E17-:",
+        "en": "Note only for Park/Neutral Position (PNP) Switch -E17-:"
+       },
+       "words": 1156,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t177_9f2ac708",
+       "title": {
+        "ru": "Only for transmission with hydraulic control E18/2",
+        "en": "Only for transmission with hydraulic control E18/2"
+       },
+       "words": 1701,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t178_6e88eea2",
+       "title": {
+        "ru": "Rear final drive, securing to assembly fixture",
+        "en": "Rear final drive, securing to assembly fixture"
+       },
+       "words": 1391,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t179_1a151780",
+       "title": {
+        "ru": "Selector lever in position \"P\" and ignition switched on:",
+        "en": "Selector lever in position \"P\" and ignition switched on:"
+       },
+       "words": 1485,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t180_d896d062",
+       "title": {
+        "ru": "Selector lever cable for Tiptronic shift mechanism, removing and installing",
+        "en": "Selector lever cable for Tiptronic shift mechanism, removing and installing"
+       },
+       "words": 2003,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t181_818e5e0d",
+       "title": {
+        "ru": "Shift mechanism (without Tiptronic), disassembling and assembling",
+        "en": "Shift mechanism (without Tiptronic), disassembling and assembling"
+       },
+       "words": 1717,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t182_f9dc7b16",
+       "title": {
+        "ru": "Rules of cleanliness for working on automatic transmissions",
+        "en": "Rules of cleanliness for working on automatic transmissions"
+       },
+       "words": 1565,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t183_c7666446",
+       "title": {
+        "ru": "Exhaust camshaft oil seal, replacing Special tools and equipment",
+        "en": "Exhaust camshaft oil seal, replacing Special tools and equipment"
+       },
+       "words": 1645,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t184_a728f337",
+       "title": {
+        "ru": "Intake camshaft seal, replacing Special tools and equipment",
+        "en": "Intake camshaft seal, replacing Special tools and equipment"
+       },
+       "words": 2054,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t185_452a6c48",
+       "title": {
+        "ru": "Wheel alignment specifications (front-wheel-drive vehicles with aluminium mounti",
+        "en": "Wheel alignment specifications (front-wheel-drive vehicles with aluminium mounti"
+       },
+       "words": 1650,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t186_708a6658",
+       "title": {
+        "ru": "Bearing housing, Torsen differential, end cover, internal selector mechanism, in",
+        "en": "Bearing housing, Torsen differential, end cover, internal selector mechanism, in"
+       },
+       "words": 4350,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t187_2ccaa7ea",
+       "title": {
+        "ru": "Do not use force when performing the following steps, otherwise the forks on the",
+        "en": "Do not use force when performing the following steps, otherwise the forks on the"
+       },
+       "words": 1422,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t188_7a59d44a",
+       "title": {
+        "ru": "Fig. 3 Installing right tapered roller bearing outer race in transmission housin",
+        "en": "Fig. 3 Installing right tapered roller bearing outer race in transmission housin"
+       },
+       "words": 1451,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t189_e5107ae2",
+       "title": {
+        "ru": "Fig. 11 Removing and installing circlip for synchro-hub and shim for 1st speed s",
+        "en": "Fig. 11 Removing and installing circlip for synchro-hub and shim for 1st speed s"
+       },
+       "words": 1321,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t190_e0adc37d",
+       "title": {
+        "ru": "Drive flange housing, disassembling and assembling",
+        "en": "Drive flange housing, disassembling and assembling"
+       },
+       "words": 2153,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t191_e1c6f172",
+       "title": {
+        "ru": "Determining total shim thickness \"Stotal for shims \"S3\" + \"S4\"",
+        "en": "Determining total shim thickness \"Stotal for shims \"S3\" + \"S4\""
+       },
+       "words": 1964,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t192_89faea8d",
+       "title": {
+        "ru": "Driveshaft, removing and installing Special tools, testers and auxiliary items",
+        "en": "Driveshaft, removing and installing Special tools, testers and auxiliary items"
+       },
+       "words": 2326,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t193_9aaa64ec",
+       "title": {
+        "ru": "Preload for tapered roller bearing for pinion shaft, checking",
+        "en": "Preload for tapered roller bearing for pinion shaft, checking"
+       },
+       "words": 1800,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t194_abf978e3",
+       "title": {
+        "ru": "Fig. 19 Installation position of operating sleeve for 1st and 2nd gear",
+        "en": "Fig. 19 Installation position of operating sleeve for 1st and 2nd gear"
+       },
+       "words": 2076,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t195_a285b6a7",
+       "title": {
+        "ru": "Input shaft, drive pinion, hollow shaft and internal selector mechanism from bea",
+        "en": "Input shaft, drive pinion, hollow shaft and internal selector mechanism from bea"
+       },
+       "words": 774,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t196_9ba2d673",
+       "title": {
+        "ru": "Fig. 1 Installation position of 5th and reverse gear shift fork and coupling pla",
+        "en": "Fig. 1 Installation position of 5th and reverse gear shift fork and coupling pla"
+       },
+       "words": 2375,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t197_0bcd1878",
+       "title": {
+        "ru": "Removing and installing gear lock for 5th and reverse gear",
+        "en": "Removing and installing gear lock for 5th and reverse gear"
+       },
+       "words": 1525,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t198_e5046743",
+       "title": {
+        "ru": "Clutch Pedal Position (CPP) switch F194-, adjusting",
+        "en": "Clutch Pedal Position (CPP) switch F194-, adjusting"
+       },
+       "words": 2174,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t199_83b3c783",
+       "title": {
+        "ru": "Fig. 2 Pressing outer race of small tapered roller bearing into housing (press a",
+        "en": "Fig. 2 Pressing outer race of small tapered roller bearing into housing (press a"
+       },
+       "words": 1622,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t200_8c945b04",
+       "title": {
+        "ru": "Readjusting final drive set, recommended sequence",
+        "en": "Readjusting final drive set, recommended sequence"
+       },
+       "words": 2611,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t201_3d0d6d02",
+       "title": {
+        "ru": "Rear final drive, securing to repair stand Special tools, testers and auxiliary ",
+        "en": "Rear final drive, securing to repair stand Special tools, testers and auxiliary "
+       },
+       "words": 2199,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t202_5cece421",
+       "title": {
+        "ru": "Coat sealing surfaces with a thin layer of sealant AMV 188 001 02",
+        "en": "Coat sealing surfaces with a thin layer of sealant AMV 188 001 02"
+       },
+       "words": 1387,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t203_3fecbd25",
+       "title": {
+        "ru": "Fig. 1 Pivot rod fastening to transmission 06.96",
+        "en": "Fig. 1 Pivot rod fastening to transmission 06.96"
+       },
+       "words": 2225,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "audi_a4_general_t204_cceaf278",
+       "title": {
+        "ru": "Fig. 10 Installing seal and selector shaft with assembly sleeve",
+        "en": "Fig. 10 Installing seal and selector shaft with assembly sleeve"
+       },
+       "words": 878,
+       "images": 18,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

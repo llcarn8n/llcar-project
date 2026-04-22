@@ -1,0 +1,1345 @@
+{
+ "version": "1.0",
+ "model": "arrizo_8",
+ "manuals": [
+  {
+   "model": "arrizo_8",
+   "label": {
+    "ru": "Chery Arrizo 8 — Руководство по ремонту",
+    "en": "Chery Arrizo 8 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "chery_arrizo_8_engine_t000_bd85d1b6",
+       "title": {
+        "ru": "Ниже приведен ряд советов по снижению расхода топлива",
+        "en": "Ниже приведен ряд советов по снижению расхода топлива"
+       },
+       "words": 616,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_arrizo_8_engine_t001_af3fbe41",
+       "title": {
+        "ru": "2. ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ",
+        "en": "2. ПОДГОТОВКА К НАЧАЛУ ДВИЖЕНИЯ"
+       },
+       "words": 869,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_arrizo_8_engine_t002_e7a44a9d",
+       "title": {
+        "ru": "Дистанционный пуск двигателя с помощь пульта дистанционного",
+        "en": "Дистанционный пуск двигателя с помощь пульта дистанционного"
+       },
+       "words": 852,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_arrizo_8_engine_t003_69974e42",
+       "title": {
+        "ru": "Система «стоп-старт» (для некоторых вариантов исполнения",
+        "en": "Система «стоп-старт» (для некоторых вариантов исполнения"
+       },
+       "words": 903,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_arrizo_8_engine_t004_2dde4d8a",
+       "title": {
+        "ru": "Если двигатель не запускается",
+        "en": "Если двигатель не запускается"
+       },
+       "words": 716,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_arrizo_8_engine_t005_353416a9",
+       "title": {
+        "ru": "Убедитесь, что ленты ремней не изношены или не повреждены.",
+        "en": "Убедитесь, что ленты ремней не изношены или не повреждены."
+       },
+       "words": 556,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_arrizo_8_engine_t006_4ebab227",
+       "title": {
+        "ru": "Шаг 2. Откройте капот, извлеките щуп и",
+        "en": "Шаг 2. Откройте капот, извлеките щуп и"
+       },
+       "words": 554,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_arrizo_8_engine_t007_30b66e1f",
+       "title": {
+        "ru": "Содержание влаги в",
+        "en": "Содержание влаги в"
+       },
+       "words": 362,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "chery_arrizo_8_brakes_t000_a538ea4d",
+       "title": {
+        "ru": "Постановка автомобиля на стоянку",
+        "en": "Постановка автомобиля на стоянку"
+       },
+       "words": 707,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_arrizo_8_brakes_t001_a80ffb4e",
+       "title": {
+        "ru": "Вождение по обледеневшим и заснеженным дорогам",
+        "en": "Вождение по обледеневшим и заснеженным дорогам"
+       },
+       "words": 650,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_arrizo_8_brakes_t002_48921c74",
+       "title": {
+        "ru": "Этот индикатор указывает на то, что система",
+        "en": "Этот индикатор указывает на то, что система"
+       },
+       "words": 432,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_arrizo_8_brakes_t003_7a257ad5",
+       "title": {
+        "ru": "Пуск и выключение двигателя в экстренных обстоятельствах",
+        "en": "Пуск и выключение двигателя в экстренных обстоятельствах"
+       },
+       "words": 834,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_arrizo_8_brakes_t004_97cae453",
+       "title": {
+        "ru": "Система автоматического удержания автомобиля",
+        "en": "Система автоматического удержания автомобиля"
+       },
+       "words": 581,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_arrizo_8_brakes_t005_3c844ff3",
+       "title": {
+        "ru": "Меры предосторожности при пользовании тормозной системой",
+        "en": "Меры предосторожности при пользовании тормозной системой"
+       },
+       "words": 672,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_arrizo_8_brakes_t006_d5c2e365",
+       "title": {
+        "ru": "Функциональные ограничения",
+        "en": "Функциональные ограничения"
+       },
+       "words": 1759,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_arrizo_8_brakes_t007_d43e0036",
+       "title": {
+        "ru": "Сигнализатор неисправности системы (ABS)",
+        "en": "Сигнализатор неисправности системы (ABS)"
+       },
+       "words": 592,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_arrizo_8_brakes_t008_b3152ca4",
+       "title": {
+        "ru": "Система предотвращения опрокидывания автомобиля (RMI)",
+        "en": "Система предотвращения опрокидывания автомобиля (RMI)"
+       },
+       "words": 819,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_arrizo_8_brakes_t009_e1222105",
+       "title": {
+        "ru": "Проверка уровня рабочей жидкости коробки передач",
+        "en": "Проверка уровня рабочей жидкости коробки передач"
+       },
+       "words": 454,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_arrizo_8_brakes_t010_9ff58aa4",
+       "title": {
+        "ru": "Число мест в автомобиле",
+        "en": "Число мест в автомобиле"
+       },
+       "words": 503,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_arrizo_8_brakes_t011_84f33aa0",
+       "title": {
+        "ru": "Типы ламп.................................273",
+        "en": "Типы ламп.................................273"
+       },
+       "words": 28,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "chery_arrizo_8_hvac_t000_749ac2a4",
+       "title": {
+        "ru": "Кнопка выключения системы кондиционирования воздуха",
+        "en": "Кнопка выключения системы кондиционирования воздуха"
+       },
+       "words": 412,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "chery_arrizo_8_body_t000_897311af",
+       "title": {
+        "ru": "Функция освещения пространства для ног водителя и переднего",
+        "en": "Функция освещения пространства для ног водителя и переднего"
+       },
+       "words": 567,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_arrizo_8_body_t001_62268313",
+       "title": {
+        "ru": "Функция задержки выключения света фар",
+        "en": "Функция задержки выключения света фар"
+       },
+       "words": 538,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_arrizo_8_body_t002_23fc4e9a",
+       "title": {
+        "ru": "Функция дистанционного управления электрическими",
+        "en": "Функция дистанционного управления электрическими"
+       },
+       "words": 582,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_arrizo_8_body_t003_3aa92353",
+       "title": {
+        "ru": "4. Пуск двигателя и управление автомобилем",
+        "en": "4. Пуск двигателя и управление автомобилем"
+       },
+       "words": 510,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_arrizo_8_body_t004_fdc03f96",
+       "title": {
+        "ru": "Остановочная",
+        "en": "Остановочная"
+       },
+       "words": 311,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "chery_arrizo_8_lighting_t000_77277c0e",
+       "title": {
+        "ru": "Настройка систем автомобиля",
+        "en": "Настройка систем автомобиля"
+       },
+       "words": 179,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "chery_arrizo_8_interior_t000_59983db4",
+       "title": {
+        "ru": "Запотевание фар...........55",
+        "en": "Запотевание фар...........55"
+       },
+       "words": 654,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_arrizo_8_interior_t001_94bd2178",
+       "title": {
+        "ru": "Включение плафонов освещения при посадке и высадке",
+        "en": "Включение плафонов освещения при посадке и высадке"
+       },
+       "words": 478,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_arrizo_8_interior_t002_9d30fcbe",
+       "title": {
+        "ru": "Обогреватели передних сидений",
+        "en": "Обогреватели передних сидений"
+       },
+       "words": 396,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_arrizo_8_interior_t003_b1cb3d65",
+       "title": {
+        "ru": "Сохранение информации в головном устройстве аудиосистемы",
+        "en": "Сохранение информации в головном устройстве аудиосистемы"
+       },
+       "words": 621,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_arrizo_8_interior_t004_9ea2515d",
+       "title": {
+        "ru": "Последствием отказа от использования",
+        "en": "Последствием отказа от использования"
+       },
+       "words": 762,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_arrizo_8_interior_t005_940fa273",
+       "title": {
+        "ru": "3. Запрещается крепить детское удерживающее устройство одним только ремнем",
+        "en": "3. Запрещается крепить детское удерживающее устройство одним только ремнем"
+       },
+       "words": 991,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_arrizo_8_interior_t006_b600659c",
+       "title": {
+        "ru": "Кнопка режима подачи наружного воздуха/рециркуляции воздуха",
+        "en": "Кнопка режима подачи наружного воздуха/рециркуляции воздуха"
+       },
+       "words": 726,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_arrizo_8_interior_t007_014aa445",
+       "title": {
+        "ru": "Функция очистки воздуха (для некоторых вариантов исполнения",
+        "en": "Функция очистки воздуха (для некоторых вариантов исполнения"
+       },
+       "words": 542,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_arrizo_8_interior_t008_b6b615ba",
+       "title": {
+        "ru": "Проверка фильтра системы кондиционирования воздуха",
+        "en": "Проверка фильтра системы кондиционирования воздуха"
+       },
+       "words": 597,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_arrizo_8_interior_t009_ec9666d4",
+       "title": {
+        "ru": "Идентификационный",
+        "en": "Идентификационный"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "chery_arrizo_8_ev_t000_73fb53ab",
+       "title": {
+        "ru": "Обогрев форсунок омывателя ветрового стекла (для некоторых",
+        "en": "Обогрев форсунок омывателя ветрового стекла (для некоторых"
+       },
+       "words": 616,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "chery_arrizo_8_ev_t001_87195c3c",
+       "title": {
+        "ru": "В противном случае автомобиль может остаться незапертым..",
+        "en": "В противном случае автомобиль может остаться незапертым.."
+       },
+       "words": 542,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "chery_arrizo_8_ev_t002_6f75c07a",
+       "title": {
+        "ru": "Беспроводное зарядное устройство (для некоторых вариантов",
+        "en": "Беспроводное зарядное устройство (для некоторых вариантов"
+       },
+       "words": 599,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "chery_arrizo_8_ev_t003_d423dd0d",
+       "title": {
+        "ru": "Автоматическая установка селектора в положение P (730DHB)",
+        "en": "Автоматическая установка селектора в положение P (730DHB)"
+       },
+       "words": 1074,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "chery_arrizo_8_ev_t004_d3af303f",
+       "title": {
+        "ru": "Действия при разряде аккумуляторной батареи",
+        "en": "Действия при разряде аккумуляторной батареи"
+       },
+       "words": 505,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "chery_arrizo_8_ev_t005_5fd608c1",
+       "title": {
+        "ru": "Замена проводится каждые 3 года или каждые 100000 км",
+        "en": "Замена проводится каждые 3 года или каждые 100000 км"
+       },
+       "words": 292,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "chery_arrizo_8_chassis_t000_53c18618",
+       "title": {
+        "ru": "Сброс интервала технического обслуживания",
+        "en": "Сброс интервала технического обслуживания"
+       },
+       "words": 347,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chery_arrizo_8_chassis_t001_61596a30",
+       "title": {
+        "ru": "Обогрев рулевого колеса (для некоторых вариантов исполнения",
+        "en": "Обогрев рулевого колеса (для некоторых вариантов исполнения"
+       },
+       "words": 372,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chery_arrizo_8_chassis_t002_b2e07d98",
+       "title": {
+        "ru": "Headlight height adjustment (Регулировка",
+        "en": "Headlight height adjustment (Регулировка"
+       },
+       "words": 447,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chery_arrizo_8_chassis_t003_d85d8ebb",
+       "title": {
+        "ru": "Пуск и выключение двигателя в обычных обстоятельствах",
+        "en": "Пуск и выключение двигателя в обычных обстоятельствах"
+       },
+       "words": 545,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chery_arrizo_8_chassis_t004_3f595479",
+       "title": {
+        "ru": "Внесение изменений в конструкцию автомобиля и утилизация",
+        "en": "Внесение изменений в конструкцию автомобиля и утилизация"
+       },
+       "words": 743,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chery_arrizo_8_chassis_t005_ab50afc7",
+       "title": {
+        "ru": "Если колесо получило повреждение при движении автомобиля",
+        "en": "Если колесо получило повреждение при движении автомобиля"
+       },
+       "words": 793,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chery_arrizo_8_chassis_t006_8bfdcefc",
+       "title": {
+        "ru": "Многорычажная нерегулируемая по высоте",
+        "en": "Многорычажная нерегулируемая по высоте"
+       },
+       "words": 60,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "chery_arrizo_8_general_t000_9f743729",
+       "title": {
+        "ru": "Желаем вам приятного вождения!",
+        "en": "Желаем вам приятного вождения!"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t001_833cb20c",
+       "title": {
+        "ru": "Ремни безопасности......63",
+        "en": "Ремни безопасности......63"
+       },
+       "words": 222,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t002_14298185",
+       "title": {
+        "ru": "Задний разъем USB ..... 135",
+        "en": "Задний разъем USB ..... 135"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t003_8613904d",
+       "title": {
+        "ru": "Система «стоп-старт»",
+        "en": "Система «стоп-старт»"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t004_1389d1bd",
+       "title": {
+        "ru": "Система помощи при",
+        "en": "Система помощи при"
+       },
+       "words": 242,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t005_4bba86dc",
+       "title": {
+        "ru": "Алфавитный указатель.......3",
+        "en": "Алфавитный указатель.......3"
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t006_6540816a",
+       "title": {
+        "ru": "Руководства перед выполнением дальнейших действий.",
+        "en": "Руководства перед выполнением дальнейших действий."
+       },
+       "words": 438,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t007_0f5cbda4",
+       "title": {
+        "ru": "Владельцу передали Руководство по эксплуатации автомобиля и",
+        "en": "Владельцу передали Руководство по эксплуатации автомобиля и"
+       },
+       "words": 380,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t008_8a7373ac",
+       "title": {
+        "ru": "Chery, осуществляющего продажу и техническое обслуживание.",
+        "en": "Chery, осуществляющего продажу и техническое обслуживание."
+       },
+       "words": 344,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t009_b4353b25",
+       "title": {
+        "ru": "Идентификационный номер автомобиля",
+        "en": "Идентификационный номер автомобиля"
+       },
+       "words": 466,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t010_c8e44a7b",
+       "title": {
+        "ru": "Внутреннее зеркало",
+        "en": "Внутреннее зеркало"
+       },
+       "words": 352,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t011_0033c12b",
+       "title": {
+        "ru": "Ремни безопасности........63",
+        "en": "Ремни безопасности........63"
+       },
+       "words": 398,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t012_d2c9f53e",
+       "title": {
+        "ru": "При включении левых или правых указателей",
+        "en": "При включении левых или правых указателей"
+       },
+       "words": 419,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t013_a0ed0864",
+       "title": {
+        "ru": "Мигание этого индикатора предупреждает водителя",
+        "en": "Мигание этого индикатора предупреждает водителя"
+       },
+       "words": 313,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t014_b5673138",
+       "title": {
+        "ru": "Мигание этого индикатора предупреждает водителя",
+        "en": "Мигание этого индикатора предупреждает водителя"
+       },
+       "words": 363,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t015_db5dfb7a",
+       "title": {
+        "ru": "При первой же возможности обратитесь на",
+        "en": "При первой же возможности обратитесь на"
+       },
+       "words": 347,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t016_9dd05e59",
+       "title": {
+        "ru": "Кнопки функции сохранения в памяти положения сиденья",
+        "en": "Кнопки функции сохранения в памяти положения сиденья"
+       },
+       "words": 553,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t017_5cf855ca",
+       "title": {
+        "ru": "Шаг 2. Поднимите рычаг очистителя",
+        "en": "Шаг 2. Поднимите рычаг очистителя"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t018_0e7f108b",
+       "title": {
+        "ru": "Функция поиска автомобиля с помощью пульта дистанционного",
+        "en": "Функция поиска автомобиля с помощью пульта дистанционного"
+       },
+       "words": 526,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t019_2baf1b71",
+       "title": {
+        "ru": "Отстегивание ремня безопасности:",
+        "en": "Отстегивание ремня безопасности:"
+       },
+       "words": 441,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t020_68e2b993",
+       "title": {
+        "ru": "ISOFIX и сертификации детского удерживающего устройства.",
+        "en": "ISOFIX и сертификации детского удерживающего устройства."
+       },
+       "words": 583,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t021_5e6a5432",
+       "title": {
+        "ru": "Детское удерживающее устройство для перевозки",
+        "en": "Детское удерживающее устройство для перевозки"
+       },
+       "words": 363,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t022_56af050e",
+       "title": {
+        "ru": "Co., Ltd не несет ответственности за возможные последствия.",
+        "en": "Co., Ltd не несет ответственности за возможные последствия."
+       },
+       "words": 236,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t023_17cabd9d",
+       "title": {
+        "ru": "Функция охлаждения/",
+        "en": "Функция охлаждения/"
+       },
+       "words": 403,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t024_8909f140",
+       "title": {
+        "ru": "Замена элемента питания пульта дистанционного управления",
+        "en": "Замена элемента питания пульта дистанционного управления"
+       },
+       "words": 427,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t025_b7af4893",
+       "title": {
+        "ru": "Выключение режима охраны противоугонной системы",
+        "en": "Выключение режима охраны противоугонной системы"
+       },
+       "words": 465,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t026_63883c79",
+       "title": {
+        "ru": "Функция поиска автомобиля с помощью пульта дистанционного",
+        "en": "Функция поиска автомобиля с помощью пульта дистанционного"
+       },
+       "words": 511,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t027_0e15e2a4",
+       "title": {
+        "ru": "Функция защиты от защемления",
+        "en": "Функция защиты от защемления"
+       },
+       "words": 592,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t028_ea05c247",
+       "title": {
+        "ru": "Функция защиты от защемления крышкой люка",
+        "en": "Функция защиты от защемления крышкой люка"
+       },
+       "words": 653,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t029_b60122d3",
+       "title": {
+        "ru": "Управление с помощью головного устройства аудиосистемы",
+        "en": "Управление с помощью головного устройства аудиосистемы"
+       },
+       "words": 386,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t030_7e713fdc",
+       "title": {
+        "ru": "Автоматическое складывание наружных зеркал: ВКЛ/ВЫКЛ.",
+        "en": "Автоматическое складывание наружных зеркал: ВКЛ/ВЫКЛ."
+       },
+       "words": 373,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t031_e4f4b7de",
+       "title": {
+        "ru": "Кнопка отключения звука аудиосистемы «",
+        "en": "Кнопка отключения звука аудиосистемы «"
+       },
+       "words": 447,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t032_f04adc92",
+       "title": {
+        "ru": "Кнопка двухзонного режима",
+        "en": "Кнопка двухзонного режима"
+       },
+       "words": 304,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t033_36ec7238",
+       "title": {
+        "ru": "Шаг 1. Скорость вращения вентилятора: максимальная.",
+        "en": "Шаг 1. Скорость вращения вентилятора: максимальная."
+       },
+       "words": 528,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t034_efc1144d",
+       "title": {
+        "ru": "Подключение и включение",
+        "en": "Подключение и включение"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t035_a6d557d2",
+       "title": {
+        "ru": "Удалить). Удаленные файлы восстановлению не подлежат.",
+        "en": "Удалить). Удаленные файлы восстановлению не подлежат."
+       },
+       "words": 450,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t036_d2cf19ab",
+       "title": {
+        "ru": "Отсек в центральной консоли",
+        "en": "Отсек в центральной консоли"
+       },
+       "words": 328,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t037_a9c42de9",
+       "title": {
+        "ru": "Лючок заливной горловины топливного бака с электроприводом",
+        "en": "Лючок заливной горловины топливного бака с электроприводом"
+       },
+       "words": 461,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t038_27e67a1d",
+       "title": {
+        "ru": "Индикатор сажевого фильтра бензинового двигателя (GPF) (для",
+        "en": "Индикатор сажевого фильтра бензинового двигателя (GPF) (для"
+       },
+       "words": 436,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t039_8ee8a68d",
+       "title": {
+        "ru": "4. Пуск двигателя и управление автомобилем",
+        "en": "4. Пуск двигателя и управление автомобилем"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t040_3c38a1d6",
+       "title": {
+        "ru": "Местоположение подушек безопасности в автомобиле",
+        "en": "Местоположение подушек безопасности в автомобиле"
+       },
+       "words": 460,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t041_39db699b",
+       "title": {
+        "ru": "Меры предосторожности, связанные с подушками безопасности",
+        "en": "Меры предосторожности, связанные с подушками безопасности"
+       },
+       "words": 472,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t042_8e0ffb19",
+       "title": {
+        "ru": "Индикатор системы Idling Stop",
+        "en": "Индикатор системы Idling Stop"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t043_b7756ca7",
+       "title": {
+        "ru": "Кнопки управления адаптивной системой круиз-контроля (ACC)",
+        "en": "Кнопки управления адаптивной системой круиз-контроля (ACC)"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t044_e5d8d724",
+       "title": {
+        "ru": "Система предупреждения о смене полосы движения (LDW) (для",
+        "en": "Система предупреждения о смене полосы движения (LDW) (для"
+       },
+       "words": 490,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t045_d79d7bb8",
+       "title": {
+        "ru": "Когда система отключена, серый сигнализатор «",
+        "en": "Когда система отключена, серый сигнализатор «"
+       },
+       "words": 388,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t046_834b96cf",
+       "title": {
+        "ru": "Индикатор системы контроля «мертвых» зон (BSD)",
+        "en": "Индикатор системы контроля «мертвых» зон (BSD)"
+       },
+       "words": 444,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t047_77ea703e",
+       "title": {
+        "ru": "Функциональные ограничения",
+        "en": "Функциональные ограничения"
+       },
+       "words": 538,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t048_0e1b2c67",
+       "title": {
+        "ru": "Chery для проверки и ремонта автомобиля.",
+        "en": "Chery для проверки и ремонта автомобиля."
+       },
+       "words": 747,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t049_3aff491f",
+       "title": {
+        "ru": "Работоспособность",
+        "en": "Работоспособность"
+       },
+       "words": 734,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t050_3d64d8d7",
+       "title": {
+        "ru": "Способ 1. Для включения монитора",
+        "en": "Способ 1. Для включения монитора"
+       },
+       "words": 624,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t051_aa2fb43f",
+       "title": {
+        "ru": "Во время работы системы желтый сигнализатор «",
+        "en": "Во время работы системы желтый сигнализатор «"
+       },
+       "words": 581,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t052_f504b6c4",
+       "title": {
+        "ru": "Противобуксовочная система (TCS)",
+        "en": "Противобуксовочная система (TCS)"
+       },
+       "words": 292,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t053_7d1fa70e",
+       "title": {
+        "ru": "Выключатель аварийной световой сигнализации",
+        "en": "Выключатель аварийной световой сигнализации"
+       },
+       "words": 477,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t054_51dcdaf6",
+       "title": {
+        "ru": "6. В СЛУЧАЕ НЕИСПРАВНОСТИ",
+        "en": "6. В СЛУЧАЕ НЕИСПРАВНОСТИ"
+       },
+       "words": 529,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t055_cb96ff9d",
+       "title": {
+        "ru": "Это повысит эффективность заполнения шины герметиком.",
+        "en": "Это повысит эффективность заполнения шины герметиком."
+       },
+       "words": 347,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t056_4321ac1b",
+       "title": {
+        "ru": "Перегрев охлаждающей жидкости двигателя",
+        "en": "Перегрев охлаждающей жидкости двигателя"
+       },
+       "words": 432,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t057_766d7c0d",
+       "title": {
+        "ru": "Шаг 3. Снимите декоративную накладку",
+        "en": "Шаг 3. Снимите декоративную накладку"
+       },
+       "words": 474,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t058_a08675e8",
+       "title": {
+        "ru": "Информация, предоставляемая при обращении в компанию Chery",
+        "en": "Информация, предоставляемая при обращении в компанию Chery"
+       },
+       "words": 444,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t059_e551fd71",
+       "title": {
+        "ru": "Мойте радиатор только при выключенном и остывшем двигателе.",
+        "en": "Мойте радиатор только при выключенном и остывшем двигателе."
+       },
+       "words": 560,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t060_351c3415",
+       "title": {
+        "ru": "Проверка щеток стеклоочистителей",
+        "en": "Проверка щеток стеклоочистителей"
+       },
+       "words": 766,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t061_2448cfbd",
+       "title": {
+        "ru": "Руководстве, а не заменять ее водой.",
+        "en": "Руководстве, а не заменять ее водой."
+       },
+       "words": 421,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t062_0e8e22a3",
+       "title": {
+        "ru": "Горные дороги, затяжные подъемы и спуски.",
+        "en": "Горные дороги, затяжные подъемы и спуски."
+       },
+       "words": 388,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t063_bbb6628e",
+       "title": {
+        "ru": "8. ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ",
+        "en": "8. ТЕХНИЧЕСКИЕ ХАРАКТЕРИСТИКИ"
+       },
+       "words": 281,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t064_6b00bfb7",
+       "title": {
+        "ru": "Неэтилированный бензин с октановым числом не",
+        "en": "Неэтилированный бензин с октановым числом не"
+       },
+       "words": 328,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t065_cf75e62e",
+       "title": {
+        "ru": "Повторители указателей",
+        "en": "Повторители указателей"
+       },
+       "words": 371,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t066_4b103913",
+       "title": {
+        "ru": "Индикаторы и сигнализаторы ......... 32",
+        "en": "Индикаторы и сигнализаторы ......... 32"
+       },
+       "words": 227,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t067_0df5dfa5",
+       "title": {
+        "ru": "Система распознавания знаков",
+        "en": "Система распознавания знаков"
+       },
+       "words": 230,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_arrizo_8_general_t068_06bfe600",
+       "title": {
+        "ru": "Функция охлаждения/обогрева",
+        "en": "Функция охлаждения/обогрева"
+       },
+       "words": 43,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chery_arrizo_8_infotainment_t000_c60d33af",
+       "title": {
+        "ru": "Display current radio mode, music information and other",
+        "en": "Display current radio mode, music information and other"
+       },
+       "words": 75,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chery_arrizo_8_sensors_t000_a7ce0546",
+       "title": {
+        "ru": "Контроль скорости при прохождении поворотов",
+        "en": "Контроль скорости при прохождении поворотов"
+       },
+       "words": 986,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "chery_arrizo_8_sensors_t001_d115db2c",
+       "title": {
+        "ru": "Система сигнализации при парковке (для некоторых вариантов",
+        "en": "Система сигнализации при парковке (для некоторых вариантов"
+       },
+       "words": 576,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

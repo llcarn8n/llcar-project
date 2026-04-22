@@ -1,0 +1,855 @@
+{
+ "version": "1.0",
+ "model": "leaf",
+ "manuals": [
+  {
+   "model": "leaf",
+   "label": {
+    "ru": "Nissan Leaf — Руководство по ремонту",
+    "en": "Nissan Leaf — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "nissan_leaf_engine_t000_fb192242",
+       "title": {
+        "ru": "8 Обслуживание и самообслуживание",
+        "en": "8 Обслуживание и самообслуживание"
+       },
+       "words": 1297,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_leaf_engine_t001_0cd63ec8",
+       "title": {
+        "ru": "9 Техническая и потребительская",
+        "en": "9 Техническая и потребительская"
+       },
+       "words": 264,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "nissan_leaf_brakes_t000_eeb76f66",
+       "title": {
+        "ru": "ДВИЖЕНИЕ ТРАНСПОРТНОГО СРЕДСТВА",
+        "en": "ДВИЖЕНИЕ ТРАНСПОРТНОГО СРЕДСТВА"
+       },
+       "words": 1715,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_leaf_brakes_t001_ddac7a5c",
+       "title": {
+        "ru": "ИНДИКАТОР СВЕТА PARK @) Электрический индикатор стояночного тормоза",
+        "en": "ИНДИКАТОР СВЕТА PARK @) Электрический индикатор стояночного тормоза"
+       },
+       "words": 747,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_leaf_brakes_t002_d86b1c63",
+       "title": {
+        "ru": "\\*: Нажмите,я пока педаль тормоза нажата. ЭКСПЛУАТАЦИЯ ПИТАНИЯ",
+        "en": "\\*: Нажмите,я пока педаль тормоза нажата. ЭКСПЛУАТАЦИЯ ПИТАНИЯ"
+       },
+       "words": 479,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_leaf_brakes_t003_50ad41fa",
+       "title": {
+        "ru": "Селектор илия матричный жидкокристаллический дисплей",
+        "en": "Селектор илия матричный жидкокристаллический дисплей"
+       },
+       "words": 691,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_leaf_brakes_t004_eecd6717",
+       "title": {
+        "ru": "Регенеративная тормозная система",
+        "en": "Регенеративная тормозная система"
+       },
+       "words": 1074,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_leaf_brakes_t005_3b73b786",
+       "title": {
+        "ru": "СИСТЕМА ДИНАМИЧЕСКОГО КОНТРОЛЯ АВТОМОБИЛЯ (VDC)",
+        "en": "СИСТЕМА ДИНАМИЧЕСКОГО КОНТРОЛЯ АВТОМОБИЛЯ (VDC)"
+       },
+       "words": 1035,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_leaf_brakes_t006_c188e7f3",
+       "title": {
+        "ru": "BRAKE PAD WEAR WARNING",
+        "en": "BRAKE PAD WEAR WARNING"
+       },
+       "words": 750,
+       "images": 1,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "nissan_leaf_suspension_t000_816620f0",
+       "title": {
+        "ru": "ПЕРЕДНИЕ МЕСТА Регулировка переднего сиденья вручную вперед и назад:",
+        "en": "ПЕРЕДНИЕ МЕСТА Регулировка переднего сиденья вручную вперед и назад:"
+       },
+       "words": 712,
+       "images": 2,
+       "section_id": "suspension"
+      },
+      {
+       "id": "nissan_leaf_suspension_t001_ca24d0e2",
+       "title": {
+        "ru": "ДЕТСКАЯ БЕЗОПАСНОСТЬ ЗАДНЯЯ ЗАДНЯЯ ЧАСТЬ ДВЕРИ",
+        "en": "ДЕТСКАЯ БЕЗОПАСНОСТЬ ЗАДНЯЯ ЗАДНЯЯ ЧАСТЬ ДВЕРИ"
+       },
+       "words": 385,
+       "images": 2,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "nissan_leaf_electrical_t000_a0a11d3e",
+       "title": {
+        "ru": "Электрическая система контроля системы управления",
+        "en": "Электрическая система контроля системы управления"
+       },
+       "words": 2171,
+       "images": 10,
+       "section_id": "electrical"
+      },
+      {
+       "id": "nissan_leaf_electrical_t001_acd4b5b9",
+       "title": {
+        "ru": "БЛОКИРОВКА ПЕРЕКЛЮЧАТЕЛЯ МОЩноСТИ (нормальное положение парковки)",
+        "en": "БЛОКИРОВКА ПЕРЕКЛЮЧАТЕЛЯ МОЩноСТИ (нормальное положение парковки)"
+       },
+       "words": 498,
+       "images": 4,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "nissan_leaf_hvac_t000_d60a80b7",
+       "title": {
+        "ru": "4. Климат Ctrl. Подтверждение установки таймера",
+        "en": "4. Климат Ctrl. Подтверждение установки таймера"
+       },
+       "words": 1101,
+       "images": 7,
+       "section_id": "hvac"
+      },
+      {
+       "id": "nissan_leaf_hvac_t001_b7f5b712",
+       "title": {
+        "ru": "Как установитья таймер климат-контроля",
+        "en": "Как установитья таймер климат-контроля"
+       },
+       "words": 1218,
+       "images": 4,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "nissan_leaf_body_t000_21041ab0",
+       "title": {
+        "ru": "Главный выключатель стеклоподъемника (со стороны водителя)",
+        "en": "Главный выключатель стеклоподъемника (со стороны водителя)"
+       },
+       "words": 537,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_leaf_body_t001_a6d8e95b",
+       "title": {
+        "ru": "Автоматический антибликовый тип",
+        "en": "Автоматический антибликовый тип"
+       },
+       "words": 1124,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_leaf_body_t002_3f564e7c",
+       "title": {
+        "ru": "Вытаскивайтея застрявшее транспортноея средство используя прицепной крюк для бук",
+        "en": "Вытаскивайтея застрявшее транспортноея средство используя прицепной крюк для бук"
+       },
+       "words": 495,
+       "images": 2,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_leaf_body_t003_62f4b03d",
+       "title": {
+        "ru": "Функция подъема стеклоочистителя:",
+        "en": "Функция подъема стеклоочистителя:"
+       },
+       "words": 1227,
+       "images": 4,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_leaf_body_t004_b2fb31d4",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 56,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "nissan_leaf_steering_t000_799b75d7",
+       "title": {
+        "ru": "Контрольная лампа PS усилителя руля",
+        "en": "Контрольная лампа PS усилителя руля"
+       },
+       "words": 1677,
+       "images": 1,
+       "section_id": "steering"
+      },
+      {
+       "id": "nissan_leaf_steering_t001_5a3e645e",
+       "title": {
+        "ru": "Качание застрявшегоя автомобиля",
+        "en": "Качание застрявшегоя автомобиля"
+       },
+       "words": 855,
+       "images": 5,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "nissan_leaf_lighting_t000_2118aead",
+       "title": {
+        "ru": "Световая сигнализация низкого уровня тормозной жидкости:",
+        "en": "Световая сигнализация низкого уровня тормозной жидкости:"
+       },
+       "words": 727,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_leaf_lighting_t001_e29a810c",
+       "title": {
+        "ru": "Лампа динамического контроля автомобиля (VDC)",
+        "en": "Лампа динамического контроля автомобиля (VDC)"
+       },
+       "words": 560,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_leaf_lighting_t002_f7aa7b50",
+       "title": {
+        "ru": "Система Аutolight (eсли она оборудована)",
+        "en": "Система Аutolight (eсли она оборудована)"
+       },
+       "words": 830,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_leaf_lighting_t003_c1cc66da",
+       "title": {
+        "ru": "СИСТЕМА МОНИТОРИНГА ДАВЛЕНИЯ ШИНЫ (TPMS)",
+        "en": "СИСТЕМА МОНИТОРИНГА ДАВЛЕНИЯ ШИНЫ (TPMS)"
+       },
+       "words": 611,
+       "images": 4,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "nissan_leaf_interior_t000_13f447ea",
+       "title": {
+        "ru": "1 Детски сиденья, ремни безопасности и дополнительная удерживающая система",
+        "en": "1 Детски сиденья, ремни безопасности и дополнительная удерживающая система"
+       },
+       "words": 1079,
+       "images": 13,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_leaf_interior_t001_6c60573e",
+       "title": {
+        "ru": "Установка детского удерживающего устройства LАТСН на нижние анкерные крепления",
+        "en": "Установка детского удерживающего устройства LАТСН на нижние анкерные крепления"
+       },
+       "words": 690,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_leaf_interior_t002_4e6453cb",
+       "title": {
+        "ru": "Передняя сторона (сиденье переднего пассажира) - шаг 1",
+        "en": "Передняя сторона (сиденье переднего пассажира) - шаг 1"
+       },
+       "words": 957,
+       "images": 8,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_leaf_interior_t003_b4724c86",
+       "title": {
+        "ru": "Индикатор состояния подушки безопасности переднего пассажира",
+        "en": "Индикатор состояния подушки безопасности переднего пассажира"
+       },
+       "words": 1999,
+       "images": 9,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_leaf_interior_t004_1c4bba4c",
+       "title": {
+        "ru": "Дополнительная сигнальная іа подушки безопасности",
+        "en": "Дополнительная сигнальная іа подушки безопасности"
+       },
+       "words": 1012,
+       "images": 2,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_leaf_interior_t005_da22aec9",
+       "title": {
+        "ru": "4 Вентиляторы и системы климат-контроля",
+        "en": "4 Вентиляторы и системы климат-контроля"
+       },
+       "words": 590,
+       "images": 3,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "nissan_leaf_ev_t000_7af2a18f",
+       "title": {
+        "ru": "Quick charge at your destination!\\*2 (if so equipped)",
+        "en": "Quick charge at your destination!\\*2 (if so equipped)"
+       },
+       "words": 1517,
+       "images": 5,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_leaf_ev_t001_a624538e",
+       "title": {
+        "ru": "Режим ограничения мощности",
+        "en": "Режим ограничения мощности"
+       },
+       "words": 2502,
+       "images": 9,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_leaf_ev_t002_623123e3",
+       "title": {
+        "ru": "Немедленная оплата",
+        "en": "Немедленная оплата"
+       },
+       "words": 1942,
+       "images": 5,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_leaf_ev_t003_12322888",
+       "title": {
+        "ru": "Когда все индикаторы горят",
+        "en": "Когда все индикаторы горят"
+       },
+       "words": 962,
+       "images": 11,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_leaf_ev_t004_d3ba5804",
+       "title": {
+        "ru": "22. Предупреждение преобразователя постоянного / постоянного тока",
+        "en": "22. Предупреждение преобразователя постоянного / постоянного тока"
+       },
+       "words": 358,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_leaf_ev_t005_f06760ad",
+       "title": {
+        "ru": "EMERGENCY EV (электрический автомобиль) ВЫКЛюЧЕНО",
+        "en": "EMERGENCY EV (электрический автомобиль) ВЫКЛюЧЕНО"
+       },
+       "words": 726,
+       "images": 3,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_leaf_ev_t006_c7c6ba92",
+       "title": {
+        "ru": "6 В случае возникновения чрезвычайной ситуации",
+        "en": "6 В случае возникновения чрезвычайной ситуации"
+       },
+       "words": 1041,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_leaf_ev_t007_e72848db",
+       "title": {
+        "ru": "МОДУЛЬ СОЛНЕЧНЫХ БАТАРЕЙ (если",
+        "en": "МОДУЛЬ СОЛНЕЧНЫХ БАТАРЕЙ (если"
+       },
+       "words": 846,
+       "images": 3,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "nissan_leaf_chassis_t000_1223c774",
+       "title": {
+        "ru": "Для большинства условий движения автомобиль должен управляться с помощю антипроб",
+        "en": "Для большинства условий движения автомобиль должен управляться с помощю антипроб"
+       },
+       "words": 1537,
+       "images": 1,
+       "section_id": "chassis"
+      },
+      {
+       "id": "nissan_leaf_chassis_t001_8f752dda",
+       "title": {
+        "ru": "Не применяйте очистители колес",
+        "en": "Не применяйте очистители колес"
+       },
+       "words": 911,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "nissan_leaf_chassis_t002_3bb95b41",
+       "title": {
+        "ru": "ИДЕНТИФИКАЦИОННЫЙ НОМЕР АВТОМОБИЛЯ (номер шасси)",
+        "en": "ИДЕНТИФИКАЦИОННЫЙ НОМЕР АВТОМОБИЛЯ (номер шасси)"
+       },
+       "words": 805,
+       "images": 3,
+       "section_id": "chassis"
+      },
+      {
+       "id": "nissan_leaf_chassis_t003_cf467cdf",
+       "title": {
+        "ru": "Treadwear 200 Traction AA Tемпеpатура A износа протектора",
+        "en": "Treadwear 200 Traction AA Tемпеpатура A износа протектора"
+       },
+       "words": 762,
+       "images": 1,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "nissan_leaf_general_t000_7eb567f3",
+       "title": {
+        "ru": "LEAF A day in the life of LEAF",
+        "en": "LEAF A day in the life of LEAF"
+       },
+       "words": 1330,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t001_f67eb639",
+       "title": {
+        "ru": "Готовность к заряду по таймеру",
+        "en": "Готовность к заряду по таймеру"
+       },
+       "words": 1182,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t002_2516a3ca",
+       "title": {
+        "ru": "Регулировка",
+        "en": "Регулировка"
+       },
+       "words": 754,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t003_1896de55",
+       "title": {
+        "ru": "Регулировка высоты плечевого ремня (для передних сидений)",
+        "en": "Регулировка высоты плечевого ремня (для передних сидений)"
+       },
+       "words": 826,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t004_a636cccc",
+       "title": {
+        "ru": "УСТАНОВКА ОТКРЫТИЯ ДЕТСКОГО ОБОРОТА С ИСПОЛЬЗОВАНИЕМ LATCH",
+        "en": "УСТАНОВКА ОТКРЫТИЯ ДЕТСКОГО ОБОРОТА С ИСПОЛЬЗОВАНИЕМ LATCH"
+       },
+       "words": 983,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t005_6da72bd0",
+       "title": {
+        "ru": "Odometer/двойной odometer",
+        "en": "Odometer/двойной odometer"
+       },
+       "words": 930,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t006_c429742d",
+       "title": {
+        "ru": "4. Работа системы EV для сброса индикатора системы Intelligent Key",
+        "en": "4. Работа системы EV для сброса индикатора системы Intelligent Key"
+       },
+       "words": 745,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t007_df3d1741",
+       "title": {
+        "ru": "Как включить систему безопасности автомобиля",
+        "en": "Как включить систему безопасности автомобиля"
+       },
+       "words": 813,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t008_22e7b7af",
+       "title": {
+        "ru": "ПЕРЕКЛЮЧАТЕЛЬ ОКОННЫХ ЩЕТОК И МОЙКИ",
+        "en": "ПЕРЕКЛЮЧАТЕЛЬ ОКОННЫХ ЩЕТОК И МОЙКИ"
+       },
+       "words": 793,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t009_344ffb9a",
+       "title": {
+        "ru": "Запирание окон пассажиров",
+        "en": "Запирание окон пассажиров"
+       },
+       "words": 763,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t010_755a6e95",
+       "title": {
+        "ru": "ОЧИСТКА ПРОГРАММИРОВАННОЙ ИНФОРМАЦИИ",
+        "en": "ОЧИСТКА ПРОГРАММИРОВАННОЙ ИНФОРМАЦИИ"
+       },
+       "words": 712,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t011_f83d7d54",
+       "title": {
+        "ru": "ДВЕРНЫЕ ЗАМКИ / БЕЗОПАСНОЕ МЕРЫ ПРЕДОСТОРОЖНОСТИ",
+        "en": "ДВЕРНЫЕ ЗАМКИ / БЕЗОПАСНОЕ МЕРЫ ПРЕДОСТОРОЖНОСТИ"
+       },
+       "words": 1089,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t012_f17d0645",
+       "title": {
+        "ru": "Контролья температурыо",
+        "en": "Контролья температурыо"
+       },
+       "words": 735,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t013_fb49d404",
+       "title": {
+        "ru": "МЕРЫ ПРЕДОСТОРОЖНОСТИ ПРИ УПРАВЛЕНИИ КРУИЗОМ",
+        "en": "МЕРЫ ПРЕДОСТОРОЖНОСТИ ПРИ УПРАВЛЕНИИ КРУИЗОМ"
+       },
+       "words": 1063,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t014_28d1cda6",
+       "title": {
+        "ru": "Always attach safety chains before towing.",
+        "en": "Always attach safety chains before towing."
+       },
+       "words": 737,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t015_31d8cea2",
+       "title": {
+        "ru": "ХРОМИРОВАННЫЕ ЧАСТИ",
+        "en": "ХРОМИРОВАННЫЕ ЧАСТИ"
+       },
+       "words": 645,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t016_3a217c61",
+       "title": {
+        "ru": "Помощь по позиционированию напольного коврикая (только для водителя)",
+        "en": "Помощь по позиционированию напольного коврикая (только для водителя)"
+       },
+       "words": 695,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t017_f0445ba9",
+       "title": {
+        "ru": "Для Канады",
+        "en": "Для Канады"
+       },
+       "words": 1062,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t018_9fc45073",
+       "title": {
+        "ru": "СИСТЕМА КОНДИЦИОНИРОВАНИЯ ВОЗДУХАХОЛОДИЛЬНИК И СМАЗКА РЕКОМЕНДАЦИИ",
+        "en": "СИСТЕМА КОНДИЦИОНИРОВАНИЯ ВОЗДУХАХОЛОДИЛЬНИК И СМАЗКА РЕКОМЕНДАЦИИ"
+       },
+       "words": 775,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t019_ad4def41",
+       "title": {
+        "ru": "ОБЕСПЕЧЕНИЕ ЗАГРУЗКИ",
+        "en": "ОБЕСПЕЧЕНИЕ ЗАГРУЗКИ"
+       },
+       "words": 2101,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_leaf_general_t020_d359b11c",
+       "title": {
+        "ru": "In the USA:",
+        "en": "In the USA:"
+       },
+       "words": 281,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_leaf_infotainment_t000_04895314",
+       "title": {
+        "ru": "Мгновенная экономия энергии:",
+        "en": "Мгновенная экономия энергии:"
+       },
+       "words": 761,
+       "images": 6,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_leaf_infotainment_t001_6423567f",
+       "title": {
+        "ru": "Warning",
+        "en": "Warning"
+       },
+       "words": 230,
+       "images": 2,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_leaf_drivetrain_t000_fe41ea45",
+       "title": {
+        "ru": "4. Расстояние вождения и прошедшее время. Расстояние вождения:",
+        "en": "4. Расстояние вождения и прошедшее время. Расстояние вождения:"
+       },
+       "words": 780,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_leaf_sensors_t000_0368c6ec",
+       "title": {
+        "ru": "ПРОГРАММИРОВАНИЕ тomeLink@ ДЛЯ КАНАДСКИХ КЛИЕНТОВ",
+        "en": "ПРОГРАММИРОВАНИЕ тomeLink@ ДЛЯ КАНАДСКИХ КЛИЕНТОВ"
+       },
+       "words": 918,
+       "images": 2,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1045 @@
+{
+ "version": "1.0",
+ "model": "picanto",
+ "manuals": [
+  {
+   "model": "picanto",
+   "label": {
+    "ru": "Kia Picanto — Руководство по ремонту",
+    "en": "Kia Picanto — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "kia_picanto_engine_t000_f8626bfd",
+       "title": {
+        "ru": "Use of MTBE",
+        "en": "Use of MTBE"
+       },
+       "words": 1373,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t001_0dffe20c",
+       "title": {
+        "ru": "Change the ENGINE START/STOP but-",
+        "en": "Change the ENGINE START/STOP but-"
+       },
+       "words": 1965,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t002_970f9f01",
+       "title": {
+        "ru": "DO NOT SMOKE or leave a lit ciga-",
+        "en": "DO NOT SMOKE or leave a lit ciga-"
+       },
+       "words": 1277,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t003_44e5a764",
+       "title": {
+        "ru": "AUTO STOP Timer",
+        "en": "AUTO STOP Timer"
+       },
+       "words": 1368,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t004_7e1c2f81",
+       "title": {
+        "ru": "ENGINE START/STOP button. In this",
+        "en": "ENGINE START/STOP button. In this"
+       },
+       "words": 1220,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t005_eb211d05",
+       "title": {
+        "ru": "ENGINE START/STOP button to the",
+        "en": "ENGINE START/STOP button to the"
+       },
+       "words": 1141,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t006_2d31b739",
+       "title": {
+        "ru": "ENGINE START/STOP button to the",
+        "en": "ENGINE START/STOP button to the"
+       },
+       "words": 2024,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t007_f2d38a29",
+       "title": {
+        "ru": "ENGINE START/STOP button with the",
+        "en": "ENGINE START/STOP button with the"
+       },
+       "words": 876,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t008_cd4a19ff",
+       "title": {
+        "ru": "ENGINE START/STOP button in [ON]",
+        "en": "ENGINE START/STOP button in [ON]"
+       },
+       "words": 1140,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t009_30e15da1",
+       "title": {
+        "ru": "STOP button in the START or ON posi-",
+        "en": "STOP button in the START or ON posi-"
+       },
+       "words": 1697,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t010_d0abd2c2",
+       "title": {
+        "ru": "9. With the ENGINE START/STOP button",
+        "en": "9. With the ENGINE START/STOP button"
+       },
+       "words": 1293,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t011_f0cb48a7",
+       "title": {
+        "ru": "MAINTENANCE ITEM",
+        "en": "MAINTENANCE ITEM"
+       },
+       "words": 4278,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t012_e27a6d22",
+       "title": {
+        "ru": "MPI/1.0 FFV/1.2 MPI, smart-",
+        "en": "MPI/1.0 FFV/1.2 MPI, smart-"
+       },
+       "words": 1688,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t013_5f09afa9",
+       "title": {
+        "ru": "DOT-4 LV, ISO4925 CLASS-6,FMVSS116",
+        "en": "DOT-4 LV, ISO4925 CLASS-6,FMVSS116"
+       },
+       "words": 1334,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t014_48af18b9",
+       "title": {
+        "ru": "SAE 70W, API GL-4, HK SYN MTF",
+        "en": "SAE 70W, API GL-4, HK SYN MTF"
+       },
+       "words": 1774,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_picanto_engine_t015_77f7cd50",
+       "title": {
+        "ru": "Kia Genuine ATF SP-III",
+        "en": "Kia Genuine ATF SP-III"
+       },
+       "words": 584,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "kia_picanto_brakes_t000_64d28db4",
+       "title": {
+        "ru": "START/STOP button ON regardless of",
+        "en": "START/STOP button ON regardless of"
+       },
+       "words": 1220,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_picanto_brakes_t001_857c187a",
+       "title": {
+        "ru": "OJAPE063034R",
+        "en": "OJAPE063034R"
+       },
+       "words": 1639,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_picanto_brakes_t002_e17863bd",
+       "title": {
+        "ru": "OJAPE043011R",
+        "en": "OJAPE043011R"
+       },
+       "words": 1399,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_picanto_brakes_t003_d5c7cfbb",
+       "title": {
+        "ru": "ESC OFF usage",
+        "en": "ESC OFF usage"
+       },
+       "words": 2023,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_picanto_brakes_t004_dd933566",
+       "title": {
+        "ru": "2. TPMS SET button",
+        "en": "2. TPMS SET button"
+       },
+       "words": 1572,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_picanto_brakes_t005_291c90f6",
+       "title": {
+        "ru": "Operator of the system ERA-GLONASS",
+        "en": "Operator of the system ERA-GLONASS"
+       },
+       "words": 1367,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_picanto_brakes_t006_73e1fc74",
+       "title": {
+        "ru": "OJAPE073014R",
+        "en": "OJAPE073014R"
+       },
+       "words": 1275,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "kia_picanto_suspension_t000_68e37d2a",
+       "title": {
+        "ru": "OJAPE023030R",
+        "en": "OJAPE023030R"
+       },
+       "words": 1572,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_picanto_suspension_t001_49d335c4",
+       "title": {
+        "ru": "In addition, if the ENGINE START/STOP",
+        "en": "In addition, if the ENGINE START/STOP"
+       },
+       "words": 1012,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_picanto_suspension_t002_4d16be76",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1784,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_picanto_suspension_t003_7351673d",
+       "title": {
+        "ru": "On/Off",
+        "en": "On/Off"
+       },
+       "words": 1681,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_picanto_suspension_t004_cfc62e64",
+       "title": {
+        "ru": "OJAPE073060L",
+        "en": "OJAPE073060L"
+       },
+       "words": 1434,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_picanto_suspension_t005_68afaefa",
+       "title": {
+        "ru": "For example: DOT XXXX XXXX 1623 rep-",
+        "en": "For example: DOT XXXX XXXX 1623 rep-"
+       },
+       "words": 1128,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_picanto_suspension_t006_3c142755",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 754,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "kia_picanto_transmission_t000_97f3bf0c",
+       "title": {
+        "ru": "4. Press the ENGINE START/STOP but-",
+        "en": "4. Press the ENGINE START/STOP but-"
+       },
+       "words": 1045,
+       "images": 0,
+       "section_id": "transmission"
+      },
+      {
+       "id": "kia_picanto_transmission_t001_cb20bed6",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 1562,
+       "images": 0,
+       "section_id": "transmission"
+      },
+      {
+       "id": "kia_picanto_transmission_t002_aa2d0c7b",
+       "title": {
+        "ru": "SAE 0W-20, API Latest (ILSAC Lat-",
+        "en": "SAE 0W-20, API Latest (ILSAC Lat-"
+       },
+       "words": 780,
+       "images": 0,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "kia_picanto_hvac_t000_6eb54a26",
+       "title": {
+        "ru": "OJAPE033300R",
+        "en": "OJAPE033300R"
+       },
+       "words": 1586,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_picanto_hvac_t001_47e8ad36",
+       "title": {
+        "ru": "OFF mode",
+        "en": "OFF mode"
+       },
+       "words": 1957,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_picanto_hvac_t002_acfa17e3",
+       "title": {
+        "ru": "10A (With AMT)",
+        "en": "10A (With AMT)"
+       },
+       "words": 889,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "kia_picanto_body_t000_7f29df7d",
+       "title": {
+        "ru": "OJAPE013001R",
+        "en": "OJAPE013001R"
+       },
+       "words": 1197,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_picanto_body_t001_cf05d593",
+       "title": {
+        "ru": "WARNING",
+        "en": "WARNING"
+       },
+       "words": 736,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_picanto_body_t002_501d1017",
+       "title": {
+        "ru": "LATIN Market)",
+        "en": "LATIN Market)"
+       },
+       "words": 1286,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_picanto_body_t003_0cf53013",
+       "title": {
+        "ru": "Citi SPS",
+        "en": "Citi SPS"
+       },
+       "words": 1265,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_picanto_body_t004_09b720da",
+       "title": {
+        "ru": "OJAPE033166L",
+        "en": "OJAPE033166L"
+       },
+       "words": 1145,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_picanto_body_t005_d629a202",
+       "title": {
+        "ru": "OJAPE033022R",
+        "en": "OJAPE033022R"
+       },
+       "words": 889,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_picanto_body_t006_c4d91cb5",
+       "title": {
+        "ru": "AUTO STOP indicator (",
+        "en": "AUTO STOP indicator ("
+       },
+       "words": 1818,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "kia_picanto_lighting_t000_ed1c69a6",
+       "title": {
+        "ru": "ENGINE START/STOP button to the",
+        "en": "ENGINE START/STOP button to the"
+       },
+       "words": 997,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_picanto_lighting_t001_2af3a7ef",
+       "title": {
+        "ru": "OJAPE033408R",
+        "en": "OJAPE033408R"
+       },
+       "words": 1539,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_picanto_lighting_t002_1e290127",
+       "title": {
+        "ru": "START/STOP button is turned ON. The",
+        "en": "START/STOP button is turned ON. The"
+       },
+       "words": 1453,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_picanto_lighting_t003_9ec651b4",
+       "title": {
+        "ru": "ERA-GLONASS system",
+        "en": "ERA-GLONASS system"
+       },
+       "words": 1715,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_picanto_lighting_t004_f0950063",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 2283,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "kia_picanto_adas_t000_56d276e8",
+       "title": {
+        "ru": "17.TPMS SET switch",
+        "en": "17.TPMS SET switch"
+       },
+       "words": 1343,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t001_dddf2c4b",
+       "title": {
+        "ru": "OJAPE063051R",
+        "en": "OJAPE063051R"
+       },
+       "words": 1210,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t002_5e1af45f",
+       "title": {
+        "ru": "OJAPE073067R",
+        "en": "OJAPE073067R"
+       },
+       "words": 2072,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t003_335de6eb",
+       "title": {
+        "ru": "OJAPE063051L",
+        "en": "OJAPE063051L"
+       },
+       "words": 1238,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t004_0e200669",
+       "title": {
+        "ru": "OJAPE073068L",
+        "en": "OJAPE073068L"
+       },
+       "words": 1870,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t005_bce0696e",
+       "title": {
+        "ru": "OJAPE063048R",
+        "en": "OJAPE063048R"
+       },
+       "words": 1957,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t006_cf5464d2",
+       "title": {
+        "ru": "OJAPE063048L",
+        "en": "OJAPE063048L"
+       },
+       "words": 1304,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t007_8432810f",
+       "title": {
+        "ru": "OJAPE073082R",
+        "en": "OJAPE073082R"
+       },
+       "words": 1478,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t008_609991a3",
+       "title": {
+        "ru": "OJAPE073083L",
+        "en": "OJAPE073083L"
+       },
+       "words": 1174,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t009_ed7c7aeb",
+       "title": {
+        "ru": "OJAPE053138R",
+        "en": "OJAPE053138R"
+       },
+       "words": 1452,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t010_f7d4717f",
+       "title": {
+        "ru": "OJAPE073089L",
+        "en": "OJAPE073089L"
+       },
+       "words": 1030,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t011_12b45d6e",
+       "title": {
+        "ru": "OJAPE073078L",
+        "en": "OJAPE073078L"
+       },
+       "words": 1315,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t012_ece6c1a2",
+       "title": {
+        "ru": "OJAPE073068L",
+        "en": "OJAPE073068L"
+       },
+       "words": 1361,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t013_9b6f3329",
+       "title": {
+        "ru": "The system ERA-GLONASS given condi-",
+        "en": "The system ERA-GLONASS given condi-"
+       },
+       "words": 1102,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_picanto_adas_t014_ea1112e7",
+       "title": {
+        "ru": "ENGINE START/STOP button",
+        "en": "ENGINE START/STOP button"
+       },
+       "words": 599,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "kia_picanto_interior_t000_e8b1a1d0",
+       "title": {
+        "ru": "USB port",
+        "en": "USB port"
+       },
+       "words": 1907,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "kia_picanto_chassis_t000_02ee33f5",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 806,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "kia_picanto_general_t000_7691507c",
+       "title": {
+        "ru": "OJAPE043026L",
+        "en": "OJAPE043026L"
+       },
+       "words": 890,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_picanto_general_t001_f62c742b",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 735,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_picanto_general_t002_6a8a5230",
+       "title": {
+        "ru": "OJAPE083009L",
+        "en": "OJAPE083009L"
+       },
+       "words": 1111,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_picanto_general_t003_74263be7",
+       "title": {
+        "ru": "SAE 0W-20, API Latest (ILSAC Lat-",
+        "en": "SAE 0W-20, API Latest (ILSAC Lat-"
+       },
+       "words": 750,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_picanto_safety_t000_928140e4",
+       "title": {
+        "ru": "You will find various WARNINGs, CAU-",
+        "en": "You will find various WARNINGs, CAU-"
+       },
+       "words": 1738,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_picanto_safety_t001_1fc4fef1",
+       "title": {
+        "ru": "ISOFIX mounted with",
+        "en": "ISOFIX mounted with"
+       },
+       "words": 1697,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_picanto_safety_t002_8568a0ae",
+       "title": {
+        "ru": "OJAPE023057L",
+        "en": "OJAPE023057L"
+       },
+       "words": 1930,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "ev_battery",
+     "title": {
+      "ru": "ev_battery",
+      "en": "ev_battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_picanto_ev_battery_t000_aad537f0",
+       "title": {
+        "ru": "OJAPE023009R",
+        "en": "OJAPE023009R"
+       },
+       "words": 1087,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t001_daeda794",
+       "title": {
+        "ru": "Type B",
+        "en": "Type B"
+       },
+       "words": 1339,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t002_4328ecfc",
+       "title": {
+        "ru": "ISOFIX Anchor",
+        "en": "ISOFIX Anchor"
+       },
+       "words": 1935,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t003_a2c1b499",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1344,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t004_c157b379",
+       "title": {
+        "ru": "OJAPE033099R",
+        "en": "OJAPE033099R"
+       },
+       "words": 1160,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t005_a41de9e6",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 954,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t006_8d039358",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 1190,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t007_348f1d70",
+       "title": {
+        "ru": "Type A",
+        "en": "Type A"
+       },
+       "words": 1430,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t008_90557bf7",
+       "title": {
+        "ru": "OJAPE033054R",
+        "en": "OJAPE033054R"
+       },
+       "words": 987,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t009_8238452b",
+       "title": {
+        "ru": "Press the ENGINE START/STOP button",
+        "en": "Press the ENGINE START/STOP button"
+       },
+       "words": 970,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t010_c73feb48",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1011,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t011_feb36170",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1279,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t012_cc05534a",
+       "title": {
+        "ru": "The ERA-GLONASS device automatically",
+        "en": "The ERA-GLONASS device automatically"
+       },
+       "words": 1463,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t013_7436e5b7",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 1410,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t014_01d27042",
+       "title": {
+        "ru": "For example: TREADWEAR 200 TRAC-",
+        "en": "For example: TREADWEAR 200 TRAC-"
+       },
+       "words": 1632,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_picanto_ev_battery_t015_532c3c41",
+       "title": {
+        "ru": "OFF mode",
+        "en": "OFF mode"
+       },
+       "words": 928,
+       "images": 0,
+       "section_id": "ev_battery"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_picanto_infotainment_t000_b2567a81",
+       "title": {
+        "ru": "15A (With AMT)",
+        "en": "15A (With AMT)"
+       },
+       "words": 504,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

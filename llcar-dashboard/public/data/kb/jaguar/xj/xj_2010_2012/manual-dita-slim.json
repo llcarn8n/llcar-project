@@ -1,0 +1,3745 @@
+{
+ "version": "1.0",
+ "model": "jaguar_xj",
+ "manuals": [
+  {
+   "model": "jaguar_xj",
+   "label": {
+    "ru": "Jaguar XJ — Руководство по ремонту",
+    "en": "Jaguar XJ — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_engine_t000_43aa684c",
+       "title": {
+        "ru": "Steering Column Multifunction Switch LH",
+        "en": "Steering Column Multifunction Switch LH"
+       },
+       "words": 788,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t001_46e4504c",
+       "title": {
+        "ru": "Check control module sensor supply output voltage Measured",
+        "en": "Check control module sensor supply output voltage Measured"
+       },
+       "words": 806,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t002_cf353ae0",
+       "title": {
+        "ru": "Check and remove any obstruction in windshield distribution",
+        "en": "Check and remove any obstruction in windshield distribution"
+       },
+       "words": 936,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t003_47f5811a",
+       "title": {
+        "ru": "Check and remove any obstruction in left front temperature",
+        "en": "Check and remove any obstruction in left front temperature"
+       },
+       "words": 1210,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t004_b51603d5",
+       "title": {
+        "ru": "Refer to the electrical circuit diagrams and test",
+        "en": "Refer to the electrical circuit diagrams and test"
+       },
+       "words": 2304,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t007_9454e06d",
+       "title": {
+        "ru": "Check the restraints control module for DTCs",
+        "en": "Check the restraints control module for DTCs"
+       },
+       "words": 972,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t008_af1e3bcc",
+       "title": {
+        "ru": "Temperature Voltage (0x03EE). This DTC is",
+        "en": "Temperature Voltage (0x03EE). This DTC is"
+       },
+       "words": 1196,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t009_67d3c81a",
+       "title": {
+        "ru": "Temperature (0xF40F). This DTC is set when",
+        "en": "Temperature (0xF40F). This DTC is set when"
+       },
+       "words": 1289,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t010_896a2e7f",
+       "title": {
+        "ru": "Refer to the electrical circuit diagrams and",
+        "en": "Refer to the electrical circuit diagrams and"
+       },
+       "words": 2264,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t013_eea0fc2d",
+       "title": {
+        "ru": "Clear DTC, repeatedly lock and unlock car using the key",
+        "en": "Clear DTC, repeatedly lock and unlock car using the key"
+       },
+       "words": 1095,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t014_2cec594d",
+       "title": {
+        "ru": "Always connect the jump leads in the following sequence",
+        "en": "Always connect the jump leads in the following sequence"
+       },
+       "words": 1455,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t015_885d7e4f",
+       "title": {
+        "ru": "Contained combustible materials, e.g. boiling or steaming out of fuel tanks",
+        "en": "Contained combustible materials, e.g. boiling or steaming out of fuel tanks"
+       },
+       "words": 1642,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t016_591fe6da",
+       "title": {
+        "ru": "Know the Probability of Certain Conditions Developing",
+        "en": "Know the Probability of Certain Conditions Developing"
+       },
+       "words": 2246,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t017_a781fda3",
+       "title": {
+        "ru": "Make sure there are no heavy objects in the vehicle",
+        "en": "Make sure there are no heavy objects in the vehicle"
+       },
+       "words": 1728,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t018_48e94833",
+       "title": {
+        "ru": "Does the brake pedal feel firm on final application?",
+        "en": "Does the brake pedal feel firm on final application?"
+       },
+       "words": 1390,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t019_70ed2cae",
+       "title": {
+        "ru": "Brake System - General Information, General Procedures)",
+        "en": "Brake System - General Information, General Procedures)"
+       },
+       "words": 1585,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t020_8e5192e1",
+       "title": {
+        "ru": "Apply a vacuum to the power steering fluid reservoir",
+        "en": "Apply a vacuum to the power steering fluid reservoir"
+       },
+       "words": 1043,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t021_6db595a8",
+       "title": {
+        "ru": "Media Orientated System Transport (MOST) ring",
+        "en": "Media Orientated System Transport (MOST) ring"
+       },
+       "words": 3897,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t022_054d0bf8",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 837,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t023_7f349c7e",
+       "title": {
+        "ru": "CAUTION: Machine the minimum thickness of material from the",
+        "en": "CAUTION: Machine the minimum thickness of material from the"
+       },
+       "words": 910,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t024_70496179",
+       "title": {
+        "ru": "Accessory drive belt idler pulley bracket retaining",
+        "en": "Accessory drive belt idler pulley bracket retaining"
+       },
+       "words": 1571,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t025_1f366c4f",
+       "title": {
+        "ru": "Valve stem seals are integrated into the spring seats",
+        "en": "Valve stem seals are integrated into the spring seats"
+       },
+       "words": 1703,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t026_1248b78f",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 1181,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t027_0b725b29",
+       "title": {
+        "ru": "Clean any residual engine oil from the oil filler cap area",
+        "en": "Clean any residual engine oil from the oil filler cap area"
+       },
+       "words": 878,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t028_9a11a503",
+       "title": {
+        "ru": "Refer to: Camshaft (303-01A, Removal and Installation)",
+        "en": "Refer to: Camshaft (303-01A, Removal and Installation)"
+       },
+       "words": 749,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t029_36ad0f66",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 764,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t030_ff1086e7",
+       "title": {
+        "ru": "Engine Cooling - TDV6 3.0L Diesel, General Procedures)",
+        "en": "Engine Cooling - TDV6 3.0L Diesel, General Procedures)"
+       },
+       "words": 886,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t031_34b6587c",
+       "title": {
+        "ru": "Jaguar Premium Cooling System Fluid",
+        "en": "Jaguar Premium Cooling System Fluid"
+       },
+       "words": 1666,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t032_48266200",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 941,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t034_604fd583",
+       "title": {
+        "ru": "CAUTION: Only tighten the bolts finger tight at this",
+        "en": "CAUTION: Only tighten the bolts finger tight at this"
+       },
+       "words": 1377,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t035_c41a94ab",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 1086,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t036_a40cd9a9",
+       "title": {
+        "ru": "There are three phases of glow plug heating",
+        "en": "There are three phases of glow plug heating"
+       },
+       "words": 1711,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t037_4e9d9bbc",
+       "title": {
+        "ru": "System Operation and Component Description",
+        "en": "System Operation and Component Description"
+       },
+       "words": 1596,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t038_052a6b64",
+       "title": {
+        "ru": "Engine Emission Control (Description and Operation)",
+        "en": "Engine Emission Control (Description and Operation)"
+       },
+       "words": 1357,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t039_4640bcee",
+       "title": {
+        "ru": "The intake air distribution and filtering system comprises",
+        "en": "The intake air distribution and filtering system comprises"
+       },
+       "words": 1539,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t040_1fe1abfb",
+       "title": {
+        "ru": "Mass Air Flow (MAF) and Inlet Air Temperature (IAT) Sensors",
+        "en": "Mass Air Flow (MAF) and Inlet Air Temperature (IAT) Sensors"
+       },
+       "words": 2203,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t041_544718a9",
+       "title": {
+        "ru": "Overfilling with oil could result in severe engine damage",
+        "en": "Overfilling with oil could result in severe engine damage"
+       },
+       "words": 2422,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t042_73037399",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 1283,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t043_c018a53c",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 785,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t044_ad2cd88e",
+       "title": {
+        "ru": "NOTE: Refer to 'Shift Elements' illustration for key",
+        "en": "NOTE: Refer to 'Shift Elements' illustration for key"
+       },
+       "words": 2183,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t045_09f81247",
+       "title": {
+        "ru": "Refer to: Transmission - TDV6 3.0L Diesel (307-01 Automatic",
+        "en": "Refer to: Transmission - TDV6 3.0L Diesel (307-01 Automatic"
+       },
+       "words": 2107,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t046_d2408d65",
+       "title": {
+        "ru": "Remove the special tool supporting the engine",
+        "en": "Remove the special tool supporting the engine"
+       },
+       "words": 1049,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t047_83bf288a",
+       "title": {
+        "ru": "Handling Optimization (204-06, Description and Operation)",
+        "en": "Handling Optimization (204-06, Description and Operation)"
+       },
+       "words": 2211,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t048_b573445d",
+       "title": {
+        "ru": "Gas Oxygen sensor heater control (heater ground) circuit",
+        "en": "Gas Oxygen sensor heater control (heater ground) circuit"
+       },
+       "words": 1821,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t049_ea67be73",
+       "title": {
+        "ru": "Particulate filter outlet temperature sensor fails a cold",
+        "en": "Particulate filter outlet temperature sensor fails a cold"
+       },
+       "words": 1996,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t050_d9340b71",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 2235,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t051_199b472e",
+       "title": {
+        "ru": "Ensure the speed control sensor is free from obstructions",
+        "en": "Ensure the speed control sensor is free from obstructions"
+       },
+       "words": 1241,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t052_f8d88976",
+       "title": {
+        "ru": "Petrol vehicles (2013 my onwards), and 3.0l diesel vehicles",
+        "en": "Petrol vehicles (2013 my onwards), and 3.0l diesel vehicles"
+       },
+       "words": 2031,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t053_4790c9cc",
+       "title": {
+        "ru": "Jaguar or Land Rover diagnostic system should be utilized",
+        "en": "Jaguar or Land Rover diagnostic system should be utilized"
+       },
+       "words": 2760,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t054_0a2303a2",
+       "title": {
+        "ru": "NOTE: This step is only necessary when installing a new",
+        "en": "NOTE: This step is only necessary when installing a new"
+       },
+       "words": 1141,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t055_2397a405",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 2447,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t056_9348ef8f",
+       "title": {
+        "ru": "Secondary bulkhead left-hand panel retaining bolts",
+        "en": "Secondary bulkhead left-hand panel retaining bolts"
+       },
+       "words": 1944,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t057_95eb3da9",
+       "title": {
+        "ru": "Operation of the power fold feature is achieved using the exterior mirror swi",
+        "en": "Operation of the power fold feature is achieved using the exterior mirror swi"
+       },
+       "words": 2705,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t058_b84f5e2d",
+       "title": {
+        "ru": "Standard Workshop Practices section of workshop manual",
+        "en": "Standard Workshop Practices section of workshop manual"
+       },
+       "words": 1694,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t059_b8bb24d4",
+       "title": {
+        "ru": "If the door window glass does not fully close automatically",
+        "en": "If the door window glass does not fully close automatically"
+       },
+       "words": 897,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t060_52ba72c6",
+       "title": {
+        "ru": "NOTE: A = Hardwired; N = Medium Speed CAN; O = LIN Bus",
+        "en": "NOTE: A = Hardwired; N = Medium Speed CAN; O = LIN Bus"
+       },
+       "words": 1629,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t061_1da5584f",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 1565,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t062_0b5814ab",
+       "title": {
+        "ru": "Interior Trim and Ornamentation, Removal and Installation)",
+        "en": "Interior Trim and Ornamentation, Removal and Installation)"
+       },
+       "words": 1447,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "jaguar_jaguar_xj_engine_t063_52590cf9",
+       "title": {
+        "ru": "Cooling - TDV6 3.0L Diesel, Removal and Installation) /",
+        "en": "Cooling - TDV6 3.0L Diesel, Removal and Installation) /"
+       },
+       "words": 843,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_brakes_t000_96f9403c",
+       "title": {
+        "ru": "Outer Constant Velocity (CV) Joint Boot (47.10.32)",
+        "en": "Outer Constant Velocity (CV) Joint Boot (47.10.32)"
+       },
+       "words": 776,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t001_2189be9a",
+       "title": {
+        "ru": "Check and install a new parking brake switch as",
+        "en": "Check and install a new parking brake switch as"
+       },
+       "words": 1012,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t002_30999870",
+       "title": {
+        "ru": "Clear the DTC and retest. Verify the customer concern",
+        "en": "Clear the DTC and retest. Verify the customer concern"
+       },
+       "words": 789,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t003_0f62ff21",
+       "title": {
+        "ru": "Using the manufacturer approved diagnostic",
+        "en": "Using the manufacturer approved diagnostic"
+       },
+       "words": 919,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t004_bec9af1a",
+       "title": {
+        "ru": "Do not transfer chemical materials to unlabeled containers",
+        "en": "Do not transfer chemical materials to unlabeled containers"
+       },
+       "words": 1988,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t005_62dfa092",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 1206,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t006_360b99e4",
+       "title": {
+        "ru": "Shock absorber and spring assembly to lower arm retaining",
+        "en": "Shock absorber and spring assembly to lower arm retaining"
+       },
+       "words": 1195,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t007_8fa7f4b5",
+       "title": {
+        "ru": "Front left wheel speed quality factor - ABS module",
+        "en": "Front left wheel speed quality factor - ABS module"
+       },
+       "words": 933,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t008_f66c5e57",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 1069,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t009_71475751",
+       "title": {
+        "ru": "Does the brake pedal move down when the engine is started?",
+        "en": "Does the brake pedal move down when the engine is started?"
+       },
+       "words": 936,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t010_658e5946",
+       "title": {
+        "ru": "Brakes (206-03 Front Disc Brake, Removal and Installation)",
+        "en": "Brakes (206-03 Front Disc Brake, Removal and Installation)"
+       },
+       "words": 973,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t011_9ed1028a",
+       "title": {
+        "ru": "NOTE: To prevent the loss of brake fluid, using the",
+        "en": "NOTE: To prevent the loss of brake fluid, using the"
+       },
+       "words": 856,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t012_f486eeaf",
+       "title": {
+        "ru": "Repeat the above procedure on the opposite side",
+        "en": "Repeat the above procedure on the opposite side"
+       },
+       "words": 1173,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t013_834c068c",
+       "title": {
+        "ru": "WARNING: Always use Jaguar approved diagnostic equipment to",
+        "en": "WARNING: Always use Jaguar approved diagnostic equipment to"
+       },
+       "words": 1069,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t014_2f717dfb",
+       "title": {
+        "ru": "CAUTION: If brake fluid is spilt on the paintwork, the",
+        "en": "CAUTION: If brake fluid is spilt on the paintwork, the"
+       },
+       "words": 1007,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t015_4d60eab7",
+       "title": {
+        "ru": "Brake vacuum pump retaining nut - vehicles with 3.0L Diesel",
+        "en": "Brake vacuum pump retaining nut - vehicles with 3.0L Diesel"
+       },
+       "words": 1571,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t016_9bba07d1",
+       "title": {
+        "ru": "NOTE: Some variation in the illustrations may occur",
+        "en": "NOTE: Some variation in the illustrations may occur"
+       },
+       "words": 1911,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t017_11d1e346",
+       "title": {
+        "ru": "The main casing contains the following major components",
+        "en": "The main casing contains the following major components"
+       },
+       "words": 1925,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t018_5c092030",
+       "title": {
+        "ru": "Principle of Operation - Advanced Emergency Brake Assist",
+        "en": "Principle of Operation - Advanced Emergency Brake Assist"
+       },
+       "words": 2618,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t019_81a99e49",
+       "title": {
+        "ru": "Check for engine throttle position sensor DTCs and refer to",
+        "en": "Check for engine throttle position sensor DTCs and refer to"
+       },
+       "words": 1242,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t020_764ba114",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 1980,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t021_6a45d64c",
+       "title": {
+        "ru": "Apply a 5mm zig zag bead of 3M 8115 adhesive to all joints",
+        "en": "Apply a 5mm zig zag bead of 3M 8115 adhesive to all joints"
+       },
+       "words": 1536,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "jaguar_jaguar_xj_brakes_t022_c09450c5",
+       "title": {
+        "ru": "MIG plug weld the upper backing plate to the vehicle as",
+        "en": "MIG plug weld the upper backing plate to the vehicle as"
+       },
+       "words": 1195,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_hvac_t000_b7b14ce0",
+       "title": {
+        "ru": "Check and install a new right rear heated seat module as",
+        "en": "Check and install a new right rear heated seat module as"
+       },
+       "words": 1370,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jaguar_jaguar_xj_hvac_t001_0d856eef",
+       "title": {
+        "ru": "Check and install a new recirculation motor as required",
+        "en": "Check and install a new recirculation motor as required"
+       },
+       "words": 1278,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jaguar_jaguar_xj_hvac_t002_1647ab40",
+       "title": {
+        "ru": "Climate Control Module as required. Refer to the warranty",
+        "en": "Climate Control Module as required. Refer to the warranty"
+       },
+       "words": 953,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jaguar_jaguar_xj_hvac_t003_93b6c708",
+       "title": {
+        "ru": "Suspect sensor internal fault if DTC resets. Heater circuit",
+        "en": "Suspect sensor internal fault if DTC resets. Heater circuit"
+       },
+       "words": 1240,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jaguar_jaguar_xj_hvac_t004_2a8c7ea8",
+       "title": {
+        "ru": "Check air conditioning (A/C) system for correct operation",
+        "en": "Check air conditioning (A/C) system for correct operation"
+       },
+       "words": 1194,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jaguar_jaguar_xj_hvac_t005_eceed6e2",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 985,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jaguar_jaguar_xj_hvac_t006_9b53e2b7",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 970,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "jaguar_jaguar_xj_hvac_t007_8dcc4956",
+       "title": {
+        "ru": "Floor console retaining screws",
+        "en": "Floor console retaining screws"
+       },
+       "words": 74,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_body_t000_4e864ec1",
+       "title": {
+        "ru": "Check for short circuits between any of the 3 terminals and",
+        "en": "Check for short circuits between any of the 3 terminals and"
+       },
+       "words": 899,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t002_a74cc44c",
+       "title": {
+        "ru": "Refer to the electrical circuit diagrams and check the",
+        "en": "Refer to the electrical circuit diagrams and check the"
+       },
+       "words": 899,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t003_a29e23c9",
+       "title": {
+        "ru": "CAN network integrity test. Refer to the electrical circuit",
+        "en": "CAN network integrity test. Refer to the electrical circuit"
+       },
+       "words": 1131,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t004_3aae32dc",
+       "title": {
+        "ru": "Turn the steering wheel to the 90° right position",
+        "en": "Turn the steering wheel to the 90° right position"
+       },
+       "words": 1433,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t005_b8637307",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 1568,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t009_27185c92",
+       "title": {
+        "ru": "Front roof console interior lamp - 'JaguarSense'",
+        "en": "Front roof console interior lamp - 'JaguarSense'"
+       },
+       "words": 1464,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t010_26bde537",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 893,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t011_1236ef1e",
+       "title": {
+        "ru": "NOTE: Make sure that all the clips are correctly installed",
+        "en": "NOTE: Make sure that all the clips are correctly installed"
+       },
+       "words": 1339,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t012_5b32dc7d",
+       "title": {
+        "ru": "Is the door window glass correctly installed and secure?",
+        "en": "Is the door window glass correctly installed and secure?"
+       },
+       "words": 847,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t013_00afa5c7",
+       "title": {
+        "ru": "Make sure that the mating faces are clean and free of",
+        "en": "Make sure that the mating faces are clean and free of"
+       },
+       "words": 1699,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t014_1e87e57d",
+       "title": {
+        "ru": "A2: check the exterior door handle release connection to the door latch",
+        "en": "A2: check the exterior door handle release connection to the door latch"
+       },
+       "words": 832,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t015_3b6ef3b1",
+       "title": {
+        "ru": "INTINOP in the technician comments section of the warranty",
+        "en": "INTINOP in the technician comments section of the warranty"
+       },
+       "words": 916,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t016_1fa7493d",
+       "title": {
+        "ru": "WK30L blade, cutting with the flat side against the body",
+        "en": "WK30L blade, cutting with the flat side against the body"
+       },
+       "words": 1345,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t017_d978d85f",
+       "title": {
+        "ru": "Establish all of the metal parts that need to be renewed",
+        "en": "Establish all of the metal parts that need to be renewed"
+       },
+       "words": 1253,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t018_6d54fe36",
+       "title": {
+        "ru": "Roof opening panel - sliding central glass panel",
+        "en": "Roof opening panel - sliding central glass panel"
+       },
+       "words": 1710,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t019_acbc8081",
+       "title": {
+        "ru": "Offer up the front fender and the front door. Check",
+        "en": "Offer up the front fender and the front door. Check"
+       },
+       "words": 1023,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t020_b634a31a",
+       "title": {
+        "ru": "The roof panel is serviced as a separate riveted and bonded",
+        "en": "The roof panel is serviced as a separate riveted and bonded"
+       },
+       "words": 1280,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t021_8471ce74",
+       "title": {
+        "ru": "The A-pillar reinforcement is replaced in conjunction with",
+        "en": "The A-pillar reinforcement is replaced in conjunction with"
+       },
+       "words": 1203,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t022_c37c2cb5",
+       "title": {
+        "ru": "Using the ESN50, install the self piercing rivets into the",
+        "en": "Using the ESN50, install the self piercing rivets into the"
+       },
+       "words": 1114,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "jaguar_jaguar_xj_body_t023_04465407",
+       "title": {
+        "ru": "The spare wheel well is replaced in conjunction with",
+        "en": "The spare wheel well is replaced in conjunction with"
+       },
+       "words": 530,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_lighting_t000_136a8166",
+       "title": {
+        "ru": "Pale Blue - Special tool(s) and general equipment",
+        "en": "Pale Blue - Special tool(s) and general equipment"
+       },
+       "words": 833,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_jaguar_xj_lighting_t001_63c9978a",
+       "title": {
+        "ru": "Refer to the electrical circuit diagrams and check the",
+        "en": "Refer to the electrical circuit diagrams and check the"
+       },
+       "words": 1549,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_jaguar_xj_lighting_t002_7f3e4582",
+       "title": {
+        "ru": "Front and rear side lamps (LED (light emitting diode)'s)",
+        "en": "Front and rear side lamps (LED (light emitting diode)'s)"
+       },
+       "words": 1646,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_jaguar_xj_lighting_t003_08cc3917",
+       "title": {
+        "ru": "NOTE: The tourist lever is not fitted to NAS vehicles",
+        "en": "NOTE: The tourist lever is not fitted to NAS vehicles"
+       },
+       "words": 2710,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_jaguar_xj_lighting_t004_5cc638a5",
+       "title": {
+        "ru": "The camera (image) sensor view is not blocked",
+        "en": "The camera (image) sensor view is not blocked"
+       },
+       "words": 1705,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_jaguar_xj_lighting_t005_2146c286",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 880,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_jaguar_xj_lighting_t007_fda85d8c",
+       "title": {
+        "ru": "Park the vehicle on a horizontally level surface",
+        "en": "Park the vehicle on a horizontally level surface"
+       },
+       "words": 699,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_jaguar_xj_lighting_t008_7f9941ae",
+       "title": {
+        "ru": "Daytime running lamps - denmark, holland, norway, sweden, finland and",
+        "en": "Daytime running lamps - denmark, holland, norway, sweden, finland and"
+       },
+       "words": 872,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_jaguar_xj_lighting_t009_556c73c1",
+       "title": {
+        "ru": "Mark out the position on the front side member service",
+        "en": "Mark out the position on the front side member service"
+       },
+       "words": 1303,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_jaguar_xj_lighting_t010_b995449d",
+       "title": {
+        "ru": "Apply a 5mm zig zag bead of 3M 8115 adhesive to all joints",
+        "en": "Apply a 5mm zig zag bead of 3M 8115 adhesive to all joints"
+       },
+       "words": 1274,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "jaguar_jaguar_xj_lighting_t011_5cda8ba5",
+       "title": {
+        "ru": "Using a 6.5mm Cryobit drill bit, drill through the template",
+        "en": "Using a 6.5mm Cryobit drill bit, drill through the template"
+       },
+       "words": 1300,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_interior_t000_29017605",
+       "title": {
+        "ru": "Climate Control Module as required. Refer to the warranty",
+        "en": "Climate Control Module as required. Refer to the warranty"
+       },
+       "words": 708,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t001_6b9b7d76",
+       "title": {
+        "ru": "Check RH seat cushion thermal electric device + circuit for",
+        "en": "Check RH seat cushion thermal electric device + circuit for"
+       },
+       "words": 2388,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t003_a688d5d6",
+       "title": {
+        "ru": "Junction Box. Carry out On Demand Self Test (ODST) using",
+        "en": "Junction Box. Carry out On Demand Self Test (ODST) using"
+       },
+       "words": 994,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t004_2b81a9aa",
+       "title": {
+        "ru": "Always use new fixings when replacing an SRS component",
+        "en": "Always use new fixings when replacing an SRS component"
+       },
+       "words": 1082,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t005_94cdca6c",
+       "title": {
+        "ru": "NOTE: The tools shown must only be used in the event of an",
+        "en": "NOTE: The tools shown must only be used in the event of an"
+       },
+       "words": 1027,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t006_6e019c47",
+       "title": {
+        "ru": "To install the register, align the securing clips and",
+        "en": "To install the register, align the securing clips and"
+       },
+       "words": 822,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t007_78b673cf",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 976,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t008_aa1cf010",
+       "title": {
+        "ru": "Using a suitable tool, rotate the shaft counter clockwise",
+        "en": "Using a suitable tool, rotate the shaft counter clockwise"
+       },
+       "words": 841,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t009_cd6e3a75",
+       "title": {
+        "ru": "Interior Trim and Ornamentation - Loadspace Trim Panel RH",
+        "en": "Interior Trim and Ornamentation - Loadspace Trim Panel RH"
+       },
+       "words": 963,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t010_18e8dfcc",
+       "title": {
+        "ru": "Climate / Rear Climate / Rear Seats menu of the TSD",
+        "en": "Climate / Rear Climate / Rear Seats menu of the TSD"
+       },
+       "words": 1297,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t011_8542c805",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 880,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t012_a8230df0",
+       "title": {
+        "ru": "Pinpoint test e : front seat height, tilt and/or extension movement noisy",
+        "en": "Pinpoint test e : front seat height, tilt and/or extension movement noisy"
+       },
+       "words": 1132,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t013_80a1967b",
+       "title": {
+        "ru": "B1225-13 Right Seat Back Temperature Sensor - Circuit open",
+        "en": "B1225-13 Right Seat Back Temperature Sensor - Circuit open"
+       },
+       "words": 1575,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t014_9c007b45",
+       "title": {
+        "ru": "Pinpoint test c : climate seats assembly - blower and ducting diagnostics",
+        "en": "Pinpoint test c : climate seats assembly - blower and ducting diagnostics"
+       },
+       "words": 1207,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t015_8304996d",
+       "title": {
+        "ru": "Use hog ring pliers to close the hog rings. Do not use",
+        "en": "Use hog ring pliers to close the hog rings. Do not use"
+       },
+       "words": 1021,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t017_f88512db",
+       "title": {
+        "ru": "NOTE: The procedure must be carried out on both sides",
+        "en": "NOTE: The procedure must be carried out on both sides"
+       },
+       "words": 831,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t019_bff812b4",
+       "title": {
+        "ru": "Verify the customer concern by operating the seatbelt",
+        "en": "Verify the customer concern by operating the seatbelt"
+       },
+       "words": 1205,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t020_432e296d",
+       "title": {
+        "ru": "Pinpoint test h : seatbelt buckle – not latching/jammed",
+        "en": "Pinpoint test h : seatbelt buckle – not latching/jammed"
+       },
+       "words": 1042,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t021_82634c75",
+       "title": {
+        "ru": "Occupant classification system control module (NAS only)",
+        "en": "Occupant classification system control module (NAS only)"
+       },
+       "words": 1869,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "jaguar_jaguar_xj_interior_t022_0d3ed291",
+       "title": {
+        "ru": "Interior Trim and Ornamentation, Removal and Installation)",
+        "en": "Interior Trim and Ornamentation, Removal and Installation)"
+       },
+       "words": 425,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_ev_t000_9cc075a8",
+       "title": {
+        "ru": "Warranty Policy and Procedures manual if a module/component",
+        "en": "Warranty Policy and Procedures manual if a module/component"
+       },
+       "words": 1273,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t001_d1628ddc",
+       "title": {
+        "ru": "If so allow the vehicle to warm soak to verify the DTC was",
+        "en": "If so allow the vehicle to warm soak to verify the DTC was"
+       },
+       "words": 892,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t002_e8cc0c0f",
+       "title": {
+        "ru": "Check and install a new Climate Control Module as required",
+        "en": "Check and install a new Climate Control Module as required"
+       },
+       "words": 744,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t003_27507d6a",
+       "title": {
+        "ru": "Refer to the Warranty Policy and Procedures manual if a",
+        "en": "Refer to the Warranty Policy and Procedures manual if a"
+       },
+       "words": 913,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t004_26b65c66",
+       "title": {
+        "ru": "Integrated Control Panel. Refer to the Warranty Policy and",
+        "en": "Integrated Control Panel. Refer to the Warranty Policy and"
+       },
+       "words": 829,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t005_f1a743ad",
+       "title": {
+        "ru": "CAN network integrity test. Refer to the electrical circuit",
+        "en": "CAN network integrity test. Refer to the electrical circuit"
+       },
+       "words": 1056,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t006_d179026a",
+       "title": {
+        "ru": "Transmission Control Module as required, refer to",
+        "en": "Transmission Control Module as required, refer to"
+       },
+       "words": 791,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t007_da271b22",
+       "title": {
+        "ru": "NOTE: Some variation in the illustrations may occur",
+        "en": "NOTE: Some variation in the illustrations may occur"
+       },
+       "words": 1834,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t008_2ba725cb",
+       "title": {
+        "ru": "Interior Trim and Ornamentation, Removal and Installation)",
+        "en": "Interior Trim and Ornamentation, Removal and Installation)"
+       },
+       "words": 1014,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t009_6925d432",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 845,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t010_4aa0113b",
+       "title": {
+        "ru": "Engine Cooling - TDV6 3.0L Diesel, General Procedures)",
+        "en": "Engine Cooling - TDV6 3.0L Diesel, General Procedures)"
+       },
+       "words": 862,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t011_80b179c2",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 827,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t012_8f42cb10",
+       "title": {
+        "ru": "Failure to follow this instruction may result in damage to",
+        "en": "Failure to follow this instruction may result in damage to"
+       },
+       "words": 1120,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t013_eb8bb7a3",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 874,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t014_2d31a57d",
+       "title": {
+        "ru": "NOTE: On vehicles that are equipped with black or unpainted",
+        "en": "NOTE: On vehicles that are equipped with black or unpainted"
+       },
+       "words": 1699,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t015_905c67a1",
+       "title": {
+        "ru": "Connect the current probe to the digital multmeter",
+        "en": "Connect the current probe to the digital multmeter"
+       },
+       "words": 1639,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t016_139f4ee6",
+       "title": {
+        "ru": "7. Battery Type. Select the correct battery type (Regular or AGM)",
+        "en": "7. Battery Type. Select the correct battery type (Regular or AGM)"
+       },
+       "words": 1604,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t017_bf8f4da2",
+       "title": {
+        "ru": "Raise and secure the luggage compartment floor covering",
+        "en": "Raise and secure the luggage compartment floor covering"
+       },
+       "words": 1477,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t018_253b2596",
+       "title": {
+        "ru": "If no CD changer is fitted, ensure that the optical",
+        "en": "If no CD changer is fitted, ensure that the optical"
+       },
+       "words": 1074,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t019_45d118f3",
+       "title": {
+        "ru": "Hazard lamp switch condition and installation",
+        "en": "Hazard lamp switch condition and installation"
+       },
+       "words": 1461,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t020_bfde90ce",
+       "title": {
+        "ru": "Repairs - Corrosion Protection, Description and Operation)",
+        "en": "Repairs - Corrosion Protection, Description and Operation)"
+       },
+       "words": 1877,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t021_82a0f88a",
+       "title": {
+        "ru": "The rear door is serviced as a separate bolt-on panel",
+        "en": "The rear door is serviced as a separate bolt-on panel"
+       },
+       "words": 2548,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t022_0415f359",
+       "title": {
+        "ru": "Make the air bag supplemental restraint system (SRS) safe",
+        "en": "Make the air bag supplemental restraint system (SRS) safe"
+       },
+       "words": 2568,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t023_449f1767",
+       "title": {
+        "ru": "WARNING: Before proceeding, make sure precautions have been",
+        "en": "WARNING: Before proceeding, make sure precautions have been"
+       },
+       "words": 2812,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t024_d5125442",
+       "title": {
+        "ru": "Make the air bag supplemental restraint system (SRS) safe",
+        "en": "Make the air bag supplemental restraint system (SRS) safe"
+       },
+       "words": 3652,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "jaguar_jaguar_xj_ev_t025_0daa29ac",
+       "title": {
+        "ru": "Panel (501-29 Side Panel Sheet Metal Repairs, Removal and",
+        "en": "Panel (501-29 Side Panel Sheet Metal Repairs, Removal and"
+       },
+       "words": 795,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_chassis_t000_7440855d",
+       "title": {
+        "ru": "Check for short circuits between any of the 3 terminals and",
+        "en": "Check for short circuits between any of the 3 terminals and"
+       },
+       "words": 1429,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t001_825ef0b7",
+       "title": {
+        "ru": "Bus circuit to Anti lock Braking System Control Module for",
+        "en": "Bus circuit to Anti lock Braking System Control Module for"
+       },
+       "words": 1335,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t002_58f55126",
+       "title": {
+        "ru": "If fault persists, complete a CAN network integrity test",
+        "en": "If fault persists, complete a CAN network integrity test"
+       },
+       "words": 1266,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t003_11961e9a",
+       "title": {
+        "ru": "The VIN is also located on the vehicle certification label",
+        "en": "The VIN is also located on the vehicle certification label"
+       },
+       "words": 955,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t004_5f3cd194",
+       "title": {
+        "ru": "Make sure the steering is in the straight ahead position",
+        "en": "Make sure the steering is in the straight ahead position"
+       },
+       "words": 1119,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t005_2be6bb07",
+       "title": {
+        "ru": "Tighten the 14mm bolt to 175 Nm (129 lb.ft)",
+        "en": "Tighten the 14mm bolt to 175 Nm (129 lb.ft)"
+       },
+       "words": 780,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t006_28c921c2",
+       "title": {
+        "ru": "An air spring, controlled by the air suspension system",
+        "en": "An air spring, controlled by the air suspension system"
+       },
+       "words": 1244,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t007_d6cb5cca",
+       "title": {
+        "ru": "Sensor 1 is used by the air suspension system",
+        "en": "Sensor 1 is used by the air suspension system"
+       },
+       "words": 1217,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t008_d5cd0dda",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC index"
+       },
+       "words": 1468,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t009_a6e882d8",
+       "title": {
+        "ru": "Refer to: Loadspace Trim Panel LH (501-05 Interior Trim and",
+        "en": "Refer to: Loadspace Trim Panel LH (501-05 Interior Trim and"
+       },
+       "words": 1047,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t010_e3092988",
+       "title": {
+        "ru": "NOTE: Make sure that the component is installed to",
+        "en": "NOTE: Make sure that the component is installed to"
+       },
+       "words": 1139,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t011_3de15099",
+       "title": {
+        "ru": "NOTE: Inner ball joint wear is rare. The steering",
+        "en": "NOTE: Inner ball joint wear is rare. The steering"
+       },
+       "words": 715,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t012_6f134aac",
+       "title": {
+        "ru": "Power steering fluid delivery pressure or flow",
+        "en": "Power steering fluid delivery pressure or flow"
+       },
+       "words": 688,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t013_fff78e29",
+       "title": {
+        "ru": "REFER to: Specifications (211-00 Steering System",
+        "en": "REFER to: Specifications (211-00 Steering System"
+       },
+       "words": 714,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t014_59da10fa",
+       "title": {
+        "ru": "With the steering at rest (idle pressure or back pressure)",
+        "en": "With the steering at rest (idle pressure or back pressure)"
+       },
+       "words": 1054,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t016_6d699d53",
+       "title": {
+        "ru": "Turn the steering fully lock-to-lock, stop the engine",
+        "en": "Turn the steering fully lock-to-lock, stop the engine"
+       },
+       "words": 1379,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t017_938d23b1",
+       "title": {
+        "ru": "Make sure that the tie rod end is installed with the",
+        "en": "Make sure that the tie rod end is installed with the"
+       },
+       "words": 1029,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t018_e963574d",
+       "title": {
+        "ru": "Entertainment System, Description and Operation)",
+        "en": "Entertainment System, Description and Operation)"
+       },
+       "words": 1349,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t019_cf6a65d1",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 1866,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t020_12c8e25c",
+       "title": {
+        "ru": "The CJB controls the following vehicle functions",
+        "en": "The CJB controls the following vehicle functions"
+       },
+       "words": 2167,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t021_2e1c9b90",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 1111,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t022_7ec474ae",
+       "title": {
+        "ru": "No color - safety belt not fastened",
+        "en": "No color - safety belt not fastened"
+       },
+       "words": 1188,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t023_685cf846",
+       "title": {
+        "ru": "If no visual indications of damage transfer, go to Step 2",
+        "en": "If no visual indications of damage transfer, go to Step 2"
+       },
+       "words": 1102,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "jaguar_jaguar_xj_chassis_t024_5c404585",
+       "title": {
+        "ru": "The spare wheel well is serviced as a separate riveted and",
+        "en": "The spare wheel well is serviced as a separate riveted and"
+       },
+       "words": 411,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_general_t000_f021f0b8",
+       "title": {
+        "ru": "Exhaust Gas Recirculation (EGR) Valve Outlet Tube LH",
+        "en": "Exhaust Gas Recirculation (EGR) Valve Outlet Tube LH"
+       },
+       "words": 593,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t001_e0a15081",
+       "title": {
+        "ru": "Self-locking nut with integrated locking ring",
+        "en": "Self-locking nut with integrated locking ring"
+       },
+       "words": 730,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t002_dfbc2f4d",
+       "title": {
+        "ru": "Warranty Policy and Procedures manual if a module/component",
+        "en": "Warranty Policy and Procedures manual if a module/component"
+       },
+       "words": 1257,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t003_d43c955c",
+       "title": {
+        "ru": "Damper Solenoid circuit for short to ground, power or open",
+        "en": "Damper Solenoid circuit for short to ground, power or open"
+       },
+       "words": 941,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t005_0be4a28d",
+       "title": {
+        "ru": "Install a new module, refer to the warranty policy and",
+        "en": "Install a new module, refer to the warranty policy and"
+       },
+       "words": 1029,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t006_f681215f",
+       "title": {
+        "ru": "General Information, Diagnosis and Testing)",
+        "en": "General Information, Diagnosis and Testing)"
+       },
+       "words": 1264,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t007_0a4843ae",
+       "title": {
+        "ru": "Check and amend the car configuration file as",
+        "en": "Check and amend the car configuration file as"
+       },
+       "words": 1027,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t008_9add3ad0",
+       "title": {
+        "ru": "Refer to electrical circuit diagrams and check the",
+        "en": "Refer to electrical circuit diagrams and check the"
+       },
+       "words": 1136,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t009_ad1015c4",
+       "title": {
+        "ru": "Climate Control Module as required. Refer to the warranty",
+        "en": "Climate Control Module as required. Refer to the warranty"
+       },
+       "words": 1024,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t010_1838b350",
+       "title": {
+        "ru": "NOTE: After updating the car configuration file, set",
+        "en": "NOTE: After updating the car configuration file, set"
+       },
+       "words": 725,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t011_8d2bc8cf",
+       "title": {
+        "ru": "Check both of the circuits for faults. Repair",
+        "en": "Check both of the circuits for faults. Repair"
+       },
+       "words": 778,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t012_8f616080",
+       "title": {
+        "ru": "If no wiring faults are found suspect the fuel",
+        "en": "If no wiring faults are found suspect the fuel"
+       },
+       "words": 772,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t013_043e7a98",
+       "title": {
+        "ru": "If this DTC is logged with P1247-00, suspect",
+        "en": "If this DTC is logged with P1247-00, suspect"
+       },
+       "words": 1049,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t014_95e6f695",
+       "title": {
+        "ru": "DTC and retest. Verify the customer concern prior to",
+        "en": "DTC and retest. Verify the customer concern prior to"
+       },
+       "words": 928,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t015_902a9c3f",
+       "title": {
+        "ru": "If DTC returns suspect integrated audio module internal",
+        "en": "If DTC returns suspect integrated audio module internal"
+       },
+       "words": 1043,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t016_a38ca9b7",
+       "title": {
+        "ru": "Test the mechanism with two or three disks to confirm",
+        "en": "Test the mechanism with two or three disks to confirm"
+       },
+       "words": 948,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t017_f05ed3b3",
+       "title": {
+        "ru": "Check the child entrapment lever is not stuck in the pulled",
+        "en": "Check the child entrapment lever is not stuck in the pulled"
+       },
+       "words": 1142,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t018_fb524b0c",
+       "title": {
+        "ru": "CAN network integrity test. Refer to the electrical circuit",
+        "en": "CAN network integrity test. Refer to the electrical circuit"
+       },
+       "words": 1019,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t019_d3187fda",
+       "title": {
+        "ru": "Refer to the electrical circuit diagrams and check the",
+        "en": "Refer to the electrical circuit diagrams and check the"
+       },
+       "words": 1040,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t020_27d04aa7",
+       "title": {
+        "ru": "RHS antenna as required. Refer to the warranty policy",
+        "en": "RHS antenna as required. Refer to the warranty policy"
+       },
+       "words": 1079,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t021_f8295dcf",
+       "title": {
+        "ru": "Refer to the electrical circuit diagrams and check the door",
+        "en": "Refer to the electrical circuit diagrams and check the door"
+       },
+       "words": 779,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t022_20d3a4ef",
+       "title": {
+        "ru": "Radio antenna as required. Refer to the warranty policy",
+        "en": "Radio antenna as required. Refer to the warranty policy"
+       },
+       "words": 1518,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t023_edf58cea",
+       "title": {
+        "ru": "CAN network integrity test. Refer to the electrical circuit",
+        "en": "CAN network integrity test. Refer to the electrical circuit"
+       },
+       "words": 1078,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t024_cc8dc5b9",
+       "title": {
+        "ru": "Refer to the electrical circuit diagrams and check",
+        "en": "Refer to the electrical circuit diagrams and check"
+       },
+       "words": 918,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t025_08f80e87",
+       "title": {
+        "ru": "Check Transmission Shift Module for related DTCs",
+        "en": "Check Transmission Shift Module for related DTCs"
+       },
+       "words": 1031,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t026_8b51cea8",
+       "title": {
+        "ru": "The diagnosis and testing sections within the manual cover",
+        "en": "The diagnosis and testing sections within the manual cover"
+       },
+       "words": 1204,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t027_b98ee3fd",
+       "title": {
+        "ru": "SI unit of torque. Must not be confused with nm (nanometer)",
+        "en": "SI unit of torque. Must not be confused with nm (nanometer)"
+       },
+       "words": 1134,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t028_6f91fb01",
+       "title": {
+        "ru": "Used also as heating fuel, solvent and cleaning agent",
+        "en": "Used also as heating fuel, solvent and cleaning agent"
+       },
+       "words": 1371,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t029_5ee6c8f1",
+       "title": {
+        "ru": "When repairing an SRS system, only use genuine new parts",
+        "en": "When repairing an SRS system, only use genuine new parts"
+       },
+       "words": 1234,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t030_9ee20486",
+       "title": {
+        "ru": "The specified task requires the specified temperature",
+        "en": "The specified task requires the specified temperature"
+       },
+       "words": 1037,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t031_972016ce",
+       "title": {
+        "ru": "The tow rope must be attached to the front towing eye",
+        "en": "The tow rope must be attached to the front towing eye"
+       },
+       "words": 1008,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t032_3fd3ae9e",
+       "title": {
+        "ru": "Repair as necessary. Repeat Road Test",
+        "en": "Repair as necessary. Repeat Road Test"
+       },
+       "words": 1235,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t033_1d889f88",
+       "title": {
+        "ru": "Wheel Alignment Specification - Rear - India",
+        "en": "Wheel Alignment Specification - Rear - India"
+       },
+       "words": 720,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t034_80e2d3da",
+       "title": {
+        "ru": "To adjust the caster, loosen the front lower arm lock nuts",
+        "en": "To adjust the caster, loosen the front lower arm lock nuts"
+       },
+       "words": 916,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t035_82f7556c",
+       "title": {
+        "ru": "Use an Allen key to prevent the ball joint rotating whilst",
+        "en": "Use an Allen key to prevent the ball joint rotating whilst"
+       },
+       "words": 845,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t036_786ab47f",
+       "title": {
+        "ru": "Make sure the special tool is correctly located and the",
+        "en": "Make sure the special tool is correctly located and the"
+       },
+       "words": 909,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t037_36c4c04b",
+       "title": {
+        "ru": "CAUTION: Install the halfshaft nut finger tight",
+        "en": "CAUTION: Install the halfshaft nut finger tight"
+       },
+       "words": 794,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t038_524739a2",
+       "title": {
+        "ru": "Check, repair or install a new wheel or",
+        "en": "Check, repair or install a new wheel or"
+       },
+       "words": 897,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t039_92f7628c",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 761,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t042_3655c815",
+       "title": {
+        "ru": "Differential fluid capacity - vehicles with supercharger",
+        "en": "Differential fluid capacity - vehicles with supercharger"
+       },
+       "words": 882,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t043_9fbf9d4c",
+       "title": {
+        "ru": "Make sure the correct specification and quanity of oil",
+        "en": "Make sure the correct specification and quanity of oil"
+       },
+       "words": 770,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t044_a0cbba3a",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 787,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t045_3e227f28",
+       "title": {
+        "ru": "Using the screw-driver, tap the central locating tag",
+        "en": "Using the screw-driver, tap the central locating tag"
+       },
+       "words": 835,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t046_203398c9",
+       "title": {
+        "ru": "REFER to: Specifications (211-00 Steering System - General",
+        "en": "REFER to: Specifications (211-00 Steering System - General"
+       },
+       "words": 822,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t047_4a2605e7",
+       "title": {
+        "ru": "Slide the camshaft in both directions. Read and note",
+        "en": "Slide the camshaft in both directions. Read and note"
+       },
+       "words": 1067,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t048_3a03b79c",
+       "title": {
+        "ru": "Apply Loctite 518 sealant, 2 mm wide, to the LH rear and RH",
+        "en": "Apply Loctite 518 sealant, 2 mm wide, to the LH rear and RH"
+       },
+       "words": 838,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t049_fd355fd1",
+       "title": {
+        "ru": "Install all the bolts finger tight before final tightening",
+        "en": "Install all the bolts finger tight before final tightening"
+       },
+       "words": 772,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t050_4abb0206",
+       "title": {
+        "ru": "Turbocharger - TDV6 3.0L Diesel, Removal and Installation)",
+        "en": "Turbocharger - TDV6 3.0L Diesel, Removal and Installation)"
+       },
+       "words": 746,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t051_39049b44",
+       "title": {
+        "ru": "NOTE: Before installing the crankshaft pulley retaining",
+        "en": "NOTE: Before installing the crankshaft pulley retaining"
+       },
+       "words": 782,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t052_1f07a790",
+       "title": {
+        "ru": "Check the camshaft pulley alignment holes are correctly",
+        "en": "Check the camshaft pulley alignment holes are correctly"
+       },
+       "words": 773,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t053_7fc34f2d",
+       "title": {
+        "ru": "Engine Cooling - TDV6 3.0L Diesel, General Procedures)",
+        "en": "Engine Cooling - TDV6 3.0L Diesel, General Procedures)"
+       },
+       "words": 847,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t054_1197f10b",
+       "title": {
+        "ru": "NOTE: Do not disassemble further if the component is",
+        "en": "NOTE: Do not disassemble further if the component is"
+       },
+       "words": 1009,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t055_a042670f",
+       "title": {
+        "ru": "NOTE: A minimum of 12 litres of fuel in the fuel tank is",
+        "en": "NOTE: A minimum of 12 litres of fuel in the fuel tank is"
+       },
+       "words": 780,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t056_91089ad4",
+       "title": {
+        "ru": "Make sure that the mating faces are clean and free of",
+        "en": "Make sure that the mating faces are clean and free of"
+       },
+       "words": 830,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t057_2db6c69d",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 797,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t059_4866697e",
+       "title": {
+        "ru": "Intake Air Distribution and Filtering - TDV6 3.0L Diesel -",
+        "en": "Intake Air Distribution and Filtering - TDV6 3.0L Diesel -"
+       },
+       "words": 759,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t060_284119cf",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 924,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t061_355f9fd7",
+       "title": {
+        "ru": "To make sure the transmission fill plug is torqued to",
+        "en": "To make sure the transmission fill plug is torqued to"
+       },
+       "words": 799,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t062_0abd2392",
+       "title": {
+        "ru": "Engine Cooling - TDV6 3.0L Diesel, General Procedures)",
+        "en": "Engine Cooling - TDV6 3.0L Diesel, General Procedures)"
+       },
+       "words": 921,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t063_5b01cbcb",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 1040,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t064_69f79aeb",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 848,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t065_badc8c8a",
+       "title": {
+        "ru": "Fuel System - General Information, General Procedures)",
+        "en": "Fuel System - General Information, General Procedures)"
+       },
+       "words": 1076,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t067_2cde1fb7",
+       "title": {
+        "ru": "Advise the customer of the contaminated A/C system and any",
+        "en": "Advise the customer of the contaminated A/C system and any"
+       },
+       "words": 1199,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t068_0ad9f77d",
+       "title": {
+        "ru": "When separating A/C joints, cap the open connections",
+        "en": "When separating A/C joints, cap the open connections"
+       },
+       "words": 1129,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t069_c24ad9c7",
+       "title": {
+        "ru": "NOTE: Some variation in the illustrations may occur",
+        "en": "NOTE: Some variation in the illustrations may occur"
+       },
+       "words": 719,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t070_db2f57c3",
+       "title": {
+        "ru": "Make sure that all DTCs are cleared following rectification",
+        "en": "Make sure that all DTCs are cleared following rectification"
+       },
+       "words": 941,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t071_fea47b22",
+       "title": {
+        "ru": "Check for non standard, bumper, exhausts/tailpipe",
+        "en": "Check for non standard, bumper, exhausts/tailpipe"
+       },
+       "words": 1096,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t072_47fbffd3",
+       "title": {
+        "ru": "Battery Care Requirements (Description and Operation)",
+        "en": "Battery Care Requirements (Description and Operation)"
+       },
+       "words": 1082,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t073_fd8e2f8e",
+       "title": {
+        "ru": "The navigation update tool will then check the connection",
+        "en": "The navigation update tool will then check the connection"
+       },
+       "words": 951,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t074_c74e676f",
+       "title": {
+        "ru": "No fault to rectify. Subscribe to Satellite Digital",
+        "en": "No fault to rectify. Subscribe to Satellite Digital"
+       },
+       "words": 701,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t075_19307c49",
+       "title": {
+        "ru": "Playback Of Audio Files Stored On A USB Storage Device",
+        "en": "Playback Of Audio Files Stored On A USB Storage Device"
+       },
+       "words": 2300,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t077_b19f4e29",
+       "title": {
+        "ru": "Wait at least 30 seconds and re-install the fuse. GO to B2",
+        "en": "Wait at least 30 seconds and re-install the fuse. GO to B2"
+       },
+       "words": 949,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t078_edb7fad7",
+       "title": {
+        "ru": "MOST Ring Components (RHD (right-hand drive) vehicle shown)",
+        "en": "MOST Ring Components (RHD (right-hand drive) vehicle shown)"
+       },
+       "words": 866,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t079_ebf393e6",
+       "title": {
+        "ru": "Refer to: Loadspace Trim Panel LH (501-05 Interior Trim and",
+        "en": "Refer to: Loadspace Trim Panel LH (501-05 Interior Trim and"
+       },
+       "words": 1378,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t080_66ec1430",
+       "title": {
+        "ru": "See diagnostic procedures as specified in pinpoint test",
+        "en": "See diagnostic procedures as specified in pinpoint test"
+       },
+       "words": 858,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t081_949687bc",
+       "title": {
+        "ru": "B5: check if the bypass switch on the auxiliary input unit is activated",
+        "en": "B5: check if the bypass switch on the auxiliary input unit is activated"
+       },
+       "words": 858,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t082_9eaa0af5",
+       "title": {
+        "ru": "Exterior Lighting - Exterior Lighting - Overview",
+        "en": "Exterior Lighting - Exterior Lighting - Overview"
+       },
+       "words": 1012,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t083_a46019eb",
+       "title": {
+        "ru": "There are two dedicated tools for testing the MOST system",
+        "en": "There are two dedicated tools for testing the MOST system"
+       },
+       "words": 1266,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t084_dd58ce3a",
+       "title": {
+        "ru": "Operate the test switch and check the MOST tester beep/LED",
+        "en": "Operate the test switch and check the MOST tester beep/LED"
+       },
+       "words": 927,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t085_90d3b74b",
+       "title": {
+        "ru": "Pre-Terminated Wiring Harness(s) and Butt Splice Connectors",
+        "en": "Pre-Terminated Wiring Harness(s) and Butt Splice Connectors"
+       },
+       "words": 1349,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t086_8a660e62",
+       "title": {
+        "ru": "Anti-Theft - Active (Description and Operation)",
+        "en": "Anti-Theft - Active (Description and Operation)"
+       },
+       "words": 1491,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t087_79251d2a",
+       "title": {
+        "ru": "The KVM will only respond to a valid Jaguar Smart Key",
+        "en": "The KVM will only respond to a valid Jaguar Smart Key"
+       },
+       "words": 1096,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t088_86eb0413",
+       "title": {
+        "ru": "Repairs - Corrosion Protection, Description and Operation)",
+        "en": "Repairs - Corrosion Protection, Description and Operation)"
+       },
+       "words": 868,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t089_7ed6d84b",
+       "title": {
+        "ru": "CAUTION: Make sure that the clips are correctly located",
+        "en": "CAUTION: Make sure that the clips are correctly located"
+       },
+       "words": 760,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t090_8863d937",
+       "title": {
+        "ru": "Press firmly against the areas indicated until an audible",
+        "en": "Press firmly against the areas indicated until an audible"
+       },
+       "words": 752,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t091_6f9874e4",
+       "title": {
+        "ru": "Locate and disconnect relevant connector prior to pin test",
+        "en": "Locate and disconnect relevant connector prior to pin test"
+       },
+       "words": 1115,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t092_dc6b7ff9",
+       "title": {
+        "ru": "Refer to: Front Seat Backrest Cushion (501-10, Removal and",
+        "en": "Refer to: Front Seat Backrest Cushion (501-10, Removal and"
+       },
+       "words": 814,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t093_43663449",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 984,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t094_6c40ed5a",
+       "title": {
+        "ru": "Carefully slide the applicator card along the edge of",
+        "en": "Carefully slide the applicator card along the edge of"
+       },
+       "words": 940,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t095_fe0f5049",
+       "title": {
+        "ru": "CAUTION: Make sure that the blind feet for each blind",
+        "en": "CAUTION: Make sure that the blind feet for each blind"
+       },
+       "words": 885,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t096_664110d6",
+       "title": {
+        "ru": "Prepare the PU adhesive in accordance with the instructions",
+        "en": "Prepare the PU adhesive in accordance with the instructions"
+       },
+       "words": 804,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t097_bb363eaa",
+       "title": {
+        "ru": "NOTE: Some variation in the illustrations may occur",
+        "en": "NOTE: Some variation in the illustrations may occur"
+       },
+       "words": 759,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t098_3797ed8e",
+       "title": {
+        "ru": "Using the manufacturer approved diagnostic system check for",
+        "en": "Using the manufacturer approved diagnostic system check for"
+       },
+       "words": 930,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t099_dd9a8572",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 861,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t100_2e5e8df4",
+       "title": {
+        "ru": "Roof Opening Panel (Description and Operation)",
+        "en": "Roof Opening Panel (Description and Operation)"
+       },
+       "words": 962,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t101_7824c30d",
+       "title": {
+        "ru": "REFER to: Roof Opening Panel Alignment (501-17 Roof Opening",
+        "en": "REFER to: Roof Opening Panel Alignment (501-17 Roof Opening"
+       },
+       "words": 1010,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t102_1e31c850",
+       "title": {
+        "ru": "Make sure that a firm pressure is applied to the roof",
+        "en": "Make sure that a firm pressure is applied to the roof"
+       },
+       "words": 788,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t103_1b17bd2f",
+       "title": {
+        "ru": "Carefully allow the roof opening panel blind to retract",
+        "en": "Carefully allow the roof opening panel blind to retract"
+       },
+       "words": 974,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t104_cc05f922",
+       "title": {
+        "ru": "Prepare the PU adhesive in accordance with the instructions",
+        "en": "Prepare the PU adhesive in accordance with the instructions"
+       },
+       "words": 774,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t105_5875cd4e",
+       "title": {
+        "ru": "NOTE: This step requires the aid of another technician",
+        "en": "NOTE: This step requires the aid of another technician"
+       },
+       "words": 766,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t106_21bd88c8",
+       "title": {
+        "ru": "CAUTION: Take extra care not to damage the wiring",
+        "en": "CAUTION: Take extra care not to damage the wiring"
+       },
+       "words": 799,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t107_f4ec0d4b",
+       "title": {
+        "ru": "Confirm the seatbelt does not contact the wiring harness",
+        "en": "Confirm the seatbelt does not contact the wiring harness"
+       },
+       "words": 862,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t108_51c55776",
+       "title": {
+        "ru": "Supplemental Restraint System, Removal and Installation)",
+        "en": "Supplemental Restraint System, Removal and Installation)"
+       },
+       "words": 1068,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t109_fee7d664",
+       "title": {
+        "ru": "Failure to follow this instruction may result in damage to",
+        "en": "Failure to follow this instruction may result in damage to"
+       },
+       "words": 751,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t110_a01a8eb3",
+       "title": {
+        "ru": "Check the vehicle for collision damage. Repair as necessary",
+        "en": "Check the vehicle for collision damage. Repair as necessary"
+       },
+       "words": 949,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t111_2a971ef0",
+       "title": {
+        "ru": "The following list identifies Category B procedures",
+        "en": "The following list identifies Category B procedures"
+       },
+       "words": 680,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t112_54e5d02e",
+       "title": {
+        "ru": "Gravity Die-Cast Aluminium",
+        "en": "Gravity Die-Cast Aluminium"
+       },
+       "words": 687,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t113_0afcd94f",
+       "title": {
+        "ru": "Countersunk Monobolt (rivet)",
+        "en": "Countersunk Monobolt (rivet)"
+       },
+       "words": 1189,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t114_722035bd",
+       "title": {
+        "ru": "The application is colourless and has no visual indication",
+        "en": "The application is colourless and has no visual indication"
+       },
+       "words": 1002,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t115_2b0713cf",
+       "title": {
+        "ru": "Prior to starting, the following should be checked",
+        "en": "Prior to starting, the following should be checked"
+       },
+       "words": 1163,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t116_849157cd",
+       "title": {
+        "ru": "Mark the position where the rivet nuts are to be installed",
+        "en": "Mark the position where the rivet nuts are to be installed"
+       },
+       "words": 946,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t117_e01cba7c",
+       "title": {
+        "ru": "Using a combination of the ESN50 and a 6.5mm Cryobit drill",
+        "en": "Using a combination of the ESN50 and a 6.5mm Cryobit drill"
+       },
+       "words": 959,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t118_bf6d81a6",
+       "title": {
+        "ru": "Remove any miscellaneous components in the area of repair",
+        "en": "Remove any miscellaneous components in the area of repair"
+       },
+       "words": 1103,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t119_d4f83273",
+       "title": {
+        "ru": "Using a combination of the ESN50 and a 6.5mm Cryobit drill",
+        "en": "Using a combination of the ESN50 and a 6.5mm Cryobit drill"
+       },
+       "words": 1019,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t120_e044f864",
+       "title": {
+        "ru": "Self Piercing Rivet SizeMaterial StackJaguar Service Number",
+        "en": "Self Piercing Rivet SizeMaterial StackJaguar Service Number"
+       },
+       "words": 1009,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t121_fe5bb8a6",
+       "title": {
+        "ru": "A-pillar reinforcement service panel. Using a 6.5mm Cryobit",
+        "en": "A-pillar reinforcement service panel. Using a 6.5mm Cryobit"
+       },
+       "words": 945,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t122_a59a5f25",
+       "title": {
+        "ru": "Using a 6.5mm Cryobit drill bit, drill holes for Hemloks in",
+        "en": "Using a 6.5mm Cryobit drill bit, drill holes for Hemloks in"
+       },
+       "words": 1002,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t123_6277d355",
+       "title": {
+        "ru": "Where the pitch of the removed self piercing rivets is 25mm",
+        "en": "Where the pitch of the removed self piercing rivets is 25mm"
+       },
+       "words": 1164,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t124_15eb51fa",
+       "title": {
+        "ru": "Using the Genesis G4, install 12 Hemloks (6 each side) into",
+        "en": "Using the Genesis G4, install 12 Hemloks (6 each side) into"
+       },
+       "words": 823,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t125_b241120a",
+       "title": {
+        "ru": "Using a combination of the ESN50 and a 6.5mm Cryobit drill",
+        "en": "Using a combination of the ESN50 and a 6.5mm Cryobit drill"
+       },
+       "words": 1094,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t126_08041e7f",
+       "title": {
+        "ru": "Using a 6.5mm Cryobit drill bit, drill 1 hole as indicated",
+        "en": "Using a 6.5mm Cryobit drill bit, drill 1 hole as indicated"
+       },
+       "words": 1157,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t127_609e1356",
+       "title": {
+        "ru": "NOTE: The old rear side member and rear side member closing",
+        "en": "NOTE: The old rear side member and rear side member closing"
+       },
+       "words": 1005,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t128_a0641678",
+       "title": {
+        "ru": "CAUTION: Take extra care not to damage the A/C pipes when",
+        "en": "CAUTION: Take extra care not to damage the A/C pipes when"
+       },
+       "words": 869,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "jaguar_jaguar_xj_general_t129_b08fbcd1",
+       "title": {
+        "ru": "Failure to follow this instruction may result in damage to",
+        "en": "Failure to follow this instruction may result in damage to"
+       },
+       "words": 463,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t000_8251e5aa",
+       "title": {
+        "ru": "Suspect the Transmission Control Module. Install a",
+        "en": "Suspect the Transmission Control Module. Install a"
+       },
+       "words": 935,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t001_3e19ff88",
+       "title": {
+        "ru": "Power or Ground (should NOT be connected and",
+        "en": "Power or Ground (should NOT be connected and"
+       },
+       "words": 720,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t002_0bac1e6d",
+       "title": {
+        "ru": "Clear DTC and test. If code re-detects suspect the",
+        "en": "Clear DTC and test. If code re-detects suspect the"
+       },
+       "words": 722,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t003_8f6a3aae",
+       "title": {
+        "ru": "Clear DTC and road test, if DTC returns suspect",
+        "en": "Clear DTC and road test, if DTC returns suspect"
+       },
+       "words": 826,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t004_17e70021",
+       "title": {
+        "ru": "Suspect the Transmission Control Module. Install a",
+        "en": "Suspect the Transmission Control Module. Install a"
+       },
+       "words": 862,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t005_4cea6ba1",
+       "title": {
+        "ru": "P2713-04 Pressure Control Solenoid",
+        "en": "P2713-04 Pressure Control Solenoid"
+       },
+       "words": 973,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t006_035bafdf",
+       "title": {
+        "ru": "Control Module. Install a new Transmission Control",
+        "en": "Control Module. Install a new Transmission Control"
+       },
+       "words": 837,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t007_84e44320",
+       "title": {
+        "ru": "Refer to the electrical Circuit diagrams and check",
+        "en": "Refer to the electrical Circuit diagrams and check"
+       },
+       "words": 941,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t008_a4d1118a",
+       "title": {
+        "ru": "To install, reverse the removal procedure",
+        "en": "To install, reverse the removal procedure"
+       },
+       "words": 1399,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t009_7e2ee495",
+       "title": {
+        "ru": "A = refer to the procedure for correct torque sequence",
+        "en": "A = refer to the procedure for correct torque sequence"
+       },
+       "words": 1721,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t010_290d131b",
+       "title": {
+        "ru": "Allow the transmission fluid to drain from the transmission",
+        "en": "Allow the transmission fluid to drain from the transmission"
+       },
+       "words": 741,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t011_c5d84ac4",
+       "title": {
+        "ru": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index",
+        "en": "Diagnostic Trouble Codes (DTCs) and refer to the DTC Index"
+       },
+       "words": 768,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t012_8daaaa74",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 1350,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "jaguar_jaguar_xj_drivetrain_t013_86282156",
+       "title": {
+        "ru": "Fixed front glass panel (5mm thick)",
+        "en": "Fixed front glass panel (5mm thick)"
+       },
+       "words": 524,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_sensors_t000_89a267c3",
+       "title": {
+        "ru": "Accelerometer voltage and check it lies in range 1.9 to 2",
+        "en": "Accelerometer voltage and check it lies in range 1.9 to 2"
+       },
+       "words": 1133,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t001_2f436cd4",
+       "title": {
+        "ru": "Voltage to sensor signal connection should be ~0v • Voltage",
+        "en": "Voltage to sensor signal connection should be ~0v • Voltage"
+       },
+       "words": 1003,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t002_be886932",
+       "title": {
+        "ru": "Check for short circuits between any of the 3 terminals and",
+        "en": "Check for short circuits between any of the 3 terminals and"
+       },
+       "words": 891,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t003_1dab024c",
+       "title": {
+        "ru": "Check that the vehicle is free of obstructions. Check",
+        "en": "Check that the vehicle is free of obstructions. Check"
+       },
+       "words": 926,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t004_9ea75abc",
+       "title": {
+        "ru": "Refer to the Warranty Policy and Procedures manual",
+        "en": "Refer to the Warranty Policy and Procedures manual"
+       },
+       "words": 974,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t005_75dacf4b",
+       "title": {
+        "ru": "Refer to the electrical circuit diagrams and test",
+        "en": "Refer to the electrical circuit diagrams and test"
+       },
+       "words": 941,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t006_2182e0f6",
+       "title": {
+        "ru": "If no wiring faults are found suspect fuel rail",
+        "en": "If no wiring faults are found suspect fuel rail"
+       },
+       "words": 845,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t007_d75bc276",
+       "title": {
+        "ru": "Refer to the electrical circuit diagrams and",
+        "en": "Refer to the electrical circuit diagrams and"
+       },
+       "words": 962,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t008_89e4b374",
+       "title": {
+        "ru": "Repair wiring as required, clear the DTC and",
+        "en": "Repair wiring as required, clear the DTC and"
+       },
+       "words": 948,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t009_b0ace094",
+       "title": {
+        "ru": "Refer to the Warranty Policy and Procedures manual if a",
+        "en": "Refer to the Warranty Policy and Procedures manual if a"
+       },
+       "words": 848,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t011_fbbb003e",
+       "title": {
+        "ru": "Check the connector for integrity and damage, then",
+        "en": "Check the connector for integrity and damage, then"
+       },
+       "words": 843,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t012_9eedcf86",
+       "title": {
+        "ru": "WARNING: Make sure to support the vehicle with axle stands",
+        "en": "WARNING: Make sure to support the vehicle with axle stands"
+       },
+       "words": 1970,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t013_3ceb58b1",
+       "title": {
+        "ru": "Mount the DTI Dial Test Indicator (DTI) gauge on the tool",
+        "en": "Mount the DTI Dial Test Indicator (DTI) gauge on the tool"
+       },
+       "words": 2075,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t014_0a0bc968",
+       "title": {
+        "ru": "NOTE: Note the orientation of the clip",
+        "en": "NOTE: Note the orientation of the clip"
+       },
+       "words": 1455,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t015_829b051b",
+       "title": {
+        "ru": "ECM, a signal input to the ECM and a ground for the sensor",
+        "en": "ECM, a signal input to the ECM and a ground for the sensor"
+       },
+       "words": 2203,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t016_293ae4bc",
+       "title": {
+        "ru": "If accidentally dropped or knocked install a new sensor",
+        "en": "If accidentally dropped or knocked install a new sensor"
+       },
+       "words": 843,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t017_1c48df7d",
+       "title": {
+        "ru": "Refer to the electrical circuit diagrams and check catalyst",
+        "en": "Refer to the electrical circuit diagrams and check catalyst"
+       },
+       "words": 765,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t019_168439c5",
+       "title": {
+        "ru": "If there are no wiring faults, refer to the workshop manual",
+        "en": "If there are no wiring faults, refer to the workshop manual"
+       },
+       "words": 1152,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t021_65262f30",
+       "title": {
+        "ru": "Make sure that the fuel pump and sender unit are correctly",
+        "en": "Make sure that the fuel pump and sender unit are correctly"
+       },
+       "words": 1357,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t022_3a1c914f",
+       "title": {
+        "ru": "CAUTION: Make sure that all diagnostic trouble codes",
+        "en": "CAUTION: Make sure that all diagnostic trouble codes"
+       },
+       "words": 1661,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t023_fba665de",
+       "title": {
+        "ru": "Ensure the sensors are a tight fit in the holder and",
+        "en": "Ensure the sensors are a tight fit in the holder and"
+       },
+       "words": 1066,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t024_df782a15",
+       "title": {
+        "ru": "NOTE: On vehicles that are equipped with black or unpainted",
+        "en": "NOTE: On vehicles that are equipped with black or unpainted"
+       },
+       "words": 875,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t025_98c1db7a",
+       "title": {
+        "ru": "A4: check the ipod® is compatible with the audio input control module",
+        "en": "A4: check the ipod® is compatible with the audio input control module"
+       },
+       "words": 1929,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t026_6b3f1410",
+       "title": {
+        "ru": "If a new service kit is installed configure the occupant",
+        "en": "If a new service kit is installed configure the occupant"
+       },
+       "words": 1189,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "jaguar_jaguar_xj_sensors_t027_5f25d963",
+       "title": {
+        "ru": "Make sure that the road wheels are in the straight",
+        "en": "Make sure that the road wheels are in the straight"
+       },
+       "words": 415,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "jaguar_jaguar_xj_infotainment_t000_3093bd92",
+       "title": {
+        "ru": "Confirm the correct VIN details are stored in Steering",
+        "en": "Confirm the correct VIN details are stored in Steering"
+       },
+       "words": 1220,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_jaguar_xj_infotainment_t001_a281bddc",
+       "title": {
+        "ru": "High speed CAN signal to the ECM, to reduce engine torque",
+        "en": "High speed CAN signal to the ECM, to reduce engine torque"
+       },
+       "words": 2110,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_jaguar_xj_infotainment_t002_ff7b405e",
+       "title": {
+        "ru": "If DTC is p2459-65 or amber dpf full refer to handbook",
+        "en": "If DTC is p2459-65 or amber dpf full refer to handbook"
+       },
+       "words": 1382,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_jaguar_xj_infotainment_t003_68437508",
+       "title": {
+        "ru": "Message center - Displays system information to the driver",
+        "en": "Message center - Displays system information to the driver"
+       },
+       "words": 1962,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_jaguar_xj_infotainment_t004_5ba190b9",
+       "title": {
+        "ru": "Select Navigation Setup using the touch screen soft key",
+        "en": "Select Navigation Setup using the touch screen soft key"
+       },
+       "words": 1291,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_jaguar_xj_infotainment_t005_8d841d15",
+       "title": {
+        "ru": "Select OK to input the licence key using the touch screen",
+        "en": "Select OK to input the licence key using the touch screen"
+       },
+       "words": 1781,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "jaguar_jaguar_xj_infotainment_t006_e9e6e6e6",
+       "title": {
+        "ru": "If no CD changer is fitted, ensure that the optical",
+        "en": "If no CD changer is fitted, ensure that the optical"
+       },
+       "words": 795,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

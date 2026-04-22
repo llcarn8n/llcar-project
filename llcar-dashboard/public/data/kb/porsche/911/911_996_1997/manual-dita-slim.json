@@ -1,0 +1,2434 @@
+{
+ "version": "1.0",
+ "model": "911",
+ "manuals": [
+  {
+   "model": "911",
+   "label": {
+    "ru": "Porsche 911 — Руководство по ремонту",
+    "en": "Porsche 911 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "porsche_911_engine_t000_c10c12b3",
+       "title": {
+        "ru": "Кабели",
+        "en": "Кабели"
+       },
+       "words": 357,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_911_engine_t002_018d3f6d",
+       "title": {
+        "ru": "1. Подключи ездовое освещение",
+        "en": "1. Подключи ездовое освещение"
+       },
+       "words": 206,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_911_engine_t003_dfc29f8d",
+       "title": {
+        "ru": "Буксировка/вытаскивание машины с неработающим двигателем",
+        "en": "Буксировка/вытаскивание машины с неработающим двигателем"
+       },
+       "words": 316,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_911_engine_t004_9f4b5ea8",
+       "title": {
+        "ru": "Кондиционер",
+        "en": "Кондиционер"
+       },
+       "words": 410,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_911_engine_t005_119048e8",
+       "title": {
+        "ru": "Тормоза включаются всегда",
+        "en": "Тормоза включаются всегда"
+       },
+       "words": 287,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_911_engine_t006_d12e494b",
+       "title": {
+        "ru": "Двигатель заглушен, стояночный тормоз включен",
+        "en": "Двигатель заглушен, стояночный тормоз включен"
+       },
+       "words": 407,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_911_engine_t007_469a2215",
+       "title": {
+        "ru": "Двигатель перегревается",
+        "en": "Двигатель перегревается"
+       },
+       "words": 415,
+       "images": 1,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "porsche_911_brakes_t000_fe3d4a07",
+       "title": {
+        "ru": "Тормоза",
+        "en": "Тормоза"
+       },
+       "words": 236,
+       "images": 4,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t001_90f9e2b5",
+       "title": {
+        "ru": "Педали",
+        "en": "Педали"
+       },
+       "words": 404,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t002_a27732da",
+       "title": {
+        "ru": "1. Освободи стояночный тормоз",
+        "en": "1. Освободи стояночный тормоз"
+       },
+       "words": 315,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t004_f4a5ce85",
+       "title": {
+        "ru": "Тормоза",
+        "en": "Тормоза"
+       },
+       "words": 390,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t005_39b5a648",
+       "title": {
+        "ru": "Педали",
+        "en": "Педали"
+       },
+       "words": 450,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t006_f45c2da5",
+       "title": {
+        "ru": "1. Освободи стояночный тормоз",
+        "en": "1. Освободи стояночный тормоз"
+       },
+       "words": 398,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t007_8ffa8fc8",
+       "title": {
+        "ru": "Проверка тормозов",
+        "en": "Проверка тормозов"
+       },
+       "words": 698,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t008_e72d280f",
+       "title": {
+        "ru": "Тормоза",
+        "en": "Тормоза"
+       },
+       "words": 475,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t009_7d94ef93",
+       "title": {
+        "ru": "1. Освободи стояночный тормоз",
+        "en": "1. Освободи стояночный тормоз"
+       },
+       "words": 475,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t010_b954a754",
+       "title": {
+        "ru": "Перед выпуском воздуха разгрузи тормозную систему",
+        "en": "Перед выпуском воздуха разгрузи тормозную систему"
+       },
+       "words": 473,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t011_416b2cc7",
+       "title": {
+        "ru": "5. Освободи стояночный тормоз",
+        "en": "5. Освободи стояночный тормоз"
+       },
+       "words": 618,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t012_3336265f",
+       "title": {
+        "ru": "Тормоза",
+        "en": "Тормоза"
+       },
+       "words": 534,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t013_54c8e8b8",
+       "title": {
+        "ru": "Освобождение тормозов",
+        "en": "Освобождение тормозов"
+       },
+       "words": 730,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t014_9a223f03",
+       "title": {
+        "ru": "3. Стояночный тормоз",
+        "en": "3. Стояночный тормоз"
+       },
+       "words": 706,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_911_brakes_t015_be27797a",
+       "title": {
+        "ru": "Проверка тормозов",
+        "en": "Проверка тормозов"
+       },
+       "words": 527,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "porsche_911_hvac_t000_ce95c4b3",
+       "title": {
+        "ru": "Обслуживание машины в помещении",
+        "en": "Обслуживание машины в помещении"
+       },
+       "words": 153,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "porsche_911_body_t000_dcffd456",
+       "title": {
+        "ru": "Левая сторона",
+        "en": "Левая сторона"
+       },
+       "words": 164,
+       "images": 1,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_911_body_t001_ab414bbc",
+       "title": {
+        "ru": "Вверх",
+        "en": "Вверх"
+       },
+       "words": 223,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "porsche_911_steering_t000_00418653",
+       "title": {
+        "ru": "Управление",
+        "en": "Управление"
+       },
+       "words": 466,
+       "images": 4,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_911_steering_t001_18ffe676",
+       "title": {
+        "ru": "10. Используй рулевое колесо (в зависимости от рынка)",
+        "en": "10. Используй рулевое колесо (в зависимости от рынка)"
+       },
+       "words": 411,
+       "images": 3,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "porsche_911_lighting_t000_4e7cd916",
+       "title": {
+        "ru": "Под крышей",
+        "en": "Под крышей"
+       },
+       "words": 231,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_911_lighting_t001_1d483b40",
+       "title": {
+        "ru": "3. Индикатор работы",
+        "en": "3. Индикатор работы"
+       },
+       "words": 256,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_911_lighting_t002_8f8ca5eb",
+       "title": {
+        "ru": "Лампы",
+        "en": "Лампы"
+       },
+       "words": 295,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_911_lighting_t003_017235bf",
+       "title": {
+        "ru": "3. Индикатор работы",
+        "en": "3. Индикатор работы"
+       },
+       "words": 317,
+       "images": 1,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_911_lighting_t004_5947aad3",
+       "title": {
+        "ru": "Световая и звуковая пожарная сигнализация",
+        "en": "Световая и звуковая пожарная сигнализация"
+       },
+       "words": 234,
+       "images": 3,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "porsche_911_interior_t000_8af3810f",
+       "title": {
+        "ru": "Кондиционер отключен",
+        "en": "Кондиционер отключен"
+       },
+       "words": 355,
+       "images": 1,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_911_interior_t001_42ebe66c",
+       "title": {
+        "ru": "Ручной огнетушитель",
+        "en": "Ручной огнетушитель"
+       },
+       "words": 590,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_911_interior_t002_bbf7911c",
+       "title": {
+        "ru": "Кондиционер",
+        "en": "Кондиционер"
+       },
+       "words": 783,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "porsche_911_ev_t000_d8d99f97",
+       "title": {
+        "ru": "1. Главный выключатель аккумуляторов",
+        "en": "1. Главный выключатель аккумуляторов"
+       },
+       "words": 558,
+       "images": 3,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_911_ev_t001_af899d0b",
+       "title": {
+        "ru": "Освещение и контрольные лампы",
+        "en": "Освещение и контрольные лампы"
+       },
+       "words": 290,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_911_ev_t002_d216bcd5",
+       "title": {
+        "ru": "При выключенном главном выключателе аккумуляторов",
+        "en": "При выключенном главном выключателе аккумуляторов"
+       },
+       "words": 183,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_911_ev_t003_b271187a",
+       "title": {
+        "ru": "Замена аккумуляторов",
+        "en": "Замена аккумуляторов"
+       },
+       "words": 336,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_911_ev_t004_b4c02f30",
+       "title": {
+        "ru": "Линии электропередач",
+        "en": "Линии электропередач"
+       },
+       "words": 567,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_911_ev_t005_91311a76",
+       "title": {
+        "ru": "При включенном главном выключателе аккумуляторов",
+        "en": "При включенном главном выключателе аккумуляторов"
+       },
+       "words": 266,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_911_ev_t008_09afc513",
+       "title": {
+        "ru": "Аккумуляторы",
+        "en": "Аккумуляторы"
+       },
+       "words": 787,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_911_ev_t009_50c5bfe5",
+       "title": {
+        "ru": "При выключенном главном выключателе аккумуляторов",
+        "en": "При выключенном главном выключателе аккумуляторов"
+       },
+       "words": 483,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_911_ev_t010_f5ebb8d1",
+       "title": {
+        "ru": "Замена аккумуляторов",
+        "en": "Замена аккумуляторов"
+       },
+       "words": 847,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_911_ev_t011_a5e74b95",
+       "title": {
+        "ru": "Аккумуляторы",
+        "en": "Аккумуляторы"
+       },
+       "words": 566,
+       "images": 1,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_911_ev_t012_01c80116",
+       "title": {
+        "ru": "1. Главный выключатель аккумуляторов",
+        "en": "1. Главный выключатель аккумуляторов"
+       },
+       "words": 925,
+       "images": 2,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_911_ev_t013_695e3d63",
+       "title": {
+        "ru": "Проверяй уровень электролита",
+        "en": "Проверяй уровень электролита"
+       },
+       "words": 580,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "porsche_911_general_t001_d4423213",
+       "title": {
+        "ru": "Применение",
+        "en": "Применение"
+       },
+       "words": 351,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t002_71d851e0",
+       "title": {
+        "ru": "Наружные органы управления и наклейки",
+        "en": "Наружные органы управления и наклейки"
+       },
+       "words": 153,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t003_18aa8219",
+       "title": {
+        "ru": "Предупреждающие наклейки",
+        "en": "Предупреждающие наклейки"
+       },
+       "words": 675,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t004_d549651a",
+       "title": {
+        "ru": "1. Аварийный мигающий сигнал",
+        "en": "1. Аварийный мигающий сигнал"
+       },
+       "words": 383,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t006_d6ad5a2f",
+       "title": {
+        "ru": "Клавиатура с \"трекболом\"",
+        "en": "Клавиатура с \"трекболом\""
+       },
+       "words": 503,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t008_aa68270d",
+       "title": {
+        "ru": "Изменение направления движения вперед/назад",
+        "en": "Изменение направления движения вперед/назад"
+       },
+       "words": 265,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t010_b5b0b689",
+       "title": {
+        "ru": "8. Выбери направление движения",
+        "en": "8. Выбери направление движения"
+       },
+       "words": 228,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t011_0917ddaf",
+       "title": {
+        "ru": "В случае возникновения критических ситуаций при повороте на подъёме в гору",
+        "en": "В случае возникновения критических ситуаций при повороте на подъёме в гору"
+       },
+       "words": 165,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t012_a068898e",
+       "title": {
+        "ru": "Функции манипулятора на левом джойстике",
+        "en": "Функции манипулятора на левом джойстике"
+       },
+       "words": 554,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t013_3958775f",
+       "title": {
+        "ru": "Установи ездовое освещение",
+        "en": "Установи ездовое освещение"
+       },
+       "words": 252,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t014_cefa3f07",
+       "title": {
+        "ru": "8. Изменение направления движения вперед/ назад",
+        "en": "8. Изменение направления движения вперед/ назад"
+       },
+       "words": 175,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t015_cc2def29",
+       "title": {
+        "ru": "Движение в ограниченном пространстве",
+        "en": "Движение в ограниченном пространстве"
+       },
+       "words": 208,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t017_305be343",
+       "title": {
+        "ru": "После пожара",
+        "en": "После пожара"
+       },
+       "words": 274,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t018_95fc2aac",
+       "title": {
+        "ru": "После транспортировки очисти окна",
+        "en": "После транспортировки очисти окна"
+       },
+       "words": 192,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t019_311905ea",
+       "title": {
+        "ru": "Общие инструкции по технике безопасности",
+        "en": "Общие инструкции по технике безопасности"
+       },
+       "words": 819,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t021_fbc473a3",
+       "title": {
+        "ru": "Давление",
+        "en": "Давление"
+       },
+       "words": 595,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t022_cd75b577",
+       "title": {
+        "ru": "Обработка Пней",
+        "en": "Обработка Пней"
+       },
+       "words": 216,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t023_8321e167",
+       "title": {
+        "ru": "Предупреждающие наклейки в кабине",
+        "en": "Предупреждающие наклейки в кабине"
+       },
+       "words": 503,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t024_7271f815",
+       "title": {
+        "ru": "Проверь после запуска двигателя",
+        "en": "Проверь после запуска двигателя"
+       },
+       "words": 475,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t025_d68ea3d6",
+       "title": {
+        "ru": "Установи ездовое освещение",
+        "en": "Установи ездовое освещение"
+       },
+       "words": 902,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t026_d9559602",
+       "title": {
+        "ru": "Колеса",
+        "en": "Колеса"
+       },
+       "words": 1000,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t027_60b0c473",
+       "title": {
+        "ru": "Представление",
+        "en": "Представление"
+       },
+       "words": 434,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t028_3b191249",
+       "title": {
+        "ru": "Дополнительное оборудование",
+        "en": "Дополнительное оборудование"
+       },
+       "words": 697,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t030_103b55cd",
+       "title": {
+        "ru": "Предупреждающие наклейки в кабине",
+        "en": "Предупреждающие наклейки в кабине"
+       },
+       "words": 807,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t031_49cb89bc",
+       "title": {
+        "ru": "Замок зажигания",
+        "en": "Замок зажигания"
+       },
+       "words": 419,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t032_96cb5177",
+       "title": {
+        "ru": "Дизельный подогреватель активирован",
+        "en": "Дизельный подогреватель активирован"
+       },
+       "words": 293,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t033_d7ea5bce",
+       "title": {
+        "ru": "Аварийный выход",
+        "en": "Аварийный выход"
+       },
+       "words": 285,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t034_0050e00f",
+       "title": {
+        "ru": "Инструкции по обкатке",
+        "en": "Инструкции по обкатке"
+       },
+       "words": 593,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t036_e64d0cc1",
+       "title": {
+        "ru": "Настройки сиденья",
+        "en": "Настройки сиденья"
+       },
+       "words": 406,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t037_074a3dd7",
+       "title": {
+        "ru": "Выключение",
+        "en": "Выключение"
+       },
+       "words": 302,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t038_6461aa8c",
+       "title": {
+        "ru": "Извести, где ты находишься",
+        "en": "Извести, где ты находишься"
+       },
+       "words": 458,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t039_6d680c4d",
+       "title": {
+        "ru": "Выравнивание на склонах",
+        "en": "Выравнивание на склонах"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t040_fd9d57cb",
+       "title": {
+        "ru": "При угрозе опрокидывания",
+        "en": "При угрозе опрокидывания"
+       },
+       "words": 247,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t041_0182adec",
+       "title": {
+        "ru": "Функции манипулятора на левом джойстике",
+        "en": "Функции манипулятора на левом джойстике"
+       },
+       "words": 644,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t042_c108b95e",
+       "title": {
+        "ru": "Установи ездовое освещение",
+        "en": "Установи ездовое освещение"
+       },
+       "words": 311,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t043_79834e1b",
+       "title": {
+        "ru": "7. Перейди на повышенную передачу для движения по дороге",
+        "en": "7. Перейди на повышенную передачу для движения по дороге"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t044_9d90e1df",
+       "title": {
+        "ru": "Крутой поворот",
+        "en": "Крутой поворот"
+       },
+       "words": 323,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t045_4ddd4617",
+       "title": {
+        "ru": "Агрегат не работает",
+        "en": "Агрегат не работает"
+       },
+       "words": 344,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t046_bcf2fe7f",
+       "title": {
+        "ru": "В комплектацию машины входят",
+        "en": "В комплектацию машины входят"
+       },
+       "words": 401,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t047_787d9fa0",
+       "title": {
+        "ru": "Буксировка машины с работающим двигателем",
+        "en": "Буксировка машины с работающим двигателем"
+       },
+       "words": 305,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t049_045fd304",
+       "title": {
+        "ru": "Общие инструкции по технике безопасности",
+        "en": "Общие инструкции по технике безопасности"
+       },
+       "words": 1002,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t050_2b00201b",
+       "title": {
+        "ru": "Уровень охлаждающей жидкости",
+        "en": "Уровень охлаждающей жидкости"
+       },
+       "words": 371,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t051_0fbc7807",
+       "title": {
+        "ru": "Заливка топлива",
+        "en": "Заливка топлива"
+       },
+       "words": 722,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t053_4826b3f2",
+       "title": {
+        "ru": "Аварийный выход",
+        "en": "Аварийный выход"
+       },
+       "words": 488,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t054_ffee0ef3",
+       "title": {
+        "ru": "Подогреватель пищи",
+        "en": "Подогреватель пищи"
+       },
+       "words": 737,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t055_eca5571d",
+       "title": {
+        "ru": "При угрозе опрокидывания",
+        "en": "При угрозе опрокидывания"
+       },
+       "words": 493,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t056_ae9a5e98",
+       "title": {
+        "ru": "Сварка",
+        "en": "Сварка"
+       },
+       "words": 1195,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t057_0f58b550",
+       "title": {
+        "ru": "Колеса",
+        "en": "Колеса"
+       },
+       "words": 1107,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t059_ed17e75b",
+       "title": {
+        "ru": "Агрегат",
+        "en": "Агрегат"
+       },
+       "words": 401,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t060_89b8cc98",
+       "title": {
+        "ru": "Лестницы и площадки",
+        "en": "Лестницы и площадки"
+       },
+       "words": 298,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t061_45b1f128",
+       "title": {
+        "ru": "Главный предохранитель",
+        "en": "Главный предохранитель"
+       },
+       "words": 579,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t062_a9db236f",
+       "title": {
+        "ru": "Предупреждающие наклейки в кабине",
+        "en": "Предупреждающие наклейки в кабине"
+       },
+       "words": 891,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t063_c935d1f8",
+       "title": {
+        "ru": "Панели приборов",
+        "en": "Панели приборов"
+       },
+       "words": 445,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t066_a839d2e8",
+       "title": {
+        "ru": "Аварийный выход",
+        "en": "Аварийный выход"
+       },
+       "words": 375,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t068_a71ce951",
+       "title": {
+        "ru": "Запуск при низкой температуре",
+        "en": "Запуск при низкой температуре"
+       },
+       "words": 575,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t070_ebb970da",
+       "title": {
+        "ru": "Настройки сиденья",
+        "en": "Настройки сиденья"
+       },
+       "words": 456,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t071_8fbd12d8",
+       "title": {
+        "ru": "Изменение направления движения вперед/назад",
+        "en": "Изменение направления движения вперед/назад"
+       },
+       "words": 519,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t072_d225464a",
+       "title": {
+        "ru": "Выключение",
+        "en": "Выключение"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t073_ffc68260",
+       "title": {
+        "ru": "Извести, где ты находишься",
+        "en": "Извести, где ты находишься"
+       },
+       "words": 560,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t074_dae62b31",
+       "title": {
+        "ru": "Выбор передачи",
+        "en": "Выбор передачи"
+       },
+       "words": 457,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t075_c649bc8d",
+       "title": {
+        "ru": "В случае возникновения критических ситуаций при повороте на подъёме в гору",
+        "en": "В случае возникновения критических ситуаций при повороте на подъёме в гору"
+       },
+       "words": 389,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t076_3bb54f26",
+       "title": {
+        "ru": "Инструкции для движения",
+        "en": "Инструкции для движения"
+       },
+       "words": 663,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t077_254d1b5e",
+       "title": {
+        "ru": "Проверь до начала движения",
+        "en": "Проверь до начала движения"
+       },
+       "words": 408,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t078_981b8703",
+       "title": {
+        "ru": "Параллельно перемещаемый манипулятор",
+        "en": "Параллельно перемещаемый манипулятор"
+       },
+       "words": 471,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t079_a6d9af8a",
+       "title": {
+        "ru": "Движение с горы",
+        "en": "Движение с горы"
+       },
+       "words": 380,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t080_e95e9033",
+       "title": {
+        "ru": "Движение без транспортной опоры манипулятора",
+        "en": "Движение без транспортной опоры манипулятора"
+       },
+       "words": 378,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t082_0cab3c0e",
+       "title": {
+        "ru": "Предотвращение пожара и его тушение",
+        "en": "Предотвращение пожара и его тушение"
+       },
+       "words": 408,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t083_41d599c5",
+       "title": {
+        "ru": "4. Индикация неисправности детектора",
+        "en": "4. Индикация неисправности детектора"
+       },
+       "words": 550,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t085_e872d6df",
+       "title": {
+        "ru": "Перевозка на трейлере, на железнодорожной платформе и т.п",
+        "en": "Перевозка на трейлере, на железнодорожной платформе и т.п"
+       },
+       "words": 418,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t086_b308828c",
+       "title": {
+        "ru": "Обслуживание и контроль",
+        "en": "Обслуживание и контроль"
+       },
+       "words": 377,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t087_82cd4580",
+       "title": {
+        "ru": "Общие инструкции по технике безопасности",
+        "en": "Общие инструкции по технике безопасности"
+       },
+       "words": 1092,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t088_f0b6b3bb",
+       "title": {
+        "ru": "Уровень охлаждающей жидкости",
+        "en": "Уровень охлаждающей жидкости"
+       },
+       "words": 461,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t089_3e58dd53",
+       "title": {
+        "ru": "Заливка топлива",
+        "en": "Заливка топлива"
+       },
+       "words": 874,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t091_ed0ac87c",
+       "title": {
+        "ru": "Маркировка Краской",
+        "en": "Маркировка Краской"
+       },
+       "words": 369,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t092_628563fa",
+       "title": {
+        "ru": "Предупреждающие наклейки",
+        "en": "Предупреждающие наклейки"
+       },
+       "words": 566,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t093_92124a20",
+       "title": {
+        "ru": "Запуск и остановка",
+        "en": "Запуск и остановка"
+       },
+       "words": 972,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t094_a239f461",
+       "title": {
+        "ru": "Движение по пересечённой местности",
+        "en": "Движение по пересечённой местности"
+       },
+       "words": 607,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t095_7aa3dbb4",
+       "title": {
+        "ru": "Заблокируй манипулятор в транспортном положении",
+        "en": "Заблокируй манипулятор в транспортном положении"
+       },
+       "words": 1285,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t096_48ba3141",
+       "title": {
+        "ru": "Обращение с витоновыми уплотнениями",
+        "en": "Обращение с витоновыми уплотнениями"
+       },
+       "words": 1227,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t097_71616e86",
+       "title": {
+        "ru": "Предисловие",
+        "en": "Предисловие"
+       },
+       "words": 645,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t098_1eaf516d",
+       "title": {
+        "ru": "Управление",
+        "en": "Управление"
+       },
+       "words": 647,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t099_aae04d01",
+       "title": {
+        "ru": "Наружные органы управления и наклейки",
+        "en": "Наружные органы управления и наклейки"
+       },
+       "words": 374,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t101_239e681b",
+       "title": {
+        "ru": "Кабели",
+        "en": "Кабели"
+       },
+       "words": 715,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t102_f1dcdd49",
+       "title": {
+        "ru": "Окружение сиденья оператора",
+        "en": "Окружение сиденья оператора"
+       },
+       "words": 840,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t103_5b159dcd",
+       "title": {
+        "ru": "Замок зажигания",
+        "en": "Замок зажигания"
+       },
+       "words": 526,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t104_62f89615",
+       "title": {
+        "ru": "4. Скорость вентилятора (меню)",
+        "en": "4. Скорость вентилятора (меню)"
+       },
+       "words": 510,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t105_ee70eb32",
+       "title": {
+        "ru": "2. Тестирование сигналов пожарной тревоги и сигналов нарушения системы",
+        "en": "2. Тестирование сигналов пожарной тревоги и сигналов нарушения системы"
+       },
+       "words": 520,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t107_8273cdd5",
+       "title": {
+        "ru": "Проверь перед запуском двигателя",
+        "en": "Проверь перед запуском двигателя"
+       },
+       "words": 742,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t109_04b635fb",
+       "title": {
+        "ru": "Выход из машины в темноте",
+        "en": "Выход из машины в темноте"
+       },
+       "words": 628,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t110_0005460b",
+       "title": {
+        "ru": "Торможение машины",
+        "en": "Торможение машины"
+       },
+       "words": 570,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t111_1b91460c",
+       "title": {
+        "ru": "Ездовой потенциометр (скорость)",
+        "en": "Ездовой потенциометр (скорость)"
+       },
+       "words": 534,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t113_a0e124ff",
+       "title": {
+        "ru": "Инструкции для движения",
+        "en": "Инструкции для движения"
+       },
+       "words": 467,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t114_d698c5fd",
+       "title": {
+        "ru": "В гору",
+        "en": "В гору"
+       },
+       "words": 530,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t115_5155357d",
+       "title": {
+        "ru": "Оборудование шин",
+        "en": "Оборудование шин"
+       },
+       "words": 451,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t116_3ba24183",
+       "title": {
+        "ru": "Функции манипулятора на правом джойстике",
+        "en": "Функции манипулятора на правом джойстике"
+       },
+       "words": 851,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t117_08b21ac5",
+       "title": {
+        "ru": "Заблокируй кабину в транспортном положении",
+        "en": "Заблокируй кабину в транспортном положении"
+       },
+       "words": 529,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t118_f444e954",
+       "title": {
+        "ru": "7. Перейди на повышенную передачу для движения по дороге",
+        "en": "7. Перейди на повышенную передачу для движения по дороге"
+       },
+       "words": 456,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t119_affba41f",
+       "title": {
+        "ru": "Крутой поворот",
+        "en": "Крутой поворот"
+       },
+       "words": 517,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t120_1b372cea",
+       "title": {
+        "ru": "MaxiXplorer не стартует",
+        "en": "MaxiXplorer не стартует"
+       },
+       "words": 486,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t122_1b51816c",
+       "title": {
+        "ru": "Система пожаротушения (дополнительное оборудование)",
+        "en": "Система пожаротушения (дополнительное оборудование)"
+       },
+       "words": 536,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t123_67f410c6",
+       "title": {
+        "ru": "Ручной огнетушитель",
+        "en": "Ручной огнетушитель"
+       },
+       "words": 631,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t124_2c021b31",
+       "title": {
+        "ru": "Буксировка машины с работающим двигателем",
+        "en": "Буксировка машины с работающим двигателем"
+       },
+       "words": 480,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t125_9e4a6828",
+       "title": {
+        "ru": "Вверх",
+        "en": "Вверх"
+       },
+       "words": 468,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t126_95ad0a8c",
+       "title": {
+        "ru": "Обслуживание машины в помещении",
+        "en": "Обслуживание машины в помещении"
+       },
+       "words": 1163,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t127_d8ea2b44",
+       "title": {
+        "ru": "Проверь также",
+        "en": "Проверь также"
+       },
+       "words": 528,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t128_614fa888",
+       "title": {
+        "ru": "Влагоотделитель",
+        "en": "Влагоотделитель"
+       },
+       "words": 583,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t129_125d6535",
+       "title": {
+        "ru": "Давление",
+        "en": "Давление"
+       },
+       "words": 905,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t131_4fb16d5a",
+       "title": {
+        "ru": "Общие Сведения",
+        "en": "Общие Сведения"
+       },
+       "words": 702,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t132_9384cf63",
+       "title": {
+        "ru": "Аварийная остановка",
+        "en": "Аварийная остановка"
+       },
+       "words": 683,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t133_c87cceee",
+       "title": {
+        "ru": "Остановка машины",
+        "en": "Остановка машины"
+       },
+       "words": 915,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t134_c7eb9ca2",
+       "title": {
+        "ru": "Транспортное движение по дороге общего пользования",
+        "en": "Транспортное движение по дороге общего пользования"
+       },
+       "words": 848,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t135_9f8becd4",
+       "title": {
+        "ru": "Сварка",
+        "en": "Сварка"
+       },
+       "words": 1375,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t136_dc5ac793",
+       "title": {
+        "ru": "Колеса",
+        "en": "Колеса"
+       },
+       "words": 1287,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t138_512bbd9f",
+       "title": {
+        "ru": "Агрегат",
+        "en": "Агрегат"
+       },
+       "words": 581,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t139_fc397d04",
+       "title": {
+        "ru": "Лестницы и площадки",
+        "en": "Лестницы и площадки"
+       },
+       "words": 478,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t140_d0c42ce0",
+       "title": {
+        "ru": "Главный предохранитель",
+        "en": "Главный предохранитель"
+       },
+       "words": 759,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t141_23feb7f1",
+       "title": {
+        "ru": "Предупреждающие наклейки в кабине",
+        "en": "Предупреждающие наклейки в кабине"
+       },
+       "words": 1071,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t142_bdcfd77b",
+       "title": {
+        "ru": "Панели приборов",
+        "en": "Панели приборов"
+       },
+       "words": 625,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t145_2bc0bdf1",
+       "title": {
+        "ru": "Аварийный выход",
+        "en": "Аварийный выход"
+       },
+       "words": 555,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t147_d971b0a0",
+       "title": {
+        "ru": "Запуск при низкой температуре",
+        "en": "Запуск при низкой температуре"
+       },
+       "words": 755,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t149_e0b8f3ae",
+       "title": {
+        "ru": "Настройки сиденья",
+        "en": "Настройки сиденья"
+       },
+       "words": 636,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t150_aa2d61e1",
+       "title": {
+        "ru": "Изменение направления движения вперед/назад",
+        "en": "Изменение направления движения вперед/назад"
+       },
+       "words": 699,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t151_d9e5438e",
+       "title": {
+        "ru": "Выключение",
+        "en": "Выключение"
+       },
+       "words": 572,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t152_5508da76",
+       "title": {
+        "ru": "Извести, где ты находишься",
+        "en": "Извести, где ты находишься"
+       },
+       "words": 740,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t153_7a53b385",
+       "title": {
+        "ru": "Выбор передачи",
+        "en": "Выбор передачи"
+       },
+       "words": 637,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t154_b4e1cdc0",
+       "title": {
+        "ru": "В случае возникновения критических ситуаций при повороте на подъёме в гору",
+        "en": "В случае возникновения критических ситуаций при повороте на подъёме в гору"
+       },
+       "words": 569,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t155_37d43798",
+       "title": {
+        "ru": "Инструкции для движения",
+        "en": "Инструкции для движения"
+       },
+       "words": 843,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t156_e08dcd3b",
+       "title": {
+        "ru": "Проверь до начала движения",
+        "en": "Проверь до начала движения"
+       },
+       "words": 588,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t157_17048ee0",
+       "title": {
+        "ru": "Параллельно перемещаемый манипулятор",
+        "en": "Параллельно перемещаемый манипулятор"
+       },
+       "words": 651,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t158_211d293a",
+       "title": {
+        "ru": "Движение с горы",
+        "en": "Движение с горы"
+       },
+       "words": 560,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t159_36fde983",
+       "title": {
+        "ru": "Движение без транспортной опоры манипулятора",
+        "en": "Движение без транспортной опоры манипулятора"
+       },
+       "words": 558,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t161_3047be3e",
+       "title": {
+        "ru": "Предотвращение пожара и его тушение",
+        "en": "Предотвращение пожара и его тушение"
+       },
+       "words": 588,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t162_661690f5",
+       "title": {
+        "ru": "4. Индикация неисправности детектора",
+        "en": "4. Индикация неисправности детектора"
+       },
+       "words": 730,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t164_5fa5f3c5",
+       "title": {
+        "ru": "Перевозка на трейлере, на железнодорожной платформе и т.п",
+        "en": "Перевозка на трейлере, на железнодорожной платформе и т.п"
+       },
+       "words": 598,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t165_83d35af9",
+       "title": {
+        "ru": "Обслуживание и контроль",
+        "en": "Обслуживание и контроль"
+       },
+       "words": 557,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t166_3d9ed07a",
+       "title": {
+        "ru": "Общие инструкции по технике безопасности",
+        "en": "Общие инструкции по технике безопасности"
+       },
+       "words": 1272,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t167_93f15a62",
+       "title": {
+        "ru": "Уровень охлаждающей жидкости",
+        "en": "Уровень охлаждающей жидкости"
+       },
+       "words": 641,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t168_c47f0934",
+       "title": {
+        "ru": "Заливка топлива",
+        "en": "Заливка топлива"
+       },
+       "words": 1054,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t170_d8430e46",
+       "title": {
+        "ru": "Маркировка Краской",
+        "en": "Маркировка Краской"
+       },
+       "words": 549,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t171_aaf6762c",
+       "title": {
+        "ru": "Предупреждающие наклейки",
+        "en": "Предупреждающие наклейки"
+       },
+       "words": 746,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t172_d50b835c",
+       "title": {
+        "ru": "Запуск и остановка",
+        "en": "Запуск и остановка"
+       },
+       "words": 1152,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t173_3776c0c7",
+       "title": {
+        "ru": "Движение по пересечённой местности",
+        "en": "Движение по пересечённой местности"
+       },
+       "words": 787,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t174_75cb1759",
+       "title": {
+        "ru": "Заблокируй манипулятор в транспортном положении",
+        "en": "Заблокируй манипулятор в транспортном положении"
+       },
+       "words": 1465,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t175_0795ec6f",
+       "title": {
+        "ru": "Обращение с витоновыми уплотнениями",
+        "en": "Обращение с витоновыми уплотнениями"
+       },
+       "words": 1407,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t176_84b12e59",
+       "title": {
+        "ru": "Предисловие",
+        "en": "Предисловие"
+       },
+       "words": 825,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t177_de9c95bc",
+       "title": {
+        "ru": "Управление",
+        "en": "Управление"
+       },
+       "words": 827,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t178_bf185885",
+       "title": {
+        "ru": "Наружные органы управления и наклейки",
+        "en": "Наружные органы управления и наклейки"
+       },
+       "words": 554,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t180_dd340c0f",
+       "title": {
+        "ru": "Кабели",
+        "en": "Кабели"
+       },
+       "words": 895,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t181_79541bdb",
+       "title": {
+        "ru": "Окружение сиденья оператора",
+        "en": "Окружение сиденья оператора"
+       },
+       "words": 1020,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t182_bb40fba2",
+       "title": {
+        "ru": "Замок зажигания",
+        "en": "Замок зажигания"
+       },
+       "words": 706,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t183_a844c13e",
+       "title": {
+        "ru": "4. Скорость вентилятора (меню)",
+        "en": "4. Скорость вентилятора (меню)"
+       },
+       "words": 690,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t184_9d70a8fa",
+       "title": {
+        "ru": "2. Тестирование сигналов пожарной тревоги и сигналов нарушения системы",
+        "en": "2. Тестирование сигналов пожарной тревоги и сигналов нарушения системы"
+       },
+       "words": 700,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t186_c7024e8b",
+       "title": {
+        "ru": "Проверь перед запуском двигателя",
+        "en": "Проверь перед запуском двигателя"
+       },
+       "words": 922,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t188_fc8378f6",
+       "title": {
+        "ru": "Выход из машины в темноте",
+        "en": "Выход из машины в темноте"
+       },
+       "words": 808,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t189_e136d3a4",
+       "title": {
+        "ru": "Торможение машины",
+        "en": "Торможение машины"
+       },
+       "words": 750,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t190_fa2e876e",
+       "title": {
+        "ru": "Ездовой потенциометр (скорость)",
+        "en": "Ездовой потенциометр (скорость)"
+       },
+       "words": 714,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t192_a1e855a9",
+       "title": {
+        "ru": "Инструкции для движения",
+        "en": "Инструкции для движения"
+       },
+       "words": 647,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t193_ff28ccac",
+       "title": {
+        "ru": "В гору",
+        "en": "В гору"
+       },
+       "words": 710,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t194_3e035b2c",
+       "title": {
+        "ru": "Оборудование шин",
+        "en": "Оборудование шин"
+       },
+       "words": 631,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t195_d04bdca5",
+       "title": {
+        "ru": "Функции манипулятора на правом джойстике",
+        "en": "Функции манипулятора на правом джойстике"
+       },
+       "words": 1031,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t196_0807a519",
+       "title": {
+        "ru": "Заблокируй кабину в транспортном положении",
+        "en": "Заблокируй кабину в транспортном положении"
+       },
+       "words": 709,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t197_2b966431",
+       "title": {
+        "ru": "7. Перейди на повышенную передачу для движения по дороге",
+        "en": "7. Перейди на повышенную передачу для движения по дороге"
+       },
+       "words": 636,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t198_c523cbaf",
+       "title": {
+        "ru": "Крутой поворот",
+        "en": "Крутой поворот"
+       },
+       "words": 697,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t199_ad2276d2",
+       "title": {
+        "ru": "MaxiXplorer не стартует",
+        "en": "MaxiXplorer не стартует"
+       },
+       "words": 666,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t201_44e7b300",
+       "title": {
+        "ru": "Система пожаротушения (дополнительное оборудование)",
+        "en": "Система пожаротушения (дополнительное оборудование)"
+       },
+       "words": 716,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t202_b7707f7b",
+       "title": {
+        "ru": "Ручной огнетушитель",
+        "en": "Ручной огнетушитель"
+       },
+       "words": 811,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t203_68ce4835",
+       "title": {
+        "ru": "Буксировка машины с работающим двигателем",
+        "en": "Буксировка машины с работающим двигателем"
+       },
+       "words": 660,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t204_cd002991",
+       "title": {
+        "ru": "Вверх",
+        "en": "Вверх"
+       },
+       "words": 648,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t205_2783a347",
+       "title": {
+        "ru": "Обслуживание машины в помещении",
+        "en": "Обслуживание машины в помещении"
+       },
+       "words": 1343,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t206_9f4988dd",
+       "title": {
+        "ru": "Проверь также",
+        "en": "Проверь также"
+       },
+       "words": 708,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t207_f409e913",
+       "title": {
+        "ru": "Влагоотделитель",
+        "en": "Влагоотделитель"
+       },
+       "words": 763,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t208_8459bb40",
+       "title": {
+        "ru": "Давление",
+        "en": "Давление"
+       },
+       "words": 1085,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t210_c11cd335",
+       "title": {
+        "ru": "Общие Сведения",
+        "en": "Общие Сведения"
+       },
+       "words": 882,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t211_bef50cab",
+       "title": {
+        "ru": "Аварийная остановка",
+        "en": "Аварийная остановка"
+       },
+       "words": 863,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t212_51b5cbee",
+       "title": {
+        "ru": "Остановка машины",
+        "en": "Остановка машины"
+       },
+       "words": 1095,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t213_dd4bcc09",
+       "title": {
+        "ru": "Транспортное движение по дороге общего пользования",
+        "en": "Транспортное движение по дороге общего пользования"
+       },
+       "words": 1028,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t214_d9e8a10a",
+       "title": {
+        "ru": "Сварка",
+        "en": "Сварка"
+       },
+       "words": 1555,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_911_general_t215_401470be",
+       "title": {
+        "ru": "Колеса",
+        "en": "Колеса"
+       },
+       "words": 354,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "porsche_911_drivetrain_t000_e42de688",
+       "title": {
+        "ru": "Трансмиссия",
+        "en": "Трансмиссия"
+       },
+       "words": 531,
+       "images": 2,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_911_drivetrain_t002_742aceb4",
+       "title": {
+        "ru": "6. Включи привод на все колеса",
+        "en": "6. Включи привод на все колеса"
+       },
+       "words": 579,
+       "images": 2,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": []
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "porsche_911_infotainment_t000_73e94f06",
+       "title": {
+        "ru": "3. Дисплей",
+        "en": "3. Дисплей"
+       },
+       "words": 285,
+       "images": 3,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_911_infotainment_t001_afca16cf",
+       "title": {
+        "ru": "Если звучит сигнал аварийного зуммера",
+        "en": "Если звучит сигнал аварийного зуммера"
+       },
+       "words": 398,
+       "images": 3,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_911_infotainment_t002_d4455537",
+       "title": {
+        "ru": "3. Дисплей",
+        "en": "3. Дисплей"
+       },
+       "words": 473,
+       "images": 4,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

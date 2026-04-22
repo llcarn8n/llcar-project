@@ -1,0 +1,775 @@
+{
+ "version": "1.0",
+ "model": "kicks",
+ "manuals": [
+  {
+   "model": "kicks",
+   "label": {
+    "ru": "Nissan Kicks — Руководство по ремонту",
+    "en": "Nissan Kicks — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "nissan_kicks_engine_t000_26d8e8ab",
+       "title": {
+        "ru": "Type B (if so equipped): The low fuel warn-",
+        "en": "Type B (if so equipped): The low fuel warn-"
+       },
+       "words": 2364,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_kicks_engine_t001_a4443fe1",
+       "title": {
+        "ru": "The vehicle should be driven with the VDC",
+        "en": "The vehicle should be driven with the VDC"
+       },
+       "words": 2733,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_kicks_engine_t002_dffb3e45",
+       "title": {
+        "ru": "When the shift lever is shifted to any posi-",
+        "en": "When the shift lever is shifted to any posi-"
+       },
+       "words": 3486,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_kicks_engine_t003_ffaead38",
+       "title": {
+        "ru": "The chassis control is an electric control",
+        "en": "The chassis control is an electric control"
+       },
+       "words": 3708,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_kicks_engine_t004_88f43671",
+       "title": {
+        "ru": "The engine cooling system is filled at the",
+        "en": "The engine cooling system is filled at the"
+       },
+       "words": 2387,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_kicks_engine_t005_ddd075ff",
+       "title": {
+        "ru": "The following are approximate capacities. The actual refill",
+        "en": "The following are approximate capacities. The actual refill"
+       },
+       "words": 2967,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_kicks_engine_t006_82ea32a5",
+       "title": {
+        "ru": "Bulb check/instrument panel. . . . . . . .2-12",
+        "en": "Bulb check/instrument panel. . . . . . . .2-12"
+       },
+       "words": 4255,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "nissan_kicks_engine_t007_44e77ca5",
+       "title": {
+        "ru": "FUEL RECOMMENDATION:",
+        "en": "FUEL RECOMMENDATION:"
+       },
+       "words": 378,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "nissan_kicks_brakes_t000_d148568f",
+       "title": {
+        "ru": "The information contained within this supplement revises or",
+        "en": "The information contained within this supplement revises or"
+       },
+       "words": 2311,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_kicks_brakes_t001_eb528748",
+       "title": {
+        "ru": "To reset at a slower cruising speed, use one",
+        "en": "To reset at a slower cruising speed, use one"
+       },
+       "words": 2771,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_kicks_brakes_t002_7605f8dd",
+       "title": {
+        "ru": "While the AEB with Pedestrian Detection",
+        "en": "While the AEB with Pedestrian Detection"
+       },
+       "words": 2644,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_kicks_brakes_t003_8d920108",
+       "title": {
+        "ru": "When installing Genuine NISSAN floor mats,",
+        "en": "When installing Genuine NISSAN floor mats,"
+       },
+       "words": 2667,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_kicks_brakes_t004_3787dae1",
+       "title": {
+        "ru": "Severe maintenance:",
+        "en": "Severe maintenance:"
+       },
+       "words": 2029,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "nissan_kicks_brakes_t005_ad03ab46",
+       "title": {
+        "ru": "110,000 miles/(176,000 km)/",
+        "en": "110,000 miles/(176,000 km)/"
+       },
+       "words": 434,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "nissan_kicks_suspension_t000_4f881287",
+       "title": {
+        "ru": "• Do not close the liftgate while holding the",
+        "en": "• Do not close the liftgate while holding the"
+       },
+       "words": 1481,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "nissan_kicks_hvac_t000_58ba04f9",
+       "title": {
+        "ru": "AUTOMATIC OPERATION",
+        "en": "AUTOMATIC OPERATION"
+       },
+       "words": 392,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "nissan_kicks_body_t000_d1e88dec",
+       "title": {
+        "ru": "Emergency call (SOS) button (if so equipped) . . .2-56",
+        "en": "Emergency call (SOS) button (if so equipped) . . .2-56"
+       },
+       "words": 2778,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_kicks_body_t001_7dd0d524",
+       "title": {
+        "ru": "• The doors are unlocked while the ignition",
+        "en": "• The doors are unlocked while the ignition"
+       },
+       "words": 2393,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_kicks_body_t002_54e2e849",
+       "title": {
+        "ru": "The LDW system will operate when the ve-",
+        "en": "The LDW system will operate when the ve-"
+       },
+       "words": 2496,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_kicks_body_t003_e908e367",
+       "title": {
+        "ru": "If you wax the surface of the hood, be care-",
+        "en": "If you wax the surface of the hood, be care-"
+       },
+       "words": 2983,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "nissan_kicks_body_t004_ccee7ace",
+       "title": {
+        "ru": "Under the hood and vehicle . . . . . . .9-4",
+        "en": "Under the hood and vehicle . . . . . . .9-4"
+       },
+       "words": 2265,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "nissan_kicks_steering_t000_a413b24f",
+       "title": {
+        "ru": "When the ignition switch is placed in the ON",
+        "en": "When the ignition switch is placed in the ON"
+       },
+       "words": 2479,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "nissan_kicks_steering_t001_dd6b4471",
+       "title": {
+        "ru": "The low tire pressure warning light may",
+        "en": "The low tire pressure warning light may"
+       },
+       "words": 2931,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "nissan_kicks_steering_t002_7660a915",
+       "title": {
+        "ru": "Always refer to the proper illustrations for",
+        "en": "Always refer to the proper illustrations for"
+       },
+       "words": 2589,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "nissan_kicks_steering_t003_da9db954",
+       "title": {
+        "ru": "Spare tire (TEMPORARY USE ONLY",
+        "en": "Spare tire (TEMPORARY USE ONLY"
+       },
+       "words": 429,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "nissan_kicks_lighting_t000_5133f6fa",
+       "title": {
+        "ru": "The \"CHECK TIRE PRES\" warning message",
+        "en": "The \"CHECK TIRE PRES\" warning message"
+       },
+       "words": 2958,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_kicks_lighting_t001_52240c62",
+       "title": {
+        "ru": "The following systems (if so equipped) are",
+        "en": "The following systems (if so equipped) are"
+       },
+       "words": 2329,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_kicks_lighting_t002_7678a117",
+       "title": {
+        "ru": "After the ignition switched is placed in the",
+        "en": "After the ignition switched is placed in the"
+       },
+       "words": 2803,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_kicks_lighting_t003_27a14301",
+       "title": {
+        "ru": "When the shift position is in R (Reverse) and",
+        "en": "When the shift position is in R (Reverse) and"
+       },
+       "words": 1297,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_kicks_lighting_t004_c4db12f1",
+       "title": {
+        "ru": "For vehicles equipped with the Drive Sys-",
+        "en": "For vehicles equipped with the Drive Sys-"
+       },
+       "words": 1340,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "nissan_kicks_lighting_t005_ef102c75",
+       "title": {
+        "ru": "• If the battery is labeled “do not open” it is",
+        "en": "• If the battery is labeled “do not open” it is"
+       },
+       "words": 2896,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "nissan_kicks_adas_t000_2b570915",
+       "title": {
+        "ru": "The Emergency call (SOS) button is used in",
+        "en": "The Emergency call (SOS) button is used in"
+       },
+       "words": 2875,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "nissan_kicks_adas_t001_da18fa81",
+       "title": {
+        "ru": "For vehicles with the LDW switch (if so",
+        "en": "For vehicles with the LDW switch (if so"
+       },
+       "words": 3645,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "nissan_kicks_adas_t002_f26a918e",
+       "title": {
+        "ru": "CONVENTIONAL (fixed speed)",
+        "en": "CONVENTIONAL (fixed speed)"
+       },
+       "words": 2315,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "nissan_kicks_adas_t003_451499e4",
+       "title": {
+        "ru": "SONAR LIMITATIONS",
+        "en": "SONAR LIMITATIONS"
+       },
+       "words": 3965,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "nissan_kicks_interior_t000_62b39e08",
+       "title": {
+        "ru": "Seat lifter (driver's seat)",
+        "en": "Seat lifter (driver's seat)"
+       },
+       "words": 2612,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_kicks_interior_t001_a4466c80",
+       "title": {
+        "ru": "• Is the child able to sit without slouching?",
+        "en": "• Is the child able to sit without slouching?"
+       },
+       "words": 2396,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_kicks_interior_t002_c048f8cc",
+       "title": {
+        "ru": "If the seating position does not have an",
+        "en": "If the seating position does not have an"
+       },
+       "words": 2653,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_kicks_interior_t003_d7179efb",
+       "title": {
+        "ru": "Do not install child restraints that require",
+        "en": "Do not install child restraints that require"
+       },
+       "words": 1909,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_kicks_interior_t004_739b0f19",
+       "title": {
+        "ru": "If an adult occupant is in the seat but the",
+        "en": "If an adult occupant is in the seat but the"
+       },
+       "words": 3772,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_kicks_interior_t005_a9fc3544",
+       "title": {
+        "ru": "This indicator means that the engine will",
+        "en": "This indicator means that the engine will"
+       },
+       "words": 3163,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "nissan_kicks_interior_t006_6e19138f",
+       "title": {
+        "ru": "– The shift lever is in the P (Park) position.",
+        "en": "– The shift lever is in the P (Park) position."
+       },
+       "words": 2089,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "nissan_kicks_ev_t000_b81dacad",
+       "title": {
+        "ru": "The extended storage switch is used when",
+        "en": "The extended storage switch is used when"
+       },
+       "words": 2478,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_kicks_ev_t001_1b229992",
+       "title": {
+        "ru": "The screen displayed on the Intelligent",
+        "en": "The screen displayed on the Intelligent"
+       },
+       "words": 2706,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_kicks_ev_t002_3dee8550",
+       "title": {
+        "ru": "• When the shift lever is in the D (Drive)",
+        "en": "• When the shift lever is in the D (Drive)"
+       },
+       "words": 2997,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_kicks_ev_t003_0329cf15",
+       "title": {
+        "ru": "When passing another vehicle, the set",
+        "en": "When passing another vehicle, the set"
+       },
+       "words": 2692,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_kicks_ev_t004_5889abc3",
+       "title": {
+        "ru": "In order to maintain the appearance of",
+        "en": "In order to maintain the appearance of"
+       },
+       "words": 2135,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "nissan_kicks_ev_t005_151521b5",
+       "title": {
+        "ru": "If you have a flat tire, see “Flat tire”",
+        "en": "If you have a flat tire, see “Flat tire”"
+       },
+       "words": 961,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "nissan_kicks_general_t000_ba8a2d6a",
+       "title": {
+        "ru": "To Close: Insert finger through flap notches",
+        "en": "To Close: Insert finger through flap notches"
+       },
+       "words": 3812,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_kicks_general_t001_3cbe4929",
+       "title": {
+        "ru": "As many as four Intelligent Keys can be",
+        "en": "As many as four Intelligent Keys can be"
+       },
+       "words": 3687,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_kicks_general_t002_cbefdbc1",
+       "title": {
+        "ru": "The availability of the text message func-",
+        "en": "The availability of the text message func-"
+       },
+       "words": 4225,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_kicks_general_t003_d37a129e",
+       "title": {
+        "ru": "DOT (Department of Transportation) Qual-",
+        "en": "DOT (Department of Transportation) Qual-"
+       },
+       "words": 3279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "nissan_kicks_general_t004_054d374d",
+       "title": {
+        "ru": "Your NISSAN vehicle is covered by the fol-",
+        "en": "Your NISSAN vehicle is covered by the fol-"
+       },
+       "words": 677,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_kicks_sensors_t000_4f611e5d",
+       "title": {
+        "ru": "The RCTA system uses radar sensors O",
+        "en": "The RCTA system uses radar sensors O"
+       },
+       "words": 1887,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "nissan_kicks_sensors_t001_013d5016",
+       "title": {
+        "ru": "The detection zone of the radar sensor is",
+        "en": "The detection zone of the radar sensor is"
+       },
+       "words": 1961,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "nissan_kicks_sensors_t002_7300015b",
+       "title": {
+        "ru": "Action to take:",
+        "en": "Action to take:"
+       },
+       "words": 628,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_kicks_infotainment_t000_32643492",
+       "title": {
+        "ru": "TRIP COMPUTER (if so equipped)",
+        "en": "TRIP COMPUTER (if so equipped)"
+       },
+       "words": 2874,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_kicks_infotainment_t001_6e5ec771",
+       "title": {
+        "ru": "• Bit rate — Bit rate denotes the number of",
+        "en": "• Bit rate — Bit rate denotes the number of"
+       },
+       "words": 3144,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "nissan_kicks_infotainment_t002_f96908ce",
+       "title": {
+        "ru": "Some indicators and warnings for opera-",
+        "en": "Some indicators and warnings for opera-"
+       },
+       "words": 2856,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "nissan_kicks_drivetrain_t000_c126a693",
+       "title": {
+        "ru": "6. Tighten all 4 bolts to 8–9 N-m torque",
+        "en": "6. Tighten all 4 bolts to 8–9 N-m torque"
+       },
+       "words": 2726,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "nissan_kicks_drivetrain_t001_c2e21b9f",
+       "title": {
+        "ru": "Even if the I–TC is turned OFF, some func-",
+        "en": "Even if the I–TC is turned OFF, some func-"
+       },
+       "words": 2565,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "nissan_kicks_drivetrain_t002_b4b43909",
+       "title": {
+        "ru": "MEASUREMENT OF WEIGHTS",
+        "en": "MEASUREMENT OF WEIGHTS"
+       },
+       "words": 411,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

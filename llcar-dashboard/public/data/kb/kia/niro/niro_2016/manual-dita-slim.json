@@ -1,0 +1,855 @@
+{
+ "version": "1.0",
+ "model": "niro",
+ "manuals": [
+  {
+   "model": "niro",
+   "label": {
+    "ru": "Kia Niro — Руководство по ремонту",
+    "en": "Kia Niro — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "kia_niro_engine_t000_9e1e32a4",
+       "title": {
+        "ru": "If TOP TIER Detergent Gasoline is",
+        "en": "If TOP TIER Detergent Gasoline is"
+       },
+       "words": 2735,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_niro_engine_t001_6f739b78",
+       "title": {
+        "ru": "AIR BAG - ADVANCED SUPPLEMENTAL RESTRAINT SYSTEM",
+        "en": "AIR BAG - ADVANCED SUPPLEMENTAL RESTRAINT SYSTEM"
+       },
+       "words": 2364,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_niro_engine_t002_9f788e0f",
+       "title": {
+        "ru": "FUEL FILLER LID (PLUG-IN HYBRID)",
+        "en": "FUEL FILLER LID (PLUG-IN HYBRID)"
+       },
+       "words": 1607,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_niro_engine_t003_c037cff1",
+       "title": {
+        "ru": "Turn on FUSE SWITCH (if equipped)",
+        "en": "Turn on FUSE SWITCH (if equipped)"
+       },
+       "words": 2459,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_niro_engine_t004_84bb47c9",
+       "title": {
+        "ru": "CAUTION - Malfunction",
+        "en": "CAUTION - Malfunction"
+       },
+       "words": 2318,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_niro_engine_t005_b24c7794",
+       "title": {
+        "ru": "Do not press the ENGINE START/",
+        "en": "Do not press the ENGINE START/"
+       },
+       "words": 1129,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_niro_engine_t006_a059f0a0",
+       "title": {
+        "ru": "CRUISE ON-OFF switch was used",
+        "en": "CRUISE ON-OFF switch was used"
+       },
+       "words": 2814,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_niro_engine_t007_1818f845",
+       "title": {
+        "ru": "WARNING - Maintenance",
+        "en": "WARNING - Maintenance"
+       },
+       "words": 1878,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_niro_engine_t008_094df1e8",
+       "title": {
+        "ru": "CAUTION - Radiator cap",
+        "en": "CAUTION - Radiator cap"
+       },
+       "words": 1536,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_niro_engine_t009_31b5616e",
+       "title": {
+        "ru": "WARNING - Engine clutch",
+        "en": "WARNING - Engine clutch"
+       },
+       "words": 1034,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_niro_engine_t010_32fad4a5",
+       "title": {
+        "ru": "SPIRAX S6 GHME 70W DCTF (H.K.SHELL),",
+        "en": "SPIRAX S6 GHME 70W DCTF (H.K.SHELL),"
+       },
+       "words": 1488,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "kia_niro_engine_t011_c194a065",
+       "title": {
+        "ru": "ENGINE NUMBER",
+        "en": "ENGINE NUMBER"
+       },
+       "words": 163,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "kia_niro_brakes_t000_7bdbcf53",
+       "title": {
+        "ru": "WARNING - Driver respon-",
+        "en": "WARNING - Driver respon-"
+       },
+       "words": 2719,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_niro_brakes_t001_e8561b23",
+       "title": {
+        "ru": "CAUTION - Replace brake",
+        "en": "CAUTION - Replace brake"
+       },
+       "words": 2819,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_niro_brakes_t002_f8a12e0f",
+       "title": {
+        "ru": "WARNING - Maintaining",
+        "en": "WARNING - Maintaining"
+       },
+       "words": 1279,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_niro_brakes_t003_8078af81",
+       "title": {
+        "ru": "WARNING - Sudden",
+        "en": "WARNING - Sudden"
+       },
+       "words": 2068,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "kia_niro_brakes_t004_18fa71c3",
+       "title": {
+        "ru": "PARKING BRAKE",
+        "en": "PARKING BRAKE"
+       },
+       "words": 1628,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "kia_niro_suspension_t000_ac92b0ce",
+       "title": {
+        "ru": "WARNING - Driver’s seat",
+        "en": "WARNING - Driver’s seat"
+       },
+       "words": 1395,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_niro_suspension_t001_7f0afc06",
+       "title": {
+        "ru": "LANE KEEPING ASSIST SYSTEM (LKAS) (IF EQUIPPED)",
+        "en": "LANE KEEPING ASSIST SYSTEM (LKAS) (IF EQUIPPED)"
+       },
+       "words": 1686,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_niro_suspension_t002_6f3943b6",
+       "title": {
+        "ru": "CAUTION - Vehicle rocking",
+        "en": "CAUTION - Vehicle rocking"
+       },
+       "words": 1312,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_niro_suspension_t003_133d1cfd",
+       "title": {
+        "ru": "TIRE PRESSURE MONITORING SYSTEM (TPMS)",
+        "en": "TIRE PRESSURE MONITORING SYSTEM (TPMS)"
+       },
+       "words": 2390,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_niro_suspension_t004_95d00f71",
+       "title": {
+        "ru": "IF YOU HAVE A FLAT TIRE (WITH TIRE MOBILITY KIT)",
+        "en": "IF YOU HAVE A FLAT TIRE (WITH TIRE MOBILITY KIT)"
+       },
+       "words": 1595,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_niro_suspension_t005_1202dfc3",
+       "title": {
+        "ru": "WARNING - Tire Inflation",
+        "en": "WARNING - Tire Inflation"
+       },
+       "words": 1689,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_niro_suspension_t006_0bc89cca",
+       "title": {
+        "ru": "DOT XXXX XXXX 1618 represents",
+        "en": "DOT XXXX XXXX 1618 represents"
+       },
+       "words": 3167,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "kia_niro_suspension_t007_25a046d9",
+       "title": {
+        "ru": "CAUTION - Leather",
+        "en": "CAUTION - Leather"
+       },
+       "words": 851,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "kia_niro_transmission_t000_c005f817",
+       "title": {
+        "ru": "WARNING - Cargo loading",
+        "en": "WARNING - Cargo loading"
+       },
+       "words": 1410,
+       "images": 0,
+       "section_id": "transmission"
+      },
+      {
+       "id": "kia_niro_transmission_t001_34c0cc72",
+       "title": {
+        "ru": "CAUTION - Dual clutch",
+        "en": "CAUTION - Dual clutch"
+       },
+       "words": 61,
+       "images": 0,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "kia_niro_hvac_t000_9f4a577e",
+       "title": {
+        "ru": "When the PASS AIR BAG “OFF”",
+        "en": "When the PASS AIR BAG “OFF”"
+       },
+       "words": 1887,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "kia_niro_hvac_t001_c265397a",
+       "title": {
+        "ru": "WINDSHIELD DEFROSTING AND DEFOGGING",
+        "en": "WINDSHIELD DEFROSTING AND DEFOGGING"
+       },
+       "words": 11979,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "kia_niro_body_t000_a308babe",
+       "title": {
+        "ru": "WARNING - Unexpected",
+        "en": "WARNING - Unexpected"
+       },
+       "words": 1898,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_niro_body_t001_00325a6e",
+       "title": {
+        "ru": "WARNING - Skin Irritation",
+        "en": "WARNING - Skin Irritation"
+       },
+       "words": 1496,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_niro_body_t002_8a75ff1f",
+       "title": {
+        "ru": "You will find the PASSENGER AIR",
+        "en": "You will find the PASSENGER AIR"
+       },
+       "words": 1935,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_niro_body_t003_595c0672",
+       "title": {
+        "ru": "WARNING - Power win-",
+        "en": "WARNING - Power win-"
+       },
+       "words": 1792,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_niro_body_t004_00ee99eb",
+       "title": {
+        "ru": "If you press the DRIVER ONLY but-",
+        "en": "If you press the DRIVER ONLY but-"
+       },
+       "words": 1215,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "kia_niro_body_t005_222b800d",
+       "title": {
+        "ru": "VEHICLE IDENTIFICATION NUMBER (VIN)",
+        "en": "VEHICLE IDENTIFICATION NUMBER (VIN)"
+       },
+       "words": 726,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "kia_niro_lighting_t000_acbcd538",
+       "title": {
+        "ru": "WARNING - Air bag sen-",
+        "en": "WARNING - Air bag sen-"
+       },
+       "words": 2356,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_niro_lighting_t001_f9e7451f",
+       "title": {
+        "ru": "ESC OFF button (ESC OFF",
+        "en": "ESC OFF button (ESC OFF"
+       },
+       "words": 1695,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_niro_lighting_t002_493233b7",
+       "title": {
+        "ru": "WARNING - Emergency",
+        "en": "WARNING - Emergency"
+       },
+       "words": 1815,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "kia_niro_lighting_t003_5e3c8001",
+       "title": {
+        "ru": "ODE076040",
+        "en": "ODE076040"
+       },
+       "words": 761,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "kia_niro_adas_t000_1467e667",
+       "title": {
+        "ru": "AUTONOMOUS EMERGENCY BRAKING (AEB) (IF EQUIPPED)",
+        "en": "AUTONOMOUS EMERGENCY BRAKING (AEB) (IF EQUIPPED)"
+       },
+       "words": 1941,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "kia_niro_adas_t001_b7cfe8c8",
+       "title": {
+        "ru": "WARNING - Side and",
+        "en": "WARNING - Side and"
+       },
+       "words": 1476,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "kia_niro_interior_t000_ca1c05b3",
+       "title": {
+        "ru": "VEHICLE DATA COLLECTION AND EVENT DATA RECORDERS",
+        "en": "VEHICLE DATA COLLECTION AND EVENT DATA RECORDERS"
+       },
+       "words": 550,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "kia_niro_general_t000_37b6d952",
+       "title": {
+        "ru": "CAUTIONs, and NOTICEs in this",
+        "en": "CAUTIONs, and NOTICEs in this"
+       },
+       "words": 884,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_niro_general_t001_7d52f461",
+       "title": {
+        "ru": "EXTERIOR FEATURES",
+        "en": "EXTERIOR FEATURES"
+       },
+       "words": 4098,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "kia_niro_general_t002_e8114d3e",
+       "title": {
+        "ru": "WARNING - Rollover",
+        "en": "WARNING - Rollover"
+       },
+       "words": 1910,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "ev_battery",
+     "title": {
+      "ru": "ev_battery",
+      "en": "ev_battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_niro_ev_battery_t000_6b27b0fe",
+       "title": {
+        "ru": "CHARGING THE PLUG-IN HYBRID VEHICLE (CONT.)",
+        "en": "CHARGING THE PLUG-IN HYBRID VEHICLE (CONT.)"
+       },
+       "words": 1481,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t001_c21497c8",
+       "title": {
+        "ru": "CHARGING THE PLUG-IN HYBRID VEHICLE (CONT.)",
+        "en": "CHARGING THE PLUG-IN HYBRID VEHICLE (CONT.)"
+       },
+       "words": 1240,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t002_dd4ef431",
+       "title": {
+        "ru": "DRIVING THE HYBRID/PLUG-IN HYBRID VEHICLE (CONT.)",
+        "en": "DRIVING THE HYBRID/PLUG-IN HYBRID VEHICLE (CONT.)"
+       },
+       "words": 2169,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t003_670900eb",
+       "title": {
+        "ru": "STARTING THE HYBRID/PLUG-IN HYBRID VEHICLE (SMART KEY) (CONT.)",
+        "en": "STARTING THE HYBRID/PLUG-IN HYBRID VEHICLE (SMART KEY) (CONT.)"
+       },
+       "words": 1259,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t004_f3060335",
+       "title": {
+        "ru": "COMPONENTS OF THE HYBRID/PLUG-IN HYBRID VEHICLE (CONT.)",
+        "en": "COMPONENTS OF THE HYBRID/PLUG-IN HYBRID VEHICLE (CONT.)"
+       },
+       "words": 889,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t005_9ced0364",
+       "title": {
+        "ru": "COMPONENTS OF THE HYBRID/PLUG-IN HYBRID VEHICLE (CONT.)",
+        "en": "COMPONENTS OF THE HYBRID/PLUG-IN HYBRID VEHICLE (CONT.)"
+       },
+       "words": 1966,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t006_0b12a912",
+       "title": {
+        "ru": "WARNING - Shoulder Belt",
+        "en": "WARNING - Shoulder Belt"
+       },
+       "words": 1438,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t007_faf5dbc9",
+       "title": {
+        "ru": "WARNING - ODS system",
+        "en": "WARNING - ODS system"
+       },
+       "words": 5679,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t008_9fd2273f",
+       "title": {
+        "ru": "WARNING - Ignition key",
+        "en": "WARNING - Ignition key"
+       },
+       "words": 1721,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t009_68afcef9",
+       "title": {
+        "ru": "WARNING - Portable fuel",
+        "en": "WARNING - Portable fuel"
+       },
+       "words": 1880,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t010_fdea18b5",
+       "title": {
+        "ru": "CAUTION - Outside mirror",
+        "en": "CAUTION - Outside mirror"
+       },
+       "words": 1350,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t011_898f6fa7",
+       "title": {
+        "ru": "SPORT Mode Indicator",
+        "en": "SPORT Mode Indicator"
+       },
+       "words": 2716,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t012_5c9ab8f2",
+       "title": {
+        "ru": "WARNING - Sunglass",
+        "en": "WARNING - Sunglass"
+       },
+       "words": 1198,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t013_71aaa9df",
+       "title": {
+        "ru": "CAUTION - Electric acces-",
+        "en": "CAUTION - Electric acces-"
+       },
+       "words": 1443,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t014_97a41e43",
+       "title": {
+        "ru": "If you leave the ENGINE START/",
+        "en": "If you leave the ENGINE START/"
+       },
+       "words": 1400,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t015_489ecc57",
+       "title": {
+        "ru": "BLIND SPOT DETECTION SYSTEM (BSD) (IF EQUIPPED)",
+        "en": "BLIND SPOT DETECTION SYSTEM (BSD) (IF EQUIPPED)"
+       },
+       "words": 1813,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t016_271a9c54",
+       "title": {
+        "ru": "DRIVER ATTENTION ALERT SYSTEM (DAA) (IF EQUIPPED)",
+        "en": "DRIVER ATTENTION ALERT SYSTEM (DAA) (IF EQUIPPED)"
+       },
+       "words": 1585,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t017_c186e621",
+       "title": {
+        "ru": "WARNING - Sulfuric acid",
+        "en": "WARNING - Sulfuric acid"
+       },
+       "words": 3846,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t018_78d8ba08",
+       "title": {
+        "ru": "CLIMATE CONTROL AIR FILTER (IF EQUIPPED)",
+        "en": "CLIMATE CONTROL AIR FILTER (IF EQUIPPED)"
+       },
+       "words": 943,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t019_8884e8bf",
+       "title": {
+        "ru": "WARNING - Recharging",
+        "en": "WARNING - Recharging"
+       },
+       "words": 1488,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t020_c40ea706",
+       "title": {
+        "ru": "CAUTION - Electrical",
+        "en": "CAUTION - Electrical"
+       },
+       "words": 2144,
+       "images": 0,
+       "section_id": "ev_battery"
+      },
+      {
+       "id": "kia_niro_ev_battery_t021_fded3e6e",
+       "title": {
+        "ru": "For HEV",
+        "en": "For HEV"
+       },
+       "words": 83,
+       "images": 0,
+       "section_id": "ev_battery"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_niro_safety_t000_7687ad6f",
+       "title": {
+        "ru": "WARNING - Small children",
+        "en": "WARNING - Small children"
+       },
+       "words": 1823,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_niro_safety_t001_50a2e739",
+       "title": {
+        "ru": "WARNING - Airbag infla-",
+        "en": "WARNING - Airbag infla-"
+       },
+       "words": 1450,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "kia_niro_safety_t002_f4db5a59",
+       "title": {
+        "ru": "WARNING - Sealant",
+        "en": "WARNING - Sealant"
+       },
+       "words": 40,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "kia_niro_infotainment_t000_85733fc7",
+       "title": {
+        "ru": "AUDIO SYSTEM (IF EQUIPPED)",
+        "en": "AUDIO SYSTEM (IF EQUIPPED)"
+       },
+       "words": 1205,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

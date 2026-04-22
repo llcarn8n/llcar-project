@@ -1,0 +1,1865 @@
+{
+ "version": "1.0",
+ "model": "xsara",
+ "manuals": [
+  {
+   "model": "xsara",
+   "label": {
+    "ru": "Citroen Xsara — Руководство по ремонту",
+    "en": "Citroen Xsara — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "citroen_xsara_engine_t000_fa4ffc45",
+       "title": {
+        "ru": "12 Valve clearances (8-valve engines) - checking and adjustment",
+        "en": "12 Valve clearances (8-valve engines) - checking and adjustment"
+       },
+       "words": 1883,
+       "images": 4,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_xsara_engine_t001_e2d6b561",
+       "title": {
+        "ru": "Engine (tensioner assembly) bracket bolts .",
+        "en": "Engine (tensioner assembly) bracket bolts ."
+       },
+       "words": 2776,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_xsara_engine_t002_46d1edcc",
+       "title": {
+        "ru": "12 Valve clearances (1.9 litre engines) - checking and adjustment",
+        "en": "12 Valve clearances (1.9 litre engines) - checking and adjustment"
+       },
+       "words": 1815,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_xsara_engine_t003_ac7a7711",
+       "title": {
+        "ru": "7.4b .. and withdraw the coolant pump impeller assembly from the housing - 1.4 l",
+        "en": "7.4b .. and withdraw the coolant pump impeller assembly from the housing - 1.4 l"
+       },
+       "words": 3036,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_xsara_engine_t004_ae683388",
+       "title": {
+        "ru": "Air distribution housing - WJZ (Dw engine) models",
+        "en": "Air distribution housing - WJZ (Dw engine) models"
+       },
+       "words": 1261,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_xsara_engine_t005_1518d92e",
+       "title": {
+        "ru": "Caution: Do not attempt to remove the four high pressure fuel pipe male unions f",
+        "en": "Caution: Do not attempt to remove the four high pressure fuel pipe male unions f"
+       },
+       "words": 2304,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_xsara_engine_t006_ff02f57f",
+       "title": {
+        "ru": "15 Vacuum servo unit – testing, removal and refitting",
+        "en": "15 Vacuum servo unit – testing, removal and refitting"
+       },
+       "words": 1234,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "citroen_xsara_brakes_t000_2fc3cad0",
+       "title": {
+        "ru": "2.22 On models with a staked driveshaft retaining nut, tighten the nut and stake",
+        "en": "2.22 On models with a staked driveshaft retaining nut, tighten the nut and stake"
+       },
+       "words": 1329,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_xsara_brakes_t001_b03ba98e",
+       "title": {
+        "ru": "4.25Slide the caliper into position, fit the guide pin bolts, and tighten to the",
+        "en": "4.25Slide the caliper into position, fit the guide pin bolts, and tighten to the"
+       },
+       "words": 2779,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_xsara_brakes_t002_2ce164e3",
+       "title": {
+        "ru": "19.6 On drum brake models, drive the outer cable from the brake backplate",
+        "en": "19.6 On drum brake models, drive the outer cable from the brake backplate"
+       },
+       "words": 1300,
+       "images": 3,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "citroen_xsara_suspension_t000_7c4cdaf5",
+       "title": {
+        "ru": "Removal",
+        "en": "Removal"
+       },
+       "words": 229,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "citroen_xsara_electrical_t000_e0b00350",
+       "title": {
+        "ru": "9 Instrument panel - removal and refitting",
+        "en": "9 Instrument panel - removal and refitting"
+       },
+       "words": 1066,
+       "images": 1,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "citroen_xsara_hvac_t000_ca697e59",
+       "title": {
+        "ru": "Heater matrix hose connecti",
+        "en": "Heater matrix hose connecti"
+       },
+       "words": 79,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "citroen_xsara_body_t000_becfad70",
+       "title": {
+        "ru": "14.23a Undo the two screws (arrowed) securing the rear door window glassto the l",
+        "en": "14.23a Undo the two screws (arrowed) securing the rear door window glassto the l"
+       },
+       "words": 1085,
+       "images": 1,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "citroen_xsara_steering_t000_b638dfe5",
+       "title": {
+        "ru": "Unscrew the secuning nut from the intermediate shaft-to-steering gear pinion pin",
+        "en": "Unscrew the secuning nut from the intermediate shaft-to-steering gear pinion pin"
+       },
+       "words": 1095,
+       "images": 2,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "citroen_xsara_lighting_t000_81479746",
+       "title": {
+        "ru": "Haynes Service and Repair Manual",
+        "en": "Haynes Service and Repair Manual"
+       },
+       "words": 1007,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_lighting_t001_0627cf53",
+       "title": {
+        "ru": "Tyre tread wear patterns",
+        "en": "Tyre tread wear patterns"
+       },
+       "words": 403,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_lighting_t002_d3448b03",
+       "title": {
+        "ru": "14•4 Component locations – petrol engine models",
+        "en": "14•4 Component locations – petrol engine models"
+       },
+       "words": 1434,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_lighting_t003_1ab2cb8c",
+       "title": {
+        "ru": "1в•s Every 10 000 miles – diesel engine models",
+        "en": "1в•s Every 10 000 miles – diesel engine models"
+       },
+       "words": 1836,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_lighting_t004_555eb413",
+       "title": {
+        "ru": "7.10  Use the tool shown to lock fywheel ring gear and prevent the crankshaft ro",
+        "en": "7.10  Use the tool shown to lock fywheel ring gear and prevent the crankshaft ro"
+       },
+       "words": 1302,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_lighting_t005_a6322cec",
+       "title": {
+        "ru": "16.18 Camshaft left-hand ol seal (1) and oil feed gallery O-ring (2) on rear of ",
+        "en": "16.18 Camshaft left-hand ol seal (1) and oil feed gallery O-ring (2) on rear of "
+       },
+       "words": 2286,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_lighting_t006_41f87453",
+       "title": {
+        "ru": "A wstinc htai ogding refrigerant, and itis therefore dangerous to disconnect any",
+        "en": "A wstinc htai ogding refrigerant, and itis therefore dangerous to disconnect any"
+       },
+       "words": 844,
+       "images": 8,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_lighting_t007_2c45a49e",
+       "title": {
+        "ru": "Maintenance-free battery – tes ing",
+        "en": "Maintenance-free battery – tes ing"
+       },
+       "words": 1280,
+       "images": 2,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_lighting_t008_8856c2fe",
+       "title": {
+        "ru": "11.19 Selector lever position switch details - AL4 transmission",
+        "en": "11.19 Selector lever position switch details - AL4 transmission"
+       },
+       "words": 1349,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_lighting_t009_aa66d9a1",
+       "title": {
+        "ru": "On Girling rear brake shoes, adjuster ut fork cutut (A)mut engewith leading shoe",
+        "en": "On Girling rear brake shoes, adjuster ut fork cutut (A)mut engewith leading shoe"
+       },
+       "words": 1271,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_lighting_t010_ac811a2e",
+       "title": {
+        "ru": "Courtesy light switches",
+        "en": "Courtesy light switches"
+       },
+       "words": 1273,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_lighting_t011_e9d427fc",
+       "title": {
+        "ru": "Intermediate pipe",
+        "en": "Intermediate pipe"
+       },
+       "words": 369,
+       "images": 1,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "citroen_xsara_interior_t000_f98649d6",
+       "title": {
+        "ru": "Front seat belt stalk - models without front seat belt pretensioners",
+        "en": "Front seat belt stalk - models without front seat belt pretensioners"
+       },
+       "words": 368,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "citroen_xsara_ev_t000_27013580",
+       "title": {
+        "ru": "6.22 Depress the tag on the side of the clock unit and withdraw the clock from t",
+        "en": "6.22 Depress the tag on the side of the clock unit and withdraw the clock from t"
+       },
+       "words": 1588,
+       "images": 3,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "citroen_xsara_general_t000_199944f5",
+       "title": {
+        "ru": "Hydrofluoric acid",
+        "en": "Hydrofluoric acid"
+       },
+       "words": 573,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t001_bb2e7d77",
+       "title": {
+        "ru": "If your car won't start even though the starter motor turns as normal",
+        "en": "If your car won't start even though the starter motor turns as normal"
+       },
+       "words": 1679,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t002_842f95dc",
+       "title": {
+        "ru": "Adding coolant should not be necessary on a regular basis. if frequent topping-u",
+        "en": "Adding coolant should not be necessary on a regular basis. if frequent topping-u"
+       },
+       "words": 1065,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t003_c4ccb26e",
+       "title": {
+        "ru": "Tread Depth - manual check 3 Tyre Pressure Check",
+        "en": "Tread Depth - manual check 3 Tyre Pressure Check"
+       },
+       "words": 1205,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t004_5d633513",
+       "title": {
+        "ru": "14•2 Servicing specifications – petrol engine models",
+        "en": "14•2 Servicing specifications – petrol engine models"
+       },
+       "words": 429,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t005_75720dbe",
+       "title": {
+        "ru": "Every 12 500 miles (20 000 km) or 12 months – whichever comes first",
+        "en": "Every 12 500 miles (20 000 km) or 12 months – whichever comes first"
+       },
+       "words": 906,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t006_c47ebded",
+       "title": {
+        "ru": "4 Underbonnet/underbody component/hose fluid léak check",
+        "en": "4 Underbonnet/underbody component/hose fluid léak check"
+       },
+       "words": 1584,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t007_33ca7e30",
+       "title": {
+        "ru": "Checking the auxiliary drivebelt condition",
+        "en": "Checking the auxiliary drivebelt condition"
+       },
+       "words": 1208,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t008_d2cde7a9",
+       "title": {
+        "ru": "Refitting and tensioning",
+        "en": "Refitting and tensioning"
+       },
+       "words": 1426,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t009_26ceadf3",
+       "title": {
+        "ru": "Check the operation and performance of the braking system",
+        "en": "Check the operation and performance of the braking system"
+       },
+       "words": 1467,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t010_b2dc22cb",
+       "title": {
+        "ru": "Every 25 000 miles (40 000 km) or 2 years – whichever comes first",
+        "en": "Every 25 000 miles (40 000 km) or 2 years – whichever comes first"
+       },
+       "words": 1467,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t011_bf994d99",
+       "title": {
+        "ru": "Every 37 500 miles (60 000 km) or 3 years – whichever comes first",
+        "en": "Every 37 500 miles (60 000 km) or 3 years – whichever comes first"
+       },
+       "words": 2220,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t012_2e6fe018",
+       "title": {
+        "ru": "25.4 . . , then detach the hoses and remove the fiter. Note the direction of the",
+        "en": "25.4 . . , then detach the hoses and remove the fiter. Note the direction of the"
+       },
+       "words": 1263,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t013_a675324f",
+       "title": {
+        "ru": "18•2 Servicing specifications – diesel engine models",
+        "en": "18•2 Servicing specifications – diesel engine models"
+       },
+       "words": 885,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t014_277e9b56",
+       "title": {
+        "ru": "Every 10 000 miles (15 000 km) or 12 months – whichever comes first",
+        "en": "Every 10 000 miles (15 000 km) or 12 months – whichever comes first"
+       },
+       "words": 1005,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t015_9006870c",
+       "title": {
+        "ru": "Warning: Refer to the safety information given in 'Safety Firstl' and Chaptor 48",
+        "en": "Warning: Refer to the safety information given in 'Safety Firstl' and Chaptor 48"
+       },
+       "words": 1372,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t016_d6050ec9",
+       "title": {
+        "ru": "Checking the auxilliary drivebelt condition",
+        "en": "Checking the auxilliary drivebelt condition"
+       },
+       "words": 1322,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t017_c71be760",
+       "title": {
+        "ru": "Auxilliary drivebelt (1.9 litre DW engines without air conditioning) Removal",
+        "en": "Auxilliary drivebelt (1.9 litre DW engines without air conditioning) Removal"
+       },
+       "words": 1375,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t018_ae9d937b",
+       "title": {
+        "ru": "Auxiliary drivebelt (2.0 litre engines)",
+        "en": "Auxiliary drivebelt (2.0 litre engines)"
+       },
+       "words": 1459,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t019_70397de0",
+       "title": {
+        "ru": "Every 20 000 miles (30 000 km) or 2 years – whichever comes first",
+        "en": "Every 20 000 miles (30 000 km) or 2 years – whichever comes first"
+       },
+       "words": 939,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t020_409f1a91",
+       "title": {
+        "ru": "17.27. .. then, using a socket, tum the filter housing cover anti-clockwise to r",
+        "en": "17.27. .. then, using a socket, tum the filter housing cover anti-clockwise to r"
+       },
+       "words": 1896,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t021_e166247e",
+       "title": {
+        "ru": "Every 80 000 miles – diesel engine models1•21",
+        "en": "Every 80 000 miles – diesel engine models1•21"
+       },
+       "words": 1459,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t022_af5ebe9b",
+       "title": {
+        "ru": "CMinder head bolts (cast-ron Diock engine). отаи",
+        "en": "CMinder head bolts (cast-ron Diock engine). отаи"
+       },
+       "words": 704,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t023_4786c224",
+       "title": {
+        "ru": "Engine assembly/valve timing holes - general information and usage",
+        "en": "Engine assembly/valve timing holes - general information and usage"
+       },
+       "words": 2168,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t024_540d7fd5",
+       "title": {
+        "ru": "General information",
+        "en": "General information"
+       },
+       "words": 1901,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t025_2af5d32e",
+       "title": {
+        "ru": "9 Valve clearances - checking and adjustment",
+        "en": "9 Valve clearances - checking and adjustment"
+       },
+       "words": 1733,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t026_cc3469f1",
+       "title": {
+        "ru": "11.30b .. . ensuring that the manufacturers identification markings (HAUT – TOP)",
+        "en": "11.30b .. . ensuring that the manufacturers identification markings (HAUT – TOP)"
+       },
+       "words": 3024,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t027_9c900404",
+       "title": {
+        "ru": "Driveplate (automatic transmission models)",
+        "en": "Driveplate (automatic transmission models)"
+       },
+       "words": 1521,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t028_8aa9c282",
+       "title": {
+        "ru": "Valve clearances (8-vaive engines only)",
+        "en": "Valve clearances (8-vaive engines only)"
+       },
+       "words": 1250,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t029_d4a48705",
+       "title": {
+        "ru": "3.6 8.0 mm dill inserted through the crankshaft pulley timing hole - B-valve eng",
+        "en": "3.6 8.0 mm dill inserted through the crankshaft pulley timing hole - B-valve eng"
+       },
+       "words": 2141,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t030_2435669f",
+       "title": {
+        "ru": "4.22Tighten the aluminium cylinder head cover retaining nuts in the sequence sho",
+        "en": "4.22Tighten the aluminium cylinder head cover retaining nuts in the sequence sho"
+       },
+       "words": 892,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t031_0acc6e35",
+       "title": {
+        "ru": "Timing belt (8-valve engines) -general information, remova and refitting",
+        "en": "Timing belt (8-valve engines) -general information, remova and refitting"
+       },
+       "words": 2730,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t032_3875f2a8",
+       "title": {
+        "ru": "Tensioner and idier pulleys – 16-valve engines",
+        "en": "Tensioner and idier pulleys – 16-valve engines"
+       },
+       "words": 1387,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t033_c83bea14",
+       "title": {
+        "ru": "12 Valve clearances (8-valve engines) - checking and adjustment",
+        "en": "12 Valve clearances (8-valve engines) - checking and adjustment"
+       },
+       "words": 1724,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t034_53206a57",
+       "title": {
+        "ru": "Preparation for refitting",
+        "en": "Preparation for refitting"
+       },
+       "words": 2261,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t035_d51d4849",
+       "title": {
+        "ru": "Driveplate (automatic transmission models",
+        "en": "Driveplate (automatic transmission models"
+       },
+       "words": 1676,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t036_b40ae2c8",
+       "title": {
+        "ru": "Driveplate (automatic transmission models)",
+        "en": "Driveplate (automatic transmission models)"
+       },
+       "words": 1453,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t037_ec1cc9a2",
+       "title": {
+        "ru": "Compression pressures (engine hot, at cranking speed)",
+        "en": "Compression pressures (engine hot, at cranking speed)"
+       },
+       "words": 593,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t038_96aeb5ba",
+       "title": {
+        "ru": "Engine assembly/valve timing holes - general information and usage",
+        "en": "Engine assembly/valve timing holes - general information and usage"
+       },
+       "words": 1947,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t039_a1678553",
+       "title": {
+        "ru": "9.6 Removing the engine mounting-tobody bracket",
+        "en": "9.6 Removing the engine mounting-tobody bracket"
+       },
+       "words": 1746,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t040_c374f044",
+       "title": {
+        "ru": "Timing belt tensioner and righthand engine mounting bracket",
+        "en": "Timing belt tensioner and righthand engine mounting bracket"
+       },
+       "words": 1240,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t041_5cd9fac1",
+       "title": {
+        "ru": "15 Oil pump and drive chain - removal, inspection and refing",
+        "en": "15 Oil pump and drive chain - removal, inspection and refing"
+       },
+       "words": 1341,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t042_450ecf79",
+       "title": {
+        "ru": "Camshaft right-hand oil seal",
+        "en": "Camshaft right-hand oil seal"
+       },
+       "words": 1176,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t043_af47e2af",
+       "title": {
+        "ru": "3.8bRod (arrowed) inserted through the cylinder block into the flywheel timing h",
+        "en": "3.8bRod (arrowed) inserted through the cylinder block into the flywheel timing h"
+       },
+       "words": 1826,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t044_e1e2711b",
+       "title": {
+        "ru": "3.14 Insert an 8 mm bolt (arrowed) through the sprocket timing slot and into the",
+        "en": "3.14 Insert an 8 mm bolt (arrowed) through the sprocket timing slot and into the"
+       },
+       "words": 1113,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t045_c813cc00",
+       "title": {
+        "ru": "6.18 Release the two fuel hoses from the retaining clips on the timing belt uppe",
+        "en": "6.18 Release the two fuel hoses from the retaining clips on the timing belt uppe"
+       },
+       "words": 1132,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t046_926930e4",
+       "title": {
+        "ru": "8Timing belt (2.0 litre engines) removal, nsection,reiing and tensioning",
+        "en": "8Timing belt (2.0 litre engines) removal, nsection,reiing and tensioning"
+       },
+       "words": 2246,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t047_5eaf1e46",
+       "title": {
+        "ru": "Coolant pump sprocket",
+        "en": "Coolant pump sprocket"
+       },
+       "words": 1198,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t048_0456e3a0",
+       "title": {
+        "ru": "126 Example of valve shim thickness calculation - 1.9 litre engines",
+        "en": "126 Example of valve shim thickness calculation - 1.9 litre engines"
+       },
+       "words": 1822,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t049_a0f2490e",
+       "title": {
+        "ru": "15 Oil pump and drive chain – removal, inspection and refiting",
+        "en": "15 Oil pump and drive chain – removal, inspection and refiting"
+       },
+       "words": 1524,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t050_684bf2ad",
+       "title": {
+        "ru": "19 Engine oil cooler - removal and refitting",
+        "en": "19 Engine oil cooler - removal and refitting"
+       },
+       "words": 1222,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t051_2b4ff874",
+       "title": {
+        "ru": "Engine/transmission removal - methods and precautions",
+        "en": "Engine/transmission removal - methods and precautions"
+       },
+       "words": 3806,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t052_fdd23a24",
+       "title": {
+        "ru": "Cylinder head and valves - cleaning and inspection",
+        "en": "Cylinder head and valves - cleaning and inspection"
+       },
+       "words": 2285,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t053_39ff82ea",
+       "title": {
+        "ru": "10.6 To protect the crankshaft journals, tape over the connecting rod stud threa",
+        "en": "10.6 To protect the crankshaft journals, tape over the connecting rod stud threa"
+       },
+       "words": 2038,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t054_ae5aa151",
+       "title": {
+        "ru": "Warning: Wear eye protection when using compressed air.",
+        "en": "Warning: Wear eye protection when using compressed air."
+       },
+       "words": 2663,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t055_65ede40d",
+       "title": {
+        "ru": "18.69 Applying sealant to the cylinder block No 1 main bearing cap mating face -",
+        "en": "18.69 Applying sealant to the cylinder block No 1 main bearing cap mating face -"
+       },
+       "words": 2559,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t056_53359be5",
+       "title": {
+        "ru": "19.5 Fitting a bearing shell to a connecting rodensure the a rrowedengages with ",
+        "en": "19.5 Fitting a bearing shell to a connecting rodensure the a rrowedengages with "
+       },
+       "words": 1718,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t057_825f0b62",
+       "title": {
+        "ru": "Engine/transmission removalmethods and precautions",
+        "en": "Engine/transmission removalmethods and precautions"
+       },
+       "words": 2231,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t058_3fab3cb1",
+       "title": {
+        "ru": "Cylinder head and valves - cleaning and inspection",
+        "en": "Cylinder head and valves - cleaning and inspection"
+       },
+       "words": 2189,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t059_3c8492e1",
+       "title": {
+        "ru": "Warning: Wear eye protection when using compressed air.",
+        "en": "Warning: Wear eye protection when using compressed air."
+       },
+       "words": 3461,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t060_49f327c5",
+       "title": {
+        "ru": "19.26 Apply sealant to the No 1 main bearing cap mating face on the cylinder blo",
+        "en": "19.26 Apply sealant to the No 1 main bearing cap mating face on the cylinder blo"
+       },
+       "words": 2967,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t061_9b9d413a",
+       "title": {
+        "ru": "Conventional hose connections -general instructions",
+        "en": "Conventional hose connections -general instructions"
+       },
+       "words": 1241,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t062_f7b52932",
+       "title": {
+        "ru": "4.6b .. and recover the sealing ring - 1.4 litre petrol engine models",
+        "en": "4.6b .. and recover the sealing ring - 1.4 litre petrol engine models"
+       },
+       "words": 1207,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t063_2e01d9a7",
+       "title": {
+        "ru": "5.9To remov the fan motor relays, it off the cover over the rey box in the centr",
+        "en": "5.9To remov the fan motor relays, it off the cover over the rey box in the centr"
+       },
+       "words": 625,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t064_b30f48b4",
+       "title": {
+        "ru": "7.4b .. and withdraw the coolant pump impeller assembly from the housing - 1.4 l",
+        "en": "7.4b .. and withdraw the coolant pump impeller assembly from the housing - 1.4 l"
+       },
+       "words": 946,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t065_5c54d6e4",
+       "title": {
+        "ru": "10.20 Undo the two bolts securing the steering column support bracket to the eng",
+        "en": "10.20 Undo the two bolts securing the steering column support bracket to the eng"
+       },
+       "words": 1174,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t066_a62a37af",
+       "title": {
+        "ru": "2.10c . . . and remove the duct assembly from the engine compartment - 1.6 litre",
+        "en": "2.10c . . . and remove the duct assembly from the engine compartment - 1.6 litre"
+       },
+       "words": 938,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t067_d9fee1fd",
+       "title": {
+        "ru": "3.1Accelerator cable connections - 1.8 litre (16-vaive) engines",
+        "en": "3.1Accelerator cable connections - 1.8 litre (16-vaive) engines"
+       },
+       "words": 936,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t068_07cc8bbc",
+       "title": {
+        "ru": "Fuel injection systemsgeneral information",
+        "en": "Fuel injection systemsgeneral information"
+       },
+       "words": 2362,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t069_e85c6107",
+       "title": {
+        "ru": "13.15 Disconnect the throttle potentiometer wiring connector 1.6 litre engines",
+        "en": "13.15 Disconnect the throttle potentiometer wiring connector 1.6 litre engines"
+       },
+       "words": 1081,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t070_85d50217",
+       "title": {
+        "ru": "13.57 Fit new O-rings to the injectors before refitting - 1.8 litre (16-valve) e",
+        "en": "13.57 Fit new O-rings to the injectors before refitting - 1.8 litre (16-valve) e"
+       },
+       "words": 992,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t071_a7555e87",
+       "title": {
+        "ru": "Electronic control unit (ECU)",
+        "en": "Electronic control unit (ECU)"
+       },
+       "words": 460,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t072_57fe1da8",
+       "title": {
+        "ru": "1.8 litre (8-valve) engines with manual transmission",
+        "en": "1.8 litre (8-valve) engines with manual transmission"
+       },
+       "words": 745,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t073_14c492ac",
+       "title": {
+        "ru": "Idle speed control stepper motor",
+        "en": "Idle speed control stepper motor"
+       },
+       "words": 799,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t074_39381796",
+       "title": {
+        "ru": "15.30 Slacken and remove the bolt securing the dipstick tube to the rear of the ",
+        "en": "15.30 Slacken and remove the bolt securing the dipstick tube to the rear of the "
+       },
+       "words": 1226,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t075_6b016d62",
+       "title": {
+        "ru": "Removal - 1.4 and 1.6 litre engines",
+        "en": "Removal - 1.4 and 1.6 litre engines"
+       },
+       "words": 1035,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t076_c988cb6b",
+       "title": {
+        "ru": "Fuel system - priming and bleeding",
+        "en": "Fuel system - priming and bleeding"
+       },
+       "words": 1871,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t077_acd671a2",
+       "title": {
+        "ru": "3.17 Air cleaner and inlet duct components - DHY (XUDSTE engine) models",
+        "en": "3.17 Air cleaner and inlet duct components - DHY (XUDSTE engine) models"
+       },
+       "words": 1273,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t078_8669478f",
+       "title": {
+        "ru": "3.41 Air inlet duct components – DHV (XUD9BSD engine) models",
+        "en": "3.41 Air inlet duct components – DHV (XUD9BSD engine) models"
+       },
+       "words": 899,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t079_a417a882",
+       "title": {
+        "ru": "5.9Reftting the fuel supply banjo bolt with a small section of fuel hose(arrowed",
+        "en": "5.9Reftting the fuel supply banjo bolt with a small section of fuel hose(arrowed"
+       },
+       "words": 2745,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t080_1cf11275",
+       "title": {
+        "ru": "13 Fuel gauge sender and pickup unit - removal and refittin",
+        "en": "13 Fuel gauge sender and pickup unit - removal and refittin"
+       },
+       "words": 967,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t081_a2de00ef",
+       "title": {
+        "ru": "18.7 Remove the screw (arrowed) securing the oi feed pipeDHY (XUDSTE engine) mod",
+        "en": "18.7 Remove the screw (arrowed) securing the oi feed pipeDHY (XUDSTE engine) mod"
+       },
+       "words": 1280,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t082_d3e5e1c8",
+       "title": {
+        "ru": "18.11 Unscrewing the turbocharger upper securing bolt DHY - (XUDSTE engine model",
+        "en": "18.11 Unscrewing the turbocharger upper securing bolt DHY - (XUDSTE engine model"
+       },
+       "words": 822,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t083_100364fa",
+       "title": {
+        "ru": "Coolant temperature sensor/switch",
+        "en": "Coolant temperature sensor/switch"
+       },
+       "words": 605,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t084_27ce3b0b",
+       "title": {
+        "ru": "Injector needle lift sensor",
+        "en": "Injector needle lift sensor"
+       },
+       "words": 569,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t085_396a7a7e",
+       "title": {
+        "ru": "High pressure fuel system",
+        "en": "High pressure fuel system"
+       },
+       "words": 1063,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t086_debb0b67",
+       "title": {
+        "ru": "4.10 Lift the air cleaner housing upwards at the rear and disengage the two fron",
+        "en": "4.10 Lift the air cleaner housing upwards at the rear and disengage the two fron"
+       },
+       "words": 1911,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t087_d357aea2",
+       "title": {
+        "ru": "Caution: Do not attempt to remove the four high pressure fuel pipe male unions f",
+        "en": "Caution: Do not attempt to remove the four high pressure fuel pipe male unions f"
+       },
+       "words": 2347,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t088_44ce365a",
+       "title": {
+        "ru": "13.27 Fuel temperature sensor (A) and fuel pressure sensor (B) locations on the ",
+        "en": "13.27 Fuel temperature sensor (A) and fuel pressure sensor (B) locations on the "
+       },
+       "words": 1603,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t089_577361f7",
+       "title": {
+        "ru": "Waring: Refer to the information contained in Section 2 before proceeding.",
+        "en": "Waring: Refer to the information contained in Section 2 before proceeding."
+       },
+       "words": 1492,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t090_c3311988",
+       "title": {
+        "ru": "Exhaust gas recirculation system",
+        "en": "Exhaust gas recirculation system"
+       },
+       "words": 970,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t091_8f14a5e8",
+       "title": {
+        "ru": "3.40 .. and the two nuts securing the EGR valve to the exhaust manifold",
+        "en": "3.40 .. and the two nuts securing the EGR valve to the exhaust manifold"
+       },
+       "words": 2059,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t092_dfba0ab4",
+       "title": {
+        "ru": "Caution: Do not attempt to charge, load or jump start a battery when the indicat",
+        "en": "Caution: Do not attempt to charge, load or jump start a battery when the indicat"
+       },
+       "words": 1327,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t093_bf2fb731",
+       "title": {
+        "ru": "8.5On 2.0 litre diesel engine models, the lower front mounting bolt also carries",
+        "en": "8.5On 2.0 litre diesel engine models, the lower front mounting bolt also carries"
+       },
+       "words": 1322,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t094_d496fff9",
+       "title": {
+        "ru": "Later 1.4 and 1.6 litre engines, and all 1.8 and 2.0 litre (16-valve) engines",
+        "en": "Later 1.4 and 1.6 litre engines, and all 1.8 and 2.0 litre (16-valve) engines"
+       },
+       "words": 1410,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t095_802b1337",
+       "title": {
+        "ru": "Later 1.4 and 1.6 litre engines, and all 1.8 and 2.0 litre (16-valve engines",
+        "en": "Later 1.4 and 1.6 litre engines, and all 1.8 and 2.0 litre (16-valve engines"
+       },
+       "words": 1026,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t096_93a69d07",
+       "title": {
+        "ru": "Clutch release mechanism",
+        "en": "Clutch release mechanism"
+       },
+       "words": 587,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t097_2581603f",
+       "title": {
+        "ru": "Clutch assembly - removal, inspection and refitting",
+        "en": "Clutch assembly - removal, inspection and refitting"
+       },
+       "words": 1970,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t098_8f38bf56",
+       "title": {
+        "ru": "Gearchange linkage - removal and refitting",
+        "en": "Gearchange linkage - removal and refitting"
+       },
+       "words": 1840,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t099_afbc835f",
+       "title": {
+        "ru": "7.19c.. and make an alignment mark between the release fork shaft and transmissi",
+        "en": "7.19c.. and make an alignment mark between the release fork shaft and transmissi"
+       },
+       "words": 1945,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t100_66f26282",
+       "title": {
+        "ru": "3.21 Park Lock solenoid valve attachment on the selector lever upper housing - A",
+        "en": "3.21 Park Lock solenoid valve attachment on the selector lever upper housing - A"
+       },
+       "words": 1660,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t101_a4630a36",
+       "title": {
+        "ru": "Selector lever assembly (4HP 14 transmission) reoval and refitting",
+        "en": "Selector lever assembly (4HP 14 transmission) reoval and refitting"
+       },
+       "words": 1145,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t102_781acd41",
+       "title": {
+        "ru": "Selector lever position switch",
+        "en": "Selector lever position switch"
+       },
+       "words": 2935,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t103_01f9b1ab",
+       "title": {
+        "ru": "Warning: Take precautions against scalding as the oill be very hoot.",
+        "en": "Warning: Take precautions against scalding as the oill be very hoot."
+       },
+       "words": 1119,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t104_fcab0f3b",
+       "title": {
+        "ru": "2.12b ..  then tum the boits through 90 to disengage their offset heads (arrowed",
+        "en": "2.12b ..  then tum the boits through 90 to disengage their offset heads (arrowed"
+       },
+       "words": 1784,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t105_c462f432",
+       "title": {
+        "ru": "All except 1.4 and 1.6 litre engine models",
+        "en": "All except 1.4 and 1.6 litre engine models"
+       },
+       "words": 3102,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t106_7fec4332",
+       "title": {
+        "ru": "2.14 Rear brake wheel cylinder dust cap (arrowed) - model with rear drum brakes",
+        "en": "2.14 Rear brake wheel cylinder dust cap (arrowed) - model with rear drum brakes"
+       },
+       "words": 2083,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t107_8d0cc448",
+       "title": {
+        "ru": "4.25Slide the caliper into position, fit the guide pin bolts, and tighten to the",
+        "en": "4.25Slide the caliper into position, fit the guide pin bolts, and tighten to the"
+       },
+       "words": 2852,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t108_a442e4d8",
+       "title": {
+        "ru": "14Check that the handbrake lever stoppeg is positioned against the shoe edge",
+        "en": "14Check that the handbrake lever stoppeg is positioned against the shoe edge"
+       },
+       "words": 1362,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t109_c62a9073",
+       "title": {
+        "ru": "11 Rear brake caliper – removal, overhaul and refitting",
+        "en": "11 Rear brake caliper – removal, overhaul and refitting"
+       },
+       "words": 1125,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t110_3a6e903f",
+       "title": {
+        "ru": "12 Rear wheel cylinder – removal and refiting",
+        "en": "12 Rear wheel cylinder – removal and refiting"
+       },
+       "words": 1243,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t111_690ad829",
+       "title": {
+        "ru": "19.6 On drum brake models, drive the outer cable from the brake backplate",
+        "en": "19.6 On drum brake models, drive the outer cable from the brake backplate"
+       },
+       "words": 871,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t112_11b27d1e",
+       "title": {
+        "ru": "25.4c Ensure the drive dog is correctly aliged with the camshat slot (arrowed) w",
+        "en": "25.4c Ensure the drive dog is correctly aliged with the camshat slot (arrowed) w"
+       },
+       "words": 907,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t113_588c01b1",
+       "title": {
+        "ru": "Front swivel hub assembly - removal and refitting",
+        "en": "Front swivel hub assembly - removal and refitting"
+       },
+       "words": 2614,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t114_1a346a6b",
+       "title": {
+        "ru": "5.4 Front suspension strut components",
+        "en": "5.4 Front suspension strut components"
+       },
+       "words": 1815,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t115_c4d3a394",
+       "title": {
+        "ru": "17 Steering wheel – removal and refiting",
+        "en": "17 Steering wheel – removal and refiting"
+       },
+       "words": 1589,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t116_2d997930",
+       "title": {
+        "ru": "Unscrew the secuning nut from the intermediate shaft-to-steering gear pinion pin",
+        "en": "Unscrew the secuning nut from the intermediate shaft-to-steering gear pinion pin"
+       },
+       "words": 2064,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t117_c105395e",
+       "title": {
+        "ru": "Front wheel toe setting - checking and adjustment",
+        "en": "Front wheel toe setting - checking and adjustment"
+       },
+       "words": 2148,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t118_b103c298",
+       "title": {
+        "ru": "6.9 Pull the bumper forward and disengage the plastic catches on each side",
+        "en": "6.9 Pull the bumper forward and disengage the plastic catches on each side"
+       },
+       "words": 2923,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t119_875eb98e",
+       "title": {
+        "ru": "10.2 The bonnet lock assembly let-hand retaining bolt (arrowed) also secures the",
+        "en": "10.2 The bonnet lock assembly let-hand retaining bolt (arrowed) also secures the"
+       },
+       "words": 576,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t120_a3981353",
+       "title": {
+        "ru": "Refitting",
+        "en": "Refitting"
+       },
+       "words": 1129,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t121_244b1f41",
+       "title": {
+        "ru": "13.29 Undo the three screws securing the rear door lock assembly to the edge of ",
+        "en": "13.29 Undo the three screws securing the rear door lock assembly to the edge of "
+       },
+       "words": 1220,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t122_1836a828",
+       "title": {
+        "ru": "14.23a Undo the two screws (arrowed) securing the rear door window glassto the l",
+        "en": "14.23a Undo the two screws (arrowed) securing the rear door window glassto the l"
+       },
+       "words": 1418,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t123_dfdc5402",
+       "title": {
+        "ru": "Windscreen, tailgate and fixed rear quarter window glass - general information",
+        "en": "Windscreen, tailgate and fixed rear quarter window glass - general information"
+       },
+       "words": 599,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t124_cf50d0b9",
+       "title": {
+        "ru": "22.4 Lift up the air inlet duct and withdraw the grille from the front body pane",
+        "en": "22.4 Lift up the air inlet duct and withdraw the grille from the front body pane"
+       },
+       "words": 793,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t125_1a93431e",
+       "title": {
+        "ru": "Front seat belt stalk - models with front seat beit pretensioners",
+        "en": "Front seat belt stalk - models with front seat beit pretensioners"
+       },
+       "words": 834,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t126_0b51bbb9",
+       "title": {
+        "ru": "26.32 Undo the bolt securing the tie-down strap to the rear of the side panel - ",
+        "en": "26.32 Undo the bolt securing the tie-down strap to the rear of the side panel - "
+       },
+       "words": 1097,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t127_f12fe80e",
+       "title": {
+        "ru": "Waring: Before carrying out any work on the electrical system, read through the ",
+        "en": "Waring: Before carrying out any work on the electrical system, read through the "
+       },
+       "words": 1377,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t128_6d4c5ce6",
+       "title": {
+        "ru": "3.3a For access to the fuses, remove the cover from the interiar fuse/relay box ",
+        "en": "3.3a For access to the fuses, remove the cover from the interiar fuse/relay box "
+       },
+       "words": 1696,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t129_e756330e",
+       "title": {
+        "ru": "Front direction indicator side repeater",
+        "en": "Front direction indicator side repeater"
+       },
+       "words": 935,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t130_118b3e87",
+       "title": {
+        "ru": "6.22 Depress the tag on the side of the clock unit and withdraw the clock from t",
+        "en": "6.22 Depress the tag on the side of the clock unit and withdraw the clock from t"
+       },
+       "words": 642,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t131_d6af3753",
+       "title": {
+        "ru": "Front direction indicator side repeater light",
+        "en": "Front direction indicator side repeater light"
+       },
+       "words": 698,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t132_6f2fe262",
+       "title": {
+        "ru": "Windscreen washer jet",
+        "en": "Windscreen washer jet"
+       },
+       "words": 702,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t133_a0b1b8f8",
+       "title": {
+        "ru": "Disconnecting the vehicle batery",
+        "en": "Disconnecting the vehicle batery"
+       },
+       "words": 979,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t134_49a1275f",
+       "title": {
+        "ru": "Precautions to be taken when storing an air bag unit",
+        "en": "Precautions to be taken when storing an air bag unit"
+       },
+       "words": 959,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t135_5fd9811d",
+       "title": {
+        "ru": "Side air bag units",
+        "en": "Side air bag units"
+       },
+       "words": 1588,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t136_7842dc28",
+       "title": {
+        "ru": "Typical Sagem SL 96 fuel injection system",
+        "en": "Typical Sagem SL 96 fuel injection system"
+       },
+       "words": 1262,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t137_c17a7e1c",
+       "title": {
+        "ru": "Svinde head bearing joumal diameter (nside ciamerer).",
+        "en": "Svinde head bearing joumal diameter (nside ciamerer)."
+       },
+       "words": 1539,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t138_0f3a232f",
+       "title": {
+        "ru": "Intermediate cover - removal",
+        "en": "Intermediate cover - removal"
+       },
+       "words": 249,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t139_fbd259cd",
+       "title": {
+        "ru": "Exhaust gas recirculation system",
+        "en": "Exhaust gas recirculation system"
+       },
+       "words": 467,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_general_t140_ce97e3bd",
+       "title": {
+        "ru": "Tailgate trim panel",
+        "en": "Tailgate trim panel"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "citroen_xsara_drivetrain_t000_4d41da09",
+       "title": {
+        "ru": "Reversing light switch - testing, removal and refitting",
+        "en": "Reversing light switch - testing, removal and refitting"
+       },
+       "words": 1915,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "citroen_xsara_sensors_t000_ff9ec239",
+       "title": {
+        "ru": "Coolant temperature sensor",
+        "en": "Coolant temperature sensor"
+       },
+       "words": 27,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

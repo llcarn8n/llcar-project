@@ -1,0 +1,665 @@
+{
+ "version": "1.0",
+ "model": "forthing__friday",
+ "manuals": [
+  {
+   "model": "forthing__friday",
+   "label": {
+    "ru": "Forthing Forthing  Friday — Руководство по ремонту",
+    "en": "Forthing Forthing  Friday — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "forthing_forthing__friday_engine_t000_2357080d",
+       "title": {
+        "ru": "If a replacement fuse of the same rating is blown after",
+        "en": "If a replacement fuse of the same rating is blown after"
+       },
+       "words": 867,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "forthing_forthing__friday_brakes_t000_0dbb117e",
+       "title": {
+        "ru": "If the vehicle in front is equipped with the above special",
+        "en": "If the vehicle in front is equipped with the above special"
+       },
+       "words": 943,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "forthing_forthing__friday_brakes_t001_a9ab1272",
+       "title": {
+        "ru": "The energy recovery during coasting has the effect of",
+        "en": "The energy recovery during coasting has the effect of"
+       },
+       "words": 956,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "forthing_forthing__friday_brakes_t002_58eef723",
+       "title": {
+        "ru": "At this time, the brake assist will produce a larger",
+        "en": "At this time, the brake assist will produce a larger"
+       },
+       "words": 907,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "forthing_forthing__friday_brakes_t003_86681fb3",
+       "title": {
+        "ru": "Depress the accelerator pedal, release the pedal when",
+        "en": "Depress the accelerator pedal, release the pedal when"
+       },
+       "words": 994,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "forthing_forthing__friday_brakes_t004_cadc743c",
+       "title": {
+        "ru": "Please contact the Forthing Special Service Station",
+        "en": "Please contact the Forthing Special Service Station"
+       },
+       "words": 969,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "forthing_forthing__friday_brakes_t005_9bc8d4ec",
+       "title": {
+        "ru": "Reasonable application range of brake",
+        "en": "Reasonable application range of brake"
+       },
+       "words": 228,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "forthing_forthing__friday_body_t000_2ac86d7c",
+       "title": {
+        "ru": "If the vehicle is powered off, press the inner switch of",
+        "en": "If the vehicle is powered off, press the inner switch of"
+       },
+       "words": 1004,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_forthing__friday_body_t001_d8d487bb",
+       "title": {
+        "ru": "In order to give full play to the best function of this",
+        "en": "In order to give full play to the best function of this"
+       },
+       "words": 1090,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_forthing__friday_body_t002_ad0f0d57",
+       "title": {
+        "ru": "Vehicles that are difficult to identify (motorcycle",
+        "en": "Vehicles that are difficult to identify (motorcycle"
+       },
+       "words": 1095,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "forthing_forthing__friday_body_t003_04550879",
+       "title": {
+        "ru": "Overinflated tires will reduce the riding comfort, and",
+        "en": "Overinflated tires will reduce the riding comfort, and"
+       },
+       "words": 482,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "forthing_forthing__friday_lighting_t001_bcc86a5a",
+       "title": {
+        "ru": "The left and right sliding control balls can adjust",
+        "en": "The left and right sliding control balls can adjust"
+       },
+       "words": 997,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "forthing_forthing__friday_lighting_t002_129d29e0",
+       "title": {
+        "ru": "When the setting switch is in the off/fault state, the",
+        "en": "When the setting switch is in the off/fault state, the"
+       },
+       "words": 1217,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "forthing_forthing__friday_lighting_t003_730366fc",
+       "title": {
+        "ru": "When the vehicle recognizes the target ahead and",
+        "en": "When the vehicle recognizes the target ahead and"
+       },
+       "words": 1081,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "forthing_forthing__friday_lighting_t004_41f2290a",
+       "title": {
+        "ru": "Click [Settings] - [Vehicle] - [ADAS] - [FCW] switch",
+        "en": "Click [Settings] - [Vehicle] - [ADAS] - [FCW] switch"
+       },
+       "words": 2070,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "forthing_forthing__friday_lighting_t006_ea7ac91c",
+       "title": {
+        "ru": "The fog can be eliminated as follows: during driving",
+        "en": "The fog can be eliminated as follows: during driving"
+       },
+       "words": 674,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "forthing_forthing__friday_interior_t000_7ba73cfa",
+       "title": {
+        "ru": "The child protection device shall be provided by the",
+        "en": "The child protection device shall be provided by the"
+       },
+       "words": 956,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "forthing_forthing__friday_interior_t001_1ab1c224",
+       "title": {
+        "ru": "Press the rear seat headrest adjustment button to",
+        "en": "Press the rear seat headrest adjustment button to"
+       },
+       "words": 1210,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "forthing_forthing__friday_interior_t002_b4a14b08",
+       "title": {
+        "ru": "Too much dust at the seat belt outlet can cause the",
+        "en": "Too much dust at the seat belt outlet can cause the"
+       },
+       "words": 1375,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "forthing_forthing__friday_interior_t003_1e588014",
+       "title": {
+        "ru": "Rated voltage/rated capacity of traction battery",
+        "en": "Rated voltage/rated capacity of traction battery"
+       },
+       "words": 81,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "forthing_forthing__friday_ev_t001_e796b2bc",
+       "title": {
+        "ru": "The upper part is the AC interface, and the lower part",
+        "en": "The upper part is the AC interface, and the lower part"
+       },
+       "words": 848,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "forthing_forthing__friday_ev_t002_ef1a5848",
+       "title": {
+        "ru": "If it is not set to the \"OFF\" position, the following",
+        "en": "If it is not set to the \"OFF\" position, the following"
+       },
+       "words": 874,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "forthing_forthing__friday_ev_t003_52be77af",
+       "title": {
+        "ru": "On the premise that the DC charging pile can output",
+        "en": "On the premise that the DC charging pile can output"
+       },
+       "words": 928,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "forthing_forthing__friday_ev_t004_70d0fd4a",
+       "title": {
+        "ru": "In order to prolong the service life of the traction",
+        "en": "In order to prolong the service life of the traction"
+       },
+       "words": 930,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "forthing_forthing__friday_ev_t005_e6923277",
+       "title": {
+        "ru": "If the smart key power is low, it may cause the remote",
+        "en": "If the smart key power is low, it may cause the remote"
+       },
+       "words": 964,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "forthing_forthing__friday_ev_t006_a7cb2ba5",
+       "title": {
+        "ru": "Before charging, please ensure that there are no other",
+        "en": "Before charging, please ensure that there are no other"
+       },
+       "words": 1152,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "forthing_forthing__friday_ev_t007_1345a5ff",
+       "title": {
+        "ru": "This coolant expansion tank is consistent with type I",
+        "en": "This coolant expansion tank is consistent with type I"
+       },
+       "words": 1217,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "forthing_forthing__friday_ev_t008_854acd9e",
+       "title": {
+        "ru": "Safety warning sign",
+        "en": "Safety warning sign"
+       },
+       "words": 76,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "forthing_forthing__friday_chassis_t000_7f2dc3bb",
+       "title": {
+        "ru": "When the system is activated, the LDA indicator lamp (red)",
+        "en": "When the system is activated, the LDA indicator lamp (red)"
+       },
+       "words": 899,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "forthing_forthing__friday_chassis_t001_e85a72e5",
+       "title": {
+        "ru": "The spare tire can only be used for emergency and is",
+        "en": "The spare tire can only be used for emergency and is"
+       },
+       "words": 705,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "forthing_forthing__friday_general_t000_bf34fc00",
+       "title": {
+        "ru": "Among them, the former is the data recorded when",
+        "en": "Among them, the former is the data recorded when"
+       },
+       "words": 1026,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t001_e38d3d0c",
+       "title": {
+        "ru": "Short press the OK button to call up the reset interface",
+        "en": "Short press the OK button to call up the reset interface"
+       },
+       "words": 821,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t002_4fbded91",
+       "title": {
+        "ru": "Close the liftgate and reopen it to the set height",
+        "en": "Close the liftgate and reopen it to the set height"
+       },
+       "words": 878,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t003_2895538f",
+       "title": {
+        "ru": "The left and right switch can be used to select the",
+        "en": "The left and right switch can be used to select the"
+       },
+       "words": 925,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t004_beb060f4",
+       "title": {
+        "ru": "After inserting the card, reinstall the rubber plug and",
+        "en": "After inserting the card, reinstall the rubber plug and"
+       },
+       "words": 901,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t005_513fb498",
+       "title": {
+        "ru": "The middle air outlet can be opened and closed by",
+        "en": "The middle air outlet can be opened and closed by"
+       },
+       "words": 784,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t006_330a6e95",
+       "title": {
+        "ru": "There are two ways to exit the vehicle control interface",
+        "en": "There are two ways to exit the vehicle control interface"
+       },
+       "words": 770,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t007_3cb7baac",
+       "title": {
+        "ru": "If you need to block the side sunlight, first disengage",
+        "en": "If you need to block the side sunlight, first disengage"
+       },
+       "words": 915,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t008_be9df00c",
+       "title": {
+        "ru": "Enter the setting interface through the vehicle icon at the",
+        "en": "Enter the setting interface through the vehicle icon at the"
+       },
+       "words": 866,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t009_125cce8f",
+       "title": {
+        "ru": "When the vehicle suddenly drives into the rear of the",
+        "en": "When the vehicle suddenly drives into the rear of the"
+       },
+       "words": 960,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t010_9f4178cc",
+       "title": {
+        "ru": "In specific driving situations, the deceleration capability",
+        "en": "In specific driving situations, the deceleration capability"
+       },
+       "words": 1028,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t011_36b73327",
+       "title": {
+        "ru": "The shift lever will return to the middle position after",
+        "en": "The shift lever will return to the middle position after"
+       },
+       "words": 963,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t012_30ae1fb1",
+       "title": {
+        "ru": "When parking, put the vehicle into P position and pull",
+        "en": "When parking, put the vehicle into P position and pull"
+       },
+       "words": 850,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t013_be400b56",
+       "title": {
+        "ru": "The camera will enlarge and distortion the image",
+        "en": "The camera will enlarge and distortion the image"
+       },
+       "words": 996,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t014_f6b4643a",
+       "title": {
+        "ru": "Long press this button: the set cruise speed increases",
+        "en": "Long press this button: the set cruise speed increases"
+       },
+       "words": 971,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t016_6daf6d00",
+       "title": {
+        "ru": "The camera sensor area of the front windshield",
+        "en": "The camera sensor area of the front windshield"
+       },
+       "words": 1314,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t017_ada47088",
+       "title": {
+        "ru": "If liquid air freshener is used, ensure that it is properly",
+        "en": "If liquid air freshener is used, ensure that it is properly"
+       },
+       "words": 932,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t018_d00fd56a",
+       "title": {
+        "ru": "Insert the tire sealant bottle into the fixing slot on the",
+        "en": "Insert the tire sealant bottle into the fixing slot on the"
+       },
+       "words": 955,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t019_d07eab73",
+       "title": {
+        "ru": "Appropriate torque shall be used when tightening the wheel",
+        "en": "Appropriate torque shall be used when tightening the wheel"
+       },
+       "words": 1123,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "forthing_forthing__friday_general_t020_9bfa6371",
+       "title": {
+        "ru": "If any leakage is found, please contact the Forthing",
+        "en": "If any leakage is found, please contact the Forthing"
+       },
+       "words": 481,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "forthing_forthing__friday_sensors_t000_d2f0ac1c",
+       "title": {
+        "ru": "When ACC exits due to external faults, the icon on the",
+        "en": "When ACC exits due to external faults, the icon on the"
+       },
+       "words": 1068,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "forthing_forthing__friday_sensors_t001_d7b916fd",
+       "title": {
+        "ru": "When the target vehicle makes a U-turn or turns",
+        "en": "When the target vehicle makes a U-turn or turns"
+       },
+       "words": 415,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "forthing_forthing__friday_infotainment_t000_f4cfbb03",
+       "title": {
+        "ru": "Bluetooth quick-action popup with a toggle, list of",
+        "en": "Bluetooth quick-action popup with a toggle, list of"
+       },
+       "words": 978,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "forthing_forthing__friday_drivetrain_t000_318af66f",
+       "title": {
+        "ru": "Noise generated by the drive motor and",
+        "en": "Noise generated by the drive motor and"
+       },
+       "words": 46,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

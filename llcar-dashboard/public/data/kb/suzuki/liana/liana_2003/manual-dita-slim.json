@@ -1,0 +1,2535 @@
+{
+ "version": "1.0",
+ "model": "liana",
+ "manuals": [
+  {
+   "model": "liana",
+   "label": {
+    "ru": "Suzuki Liana — Руководство по ремонту",
+    "en": "Suzuki Liana — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "suzuki_liana_engine_t000_fbd6df8f",
+       "title": {
+        "ru": "Precautions",
+        "en": "Precautions"
+       },
+       "words": 58,
+       "images": 3,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "suzuki_liana_brakes_t000_b75af037",
+       "title": {
+        "ru": "DTC P0105 (No. 11): Manifold Absolute Pressure (MAP) Circuit Malfunction",
+        "en": "DTC P0105 (No. 11): Manifold Absolute Pressure (MAP) Circuit Malfunction"
+       },
+       "words": 1186,
+       "images": 13,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t001_66ef6961",
+       "title": {
+        "ru": "Front Brake Hose / Pipe Construction For Vehicle with ABS",
+        "en": "Front Brake Hose / Pipe Construction For Vehicle with ABS"
+       },
+       "words": 1039,
+       "images": 17,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t002_b4bd6e64",
+       "title": {
+        "ru": "ABS Hydraulic Unit / Control Module Assembly Description",
+        "en": "ABS Hydraulic Unit / Control Module Assembly Description"
+       },
+       "words": 438,
+       "images": 13,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t003_b6e2039d",
+       "title": {
+        "ru": "If SUzUKl scan tool can not communicate ABS hydraulic unit / control module, per",
+        "en": "If SUzUKl scan tool can not communicate ABS hydraulic unit / control module, per"
+       },
+       "words": 551,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t004_76a8a6ce",
+       "title": {
+        "ru": "DTC C1061 (No. 61): ABS Pump Motor and/or Motor Relay Circuit Wiring Diagram",
+        "en": "DTC C1061 (No. 61): ABS Pump Motor and/or Motor Relay Circuit Wiring Diagram"
+       },
+       "words": 517,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t005_9a2adbdd",
+       "title": {
+        "ru": "Never disassemble ABS hydraulic unit / control module assembly, loosen blind plu",
+        "en": "Never disassemble ABS hydraulic unit / control module assembly, loosen blind plu"
+       },
+       "words": 796,
+       "images": 14,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t006_d5dacc81",
+       "title": {
+        "ru": "MAP (INTAKE MANIFOLD ABSOLUTE PRESSURE, kPa, inHg)",
+        "en": "MAP (INTAKE MANIFOLD ABSOLUTE PRESSURE, kPa, inHg)"
+       },
+       "words": 1083,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t007_749bd732",
+       "title": {
+        "ru": "DTC P0105 (No. 11): Manifold Absolute Pressure (MAP) Circuit Malfunction",
+        "en": "DTC P0105 (No. 11): Manifold Absolute Pressure (MAP) Circuit Malfunction"
+       },
+       "words": 582,
+       "images": 19,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t008_397005b2",
+       "title": {
+        "ru": "ABS Hydraulic Unit / Control Module Assembly Description",
+        "en": "ABS Hydraulic Unit / Control Module Assembly Description"
+       },
+       "words": 892,
+       "images": 16,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t009_53a28784",
+       "title": {
+        "ru": "If SUzUKl scan tool can not communicate ABS hydraulic unit / control module, per",
+        "en": "If SUzUKl scan tool can not communicate ABS hydraulic unit / control module, per"
+       },
+       "words": 697,
+       "images": 10,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t010_0677e42b",
+       "title": {
+        "ru": "ABS Warning Lamp Flashes Continuously while Ignition Switch Is ON Wiring Diagram",
+        "en": "ABS Warning Lamp Flashes Continuously while Ignition Switch Is ON Wiring Diagram"
+       },
+       "words": 698,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t011_94d479b4",
+       "title": {
+        "ru": "Never disassemble ABS hydraulic unit / control module assembly, loosen blind plu",
+        "en": "Never disassemble ABS hydraulic unit / control module assembly, loosen blind plu"
+       },
+       "words": 898,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t012_bf0e3966",
+       "title": {
+        "ru": "DTC P0105 (No. 11): Manifold Absolute Pressure (MAP) Circuit Malfunction",
+        "en": "DTC P0105 (No. 11): Manifold Absolute Pressure (MAP) Circuit Malfunction"
+       },
+       "words": 887,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t013_2b688b2d",
+       "title": {
+        "ru": "If SUzUKl scan tool can not communicate ABS hydraulic unit / control module, per",
+        "en": "If SUzUKl scan tool can not communicate ABS hydraulic unit / control module, per"
+       },
+       "words": 592,
+       "images": 18,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t014_e061d650",
+       "title": {
+        "ru": "Never disassemble ABS hydraulic unit / control module assembly, loosen blind plu",
+        "en": "Never disassemble ABS hydraulic unit / control module assembly, loosen blind plu"
+       },
+       "words": 875,
+       "images": 14,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t015_85a0f98d",
+       "title": {
+        "ru": "Front Brake Hose / Pipe Construction For Vehicle with ABS",
+        "en": "Front Brake Hose / Pipe Construction For Vehicle with ABS"
+       },
+       "words": 1073,
+       "images": 18,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t016_30f1302d",
+       "title": {
+        "ru": "Never disassemble ABS hydraulic unit / control module assembly, loosen blind plu",
+        "en": "Never disassemble ABS hydraulic unit / control module assembly, loosen blind plu"
+       },
+       "words": 792,
+       "images": 16,
+       "section_id": "brakes"
+      },
+      {
+       "id": "suzuki_liana_brakes_t017_57af5884",
+       "title": {
+        "ru": "Before removal, inspect the parts referring to “ABS Hydraulic Unit / Control Mod",
+        "en": "Before removal, inspect the parts referring to “ABS Hydraulic Unit / Control Mod"
+       },
+       "words": 103,
+       "images": 2,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "suzuki_liana_suspension_t000_54d194ea",
+       "title": {
+        "ru": "Front Strut Assembly Removal and Installation S3RH0A2206006",
+        "en": "Front Strut Assembly Removal and Installation S3RH0A2206006"
+       },
+       "words": 35,
+       "images": 3,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "suzuki_liana_electrical_t000_df1fa20a",
+       "title": {
+        "ru": "Schematic and Routing Diagram",
+        "en": "Schematic and Routing Diagram"
+       },
+       "words": 6,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "suzuki_liana_lighting_t000_176f603c",
+       "title": {
+        "ru": "DTC P0601: Internal Control Module Memory Check Sum Error",
+        "en": "DTC P0601: Internal Control Module Memory Check Sum Error"
+       },
+       "words": 631,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t001_9cf72d07",
+       "title": {
+        "ru": "DTC P1450 (No.29) / P1451: Barometric Pressure Sensor Low / High Input / Perform",
+        "en": "DTC P1450 (No.29) / P1451: Barometric Pressure Sensor Low / High Input / Perform"
+       },
+       "words": 945,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t002_66d7064c",
+       "title": {
+        "ru": "To avoid the risk of being burned, start your work after the exhaust system has ",
+        "en": "To avoid the risk of being burned, start your work after the exhaust system has "
+       },
+       "words": 1000,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t003_423d2a6d",
+       "title": {
+        "ru": "Fluid Pressure Test (If Equipped with LSPV)",
+        "en": "Fluid Pressure Test (If Equipped with LSPV)"
+       },
+       "words": 622,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t004_72695f8e",
+       "title": {
+        "ru": "Do not fail to inspect with air to prevent mistaken checking because return spri",
+        "en": "Do not fail to inspect with air to prevent mistaken checking because return spri"
+       },
+       "words": 708,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t005_4381d7c4",
+       "title": {
+        "ru": "Do not fail to inspect with air to prevent mistaken checking because return spri",
+        "en": "Do not fail to inspect with air to prevent mistaken checking because return spri"
+       },
+       "words": 611,
+       "images": 7,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t006_a0daee51",
+       "title": {
+        "ru": "Component enclosed in broken line cannot be disassembled and adjusted.",
+        "en": "Component enclosed in broken line cannot be disassembled and adjusted."
+       },
+       "words": 738,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t007_5b239429",
+       "title": {
+        "ru": "Standard shop practices, particularly eye protection, should be followed during ",
+        "en": "Standard shop practices, particularly eye protection, should be followed during "
+       },
+       "words": 1381,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t008_c02c6448",
+       "title": {
+        "ru": "DTC P1450 (No.29) / P1451: Barometric Pressure Sensor Low / High Input / Perform",
+        "en": "DTC P1450 (No.29) / P1451: Barometric Pressure Sensor Low / High Input / Perform"
+       },
+       "words": 929,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t009_b4427db5",
+       "title": {
+        "ru": "Do not fail to inspect with air to prevent mistaken checking because return spri",
+        "en": "Do not fail to inspect with air to prevent mistaken checking because return spri"
+       },
+       "words": 626,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t010_057fcbae",
+       "title": {
+        "ru": "Do not fail to inspect with air to prevent mistaken checking because return spri",
+        "en": "Do not fail to inspect with air to prevent mistaken checking because return spri"
+       },
+       "words": 745,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t011_e7655529",
+       "title": {
+        "ru": "To avoid the risk of being burned, start your work after the exhaust system has ",
+        "en": "To avoid the risk of being burned, start your work after the exhaust system has "
+       },
+       "words": 1060,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t012_8465c9df",
+       "title": {
+        "ru": "Do not fail to inspect with air to prevent mistaken checking because return spri",
+        "en": "Do not fail to inspect with air to prevent mistaken checking because return spri"
+       },
+       "words": 734,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "suzuki_liana_lighting_t013_792f4b48",
+       "title": {
+        "ru": "Do not fail to inspect with air to prevent mistaken checking because return spri",
+        "en": "Do not fail to inspect with air to prevent mistaken checking because return spri"
+       },
+       "words": 170,
+       "images": 4,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "suzuki_liana_interior_t000_a600ea2d",
+       "title": {
+        "ru": "Precautions",
+        "en": "Precautions"
+       },
+       "words": 16,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "suzuki_liana_ev_t000_ad0ef93a",
+       "title": {
+        "ru": "NOTE",
+        "en": "NOTE"
+       },
+       "words": 10,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "suzuki_liana_chassis_t000_28e96898",
+       "title": {
+        "ru": "Metric Lug Nuts and Wheel Studs",
+        "en": "Metric Lug Nuts and Wheel Studs"
+       },
+       "words": 9,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "suzuki_liana_general_t000_482abb23",
+       "title": {
+        "ru": "For vehicles equipped with Supplemental Restraint (Air Bag) System:",
+        "en": "For vehicles equipped with Supplemental Restraint (Air Bag) System:"
+       },
+       "words": 6081,
+       "images": 65,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t001_e20929e8",
+       "title": {
+        "ru": "Before fitting new oil filter, be sure to oil its O-ring. Use engine oil for thi",
+        "en": "Before fitting new oil filter, be sure to oil its O-ring. Use engine oil for thi"
+       },
+       "words": 2935,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t002_c1aefa25",
+       "title": {
+        "ru": "The following information on engine service should be noted carefully, as it is ",
+        "en": "The following information on engine service should be noted carefully, as it is "
+       },
+       "words": 5134,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t003_9dc9fba5",
+       "title": {
+        "ru": "MIL Does Not Flash or Just Remains ON Even with Grounding Diagnosis Switch Termi",
+        "en": "MIL Does Not Flash or Just Remains ON Even with Grounding Diagnosis Switch Termi"
+       },
+       "words": 1855,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t004_8bbc920a",
+       "title": {
+        "ru": "ЭTC P0300/ P0301 / P0302 / P0303 / P0304: Random Misfire Detected (Misfire Detec",
+        "en": "ЭTC P0300/ P0301 / P0302 / P0303 / P0304: Random Misfire Detected (Misfire Detec"
+       },
+       "words": 1726,
+       "images": 63,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t005_4707f616",
+       "title": {
+        "ru": "DTC P1717: A/T Drive Range (Park/Neutral Position) Signal Circuit Malfunction Wi",
+        "en": "DTC P1717: A/T Drive Range (Park/Neutral Position) Signal Circuit Malfunction Wi"
+       },
+       "words": 1338,
+       "images": 65,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t006_dea77b7f",
+       "title": {
+        "ru": "IAC duty can be checked using diagnosis connector only for vehicle not equipped ",
+        "en": "IAC duty can be checked using diagnosis connector only for vehicle not equipped "
+       },
+       "words": 1277,
+       "images": 109,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t007_215050d5",
+       "title": {
+        "ru": "Main Relay, Fuel Pump Relay, A/C Compressor Relay and A/C Condenser Fan Relay In",
+        "en": "Main Relay, Fuel Pump Relay, A/C Compressor Relay and A/C Condenser Fan Relay In"
+       },
+       "words": 3461,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t008_a2cc928b",
+       "title": {
+        "ru": "Clearance between throttle lever and lever stopper (with pedal depressed fully) ",
+        "en": "Clearance between throttle lever and lever stopper (with pedal depressed fully) "
+       },
+       "words": 4257,
+       "images": 90,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t009_e29d2af8",
+       "title": {
+        "ru": "Do not apply oil between connecting rod and bearing or between bearing cap and b",
+        "en": "Do not apply oil between connecting rod and bearing or between bearing cap and b"
+       },
+       "words": 5398,
+       "images": 90,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t010_82c36777",
+       "title": {
+        "ru": "Fan motor specified current at 12 V 10.0 A maximum",
+        "en": "Fan motor specified current at 12 V 10.0 A maximum"
+       },
+       "words": 3419,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t011_527e8fb9",
+       "title": {
+        "ru": "The engine of this vehicle requires the use of unleaded fuel only. Use of leaded",
+        "en": "The engine of this vehicle requires the use of unleaded fuel only. Use of leaded"
+       },
+       "words": 3825,
+       "images": 56,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t012_beacfdd9",
+       "title": {
+        "ru": "The specified tightening torque is also described in the following. “Fuel System",
+        "en": "The specified tightening torque is also described in the following. “Fuel System"
+       },
+       "words": 2540,
+       "images": 65,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t013_b2db55ed",
+       "title": {
+        "ru": "Consideration should be taken that voltage will differ somewhat with regulator c",
+        "en": "Consideration should be taken that voltage will differ somewhat with regulator c"
+       },
+       "words": 3661,
+       "images": 53,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t014_7571e9dc",
+       "title": {
+        "ru": "Before rotating tie-rods (2), apply grease between tie-rods and rack boots so th",
+        "en": "Before rotating tie-rods (2), apply grease between tie-rods and rack boots so th"
+       },
+       "words": 2674,
+       "images": 64,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t015_34e5b4b9",
+       "title": {
+        "ru": "If painted mark has faded out, align the vehicle center and the center of stabil",
+        "en": "If painted mark has faded out, align the vehicle center and the center of stabil"
+       },
+       "words": 3827,
+       "images": 79,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t016_974e9d52",
+       "title": {
+        "ru": "Stones should be removed from the tread in order to avoid operator injury during",
+        "en": "Stones should be removed from the tread in order to avoid operator injury during"
+       },
+       "words": 3988,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t017_7ed4851e",
+       "title": {
+        "ru": "Change shape of retainer stopper depending on position of tooth on retainer (1).",
+        "en": "Change shape of retainer stopper depending on position of tooth on retainer (1)."
+       },
+       "words": 3420,
+       "images": 86,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t018_d67af585",
+       "title": {
+        "ru": "It is possible to disassemble transfer assembly without removing intermediate sh",
+        "en": "It is possible to disassemble transfer assembly without removing intermediate sh"
+       },
+       "words": 4963,
+       "images": 87,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t019_e5d954c9",
+       "title": {
+        "ru": "When inserting pin, drive till both of its ends at the right and left of reservo",
+        "en": "When inserting pin, drive till both of its ends at the right and left of reservo"
+       },
+       "words": 2983,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t020_30b99d60",
+       "title": {
+        "ru": "The specified tightening torque is also described in the following. “Rear Drum B",
+        "en": "The specified tightening torque is also described in the following. “Rear Drum B"
+       },
+       "words": 2687,
+       "images": 64,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t021_328b8029",
+       "title": {
+        "ru": "Code (DTC) Is Not Outputted Even with Diagnosis Switch Terminal Connected to Gro",
+        "en": "Code (DTC) Is Not Outputted Even with Diagnosis Switch Terminal Connected to Gro"
+       },
+       "words": 4219,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t022_5ad8e22a",
+       "title": {
+        "ru": "Clutch / Brake / Planetary Gear Function of Automatic Transaxle",
+        "en": "Clutch / Brake / Planetary Gear Function of Automatic Transaxle"
+       },
+       "words": 2908,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t023_3f9513a5",
+       "title": {
+        "ru": "DTC P0710 (No. 36 or 38): Transmission Fluid Temperature Sensor Circuit Malfunct",
+        "en": "DTC P0710 (No. 36 or 38): Transmission Fluid Temperature Sensor Circuit Malfunct"
+       },
+       "words": 1863,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t024_ca79dda9",
+       "title": {
+        "ru": "As each terminal voltage is affected by battery voltage, confirm that it is 11 V",
+        "en": "As each terminal voltage is affected by battery voltage, confirm that it is 11 V"
+       },
+       "words": 1861,
+       "images": 69,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t025_a3470042",
+       "title": {
+        "ru": "Solenoid Valves (Shift Solenoid Valves, TCC Solenoid Valve and Timing Solenoid V",
+        "en": "Solenoid Valves (Shift Solenoid Valves, TCC Solenoid Valve and Timing Solenoid V"
+       },
+       "words": 3948,
+       "images": 82,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t026_a5cb32cb",
+       "title": {
+        "ru": "Transaxle Rear Cover and O/D and 2nd Coast Brake Piston Assembly Components",
+        "en": "Transaxle Rear Cover and O/D and 2nd Coast Brake Piston Assembly Components"
+       },
+       "words": 3741,
+       "images": 124,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t027_925d6aa8",
+       "title": {
+        "ru": "Before installation, align teeth of forward and reverse clutch discs to facilita",
+        "en": "Before installation, align teeth of forward and reverse clutch discs to facilita"
+       },
+       "words": 5222,
+       "images": 157,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t028_35198669",
+       "title": {
+        "ru": "Distance between lever end and idler gear shaft “a\": 0.5 - 1.0 mm (0.02 - 0.04 i",
+        "en": "Distance between lever end and idler gear shaft “a\": 0.5 - 1.0 mm (0.02 - 0.04 i"
+       },
+       "words": 3925,
+       "images": 94,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t029_827a60ba",
+       "title": {
+        "ru": "For protection of bearing cone (3), always support shaft with special tool as sh",
+        "en": "For protection of bearing cone (3), always support shaft with special tool as sh"
+       },
+       "words": 3284,
+       "images": 92,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t030_f7223485",
+       "title": {
+        "ru": "Use care not to damage aluminum part of steering lock body with center punch.",
+        "en": "Use care not to damage aluminum part of steering lock body with center punch."
+       },
+       "words": 3676,
+       "images": 63,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t031_ea17dbc1",
+       "title": {
+        "ru": "The specified tightening torque is also described in the following. “Steering Wh",
+        "en": "The specified tightening torque is also described in the following. “Steering Wh"
+       },
+       "words": 3240,
+       "images": 79,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t032_3bb0a221",
+       "title": {
+        "ru": "As each terminal voltage is affected by the battery voltage, confirm that itis 1",
+        "en": "As each terminal voltage is affected by the battery voltage, confirm that itis 1"
+       },
+       "words": 3619,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t033_66978c13",
+       "title": {
+        "ru": "ECM cannot be checked by itself. It is strictly prohibited to connect voltmeter ",
+        "en": "ECM cannot be checked by itself. It is strictly prohibited to connect voltmeter "
+       },
+       "words": 2458,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t034_f292390b",
+       "title": {
+        "ru": "A/C evaporator inlet and outlet air temperature sensors resistance (Sensor Tempe",
+        "en": "A/C evaporator inlet and outlet air temperature sensors resistance (Sensor Tempe"
+       },
+       "words": 2835,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t035_4fa468d6",
+       "title": {
+        "ru": "If sunload sensor is not lighted over with an incandescent lamp, DTC B1504 is de",
+        "en": "If sunload sensor is not lighted over with an incandescent lamp, DTC B1504 is de"
+       },
+       "words": 2531,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t036_c97466b2",
+       "title": {
+        "ru": "As each terminal voltage is affected by the battery voltage, confirm that the ba",
+        "en": "As each terminal voltage is affected by the battery voltage, confirm that the ba"
+       },
+       "words": 970,
+       "images": 71,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t037_1aa61bea",
+       "title": {
+        "ru": "Code (\" \") in the following figure is connector code described in wiring diagram",
+        "en": "Code (\" \") in the following figure is connector code described in wiring diagram"
+       },
+       "words": 5062,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t038_7edb2ede",
+       "title": {
+        "ru": "DTC B1019: Passenger Air Bag Initiator Circuit Short to Power Circuit Wiring Dia",
+        "en": "DTC B1019: Passenger Air Bag Initiator Circuit Short to Power Circuit Wiring Dia"
+       },
+       "words": 2200,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t039_5bc61f6c",
+       "title": {
+        "ru": ")TC B1056 / B1057: Sideward Crash (Driver / Passenger Side) Detected (Side Air B",
+        "en": ")TC B1056 / B1057: Sideward Crash (Driver / Passenger Side) Detected (Side Air B"
+       },
+       "words": 1418,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t040_a11a7040",
+       "title": {
+        "ru": "DTC B1084 / B1088: Side Air Bag (Driver / Passenger Side) Initiator Circuit Shor",
+        "en": "DTC B1084 / B1088: Side Air Bag (Driver / Passenger Side) Initiator Circuit Shor"
+       },
+       "words": 2369,
+       "images": 58,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t041_89939d89",
+       "title": {
+        "ru": "If air bag (inflator) module was dropped from a height of 90 cm (3 ft) or more, ",
+        "en": "If air bag (inflator) module was dropped from a height of 90 cm (3 ft) or more, "
+       },
+       "words": 7657,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t042_5ade6b83",
+       "title": {
+        "ru": "Door, Roof for Connector Layout Diagram J: Front door wire, rear door wire / K: ",
+        "en": "Door, Roof for Connector Layout Diagram J: Front door wire, rear door wire / K: "
+       },
+       "words": 2178,
+       "images": 98,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t043_81283ee0",
+       "title": {
+        "ru": "To prevent vehicle body from scratch, wrap flat head screw driver or the like (1",
+        "en": "To prevent vehicle body from scratch, wrap flat head screw driver or the like (1"
+       },
+       "words": 1139,
+       "images": 83,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t044_a8fa32c5",
+       "title": {
+        "ru": "Outside Air Temperature Sensor (If Equipped with Information Display) Inspection",
+        "en": "Outside Air Temperature Sensor (If Equipped with Information Display) Inspection"
+       },
+       "words": 1920,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t045_39e1bc8c",
+       "title": {
+        "ru": "Refer to “Inspection of HVAC Control Module and its Circuit in Section 7A” for t",
+        "en": "Refer to “Inspection of HVAC Control Module and its Circuit in Section 7A” for t"
+       },
+       "words": 3260,
+       "images": 91,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t046_8a24ddd3",
+       "title": {
+        "ru": "Use care not to allow grease or dirt to be attached on the printed circuit board",
+        "en": "Use care not to allow grease or dirt to be attached on the printed circuit board"
+       },
+       "words": 2134,
+       "images": 80,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t047_17ed5c5e",
+       "title": {
+        "ru": "Rearend Door Assembly (for Wagon Model) Components",
+        "en": "Rearend Door Assembly (for Wagon Model) Components"
+       },
+       "words": 1752,
+       "images": 105,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t048_578e51c8",
+       "title": {
+        "ru": "Immobilizer Indicator Lamp Does Not Light at Ignition Switch ON (Equipped with I",
+        "en": "Immobilizer Indicator Lamp Does Not Light at Ignition Switch ON (Equipped with I"
+       },
+       "words": 2213,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t049_cbb7b1fe",
+       "title": {
+        "ru": "Use care not to damage Immobilizer Control Module and other parts with center pu",
+        "en": "Use care not to damage Immobilizer Control Module and other parts with center pu"
+       },
+       "words": 6938,
+       "images": 60,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t050_266e0624",
+       "title": {
+        "ru": "Before fitting new oil filter, be sure to oil its O-ring. Use engine oil for thi",
+        "en": "Before fitting new oil filter, be sure to oil its O-ring. Use engine oil for thi"
+       },
+       "words": 3793,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t051_721d5f34",
+       "title": {
+        "ru": "The following information on engine service should be noted carefully, as it is ",
+        "en": "The following information on engine service should be noted carefully, as it is "
+       },
+       "words": 6171,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t052_57fc5060",
+       "title": {
+        "ru": "Without Using SUzUKl Scan Tool (Vehicle without Immobilizer Indicator Lamp)",
+        "en": "Without Using SUzUKl Scan Tool (Vehicle without Immobilizer Indicator Lamp)"
+       },
+       "words": 3250,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t053_87792a1a",
+       "title": {
+        "ru": "MIL Does Not Flash or Just Remains ON Even with Grounding Diagnosis Switch Termi",
+        "en": "MIL Does Not Flash or Just Remains ON Even with Grounding Diagnosis Switch Termi"
+       },
+       "words": 2081,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t054_1d2fa523",
+       "title": {
+        "ru": "ЭTC P0300/ P0301 / P0302 / P0303 / P0304: Random Misfire Detected (Misfire Detec",
+        "en": "ЭTC P0300/ P0301 / P0302 / P0303 / P0304: Random Misfire Detected (Misfire Detec"
+       },
+       "words": 2617,
+       "images": 74,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t055_bea02b03",
+       "title": {
+        "ru": "DTC P1717: A/T Drive Range (Park/Neutral Position) Signal Circuit Malfunction Wi",
+        "en": "DTC P1717: A/T Drive Range (Park/Neutral Position) Signal Circuit Malfunction Wi"
+       },
+       "words": 1700,
+       "images": 105,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t056_66200e3e",
+       "title": {
+        "ru": "IAC duty can be checked using diagnosis connector only for vehicle not equipped ",
+        "en": "IAC duty can be checked using diagnosis connector only for vehicle not equipped "
+       },
+       "words": 3587,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t057_4754d0c4",
+       "title": {
+        "ru": "Clearance between throttle lever and lever stopper (with pedal depressed fully) ",
+        "en": "Clearance between throttle lever and lever stopper (with pedal depressed fully) "
+       },
+       "words": 4971,
+       "images": 78,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t058_0669c598",
+       "title": {
+        "ru": "Do not apply oil between connecting rod and bearing or between bearing cap and b",
+        "en": "Do not apply oil between connecting rod and bearing or between bearing cap and b"
+       },
+       "words": 5475,
+       "images": 80,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t059_6c501ea1",
+       "title": {
+        "ru": "Main Bearings, Crankshaft and Cylinder Block Components",
+        "en": "Main Bearings, Crankshaft and Cylinder Block Components"
+       },
+       "words": 5579,
+       "images": 91,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t060_81d331ca",
+       "title": {
+        "ru": "The engine of this vehicle requires the use of unleaded fuel only. Use of leaded",
+        "en": "The engine of this vehicle requires the use of unleaded fuel only. Use of leaded"
+       },
+       "words": 5164,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t061_c642b587",
+       "title": {
+        "ru": "The specified tightening torque is also described in the following. “Fuel System",
+        "en": "The specified tightening torque is also described in the following. “Fuel System"
+       },
+       "words": 4133,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t062_80cdd17e",
+       "title": {
+        "ru": "Consideration should be taken that voltage will differ somewhat with regulator c",
+        "en": "Consideration should be taken that voltage will differ somewhat with regulator c"
+       },
+       "words": 3745,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t063_86e97fa7",
+       "title": {
+        "ru": "Before rotating tie-rods (2), apply grease between tie-rods and rack boots so th",
+        "en": "Before rotating tie-rods (2), apply grease between tie-rods and rack boots so th"
+       },
+       "words": 3914,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t064_827b9062",
+       "title": {
+        "ru": "If painted mark has faded out, align the vehicle center and the center of stabil",
+        "en": "If painted mark has faded out, align the vehicle center and the center of stabil"
+       },
+       "words": 3932,
+       "images": 77,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t065_cc0e81e2",
+       "title": {
+        "ru": "Stones should be removed from the tread in order to avoid operator injury during",
+        "en": "Stones should be removed from the tread in order to avoid operator injury during"
+       },
+       "words": 5163,
+       "images": 66,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t066_12f258b2",
+       "title": {
+        "ru": "Front Drive Shaft Disassembly and Assembly S3RH0A3116003",
+        "en": "Front Drive Shaft Disassembly and Assembly S3RH0A3116003"
+       },
+       "words": 4477,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t067_20065785",
+       "title": {
+        "ru": "It is possible to disassemble transfer assembly without removing intermediate sh",
+        "en": "It is possible to disassemble transfer assembly without removing intermediate sh"
+       },
+       "words": 5325,
+       "images": 97,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t068_5de6eeb3",
+       "title": {
+        "ru": "When inserting pin, drive till both of its ends at the right and left of reservo",
+        "en": "When inserting pin, drive till both of its ends at the right and left of reservo"
+       },
+       "words": 4909,
+       "images": 67,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t069_3d69b9d7",
+       "title": {
+        "ru": "Front brake pad thickness “a\" (lining thickness) Standard: 10 mm (0.40 in.) Limi",
+        "en": "Front brake pad thickness “a\" (lining thickness) Standard: 10 mm (0.40 in.) Limi"
+       },
+       "words": 3522,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t070_98a7d868",
+       "title": {
+        "ru": "Code (DTC) Is Not Outputted Even with Diagnosis Switch Terminal Connected to Gro",
+        "en": "Code (DTC) Is Not Outputted Even with Diagnosis Switch Terminal Connected to Gro"
+       },
+       "words": 3753,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t071_58c36119",
+       "title": {
+        "ru": "Peak-to-peak voltage at 3/4 to 1 1/4 rotation per second 150 mV or more at 32 – ",
+        "en": "Peak-to-peak voltage at 3/4 to 1 1/4 rotation per second 150 mV or more at 32 – "
+       },
+       "words": 5329,
+       "images": 63,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t072_bbc480bb",
+       "title": {
+        "ru": "Step 2. DTC / Freeze Frame Data Check, Record and Clearance",
+        "en": "Step 2. DTC / Freeze Frame Data Check, Record and Clearance"
+       },
+       "words": 3349,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t073_ff53eefe",
+       "title": {
+        "ru": "DTC P0710 (No. 36 or 38): Transmission Fluid Temperature Sensor Circuit Malfunct",
+        "en": "DTC P0710 (No. 36 or 38): Transmission Fluid Temperature Sensor Circuit Malfunct"
+       },
+       "words": 2894,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t074_27733acb",
+       "title": {
+        "ru": "As each terminal voltage is affected by battery voltage, confirm that it is 11 V",
+        "en": "As each terminal voltage is affected by battery voltage, confirm that it is 11 V"
+       },
+       "words": 2703,
+       "images": 73,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t075_6f67ec89",
+       "title": {
+        "ru": "Solenoid Valves (Shift Solenoid Valves, TCC Solenoid Valve and Timing Solenoid V",
+        "en": "Solenoid Valves (Shift Solenoid Valves, TCC Solenoid Valve and Timing Solenoid V"
+       },
+       "words": 5069,
+       "images": 89,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t076_16633631",
+       "title": {
+        "ru": "Transaxle Rear Cover and O/D and 2nd Coast Brake Piston Assembly Components",
+        "en": "Transaxle Rear Cover and O/D and 2nd Coast Brake Piston Assembly Components"
+       },
+       "words": 4413,
+       "images": 120,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t077_192f1f89",
+       "title": {
+        "ru": "Before installation, align teeth of forward and reverse clutch discs to facilita",
+        "en": "Before installation, align teeth of forward and reverse clutch discs to facilita"
+       },
+       "words": 6184,
+       "images": 151,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t078_17b56ec6",
+       "title": {
+        "ru": "For protection of bearing cone (3), always support shaft with special tool as sh",
+        "en": "For protection of bearing cone (3), always support shaft with special tool as sh"
+       },
+       "words": 4665,
+       "images": 97,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t079_cc9615b5",
+       "title": {
+        "ru": "Do not allow fluid to get on painted surface. It may cause painted surface damag",
+        "en": "Do not allow fluid to get on painted surface. It may cause painted surface damag"
+       },
+       "words": 4155,
+       "images": 90,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t080_b24f9623",
+       "title": {
+        "ru": "Use care not to damage aluminum part of steering lock body with center punch.",
+        "en": "Use care not to damage aluminum part of steering lock body with center punch."
+       },
+       "words": 4763,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t081_9c3d0852",
+       "title": {
+        "ru": "The specified tightening torque is also described in the following. “Steering Wh",
+        "en": "The specified tightening torque is also described in the following. “Steering Wh"
+       },
+       "words": 3960,
+       "images": 77,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t082_1f6a4eaf",
+       "title": {
+        "ru": "As each terminal voltage is affected by the battery voltage, confirm that itis 1",
+        "en": "As each terminal voltage is affected by the battery voltage, confirm that itis 1"
+       },
+       "words": 4459,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t083_7813eca6",
+       "title": {
+        "ru": "ECM cannot be checked by itself. It is strictly prohibited to connect voltmeter ",
+        "en": "ECM cannot be checked by itself. It is strictly prohibited to connect voltmeter "
+       },
+       "words": 3298,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t084_a2fc2c14",
+       "title": {
+        "ru": "A/C evaporator inlet and outlet air temperature sensors resistance (Sensor Tempe",
+        "en": "A/C evaporator inlet and outlet air temperature sensors resistance (Sensor Tempe"
+       },
+       "words": 3675,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t085_0fd8ec98",
+       "title": {
+        "ru": "If sunload sensor is not lighted over with an incandescent lamp, DTC B1504 is de",
+        "en": "If sunload sensor is not lighted over with an incandescent lamp, DTC B1504 is de"
+       },
+       "words": 3371,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t086_cc42aa26",
+       "title": {
+        "ru": "As each terminal voltage is affected by the battery voltage, confirm that the ba",
+        "en": "As each terminal voltage is affected by the battery voltage, confirm that the ba"
+       },
+       "words": 1810,
+       "images": 71,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t087_7466354f",
+       "title": {
+        "ru": "Code (\" \") in the following figure is connector code described in wiring diagram",
+        "en": "Code (\" \") in the following figure is connector code described in wiring diagram"
+       },
+       "words": 5846,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t088_fe63fcc8",
+       "title": {
+        "ru": "NOTE If DTC B1051, B1058 or B1071 is stored in SDM, it is not possible to clear ",
+        "en": "NOTE If DTC B1051, B1058 or B1071 is stored in SDM, it is not possible to clear "
+       },
+       "words": 3393,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t089_5c2d631f",
+       "title": {
+        "ru": ")TC B1056 / B1057: Sideward Crash (Driver / Passenger Side) Detected (Side Air B",
+        "en": ")TC B1056 / B1057: Sideward Crash (Driver / Passenger Side) Detected (Side Air B"
+       },
+       "words": 2302,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t090_5f6366ae",
+       "title": {
+        "ru": "DTC B1084 / B1088: Side Air Bag (Driver / Passenger Side) Initiator Circuit Shor",
+        "en": "DTC B1084 / B1088: Side Air Bag (Driver / Passenger Side) Initiator Circuit Shor"
+       },
+       "words": 3009,
+       "images": 58,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t091_a209d6d5",
+       "title": {
+        "ru": "If air bag (inflator) module was dropped from a height of 90 cm (3 ft) or more, ",
+        "en": "If air bag (inflator) module was dropped from a height of 90 cm (3 ft) or more, "
+       },
+       "words": 8742,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t092_9aa85a1a",
+       "title": {
+        "ru": "Door, Roof for Connector Layout Diagram J: Front door wire, rear door wire / K: ",
+        "en": "Door, Roof for Connector Layout Diagram J: Front door wire, rear door wire / K: "
+       },
+       "words": 3370,
+       "images": 102,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t093_419d781a",
+       "title": {
+        "ru": "To prevent vehicle body from scratch, wrap flat head screw driver or the like (1",
+        "en": "To prevent vehicle body from scratch, wrap flat head screw driver or the like (1"
+       },
+       "words": 1847,
+       "images": 77,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t094_43acbf2f",
+       "title": {
+        "ru": "Outside Air Temperature Sensor (If Equipped with Information Display) Inspection",
+        "en": "Outside Air Temperature Sensor (If Equipped with Information Display) Inspection"
+       },
+       "words": 2602,
+       "images": 68,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t095_6db87d45",
+       "title": {
+        "ru": "Adhesive amount specifications and position for rearend door glass",
+        "en": "Adhesive amount specifications and position for rearend door glass"
+       },
+       "words": 3952,
+       "images": 89,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t096_7361f085",
+       "title": {
+        "ru": "Refer to “Inspection of HVAC Control Module and its Circuit in Section 7A” for t",
+        "en": "Refer to “Inspection of HVAC Control Module and its Circuit in Section 7A” for t"
+       },
+       "words": 3201,
+       "images": 85,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t097_e6fe6431",
+       "title": {
+        "ru": "Standard shop practices, particularly eye protection, should be followed during ",
+        "en": "Standard shop practices, particularly eye protection, should be followed during "
+       },
+       "words": 3084,
+       "images": 89,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t098_9ea41fc9",
+       "title": {
+        "ru": "Immobilizer Indicator Lamp Does Not Light at Ignition Switch ON (Equipped with I",
+        "en": "Immobilizer Indicator Lamp Does Not Light at Ignition Switch ON (Equipped with I"
+       },
+       "words": 3177,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t099_9127e147",
+       "title": {
+        "ru": "Use care not to damage Immobilizer Control Module and other parts with center pu",
+        "en": "Use care not to damage Immobilizer Control Module and other parts with center pu"
+       },
+       "words": 6914,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t100_d744cbb9",
+       "title": {
+        "ru": "Before fitting new oil filter, be sure to oil its O-ring. Use engine oil for thi",
+        "en": "Before fitting new oil filter, be sure to oil its O-ring. Use engine oil for thi"
+       },
+       "words": 5261,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t101_a8a934f2",
+       "title": {
+        "ru": "The following information on engine service should be noted carefully, as it is ",
+        "en": "The following information on engine service should be noted carefully, as it is "
+       },
+       "words": 6890,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t102_862db124",
+       "title": {
+        "ru": "Without Using SUzUKl Scan Tool (Vehicle without Immobilizer Indicator Lamp)",
+        "en": "Without Using SUzUKl Scan Tool (Vehicle without Immobilizer Indicator Lamp)"
+       },
+       "words": 4724,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t103_15f4edea",
+       "title": {
+        "ru": "MIL Does Not Flash or Just Remains ON Even with Grounding Diagnosis Switch Termi",
+        "en": "MIL Does Not Flash or Just Remains ON Even with Grounding Diagnosis Switch Termi"
+       },
+       "words": 2916,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t104_2b2358a1",
+       "title": {
+        "ru": "ЭTC P0300/ P0301 / P0302 / P0303 / P0304: Random Misfire Detected (Misfire Detec",
+        "en": "ЭTC P0300/ P0301 / P0302 / P0303 / P0304: Random Misfire Detected (Misfire Detec"
+       },
+       "words": 3525,
+       "images": 66,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t105_1946f0b8",
+       "title": {
+        "ru": "DTC P1450 (No.29) / P1451: Barometric Pressure Sensor Low / High Input / Perform",
+        "en": "DTC P1450 (No.29) / P1451: Barometric Pressure Sensor Low / High Input / Perform"
+       },
+       "words": 2617,
+       "images": 100,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t106_cc07d80f",
+       "title": {
+        "ru": "IAC duty can be checked using diagnosis connector only for vehicle not equipped ",
+        "en": "IAC duty can be checked using diagnosis connector only for vehicle not equipped "
+       },
+       "words": 3963,
+       "images": 73,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t107_1b4e7e81",
+       "title": {
+        "ru": "Clearance between throttle lever and lever stopper (with pedal depressed fully) ",
+        "en": "Clearance between throttle lever and lever stopper (with pedal depressed fully) "
+       },
+       "words": 4828,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t108_d8a1dd96",
+       "title": {
+        "ru": "Don't forget to remove bolt (M8) (1) as shown in the figure.",
+        "en": "Don't forget to remove bolt (M8) (1) as shown in the figure."
+       },
+       "words": 6666,
+       "images": 91,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t109_c0aa0855",
+       "title": {
+        "ru": "Do not apply oil between connecting rod and bearing or between bearing cap and b",
+        "en": "Do not apply oil between connecting rod and bearing or between bearing cap and b"
+       },
+       "words": 7005,
+       "images": 93,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t110_9e992a08",
+       "title": {
+        "ru": "Fan motor specified current at 12 V 10.0 A maximum",
+        "en": "Fan motor specified current at 12 V 10.0 A maximum"
+       },
+       "words": 5099,
+       "images": 60,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t111_d126a17a",
+       "title": {
+        "ru": "The engine of this vehicle requires the use of unleaded fuel only. Use of leaded",
+        "en": "The engine of this vehicle requires the use of unleaded fuel only. Use of leaded"
+       },
+       "words": 5583,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t112_7b0470b6",
+       "title": {
+        "ru": "Specified current (No-load performance test) 90 A MAX. at 11 V",
+        "en": "Specified current (No-load performance test) 90 A MAX. at 11 V"
+       },
+       "words": 4287,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t113_67e097e8",
+       "title": {
+        "ru": "Consideration should be taken that voltage will differ somewhat with regulator c",
+        "en": "Consideration should be taken that voltage will differ somewhat with regulator c"
+       },
+       "words": 5477,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t114_23db1d29",
+       "title": {
+        "ru": "If tie-rod lengths were changed to adjust steering angle, reinspect toe-in.",
+        "en": "If tie-rod lengths were changed to adjust steering angle, reinspect toe-in."
+       },
+       "words": 4300,
+       "images": 72,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t115_ca7a76c0",
+       "title": {
+        "ru": "If painted mark has faded out, align the vehicle center and the center of stabil",
+        "en": "If painted mark has faded out, align the vehicle center and the center of stabil"
+       },
+       "words": 5938,
+       "images": 84,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t116_08b04ea4",
+       "title": {
+        "ru": "Stones should be removed from the tread in order to avoid operator injury during",
+        "en": "Stones should be removed from the tread in order to avoid operator injury during"
+       },
+       "words": 5417,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t117_feebfb9c",
+       "title": {
+        "ru": "Change shape of retainer stopper depending on position of tooth on retainer (1).",
+        "en": "Change shape of retainer stopper depending on position of tooth on retainer (1)."
+       },
+       "words": 5656,
+       "images": 92,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t118_6ab635c5",
+       "title": {
+        "ru": "It is possible to disassemble transfer assembly without removing intermediate sh",
+        "en": "It is possible to disassemble transfer assembly without removing intermediate sh"
+       },
+       "words": 6349,
+       "images": 84,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t119_c15824ca",
+       "title": {
+        "ru": "When inserting pin, drive till both of its ends at the right and left of reservo",
+        "en": "When inserting pin, drive till both of its ends at the right and left of reservo"
+       },
+       "words": 5114,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t120_c73a57c4",
+       "title": {
+        "ru": "Front brake pad thickness “a\" (lining thickness) Standard: 10 mm (0.40 in.) Limi",
+        "en": "Front brake pad thickness “a\" (lining thickness) Standard: 10 mm (0.40 in.) Limi"
+       },
+       "words": 4229,
+       "images": 67,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t121_a4914800",
+       "title": {
+        "ru": "Code (DTC) Is Not Outputted Even with Diagnosis Switch Terminal Connected to Gro",
+        "en": "Code (DTC) Is Not Outputted Even with Diagnosis Switch Terminal Connected to Gro"
+       },
+       "words": 4547,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t122_9faf1cbc",
+       "title": {
+        "ru": "Peak-to-peak voltage at 3/4 to 1 1/4 rotation per second 150 mV or more at 32 – ",
+        "en": "Peak-to-peak voltage at 3/4 to 1 1/4 rotation per second 150 mV or more at 32 – "
+       },
+       "words": 6926,
+       "images": 58,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t123_4f1e82c3",
+       "title": {
+        "ru": "Step 2. DTC / Freeze Frame Data Check, Record and Clearance",
+        "en": "Step 2. DTC / Freeze Frame Data Check, Record and Clearance"
+       },
+       "words": 3729,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t124_00aa9014",
+       "title": {
+        "ru": "DTC P0710 (No. 36 or 38): Transmission Fluid Temperature Sensor Circuit Malfunct",
+        "en": "DTC P0710 (No. 36 or 38): Transmission Fluid Temperature Sensor Circuit Malfunct"
+       },
+       "words": 3838,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t125_60d8de9b",
+       "title": {
+        "ru": "As each terminal voltage is affected by battery voltage, confirm that it is 11 V",
+        "en": "As each terminal voltage is affected by battery voltage, confirm that it is 11 V"
+       },
+       "words": 3764,
+       "images": 74,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t126_aee6d83d",
+       "title": {
+        "ru": "Solenoid Valves (Shift Solenoid Valves, TCC Solenoid Valve and Timing Solenoid V",
+        "en": "Solenoid Valves (Shift Solenoid Valves, TCC Solenoid Valve and Timing Solenoid V"
+       },
+       "words": 6284,
+       "images": 97,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t127_72c923c5",
+       "title": {
+        "ru": "Transaxle Rear Cover and O/D and 2nd Coast Brake Piston Assembly Components",
+        "en": "Transaxle Rear Cover and O/D and 2nd Coast Brake Piston Assembly Components"
+       },
+       "words": 4961,
+       "images": 110,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t128_17e974f5",
+       "title": {
+        "ru": "Before installation, align teeth of forward and reverse clutch discs to facilita",
+        "en": "Before installation, align teeth of forward and reverse clutch discs to facilita"
+       },
+       "words": 6934,
+       "images": 148,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t129_beecbb91",
+       "title": {
+        "ru": "For protection of bearing cone (3), always support shaft with special tool as sh",
+        "en": "For protection of bearing cone (3), always support shaft with special tool as sh"
+       },
+       "words": 5595,
+       "images": 97,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t130_0f102aa9",
+       "title": {
+        "ru": "Do not allow fluid to get on painted surface. It may cause painted surface damag",
+        "en": "Do not allow fluid to get on painted surface. It may cause painted surface damag"
+       },
+       "words": 5182,
+       "images": 88,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t131_3b756980",
+       "title": {
+        "ru": "Use care not to damage aluminum part of steering lock body with center punch.",
+        "en": "Use care not to damage aluminum part of steering lock body with center punch."
+       },
+       "words": 5337,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t132_4ddedc85",
+       "title": {
+        "ru": "The specified tightening torque is also described in the following. “Steering Wh",
+        "en": "The specified tightening torque is also described in the following. “Steering Wh"
+       },
+       "words": 5203,
+       "images": 74,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t133_ca315048",
+       "title": {
+        "ru": "As each terminal voltage is affected by the battery voltage, confirm that itis 1",
+        "en": "As each terminal voltage is affected by the battery voltage, confirm that itis 1"
+       },
+       "words": 5108,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t134_5efac8b0",
+       "title": {
+        "ru": "As each terminal voltage is affected by the battery voltage, confirm that it is ",
+        "en": "As each terminal voltage is affected by the battery voltage, confirm that it is "
+       },
+       "words": 3686,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t135_a6691821",
+       "title": {
+        "ru": "ECM cannot be checked by itself. It is strictly prohibited to connect voltmeter ",
+        "en": "ECM cannot be checked by itself. It is strictly prohibited to connect voltmeter "
+       },
+       "words": 5216,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t136_adbc9079",
+       "title": {
+        "ru": "If sunload sensor is not lighted over with an incandescent lamp, DTC B1504 is de",
+        "en": "If sunload sensor is not lighted over with an incandescent lamp, DTC B1504 is de"
+       },
+       "words": 3918,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t137_64cd8478",
+       "title": {
+        "ru": "As each terminal voltage is affected by the battery voltage, confirm that the ba",
+        "en": "As each terminal voltage is affected by the battery voltage, confirm that the ba"
+       },
+       "words": 2972,
+       "images": 75,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t138_1b26193e",
+       "title": {
+        "ru": "Code (\" \") in the following figure is connector code described in wiring diagram",
+        "en": "Code (\" \") in the following figure is connector code described in wiring diagram"
+       },
+       "words": 6152,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t139_75bdffeb",
+       "title": {
+        "ru": "NOTE If DTC B1051, B1058 or B1071 is stored in SDM, it is not possible to clear ",
+        "en": "NOTE If DTC B1051, B1058 or B1071 is stored in SDM, it is not possible to clear "
+       },
+       "words": 4881,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t140_69658621",
+       "title": {
+        "ru": "ЭTC B1042 / B1046: Driver / Passenger Pretensioner Initiator Circuit Resistance ",
+        "en": "ЭTC B1042 / B1046: Driver / Passenger Pretensioner Initiator Circuit Resistance "
+       },
+       "words": 3190,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t141_b5176b47",
+       "title": {
+        "ru": "DTC B1084 / B1088: Side Air Bag (Driver / Passenger Side) Initiator Circuit Shor",
+        "en": "DTC B1084 / B1088: Side Air Bag (Driver / Passenger Side) Initiator Circuit Shor"
+       },
+       "words": 3474,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t142_c67d99a2",
+       "title": {
+        "ru": "If air bag (inflator) module was dropped from a height of 90 cm (3 ft) or more, ",
+        "en": "If air bag (inflator) module was dropped from a height of 90 cm (3 ft) or more, "
+       },
+       "words": 9552,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t143_480b8851",
+       "title": {
+        "ru": "Door, Roof for Connector Layout Diagram J: Front door wire, rear door wire / K: ",
+        "en": "Door, Roof for Connector Layout Diagram J: Front door wire, rear door wire / K: "
+       },
+       "words": 4557,
+       "images": 97,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t144_6f3b0a31",
+       "title": {
+        "ru": "C-2 Combination Meter Circuit Diagram (Indicator) <5 Door Type 1 – 3, 4 Door Typ",
+        "en": "C-2 Combination Meter Circuit Diagram (Indicator) <5 Door Type 1 – 3, 4 Door Typ"
+       },
+       "words": 2719,
+       "images": 82,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t145_72437a86",
+       "title": {
+        "ru": "To prevent vehicle body from scratch, wrap flat head screw driver or the like (1",
+        "en": "To prevent vehicle body from scratch, wrap flat head screw driver or the like (1"
+       },
+       "words": 3414,
+       "images": 67,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t146_ecea3ba2",
+       "title": {
+        "ru": "Power Door Mirror Control System (If Equipped) Symptom Diagnosis",
+        "en": "Power Door Mirror Control System (If Equipped) Symptom Diagnosis"
+       },
+       "words": 4769,
+       "images": 89,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t147_ee133530",
+       "title": {
+        "ru": "Refer to “Inspection of HVAC Control Module and its Circuit in Section 7A” for t",
+        "en": "Refer to “Inspection of HVAC Control Module and its Circuit in Section 7A” for t"
+       },
+       "words": 4233,
+       "images": 84,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t148_314bf366",
+       "title": {
+        "ru": "Seat Heater Switch (Driver and Passenger Side) Inspection",
+        "en": "Seat Heater Switch (Driver and Passenger Side) Inspection"
+       },
+       "words": 3436,
+       "images": 75,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t149_4e4becd7",
+       "title": {
+        "ru": "Standard shop practices, particularly eye protection, should be followed during ",
+        "en": "Standard shop practices, particularly eye protection, should be followed during "
+       },
+       "words": 4525,
+       "images": 68,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t150_f373f7db",
+       "title": {
+        "ru": "DTC 13: No Transponder Code Transmitted or Coil Antenna Opened/Shorted Wiring Di",
+        "en": "DTC 13: No Transponder Code Transmitted or Coil Antenna Opened/Shorted Wiring Di"
+       },
+       "words": 6641,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t151_ed7c6e05",
+       "title": {
+        "ru": "Before fitting new oil filter, be sure to oil its O-ring. Use engine oil for thi",
+        "en": "Before fitting new oil filter, be sure to oil its O-ring. Use engine oil for thi"
+       },
+       "words": 6886,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t152_d71f77c6",
+       "title": {
+        "ru": "Transfer Oil (4WD A/T) and Rear Differential Oil (4WD) Replacement",
+        "en": "Transfer Oil (4WD A/T) and Rear Differential Oil (4WD) Replacement"
+       },
+       "words": 6797,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t153_b7ca06b3",
+       "title": {
+        "ru": "The following information on engine service should be noted carefully, as it is ",
+        "en": "The following information on engine service should be noted carefully, as it is "
+       },
+       "words": 6659,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t154_3fb529eb",
+       "title": {
+        "ru": "MIL Does Not Flash or Just Remains ON Even with Grounding Diagnosis Switch Termi",
+        "en": "MIL Does Not Flash or Just Remains ON Even with Grounding Diagnosis Switch Termi"
+       },
+       "words": 3665,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t155_681563d8",
+       "title": {
+        "ru": "ЭTC P0300/ P0301 / P0302 / P0303 / P0304: Random Misfire Detected (Misfire Detec",
+        "en": "ЭTC P0300/ P0301 / P0302 / P0303 / P0304: Random Misfire Detected (Misfire Detec"
+       },
+       "words": 4378,
+       "images": 66,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t156_494b7ed6",
+       "title": {
+        "ru": "DTC P1450 (No.29) / P1451: Barometric Pressure Sensor Low / High Input / Perform",
+        "en": "DTC P1450 (No.29) / P1451: Barometric Pressure Sensor Low / High Input / Perform"
+       },
+       "words": 3686,
+       "images": 85,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t157_026ec879",
+       "title": {
+        "ru": "IAC duty can be checked using diagnosis connector only for vehicle not equipped ",
+        "en": "IAC duty can be checked using diagnosis connector only for vehicle not equipped "
+       },
+       "words": 4351,
+       "images": 93,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t158_df23c183",
+       "title": {
+        "ru": "Clearance between throttle lever and lever stopper (with pedal depressed fully) ",
+        "en": "Clearance between throttle lever and lever stopper (with pedal depressed fully) "
+       },
+       "words": 5725,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t159_8657ec3e",
+       "title": {
+        "ru": "Don't forget to remove bolt (M8) (1) as shown in the figure.",
+        "en": "Don't forget to remove bolt (M8) (1) as shown in the figure."
+       },
+       "words": 6979,
+       "images": 88,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t160_93a5ee85",
+       "title": {
+        "ru": "Do not apply oil between connecting rod and bearing or between bearing cap and b",
+        "en": "Do not apply oil between connecting rod and bearing or between bearing cap and b"
+       },
+       "words": 8169,
+       "images": 96,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t161_479feb86",
+       "title": {
+        "ru": "Fan motor specified current at 12 V 10.0 A maximum",
+        "en": "Fan motor specified current at 12 V 10.0 A maximum"
+       },
+       "words": 5917,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t162_eb70bc05",
+       "title": {
+        "ru": "The engine of this vehicle requires the use of unleaded fuel only. Use of leaded",
+        "en": "The engine of this vehicle requires the use of unleaded fuel only. Use of leaded"
+       },
+       "words": 6611,
+       "images": 53,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t163_5eb198b9",
+       "title": {
+        "ru": "The specified tightening torque is also described in the following. “Fuel System",
+        "en": "The specified tightening torque is also described in the following. “Fuel System"
+       },
+       "words": 5273,
+       "images": 65,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t164_a80f6338",
+       "title": {
+        "ru": "Consideration should be taken that voltage will differ somewhat with regulator c",
+        "en": "Consideration should be taken that voltage will differ somewhat with regulator c"
+       },
+       "words": 6142,
+       "images": 53,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t165_dda930cd",
+       "title": {
+        "ru": "Before rotating tie-rods (2), apply grease between tie-rods and rack boots so th",
+        "en": "Before rotating tie-rods (2), apply grease between tie-rods and rack boots so th"
+       },
+       "words": 5253,
+       "images": 62,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t166_484c942f",
+       "title": {
+        "ru": "If painted mark has faded out, align the vehicle center and the center of stabil",
+        "en": "If painted mark has faded out, align the vehicle center and the center of stabil"
+       },
+       "words": 6258,
+       "images": 78,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t167_d35c8107",
+       "title": {
+        "ru": "Stones should be removed from the tread in order to avoid operator injury during",
+        "en": "Stones should be removed from the tread in order to avoid operator injury during"
+       },
+       "words": 6393,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t168_4e53f986",
+       "title": {
+        "ru": "Be sure to use bearing holder for the purpose of protecting lower bearing.",
+        "en": "Be sure to use bearing holder for the purpose of protecting lower bearing."
+       },
+       "words": 6292,
+       "images": 90,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t169_ba99aaad",
+       "title": {
+        "ru": "It is possible to disassemble transfer assembly without removing intermediate sh",
+        "en": "It is possible to disassemble transfer assembly without removing intermediate sh"
+       },
+       "words": 6936,
+       "images": 91,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t170_e3843adc",
+       "title": {
+        "ru": "When inserting pin, drive till both of its ends at the right and left of reservo",
+        "en": "When inserting pin, drive till both of its ends at the right and left of reservo"
+       },
+       "words": 6453,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t171_b257979e",
+       "title": {
+        "ru": "Front brake pad thickness “a\" (lining thickness) Standard: 10 mm (0.40 in.) Limi",
+        "en": "Front brake pad thickness “a\" (lining thickness) Standard: 10 mm (0.40 in.) Limi"
+       },
+       "words": 5188,
+       "images": 65,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t172_481cdbc7",
+       "title": {
+        "ru": "Code (DTC) Is Not Outputted Even with Diagnosis Switch Terminal Connected to Gro",
+        "en": "Code (DTC) Is Not Outputted Even with Diagnosis Switch Terminal Connected to Gro"
+       },
+       "words": 5533,
+       "images": 58,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t173_d271ccfb",
+       "title": {
+        "ru": "Peak-to-peak voltage at 3/4 to 1 1/4 rotation per second 150 mV or more at 32 – ",
+        "en": "Peak-to-peak voltage at 3/4 to 1 1/4 rotation per second 150 mV or more at 32 – "
+       },
+       "words": 7209,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t174_98ffb990",
+       "title": {
+        "ru": "Step 2. DTC / Freeze Frame Data Check, Record and Clearance",
+        "en": "Step 2. DTC / Freeze Frame Data Check, Record and Clearance"
+       },
+       "words": 5477,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t175_d9711683",
+       "title": {
+        "ru": "DTC P0710 (No. 36 or 38): Transmission Fluid Temperature Sensor Circuit Malfunct",
+        "en": "DTC P0710 (No. 36 or 38): Transmission Fluid Temperature Sensor Circuit Malfunct"
+       },
+       "words": 4402,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t176_3f08ccf2",
+       "title": {
+        "ru": "As each terminal voltage is affected by battery voltage, confirm that it is 11 V",
+        "en": "As each terminal voltage is affected by battery voltage, confirm that it is 11 V"
+       },
+       "words": 4434,
+       "images": 70,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t177_258c9acb",
+       "title": {
+        "ru": "Solenoid Valves (Shift Solenoid Valves, TCC Solenoid Valve and Timing Solenoid V",
+        "en": "Solenoid Valves (Shift Solenoid Valves, TCC Solenoid Valve and Timing Solenoid V"
+       },
+       "words": 6567,
+       "images": 70,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t178_8c6db61e",
+       "title": {
+        "ru": "Transaxle Rear Cover and O/D and 2nd Coast Brake Piston Assembly Components",
+        "en": "Transaxle Rear Cover and O/D and 2nd Coast Brake Piston Assembly Components"
+       },
+       "words": 6508,
+       "images": 129,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t179_567a8691",
+       "title": {
+        "ru": "Before installation, align teeth of forward and reverse clutch discs to facilita",
+        "en": "Before installation, align teeth of forward and reverse clutch discs to facilita"
+       },
+       "words": 7265,
+       "images": 150,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t180_ff2b730b",
+       "title": {
+        "ru": "Distance between lever end and idler gear shaft “a\": 0.5 - 1.0 mm (0.02 - 0.04 i",
+        "en": "Distance between lever end and idler gear shaft “a\": 0.5 - 1.0 mm (0.02 - 0.04 i"
+       },
+       "words": 6754,
+       "images": 102,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t181_1cba4d68",
+       "title": {
+        "ru": "For protection of bearing cone (3), always support shaft with special tool as sh",
+        "en": "For protection of bearing cone (3), always support shaft with special tool as sh"
+       },
+       "words": 6156,
+       "images": 92,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t182_7b82218d",
+       "title": {
+        "ru": "Clutch Cover, Clutch Disc, Flywheel and Clutch Release System Components",
+        "en": "Clutch Cover, Clutch Disc, Flywheel and Clutch Release System Components"
+       },
+       "words": 5774,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t183_c95f2b01",
+       "title": {
+        "ru": "The specified tightening torque is also described in the following. “Steering Wh",
+        "en": "The specified tightening torque is also described in the following. “Steering Wh"
+       },
+       "words": 6215,
+       "images": 80,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t184_7ba43e5c",
+       "title": {
+        "ru": "As each terminal voltage is affected by the battery voltage, confirm that itis 1",
+        "en": "As each terminal voltage is affected by the battery voltage, confirm that itis 1"
+       },
+       "words": 6343,
+       "images": 53,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t185_df5f4668",
+       "title": {
+        "ru": "Temperature control actuator resistance between terminal “1\" and \"3\" (MAX HOT po",
+        "en": "Temperature control actuator resistance between terminal “1\" and \"3\" (MAX HOT po"
+       },
+       "words": 4634,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t186_65d8c27c",
+       "title": {
+        "ru": "ECM cannot be checked by itself. It is strictly prohibited to connect voltmeter ",
+        "en": "ECM cannot be checked by itself. It is strictly prohibited to connect voltmeter "
+       },
+       "words": 5841,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t187_d803685e",
+       "title": {
+        "ru": "If sunload sensor is not lighted over with an incandescent lamp, DTC B1504 is de",
+        "en": "If sunload sensor is not lighted over with an incandescent lamp, DTC B1504 is de"
+       },
+       "words": 4789,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t188_fca819d6",
+       "title": {
+        "ru": "As each terminal voltage is affected by the battery voltage, confirm that the ba",
+        "en": "As each terminal voltage is affected by the battery voltage, confirm that the ba"
+       },
+       "words": 3873,
+       "images": 72,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t189_0ce5e42b",
+       "title": {
+        "ru": "Inside Air Temperature Sensor Inspection A/C Evaporator Removal and Installation",
+        "en": "Inside Air Temperature Sensor Inspection A/C Evaporator Removal and Installation"
+       },
+       "words": 6345,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t190_b22487ed",
+       "title": {
+        "ru": "Code (\" \") in the following figure is connector code described in wiring diagram",
+        "en": "Code (\" \") in the following figure is connector code described in wiring diagram"
+       },
+       "words": 6409,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t191_40f0fefc",
+       "title": {
+        "ru": "DTC B1019: Passenger Air Bag Initiator Circuit Short to Power Circuit Wiring Dia",
+        "en": "DTC B1019: Passenger Air Bag Initiator Circuit Short to Power Circuit Wiring Dia"
+       },
+       "words": 4168,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t192_7a737f88",
+       "title": {
+        "ru": "DTC B1064 / B1066: Side Sensor (Driver / Passenger Side) Circuit Short to Power ",
+        "en": "DTC B1064 / B1066: Side Sensor (Driver / Passenger Side) Circuit Short to Power "
+       },
+       "words": 3846,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t193_432ce4af",
+       "title": {
+        "ru": "DTC B1084 / B1088: Side Air Bag (Driver / Passenger Side) Initiator Circuit Shor",
+        "en": "DTC B1084 / B1088: Side Air Bag (Driver / Passenger Side) Initiator Circuit Shor"
+       },
+       "words": 8861,
+       "images": 60,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t194_b6f2c93f",
+       "title": {
+        "ru": "Door, Roof for Connector Layout Diagram J: Front door wire, rear door wire / K: ",
+        "en": "Door, Roof for Connector Layout Diagram J: Front door wire, rear door wire / K: "
+       },
+       "words": 7322,
+       "images": 82,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t195_5b1f57a7",
+       "title": {
+        "ru": "C-2 Combination Meter Circuit Diagram (Indicator) <5 Door Type 1 – 3, 4 Door Typ",
+        "en": "C-2 Combination Meter Circuit Diagram (Indicator) <5 Door Type 1 – 3, 4 Door Typ"
+       },
+       "words": 3348,
+       "images": 79,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t196_31f771ad",
+       "title": {
+        "ru": "To prevent vehicle body from scratch, wrap flat head screw driver or the like (1",
+        "en": "To prevent vehicle body from scratch, wrap flat head screw driver or the like (1"
+       },
+       "words": 4171,
+       "images": 68,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t197_86c917b3",
+       "title": {
+        "ru": "Outside Air Temperature Sensor (If Equipped with Information Display) Inspection",
+        "en": "Outside Air Temperature Sensor (If Equipped with Information Display) Inspection"
+       },
+       "words": 5714,
+       "images": 92,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t198_7862404d",
+       "title": {
+        "ru": "Refer to “Inspection of HVAC Control Module and its Circuit in Section 7A” for t",
+        "en": "Refer to “Inspection of HVAC Control Module and its Circuit in Section 7A” for t"
+       },
+       "words": 5049,
+       "images": 89,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t199_5154b8cf",
+       "title": {
+        "ru": "Use care not to allow grease or dirt to be attached on the printed circuit board",
+        "en": "Use care not to allow grease or dirt to be attached on the printed circuit board"
+       },
+       "words": 4688,
+       "images": 66,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t200_c347b22b",
+       "title": {
+        "ru": "Standard shop practices, particularly eye protection, should be followed during ",
+        "en": "Standard shop practices, particularly eye protection, should be followed during "
+       },
+       "words": 5207,
+       "images": 80,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t201_9b9a4a06",
+       "title": {
+        "ru": "Immobilizer Indicator Lamp Remains ON after Engine Starts (Equipped with Immobil",
+        "en": "Immobilizer Indicator Lamp Remains ON after Engine Starts (Equipped with Immobil"
+       },
+       "words": 3397,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "suzuki_liana_general_t202_310c262c",
+       "title": {
+        "ru": "Special Tools and Equipment",
+        "en": "Special Tools and Equipment"
+       },
+       "words": 55,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "suzuki_liana_drivetrain_t000_6f33961d",
+       "title": {
+        "ru": "Drive Shaft (Axle) Boots Inspection",
+        "en": "Drive Shaft (Axle) Boots Inspection"
+       },
+       "words": 31,
+       "images": 1,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

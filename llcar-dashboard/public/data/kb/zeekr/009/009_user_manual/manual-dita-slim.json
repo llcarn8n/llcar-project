@@ -1,0 +1,155 @@
+{
+ "version": "1.0",
+ "model": "009",
+ "manuals": [
+  {
+   "model": "009",
+   "label": {
+    "ru": "Zeekr 009 — Руководство по ремонту",
+    "en": "Zeekr 009 — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "zeekr_009_brakes_t000_6b00ba91",
+       "title": {
+        "ru": "车身稳定控制系统",
+        "en": "车身稳定控制系统"
+       },
+       "words": 124,
+       "images": 1,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "zeekr_009_body_t000_3c206d6e",
+       "title": {
+        "ru": "Emergency unlocking and locking of doors",
+        "en": "Emergency unlocking and locking of doors"
+       },
+       "words": 1190,
+       "images": 7,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "zeekr_009_lighting_t000_e51f26a5",
+       "title": {
+        "ru": "Indicator and Warning Lights",
+        "en": "Indicator and Warning Lights"
+       },
+       "words": 734,
+       "images": 18,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "zeekr_009_interior_t000_5cd049a5",
+       "title": {
+        "ru": "safe pregnancy",
+        "en": "safe pregnancy"
+       },
+       "words": 429,
+       "images": 2,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "zeekr_009_general_t000_a9c00cd8",
+       "title": {
+        "ru": "Important information related to this manual",
+        "en": "Important information related to this manual"
+       },
+       "words": 1276,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "zeekr_009_general_t001_97b1bdd9",
+       "title": {
+        "ru": "Seat belt not fastened reminder",
+        "en": "Seat belt not fastened reminder"
+       },
+       "words": 682,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "zeekr_009_general_t002_ef463da6",
+       "title": {
+        "ru": "Airbag Deployment Conditions",
+        "en": "Airbag Deployment Conditions"
+       },
+       "words": 1028,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "zeekr_009_general_t003_d88aa4f3",
+       "title": {
+        "ru": "Emergency unlock charging port cover",
+        "en": "Emergency unlock charging port cover"
+       },
+       "words": 776,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "zeekr_009_general_t004_9808628b",
+       "title": {
+        "ru": "Safety vest and warning triangle",
+        "en": "Safety vest and warning triangle"
+       },
+       "words": 404,
+       "images": 7,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

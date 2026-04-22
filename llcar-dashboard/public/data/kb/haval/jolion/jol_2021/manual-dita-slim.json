@@ -1,0 +1,2815 @@
+{
+ "version": "1.0",
+ "model": "jolion",
+ "manuals": [
+  {
+   "model": "jolion",
+   "label": {
+    "ru": "Haval Jolion — Руководство по ремонту",
+    "en": "Haval Jolion — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "haval_jolion_engine_t000_b8521673",
+       "title": {
+        "ru": "Управление ускорением/замедлением, инверсией и прекращением подачи топлива",
+        "en": "Управление ускорением/замедлением, инверсией и прекращением подачи топлива"
+       },
+       "words": 1102,
+       "images": 24,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t001_b9121f5c",
+       "title": {
+        "ru": "Датчик положения распределительного вала Принцип действия",
+        "en": "Датчик положения распределительного вала Принцип действия"
+       },
+       "words": 770,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t002_68262c9d",
+       "title": {
+        "ru": "Управление прогревом двигателя и нагревом трехкомпонентногокаталитического нейтр",
+        "en": "Управление прогревом двигателя и нагревом трехкомпонентногокаталитического нейтр"
+       },
+       "words": 1081,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t003_b65538bf",
+       "title": {
+        "ru": "Снятие/установка Снятие",
+        "en": "Снятие/установка Снятие"
+       },
+       "words": 1009,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t004_10b3eff2",
+       "title": {
+        "ru": "Снятие/установка Снятие",
+        "en": "Снятие/установка Снятие"
+       },
+       "words": 745,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t005_92eb1b85",
+       "title": {
+        "ru": "Механическая часть двигателя (GW4B15D)",
+        "en": "Механическая часть двигателя (GW4B15D)"
+       },
+       "words": 997,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t006_c3174665",
+       "title": {
+        "ru": "Установка",
+        "en": "Установка"
+       },
+       "words": 843,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t007_fc4f30c6",
+       "title": {
+        "ru": "Управление токсичностью выхлопных газов при холодном запуске двигателя Общее опи",
+        "en": "Управление токсичностью выхлопных газов при холодном запуске двигателя Общее опи"
+       },
+       "words": 1281,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t008_9fc84397",
+       "title": {
+        "ru": "Контроль давления топлива в топливной магистрали высокого давления при прогреве ",
+        "en": "Контроль давления топлива в топливной магистрали высокого давления при прогреве "
+       },
+       "words": 805,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t009_2d387bb0",
+       "title": {
+        "ru": "Датчик температуры охлаждающей жидкости Принцип действия",
+        "en": "Датчик температуры охлаждающей жидкости Принцип действия"
+       },
+       "words": 961,
+       "images": 6,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t010_570de665",
+       "title": {
+        "ru": "Масляный насос Принцип действия",
+        "en": "Масляный насос Принцип действия"
+       },
+       "words": 873,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t011_f94d4880",
+       "title": {
+        "ru": "22. Затяните 2 болта кронштейна 2 переднего каталитического нейтрализатора",
+        "en": "22. Затяните 2 болта кронштейна 2 переднего каталитического нейтрализатора"
+       },
+       "words": 1149,
+       "images": 39,
+       "section_id": "engine"
+      },
+      {
+       "id": "haval_jolion_engine_t012_8068e424",
+       "title": {
+        "ru": "Автоматическая коробка передач Расположение компонентов",
+        "en": "Автоматическая коробка передач Расположение компонентов"
+       },
+       "words": 638,
+       "images": 11,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "haval_jolion_brakes_t000_e86772c8",
+       "title": {
+        "ru": "Способ поиска неисправности:",
+        "en": "Способ поиска неисправности:"
+       },
+       "words": 1914,
+       "images": 59,
+       "section_id": "brakes"
+      },
+      {
+       "id": "haval_jolion_brakes_t001_acb00812",
+       "title": {
+        "ru": "Тормозная система с четырьмя дисковыми механизмами",
+        "en": "Тормозная система с четырьмя дисковыми механизмами"
+       },
+       "words": 544,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "haval_jolion_brakes_t002_92cd8517",
+       "title": {
+        "ru": "Тормозной механизм передних колес (GW4G15K) Расположение компонентов",
+        "en": "Тормозной механизм передних колес (GW4G15K) Расположение компонентов"
+       },
+       "words": 297,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "haval_jolion_brakes_t003_d3538f49",
+       "title": {
+        "ru": "Тормозные механизмы задних колес Расположение компонентов",
+        "en": "Тормозные механизмы задних колес Расположение компонентов"
+       },
+       "words": 403,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "haval_jolion_brakes_t004_5785e27e",
+       "title": {
+        "ru": "Ремонт при отсутствии DTC",
+        "en": "Ремонт при отсутствии DTC"
+       },
+       "words": 1508,
+       "images": 1,
+       "section_id": "brakes"
+      },
+      {
+       "id": "haval_jolion_brakes_t005_a1cbe7b8",
+       "title": {
+        "ru": "C10401A, C10AD08",
+        "en": "C10401A, C10AD08"
+       },
+       "words": 621,
+       "images": 19,
+       "section_id": "brakes"
+      },
+      {
+       "id": "haval_jolion_brakes_t006_04fc1a63",
+       "title": {
+        "ru": "U012287",
+        "en": "U012287"
+       },
+       "words": 847,
+       "images": 24,
+       "section_id": "brakes"
+      },
+      {
+       "id": "haval_jolion_brakes_t007_b9d63efd",
+       "title": {
+        "ru": "Описание",
+        "en": "Описание"
+       },
+       "words": 1543,
+       "images": 28,
+       "section_id": "brakes"
+      },
+      {
+       "id": "haval_jolion_brakes_t008_53c8a61c",
+       "title": {
+        "ru": "U007588, U007488, U007D88, U007E88, U007888, U007988",
+        "en": "U007588, U007488, U007D88, U007E88, U007888, U007988"
+       },
+       "words": 387,
+       "images": 5,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "haval_jolion_suspension_t000_42e4d81c",
+       "title": {
+        "ru": "Передняя подвеска типа Макферсон",
+        "en": "Передняя подвеска типа Макферсон"
+       },
+       "words": 1067,
+       "images": 36,
+       "section_id": "suspension"
+      },
+      {
+       "id": "haval_jolion_suspension_t001_e49c2c3a",
+       "title": {
+        "ru": "Передний подрамник в сборе без переднего нижнего усилителя бампера (GW4G15K)",
+        "en": "Передний подрамник в сборе без переднего нижнего усилителя бампера (GW4G15K)"
+       },
+       "words": 498,
+       "images": 17,
+       "section_id": "suspension"
+      },
+      {
+       "id": "haval_jolion_suspension_t002_b910dea7",
+       "title": {
+        "ru": "Задняя подвеска с торсионной балкой (GW4G15K)",
+        "en": "Задняя подвеска с торсионной балкой (GW4G15K)"
+       },
+       "words": 572,
+       "images": 21,
+       "section_id": "suspension"
+      },
+      {
+       "id": "haval_jolion_suspension_t003_a08091b3",
+       "title": {
+        "ru": "Рулевой механизм в сборе без переднего нижнего усилителя бампера (GW4G15K)",
+        "en": "Рулевой механизм в сборе без переднего нижнего усилителя бампера (GW4G15K)"
+       },
+       "words": 870,
+       "images": 26,
+       "section_id": "suspension"
+      },
+      {
+       "id": "haval_jolion_suspension_t004_f0268017",
+       "title": {
+        "ru": "Область внутренней панели нижней части стойки А и усилителя стойки А (слева и сп",
+        "en": "Область внутренней панели нижней части стойки А и усилителя стойки А (слева и сп"
+       },
+       "words": 158,
+       "images": 26,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "haval_jolion_electrical_t000_4c0e0a59",
+       "title": {
+        "ru": "Способ поиска неисправности:",
+        "en": "Способ поиска неисправности:"
+       },
+       "words": 1044,
+       "images": 29,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "transmission",
+     "title": {
+      "ru": "Трансмиссия",
+      "en": "Transmission"
+     },
+     "icon": "⚙️",
+     "topics": [
+      {
+       "id": "haval_jolion_transmission_t000_9bff91f1",
+       "title": {
+        "ru": "Коробка передач (GW4G15K +6MF22B+2WD)",
+        "en": "Коробка передач (GW4G15K +6MF22B+2WD)"
+       },
+       "words": 1031,
+       "images": 14,
+       "section_id": "transmission"
+      },
+      {
+       "id": "haval_jolion_transmission_t001_4f67a4b3",
+       "title": {
+        "ru": "Сборка",
+        "en": "Сборка"
+       },
+       "words": 770,
+       "images": 17,
+       "section_id": "transmission"
+      },
+      {
+       "id": "haval_jolion_transmission_t002_2a83d1f1",
+       "title": {
+        "ru": "Коробка передач (GW4G15K +GW7DCT1-A02+2WD)",
+        "en": "Коробка передач (GW4G15K +GW7DCT1-A02+2WD)"
+       },
+       "words": 2266,
+       "images": 46,
+       "section_id": "transmission"
+      },
+      {
+       "id": "haval_jolion_transmission_t003_ad1c6e84",
+       "title": {
+        "ru": "Способ поиска неисправности:",
+        "en": "Способ поиска неисправности:"
+       },
+       "words": 2060,
+       "images": 52,
+       "section_id": "transmission"
+      },
+      {
+       "id": "haval_jolion_transmission_t004_ab30293b",
+       "title": {
+        "ru": "Подробная программа диагностики Способы устранения неисправностей Способы устран",
+        "en": "Подробная программа диагностики Способы устранения неисправностей Способы устран"
+       },
+       "words": 1467,
+       "images": 32,
+       "section_id": "transmission"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "haval_jolion_hvac_t000_e697ae36",
+       "title": {
+        "ru": "Функции узлов и агрегатов",
+        "en": "Функции узлов и агрегатов"
+       },
+       "words": 1792,
+       "images": 78,
+       "section_id": "hvac"
+      },
+      {
+       "id": "haval_jolion_hvac_t001_e7f62994",
+       "title": {
+        "ru": "Снятие",
+        "en": "Снятие"
+       },
+       "words": 467,
+       "images": 11,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "haval_jolion_body_t000_b331b595",
+       "title": {
+        "ru": "Содержание",
+        "en": "Содержание"
+       },
+       "words": 1007,
+       "images": 26,
+       "section_id": "body"
+      },
+      {
+       "id": "haval_jolion_body_t001_823d3334",
+       "title": {
+        "ru": "Регулировка",
+        "en": "Регулировка"
+       },
+       "words": 878,
+       "images": 21,
+       "section_id": "body"
+      },
+      {
+       "id": "haval_jolion_body_t002_41988b16",
+       "title": {
+        "ru": "внимание",
+        "en": "внимание"
+       },
+       "words": 550,
+       "images": 6,
+       "section_id": "body"
+      },
+      {
+       "id": "haval_jolion_body_t003_5fde2254",
+       "title": {
+        "ru": "Материалы и параметры Схема расположения пластиковых деталей",
+        "en": "Материалы и параметры Схема расположения пластиковых деталей"
+       },
+       "words": 1280,
+       "images": 46,
+       "section_id": "body"
+      },
+      {
+       "id": "haval_jolion_body_t004_69396da7",
+       "title": {
+        "ru": "Система управления оборудованием кузова (СНГ)",
+        "en": "Система управления оборудованием кузова (СНГ)"
+       },
+       "words": 232,
+       "images": 6,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "haval_jolion_steering_t000_fdbbb25b",
+       "title": {
+        "ru": "Обучение функции защиты при положении шестерни рулевого механизма в крайних поло",
+        "en": "Обучение функции защиты при положении шестерни рулевого механизма в крайних поло"
+       },
+       "words": 618,
+       "images": 9,
+       "section_id": "steering"
+      },
+      {
+       "id": "haval_jolion_steering_t001_dfec26d6",
+       "title": {
+        "ru": "Рулевое колесо Проверка",
+        "en": "Рулевое колесо Проверка"
+       },
+       "words": 737,
+       "images": 15,
+       "section_id": "steering"
+      },
+      {
+       "id": "haval_jolion_steering_t002_0d1ccb26",
+       "title": {
+        "ru": "Меры предосторожности",
+        "en": "Меры предосторожности"
+       },
+       "words": 730,
+       "images": 16,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "fuel_ev",
+     "title": {
+      "ru": "Топливная / ВВ система",
+      "en": "Fuel / HV System"
+     },
+     "icon": "⛽",
+     "topics": [
+      {
+       "id": "haval_jolion_fuel_ev_t000_95d4a019",
+       "title": {
+        "ru": "Контроль диапазона напряжения верхнего датчика кислорода",
+        "en": "Контроль диапазона напряжения верхнего датчика кислорода"
+       },
+       "words": 696,
+       "images": 25,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "haval_jolion_fuel_ev_t001_59595c5a",
+       "title": {
+        "ru": "Электрический топливный насос",
+        "en": "Электрический топливный насос"
+       },
+       "words": 734,
+       "images": 13,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "haval_jolion_fuel_ev_t002_098a39a2",
+       "title": {
+        "ru": "Расположение компонентов",
+        "en": "Расположение компонентов"
+       },
+       "words": 300,
+       "images": 5,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "haval_jolion_fuel_ev_t003_5976c95a",
+       "title": {
+        "ru": "Система подачи топлива (GW4B15D)",
+        "en": "Система подачи топлива (GW4B15D)"
+       },
+       "words": 624,
+       "images": 16,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "haval_jolion_fuel_ev_t004_c3aadcc4",
+       "title": {
+        "ru": "Дополнительный датчик уровня топлива Принцип действия",
+        "en": "Дополнительный датчик уровня топлива Принцип действия"
+       },
+       "words": 703,
+       "images": 12,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "haval_jolion_fuel_ev_t005_d6b18e07",
+       "title": {
+        "ru": "Топливный насос высокого давления Принцип действия",
+        "en": "Топливный насос высокого давления Принцип действия"
+       },
+       "words": 799,
+       "images": 7,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "haval_jolion_fuel_ev_t006_e015bab3",
+       "title": {
+        "ru": "Крышка лючка топливозаправочной горловины Схема расположения компонентов",
+        "en": "Крышка лючка топливозаправочной горловины Схема расположения компонентов"
+       },
+       "words": 541,
+       "images": 16,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "haval_jolion_fuel_ev_t007_c7ff6de1",
+       "title": {
+        "ru": "B121011",
+        "en": "B121011"
+       },
+       "words": 632,
+       "images": 24,
+       "section_id": "fuel_ev"
+      },
+      {
+       "id": "haval_jolion_fuel_ev_t008_1d817484",
+       "title": {
+        "ru": "B121011",
+        "en": "B121011"
+       },
+       "words": 127,
+       "images": 4,
+       "section_id": "fuel_ev"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "haval_jolion_lighting_t000_32f9d992",
+       "title": {
+        "ru": "Датчик освещенности/дождя",
+        "en": "Датчик освещенности/дождя"
+       },
+       "words": 886,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "haval_jolion_lighting_t001_83686844",
+       "title": {
+        "ru": "В перечисленных далее случаях изображение может быть нечетким даже в нормальных ",
+        "en": "В перечисленных далее случаях изображение может быть нечетким даже в нормальных "
+       },
+       "words": 953,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "haval_jolion_lighting_t002_1bb3cb17",
+       "title": {
+        "ru": "Описание системы",
+        "en": "Описание системы"
+       },
+       "words": 766,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "haval_jolion_lighting_t003_a8e32956",
+       "title": {
+        "ru": "B100311",
+        "en": "B100311"
+       },
+       "words": 277,
+       "images": 11,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "haval_jolion_adas_t000_f42ab638",
+       "title": {
+        "ru": "Полуавтоматическая система помощи при парковке",
+        "en": "Полуавтоматическая система помощи при парковке"
+       },
+       "words": 399,
+       "images": 3,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "haval_jolion_interior_t000_bea6c560",
+       "title": {
+        "ru": "Ремень безопасности",
+        "en": "Ремень безопасности"
+       },
+       "words": 1081,
+       "images": 22,
+       "section_id": "interior"
+      },
+      {
+       "id": "haval_jolion_interior_t001_1d5896cc",
+       "title": {
+        "ru": "Испытание автомобиля",
+        "en": "Испытание автомобиля"
+       },
+       "words": 30,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "haval_jolion_general_t000_3648abb8",
+       "title": {
+        "ru": "Идентификационный номер VIN Расшифровка VIN-номера",
+        "en": "Идентификационный номер VIN Расшифровка VIN-номера"
+       },
+       "words": 766,
+       "images": 69,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t001_abb2ad1b",
+       "title": {
+        "ru": "Управление прогревом двигателя и нагревом трехкомпонентного каталитического нейт",
+        "en": "Управление прогревом двигателя и нагревом трехкомпонентного каталитического нейт"
+       },
+       "words": 2382,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t002_06cbe58b",
+       "title": {
+        "ru": "Данные диагностики Таблица кодов неисправностей",
+        "en": "Данные диагностики Таблица кодов неисправностей"
+       },
+       "words": 1005,
+       "images": 74,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t003_3a9dc031",
+       "title": {
+        "ru": "P003A21",
+        "en": "P003A21"
+       },
+       "words": 915,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t004_ffec3c4b",
+       "title": {
+        "ru": "P00CE23",
+        "en": "P00CE23"
+       },
+       "words": 1211,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t005_91a36f78",
+       "title": {
+        "ru": "P013400",
+        "en": "P013400"
+       },
+       "words": 940,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t006_c0abe51d",
+       "title": {
+        "ru": "P026200",
+        "en": "P026200"
+       },
+       "words": 493,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t007_be6e773f",
+       "title": {
+        "ru": "P032815",
+        "en": "P032815"
+       },
+       "words": 1008,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t008_1b43322f",
+       "title": {
+        "ru": "P049700",
+        "en": "P049700"
+       },
+       "words": 917,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t009_a779408c",
+       "title": {
+        "ru": "P050F00",
+        "en": "P050F00"
+       },
+       "words": 877,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t010_9574ba08",
+       "title": {
+        "ru": "P061611",
+        "en": "P061611"
+       },
+       "words": 958,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t011_442b4fbc",
+       "title": {
+        "ru": "P06B842/P06B843",
+        "en": "P06B842/P06B843"
+       },
+       "words": 708,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t012_55d396ff",
+       "title": {
+        "ru": "P142100",
+        "en": "P142100"
+       },
+       "words": 832,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t013_fdd1a38c",
+       "title": {
+        "ru": "P154200",
+        "en": "P154200"
+       },
+       "words": 741,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t014_e2f40088",
+       "title": {
+        "ru": "P159F00",
+        "en": "P159F00"
+       },
+       "words": 921,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t015_0e27a29d",
+       "title": {
+        "ru": "P218700",
+        "en": "P218700"
+       },
+       "words": 611,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t016_a9da790a",
+       "title": {
+        "ru": "P230600",
+        "en": "P230600"
+       },
+       "words": 725,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t017_4d8a6bee",
+       "title": {
+        "ru": "P305600",
+        "en": "P305600"
+       },
+       "words": 1228,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t018_7559177b",
+       "title": {
+        "ru": "U100087",
+        "en": "U100087"
+       },
+       "words": 989,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t019_9c7df0ff",
+       "title": {
+        "ru": "Блок управления двигателем Схема расположения компонентов",
+        "en": "Блок управления двигателем Схема расположения компонентов"
+       },
+       "words": 718,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t020_cd79c5f3",
+       "title": {
+        "ru": "3. Установите катушки зажигания и затяните 4 болта",
+        "en": "3. Установите катушки зажигания и затяните 4 болта"
+       },
+       "words": 582,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t021_9d7d58c2",
+       "title": {
+        "ru": "Датчик положения коленчатого вала (7DCT) Принцип действия",
+        "en": "Датчик положения коленчатого вала (7DCT) Принцип действия"
+       },
+       "words": 1170,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t022_5f0e795c",
+       "title": {
+        "ru": "Необходимо выполнить первоначальное самообучение клапана системы VVT в следующих",
+        "en": "Необходимо выполнить первоначальное самообучение клапана системы VVT в следующих"
+       },
+       "words": 842,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t023_4fb9ee35",
+       "title": {
+        "ru": "Электромагнитный клапан VVT Принцип действия",
+        "en": "Электромагнитный клапан VVT Принцип действия"
+       },
+       "words": 630,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t024_97194cfe",
+       "title": {
+        "ru": "Механическая часть двигателя Моменты затяжки",
+        "en": "Механическая часть двигателя Моменты затяжки"
+       },
+       "words": 780,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t025_19dd3c0c",
+       "title": {
+        "ru": "20. Снимите провод \"массы\" коробки передач 27. Снимите один винт",
+        "en": "20. Снимите провод \"массы\" коробки передач 27. Снимите один винт"
+       },
+       "words": 782,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t026_d0e63e63",
+       "title": {
+        "ru": "Ремень привода генератора Расположение компонентов",
+        "en": "Ремень привода генератора Расположение компонентов"
+       },
+       "words": 747,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t027_32786905",
+       "title": {
+        "ru": "Передний сальник коленчатого вала Расположение компонентов",
+        "en": "Передний сальник коленчатого вала Расположение компонентов"
+       },
+       "words": 739,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t028_4caf0bac",
+       "title": {
+        "ru": "Проверка осевого свободного хода распределительного вала",
+        "en": "Проверка осевого свободного хода распределительного вала"
+       },
+       "words": 863,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t029_368148fd",
+       "title": {
+        "ru": "Головка блока цилиндров Расположение компонентов",
+        "en": "Головка блока цилиндров Расположение компонентов"
+       },
+       "words": 1261,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t030_002c2ef3",
+       "title": {
+        "ru": "Проверка зазора между поршневым кольцом и канавкой поршневого кольца",
+        "en": "Проверка зазора между поршневым кольцом и канавкой поршневого кольца"
+       },
+       "words": 567,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t031_7ee59916",
+       "title": {
+        "ru": "Проверка осевого свободного хода коленчатого вала",
+        "en": "Проверка осевого свободного хода коленчатого вала"
+       },
+       "words": 557,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t032_3be3c25f",
+       "title": {
+        "ru": "Механическая часть двигателя Моменты затяжки",
+        "en": "Механическая часть двигателя Моменты затяжки"
+       },
+       "words": 854,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t033_4d9ca6d3",
+       "title": {
+        "ru": "Передний сальник коленчатого вала Расположение компонентов",
+        "en": "Передний сальник коленчатого вала Расположение компонентов"
+       },
+       "words": 827,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t034_1ee89e0d",
+       "title": {
+        "ru": "Крышка головки блока цилиндров Расположение компонентов",
+        "en": "Крышка головки блока цилиндров Расположение компонентов"
+       },
+       "words": 1278,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t035_baa07859",
+       "title": {
+        "ru": "Проверка осевого свободного хода распределительноговала",
+        "en": "Проверка осевого свободного хода распределительноговала"
+       },
+       "words": 924,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t036_dcb25be3",
+       "title": {
+        "ru": "Проверка бокового зазора в канавке поршневого кольца",
+        "en": "Проверка бокового зазора в канавке поршневого кольца"
+       },
+       "words": 563,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t037_1e9d90d0",
+       "title": {
+        "ru": "Проверка зазора масляной пленки на коленчатом валу",
+        "en": "Проверка зазора масляной пленки на коленчатом валу"
+       },
+       "words": 698,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t038_5cb72281",
+       "title": {
+        "ru": "Датчик давления и температуры поступающего воздуха Принцип действия",
+        "en": "Датчик давления и температуры поступающего воздуха Принцип действия"
+       },
+       "words": 804,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t039_70bad143",
+       "title": {
+        "ru": "Электронная дроссельная заслонка Принцип действия",
+        "en": "Электронная дроссельная заслонка Принцип действия"
+       },
+       "words": 837,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t040_d1a7844b",
+       "title": {
+        "ru": "Фильтрующий элемент воздушного фильтра Расположение компонентов",
+        "en": "Фильтрующий элемент воздушного фильтра Расположение компонентов"
+       },
+       "words": 464,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t041_de563181",
+       "title": {
+        "ru": "3. Ослабьте крепление резиновых подвесов слева и справа",
+        "en": "3. Ослабьте крепление резиновых подвесов слева и справа"
+       },
+       "words": 830,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t042_1dc4a15e",
+       "title": {
+        "ru": "Электронная дроссельная заслонка Принцип действия",
+        "en": "Электронная дроссельная заслонка Принцип действия"
+       },
+       "words": 912,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t043_86845554",
+       "title": {
+        "ru": "Фильтрующий элемент воздушного фильтра Расположение компонентов",
+        "en": "Фильтрующий элемент воздушного фильтра Расположение компонентов"
+       },
+       "words": 536,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t044_823c8758",
+       "title": {
+        "ru": "7. Установите трубку маслоизмерительного щупа и затяните 1 болт",
+        "en": "7. Установите трубку маслоизмерительного щупа и затяните 1 болт"
+       },
+       "words": 612,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t045_0c13cfed",
+       "title": {
+        "ru": "Контроль эффективности угла опрежения зажигания при прогреве каталитического ней",
+        "en": "Контроль эффективности угла опрежения зажигания при прогреве каталитического ней"
+       },
+       "words": 1493,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t046_d0c79cff",
+       "title": {
+        "ru": "Электромагнитный клапан адсорбера паров топлива Принцип действия",
+        "en": "Электромагнитный клапан адсорбера паров топлива Принцип действия"
+       },
+       "words": 907,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t047_6a5794b6",
+       "title": {
+        "ru": "Меры предосторожности при техническом обслуживании и ремонте:",
+        "en": "Меры предосторожности при техническом обслуживании и ремонте:"
+       },
+       "words": 778,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t048_4f4b71b0",
+       "title": {
+        "ru": "Система снижения токсичности выхлопных газов (GW4B15D)",
+        "en": "Система снижения токсичности выхлопных газов (GW4B15D)"
+       },
+       "words": 811,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t049_128245df",
+       "title": {
+        "ru": "Меры предосторожности при техническом обслуживании и ремонте:",
+        "en": "Меры предосторожности при техническом обслуживании и ремонте:"
+       },
+       "words": 624,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t050_5e017017",
+       "title": {
+        "ru": "16. Снимите 2 болта кронштейна 2 переднего каталитического нейтрализатора",
+        "en": "16. Снимите 2 болта кронштейна 2 переднего каталитического нейтрализатора"
+       },
+       "words": 736,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t051_1dc5d693",
+       "title": {
+        "ru": "Сбросьте давление в топливной системе",
+        "en": "Сбросьте давление в топливной системе"
+       },
+       "words": 804,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t052_630bcbe8",
+       "title": {
+        "ru": "Расположение контактов в разъеме",
+        "en": "Расположение контактов в разъеме"
+       },
+       "words": 808,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t053_57c5e6c8",
+       "title": {
+        "ru": "Электрические характеристики и механические свойства",
+        "en": "Электрические характеристики и механические свойства"
+       },
+       "words": 598,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t054_dd4ab969",
+       "title": {
+        "ru": "Расположение контактов в разъеме",
+        "en": "Расположение контактов в разъеме"
+       },
+       "words": 918,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t055_5359b440",
+       "title": {
+        "ru": "Электрические и механические свойства",
+        "en": "Электрические и механические свойства"
+       },
+       "words": 724,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t056_89ca529b",
+       "title": {
+        "ru": "Меры предосторожности при техническом обслуживании и ремонте:",
+        "en": "Меры предосторожности при техническом обслуживании и ремонте:"
+       },
+       "words": 953,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t057_7ef12980",
+       "title": {
+        "ru": "Наиболее распространенные причины неисправности:",
+        "en": "Наиболее распространенные причины неисправности:"
+       },
+       "words": 939,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t058_0f0903b5",
+       "title": {
+        "ru": "Отводящий патрубок отопителя Расположение компонентов",
+        "en": "Отводящий патрубок отопителя Расположение компонентов"
+       },
+       "words": 711,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t059_56bfe706",
+       "title": {
+        "ru": "Насос охлаждающей жидкости Расположение компонентов",
+        "en": "Насос охлаждающей жидкости Расположение компонентов"
+       },
+       "words": 676,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t060_d0b473af",
+       "title": {
+        "ru": "13. Отсоедините разъемы пучка проводов вентилятора радиатора",
+        "en": "13. Отсоедините разъемы пучка проводов вентилятора радиатора"
+       },
+       "words": 470,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t061_991c210c",
+       "title": {
+        "ru": "13. Отсоедините разъемы пучка проводов вентилятора радиатора",
+        "en": "13. Отсоедините разъемы пучка проводов вентилятора радиатора"
+       },
+       "words": 578,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t062_f2a3722c",
+       "title": {
+        "ru": "13. Отсоедините разъемы пучка проводов вентилятора радиатора",
+        "en": "13. Отсоедините разъемы пучка проводов вентилятора радиатора"
+       },
+       "words": 697,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t063_aaba5978",
+       "title": {
+        "ru": "Насос охлаждающей жидкости Расположение компонентов",
+        "en": "Насос охлаждающей жидкости Расположение компонентов"
+       },
+       "words": 793,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t064_8ed4b2b5",
+       "title": {
+        "ru": "13. Отсоедините разъемы пучка проводов вентилятора радиатора",
+        "en": "13. Отсоедините разъемы пучка проводов вентилятора радиатора"
+       },
+       "words": 682,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t065_9f8c48e6",
+       "title": {
+        "ru": "Вентилятор системы охлаждения двигателя Принцип действия",
+        "en": "Вентилятор системы охлаждения двигателя Принцип действия"
+       },
+       "words": 662,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t066_968a4f1a",
+       "title": {
+        "ru": "Масляный поддон Расположение компонентов",
+        "en": "Масляный поддон Расположение компонентов"
+       },
+       "words": 858,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t067_401d6d58",
+       "title": {
+        "ru": "Моторное масло и масляный фильтр Расположение компонентов",
+        "en": "Моторное масло и масляный фильтр Расположение компонентов"
+       },
+       "words": 796,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t068_f4a7003e",
+       "title": {
+        "ru": "Датчик давления и температуры нагнетаемого воздуха Принцип действия",
+        "en": "Датчик давления и температуры нагнетаемого воздуха Принцип действия"
+       },
+       "words": 874,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t069_0f15e0c1",
+       "title": {
+        "ru": "Компрессор Расположение компонентов",
+        "en": "Компрессор Расположение компонентов"
+       },
+       "words": 785,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t070_6ffaf08d",
+       "title": {
+        "ru": "Датчик давления и температуры нагнетаемого воздуха Принцип действия",
+        "en": "Датчик давления и температуры нагнетаемого воздуха Принцип действия"
+       },
+       "words": 723,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t071_fbc4e8a3",
+       "title": {
+        "ru": "Система запуска двигателя и электропитания Моменты затяжки",
+        "en": "Система запуска двигателя и электропитания Моменты затяжки"
+       },
+       "words": 800,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t072_e5be0356",
+       "title": {
+        "ru": "Генератор Расположение компонентов",
+        "en": "Генератор Расположение компонентов"
+       },
+       "words": 851,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t073_328d88e6",
+       "title": {
+        "ru": "7. Установите кронштейн расширительного бачка, затяните два болта",
+        "en": "7. Установите кронштейн расширительного бачка, затяните два болта"
+       },
+       "words": 743,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t074_27426bc5",
+       "title": {
+        "ru": "Кронштейн передней опоры Расположение компонентов",
+        "en": "Кронштейн передней опоры Расположение компонентов"
+       },
+       "words": 443,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t075_14de54a2",
+       "title": {
+        "ru": "2. Установите блок задней подвески двигателя, затяните 2 болта",
+        "en": "2. Установите блок задней подвески двигателя, затяните 2 болта"
+       },
+       "words": 632,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t076_b6542f01",
+       "title": {
+        "ru": "Концевой выключатель педали сцепления Расположение компонентов",
+        "en": "Концевой выключатель педали сцепления Расположение компонентов"
+       },
+       "words": 560,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t077_f6b3bc16",
+       "title": {
+        "ru": "Масло для коробки передач Технические характеристики",
+        "en": "Масло для коробки передач Технические характеристики"
+       },
+       "words": 754,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t078_7a3f6f47",
+       "title": {
+        "ru": "13. Установите один разъем и крепление жгута проводов",
+        "en": "13. Установите один разъем и крепление жгута проводов"
+       },
+       "words": 832,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t079_17ab8984",
+       "title": {
+        "ru": "Первичный вал в сборе Расположение компонентов",
+        "en": "Первичный вал в сборе Расположение компонентов"
+       },
+       "words": 785,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t080_42eb69ae",
+       "title": {
+        "ru": "Вал шестерни передачи заднего хода Расположение компонентов",
+        "en": "Вал шестерни передачи заднего хода Расположение компонентов"
+       },
+       "words": 722,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t081_e1606707",
+       "title": {
+        "ru": "Механизм переключения передач Разборка/сборка Разборка 1. Снимите один винт",
+        "en": "Механизм переключения передач Разборка/сборка Разборка 1. Снимите один винт"
+       },
+       "words": 600,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t082_220a2a44",
+       "title": {
+        "ru": "Механизм переключения передач Расположение компонентов",
+        "en": "Механизм переключения передач Расположение компонентов"
+       },
+       "words": 935,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t083_0716b4cd",
+       "title": {
+        "ru": "Значение нормального сопротивления электромагнитного клапана парковочного устрой",
+        "en": "Значение нормального сопротивления электромагнитного клапана парковочного устрой"
+       },
+       "words": 1908,
+       "images": 66,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t084_2ac33efb",
+       "title": {
+        "ru": "Способы устранения неисправностей",
+        "en": "Способы устранения неисправностей"
+       },
+       "words": 5108,
+       "images": 181,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t085_e97ac971",
+       "title": {
+        "ru": "Способ устранения кода неисправности коробки передач, входящей в состав полнопри",
+        "en": "Способ устранения кода неисправности коробки передач, входящей в состав полнопри"
+       },
+       "words": 4726,
+       "images": 154,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t086_9904b26a",
+       "title": {
+        "ru": "Датчик частоты вращения сцепления Обозначение контактов в разъеме",
+        "en": "Датчик частоты вращения сцепления Обозначение контактов в разъеме"
+       },
+       "words": 595,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t087_e9d014ab",
+       "title": {
+        "ru": "Блок управления коробкой передач Обозначение контактов в разъеме",
+        "en": "Блок управления коробкой передач Обозначение контактов в разъеме"
+       },
+       "words": 634,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t088_4e90acb2",
+       "title": {
+        "ru": "Датчик давления во фрикционной муфте Расположение компонентов",
+        "en": "Датчик давления во фрикционной муфте Расположение компонентов"
+       },
+       "words": 797,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t089_0c35b811",
+       "title": {
+        "ru": "Электрический насос (системы охлаждения) Расположение компонентов",
+        "en": "Электрический насос (системы охлаждения) Расположение компонентов"
+       },
+       "words": 782,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t090_0d7421e5",
+       "title": {
+        "ru": "Механизм переключения передач Расположение компонентов",
+        "en": "Механизм переключения передач Расположение компонентов"
+       },
+       "words": 821,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t091_5bd4dcd2",
+       "title": {
+        "ru": "Трансмиссия (GW4B15D +GW7DCT2-A02+4WD)",
+        "en": "Трансмиссия (GW4B15D +GW7DCT2-A02+4WD)"
+       },
+       "words": 649,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t092_142af177",
+       "title": {
+        "ru": "Подробная программа диагностики Способы устранения неисправностей Способы устран",
+        "en": "Подробная программа диагностики Способы устранения неисправностей Способы устран"
+       },
+       "words": 1920,
+       "images": 95,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t093_318ba7f5",
+       "title": {
+        "ru": "Способ поиска неисправности:",
+        "en": "Способ поиска неисправности:"
+       },
+       "words": 5484,
+       "images": 183,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t094_08934b0b",
+       "title": {
+        "ru": "Способ устранения кода неисправности коробки передач, входящей в состав полнопри",
+        "en": "Способ устранения кода неисправности коробки передач, входящей в состав полнопри"
+       },
+       "words": 5108,
+       "images": 173,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t095_74d3a071",
+       "title": {
+        "ru": "9. Снимите пробку заливного отверстия и откройте отверстие перелива",
+        "en": "9. Снимите пробку заливного отверстия и откройте отверстие перелива"
+       },
+       "words": 771,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t096_9ad7dcf9",
+       "title": {
+        "ru": "Блок управления коробкой передач Расположение контактов в разъеме",
+        "en": "Блок управления коробкой передач Расположение контактов в разъеме"
+       },
+       "words": 884,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t097_d7250b69",
+       "title": {
+        "ru": "Фильтр системы охлаждения Расположение компонентов",
+        "en": "Фильтр системы охлаждения Расположение компонентов"
+       },
+       "words": 829,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t098_533d8fbc",
+       "title": {
+        "ru": "Электрический насос (системы охлаждения) Расположение компонентов",
+        "en": "Электрический насос (системы охлаждения) Расположение компонентов"
+       },
+       "words": 717,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t099_0fc08ed1",
+       "title": {
+        "ru": "Масло для раздаточной коробки Технические характеристики",
+        "en": "Масло для раздаточной коробки Технические характеристики"
+       },
+       "words": 803,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t100_87548333",
+       "title": {
+        "ru": "Способы устранения неисправностей U050005, U050006",
+        "en": "Способы устранения неисправностей U050005, U050006"
+       },
+       "words": 868,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t101_b02652ac",
+       "title": {
+        "ru": "Передний привод (GW4G15K+GW7DCT1-A02) Расположение компонентов",
+        "en": "Передний привод (GW4G15K+GW7DCT1-A02) Расположение компонентов"
+       },
+       "words": 671,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t102_6b840129",
+       "title": {
+        "ru": "Передний привод (GW4B15D+7DCT полного привода) Расположение компонентов",
+        "en": "Передний привод (GW4B15D+7DCT полного привода) Расположение компонентов"
+       },
+       "words": 621,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t103_5b6f801c",
+       "title": {
+        "ru": "7. Снимите 2 болта и усилительную накладку заднего подрамника",
+        "en": "7. Снимите 2 болта и усилительную накладку заднего подрамника"
+       },
+       "words": 732,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t104_abe61ce9",
+       "title": {
+        "ru": "Система управления полным приводом и интеллектуальная система управления крутящи",
+        "en": "Система управления полным приводом и интеллектуальная система управления крутящи"
+       },
+       "words": 891,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t105_baeddda7",
+       "title": {
+        "ru": "U100287",
+        "en": "U100287"
+       },
+       "words": 1133,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t106_18a0a50a",
+       "title": {
+        "ru": "Интеллектуальная система управления крутящим моментом в сборе Расположение компо",
+        "en": "Интеллектуальная система управления крутящим моментом в сборе Расположение компо"
+       },
+       "words": 903,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t107_adf5582e",
+       "title": {
+        "ru": "Параметры установки колес (при ненагруженном автомобиле)",
+        "en": "Параметры установки колес (при ненагруженном автомобиле)"
+       },
+       "words": 1298,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t108_83a5541e",
+       "title": {
+        "ru": "Передний амортизатор и спиральная пружина в сборе Расположение компонентов",
+        "en": "Передний амортизатор и спиральная пружина в сборе Расположение компонентов"
+       },
+       "words": 633,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t109_75f8ac5e",
+       "title": {
+        "ru": "9. Снимите 4 болта крепления заднего стержня поперечного стабилизатора",
+        "en": "9. Снимите 4 болта крепления заднего стержня поперечного стабилизатора"
+       },
+       "words": 628,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t110_46c2cbc1",
+       "title": {
+        "ru": "Система контроля давления в шинах Описание",
+        "en": "Система контроля давления в шинах Описание"
+       },
+       "words": 901,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t111_8308474c",
+       "title": {
+        "ru": "U016487",
+        "en": "U016487"
+       },
+       "words": 1352,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t112_94d164ed",
+       "title": {
+        "ru": "Приемник системы контроля давления в шинах Схема расположения компонентов",
+        "en": "Приемник системы контроля давления в шинах Схема расположения компонентов"
+       },
+       "words": 499,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t113_41bc23e5",
+       "title": {
+        "ru": "Способы устранения неисправностей по кодам неисправности C141500, C142116, C1417",
+        "en": "Способы устранения неисправностей по кодам неисправности C141500, C142116, C1417"
+       },
+       "words": 841,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t114_89724df8",
+       "title": {
+        "ru": "Рулевая колонка в сборе BS (7DCT) Расположение контактов в разъеме Разъем питани",
+        "en": "Рулевая колонка в сборе BS (7DCT) Расположение контактов в разъеме Разъем питани"
+       },
+       "words": 609,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t115_80c046cb",
+       "title": {
+        "ru": "Тормозная трубка (GW4G15K) Расположение компонентов",
+        "en": "Тормозная трубка (GW4G15K) Расположение компонентов"
+       },
+       "words": 955,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t116_5ec26781",
+       "title": {
+        "ru": "Вакуумный усилитель и главный тормозной цилиндр в сборе (GW4G15K+7DCT) Расположе",
+        "en": "Вакуумный усилитель и главный тормозной цилиндр в сборе (GW4G15K+7DCT) Расположе"
+       },
+       "words": 669,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t117_a2dfc8cc",
+       "title": {
+        "ru": "Выключатель стоп-сигнала Расположение контактов в разъеме",
+        "en": "Выключатель стоп-сигнала Расположение контактов в разъеме"
+       },
+       "words": 479,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t118_cd736fcf",
+       "title": {
+        "ru": "Передний тормозной суппорт Снятие/установка Снятие",
+        "en": "Передний тормозной суппорт Снятие/установка Снятие"
+       },
+       "words": 638,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t119_f135a068",
+       "title": {
+        "ru": "Гидравлическая система помощи при экстренном торможении (HBA)",
+        "en": "Гидравлическая система помощи при экстренном торможении (HBA)"
+       },
+       "words": 897,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t120_1bc09634",
+       "title": {
+        "ru": "Электрогидравлический блок системы ESP (GW4G15K) Схема расположения компонентов",
+        "en": "Электрогидравлический блок системы ESP (GW4G15K) Схема расположения компонентов"
+       },
+       "words": 559,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t121_80d7e520",
+       "title": {
+        "ru": "Трос привода отпирания капота Снятие/установка Снятие",
+        "en": "Трос привода отпирания капота Снятие/установка Снятие"
+       },
+       "words": 377,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t122_51c7b863",
+       "title": {
+        "ru": "Газонаполненные упоры капота Снятие/установка Снятие",
+        "en": "Газонаполненные упоры капота Снятие/установка Снятие"
+       },
+       "words": 784,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t123_c4dd5ef6",
+       "title": {
+        "ru": "Микровыключатель заднего люка Снятие/установка Снятие",
+        "en": "Микровыключатель заднего люка Снятие/установка Снятие"
+       },
+       "words": 578,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t124_706f6dea",
+       "title": {
+        "ru": "Облицовка в зоне коленей водителя Схема расположения компонентов",
+        "en": "Облицовка в зоне коленей водителя Схема расположения компонентов"
+       },
+       "words": 666,
+       "images": 31,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t125_22cb0a6a",
+       "title": {
+        "ru": "Сиденье водителя (мех. регулировка по шести направлениям + подогрев) Расположени",
+        "en": "Сиденье водителя (мех. регулировка по шести направлениям + подогрев) Расположени"
+       },
+       "words": 1061,
+       "images": 74,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t126_99763b23",
+       "title": {
+        "ru": "Сиденье переднего пассажира (мех. регулировка по четырем направлениям + подогрев",
+        "en": "Сиденье переднего пассажира (мех. регулировка по четырем направлениям + подогрев"
+       },
+       "words": 784,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t127_0889e85e",
+       "title": {
+        "ru": "Подушка заднего правого сиденья подогрев без подогрева Расположение компонентов",
+        "en": "Подушка заднего правого сиденья подогрев без подогрева Расположение компонентов"
+       },
+       "words": 1107,
+       "images": 54,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t128_1f5f99ce",
+       "title": {
+        "ru": "Облицовка воздухозаборного короба Схема расположения компонентов",
+        "en": "Облицовка воздухозаборного короба Схема расположения компонентов"
+       },
+       "words": 724,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t129_ec98b3fe",
+       "title": {
+        "ru": "Защитная пластина переднего бампера Схема расположения компонентов",
+        "en": "Защитная пластина переднего бампера Схема расположения компонентов"
+       },
+       "words": 398,
+       "images": 63,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t130_aab359b3",
+       "title": {
+        "ru": "Номинальные зазоры и несовпадение по высоте Передняя часть кузова",
+        "en": "Номинальные зазоры и несовпадение по высоте Передняя часть кузова"
+       },
+       "words": 945,
+       "images": 80,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t131_6e6fefad",
+       "title": {
+        "ru": "Область сварки внутренней панели левой и правой колесных арок и наружной панели ",
+        "en": "Область сварки внутренней панели левой и правой колесных арок и наружной панели "
+       },
+       "words": 456,
+       "images": 61,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t132_5fc0553e",
+       "title": {
+        "ru": "Область передней и задней балки крыши/область пятой поперечины крыши (как при на",
+        "en": "Область передней и задней балки крыши/область пятой поперечины крыши (как при на"
+       },
+       "words": 476,
+       "images": 59,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t133_2e6fd43a",
+       "title": {
+        "ru": "Материалы, используемые при общей сборке Антикоррозийный грунт для ходовой части",
+        "en": "Материалы, используемые при общей сборке Антикоррозийный грунт для ходовой части"
+       },
+       "words": 962,
+       "images": 55,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t134_ef4cab0f",
+       "title": {
+        "ru": "Окраска твердой поверхности пульверизацией после завершения ремонта листового ме",
+        "en": "Окраска твердой поверхности пульверизацией после завершения ремонта листового ме"
+       },
+       "words": 1102,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t135_a85f3c67",
+       "title": {
+        "ru": "Система климат-контроля - одна автоматически настраиваемая температурная зона (G",
+        "en": "Система климат-контроля - одна автоматически настраиваемая температурная зона (G"
+       },
+       "words": 1330,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t136_d9fbfd5f",
+       "title": {
+        "ru": "Принцип действия системы климат-контроля при охлаждении и нагреве воздуха",
+        "en": "Принцип действия системы климат-контроля при охлаждении и нагреве воздуха"
+       },
+       "words": 1187,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t137_31b4cb25",
+       "title": {
+        "ru": "Принцип действия системы климат-контроля при охлаждении и нагреве воздуха",
+        "en": "Принцип действия системы климат-контроля при охлаждении и нагреве воздуха"
+       },
+       "words": 1171,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t138_cd1b3646",
+       "title": {
+        "ru": "Принцип действия системы климат-контроля при охлаждении и нагреве воздуха",
+        "en": "Принцип действия системы климат-контроля при охлаждении и нагреве воздуха"
+       },
+       "words": 1014,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t139_112e3221",
+       "title": {
+        "ru": "Меры предосторожности",
+        "en": "Меры предосторожности"
+       },
+       "words": 1469,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t140_07932029",
+       "title": {
+        "ru": "Электропривод заслонки управления режимами подачи наружного воздуха/ рециркуляци",
+        "en": "Электропривод заслонки управления режимами подачи наружного воздуха/ рециркуляци"
+       },
+       "words": 713,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t141_6740f47e",
+       "title": {
+        "ru": "Контроль включения и выключения компрессора",
+        "en": "Контроль включения и выключения компрессора"
+       },
+       "words": 905,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t142_4f65a635",
+       "title": {
+        "ru": "Проверьте предупреждающий индикатор непристегнутого ремня безопасности",
+        "en": "Проверьте предупреждающий индикатор непристегнутого ремня безопасности"
+       },
+       "words": 1279,
+       "images": 39,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t143_bcfbd0e2",
+       "title": {
+        "ru": "Диагностика автомобиля после столкновения",
+        "en": "Диагностика автомобиля после столкновения"
+       },
+       "words": 1593,
+       "images": 56,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t144_6b878396",
+       "title": {
+        "ru": "B100219",
+        "en": "B100219"
+       },
+       "words": 1159,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t145_315cc4b6",
+       "title": {
+        "ru": "B100595",
+        "en": "B100595"
+       },
+       "words": 1159,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t146_c658f111",
+       "title": {
+        "ru": "B101012",
+        "en": "B101012"
+       },
+       "words": 1221,
+       "images": 57,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t147_02998041",
+       "title": {
+        "ru": "B101319",
+        "en": "B101319"
+       },
+       "words": 1153,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t148_fa9f4eb8",
+       "title": {
+        "ru": "B102413",
+        "en": "B102413"
+       },
+       "words": 1119,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t149_c34bf8dd",
+       "title": {
+        "ru": "1. Снимите с автомобиля модуль подушки безопасности",
+        "en": "1. Снимите с автомобиля модуль подушки безопасности"
+       },
+       "words": 836,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t150_d38729f6",
+       "title": {
+        "ru": "Таблица типичных неисправностей",
+        "en": "Таблица типичных неисправностей"
+       },
+       "words": 1194,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t151_6c8022e9",
+       "title": {
+        "ru": "Электропривод шторки Снятие/установка",
+        "en": "Электропривод шторки Снятие/установка"
+       },
+       "words": 661,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t152_a6bec065",
+       "title": {
+        "ru": "Способы устранения неисправностей U003788",
+        "en": "Способы устранения неисправностей U003788"
+       },
+       "words": 975,
+       "images": 38,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t153_ef3da4ff",
+       "title": {
+        "ru": "4. Снимите гайку крепления рычага очистителя ветрового стекла",
+        "en": "4. Снимите гайку крепления рычага очистителя ветрового стекла"
+       },
+       "words": 1012,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t154_a0d28903",
+       "title": {
+        "ru": "Электропривод очистителя заднего стекла",
+        "en": "Электропривод очистителя заднего стекла"
+       },
+       "words": 681,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t155_636a8c96",
+       "title": {
+        "ru": "Комбинация приборов 3,5 дюйма Схема расположения компонентов",
+        "en": "Комбинация приборов 3,5 дюйма Схема расположения компонентов"
+       },
+       "words": 885,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t156_57eda7f2",
+       "title": {
+        "ru": "Комбинация приборов 1 7 дюймов Схема расположения компонентов",
+        "en": "Комбинация приборов 1 7 дюймов Схема расположения компонентов"
+       },
+       "words": 948,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t157_d1ff0aa2",
+       "title": {
+        "ru": "U007388",
+        "en": "U007388"
+       },
+       "words": 1101,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t158_33f3692f",
+       "title": {
+        "ru": "Комбинация приборов 3,5 дюйма Схема расположения компонентов",
+        "en": "Комбинация приборов 3,5 дюйма Схема расположения компонентов"
+       },
+       "words": 723,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t159_0a00956d",
+       "title": {
+        "ru": "U110017",
+        "en": "U110017"
+       },
+       "words": 1081,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t160_0bb8853e",
+       "title": {
+        "ru": "Комбинация приборов - 7 дюймов Схема расположения компонентов",
+        "en": "Комбинация приборов - 7 дюймов Схема расположения компонентов"
+       },
+       "words": 972,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t161_04c09258",
+       "title": {
+        "ru": "U010087",
+        "en": "U010087"
+       },
+       "words": 1113,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t162_fb686c3a",
+       "title": {
+        "ru": "Таблица кодов неисправностей",
+        "en": "Таблица кодов неисправностей"
+       },
+       "words": 748,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t163_ead1ea0a",
+       "title": {
+        "ru": "Электрические стеклоподъемники (с функцией защиты от защемления)",
+        "en": "Электрические стеклоподъемники (с функцией защиты от защемления)"
+       },
+       "words": 1065,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t164_13e09f28",
+       "title": {
+        "ru": "Процесс инициализации самообучения (стекло и солнцезащитный козырек могут перейт",
+        "en": "Процесс инициализации самообучения (стекло и солнцезащитный козырек могут перейт"
+       },
+       "words": 1186,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t165_774c0fe3",
+       "title": {
+        "ru": "Система управления зеркалами заднего вида Схема расположения компонентов",
+        "en": "Система управления зеркалами заднего вида Схема расположения компонентов"
+       },
+       "words": 968,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t166_443605d0",
+       "title": {
+        "ru": "Внутреннее зеркало заднего вида ручное управление режимом день/ночь + без защитн",
+        "en": "Внутреннее зеркало заднего вида ручное управление режимом день/ночь + без защитн"
+       },
+       "words": 618,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t167_20701c0e",
+       "title": {
+        "ru": "U100087",
+        "en": "U100087"
+       },
+       "words": 994,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t168_6aa7e964",
+       "title": {
+        "ru": "Аудиовидеосистема - 6 динамиков Схема расположения компонентов",
+        "en": "Аудиовидеосистема - 6 динамиков Схема расположения компонентов"
+       },
+       "words": 941,
+       "images": 49,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t169_fb7a127d",
+       "title": {
+        "ru": "Таблица кодов неисправностей",
+        "en": "Таблица кодов неисправностей"
+       },
+       "words": 951,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t170_a074a435",
+       "title": {
+        "ru": "U012787",
+        "en": "U012787"
+       },
+       "words": 1085,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t171_b8d1da64",
+       "title": {
+        "ru": "Дисплей Снятие/установка Снятие",
+        "en": "Дисплей Снятие/установка Снятие"
+       },
+       "words": 680,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t172_8aaba7b9",
+       "title": {
+        "ru": "Снятие/установка Снятие",
+        "en": "Снятие/установка Снятие"
+       },
+       "words": 778,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t173_87bf4928",
+       "title": {
+        "ru": "Метод зарядки не требующей обслуживания аккумуляторной батареи/усовершенствованн",
+        "en": "Метод зарядки не требующей обслуживания аккумуляторной батареи/усовершенствованн"
+       },
+       "words": 936,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t174_bbf2477c",
+       "title": {
+        "ru": "Разъем USB с функцией зарядки задняя часть центральной консоли, без воздушного д",
+        "en": "Разъем USB с функцией зарядки задняя часть центральной консоли, без воздушного д"
+       },
+       "words": 623,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t175_19cc2e87",
+       "title": {
+        "ru": "При следующих условиях существует вероятность нарушения нормальной работы функци",
+        "en": "При следующих условиях существует вероятность нарушения нормальной работы функци"
+       },
+       "words": 775,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t176_83247180",
+       "title": {
+        "ru": "УЗ-датчик системы помощи при парковке левая/правая части заднего бампера",
+        "en": "УЗ-датчик системы помощи при парковке левая/правая части заднего бампера"
+       },
+       "words": 1196,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t177_017ac8e6",
+       "title": {
+        "ru": "Передняя камера системы кругового обзора",
+        "en": "Передняя камера системы кругового обзора"
+       },
+       "words": 754,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t178_f81ea381",
+       "title": {
+        "ru": "U024587",
+        "en": "U024587"
+       },
+       "words": 1285,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t179_9de9277b",
+       "title": {
+        "ru": "УЗ-датчик системы помощи при парковке левая/правая части переднего бампера",
+        "en": "УЗ-датчик системы помощи при парковке левая/правая части переднего бампера"
+       },
+       "words": 1418,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t180_34ac7cbd",
+       "title": {
+        "ru": "Выключатель автоматической системы управления парковкой",
+        "en": "Выключатель автоматической системы управления парковкой"
+       },
+       "words": 897,
+       "images": 41,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t181_a3c774cc",
+       "title": {
+        "ru": "Функция помощи при выезде с парковки задним ходом",
+        "en": "Функция помощи при выезде с парковки задним ходом"
+       },
+       "words": 1005,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t182_5f92bb06",
+       "title": {
+        "ru": "Функция торможения при движении задним ходом и присутствии препятствий сбоку",
+        "en": "Функция торможения при движении задним ходом и присутствии препятствий сбоку"
+       },
+       "words": 1170,
+       "images": 37,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t183_2db4bc2a",
+       "title": {
+        "ru": "Меры предосторожности при зарядке/измерении",
+        "en": "Меры предосторожности при зарядке/измерении"
+       },
+       "words": 1057,
+       "images": 44,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t184_675d3dd9",
+       "title": {
+        "ru": "Система обмена данными между автомобилями (Россия)",
+        "en": "Система обмена данными между автомобилями (Россия)"
+       },
+       "words": 859,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t185_5d97f5ff",
+       "title": {
+        "ru": "Система экстренного вызова (Россия)",
+        "en": "Система экстренного вызова (Россия)"
+       },
+       "words": 731,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t186_cc8bd585",
+       "title": {
+        "ru": "B102181",
+        "en": "B102181"
+       },
+       "words": 833,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t187_b6977ec4",
+       "title": {
+        "ru": "Таблица кодов неисправностей",
+        "en": "Таблица кодов неисправностей"
+       },
+       "words": 850,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t188_c3fc0dab",
+       "title": {
+        "ru": "течение не менее десяти циклов",
+        "en": "течение не менее десяти циклов"
+       },
+       "words": 1066,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t189_638e2060",
+       "title": {
+        "ru": "U012300",
+        "en": "U012300"
+       },
+       "words": 694,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t190_e1cb2852",
+       "title": {
+        "ru": "U015200",
+        "en": "U015200"
+       },
+       "words": 775,
+       "images": 36,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t191_ae26e2c6",
+       "title": {
+        "ru": "U017800",
+        "en": "U017800"
+       },
+       "words": 903,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t192_f6b90720",
+       "title": {
+        "ru": "B181E13",
+        "en": "B181E13"
+       },
+       "words": 909,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t193_93e9c591",
+       "title": {
+        "ru": "Микровыключатель заднего люка Снятие/установка Снятие",
+        "en": "Микровыключатель заднего люка Снятие/установка Снятие"
+       },
+       "words": 734,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t194_c24ef49e",
+       "title": {
+        "ru": "U100087",
+        "en": "U100087"
+       },
+       "words": 1059,
+       "images": 51,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t195_79116624",
+       "title": {
+        "ru": "U101D87",
+        "en": "U101D87"
+       },
+       "words": 784,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t196_ca4df14f",
+       "title": {
+        "ru": "U014500",
+        "en": "U014500"
+       },
+       "words": 747,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t197_adb4212c",
+       "title": {
+        "ru": "U019600",
+        "en": "U019600"
+       },
+       "words": 907,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t198_4c7d4cf7",
+       "title": {
+        "ru": "B183C00",
+        "en": "B183C00"
+       },
+       "words": 871,
+       "images": 50,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t199_974633fe",
+       "title": {
+        "ru": "Модуль управления блоком предохранителей моторного отсека Таблица кодов неисправ",
+        "en": "Модуль управления блоком предохранителей моторного отсека Таблица кодов неисправ"
+       },
+       "words": 693,
+       "images": 42,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t200_e37ca358",
+       "title": {
+        "ru": "Способы устранения неисправностей U110017",
+        "en": "Способы устранения неисправностей U110017"
+       },
+       "words": 1086,
+       "images": 45,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t201_b6cb555f",
+       "title": {
+        "ru": "Контроллер блока предохранителей багажника Таблица кодов неисправностей",
+        "en": "Контроллер блока предохранителей багажника Таблица кодов неисправностей"
+       },
+       "words": 979,
+       "images": 47,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t202_cc87ff12",
+       "title": {
+        "ru": "U110887",
+        "en": "U110887"
+       },
+       "words": 1204,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t203_65eec113",
+       "title": {
+        "ru": "Модуль управления блоком предохранителей моторного отсека Таблица кодов неисправ",
+        "en": "Модуль управления блоком предохранителей моторного отсека Таблица кодов неисправ"
+       },
+       "words": 851,
+       "images": 52,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t204_ae8d94f8",
+       "title": {
+        "ru": "Контроллер блока предохранителей багажника Таблица кодов неисправностей",
+        "en": "Контроллер блока предохранителей багажника Таблица кодов неисправностей"
+       },
+       "words": 1092,
+       "images": 46,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t205_d6738721",
+       "title": {
+        "ru": "U100287",
+        "en": "U100287"
+       },
+       "words": 1043,
+       "images": 48,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t206_55602ca9",
+       "title": {
+        "ru": "Снятие/установка Снятие",
+        "en": "Снятие/установка Снятие"
+       },
+       "words": 988,
+       "images": 58,
+       "section_id": "general"
+      },
+      {
+       "id": "haval_jolion_general_t207_e5e55efc",
+       "title": {
+        "ru": "Шина CAN (СНГ)Схема ADAS-CANFD",
+        "en": "Шина CAN (СНГ)Схема ADAS-CANFD"
+       },
+       "words": 145,
+       "images": 30,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

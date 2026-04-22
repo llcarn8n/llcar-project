@@ -1,0 +1,3905 @@
+{
+ "version": "1.0",
+ "model": "trailblazer",
+ "manuals": [
+  {
+   "model": "trailblazer",
+   "label": {
+    "ru": "Chevrolet Trailblazer — Руководство по ремонту",
+    "en": "Chevrolet Trailblazer — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_engine_t000_2c06f3b3",
+       "title": {
+        "ru": "Fig. 6: Intake Manifold/Upper Engine Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 6: Intake Manifold/Upper Engine Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 200,
+       "images": 53,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t001_da0b74c5",
+       "title": {
+        "ru": "Fig. 11: Exploded View Of Engine Block Plugs/Sensors Components Courtesy of GENE",
+        "en": "Fig. 11: Exploded View Of Engine Block Plugs/Sensors Components Courtesy of GENE"
+       },
+       "words": 523,
+       "images": 25,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t002_a90638cd",
+       "title": {
+        "ru": "ENGINE NOISE ON START-UP, BUT ONLY LASTING A FEW SECONDS",
+        "en": "ENGINE NOISE ON START-UP, BUT ONLY LASTING A FEW SECONDS"
+       },
+       "words": 475,
+       "images": 23,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t003_3a053c2f",
+       "title": {
+        "ru": "IMPORTANT: It may be necessary to hold the crankshaft balancer bolt to prevent t",
+        "en": "IMPORTANT: It may be necessary to hold the crankshaft balancer bolt to prevent t"
+       },
+       "words": 1649,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t004_04944899",
+       "title": {
+        "ru": "NOTE: Allowing the drive belt tensioner to snap into the free position may resul",
+        "en": "NOTE: Allowing the drive belt tensioner to snap into the free position may resul"
+       },
+       "words": 475,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t005_b022eecd",
+       "title": {
+        "ru": "Fig. 51: View Of Frame Engine Mount Bracket Bolt Locations Courtesy of GENERAL M",
+        "en": "Fig. 51: View Of Frame Engine Mount Bracket Bolt Locations Courtesy of GENERAL M"
+       },
+       "words": 379,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t006_c9d327d1",
+       "title": {
+        "ru": "Fig. 52: Block Of Wood Between Engine Oil Pan And Pole Jack Courtesy of GENERAL ",
+        "en": "Fig. 52: Block Of Wood Between Engine Oil Pan And Pole Jack Courtesy of GENERAL "
+       },
+       "words": 366,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t007_d1f068d5",
+       "title": {
+        "ru": "Fig. 64: Block Of Wood Between Engine Oil Pan And Pole Jack Courtesy of GENERAL ",
+        "en": "Fig. 64: Block Of Wood Between Engine Oil Pan And Pole Jack Courtesy of GENERAL "
+       },
+       "words": 292,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t008_e2b7759f",
+       "title": {
+        "ru": "Fig. 76: Block Of Wood Between Engine Oil Pan And Pole Jack Courtesy of GENERAL ",
+        "en": "Fig. 76: Block Of Wood Between Engine Oil Pan And Pole Jack Courtesy of GENERAL "
+       },
+       "words": 340,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t009_d23c6319",
+       "title": {
+        "ru": "Fig. 91: View Of A/C Compressor Pressure Switch Electrical Connector & Retaining",
+        "en": "Fig. 91: View Of A/C Compressor Pressure Switch Electrical Connector & Retaining"
+       },
+       "words": 532,
+       "images": 18,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t010_0b23d8ef",
+       "title": {
+        "ru": "Fig. 143: Locating Electrical Components At Top Of Engine Courtesy of GENERAL MO",
+        "en": "Fig. 143: Locating Electrical Components At Top Of Engine Courtesy of GENERAL MO"
+       },
+       "words": 706,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t011_e5fa6259",
+       "title": {
+        "ru": "IMPORTANT: Remove the spark plugs from the cylinder head with the engine at room",
+        "en": "IMPORTANT: Remove the spark plugs from the cylinder head with the engine at room"
+       },
+       "words": 558,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t012_d0b0dff2",
+       "title": {
+        "ru": "Fig. 166: View Of Cylinder Head (Left) Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 166: View Of Cylinder Head (Left) Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 528,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t013_bf05232e",
+       "title": {
+        "ru": "IMPORTANT: Recess the nose of the crankshaft 2.4-4.48 mm (0.094-0.176 in) into t",
+        "en": "IMPORTANT: Recess the nose of the crankshaft 2.4-4.48 mm (0.094-0.176 in) into t"
+       },
+       "words": 662,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t014_06f26d90",
+       "title": {
+        "ru": "Fig. 178: Installing The Crankshaft Front Oil Seal Using J 41478 Courtesy of GEN",
+        "en": "Fig. 178: Installing The Crankshaft Front Oil Seal Using J 41478 Courtesy of GEN"
+       },
+       "words": 537,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t015_23bd4cb5",
+       "title": {
+        "ru": "Fig. 184: Installing Crankshaft Rear Oil Seal Using J 41479 Courtesy of GENERAL ",
+        "en": "Fig. 184: Installing Crankshaft Rear Oil Seal Using J 41479 Courtesy of GENERAL "
+       },
+       "words": 446,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t016_dd394909",
+       "title": {
+        "ru": "Fig. 207: View Of Sealant Applied To Front Oil Pan-To-Engine Block Junction Cour",
+        "en": "Fig. 207: View Of Sealant Applied To Front Oil Pan-To-Engine Block Junction Cour"
+       },
+       "words": 352,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t017_63010243",
+       "title": {
+        "ru": "Fig. 231: Removing The Crankshaft Sprocket Using J 8433-1, J 41816-2 & J 41558 C",
+        "en": "Fig. 231: Removing The Crankshaft Sprocket Using J 8433-1, J 41816-2 & J 41558 C"
+       },
+       "words": 419,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t018_5ec8618f",
+       "title": {
+        "ru": "Fig. 241: View Of Camshaft & Crankshaft Sprockets Timing Marks Aligned Courtesy ",
+        "en": "Fig. 241: View Of Camshaft & Crankshaft Sprockets Timing Marks Aligned Courtesy "
+       },
+       "words": 263,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t019_d02e27c3",
+       "title": {
+        "ru": "Fig. 244: View Of Bolts installed In Camshaft Front Bolt Holes Courtesy of GENER",
+        "en": "Fig. 244: View Of Bolts installed In Camshaft Front Bolt Holes Courtesy of GENER"
+       },
+       "words": 332,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t020_f286b8a1",
+       "title": {
+        "ru": "Fig. 256: View Of A/C Compressor Pressure Switch Electrical Connector & Retainin",
+        "en": "Fig. 256: View Of A/C Compressor Pressure Switch Electrical Connector & Retainin"
+       },
+       "words": 354,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t021_ccb29f20",
+       "title": {
+        "ru": "Fig. 289: View Of A/C Compressor Pressure Switch Electrical Connector & Retainin",
+        "en": "Fig. 289: View Of A/C Compressor Pressure Switch Electrical Connector & Retainin"
+       },
+       "words": 586,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t022_48222de9",
+       "title": {
+        "ru": "Fig. 299: Identifying Plug Location On Underside Of Block Courtesy of GENERAL MO",
+        "en": "Fig. 299: Identifying Plug Location On Underside Of Block Courtesy of GENERAL MO"
+       },
+       "words": 304,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t023_4758a48c",
+       "title": {
+        "ru": "Fig. 321: View Of Intake Manifold-To-Cylinder Head Gasket Courtesy of GENERAL MO",
+        "en": "Fig. 321: View Of Intake Manifold-To-Cylinder Head Gasket Courtesy of GENERAL MO"
+       },
+       "words": 361,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t024_f4249980",
+       "title": {
+        "ru": "Fig. 357: Engine Front Cover, Camshaft Position Sensor, Oil Seal, Wire Harness, ",
+        "en": "Fig. 357: Engine Front Cover, Camshaft Position Sensor, Oil Seal, Wire Harness, "
+       },
+       "words": 285,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t025_8df5671f",
+       "title": {
+        "ru": "Fig. 362: View Of Camshaft Sprocket, Bolts & Timing Chain Courtesy of GENERAL MO",
+        "en": "Fig. 362: View Of Camshaft Sprocket, Bolts & Timing Chain Courtesy of GENERAL MO"
+       },
+       "words": 226,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t026_0b918dfb",
+       "title": {
+        "ru": "Fig. 381: View Of Crankshaft Bearings & Bearing Caps Courtesy of GENERAL MOTORS ",
+        "en": "Fig. 381: View Of Crankshaft Bearings & Bearing Caps Courtesy of GENERAL MOTORS "
+       },
+       "words": 469,
+       "images": 18,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t027_5f8c558a",
+       "title": {
+        "ru": "IMPORTANT: Remove the front oil gallery plug only if service is required. If the",
+        "en": "IMPORTANT: Remove the front oil gallery plug only if service is required. If the"
+       },
+       "words": 154,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t028_3431b805",
+       "title": {
+        "ru": "IMPORTANT: When cleaning the engine block in a thermal type oven, do not exceed ",
+        "en": "IMPORTANT: When cleaning the engine block in a thermal type oven, do not exceed "
+       },
+       "words": 935,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t029_e6898738",
+       "title": {
+        "ru": "Fig. 404: Identifying Connecting Rod Bearing Scoring Or Discoloration Courtesy o",
+        "en": "Fig. 404: Identifying Connecting Rod Bearing Scoring Or Discoloration Courtesy o"
+       },
+       "words": 546,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t030_e1c3bad9",
+       "title": {
+        "ru": "IMPORTANT: The crankshaft must be secure with no movement or rotation in order t",
+        "en": "IMPORTANT: The crankshaft must be secure with no movement or rotation in order t"
+       },
+       "words": 578,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t031_4727e9db",
+       "title": {
+        "ru": "Fig. 432: Measuring Connecting Rod Bearing Bore For An Out-Of-Round Courtesy of ",
+        "en": "Fig. 432: Measuring Connecting Rod Bearing Bore For An Out-Of-Round Courtesy of "
+       },
+       "words": 556,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t032_b2b77aae",
+       "title": {
+        "ru": "Fig. 449: Identifying Camshaft & Bearing Inspection Areas Courtesy of GENERAL MO",
+        "en": "Fig. 449: Identifying Camshaft & Bearing Inspection Areas Courtesy of GENERAL MO"
+       },
+       "words": 301,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t033_a54dc5aa",
+       "title": {
+        "ru": "Fig. 457: View Of J 33049 Camshaft Bearing Service Kit Components Courtesy of GE",
+        "en": "Fig. 457: View Of J 33049 Camshaft Bearing Service Kit Components Courtesy of GE"
+       },
+       "words": 489,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t034_7c37fb77",
+       "title": {
+        "ru": "Fig. 467: View Of Coolant Temperature Sensor (Left Cylinder Head) Courtesy of GE",
+        "en": "Fig. 467: View Of Coolant Temperature Sensor (Left Cylinder Head) Courtesy of GE"
+       },
+       "words": 733,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t035_a0e4a518",
+       "title": {
+        "ru": "Fig. 503: Inspecting Intake Manifold Cylinder Head Deck For Warpage Courtesy of ",
+        "en": "Fig. 503: Inspecting Intake Manifold Cylinder Head Deck For Warpage Courtesy of "
+       },
+       "words": 587,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t036_277139d2",
+       "title": {
+        "ru": "Fig. 505: Measuring Exhaust Manifold To Cylinder Head Surface For Warpage Courte",
+        "en": "Fig. 505: Measuring Exhaust Manifold To Cylinder Head Surface For Warpage Courte"
+       },
+       "words": 449,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t037_d38640c7",
+       "title": {
+        "ru": "Fig. 530: Crankshaft Main Bearing Cap Bolt Tightening Sequence Courtesy of GENER",
+        "en": "Fig. 530: Crankshaft Main Bearing Cap Bolt Tightening Sequence Courtesy of GENER"
+       },
+       "words": 549,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t038_b8360542",
+       "title": {
+        "ru": "IMPORTANT: The bearing caps must be installed in the proper location and directi",
+        "en": "IMPORTANT: The bearing caps must be installed in the proper location and directi"
+       },
+       "words": 559,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t039_29949f67",
+       "title": {
+        "ru": "IMPORTANT: The gasket surface on the engine block should be clean and free of di",
+        "en": "IMPORTANT: The gasket surface on the engine block should be clean and free of di"
+       },
+       "words": 397,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t040_9968f876",
+       "title": {
+        "ru": "Fig. 570: View Of Camshaft And Crankshaft Timing Marks Aligned Courtesy of GENER",
+        "en": "Fig. 570: View Of Camshaft And Crankshaft Timing Marks Aligned Courtesy of GENER"
+       },
+       "words": 371,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t041_bf0f3193",
+       "title": {
+        "ru": "Fig. 579: Checking Rear Cover-To-Engine Block Proper Installation Position Court",
+        "en": "Fig. 579: Checking Rear Cover-To-Engine Block Proper Installation Position Court"
+       },
+       "words": 889,
+       "images": 17,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t042_7125c377",
+       "title": {
+        "ru": "IMPORTANT: Ensure the oil gallery passages in the oil pan and engine block prope",
+        "en": "IMPORTANT: Ensure the oil gallery passages in the oil pan and engine block prope"
+       },
+       "words": 521,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t043_57b4d4fd",
+       "title": {
+        "ru": "Fig. 600: Identifying Cylinder Head Locating Pins Installation Position Courtesy",
+        "en": "Fig. 600: Identifying Cylinder Head Locating Pins Installation Position Courtesy"
+       },
+       "words": 449,
+       "images": 10,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t044_84d67e1d",
+       "title": {
+        "ru": "Fig. 606: Identifying Cylinder Head Locating Pins Installation Position Courtesy",
+        "en": "Fig. 606: Identifying Cylinder Head Locating Pins Installation Position Courtesy"
+       },
+       "words": 306,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t045_8a00a506",
+       "title": {
+        "ru": "Fig. 614: Camshaft And Crankshaft Sprocket Alignment Marks Courtesy of GENERAL M",
+        "en": "Fig. 614: Camshaft And Crankshaft Sprocket Alignment Marks Courtesy of GENERAL M"
+       },
+       "words": 407,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t046_e0fa86d3",
+       "title": {
+        "ru": "Fig. 630: Engine Coolant Air Bleed Cover Bolts Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 630: Engine Coolant Air Bleed Cover Bolts Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 627,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t047_833a08fc",
+       "title": {
+        "ru": "IMPORTANT: The nose of the crankshaft should be recessed 2.4-4.48 mm (0.094-0.17",
+        "en": "IMPORTANT: The nose of the crankshaft should be recessed 2.4-4.48 mm (0.094-0.17"
+       },
+       "words": 630,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t048_5391aa4a",
+       "title": {
+        "ru": "Fig. 656: Identifying Engine Preluber J 45299 Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 656: Identifying Engine Preluber J 45299 Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 804,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t049_f9737f34",
+       "title": {
+        "ru": "Fig. 661: Engine Lubrication Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 661: Engine Lubrication Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 1662,
+       "images": 18,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t050_e4dc27b8",
+       "title": {
+        "ru": "Fig. 23: View Of Fuse & Relay Block Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 23: View Of Fuse & Relay Block Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 581,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t051_9a914d6f",
+       "title": {
+        "ru": "Fig. 16: Right Rear Of Engine Compartment Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 16: Right Rear Of Engine Compartment Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 523,
+       "images": 3,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t052_e0cfec83",
+       "title": {
+        "ru": "Fig. 113: Camshaft Position (CMP) Sensor (5.3L/6.0L) Courtesy of GENERAL MOTORS ",
+        "en": "Fig. 113: Camshaft Position (CMP) Sensor (5.3L/6.0L) Courtesy of GENERAL MOTORS "
+       },
+       "words": 651,
+       "images": 35,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t053_d40e2fbd",
+       "title": {
+        "ru": "Fig. 140: Left Side Of Engine (5.3L/6.0L) (1 Of 2) Courtesy of GENERAL MOTORS CO",
+        "en": "Fig. 140: Left Side Of Engine (5.3L/6.0L) (1 Of 2) Courtesy of GENERAL MOTORS CO"
+       },
+       "words": 1273,
+       "images": 26,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t054_93b4801a",
+       "title": {
+        "ru": "Fig. 15: View Of Ground Terminal Bolt Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 15: View Of Ground Terminal Bolt Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 536,
+       "images": 13,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t055_7b667b67",
+       "title": {
+        "ru": "Fig. 63: View Of Positive Cable Lead, Nut & Cable Clip Courtesy of GENERAL MOTOR",
+        "en": "Fig. 63: View Of Positive Cable Lead, Nut & Cable Clip Courtesy of GENERAL MOTOR"
+       },
+       "words": 242,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t056_c21e04c4",
+       "title": {
+        "ru": "Fig. 77: View Of Engine Lift Hook & A/C Bracket Bolt Courtesy of GENERAL MOTORS ",
+        "en": "Fig. 77: View Of Engine Lift Hook & A/C Bracket Bolt Courtesy of GENERAL MOTORS "
+       },
+       "words": 411,
+       "images": 8,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t057_df4dd926",
+       "title": {
+        "ru": "Fig. 2: View Of Stabilizer Shaft, Insulator, Insulator Clamp & Mounting Bolts Co",
+        "en": "Fig. 2: View Of Stabilizer Shaft, Insulator, Insulator Clamp & Mounting Bolts Co"
+       },
+       "words": 968,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t058_7d250ba1",
+       "title": {
+        "ru": "Fig. 12: Removing/Installing Brake Master Cylinder Reservoir Retaining Pins Cour",
+        "en": "Fig. 12: Removing/Installing Brake Master Cylinder Reservoir Retaining Pins Cour"
+       },
+       "words": 725,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t059_3c2d4667",
+       "title": {
+        "ru": "Fig. 19: Removing/Installing Master Cylinder Fluid Level Sensor Connector Courte",
+        "en": "Fig. 19: Removing/Installing Master Cylinder Fluid Level Sensor Connector Courte"
+       },
+       "words": 790,
+       "images": 16,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t060_56b0544f",
+       "title": {
+        "ru": "Fig. 33: Fluid Level Sensor Removed From Master Cylinder Reservoir Courtesy of G",
+        "en": "Fig. 33: Fluid Level Sensor Removed From Master Cylinder Reservoir Courtesy of G"
+       },
+       "words": 329,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t061_a60b373a",
+       "title": {
+        "ru": "Fig. 107: Removing Both Cylinder Line Assemblies From Gear Assembly Courtesy of ",
+        "en": "Fig. 107: Removing Both Cylinder Line Assemblies From Gear Assembly Courtesy of "
+       },
+       "words": 520,
+       "images": 14,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t062_dee64d98",
+       "title": {
+        "ru": "Fig. 32: Inserting J 42759 Into The Lock Cylinder Housing To Release The Tabs On",
+        "en": "Fig. 32: Inserting J 42759 Into The Lock Cylinder Housing To Release The Tabs On"
+       },
+       "words": 474,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t063_010c8b3a",
+       "title": {
+        "ru": "Fig. 34: Using Screwdriver To Rotate The Lock Cylinder Housing Gear Courtesy of ",
+        "en": "Fig. 34: Using Screwdriver To Rotate The Lock Cylinder Housing Gear Courtesy of "
+       },
+       "words": 440,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "chevrolet_trailblazer_engine_t064_5c40128b",
+       "title": {
+        "ru": "Fig. 69: View Of Electric Park Lock & Ignition Lock Cylinder Case Assembly Court",
+        "en": "Fig. 69: View Of Electric Park Lock & Ignition Lock Cylinder Case Assembly Court"
+       },
+       "words": 1006,
+       "images": 17,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_brakes_t000_7888382c",
+       "title": {
+        "ru": "Fig. 94: Locating EVAP Purge Solenoid, MAP Sensor & Main Coil Courtesy of GENERA",
+        "en": "Fig. 94: Locating EVAP Purge Solenoid, MAP Sensor & Main Coil Courtesy of GENERA"
+       },
+       "words": 539,
+       "images": 13,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t001_8a2f7bd7",
+       "title": {
+        "ru": "Fig. 3: Steering Wheel Speed Position Sensor & Traction Control Switch Courtesy ",
+        "en": "Fig. 3: Steering Wheel Speed Position Sensor & Traction Control Switch Courtesy "
+       },
+       "words": 240,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t002_8ec28250",
+       "title": {
+        "ru": "Diff. Pressure/Fluid Level Switch",
+        "en": "Diff. Pressure/Fluid Level Switch"
+       },
+       "words": 626,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t003_d870719d",
+       "title": {
+        "ru": "Conditions for Running the DTC",
+        "en": "Conditions for Running the DTC"
+       },
+       "words": 684,
+       "images": 7,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t004_f5c13b4a",
+       "title": {
+        "ru": "Action Taken When the DTC Sets",
+        "en": "Action Taken When the DTC Sets"
+       },
+       "words": 580,
+       "images": 4,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t005_573237bb",
+       "title": {
+        "ru": "Visual/Physical Inspection",
+        "en": "Visual/Physical Inspection"
+       },
+       "words": 353,
+       "images": 5,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t006_96c6c192",
+       "title": {
+        "ru": "Fig. 19: Removing/Installing Traction Control Switch Electrical Connector Courte",
+        "en": "Fig. 19: Removing/Installing Traction Control Switch Electrical Connector Courte"
+       },
+       "words": 725,
+       "images": 24,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t007_7b91172d",
+       "title": {
+        "ru": "Fig. 26: Removing/Installing Traction Control Switch Retaining Ring (Oldsmobile,",
+        "en": "Fig. 26: Removing/Installing Traction Control Switch Retaining Ring (Oldsmobile,"
+       },
+       "words": 2362,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t008_e45aebc6",
+       "title": {
+        "ru": "Fig. 6: Front Brake Hose Retaining Bolt Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 6: Front Brake Hose Retaining Bolt Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 1514,
+       "images": 14,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t009_365c1cfd",
+       "title": {
+        "ru": "Fig. 8: Disc Brake Pads & Caliper Mounting Bracket - Rear (1500 Series Pickup) C",
+        "en": "Fig. 8: Disc Brake Pads & Caliper Mounting Bracket - Rear (1500 Series Pickup) C"
+       },
+       "words": 778,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t010_56ad6dd3",
+       "title": {
+        "ru": "Fig. 11: View Of Full Master Cylinder Reservoir MAX And MIN Marks Courtesy of GE",
+        "en": "Fig. 11: View Of Full Master Cylinder Reservoir MAX And MIN Marks Courtesy of GE"
+       },
+       "words": 377,
+       "images": 18,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t011_0f99af90",
+       "title": {
+        "ru": "Fig. 23: View Of Full Master Cylinder Reservoir MAX And MIN Marks Courtesy of GE",
+        "en": "Fig. 23: View Of Full Master Cylinder Reservoir MAX And MIN Marks Courtesy of GE"
+       },
+       "words": 401,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t012_93354d7f",
+       "title": {
+        "ru": "Fig. 32: Upper Brake Caliper Mounting Bolt Removed Courtesy of GENERAL MOTORS CO",
+        "en": "Fig. 32: Upper Brake Caliper Mounting Bolt Removed Courtesy of GENERAL MOTORS CO"
+       },
+       "words": 611,
+       "images": 14,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t013_6a3664b9",
+       "title": {
+        "ru": "Fig. 47: Removing/Installing Brake Pads From Brake Mounting Bracket Courtesy of ",
+        "en": "Fig. 47: Removing/Installing Brake Pads From Brake Mounting Bracket Courtesy of "
+       },
+       "words": 246,
+       "images": 13,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t014_12df884e",
+       "title": {
+        "ru": "Fig. 51: Removing/Installing Caliper Bracket Bushings Courtesy of GENERAL MOTORS",
+        "en": "Fig. 51: Removing/Installing Caliper Bracket Bushings Courtesy of GENERAL MOTORS"
+       },
+       "words": 242,
+       "images": 10,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t015_e81a9aa6",
+       "title": {
+        "ru": "Fig. 62: Brake Caliper Guide Pin And Brake Caliper Mounting Bracket Courtesy of ",
+        "en": "Fig. 62: Brake Caliper Guide Pin And Brake Caliper Mounting Bracket Courtesy of "
+       },
+       "words": 179,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t016_36df5c40",
+       "title": {
+        "ru": "CAUTION: Do not move the vehicle until a firm brake pedal is obtained. Failure t",
+        "en": "CAUTION: Do not move the vehicle until a firm brake pedal is obtained. Failure t"
+       },
+       "words": 351,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t017_de72629e",
+       "title": {
+        "ru": "Fig. 82: Removing/Installing Brake Pads From Brake Mounting Bracket Courtesy of ",
+        "en": "Fig. 82: Removing/Installing Brake Pads From Brake Mounting Bracket Courtesy of "
+       },
+       "words": 325,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t018_e3bf3a6b",
+       "title": {
+        "ru": "Fig. 97: View Of Full Master Cylinder Reservoir MAX And MIN Marks Courtesy of GE",
+        "en": "Fig. 97: View Of Full Master Cylinder Reservoir MAX And MIN Marks Courtesy of GE"
+       },
+       "words": 350,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t019_84e07db6",
+       "title": {
+        "ru": "Fig. 105: Removing/Installing Brake Caliper And Mounting Bracket Assembly Courte",
+        "en": "Fig. 105: Removing/Installing Brake Caliper And Mounting Bracket Assembly Courte"
+       },
+       "words": 431,
+       "images": 15,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t020_8b2d763c",
+       "title": {
+        "ru": "IMPORTANT: It maybe necessary to readjust the park brake shoes to allow the brak",
+        "en": "IMPORTANT: It maybe necessary to readjust the park brake shoes to allow the brak"
+       },
+       "words": 426,
+       "images": 10,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t021_6cfe6ec9",
+       "title": {
+        "ru": "IMPORTANT: Failure to obtain the best possible braking surface finish may cause ",
+        "en": "IMPORTANT: Failure to obtain the best possible braking surface finish may cause "
+       },
+       "words": 180,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t022_714bdc21",
+       "title": {
+        "ru": "Fig. 56: View Of Starter Solenoid S-Terminal Lead & Nut Courtesy of GENERAL MOTO",
+        "en": "Fig. 56: View Of Starter Solenoid S-Terminal Lead & Nut Courtesy of GENERAL MOTO"
+       },
+       "words": 546,
+       "images": 21,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t023_aca7652b",
+       "title": {
+        "ru": "Fig. 99: View Of Shock Module Yoke To Shock Absorber Pinch Bolt & Nut Courtesy o",
+        "en": "Fig. 99: View Of Shock Module Yoke To Shock Absorber Pinch Bolt & Nut Courtesy o"
+       },
+       "words": 312,
+       "images": 16,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t024_d0741381",
+       "title": {
+        "ru": "Fig. 102: View Of Shock Module Yoke To Shock Absorber Pinch Bolt & Nut Courtesy ",
+        "en": "Fig. 102: View Of Shock Module Yoke To Shock Absorber Pinch Bolt & Nut Courtesy "
+       },
+       "words": 357,
+       "images": 16,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t025_561e0972",
+       "title": {
+        "ru": "DIAGNOSTIC STARTING POINT - HYDRAULIC BRAKES",
+        "en": "DIAGNOSTIC STARTING POINT - HYDRAULIC BRAKES"
+       },
+       "words": 413,
+       "images": 20,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t026_f524fa0c",
+       "title": {
+        "ru": "Brake Pedal Excessive Travel",
+        "en": "Brake Pedal Excessive Travel"
+       },
+       "words": 139,
+       "images": 26,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t027_06653d2d",
+       "title": {
+        "ru": "NOTE: Refer to Brake Fluid Effects on Paint and Electrical Components Notice in ",
+        "en": "NOTE: Refer to Brake Fluid Effects on Paint and Electrical Components Notice in "
+       },
+       "words": 809,
+       "images": 41,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t028_fa5c31e2",
+       "title": {
+        "ru": "NOTE: Refer to Brake Fluid Effects on Paint and Electrical Components Notice in ",
+        "en": "NOTE: Refer to Brake Fluid Effects on Paint and Electrical Components Notice in "
+       },
+       "words": 747,
+       "images": 10,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t029_55731d79",
+       "title": {
+        "ru": "Fig. 36: Brake Pedal And Pivot Bolt Removed Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 36: Brake Pedal And Pivot Bolt Removed Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 283,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t030_bccb4555",
+       "title": {
+        "ru": "IMPORTANT: The brake pedal pivot bolt is a prevailing torque bolt and must be re",
+        "en": "IMPORTANT: The brake pedal pivot bolt is a prevailing torque bolt and must be re"
+       },
+       "words": 682,
+       "images": 8,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t031_b04b81c9",
+       "title": {
+        "ru": "IMPORTANT: When installing the pipe, maintain a clearance of 19 mm (3/4 in) from",
+        "en": "IMPORTANT: When installing the pipe, maintain a clearance of 19 mm (3/4 in) from"
+       },
+       "words": 271,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t032_de819814",
+       "title": {
+        "ru": "IMPORTANT: The metal gaskets may be stuck to either the brake caliper or the bra",
+        "en": "IMPORTANT: The metal gaskets may be stuck to either the brake caliper or the bra"
+       },
+       "words": 144,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t033_c49d49cf",
+       "title": {
+        "ru": "Fig. 65: Removing/Installing Brake Light Switch Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 65: Removing/Installing Brake Light Switch Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 2451,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t034_0dc4c2b8",
+       "title": {
+        "ru": "Fig. 68: Removing/Installing Brake Light Switch Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 68: Removing/Installing Brake Light Switch Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 316,
+       "images": 6,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t035_9f407724",
+       "title": {
+        "ru": "IMPORTANT: Review the system operation in order to familiarize yourself with the",
+        "en": "IMPORTANT: Review the system operation in order to familiarize yourself with the"
+       },
+       "words": 205,
+       "images": 19,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t036_590daf98",
+       "title": {
+        "ru": "Fig. 10: Locating Adjustment Screw, Park Brake Shoe & Retaining Spring Courtesy ",
+        "en": "Fig. 10: Locating Adjustment Screw, Park Brake Shoe & Retaining Spring Courtesy "
+       },
+       "words": 498,
+       "images": 18,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t037_a635034f",
+       "title": {
+        "ru": "Fig. 17: Removing/Installing Park Brake Lever And Retaining Nut Courtesy of GENE",
+        "en": "Fig. 17: Removing/Installing Park Brake Lever And Retaining Nut Courtesy of GENE"
+       },
+       "words": 213,
+       "images": 10,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t038_2c9b22f7",
+       "title": {
+        "ru": "Fig. 22: Park Brake Warning Lamp Switch, Retaining Screw And Electrical Connecto",
+        "en": "Fig. 22: Park Brake Warning Lamp Switch, Retaining Screw And Electrical Connecto"
+       },
+       "words": 277,
+       "images": 9,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t039_6b2c5c6a",
+       "title": {
+        "ru": "Fig. 31: Removing/Installing Park Brake Retaining Bracket Bolt Courtesy of GENER",
+        "en": "Fig. 31: Removing/Installing Park Brake Retaining Bracket Bolt Courtesy of GENER"
+       },
+       "words": 257,
+       "images": 15,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t040_7492b461",
+       "title": {
+        "ru": "Fig. 39: Park Brake Cable And Park Brake Cable Retainers Courtesy of GENERAL MOT",
+        "en": "Fig. 39: Park Brake Cable And Park Brake Cable Retainers Courtesy of GENERAL MOT"
+       },
+       "words": 382,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t041_e6875c0f",
+       "title": {
+        "ru": "Fig. 55: Adjusting Parking Brake Shoes Using Special Tool Courtesy of GENERAL MO",
+        "en": "Fig. 55: Adjusting Parking Brake Shoes Using Special Tool Courtesy of GENERAL MO"
+       },
+       "words": 280,
+       "images": 14,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t042_95787846",
+       "title": {
+        "ru": "Fig. 61: Adjusting Parking Brake Shoes Using Special Tool Courtesy of GENERAL MO",
+        "en": "Fig. 61: Adjusting Parking Brake Shoes Using Special Tool Courtesy of GENERAL MO"
+       },
+       "words": 423,
+       "images": 2,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t043_d210b8c0",
+       "title": {
+        "ru": "Fig. 31: Drilling Hole In Shock Absorber At Centerpunched Locations Courtesy of ",
+        "en": "Fig. 31: Drilling Hole In Shock Absorber At Centerpunched Locations Courtesy of "
+       },
+       "words": 609,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chevrolet_trailblazer_brakes_t044_5c8739ed",
+       "title": {
+        "ru": "Driver Safety",
+        "en": "Driver Safety"
+       },
+       "words": 78,
+       "images": 16,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_suspension_t000_61dc5fe6",
+       "title": {
+        "ru": "Fig. 155: View Of Valve Stem & Valve Spring Components Courtesy of GENERAL MOTOR",
+        "en": "Fig. 155: View Of Valve Stem & Valve Spring Components Courtesy of GENERAL MOTOR"
+       },
+       "words": 424,
+       "images": 11,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t001_a23f0ba5",
+       "title": {
+        "ru": "Air Suspension Compressor Assembly C1",
+        "en": "Air Suspension Compressor Assembly C1"
+       },
+       "words": 341,
+       "images": 17,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t002_d3d0594a",
+       "title": {
+        "ru": "IMPORTANT: The following steps must be completed before using the symptom tables",
+        "en": "IMPORTANT: The following steps must be completed before using the symptom tables"
+       },
+       "words": 514,
+       "images": 16,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t003_32801cd5",
+       "title": {
+        "ru": "Fig. 13: Disconnecting/Connecting Air Spring Level Sensor Electrical Connector C",
+        "en": "Fig. 13: Disconnecting/Connecting Air Spring Level Sensor Electrical Connector C"
+       },
+       "words": 974,
+       "images": 23,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t004_918446f0",
+       "title": {
+        "ru": "Fig. 17: Disconnecting/Connecting Air Spring Level Sensor Electrical Connector C",
+        "en": "Fig. 17: Disconnecting/Connecting Air Spring Level Sensor Electrical Connector C"
+       },
+       "words": 537,
+       "images": 17,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t005_d95b7cb0",
+       "title": {
+        "ru": "Fig. 24: Removing/Installing Air Compressor Mounting Bolts Courtesy of GENERAL M",
+        "en": "Fig. 24: Removing/Installing Air Compressor Mounting Bolts Courtesy of GENERAL M"
+       },
+       "words": 941,
+       "images": 16,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t006_ab31e09f",
+       "title": {
+        "ru": "Fig. 10: View Of Upper Control Arm To The Steering Knuckle Pinch Bolt And Nut Co",
+        "en": "Fig. 10: View Of Upper Control Arm To The Steering Knuckle Pinch Bolt And Nut Co"
+       },
+       "words": 718,
+       "images": 11,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t007_4d99d724",
+       "title": {
+        "ru": "Fig. 59: View Of Upper Control Arm To The Steering Knuckle Pinch Bolt And Nut Co",
+        "en": "Fig. 59: View Of Upper Control Arm To The Steering Knuckle Pinch Bolt And Nut Co"
+       },
+       "words": 361,
+       "images": 14,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t008_c44e5f17",
+       "title": {
+        "ru": "Fig. 83: View Of Upper Control Arm To The Steering Knuckle Pinch Bolt And Nut Co",
+        "en": "Fig. 83: View Of Upper Control Arm To The Steering Knuckle Pinch Bolt And Nut Co"
+       },
+       "words": 473,
+       "images": 26,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t009_c601f19f",
+       "title": {
+        "ru": "Fig. 21: View Of Upper Control Arm To The Steering Knuckle Pinch Bolt And Nut Co",
+        "en": "Fig. 21: View Of Upper Control Arm To The Steering Knuckle Pinch Bolt And Nut Co"
+       },
+       "words": 229,
+       "images": 11,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t010_33339bbd",
+       "title": {
+        "ru": "Fig. 54: Removing/Installing Lower Control Arm-To-Lower Control Arm Bracket Moun",
+        "en": "Fig. 54: Removing/Installing Lower Control Arm-To-Lower Control Arm Bracket Moun"
+       },
+       "words": 437,
+       "images": 13,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t011_7deb2b9d",
+       "title": {
+        "ru": "Fig. 62: Removing/Installing Lower Control Arm-To-Lower Control Arm Bracket Moun",
+        "en": "Fig. 62: Removing/Installing Lower Control Arm-To-Lower Control Arm Bracket Moun"
+       },
+       "words": 436,
+       "images": 13,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t012_3b339ec6",
+       "title": {
+        "ru": "Fig. 104: View Of Shock Module Yoke To Shock Absorber Pinch Bolt & Nut Courtesy ",
+        "en": "Fig. 104: View Of Shock Module Yoke To Shock Absorber Pinch Bolt & Nut Courtesy "
+       },
+       "words": 847,
+       "images": 14,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t013_524c9c3d",
+       "title": {
+        "ru": "Fig. 8: Removing/Installing Rear Axle Lower Control Arm-To-Frame Mounting Nut & ",
+        "en": "Fig. 8: Removing/Installing Rear Axle Lower Control Arm-To-Frame Mounting Nut & "
+       },
+       "words": 525,
+       "images": 10,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t014_2a62e321",
+       "title": {
+        "ru": "Fig. 9: Removing/Installing Rear Axle Lower Control Arm-To-Frame Mounting Nut & ",
+        "en": "Fig. 9: Removing/Installing Rear Axle Lower Control Arm-To-Frame Mounting Nut & "
+       },
+       "words": 532,
+       "images": 8,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t015_6cfa9719",
+       "title": {
+        "ru": "Fig. 112: Centering SIR Coil (No Centering Window, But Back Side Includes A Spri",
+        "en": "Fig. 112: Centering SIR Coil (No Centering Window, But Back Side Includes A Spri"
+       },
+       "words": 780,
+       "images": 14,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chevrolet_trailblazer_suspension_t016_bff45fd1",
+       "title": {
+        "ru": "Fig. 113: Centering SIR Coil (Without Centering Window, Without Spring Service L",
+        "en": "Fig. 113: Centering SIR Coil (Without Centering Window, Without Spring Service L"
+       },
+       "words": 306,
+       "images": 2,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_electrical_t000_7a392a1f",
+       "title": {
+        "ru": "Fig. 201: View Of Transmission Oil Cooler Line Retaining Bracket & Bolt Courtesy",
+        "en": "Fig. 201: View Of Transmission Oil Cooler Line Retaining Bracket & Bolt Courtesy"
+       },
+       "words": 397,
+       "images": 8,
+       "section_id": "electrical"
+      },
+      {
+       "id": "chevrolet_trailblazer_electrical_t001_68e8e1b0",
+       "title": {
+        "ru": "Fig. 110: View Of Seat Buckle Electrical Connector & Wiring Harness Courtesy of ",
+        "en": "Fig. 110: View Of Seat Buckle Electrical Connector & Wiring Harness Courtesy of "
+       },
+       "words": 648,
+       "images": 17,
+       "section_id": "electrical"
+      },
+      {
+       "id": "chevrolet_trailblazer_electrical_t002_8dbc2bad",
+       "title": {
+        "ru": "Fig. 52: View Of Starter Solenoid S-Terminal Lead & Nut Courtesy of GENERAL MOTO",
+        "en": "Fig. 52: View Of Starter Solenoid S-Terminal Lead & Nut Courtesy of GENERAL MOTO"
+       },
+       "words": 956,
+       "images": 18,
+       "section_id": "electrical"
+      },
+      {
+       "id": "chevrolet_trailblazer_electrical_t003_5f3f519a",
+       "title": {
+        "ru": "Fig. 61: View Of Starter Solenoid Lead & Nut Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 61: View Of Starter Solenoid Lead & Nut Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 673,
+       "images": 12,
+       "section_id": "electrical"
+      },
+      {
+       "id": "chevrolet_trailblazer_electrical_t004_cad45ed9",
+       "title": {
+        "ru": "USING MITCHELL1'S WIRING DIAGRAMS",
+        "en": "USING MITCHELL1'S WIRING DIAGRAMS"
+       },
+       "words": 723,
+       "images": 36,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_hvac_t000_8dcf75e8",
+       "title": {
+        "ru": "Fig. 124: Identifying Positive Crankcase Ventilation (PCV) Foul Air Hose Courtes",
+        "en": "Fig. 124: Identifying Positive Crankcase Ventilation (PCV) Foul Air Hose Courtes"
+       },
+       "words": 219,
+       "images": 15,
+       "section_id": "hvac"
+      },
+      {
+       "id": "chevrolet_trailblazer_hvac_t001_b91c9a67",
+       "title": {
+        "ru": "Fig. 264: View Of Auxiliary Heater Inlet & Outlet Hose/Pipe Assembly Courtesy of",
+        "en": "Fig. 264: View Of Auxiliary Heater Inlet & Outlet Hose/Pipe Assembly Courtesy of"
+       },
+       "words": 384,
+       "images": 10,
+       "section_id": "hvac"
+      },
+      {
+       "id": "chevrolet_trailblazer_hvac_t002_d2fc94a3",
+       "title": {
+        "ru": "Fig. 20: Lower Right Side Of Dash Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 20: Lower Right Side Of Dash Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 602,
+       "images": 32,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_body_t000_64fd327e",
+       "title": {
+        "ru": "Fig. 112: Locating EVAP Purge Solenoid, MAP Sensor & Main Coil Courtesy of GENER",
+        "en": "Fig. 112: Locating EVAP Purge Solenoid, MAP Sensor & Main Coil Courtesy of GENER"
+       },
+       "words": 478,
+       "images": 15,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_trailblazer_body_t001_29166ff6",
+       "title": {
+        "ru": "IMPORTANT: DO NOT use the throttle body gasket again. Install a NEW gasket durin",
+        "en": "IMPORTANT: DO NOT use the throttle body gasket again. Install a NEW gasket durin"
+       },
+       "words": 593,
+       "images": 12,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_trailblazer_body_t002_2540e265",
+       "title": {
+        "ru": "Fig. 22: View Of Connector Position Assurance At Front End Sensor Connectors Cou",
+        "en": "Fig. 22: View Of Connector Position Assurance At Front End Sensor Connectors Cou"
+       },
+       "words": 1180,
+       "images": 17,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_trailblazer_body_t003_d24d5783",
+       "title": {
+        "ru": "Fig. 25: View Of Connector Position Assurance (CPA) & Side Impact Sensor Yellow ",
+        "en": "Fig. 25: View Of Connector Position Assurance (CPA) & Side Impact Sensor Yellow "
+       },
+       "words": 575,
+       "images": 23,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_trailblazer_body_t004_37db0bed",
+       "title": {
+        "ru": "Fig. 98: Removing/Installing 2 Lower Passenger Supplemental Inflatable Restraint",
+        "en": "Fig. 98: Removing/Installing 2 Lower Passenger Supplemental Inflatable Restraint"
+       },
+       "words": 455,
+       "images": 16,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_trailblazer_body_t005_0e814f33",
+       "title": {
+        "ru": "Fig. 149: Identifying Fasteners Holding Side Impact Module To Deployment Fixture",
+        "en": "Fig. 149: Identifying Fasteners Holding Side Impact Module To Deployment Fixture"
+       },
+       "words": 483,
+       "images": 12,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_trailblazer_body_t006_43068711",
+       "title": {
+        "ru": "Fig. 214: Routing Wires To Apply Power For Controlled Bag Deployment (Right ) Co",
+        "en": "Fig. 214: Routing Wires To Apply Power For Controlled Bag Deployment (Right ) Co"
+       },
+       "words": 1049,
+       "images": 24,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_trailblazer_body_t007_c92a1b9c",
+       "title": {
+        "ru": "Fig. 77: Quarter Glass (Long Wheel Base, Except XUV) Courtesy of GENERAL MOTORS ",
+        "en": "Fig. 77: Quarter Glass (Long Wheel Base, Except XUV) Courtesy of GENERAL MOTORS "
+       },
+       "words": 461,
+       "images": 23,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_trailblazer_body_t008_d31fca23",
+       "title": {
+        "ru": "Fig. 152: Passenger Compartment (Short Wheel Base) (1 Of 2) Courtesy of GENERAL ",
+        "en": "Fig. 152: Passenger Compartment (Short Wheel Base) (1 Of 2) Courtesy of GENERAL "
+       },
+       "words": 499,
+       "images": 12,
+       "section_id": "body"
+      },
+      {
+       "id": "chevrolet_trailblazer_body_t009_0ac690e1",
+       "title": {
+        "ru": "Fig. 43: Rotating J 45405 To Bottom Against Die Cage Courtesy of GENERAL MOTORS ",
+        "en": "Fig. 43: Rotating J 45405 To Bottom Against Die Cage Courtesy of GENERAL MOTORS "
+       },
+       "words": 678,
+       "images": 19,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_steering_t000_0d9cec44",
+       "title": {
+        "ru": "Fig. 8: Identifying Inflatable Restraint Steering Wheel Module Courtesy of GENER",
+        "en": "Fig. 8: Identifying Inflatable Restraint Steering Wheel Module Courtesy of GENER"
+       },
+       "words": 930,
+       "images": 38,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t001_01038e24",
+       "title": {
+        "ru": "Fig. 31: Disconnecting/Reconnecting CPA & Steering Wheel Module Yellow 4-Way Con",
+        "en": "Fig. 31: Disconnecting/Reconnecting CPA & Steering Wheel Module Yellow 4-Way Con"
+       },
+       "words": 411,
+       "images": 19,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t002_733c054d",
+       "title": {
+        "ru": "Fig. 91: View Of Block Tooth Of Steering Shaft Assembly In 12 O'clock Position C",
+        "en": "Fig. 91: View Of Block Tooth Of Steering Shaft Assembly In 12 O'clock Position C"
+       },
+       "words": 643,
+       "images": 16,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t003_1caa0d6f",
+       "title": {
+        "ru": "Fig. 160: Twisting Connector Wire Leads (High Circuits) To Deployment Harness Wi",
+        "en": "Fig. 160: Twisting Connector Wire Leads (High Circuits) To Deployment Harness Wi"
+       },
+       "words": 791,
+       "images": 9,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t004_d11c76ec",
+       "title": {
+        "ru": "Fig. 69: View Of Generator Bracket & Bolts (4.8L, 5.3L & 6.0L) Courtesy of GENER",
+        "en": "Fig. 69: View Of Generator Bracket & Bolts (4.8L, 5.3L & 6.0L) Courtesy of GENER"
+       },
+       "words": 365,
+       "images": 14,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t005_ad2de1c2",
+       "title": {
+        "ru": "IMPORTANT: DO NOT allow the shock modules and steering knuckle to hang without s",
+        "en": "IMPORTANT: DO NOT allow the shock modules and steering knuckle to hang without s"
+       },
+       "words": 327,
+       "images": 14,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t006_48cb08d1",
+       "title": {
+        "ru": "Fig. 31: Removing Outer Tie Rod Assembly From Steering Knuckle Courtesy of GENER",
+        "en": "Fig. 31: Removing Outer Tie Rod Assembly From Steering Knuckle Courtesy of GENER"
+       },
+       "words": 172,
+       "images": 18,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t007_80deea1d",
+       "title": {
+        "ru": "Fig. 2: Exploded View Of Power Steering Pump Components (CB Series) Courtesy of ",
+        "en": "Fig. 2: Exploded View Of Power Steering Pump Components (CB Series) Courtesy of "
+       },
+       "words": 145,
+       "images": 24,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t008_2f94ae72",
+       "title": {
+        "ru": "Fig. 9: Installing Plugs Into Power Steering Pump Pressure & Return Ports Courte",
+        "en": "Fig. 9: Installing Plugs Into Power Steering Pump Pressure & Return Ports Courte"
+       },
+       "words": 516,
+       "images": 8,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t009_b6e3d186",
+       "title": {
+        "ru": "Fig. 13: Checking Power Steering Pump Pulley Installed Depth Courtesy of GENERAL",
+        "en": "Fig. 13: Checking Power Steering Pump Pulley Installed Depth Courtesy of GENERAL"
+       },
+       "words": 564,
+       "images": 8,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t010_61eab8a8",
+       "title": {
+        "ru": "Fig. 17: Removing/Installing Power Steering Hoses Courtesy of GENERAL MOTORS COR",
+        "en": "Fig. 17: Removing/Installing Power Steering Hoses Courtesy of GENERAL MOTORS COR"
+       },
+       "words": 417,
+       "images": 10,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t011_03271bca",
+       "title": {
+        "ru": "Fig. 29: Exploded View Of Power Steering Pump Flow Control Valve (CB Series) Cou",
+        "en": "Fig. 29: Exploded View Of Power Steering Pump Flow Control Valve (CB Series) Cou"
+       },
+       "words": 436,
+       "images": 12,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t012_7cbd282e",
+       "title": {
+        "ru": "Fig. 30: Exploded View Of Power Steering Pump Flow Control Valve (CB Series) Cou",
+        "en": "Fig. 30: Exploded View Of Power Steering Pump Flow Control Valve (CB Series) Cou"
+       },
+       "words": 307,
+       "images": 11,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t013_132272ed",
+       "title": {
+        "ru": "Fig. 43: View Of Power Steering Hose Assembly At Power Steering Cooler Courtesy ",
+        "en": "Fig. 43: View Of Power Steering Hose Assembly At Power Steering Cooler Courtesy "
+       },
+       "words": 268,
+       "images": 10,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t014_e444d002",
+       "title": {
+        "ru": "Fig. 57: Ensuring Power Steering Gear Oil Seals (Are Fully Seated In Power Steer",
+        "en": "Fig. 57: Ensuring Power Steering Gear Oil Seals (Are Fully Seated In Power Steer"
+       },
+       "words": 513,
+       "images": 17,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t015_a8ea84ab",
+       "title": {
+        "ru": "Fig. 65: Removing/Installing Power Steering Hoses Assembly Front Bracket Mountin",
+        "en": "Fig. 65: Removing/Installing Power Steering Hoses Assembly Front Bracket Mountin"
+       },
+       "words": 491,
+       "images": 18,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t016_c45d31a2",
+       "title": {
+        "ru": "Fig. 73: Disconnecting/Reconnecting Power Steering Hose Assembly To Power Steeri",
+        "en": "Fig. 73: Disconnecting/Reconnecting Power Steering Hose Assembly To Power Steeri"
+       },
+       "words": 404,
+       "images": 15,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t017_d1ffe9a0",
+       "title": {
+        "ru": "Fig. 79: View Of Power Steering Hose Assembly To Gear Retaining Bolt Courtesy of",
+        "en": "Fig. 79: View Of Power Steering Hose Assembly To Gear Retaining Bolt Courtesy of"
+       },
+       "words": 845,
+       "images": 22,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t018_74245851",
+       "title": {
+        "ru": "CAUTION: Refer to SIR Caution .",
+        "en": "CAUTION: Refer to SIR Caution ."
+       },
+       "words": 713,
+       "images": 5,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t019_bf7c4b16",
+       "title": {
+        "ru": "Fig. 6: Steering Column To Steering Gear Connection Courtesy of GENERAL MOTORS C",
+        "en": "Fig. 6: Steering Column To Steering Gear Connection Courtesy of GENERAL MOTORS C"
+       },
+       "words": 283,
+       "images": 21,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t020_8ea14d44",
+       "title": {
+        "ru": "Fig. 7: View Of Steering Column & Upper Intermediate Shaft Courtesy of GENERAL M",
+        "en": "Fig. 7: View Of Steering Column & Upper Intermediate Shaft Courtesy of GENERAL M"
+       },
+       "words": 702,
+       "images": 18,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t021_e85ed931",
+       "title": {
+        "ru": "Fig. 19: Inspecting Capsules On Steering Column Bracket Assembly Courtesy of GEN",
+        "en": "Fig. 19: Inspecting Capsules On Steering Column Bracket Assembly Courtesy of GEN"
+       },
+       "words": 586,
+       "images": 14,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t022_de0826d8",
+       "title": {
+        "ru": "Fig. 49: Depressing Lock Plate Using J 23653-SIR And J 42137 Courtesy of GENERAL",
+        "en": "Fig. 49: Depressing Lock Plate Using J 23653-SIR And J 42137 Courtesy of GENERAL"
+       },
+       "words": 534,
+       "images": 11,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t023_1cb4fe8b",
+       "title": {
+        "ru": "Fig. 55: View of Horn Contact Plate, Steering Wheel & Screws Courtesy of GENERAL",
+        "en": "Fig. 55: View of Horn Contact Plate, Steering Wheel & Screws Courtesy of GENERAL"
+       },
+       "words": 217,
+       "images": 11,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t024_91f7a129",
+       "title": {
+        "ru": "Fig. 59: Positioning A Blunt Ended Tool Into The Wire Harness Cavity Courtesy of",
+        "en": "Fig. 59: Positioning A Blunt Ended Tool Into The Wire Harness Cavity Courtesy of"
+       },
+       "words": 312,
+       "images": 7,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t025_b0757e69",
+       "title": {
+        "ru": "Fig. 79: View Of Upper Steering Column Components Courtesy of GENERAL MOTORS COR",
+        "en": "Fig. 79: View Of Upper Steering Column Components Courtesy of GENERAL MOTORS COR"
+       },
+       "words": 352,
+       "images": 13,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t026_dea42e25",
+       "title": {
+        "ru": "IMPORTANT: The steering wheel lock shoes teeth must be resting on the bar in the",
+        "en": "IMPORTANT: The steering wheel lock shoes teeth must be resting on the bar in the"
+       },
+       "words": 535,
+       "images": 13,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t027_1e7ec907",
+       "title": {
+        "ru": "Fig. 101: Removing/Installing Plastic Mounted Steering Column Bracket Courtesy o",
+        "en": "Fig. 101: Removing/Installing Plastic Mounted Steering Column Bracket Courtesy o"
+       },
+       "words": 305,
+       "images": 8,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t028_924b639f",
+       "title": {
+        "ru": "Fig. 108: View Of Steering Wheel Position Sensor And Steering Shaft Lower Bearin",
+        "en": "Fig. 108: View Of Steering Wheel Position Sensor And Steering Shaft Lower Bearin"
+       },
+       "words": 588,
+       "images": 13,
+       "section_id": "steering"
+      },
+      {
+       "id": "chevrolet_trailblazer_steering_t029_bdee67f1",
+       "title": {
+        "ru": "Driver Convenience",
+        "en": "Driver Convenience"
+       },
+       "words": 108,
+       "images": 2,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_lighting_t000_fa384a3a",
+       "title": {
+        "ru": "IMPORTANT: When using the valves and related components again, install the parts",
+        "en": "IMPORTANT: When using the valves and related components again, install the parts"
+       },
+       "words": 647,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_trailblazer_lighting_t001_3b09e7a4",
+       "title": {
+        "ru": "Fig. 531: View Of Tap Upper & Lower Marks, Fixture Plate & Bushing Courtesy of G",
+        "en": "Fig. 531: View Of Tap Upper & Lower Marks, Fixture Plate & Bushing Courtesy of G"
+       },
+       "words": 537,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_trailblazer_lighting_t002_cd7967e8",
+       "title": {
+        "ru": "Fig. 67: Moving/Repositioning Headlamp Wire Harness Courtesy of GENERAL MOTORS C",
+        "en": "Fig. 67: Moving/Repositioning Headlamp Wire Harness Courtesy of GENERAL MOTORS C"
+       },
+       "words": 788,
+       "images": 8,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_trailblazer_lighting_t003_99c99b60",
+       "title": {
+        "ru": "Fig. 207: Routing Wires To Apply Power For Controlled Bag Deployment (Left ) Cou",
+        "en": "Fig. 207: Routing Wires To Apply Power For Controlled Bag Deployment (Left ) Cou"
+       },
+       "words": 638,
+       "images": 4,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_trailblazer_lighting_t004_23ed427c",
+       "title": {
+        "ru": "Fig. 29: Positionng Small End Of Joint Seal Into Joint Seal Groove Courtesy of G",
+        "en": "Fig. 29: Positionng Small End Of Joint Seal Into Joint Seal Groove Courtesy of G"
+       },
+       "words": 515,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_trailblazer_lighting_t005_346a5a09",
+       "title": {
+        "ru": "Fig. 54: Large Retaining Clamp, Breaker Bar, Torque Wrench And Seal Clamp Tool C",
+        "en": "Fig. 54: Large Retaining Clamp, Breaker Bar, Torque Wrench And Seal Clamp Tool C"
+       },
+       "words": 968,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_trailblazer_lighting_t006_6a9d3315",
+       "title": {
+        "ru": "Fig. 154: Passenger Compartment (Long Wheel Base) (1 Of 2) Courtesy of GENERAL M",
+        "en": "Fig. 154: Passenger Compartment (Long Wheel Base) (1 Of 2) Courtesy of GENERAL M"
+       },
+       "words": 1116,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_trailblazer_lighting_t007_96d9b4ef",
+       "title": {
+        "ru": "Fig. 156: J 29763 Housing Installed In Differential Carrier Courtesy of GENERAL ",
+        "en": "Fig. 156: J 29763 Housing Installed In Differential Carrier Courtesy of GENERAL "
+       },
+       "words": 1051,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_trailblazer_lighting_t008_479db69d",
+       "title": {
+        "ru": "Fig. 8: View Of Stabilizer Shaft, Insulator, Insulator Clamp & Mounting Bolts Co",
+        "en": "Fig. 8: View Of Stabilizer Shaft, Insulator, Insulator Clamp & Mounting Bolts Co"
+       },
+       "words": 334,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_trailblazer_lighting_t009_c8aa6c6a",
+       "title": {
+        "ru": "Fig. 86: View Of Tie Rod End Clamp, Rack & Pinion Boot Courtesy of GENERAL MOTOR",
+        "en": "Fig. 86: View Of Tie Rod End Clamp, Rack & Pinion Boot Courtesy of GENERAL MOTOR"
+       },
+       "words": 439,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_trailblazer_lighting_t010_b012cbd4",
+       "title": {
+        "ru": "IMPORTANT: The electrical contact of the turn signal and multifunction switch as",
+        "en": "IMPORTANT: The electrical contact of the turn signal and multifunction switch as"
+       },
+       "words": 618,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chevrolet_trailblazer_lighting_t011_e0ef4980",
+       "title": {
+        "ru": "Fig. 51: Removing/Installing Turn Signal Switch Assembly Courtesy of GENERAL MOT",
+        "en": "Fig. 51: Removing/Installing Turn Signal Switch Assembly Courtesy of GENERAL MOT"
+       },
+       "words": 47,
+       "images": 8,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_interior_t000_d345d6e7",
+       "title": {
+        "ru": "Fig. 439: View Of Retaining Clip In Pin Bore Groove Courtesy of GENERAL MOTORS C",
+        "en": "Fig. 439: View Of Retaining Clip In Pin Bore Groove Courtesy of GENERAL MOTORS C"
+       },
+       "words": 192,
+       "images": 16,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t001_440cf73a",
+       "title": {
+        "ru": "Passenger Side Belt Status",
+        "en": "Passenger Side Belt Status"
+       },
+       "words": 1554,
+       "images": 17,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t002_018b81a0",
+       "title": {
+        "ru": "Conditions for Running the DTC",
+        "en": "Conditions for Running the DTC"
+       },
+       "words": 1118,
+       "images": 9,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t003_c9a9e82e",
+       "title": {
+        "ru": "Fig. 26: Removing/Installing Garnish Molding (Center Pillar) Courtesy of GENERAL",
+        "en": "Fig. 26: Removing/Installing Garnish Molding (Center Pillar) Courtesy of GENERAL"
+       },
+       "words": 418,
+       "images": 16,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t004_cd8f58b8",
+       "title": {
+        "ru": "Fig. 103: Removing/Installing 2 Lower Passenger Supplemental Inflatable Restrain",
+        "en": "Fig. 103: Removing/Installing 2 Lower Passenger Supplemental Inflatable Restrain"
+       },
+       "words": 301,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t005_1cba8b9a",
+       "title": {
+        "ru": "Fig. 119: View Of Lumbar Adjustment Mechanism & Retaining Screws Courtesy of GEN",
+        "en": "Fig. 119: View Of Lumbar Adjustment Mechanism & Retaining Screws Courtesy of GEN"
+       },
+       "words": 375,
+       "images": 13,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t006_7b505fda",
+       "title": {
+        "ru": "Fig. 134: Removing/Installing Seat Belt Retractor Bracket Bolt Courtesy of GENER",
+        "en": "Fig. 134: Removing/Installing Seat Belt Retractor Bracket Bolt Courtesy of GENER"
+       },
+       "words": 337,
+       "images": 14,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t007_c0310ae1",
+       "title": {
+        "ru": "Fig. 135: Removing/Installing Lower Seat Belt Retractor Retaining Bolt Courtesy ",
+        "en": "Fig. 135: Removing/Installing Lower Seat Belt Retractor Retaining Bolt Courtesy "
+       },
+       "words": 307,
+       "images": 12,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t008_9d94e6b6",
+       "title": {
+        "ru": "IMPORTANT: When deploying a seat belt pretensioner, the rapid expansion of gas i",
+        "en": "IMPORTANT: When deploying a seat belt pretensioner, the rapid expansion of gas i"
+       },
+       "words": 645,
+       "images": 12,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t009_dab54dfa",
+       "title": {
+        "ru": "Fig. 202: Fabricating 20 Ft. Deployment Harness Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 202: Fabricating 20 Ft. Deployment Harness Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 980,
+       "images": 10,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t010_1e0b7e50",
+       "title": {
+        "ru": "Fig. 22: Seating Retainer Using Hammer (External Snap Ring) Courtesy of GENERAL ",
+        "en": "Fig. 22: Seating Retainer Using Hammer (External Snap Ring) Courtesy of GENERAL "
+       },
+       "words": 761,
+       "images": 15,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t011_660b43c4",
+       "title": {
+        "ru": "Fig. 21: Front Seat Bracket, Mounting Bolt And Nuts Removed Courtesy of GENERAL ",
+        "en": "Fig. 21: Front Seat Bracket, Mounting Bolt And Nuts Removed Courtesy of GENERAL "
+       },
+       "words": 672,
+       "images": 14,
+       "section_id": "interior"
+      },
+      {
+       "id": "chevrolet_trailblazer_interior_t012_01406d26",
+       "title": {
+        "ru": "Fig. 44: View Of Pinion Shaft & Pinion Yoke Alignment Marks Courtesy of GENERAL ",
+        "en": "Fig. 44: View Of Pinion Shaft & Pinion Yoke Alignment Marks Courtesy of GENERAL "
+       },
+       "words": 261,
+       "images": 40,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_ev_t000_1af28703",
+       "title": {
+        "ru": "Fig. 111: Identifying Positive Crankcase Ventilation (PCV) Foul Air Hose Courtes",
+        "en": "Fig. 111: Identifying Positive Crankcase Ventilation (PCV) Foul Air Hose Courtes"
+       },
+       "words": 320,
+       "images": 13,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_trailblazer_ev_t001_7afe63ab",
+       "title": {
+        "ru": "Fig. 290: View Of ECT Sensor Electrical Connector And Ground Courtesy of GENERAL",
+        "en": "Fig. 290: View Of ECT Sensor Electrical Connector And Ground Courtesy of GENERAL"
+       },
+       "words": 460,
+       "images": 13,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_trailblazer_ev_t002_651812fa",
+       "title": {
+        "ru": "Fig. 192: Routing The Deployment Harness Out Of The Vehicle's Driver Side Courte",
+        "en": "Fig. 192: Routing The Deployment Harness Out Of The Vehicle's Driver Side Courte"
+       },
+       "words": 618,
+       "images": 12,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_trailblazer_ev_t003_7bc21662",
+       "title": {
+        "ru": "Fig. 21: Traction Control Switch Electrical Connector (Oldsmobile, Buick) Courte",
+        "en": "Fig. 21: Traction Control Switch Electrical Connector (Oldsmobile, Buick) Courte"
+       },
+       "words": 253,
+       "images": 13,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_trailblazer_ev_t004_da2f0f0e",
+       "title": {
+        "ru": "IMPORTANT: The table is accurate to 10 percent only after the battery has been a",
+        "en": "IMPORTANT: The table is accurate to 10 percent only after the battery has been a"
+       },
+       "words": 957,
+       "images": 24,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_trailblazer_ev_t005_d0b940e5",
+       "title": {
+        "ru": "IMPORTANT: The battery specification listed below is a generic specification. Re",
+        "en": "IMPORTANT: The battery specification listed below is a generic specification. Re"
+       },
+       "words": 1033,
+       "images": 7,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_trailblazer_ev_t006_f84dd485",
+       "title": {
+        "ru": "Fig. 20: View Of Positive Cable Lead At Junction Block Courtesy of GENERAL MOTOR",
+        "en": "Fig. 20: View Of Positive Cable Lead At Junction Block Courtesy of GENERAL MOTOR"
+       },
+       "words": 472,
+       "images": 17,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_trailblazer_ev_t007_9547d25d",
+       "title": {
+        "ru": "Fig. 31: View Of Positive Cable Lead, Nut & Cable Clip Courtesy of GENERAL MOTOR",
+        "en": "Fig. 31: View Of Positive Cable Lead, Nut & Cable Clip Courtesy of GENERAL MOTOR"
+       },
+       "words": 362,
+       "images": 14,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_trailblazer_ev_t008_f2518658",
+       "title": {
+        "ru": "Fig. 42: View Of Battery Hold Down Nut, Washer & Retainer Courtesy of GENERAL MO",
+        "en": "Fig. 42: View Of Battery Hold Down Nut, Washer & Retainer Courtesy of GENERAL MO"
+       },
+       "words": 203,
+       "images": 17,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_trailblazer_ev_t009_f18d1bf4",
+       "title": {
+        "ru": "Fig. 62: View Of Positive Cable Lead, Nut & Cable Clip Courtesy of GENERAL MOTOR",
+        "en": "Fig. 62: View Of Positive Cable Lead, Nut & Cable Clip Courtesy of GENERAL MOTOR"
+       },
+       "words": 192,
+       "images": 13,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_trailblazer_ev_t010_37fe6898",
+       "title": {
+        "ru": "Fig. 83: View Of Generator Electrical Connector Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 83: View Of Generator Electrical Connector Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 857,
+       "images": 14,
+       "section_id": "ev"
+      },
+      {
+       "id": "chevrolet_trailblazer_ev_t011_4ce9ed48",
+       "title": {
+        "ru": "Fig. 31: Fluid Level Sensor View Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 31: Fluid Level Sensor View Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 180,
+       "images": 15,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_chassis_t000_a405f982",
+       "title": {
+        "ru": "Fig. 2: Rear Frame and Underbody - Short Wheelbase (SWB) Courtesy of GENERAL MOT",
+        "en": "Fig. 2: Rear Frame and Underbody - Short Wheelbase (SWB) Courtesy of GENERAL MOT"
+       },
+       "words": 468,
+       "images": 14,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_trailblazer_chassis_t001_4b0b95e6",
+       "title": {
+        "ru": "IMPORTANT: The new speed sensor has new mounting clips already installed on the ",
+        "en": "IMPORTANT: The new speed sensor has new mounting clips already installed on the "
+       },
+       "words": 393,
+       "images": 10,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_trailblazer_chassis_t002_c0bb5617",
+       "title": {
+        "ru": "Fig. 24: View Of Tire/Wheel Assembly, Hub Assembly & Wheel Nuts Courtesy of GENE",
+        "en": "Fig. 24: View Of Tire/Wheel Assembly, Hub Assembly & Wheel Nuts Courtesy of GENE"
+       },
+       "words": 1589,
+       "images": 12,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_trailblazer_chassis_t003_25fc363a",
+       "title": {
+        "ru": "Fig. 30: Right Rear Of Vehicle Chassis (Long Wheelbase, Except XUV) Courtesy of ",
+        "en": "Fig. 30: Right Rear Of Vehicle Chassis (Long Wheelbase, Except XUV) Courtesy of "
+       },
+       "words": 658,
+       "images": 18,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_trailblazer_chassis_t004_01c7f055",
+       "title": {
+        "ru": "Fig. 11: View Of Front Wheelhouse Panel Bolt & Shock Tower Bolt Courtesy of GENE",
+        "en": "Fig. 11: View Of Front Wheelhouse Panel Bolt & Shock Tower Bolt Courtesy of GENE"
+       },
+       "words": 936,
+       "images": 26,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_trailblazer_chassis_t005_b6fd853e",
+       "title": {
+        "ru": "Fig. 39: Bushing, Bearing Remover And Slide Hammer Into Outboard, Wheel Drive Sh",
+        "en": "Fig. 39: Bushing, Bearing Remover And Slide Hammer Into Outboard, Wheel Drive Sh"
+       },
+       "words": 507,
+       "images": 14,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_trailblazer_chassis_t006_6c3389c7",
+       "title": {
+        "ru": "Fig. 41: View Of Upper Control Arm To The Steering Knuckle Pinch Bolt And Nut Co",
+        "en": "Fig. 41: View Of Upper Control Arm To The Steering Knuckle Pinch Bolt And Nut Co"
+       },
+       "words": 543,
+       "images": 16,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_trailblazer_chassis_t007_176de665",
+       "title": {
+        "ru": "Fig. 76: Disengaging Wheel Drive Shaft From Wheel Hub & Bearing Courtesy of GENE",
+        "en": "Fig. 76: Disengaging Wheel Drive Shaft From Wheel Hub & Bearing Courtesy of GENE"
+       },
+       "words": 475,
+       "images": 20,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_trailblazer_chassis_t008_987690c6",
+       "title": {
+        "ru": "Fig. 79: Wheel Hub, Bearing, Splash Shield & Steering Knuckle (4WD) Courtesy of ",
+        "en": "Fig. 79: Wheel Hub, Bearing, Splash Shield & Steering Knuckle (4WD) Courtesy of "
+       },
+       "words": 431,
+       "images": 17,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_trailblazer_chassis_t009_168a90cb",
+       "title": {
+        "ru": "Fig. 54: View Of Full Master Cylinder Reservoir MAX And MIN Marks Courtesy of GE",
+        "en": "Fig. 54: View Of Full Master Cylinder Reservoir MAX And MIN Marks Courtesy of GE"
+       },
+       "words": 725,
+       "images": 20,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_trailblazer_chassis_t010_05c55961",
+       "title": {
+        "ru": "IMPORTANT: If the vehicle is equipped with an air suspension the system will nee",
+        "en": "IMPORTANT: If the vehicle is equipped with an air suspension the system will nee"
+       },
+       "words": 726,
+       "images": 15,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chevrolet_trailblazer_chassis_t011_7fec5871",
+       "title": {
+        "ru": "Fig. 22: View Of Stabilizer Shaft Links & Stabilizer Shaft Courtesy of GENERAL M",
+        "en": "Fig. 22: View Of Stabilizer Shaft Links & Stabilizer Shaft Courtesy of GENERAL M"
+       },
+       "words": 190,
+       "images": 5,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_general_t000_1da333e9",
+       "title": {
+        "ru": "DISPLACEMENT ON DEMAND (DOD) SYSTEM COMPRESSION TEST",
+        "en": "DISPLACEMENT ON DEMAND (DOD) SYSTEM COMPRESSION TEST"
+       },
+       "words": 515,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t001_3bbde2e9",
+       "title": {
+        "ru": "Fig. 20: Displacement-on-Demand Tester Air Adapter Courtesy of GENERAL MOTORS CO",
+        "en": "Fig. 20: Displacement-on-Demand Tester Air Adapter Courtesy of GENERAL MOTORS CO"
+       },
+       "words": 843,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t002_0bfe83d9",
+       "title": {
+        "ru": "Drive Belt Vibration Diagnosis",
+        "en": "Drive Belt Vibration Diagnosis"
+       },
+       "words": 889,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t003_8b587d3f",
+       "title": {
+        "ru": "Fig. 26: View Of Accessory Drive Belt & Pulley Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 26: View Of Accessory Drive Belt & Pulley Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 302,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t004_f2886de5",
+       "title": {
+        "ru": "Fig. 31: View Of Accessory Drive Belt Idler Pulley Courtesy of GENERAL MOTORS CO",
+        "en": "Fig. 31: View Of Accessory Drive Belt Idler Pulley Courtesy of GENERAL MOTORS CO"
+       },
+       "words": 225,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t005_b5600a5a",
+       "title": {
+        "ru": "Fig. 102: View Of Intake Manifold Gasket Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 102: View Of Intake Manifold Gasket Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 159,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t006_dac86f90",
+       "title": {
+        "ru": "IMPORTANT: Do not allow dirt or debris to enter the oil passages of the manifold",
+        "en": "IMPORTANT: Do not allow dirt or debris to enter the oil passages of the manifold"
+       },
+       "words": 214,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t007_014991da",
+       "title": {
+        "ru": "Fig. 123: Identifying Ignition Coils Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 123: Identifying Ignition Coils Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 239,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t008_1e8c938d",
+       "title": {
+        "ru": "Fig. 135: View Of Valve Rocker Arm Cover & Bolts (Right) Courtesy of GENERAL MOT",
+        "en": "Fig. 135: View Of Valve Rocker Arm Cover & Bolts (Right) Courtesy of GENERAL MOT"
+       },
+       "words": 303,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t009_fce7dff8",
+       "title": {
+        "ru": "Fig. 145: View Of Valve Rocker Arm Pivot Support Courtesy of GENERAL MOTORS CORP",
+        "en": "Fig. 145: View Of Valve Rocker Arm Pivot Support Courtesy of GENERAL MOTORS CORP"
+       },
+       "words": 67,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t010_ea770937",
+       "title": {
+        "ru": "Fig. 189: View Of Oil Pan-To-Rear Cover Bolts Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 189: View Of Oil Pan-To-Rear Cover Bolts Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 98,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t011_f4140e08",
+       "title": {
+        "ru": "Fig. 192: View Of Oil Filter Adapter & Bypass Valve Courtesy of GENERAL MOTORS C",
+        "en": "Fig. 192: View Of Oil Filter Adapter & Bypass Valve Courtesy of GENERAL MOTORS C"
+       },
+       "words": 100,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t012_ff7b5456",
+       "title": {
+        "ru": "Fig. 206: Drilling Oil Pan Gasket Retaining Rivets Courtesy of GENERAL MOTORS CO",
+        "en": "Fig. 206: Drilling Oil Pan Gasket Retaining Rivets Courtesy of GENERAL MOTORS CO"
+       },
+       "words": 230,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t013_7d3f03fa",
+       "title": {
+        "ru": "Fig. 261: View Of Generator Bracket & Bolts Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 261: View Of Generator Bracket & Bolts Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 420,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t014_2ea871d7",
+       "title": {
+        "ru": "Fig. 285: View Of Generator Cable & Nut Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 285: View Of Generator Cable & Nut Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 259,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t015_a3f20c9c",
+       "title": {
+        "ru": "IMPORTANT: Inspect the O-ring for cuts or damage. The O-ring seal may be used ag",
+        "en": "IMPORTANT: Inspect the O-ring for cuts or damage. The O-ring seal may be used ag"
+       },
+       "words": 239,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t016_313c5f9a",
+       "title": {
+        "ru": "IMPORTANT: Do not allow dirt or debris to enter the oil passages of the manifold",
+        "en": "IMPORTANT: Do not allow dirt or debris to enter the oil passages of the manifold"
+       },
+       "words": 102,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t017_26127ea7",
+       "title": {
+        "ru": "Fig. 337: View Of Valve Rocker Arm Cover & Bolts (Right) Courtesy of GENERAL MOT",
+        "en": "Fig. 337: View Of Valve Rocker Arm Cover & Bolts (Right) Courtesy of GENERAL MOT"
+       },
+       "words": 224,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t018_ea6a1d04",
+       "title": {
+        "ru": "Fig. 348: Exploded View Of Lifter Guides & Lifters Courtesy of GENERAL MOTORS CO",
+        "en": "Fig. 348: Exploded View Of Lifter Guides & Lifters Courtesy of GENERAL MOTORS CO"
+       },
+       "words": 244,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t019_cfff7c1b",
+       "title": {
+        "ru": "IMPORTANT: The reluctor ring teeth should not have imperfections on the rising o",
+        "en": "IMPORTANT: The reluctor ring teeth should not have imperfections on the rising o"
+       },
+       "words": 117,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t020_d95ea040",
+       "title": {
+        "ru": "IMPORTANT: Do not attempt to repair the welded areas that retain the ring gear t",
+        "en": "IMPORTANT: Do not attempt to repair the welded areas that retain the ring gear t"
+       },
+       "words": 298,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t021_05cf8b3a",
+       "title": {
+        "ru": "Fig. 423: Cleaning The Piston Ring Grooves With Suitable Ring Groove Cleaning To",
+        "en": "Fig. 423: Cleaning The Piston Ring Grooves With Suitable Ring Groove Cleaning To"
+       },
+       "words": 408,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t022_14b99a61",
+       "title": {
+        "ru": "Fig. 436: Identifying Connecting Rod Bearing Scoring Or Discoloration Courtesy o",
+        "en": "Fig. 436: Identifying Connecting Rod Bearing Scoring Or Discoloration Courtesy o"
+       },
+       "words": 434,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t023_b73904ef",
+       "title": {
+        "ru": "Fig. 476: Inspecting Valve Face For Burning, Pitting & Cracking Courtesy of GENE",
+        "en": "Fig. 476: Inspecting Valve Face For Burning, Pitting & Cracking Courtesy of GENE"
+       },
+       "words": 333,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t024_172665b0",
+       "title": {
+        "ru": "Fig. 498: View Of Oil Baffle & Bolts Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 498: View Of Oil Baffle & Bolts Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 406,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t025_54855cff",
+       "title": {
+        "ru": "Fig. 514: Applying Threadlock To Insert Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 514: Applying Threadlock To Insert Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 486,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t026_88ee4677",
+       "title": {
+        "ru": "Fig. 523: View Of Tap Upper & Lower Marks, Fixture Plate & Bushing Courtesy of G",
+        "en": "Fig. 523: View Of Tap Upper & Lower Marks, Fixture Plate & Bushing Courtesy of G"
+       },
+       "words": 392,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t027_ffcd9538",
+       "title": {
+        "ru": "Fig. 555: Installing Piston & Connecting Rod Assembly Courtesy of GENERAL MOTORS",
+        "en": "Fig. 555: Installing Piston & Connecting Rod Assembly Courtesy of GENERAL MOTORS"
+       },
+       "words": 391,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t028_29f41c29",
+       "title": {
+        "ru": "IMPORTANT: Align the tapered legs of the tool with the machined",
+        "en": "IMPORTANT: Align the tapered legs of the tool with the machined"
+       },
+       "words": 220,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t029_22707164",
+       "title": {
+        "ru": "Fig. 617: View Of Bracket, Bolts, Coils & Wire Harness Courtesy of GENERAL MOTOR",
+        "en": "Fig. 617: View Of Bracket, Bolts, Coils & Wire Harness Courtesy of GENERAL MOTOR"
+       },
+       "words": 323,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t030_7082e09c",
+       "title": {
+        "ru": "Fig. 627: View Of Valve Lifter Oil Manifold Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 627: View Of Valve Lifter Oil Manifold Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 166,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t031_10731cbb",
+       "title": {
+        "ru": "Fig. 643: Exhaust Manifold Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 643: Exhaust Manifold Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 329,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t032_89cf6022",
+       "title": {
+        "ru": "NOTE: Refer to Sealant Notice in Cautions and Notices.",
+        "en": "NOTE: Refer to Sealant Notice in Cautions and Notices."
+       },
+       "words": 545,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t033_31c53de3",
+       "title": {
+        "ru": "Fastener Tightening Specifications",
+        "en": "Fastener Tightening Specifications"
+       },
+       "words": 193,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t034_d13d5ad0",
+       "title": {
+        "ru": "Fig. 6: Identifying Inflatable Restraint I/P Module Courtesy of GENERAL MOTORS C",
+        "en": "Fig. 6: Identifying Inflatable Restraint I/P Module Courtesy of GENERAL MOTORS C"
+       },
+       "words": 319,
+       "images": 30,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t035_7ae99fd6",
+       "title": {
+        "ru": "Conditions for Clearing the DTC",
+        "en": "Conditions for Clearing the DTC"
+       },
+       "words": 962,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t036_18e1ad19",
+       "title": {
+        "ru": "Conditions for Clearing the DTC",
+        "en": "Conditions for Clearing the DTC"
+       },
+       "words": 1001,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t037_e2758b79",
+       "title": {
+        "ru": "Conditions for Clearing the DTC",
+        "en": "Conditions for Clearing the DTC"
+       },
+       "words": 648,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t038_6bd288f6",
+       "title": {
+        "ru": "Conditions for Clearing the DTC",
+        "en": "Conditions for Clearing the DTC"
+       },
+       "words": 460,
+       "images": 40,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t039_b47541c7",
+       "title": {
+        "ru": "Conditions for Clearing the DTC",
+        "en": "Conditions for Clearing the DTC"
+       },
+       "words": 995,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t040_cf6d2148",
+       "title": {
+        "ru": "IMPORTANT: DTC B0092 or DTC B0098 will set if the PPS has a malfunction, and has",
+        "en": "IMPORTANT: DTC B0092 or DTC B0098 will set if the PPS has a malfunction, and has"
+       },
+       "words": 601,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t041_200beb38",
+       "title": {
+        "ru": "Conditions for Clearing the DTC",
+        "en": "Conditions for Clearing the DTC"
+       },
+       "words": 749,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t042_76750ca6",
+       "title": {
+        "ru": "Fig. 35: Locating IP Module 4-Way Yellow Connector Behind IP Support Courtesy of",
+        "en": "Fig. 35: Locating IP Module 4-Way Yellow Connector Behind IP Support Courtesy of"
+       },
+       "words": 657,
+       "images": 24,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t043_57d4635a",
+       "title": {
+        "ru": "Fig. 36: Locating IP Module 4-Way Yellow Connector Behind IP Support Courtesy of",
+        "en": "Fig. 36: Locating IP Module 4-Way Yellow Connector Behind IP Support Courtesy of"
+       },
+       "words": 149,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t044_d5c79c76",
+       "title": {
+        "ru": "Fig. 81: Removing/Installing SDM Retaining Nuts Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 81: Removing/Installing SDM Retaining Nuts Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 198,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t045_4170f336",
+       "title": {
+        "ru": "Fig. 99: Removing/Installing Side Retaining Nuts At PSIR Inflator Module Courtes",
+        "en": "Fig. 99: Removing/Installing Side Retaining Nuts At PSIR Inflator Module Courtes"
+       },
+       "words": 156,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t046_42bc292f",
+       "title": {
+        "ru": "Fig. 145: View Of Proper Handling Of Undeployed Inflator Module Courtesy of GENE",
+        "en": "Fig. 145: View Of Proper Handling Of Undeployed Inflator Module Courtesy of GENE"
+       },
+       "words": 941,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t047_b2b27057",
+       "title": {
+        "ru": "Fig. 166: Routing The Deployment Harness Out Of The Vehicle's Driver Side Courte",
+        "en": "Fig. 166: Routing The Deployment Harness Out Of The Vehicle's Driver Side Courte"
+       },
+       "words": 698,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t048_f8364e17",
+       "title": {
+        "ru": "Fig. 177: Twisting Connector Wire Leads (High Circuits) To Deployment Harness Wi",
+        "en": "Fig. 177: Twisting Connector Wire Leads (High Circuits) To Deployment Harness Wi"
+       },
+       "words": 340,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t049_682f4405",
+       "title": {
+        "ru": "Fig. 187: View Of Proper Twisting Of Connector Wire Lead To Deployment Wire Cour",
+        "en": "Fig. 187: View Of Proper Twisting Of Connector Wire Lead To Deployment Wire Cour"
+       },
+       "words": 382,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t050_51bd2985",
+       "title": {
+        "ru": "Fastener Tightening Specifications",
+        "en": "Fastener Tightening Specifications"
+       },
+       "words": 447,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t051_41867f58",
+       "title": {
+        "ru": "DTC C0186 Lateral Accelerometer Circuit",
+        "en": "DTC C0186 Lateral Accelerometer Circuit"
+       },
+       "words": 269,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t052_fd4bd259",
+       "title": {
+        "ru": "Conditions for Running the DTC",
+        "en": "Conditions for Running the DTC"
+       },
+       "words": 307,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t053_592f4dc6",
+       "title": {
+        "ru": "Action Taken When the DTC Sets",
+        "en": "Action Taken When the DTC Sets"
+       },
+       "words": 403,
+       "images": 33,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t054_c72add8a",
+       "title": {
+        "ru": "• Use the two-person bleed procedure under the following",
+        "en": "• Use the two-person bleed procedure under the following"
+       },
+       "words": 172,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t055_0790291e",
+       "title": {
+        "ru": "Fig. 23: Removing/Installing Traction Control Switch Retaining Ring (Oldsmobile,",
+        "en": "Fig. 23: Removing/Installing Traction Control Switch Retaining Ring (Oldsmobile,"
+       },
+       "words": 127,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t056_6c058717",
+       "title": {
+        "ru": "Fig. 28: View Of Spider Assembly, Rings & Tripot Boot Courtesy of GENERAL MOTORS",
+        "en": "Fig. 28: View Of Spider Assembly, Rings & Tripot Boot Courtesy of GENERAL MOTORS"
+       },
+       "words": 196,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t057_77168e35",
+       "title": {
+        "ru": "Fig. 42: Taping Gently On Brass Drift With A Hammer In Order To Tilt Cage Courte",
+        "en": "Fig. 42: Taping Gently On Brass Drift With A Hammer In Order To Tilt Cage Courte"
+       },
+       "words": 374,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t058_74573d11",
+       "title": {
+        "ru": "Fig. 47: Taping Gently On Brass Drift With A Hammer In Order To Tilt Cage Courte",
+        "en": "Fig. 47: Taping Gently On Brass Drift With A Hammer In Order To Tilt Cage Courte"
+       },
+       "words": 206,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t059_2266833f",
+       "title": {
+        "ru": "IMPORTANT: If the original pinion gears and thrust washers are being reused, ins",
+        "en": "IMPORTANT: If the original pinion gears and thrust washers are being reused, ins"
+       },
+       "words": 706,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t060_d5300b0e",
+       "title": {
+        "ru": "Fig. 13: Lower Mounting Bolt Removed From Guide Pin Courtesy of GENERAL MOTORS C",
+        "en": "Fig. 13: Lower Mounting Bolt Removed From Guide Pin Courtesy of GENERAL MOTORS C"
+       },
+       "words": 32,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t061_9ca2e7d2",
+       "title": {
+        "ru": "Fig. 124: View Of Backing Plate & Nuts - Rear Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 124: View Of Backing Plate & Nuts - Rear Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 68,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t062_73bbb021",
+       "title": {
+        "ru": "Fig. 2: One-Piece Propeller Shaft Component View Courtesy of GENERAL MOTORS CORP",
+        "en": "Fig. 2: One-Piece Propeller Shaft Component View Courtesy of GENERAL MOTORS CORP"
+       },
+       "words": 270,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t063_04552221",
+       "title": {
+        "ru": "Fig. 3: Propeller Shaft To Front Axle Pinion Yoke Reference Mark Courtesy of GEN",
+        "en": "Fig. 3: Propeller Shaft To Front Axle Pinion Yoke Reference Mark Courtesy of GEN"
+       },
+       "words": 224,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t064_2cd07b95",
+       "title": {
+        "ru": "IMPORTANT: If there seems to be a hang up or binding, stop pressing, and inspect",
+        "en": "IMPORTANT: If there seems to be a hang up or binding, stop pressing, and inspect"
+       },
+       "words": 440,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t065_a2c8bf56",
+       "title": {
+        "ru": "IMPORTANT: If there seems to be a hang up or binding, stop pressing. Inspect the",
+        "en": "IMPORTANT: If there seems to be a hang up or binding, stop pressing. Inspect the"
+       },
+       "words": 526,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t066_58ec7b7c",
+       "title": {
+        "ru": "Universal Joint Description",
+        "en": "Universal Joint Description"
+       },
+       "words": 161,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t067_f4aff1fc",
+       "title": {
+        "ru": "Fig. 60: Inflatable Restraints System Components Courtesy of GENERAL MOTORS CORP",
+        "en": "Fig. 60: Inflatable Restraints System Components Courtesy of GENERAL MOTORS CORP"
+       },
+       "words": 429,
+       "images": 43,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t068_9b75b4c1",
+       "title": {
+        "ru": "Conditions for Clearing the DTC",
+        "en": "Conditions for Clearing the DTC"
+       },
+       "words": 175,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t069_9e6caede",
+       "title": {
+        "ru": "Conditions for Clearing the DTC",
+        "en": "Conditions for Clearing the DTC"
+       },
+       "words": 575,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t070_f611c50d",
+       "title": {
+        "ru": "IMPORTANT: The following steps must be completed before using the symptom tables",
+        "en": "IMPORTANT: The following steps must be completed before using the symptom tables"
+       },
+       "words": 594,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t071_ce26e0ed",
+       "title": {
+        "ru": "Fig. 14: View Of Generator Cable Boot, Head, Nut & Bolt Courtesy of GENERAL MOTO",
+        "en": "Fig. 14: View Of Generator Cable Boot, Head, Nut & Bolt Courtesy of GENERAL MOTO"
+       },
+       "words": 135,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t072_994c622a",
+       "title": {
+        "ru": "Fig. 70: View Of Generator Bracket & Bolts (4.8L, 5.3L & 6.0L) Courtesy of GENER",
+        "en": "Fig. 70: View Of Generator Bracket & Bolts (4.8L, 5.3L & 6.0L) Courtesy of GENER"
+       },
+       "words": 197,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t073_539301d5",
+       "title": {
+        "ru": "Fig. 82: View Of Generator Cable Boot, Head, Nut & Bolt Courtesy of GENERAL MOTO",
+        "en": "Fig. 82: View Of Generator Cable Boot, Head, Nut & Bolt Courtesy of GENERAL MOTO"
+       },
+       "words": 302,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t074_664f872d",
+       "title": {
+        "ru": "Fig. 3: Identifying Minor Wear Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 3: Identifying Minor Wear Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 277,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t075_56d78eb4",
+       "title": {
+        "ru": "Fig. 8: Identifying Double Edge Pitting Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 8: Identifying Double Edge Pitting Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 263,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t076_360818a3",
+       "title": {
+        "ru": "Fig. 12: Identifying Abrasive Roller Wear Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 12: Identifying Abrasive Roller Wear Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 217,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t077_f690b4f2",
+       "title": {
+        "ru": "Fig. 25: Inspecting Bearing Rollers & Races For Pitting, Grooves, Spalling & Exc",
+        "en": "Fig. 25: Inspecting Bearing Rollers & Races For Pitting, Grooves, Spalling & Exc"
+       },
+       "words": 328,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t078_5b0255bd",
+       "title": {
+        "ru": "Fig. 34: Actuator And Actuator Bolts Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 34: Actuator And Actuator Bolts Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 192,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t079_58515299",
+       "title": {
+        "ru": "Fig. 48: View Of Pinion Shaft & Pinion Yoke Alignment Marks Courtesy of GENERAL ",
+        "en": "Fig. 48: View Of Pinion Shaft & Pinion Yoke Alignment Marks Courtesy of GENERAL "
+       },
+       "words": 307,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t080_965b671f",
+       "title": {
+        "ru": "IMPORTANT: Carefully remove the seal from the bore. Do not distort or scratch th",
+        "en": "IMPORTANT: Carefully remove the seal from the bore. Do not distort or scratch th"
+       },
+       "words": 265,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t081_fc42767a",
+       "title": {
+        "ru": "Fig. 112: Removing Inner Bearing From Outer Intermediate Shaft Bearing Case Half",
+        "en": "Fig. 112: Removing Inner Bearing From Outer Intermediate Shaft Bearing Case Half"
+       },
+       "words": 195,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t082_5a9c943a",
+       "title": {
+        "ru": "Fig. 137: Removing Inner Pinion Bearing Using Hydraulic Press Courtesy of GENERA",
+        "en": "Fig. 137: Removing Inner Pinion Bearing Using Hydraulic Press Courtesy of GENERA"
+       },
+       "words": 243,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t083_93786da0",
+       "title": {
+        "ru": "Fig. 158: Installing Inner Pinion Bearing Onto Pinion Gear Courtesy of GENERAL M",
+        "en": "Fig. 158: Installing Inner Pinion Bearing Onto Pinion Gear Courtesy of GENERAL M"
+       },
+       "words": 738,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t084_05712aef",
+       "title": {
+        "ru": "Fig. 189: Installing Thrust Washer Into Outer Intermediate Shaft Bearing Case Ha",
+        "en": "Fig. 189: Installing Thrust Washer Into Outer Intermediate Shaft Bearing Case Ha"
+       },
+       "words": 665,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t085_95c14037",
+       "title": {
+        "ru": "Fig. 193: Packing Cavity Of Inner Intermediate Shaft Bearing Housing With Grease",
+        "en": "Fig. 193: Packing Cavity Of Inner Intermediate Shaft Bearing Housing With Grease"
+       },
+       "words": 529,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t086_4738b247",
+       "title": {
+        "ru": "Fig. 198: Identifying Drive Side Heel - Coast Side Toe Contact Pattern Courtesy ",
+        "en": "Fig. 198: Identifying Drive Side Heel - Coast Side Toe Contact Pattern Courtesy "
+       },
+       "words": 216,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t087_38a00bdd",
+       "title": {
+        "ru": "Fig. 3: Removing/Installing Stabilizer Shaft Link-To-Stabilizer Shaft Retaining ",
+        "en": "Fig. 3: Removing/Installing Stabilizer Shaft Link-To-Stabilizer Shaft Retaining "
+       },
+       "words": 235,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t088_db9af14b",
+       "title": {
+        "ru": "Fig. 6: Removing/Installing Stabilizer Shaft Link-To-Stabilizer Shaft Retaining ",
+        "en": "Fig. 6: Removing/Installing Stabilizer Shaft Link-To-Stabilizer Shaft Retaining "
+       },
+       "words": 94,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t089_4d366cb4",
+       "title": {
+        "ru": "Fig. 52: Removing/Installing Shock Module Yoke Lower Mounting Nut Courtesy of GE",
+        "en": "Fig. 52: Removing/Installing Shock Module Yoke Lower Mounting Nut Courtesy of GE"
+       },
+       "words": 65,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t090_c8828b59",
+       "title": {
+        "ru": "Fastener Tightening Specifications",
+        "en": "Fastener Tightening Specifications"
+       },
+       "words": 45,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t091_f5a36741",
+       "title": {
+        "ru": "NOTE: Refer to Fastener Notice in Cautions and Notices.",
+        "en": "NOTE: Refer to Fastener Notice in Cautions and Notices."
+       },
+       "words": 119,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t092_5feee455",
+       "title": {
+        "ru": "Fig. 66: Vacuum Booster Mounting Nuts, Gasket And Booster Assembly Courtesy of G",
+        "en": "Fig. 66: Vacuum Booster Mounting Nuts, Gasket And Booster Assembly Courtesy of G"
+       },
+       "words": 71,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t093_39639809",
+       "title": {
+        "ru": "Fig. 49: View Of Rear Axle Assembly Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 49: View Of Rear Axle Assembly Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 87,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t094_762115a9",
+       "title": {
+        "ru": "IMPORTANT: Fluid must be free from bubbles and foam. Be aware of periodic bubble",
+        "en": "IMPORTANT: Fluid must be free from bubbles and foam. Be aware of periodic bubble"
+       },
+       "words": 154,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t095_d9382781",
+       "title": {
+        "ru": "NOTE: Refer to Fastener Notice in Cautions and Notices.",
+        "en": "NOTE: Refer to Fastener Notice in Cautions and Notices."
+       },
+       "words": 38,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t096_7620577a",
+       "title": {
+        "ru": "Fig. 87: Inner Tie Rod, Rack And Pinion Gear & Rack And Pinion Boot Courtesy of ",
+        "en": "Fig. 87: Inner Tie Rod, Rack And Pinion Gear & Rack And Pinion Boot Courtesy of "
+       },
+       "words": 254,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t097_9f0f927a",
+       "title": {
+        "ru": "Fig. 94: View of Shock Dampener, Female/Male Inner Tie Rod and Inner Tie Rod Hou",
+        "en": "Fig. 94: View of Shock Dampener, Female/Male Inner Tie Rod and Inner Tie Rod Hou"
+       },
+       "words": 413,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t098_29c7247a",
+       "title": {
+        "ru": "IMPORTANT: If female rack (1) and male inner tie rod (2) do not stake. If male r",
+        "en": "IMPORTANT: If female rack (1) and male inner tie rod (2) do not stake. If male r"
+       },
+       "words": 391,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t099_59dd62b2",
+       "title": {
+        "ru": "IMPORTANT: If female rack (1) and male inner tie rod (2) do not stake. If male r",
+        "en": "IMPORTANT: If female rack (1) and male inner tie rod (2) do not stake. If male r"
+       },
+       "words": 272,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t100_e22bf6e2",
+       "title": {
+        "ru": "Axle Preload and Backlash Specifications",
+        "en": "Axle Preload and Backlash Specifications"
+       },
+       "words": 171,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t101_a4a5a8da",
+       "title": {
+        "ru": "Fig. 6: Identifying Single Edge Pitting Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 6: Identifying Single Edge Pitting Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 157,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t102_b0571df6",
+       "title": {
+        "ru": "Fig. 11: Removing Rear Axle Fill Plug (9.5, 10.5 Inch Axle) Courtesy of GENERAL ",
+        "en": "Fig. 11: Removing Rear Axle Fill Plug (9.5, 10.5 Inch Axle) Courtesy of GENERAL "
+       },
+       "words": 421,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t103_361f51ef",
+       "title": {
+        "ru": "Fig. 17: Identifyng Rear Axle Housing Cover & Bolts Courtesy of GENERAL MOTORS C",
+        "en": "Fig. 17: Identifyng Rear Axle Housing Cover & Bolts Courtesy of GENERAL MOTORS C"
+       },
+       "words": 284,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t104_c2b6fdc6",
+       "title": {
+        "ru": "Fig. 31: Driving J 21128 Or J 29713 Into The Bore Until The Axle Shaft Seal Bott",
+        "en": "Fig. 31: Driving J 21128 Or J 29713 Into The Bore Until The Axle Shaft Seal Bott"
+       },
+       "words": 505,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t105_22912c04",
+       "title": {
+        "ru": "Fig. 47: Removing Inner Pinion Bearing Using Hydraulic Press Courtesy of GENERAL",
+        "en": "Fig. 47: Removing Inner Pinion Bearing Using Hydraulic Press Courtesy of GENERAL"
+       },
+       "words": 518,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t106_a9fbb35f",
+       "title": {
+        "ru": "Fig. 51: Install The Outer Pinion Bearing Cup Using J 8611-01, J 7818 Or J 8608 ",
+        "en": "Fig. 51: Install The Outer Pinion Bearing Cup Using J 8611-01, J 7818 Or J 8608 "
+       },
+       "words": 588,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t107_a22a8951",
+       "title": {
+        "ru": "Fig. 62: Installing J 45222 Onto Axle Housing Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 62: Installing J 45222 Onto Axle Housing Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 648,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t108_11dd4885",
+       "title": {
+        "ru": "IMPORTANT: Over-tightening may spread the housing and result in incorrect shim s",
+        "en": "IMPORTANT: Over-tightening may spread the housing and result in incorrect shim s"
+       },
+       "words": 870,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t109_158c9eef",
+       "title": {
+        "ru": "Fig. 83: Identifying Drive Side Heel - Coast Side Toe Contact Pattern Courtesy o",
+        "en": "Fig. 83: Identifying Drive Side Heel - Coast Side Toe Contact Pattern Courtesy o"
+       },
+       "words": 439,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t110_40390e56",
+       "title": {
+        "ru": "Fig. 17: Removing/Installing Rear Axle Brace Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 17: Removing/Installing Rear Axle Brace Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 147,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t111_17cafa7d",
+       "title": {
+        "ru": "Fig. 19: View Of Stabilizer Shaft Links & Stabilizer Shaft Courtesy of GENERAL M",
+        "en": "Fig. 19: View Of Stabilizer Shaft Links & Stabilizer Shaft Courtesy of GENERAL M"
+       },
+       "words": 118,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t112_b41c63c6",
+       "title": {
+        "ru": "Fig. 37: Installing Lug Nut Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 37: Installing Lug Nut Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 188,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t113_69b07a3f",
+       "title": {
+        "ru": "Fastener Tightening Specifications",
+        "en": "Fastener Tightening Specifications"
+       },
+       "words": 156,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t114_0bcc0781",
+       "title": {
+        "ru": "If there was not any damage done to the trim covers during the removal procedure",
+        "en": "If there was not any damage done to the trim covers during the removal procedure"
+       },
+       "words": 122,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t115_42f092a3",
+       "title": {
+        "ru": "NOTE: Refer to Fastener Notice in Cautions and Notices.",
+        "en": "NOTE: Refer to Fastener Notice in Cautions and Notices."
+       },
+       "words": 121,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t116_c79d8248",
+       "title": {
+        "ru": "CAUTION: Refer to Servicing the SIR System Caution in Cautions",
+        "en": "CAUTION: Refer to Servicing the SIR System Caution in Cautions"
+       },
+       "words": 43,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t117_2b356904",
+       "title": {
+        "ru": "CAUTION: Refer to SIR Inflator Module Coil Caution in Cautions and Notices.",
+        "en": "CAUTION: Refer to SIR Inflator Module Coil Caution in Cautions and Notices."
+       },
+       "words": 127,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "chevrolet_trailblazer_general_t118_29d3d1da",
+       "title": {
+        "ru": "Fig. 13: 4.2L VIN S, Cruise Control Circuit",
+        "en": "Fig. 13: 4.2L VIN S, Cruise Control Circuit"
+       },
+       "words": 472,
+       "images": 77,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_sensors_t000_28916357",
+       "title": {
+        "ru": "DoD Off) or Lubrication Description (Main Pressure Above 55 psi - DoD Off) or Lu",
+        "en": "DoD Off) or Lubrication Description (Main Pressure Above 55 psi - DoD Off) or Lu"
+       },
+       "words": 379,
+       "images": 13,
+       "section_id": "sensors"
+      },
+      {
+       "id": "chevrolet_trailblazer_sensors_t001_5591e98c",
+       "title": {
+        "ru": "Fig. 15: Inflatable Restraint Side Impact Sensor (SIS) - Right Courtesy of GENER",
+        "en": "Fig. 15: Inflatable Restraint Side Impact Sensor (SIS) - Right Courtesy of GENER"
+       },
+       "words": 586,
+       "images": 28,
+       "section_id": "sensors"
+      },
+      {
+       "id": "chevrolet_trailblazer_sensors_t002_78ec6685",
+       "title": {
+        "ru": "CAUTION: Do not strike or jolt the inflatable restraint front end sensor. Before",
+        "en": "CAUTION: Do not strike or jolt the inflatable restraint front end sensor. Before"
+       },
+       "words": 863,
+       "images": 11,
+       "section_id": "sensors"
+      },
+      {
+       "id": "chevrolet_trailblazer_sensors_t003_0fc76985",
+       "title": {
+        "ru": "CAUTION: Do not strike or jolt the inflatable restraint side impact",
+        "en": "CAUTION: Do not strike or jolt the inflatable restraint side impact"
+       },
+       "words": 1613,
+       "images": 17,
+       "section_id": "sensors"
+      },
+      {
+       "id": "chevrolet_trailblazer_sensors_t004_f6e3a606",
+       "title": {
+        "ru": "Yaw Rate and lateral Acceleration Sensor",
+        "en": "Yaw Rate and lateral Acceleration Sensor"
+       },
+       "words": 557,
+       "images": 13,
+       "section_id": "sensors"
+      },
+      {
+       "id": "chevrolet_trailblazer_sensors_t005_4d839468",
+       "title": {
+        "ru": "Fig. 86: Removing/Installing Left Side HVAC Floor Air Outlet Duct Courtesy of GE",
+        "en": "Fig. 86: Removing/Installing Left Side HVAC Floor Air Outlet Duct Courtesy of GE"
+       },
+       "words": 422,
+       "images": 41,
+       "section_id": "sensors"
+      },
+      {
+       "id": "chevrolet_trailblazer_sensors_t006_f222d882",
+       "title": {
+        "ru": "Fig. 91: Removing/Installing Left Side HVAC Floor Air Outlet Duct Courtesy of GE",
+        "en": "Fig. 91: Removing/Installing Left Side HVAC Floor Air Outlet Duct Courtesy of GE"
+       },
+       "words": 163,
+       "images": 5,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t000_5db94bec",
+       "title": {
+        "ru": "Fig. 353: View Of Right Transmission Closeout Cover & Bolt Courtesy of GENERAL M",
+        "en": "Fig. 353: View Of Right Transmission Closeout Cover & Bolt Courtesy of GENERAL M"
+       },
+       "words": 233,
+       "images": 18,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t001_ad193663",
+       "title": {
+        "ru": "Fig. 7: Removing Locking Differential Clutch Disc Assembly (9.5 Inch Axle) Court",
+        "en": "Fig. 7: Removing Locking Differential Clutch Disc Assembly (9.5 Inch Axle) Court"
+       },
+       "words": 691,
+       "images": 11,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t002_ec101365",
+       "title": {
+        "ru": "Fig. 10: Exploded View Of Locking Differential Side Gear Cam Unit & Clutch Disc ",
+        "en": "Fig. 10: Exploded View Of Locking Differential Side Gear Cam Unit & Clutch Disc "
+       },
+       "words": 796,
+       "images": 14,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t003_690128e7",
+       "title": {
+        "ru": "Fig. 17: Installing Brass Drift Between Locking Differential Side Gear & Pinion ",
+        "en": "Fig. 17: Installing Brass Drift Between Locking Differential Side Gear & Pinion "
+       },
+       "words": 883,
+       "images": 13,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t004_bb526f8b",
+       "title": {
+        "ru": "Fig. 58: View Of Transmission Oil Cooler Line Retaining Bracket & Bolt Courtesy ",
+        "en": "Fig. 58: View Of Transmission Oil Cooler Line Retaining Bracket & Bolt Courtesy "
+       },
+       "words": 466,
+       "images": 18,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t005_88f20095",
+       "title": {
+        "ru": "Fig. 37: Intermediate Shaft Bearing Assembly Mounting Bolts - Front Drive Axle (",
+        "en": "Fig. 37: Intermediate Shaft Bearing Assembly Mounting Bolts - Front Drive Axle ("
+       },
+       "words": 482,
+       "images": 12,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t006_86cd8c71",
+       "title": {
+        "ru": "Fig. 41: Axle Seal Installer And Universal Driver Handle Courtesy of GENERAL MOT",
+        "en": "Fig. 41: Axle Seal Installer And Universal Driver Handle Courtesy of GENERAL MOT"
+       },
+       "words": 480,
+       "images": 11,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t007_4d504816",
+       "title": {
+        "ru": "Fig. 103: Installing Bushing, Bearing Remover And Slide Hammer With Adapter Cour",
+        "en": "Fig. 103: Installing Bushing, Bearing Remover And Slide Hammer With Adapter Cour"
+       },
+       "words": 680,
+       "images": 20,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t008_6ef60860",
+       "title": {
+        "ru": "Fig. 129: Left Side Differential Bearing Adjuster Courtesy of GENERAL MOTORS COR",
+        "en": "Fig. 129: Left Side Differential Bearing Adjuster Courtesy of GENERAL MOTORS COR"
+       },
+       "words": 320,
+       "images": 18,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t009_4070c07d",
+       "title": {
+        "ru": "Fig. 135: Installing J 45234 To Left Differential Carrier Assembly Case Half Cou",
+        "en": "Fig. 135: Installing J 45234 To Left Differential Carrier Assembly Case Half Cou"
+       },
+       "words": 364,
+       "images": 15,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t010_f140d164",
+       "title": {
+        "ru": "Fig. 155: J 33838 With Inner Pinion Bearing Into Differential Carrier Assembly C",
+        "en": "Fig. 155: J 33838 With Inner Pinion Bearing Into Differential Carrier Assembly C"
+       },
+       "words": 935,
+       "images": 12,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t011_5efdb538",
+       "title": {
+        "ru": "Fig. 165: Universal Driver Handle - 3/4 In - 10 And Differential Bearing Adjuste",
+        "en": "Fig. 165: Universal Driver Handle - 3/4 In - 10 And Differential Bearing Adjuste"
+       },
+       "words": 1074,
+       "images": 15,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t012_dfe7e55e",
+       "title": {
+        "ru": "Fig. 171: Universal Driver Handle And Differential Bearing Adjuster Needle Beari",
+        "en": "Fig. 171: Universal Driver Handle And Differential Bearing Adjuster Needle Beari"
+       },
+       "words": 286,
+       "images": 20,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t013_f932f659",
+       "title": {
+        "ru": "IMPORTANT: Take care not to disengage the axle shaft from the transmission (4WD ",
+        "en": "IMPORTANT: Take care not to disengage the axle shaft from the transmission (4WD "
+       },
+       "words": 1072,
+       "images": 17,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t014_cdb6aa5a",
+       "title": {
+        "ru": "Fig. 22: View Of Axle Shaft, Lock & Thrust Block Courtesy of GENERAL MOTORS CORP",
+        "en": "Fig. 22: View Of Axle Shaft, Lock & Thrust Block Courtesy of GENERAL MOTORS CORP"
+       },
+       "words": 767,
+       "images": 13,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t015_fc727bf9",
+       "title": {
+        "ru": "Fig. 67: Driving The Differential Side Bearing Into Position Courtesy of GENERAL",
+        "en": "Fig. 67: Driving The Differential Side Bearing Into Position Courtesy of GENERAL"
+       },
+       "words": 772,
+       "images": 12,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t016_f7970dfb",
+       "title": {
+        "ru": "Fig. 75: Assembling Special Tools In Differential Carrier Bore Courtesy of GENER",
+        "en": "Fig. 75: Assembling Special Tools In Differential Carrier Bore Courtesy of GENER"
+       },
+       "words": 850,
+       "images": 17,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t017_5974aff2",
+       "title": {
+        "ru": "Fig. 12: View Of Rear Differential Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 12: View Of Rear Differential Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 2417,
+       "images": 24,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chevrolet_trailblazer_drivetrain_t018_59931b73",
+       "title": {
+        "ru": "Fig. 80: Transfer Case Circuit, Single Speed",
+        "en": "Fig. 80: Transfer Case Circuit, Single Speed"
+       },
+       "words": 45,
+       "images": 13,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chevrolet_trailblazer_infotainment_t000_d2f5092d",
+       "title": {
+        "ru": "Fig. 491: View Of Oil Pressure Sensor, Washer And Valve Lifter Oil Filter Courte",
+        "en": "Fig. 491: View Of Oil Pressure Sensor, Washer And Valve Lifter Oil Filter Courte"
+       },
+       "words": 222,
+       "images": 5,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "chevrolet_trailblazer_infotainment_t001_ca3cb97d",
+       "title": {
+        "ru": "Passenger Side Impact Sensor ID",
+        "en": "Passenger Side Impact Sensor ID"
+       },
+       "words": 204,
+       "images": 2,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "chevrolet_trailblazer_infotainment_t002_8c04febc",
+       "title": {
+        "ru": "Rear Dump Valve Feedback",
+        "en": "Rear Dump Valve Feedback"
+       },
+       "words": 216,
+       "images": 2,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "chevrolet_trailblazer_infotainment_t003_18ca3d91",
+       "title": {
+        "ru": "Fig. 67: Overhead Console Courtesy of GENERAL MOTORS CORP.",
+        "en": "Fig. 67: Overhead Console Courtesy of GENERAL MOTORS CORP."
+       },
+       "words": 394,
+       "images": 4,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "chevrolet_trailblazer_infotainment_t004_6f10e4e9",
+       "title": {
+        "ru": "Fig. 71: Premium Sound Radio Circuit, W/O Rear Seat Audio (1 of 2)",
+        "en": "Fig. 71: Premium Sound Radio Circuit, W/O Rear Seat Audio (1 of 2)"
+       },
+       "words": 180,
+       "images": 32,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

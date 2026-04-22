@@ -1,0 +1,1375 @@
+{
+ "version": "1.0",
+ "model": "actyon",
+ "manuals": [
+  {
+   "model": "actyon",
+   "label": {
+    "ru": "Ssangyong Actyon — Руководство по ремонту",
+    "en": "Ssangyong Actyon — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "ssangyong_actyon_engine_t000_7be1baec",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 7,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "ssangyong_actyon_brakes_t000_5d92d210",
+       "title": {
+        "ru": "1) W/SPEED SENSOR, STOP LAMP SW, DIAGNOSIS, WARNING LAMP(ABS/ESP)",
+        "en": "1) W/SPEED SENSOR, STOP LAMP SW, DIAGNOSIS, WARNING LAMP(ABS/ESP)"
+       },
+       "words": 911,
+       "images": 11,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ssangyong_actyon_brakes_t001_e12decfb",
+       "title": {
+        "ru": "(2) Detects the position of the shifting lever for the HDC operation among ABS/E",
+        "en": "(2) Detects the position of the shifting lever for the HDC operation among ABS/E"
+       },
+       "words": 868,
+       "images": 12,
+       "section_id": "brakes"
+      },
+      {
+       "id": "ssangyong_actyon_brakes_t002_96c05e62",
+       "title": {
+        "ru": "Functions applied on ESP system are as follows.",
+        "en": "Functions applied on ESP system are as follows."
+       },
+       "words": 827,
+       "images": 22,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "ssangyong_actyon_body_t000_62db2945",
+       "title": {
+        "ru": "OVERVIEW AND OPERATION PROCESS",
+        "en": "OVERVIEW AND OPERATION PROCESS"
+       },
+       "words": 12,
+       "images": 8,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "ssangyong_actyon_lighting_t000_219a05f2",
+       "title": {
+        "ru": "3. VEHICLE IDENTIFICATION",
+        "en": "3. VEHICLE IDENTIFICATION"
+       },
+       "words": 93,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t001_28be9055",
+       "title": {
+        "ru": "1. HOW TO READ ELECTRICAL WIRING DIAGRAM 1) HOW TO READ ELECTRICAL WIRING DIAGRA",
+        "en": "1. HOW TO READ ELECTRICAL WIRING DIAGRAM 1) HOW TO READ ELECTRICAL WIRING DIAGRA"
+       },
+       "words": 177,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t002_323ed979",
+       "title": {
+        "ru": "3) CONNECTOR, GROUND & SPLICE PACK INFORMATION",
+        "en": "3) CONNECTOR, GROUND & SPLICE PACK INFORMATION"
+       },
+       "words": 260,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t003_8781f7de",
+       "title": {
+        "ru": "8410-00 ENGINE ROOM FUSE / RELAY BOX CIRCUIT",
+        "en": "8410-00 ENGINE ROOM FUSE / RELAY BOX CIRCUIT"
+       },
+       "words": 457,
+       "images": 40,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t004_68393b52",
+       "title": {
+        "ru": "2 INTAKE THROTTLE, CLUTCH SW, STOP LAMP SW, VALVE(EGR, SWIRL), SENSOR(F/FILTER, ",
+        "en": "2 INTAKE THROTTLE, CLUTCH SW, STOP LAMP SW, VALVE(EGR, SWIRL), SENSOR(F/FILTER, "
+       },
+       "words": 733,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t005_2bd609e0",
+       "title": {
+        "ru": "2 WARNING LAMP (BATT CHARGE, OIL, HOOD, DOOR, ENG CHECK, AIR BAG, SEAT BELT), TU",
+        "en": "2 WARNING LAMP (BATT CHARGE, OIL, HOOD, DOOR, ENG CHECK, AIR BAG, SEAT BELT), TU"
+       },
+       "words": 2062,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t006_b75ae72d",
+       "title": {
+        "ru": "1 POWER/GROUND, CHIME BELL, BUZZER WARNING LAMP (BRAKE, SEAT BELT, DR OPEN)",
+        "en": "1 POWER/GROUND, CHIME BELL, BUZZER WARNING LAMP (BRAKE, SEAT BELT, DR OPEN)"
+       },
+       "words": 224,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t007_7377ca91",
+       "title": {
+        "ru": "7) MIRROR FOLD'G/UNFOLD'G, FOLD SW",
+        "en": "7) MIRROR FOLD'G/UNFOLD'G, FOLD SW"
+       },
+       "words": 24,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t008_5f19df07",
+       "title": {
+        "ru": "8510-00 HLLD (HEAD LAMP LEVEL G DEVICE) CIRCUIT",
+        "en": "8510-00 HLLD (HEAD LAMP LEVEL G DEVICE) CIRCUIT"
+       },
+       "words": 306,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t009_a91089fb",
+       "title": {
+        "ru": "8410-00 TURN SIGNAL / HAZARD LAMP CIRCUIT",
+        "en": "8410-00 TURN SIGNAL / HAZARD LAMP CIRCUIT"
+       },
+       "words": 1022,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t010_712f8cfd",
+       "title": {
+        "ru": "6810-00 PTC HEATER(POSITIVE TEMPERATURE COEFFICIENT)",
+        "en": "6810-00 PTC HEATER(POSITIVE TEMPERATURE COEFFICIENT)"
+       },
+       "words": 1098,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t011_bf3a6ea4",
+       "title": {
+        "ru": "|FATC (FULL AUTO TEMP. CONTROL) CIRCUIT",
+        "en": "|FATC (FULL AUTO TEMP. CONTROL) CIRCUIT"
+       },
+       "words": 951,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t012_834353a4",
+       "title": {
+        "ru": "7. PIN ARRANGEMENT OF DIAGNOSTIC CONNECTOR",
+        "en": "7. PIN ARRANGEMENT OF DIAGNOSTIC CONNECTOR"
+       },
+       "words": 23,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t013_d3932d91",
+       "title": {
+        "ru": "9. STANDARD BOLTS SPECIFICATIONS",
+        "en": "9. STANDARD BOLTS SPECIFICATIONS"
+       },
+       "words": 193,
+       "images": 46,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t014_3bf7cf73",
+       "title": {
+        "ru": "(2) Cylinder pressure leakage test",
+        "en": "(2) Cylinder pressure leakage test"
+       },
+       "words": 246,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t015_ed67327e",
+       "title": {
+        "ru": "(2) Cylinder head pressure Leak test",
+        "en": "(2) Cylinder head pressure Leak test"
+       },
+       "words": 184,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t016_1b84270a",
+       "title": {
+        "ru": "Components",
+        "en": "Components"
+       },
+       "words": 122,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t017_a74b9aa2",
+       "title": {
+        "ru": "Closed flow type water jacket (improving cooling performance)",
+        "en": "Closed flow type water jacket (improving cooling performance)"
+       },
+       "words": 222,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t018_c6ec72da",
+       "title": {
+        "ru": "9. DUAL MASS FLYWHEEL (DMF) & DRIVE PLATE",
+        "en": "9. DUAL MASS FLYWHEEL (DMF) & DRIVE PLATE"
+       },
+       "words": 223,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t019_b97ccd0f",
+       "title": {
+        "ru": "Excessive injector backleak",
+        "en": "Excessive injector backleak"
+       },
+       "words": 572,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t020_ae26e391",
+       "title": {
+        "ru": "(5) High Pressure System Pressure Test Fuel rail pressure test",
+        "en": "(5) High Pressure System Pressure Test Fuel rail pressure test"
+       },
+       "words": 363,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t021_7cb4800f",
+       "title": {
+        "ru": "Dynamic test for backleak of injector",
+        "en": "Dynamic test for backleak of injector"
+       },
+       "words": 759,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t022_fcb45060",
+       "title": {
+        "ru": "2) Abnormal Noise Caused by Poor Tightness of Intake System",
+        "en": "2) Abnormal Noise Caused by Poor Tightness of Intake System"
+       },
+       "words": 252,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t023_0d75ac6b",
+       "title": {
+        "ru": "3. Turbine Side: Inflow of foreign materials from engine Compressor Side: such a",
+        "en": "3. Turbine Side: Inflow of foreign materials from engine Compressor Side: such a"
+       },
+       "words": 412,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t024_ab022d4f",
+       "title": {
+        "ru": "1) Alternator Output Test",
+        "en": "1) Alternator Output Test"
+       },
+       "words": 126,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t025_86930f37",
+       "title": {
+        "ru": "Charging time according to vehicle conditions and environment",
+        "en": "Charging time according to vehicle conditions and environment"
+       },
+       "words": 169,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t026_35b93a88",
+       "title": {
+        "ru": "Emergency glow",
+        "en": "Emergency glow"
+       },
+       "words": 98,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t027_a501908e",
+       "title": {
+        "ru": "2) Accelerating with the Cruise Control System",
+        "en": "2) Accelerating with the Cruise Control System"
+       },
+       "words": 385,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t028_a2b2be1b",
+       "title": {
+        "ru": "(1) Abnormal Cancellation of the Cruise Control",
+        "en": "(1) Abnormal Cancellation of the Cruise Control"
+       },
+       "words": 195,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t029_d63069ba",
+       "title": {
+        "ru": "CDPF regeneration process (warning lamp NOT iluminated)",
+        "en": "CDPF regeneration process (warning lamp NOT iluminated)"
+       },
+       "words": 717,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t030_65f606b1",
+       "title": {
+        "ru": "Combustion pressure characteristic curve for pilot injection",
+        "en": "Combustion pressure characteristic curve for pilot injection"
+       },
+       "words": 596,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t031_de32b15d",
+       "title": {
+        "ru": "B. Input/Output for variable swirl valve",
+        "en": "B. Input/Output for variable swirl valve"
+       },
+       "words": 199,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t032_1ba959d9",
+       "title": {
+        "ru": "C. Input/Output for cooling fan and A/C compressor",
+        "en": "C. Input/Output for cooling fan and A/C compressor"
+       },
+       "words": 139,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t033_74e294ce",
+       "title": {
+        "ru": "C. Input/Output for CDPF control",
+        "en": "C. Input/Output for CDPF control"
+       },
+       "words": 121,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t034_cd6a5926",
+       "title": {
+        "ru": "Permissible Pressure Leakage",
+        "en": "Permissible Pressure Leakage"
+       },
+       "words": 28,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t035_a7463d43",
+       "title": {
+        "ru": "Fastener Tightening Specifications (Cont'd)",
+        "en": "Fastener Tightening Specifications (Cont'd)"
+       },
+       "words": 233,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t036_8c2d7751",
+       "title": {
+        "ru": "Catalytic Converter and Temperature",
+        "en": "Catalytic Converter and Temperature"
+       },
+       "words": 384,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t037_c4c32727",
+       "title": {
+        "ru": "3) PWM Electric Fan (1) Advantages and Disadvantages of the PWM Electric Fan",
+        "en": "3) PWM Electric Fan (1) Advantages and Disadvantages of the PWM Electric Fan"
+       },
+       "words": 391,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t038_f32d0197",
+       "title": {
+        "ru": "3. SWITCHES, UNITS AND SENSORS IN ENGINE COMPARTMENT",
+        "en": "3. SWITCHES, UNITS AND SENSORS IN ENGINE COMPARTMENT"
+       },
+       "words": 235,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t039_1f66b412",
+       "title": {
+        "ru": "2. FUNCTIONS AND SPECIFICATIONS 1) Wiper and Washer Operations",
+        "en": "2. FUNCTIONS AND SPECIFICATIONS 1) Wiper and Washer Operations"
+       },
+       "words": 167,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t040_6ff853ae",
+       "title": {
+        "ru": "Pause time of vehicle speed sensitive INT wiper",
+        "en": "Pause time of vehicle speed sensitive INT wiper"
+       },
+       "words": 732,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t041_bc6954a4",
+       "title": {
+        "ru": "36) Auto Door Lock in 30 Seconds after Pressing Door Unlock Button",
+        "en": "36) Auto Door Lock in 30 Seconds after Pressing Door Unlock Button"
+       },
+       "words": 433,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t042_75f0076d",
+       "title": {
+        "ru": "3. OTHER FUNCTIONS IN SYSTEM 1) Immobilizer Function",
+        "en": "3. OTHER FUNCTIONS IN SYSTEM 1) Immobilizer Function"
+       },
+       "words": 321,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t043_d5c980b9",
+       "title": {
+        "ru": "Low fuel warning lamp comes on when:",
+        "en": "Low fuel warning lamp comes on when:"
+       },
+       "words": 572,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t044_1891205d",
+       "title": {
+        "ru": "ESP Warning Lamp Operation Depending on System Conditions",
+        "en": "ESP Warning Lamp Operation Depending on System Conditions"
+       },
+       "words": 442,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t045_1185a601",
+       "title": {
+        "ru": "2) Warning Lamp (BATT Charge, Oil, Hood, Door, ENG Check, Air Bag, Seat Belt), T",
+        "en": "2) Warning Lamp (BATT Charge, Oil, Hood, Door, ENG Check, Air Bag, Seat Belt), T"
+       },
+       "words": 312,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t046_e0401968",
+       "title": {
+        "ru": "Auto Light Sensor and Rain Sensor Coupled Control",
+        "en": "Auto Light Sensor and Rain Sensor Coupled Control"
+       },
+       "words": 590,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t047_ece6f04f",
+       "title": {
+        "ru": "2) Washer Coupled Wiper in the Rain Sensing Mode",
+        "en": "2) Washer Coupled Wiper in the Rain Sensing Mode"
+       },
+       "words": 217,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t048_1fc3c77a",
+       "title": {
+        "ru": "Automatic transaxle (DSI M78)",
+        "en": "Automatic transaxle (DSI M78)"
+       },
+       "words": 1157,
+       "images": 37,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t049_bf37bff3",
+       "title": {
+        "ru": "Embeded Memory Module (EMM)",
+        "en": "Embeded Memory Module (EMM)"
+       },
+       "words": 369,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t050_83c24426",
+       "title": {
+        "ru": "Input/Output Data between Self Diagnostic Connector and TCU",
+        "en": "Input/Output Data between Self Diagnostic Connector and TCU"
+       },
+       "words": 174,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t051_9903ec2d",
+       "title": {
+        "ru": "4) Power Flow - 2nd Gear (D) Lock-Up",
+        "en": "4) Power Flow - 2nd Gear (D) Lock-Up"
+       },
+       "words": 52,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t052_084d14a0",
+       "title": {
+        "ru": "6) Power Flow - 4th Gear (D) & 4th Gear (D) in Limp Home Mode",
+        "en": "6) Power Flow - 4th Gear (D) & 4th Gear (D) in Limp Home Mode"
+       },
+       "words": 57,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t053_f6ff6da5",
+       "title": {
+        "ru": "2. SPECIFICATIONS AND TIGHTENING TORQUE OF MANUAL TRANSMISSION",
+        "en": "2. SPECIFICATIONS AND TIGHTENING TORQUE OF MANUAL TRANSMISSION"
+       },
+       "words": 101,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t054_4699cfbc",
+       "title": {
+        "ru": "1. MANUAL TRANSMISSION SYSTEM",
+        "en": "1. MANUAL TRANSMISSION SYSTEM"
+       },
+       "words": 547,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t055_505576e3",
+       "title": {
+        "ru": "(11) 1: 1 gears (only available in the \"M” position)",
+        "en": "(11) 1: 1 gears (only available in the \"M” position)"
+       },
+       "words": 391,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t056_cd98a3bf",
+       "title": {
+        "ru": "5) Shift Lock Release in P Positions",
+        "en": "5) Shift Lock Release in P Positions"
+       },
+       "words": 494,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t057_58d71f40",
+       "title": {
+        "ru": "1. FUNCTION AND OVERVIEW 1) SAT (Self Adjusting Technology) Clutch System",
+        "en": "1. FUNCTION AND OVERVIEW 1) SAT (Self Adjusting Technology) Clutch System"
+       },
+       "words": 131,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t058_62b76c9e",
+       "title": {
+        "ru": "4. POWER FLOW 1) Components of Power Flow",
+        "en": "4. POWER FLOW 1) Components of Power Flow"
+       },
+       "words": 28,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t059_a1b2d903",
+       "title": {
+        "ru": "4) 4H Mode (4 Wheel Drive - High speed)",
+        "en": "4) 4H Mode (4 Wheel Drive - High speed)"
+       },
+       "words": 32,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t060_c512112d",
+       "title": {
+        "ru": "Below the specified value",
+        "en": "Below the specified value"
+       },
+       "words": 735,
+       "images": 35,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t061_8255425b",
+       "title": {
+        "ru": "Front/Rear Brake Assembly",
+        "en": "Front/Rear Brake Assembly"
+       },
+       "words": 489,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t062_83490f71",
+       "title": {
+        "ru": "What is free running distance?",
+        "en": "What is free running distance?"
+       },
+       "words": 209,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t063_49b8c9a9",
+       "title": {
+        "ru": "7. INPUT AND OUTPUT DIAGRAM OF ESP SYSTEM Input/Output of ESP System",
+        "en": "7. INPUT AND OUTPUT DIAGRAM OF ESP SYSTEM Input/Output of ESP System"
+       },
+       "words": 588,
+       "images": 30,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t064_d5204322",
+       "title": {
+        "ru": "2) Typical Inspection",
+        "en": "2) Typical Inspection"
+       },
+       "words": 222,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t065_7b1da32b",
+       "title": {
+        "ru": "Tire Inflation Pressure (32 psi, 2.21 bar)",
+        "en": "Tire Inflation Pressure (32 psi, 2.21 bar)"
+       },
+       "words": 494,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t066_91e98fb2",
+       "title": {
+        "ru": "OVERVIEW AND OPERATION PROCESS1. LOCATIONS AND RELATED COMPONENTS1) LH",
+        "en": "OVERVIEW AND OPERATION PROCESS1. LOCATIONS AND RELATED COMPONENTS1) LH"
+       },
+       "words": 352,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t067_f27b7824",
+       "title": {
+        "ru": "4) Driver and Passenger BPT (Belt Pre-Tensioner)",
+        "en": "4) Driver and Passenger BPT (Belt Pre-Tensioner)"
+       },
+       "words": 471,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t068_dc606957",
+       "title": {
+        "ru": "(3) When the Air Bag Unit Receives Any Malfunction Signals from the Other System",
+        "en": "(3) When the Air Bag Unit Receives Any Malfunction Signals from the Other System"
+       },
+       "words": 362,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t069_05474b9e",
+       "title": {
+        "ru": "2) Improved Reinforcement and NVH According to the Introducing of Front Floor an",
+        "en": "2) Improved Reinforcement and NVH According to the Introducing of Front Floor an"
+       },
+       "words": 81,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "ssangyong_actyon_lighting_t070_b836529c",
+       "title": {
+        "ru": "Applied the Asphalt to the Body Panel (Improved Anti-Vibration)",
+        "en": "Applied the Asphalt to the Body Panel (Improved Anti-Vibration)"
+       },
+       "words": 23,
+       "images": 5,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "ssangyong_actyon_interior_t000_daa61735",
+       "title": {
+        "ru": "CAUTION",
+        "en": "CAUTION"
+       },
+       "words": 17,
+       "images": 1,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "ssangyong_actyon_general_t000_1716e31f",
+       "title": {
+        "ru": "2) Diesel Engine - GENERAL",
+        "en": "2) Diesel Engine - GENERAL"
+       },
+       "words": 1144,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t001_dcefc9fe",
+       "title": {
+        "ru": "0000-000 WIRING HARNESS, COMPONENTS LOCATION 1) WIRING HARNESS",
+        "en": "0000-000 WIRING HARNESS, COMPONENTS LOCATION 1) WIRING HARNESS"
+       },
+       "words": 1767,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t002_5838c431",
+       "title": {
+        "ru": "(2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION",
+        "en": "(2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION"
+       },
+       "words": 2509,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t003_a63a49e6",
+       "title": {
+        "ru": "(2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION",
+        "en": "(2) CONNECTOR IDENTIFICATION SYMBOL & PIN NUMBER POSITION"
+       },
+       "words": 1763,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t004_b6b5ad05",
+       "title": {
+        "ru": "2) Diesel Engine - GENERAL",
+        "en": "2) Diesel Engine - GENERAL"
+       },
+       "words": 1376,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t005_3d8e190f",
+       "title": {
+        "ru": "8. ELECTRIC COMPONENTS AND LAYOUT 1) Wiring Harness Arrangement",
+        "en": "8. ELECTRIC COMPONENTS AND LAYOUT 1) Wiring Harness Arrangement"
+       },
+       "words": 583,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t006_80fb106d",
+       "title": {
+        "ru": "Cautions before service works",
+        "en": "Cautions before service works"
+       },
+       "words": 704,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t007_53f991b8",
+       "title": {
+        "ru": "1) Cylinder Head Cover",
+        "en": "1) Cylinder Head Cover"
+       },
+       "words": 386,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t008_e1dda224",
+       "title": {
+        "ru": "(2) Thickness of cylinder head gasket",
+        "en": "(2) Thickness of cylinder head gasket"
+       },
+       "words": 464,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t009_d600aa60",
+       "title": {
+        "ru": "1) Maintenance Procedures for DI Engine Fuel System",
+        "en": "1) Maintenance Procedures for DI Engine Fuel System"
+       },
+       "words": 388,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t010_a2a4314a",
+       "title": {
+        "ru": "Cleanness of DI engine fuel system and service procedures",
+        "en": "Cleanness of DI engine fuel system and service procedures"
+       },
+       "words": 872,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t011_aa2ea43c",
+       "title": {
+        "ru": "System supplement and remedy against water in fuel",
+        "en": "System supplement and remedy against water in fuel"
+       },
+       "words": 916,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t012_b8616a4d",
+       "title": {
+        "ru": "2) Inspection of Turbocharger",
+        "en": "2) Inspection of Turbocharger"
+       },
+       "words": 1156,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t013_02ed23ad",
+       "title": {
+        "ru": "(2) E-VGT Actuator (Electric-Actuator)",
+        "en": "(2) E-VGT Actuator (Electric-Actuator)"
+       },
+       "words": 601,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t014_a0556258",
+       "title": {
+        "ru": "4) Anti-corrosion",
+        "en": "4) Anti-corrosion"
+       },
+       "words": 707,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t015_a3dbcfcd",
+       "title": {
+        "ru": "How it works and How to use it",
+        "en": "How it works and How to use it"
+       },
+       "words": 692,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t016_9cd83a83",
+       "title": {
+        "ru": "(2) While the cruise control system is not running",
+        "en": "(2) While the cruise control system is not running"
+       },
+       "words": 494,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t017_7ce632e0",
+       "title": {
+        "ru": "(3) Tap-down while the cruise control system is running",
+        "en": "(3) Tap-down while the cruise control system is running"
+       },
+       "words": 796,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t018_ff5ad0de",
+       "title": {
+        "ru": "4. POST-INJECTION AND AIR MASS CONTROL",
+        "en": "4. POST-INJECTION AND AIR MASS CONTROL"
+       },
+       "words": 1220,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t019_4fa0af30",
+       "title": {
+        "ru": "Balancing of the point to point flows",
+        "en": "Balancing of the point to point flows"
+       },
+       "words": 1591,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t020_c6349ab9",
+       "title": {
+        "ru": "F. Relationship between swirl and fuel injection pressure",
+        "en": "F. Relationship between swirl and fuel injection pressure"
+       },
+       "words": 1217,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t021_c3434cac",
+       "title": {
+        "ru": "Output voltage according to refrigerant pressure",
+        "en": "Output voltage according to refrigerant pressure"
+       },
+       "words": 807,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t022_22467c42",
+       "title": {
+        "ru": "Use only specified engine oil (Low Ash Oil)",
+        "en": "Use only specified engine oil (Low Ash Oil)"
+       },
+       "words": 656,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t023_527af2c4",
+       "title": {
+        "ru": "Black Light and Dye Method",
+        "en": "Black Light and Dye Method"
+       },
+       "words": 736,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t024_72f17a17",
+       "title": {
+        "ru": "Vehicle Fueling from Drums or Storage Containers",
+        "en": "Vehicle Fueling from Drums or Storage Containers"
+       },
+       "words": 863,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t025_5599d696",
+       "title": {
+        "ru": "2. DESCRIPTION AND OPERATION1) General Description",
+        "en": "2. DESCRIPTION AND OPERATION1) General Description"
+       },
+       "words": 1000,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t026_63cd7533",
+       "title": {
+        "ru": "7) Engine Coolant Temperature Sensor",
+        "en": "7) Engine Coolant Temperature Sensor"
+       },
+       "words": 636,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t027_f5585a45",
+       "title": {
+        "ru": "4) Charging a Completely Discharged Battery (Off the Vehicle)",
+        "en": "4) Charging a Completely Discharged Battery (Off the Vehicle)"
+       },
+       "words": 1173,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t028_db679bca",
+       "title": {
+        "ru": "4. ELECTRIC COMPONENTS AND LAYOUT 1) Wiring Harness Arrangement",
+        "en": "4. ELECTRIC COMPONENTS AND LAYOUT 1) Wiring Harness Arrangement"
+       },
+       "words": 719,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t029_2eb8e283",
+       "title": {
+        "ru": "Front Auto Washer and Wiper Switch",
+        "en": "Front Auto Washer and Wiper Switch"
+       },
+       "words": 595,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t030_2516119d",
+       "title": {
+        "ru": "6) INT Switch Auto Position Reminder (Power-Up Reminder Wiper)",
+        "en": "6) INT Switch Auto Position Reminder (Power-Up Reminder Wiper)"
+       },
+       "words": 1230,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t031_7c0838ee",
+       "title": {
+        "ru": "Controls when the wiper motor parking is defective",
+        "en": "Controls when the wiper motor parking is defective"
+       },
+       "words": 1064,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t032_e4e1b7fa",
+       "title": {
+        "ru": "24) Door Lock/Unlock Control by Door Lock Switch",
+        "en": "24) Door Lock/Unlock Control by Door Lock Switch"
+       },
+       "words": 788,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t033_3d8edff9",
+       "title": {
+        "ru": "2. BASIC FUNCTIONS OF IMMOBILIZER KEY (REKES FUNCTION)",
+        "en": "2. BASIC FUNCTIONS OF IMMOBILIZER KEY (REKES FUNCTION)"
+       },
+       "words": 999,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t034_35aff7cd",
+       "title": {
+        "ru": "4. REKES OPERATION LOGIC1) Remote Door Lock",
+        "en": "4. REKES OPERATION LOGIC1) Remote Door Lock"
+       },
+       "words": 614,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t035_722a2f03",
+       "title": {
+        "ru": "Ilumination conditions of LCD display when turning ON/OFF tail lamp",
+        "en": "Ilumination conditions of LCD display when turning ON/OFF tail lamp"
+       },
+       "words": 873,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t036_81451f0c",
+       "title": {
+        "ru": "0 Outside Rearview Mirror Folding Switch",
+        "en": "0 Outside Rearview Mirror Folding Switch"
+       },
+       "words": 633,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t037_1be70ef2",
+       "title": {
+        "ru": "5) Wiper Operation When the Wiper Parking Terminal Is Grounded",
+        "en": "5) Wiper Operation When the Wiper Parking Terminal Is Grounded"
+       },
+       "words": 885,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t038_3895fc1e",
+       "title": {
+        "ru": "DCAG 5-speed automatic transmission offers the following advantages:",
+        "en": "DCAG 5-speed automatic transmission offers the following advantages:"
+       },
+       "words": 588,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t039_6ce39aca",
+       "title": {
+        "ru": "1. Shift Lock Release Button Hole when Locked in the \"P\" Position (1)",
+        "en": "1. Shift Lock Release Button Hole when Locked in the \"P\" Position (1)"
+       },
+       "words": 470,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t040_6c31161f",
+       "title": {
+        "ru": "Input/Output Data between Automatic Transmission and TCU",
+        "en": "Input/Output Data between Automatic Transmission and TCU"
+       },
+       "words": 628,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t041_1b84bfb6",
+       "title": {
+        "ru": "Monitoring the Supply Voltage to Solenoid",
+        "en": "Monitoring the Supply Voltage to Solenoid"
+       },
+       "words": 453,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t042_1b79dbb9",
+       "title": {
+        "ru": "Functioning elements",
+        "en": "Functioning elements"
+       },
+       "words": 374,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t043_068833cc",
+       "title": {
+        "ru": "Functioning elements",
+        "en": "Functioning elements"
+       },
+       "words": 297,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t044_870f8992",
+       "title": {
+        "ru": "(1) Aids a smooth start of the vehicle by raising the RPM during the gear shifti",
+        "en": "(1) Aids a smooth start of the vehicle by raising the RPM during the gear shifti"
+       },
+       "words": 638,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t045_33d073d3",
+       "title": {
+        "ru": "(10) 2: 2 gears (only available in the “M” position)",
+        "en": "(10) 2: 2 gears (only available in the “M” position)"
+       },
+       "words": 739,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t046_9e8ae07d",
+       "title": {
+        "ru": "Braking distance & stopping distance",
+        "en": "Braking distance & stopping distance"
+       },
+       "words": 914,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t047_beccdf24",
+       "title": {
+        "ru": "Phenomenon 2. Slip or screech after the brake pad replacement.",
+        "en": "Phenomenon 2. Slip or screech after the brake pad replacement."
+       },
+       "words": 1673,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t048_e6c0f994",
+       "title": {
+        "ru": "When the slope level exceeds 20% during the HDC operation",
+        "en": "When the slope level exceeds 20% during the HDC operation"
+       },
+       "words": 1098,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t049_c6e4118d",
+       "title": {
+        "ru": "5) Operation of HDC Indicator Controller",
+        "en": "5) Operation of HDC Indicator Controller"
+       },
+       "words": 807,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t050_82416a89",
+       "title": {
+        "ru": "1) Air Conditioner Compressor Control by Engine ECU",
+        "en": "1) Air Conditioner Compressor Control by Engine ECU"
+       },
+       "words": 875,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t051_de3b6de4",
+       "title": {
+        "ru": "(1) Automatic Door Unlock (Crash unlock: unlock when colliding)",
+        "en": "(1) Automatic Door Unlock (Crash unlock: unlock when colliding)"
+       },
+       "words": 621,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "ssangyong_actyon_general_t052_2db237d2",
+       "title": {
+        "ru": "3. WIPER & WASHER RELATED FUNCTION AND SPECIFICATION",
+        "en": "3. WIPER & WASHER RELATED FUNCTION AND SPECIFICATION"
+       },
+       "words": 209,
+       "images": 1,
+       "section_id": "general"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

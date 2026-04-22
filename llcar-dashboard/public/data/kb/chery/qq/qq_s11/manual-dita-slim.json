@@ -1,0 +1,1005 @@
+{
+ "version": "1.0",
+ "model": "qq",
+ "manuals": [
+  {
+   "model": "qq",
+   "label": {
+    "ru": "Chery Qq — Руководство по ремонту",
+    "en": "Chery Qq — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "chery_qq_engine_t000_8b2f3a2e",
+       "title": {
+        "ru": "Disposal of the front dampener",
+        "en": "Disposal of the front dampener"
+       },
+       "words": 1636,
+       "images": 29,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_qq_engine_t001_92e6ff57",
+       "title": {
+        "ru": "( 2 ) Adjustment of the position of crankshaft",
+        "en": "( 2 ) Adjustment of the position of crankshaft"
+       },
+       "words": 1251,
+       "images": 1,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_qq_engine_t002_20805c59",
+       "title": {
+        "ru": "I. This method serves to confirm the fault position with manifold measurement un",
+        "en": "I. This method serves to confirm the fault position with manifold measurement un"
+       },
+       "words": 442,
+       "images": 7,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_qq_engine_t003_aced905f",
+       "title": {
+        "ru": "2.3 Disassembly of torsional damper",
+        "en": "2.3 Disassembly of torsional damper"
+       },
+       "words": 2483,
+       "images": 51,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_qq_engine_t004_299b6f73",
+       "title": {
+        "ru": "5.4 Assembly of oil seal",
+        "en": "5.4 Assembly of oil seal"
+       },
+       "words": 1078,
+       "images": 36,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_qq_engine_t005_7d05d8a1",
+       "title": {
+        "ru": "2.2.6 Remove the connecting rod bearing cap and the connecting rod bearing bushi",
+        "en": "2.2.6 Remove the connecting rod bearing cap and the connecting rod bearing bushi"
+       },
+       "words": 829,
+       "images": 15,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_qq_engine_t006_3ce761a0",
+       "title": {
+        "ru": "Chapter 4. Table of Measurement Parameters of SQR472 EngineSQR472",
+        "en": "Chapter 4. Table of Measurement Parameters of SQR472 EngineSQR472"
+       },
+       "words": 68,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_qq_engine_t007_a1452edb",
+       "title": {
+        "ru": "3. Measure to prevent the above problem from happening",
+        "en": "3. Measure to prevent the above problem from happening"
+       },
+       "words": 1908,
+       "images": 12,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_qq_engine_t008_273c2f82",
+       "title": {
+        "ru": "Definition of Engine Controller Pin:",
+        "en": "Definition of Engine Controller Pin:"
+       },
+       "words": 2289,
+       "images": 5,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_qq_engine_t009_e2f89408",
+       "title": {
+        "ru": "6-2 THE ENGINE CAN DRAW ROTATING BUT CAN NOT START SUCCESSFULLY WHEN IT IS START",
+        "en": "6-2 THE ENGINE CAN DRAW ROTATING BUT CAN NOT START SUCCESSFULLY WHEN IT IS START"
+       },
+       "words": 296,
+       "images": 9,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_qq_engine_t010_9239b508",
+       "title": {
+        "ru": "6-8 IDLE SPEED IS NOT STEADY AFTER THE ENGINE HEATING.",
+        "en": "6-8 IDLE SPEED IS NOT STEADY AFTER THE ENGINE HEATING."
+       },
+       "words": 570,
+       "images": 11,
+       "section_id": "engine"
+      },
+      {
+       "id": "chery_qq_engine_t011_c60d1945",
+       "title": {
+        "ru": "Gear position selection electromagnetic valve/gear engagement electromagnetic va",
+        "en": "Gear position selection electromagnetic valve/gear engagement electromagnetic va"
+       },
+       "words": 876,
+       "images": 5,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "chery_qq_brakes_t000_bfb85deb",
+       "title": {
+        "ru": "Chapter 1 Braking System",
+        "en": "Chapter 1 Braking System"
+       },
+       "words": 2688,
+       "images": 17,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_qq_brakes_t001_9fa3ce5c",
+       "title": {
+        "ru": "II, Fault diagnosis Points of attention",
+        "en": "II, Fault diagnosis Points of attention"
+       },
+       "words": 3277,
+       "images": 40,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_qq_brakes_t002_ff1a60de",
+       "title": {
+        "ru": "The rear measuring point",
+        "en": "The rear measuring point"
+       },
+       "words": 1567,
+       "images": 24,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_qq_brakes_t003_01364557",
+       "title": {
+        "ru": "Composition of Ordinary Brake System",
+        "en": "Composition of Ordinary Brake System"
+       },
+       "words": 69,
+       "images": 9,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_qq_brakes_t004_c6f2c76b",
+       "title": {
+        "ru": "4-6 THE INTAKE AIR TEMPERATURE PRESSURE SENSOR OF AIR INTAKEPIPE ABSOLUTE PRESSU",
+        "en": "4-6 THE INTAKE AIR TEMPERATURE PRESSURE SENSOR OF AIR INTAKEPIPE ABSOLUTE PRESSU"
+       },
+       "words": 776,
+       "images": 19,
+       "section_id": "brakes"
+      },
+      {
+       "id": "chery_qq_brakes_t005_aa2b4949",
+       "title": {
+        "ru": "CONTROL OF MACHINE PARTS — AIR FILTER & SERVO BRAKE CHECK VALVE",
+        "en": "CONTROL OF MACHINE PARTS — AIR FILTER & SERVO BRAKE CHECK VALVE"
+       },
+       "words": 5,
+       "images": 1,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "chery_qq_suspension_t000_dfe4dc93",
+       "title": {
+        "ru": "Section Two Front Suspension Frame Maintenance of the front suspension frame 1. ",
+        "en": "Section Two Front Suspension Frame Maintenance of the front suspension frame 1. "
+       },
+       "words": 1642,
+       "images": 27,
+       "section_id": "suspension"
+      },
+      {
+       "id": "chery_qq_suspension_t001_761fc1da",
+       "title": {
+        "ru": "I . Rear Suspension parts",
+        "en": "I . Rear Suspension parts"
+       },
+       "words": 763,
+       "images": 21,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "chery_qq_electrical_t000_5be5d70f",
+       "title": {
+        "ru": "Chapter 18 Explanation of S11 Entire Vehicle Circuitry and Pins",
+        "en": "Chapter 18 Explanation of S11 Entire Vehicle Circuitry and Pins"
+       },
+       "words": 1000,
+       "images": 7,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "chery_qq_hvac_t000_a2fb9fa6",
+       "title": {
+        "ru": "I. Major parts of the air-conditioning and refrigerant flow chart.",
+        "en": "I. Major parts of the air-conditioning and refrigerant flow chart."
+       },
+       "words": 1247,
+       "images": 8,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "chery_qq_body_t000_464c485f",
+       "title": {
+        "ru": "Section 1 Car Body Electric Equipment Common Fault Clearance",
+        "en": "Section 1 Car Body Electric Equipment Common Fault Clearance"
+       },
+       "words": 867,
+       "images": 15,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_qq_body_t001_6f942444",
+       "title": {
+        "ru": "W.Function theory of antitheft control system",
+        "en": "W.Function theory of antitheft control system"
+       },
+       "words": 1230,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_qq_body_t002_92bc8788",
+       "title": {
+        "ru": "(3) Door lock operating device (front passenger side door and rear doors)",
+        "en": "(3) Door lock operating device (front passenger side door and rear doors)"
+       },
+       "words": 1855,
+       "images": 9,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_qq_body_t003_5f4cab2f",
+       "title": {
+        "ru": "Electric circuit diagram of power rearview mirror",
+        "en": "Electric circuit diagram of power rearview mirror"
+       },
+       "words": 1061,
+       "images": 5,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_qq_body_t004_b3332a62",
+       "title": {
+        "ru": "Removal of door check strap and set bolts of front door",
+        "en": "Removal of door check strap and set bolts of front door"
+       },
+       "words": 736,
+       "images": 12,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_qq_body_t005_e540b1dc",
+       "title": {
+        "ru": "Removal of front door weather strip",
+        "en": "Removal of front door weather strip"
+       },
+       "words": 615,
+       "images": 12,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_qq_body_t006_a7c35f2c",
+       "title": {
+        "ru": "2. Clean and finish the joint surface of car body",
+        "en": "2. Clean and finish the joint surface of car body"
+       },
+       "words": 519,
+       "images": 7,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_qq_body_t007_5566550a",
+       "title": {
+        "ru": "12. Fix lower outside filler strip on rear window",
+        "en": "12. Fix lower outside filler strip on rear window"
+       },
+       "words": 482,
+       "images": 11,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_qq_body_t008_5fb19c0b",
+       "title": {
+        "ru": "Note : The ornaments will be repositioned after adjustment",
+        "en": "Note : The ornaments will be repositioned after adjustment"
+       },
+       "words": 1026,
+       "images": 16,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_qq_body_t009_521e251d",
+       "title": {
+        "ru": "2.5.3.2 Inspection of alignment – bottom vehicle body",
+        "en": "2.5.3.2 Inspection of alignment – bottom vehicle body"
+       },
+       "words": 2193,
+       "images": 21,
+       "section_id": "body"
+      },
+      {
+       "id": "chery_qq_body_t010_48a38009",
+       "title": {
+        "ru": "The risk of too early locking of rear wheels",
+        "en": "The risk of too early locking of rear wheels"
+       },
+       "words": 308,
+       "images": 10,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "chery_qq_steering_t000_78641642",
+       "title": {
+        "ru": "Manual Steering Gear Manual steering gear components",
+        "en": "Manual Steering Gear Manual steering gear components"
+       },
+       "words": 864,
+       "images": 10,
+       "section_id": "steering"
+      },
+      {
+       "id": "chery_qq_steering_t001_2996fbad",
+       "title": {
+        "ru": "Description and operation",
+        "en": "Description and operation"
+       },
+       "words": 462,
+       "images": 10,
+       "section_id": "steering"
+      },
+      {
+       "id": "chery_qq_steering_t002_170a680c",
+       "title": {
+        "ru": "Steering column replace Points of attention",
+        "en": "Steering column replace Points of attention"
+       },
+       "words": 780,
+       "images": 11,
+       "section_id": "steering"
+      },
+      {
+       "id": "chery_qq_steering_t003_eb4102ae",
+       "title": {
+        "ru": "Power steering box replace Disassembly procedure",
+        "en": "Power steering box replace Disassembly procedure"
+       },
+       "words": 364,
+       "images": 13,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "chery_qq_lighting_t000_0d5f392e",
+       "title": {
+        "ru": "Carrier and holding-down clamp",
+        "en": "Carrier and holding-down clamp"
+       },
+       "words": 866,
+       "images": 8,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chery_qq_lighting_t001_39ecb048",
+       "title": {
+        "ru": "Section 2 Lamplight System Operation Guide",
+        "en": "Section 2 Lamplight System Operation Guide"
+       },
+       "words": 833,
+       "images": 6,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chery_qq_lighting_t002_d2e8c427",
+       "title": {
+        "ru": "( 1 ) Removal of Wiping rubber Strip",
+        "en": "( 1 ) Removal of Wiping rubber Strip"
+       },
+       "words": 526,
+       "images": 5,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chery_qq_lighting_t003_39486c8e",
+       "title": {
+        "ru": "Section 2 Safety Cautions for Air conditioning System",
+        "en": "Section 2 Safety Cautions for Air conditioning System"
+       },
+       "words": 637,
+       "images": 3,
+       "section_id": "lighting"
+      },
+      {
+       "id": "chery_qq_lighting_t004_b458f6dd",
+       "title": {
+        "ru": "MECHANICAL TRANSMISSION - ELECTRONICALLY CONTROLLED HYDRAULIC UNIT",
+        "en": "MECHANICAL TRANSMISSION - ELECTRONICALLY CONTROLLED HYDRAULIC UNIT"
+       },
+       "words": 637,
+       "images": 23,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "chery_qq_interior_t000_a363d6b4",
+       "title": {
+        "ru": "Operation, Installation and Diagnosis",
+        "en": "Operation, Installation and Diagnosis"
+       },
+       "words": 789,
+       "images": 7,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_qq_interior_t001_88d4e538",
+       "title": {
+        "ru": "Checking Airbag Parts after Inactivation in Accident",
+        "en": "Checking Airbag Parts after Inactivation in Accident"
+       },
+       "words": 744,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_qq_interior_t002_dc854b44",
+       "title": {
+        "ru": "Please activate the airbag under following circumstances:",
+        "en": "Please activate the airbag under following circumstances:"
+       },
+       "words": 1002,
+       "images": 5,
+       "section_id": "interior"
+      },
+      {
+       "id": "chery_qq_interior_t003_7a27a37d",
+       "title": {
+        "ru": "Removal of safety belt of rear seat",
+        "en": "Removal of safety belt of rear seat"
+       },
+       "words": 270,
+       "images": 2,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "chery_qq_ev_t000_a62d16c1",
+       "title": {
+        "ru": "Solidification of electrolyte",
+        "en": "Solidification of electrolyte"
+       },
+       "words": 844,
+       "images": 7,
+       "section_id": "ev"
+      },
+      {
+       "id": "chery_qq_ev_t001_7279acfb",
+       "title": {
+        "ru": "Charging the battery which voltage decrease greatly or which is fully discharged",
+        "en": "Charging the battery which voltage decrease greatly or which is fully discharged"
+       },
+       "words": 1256,
+       "images": 7,
+       "section_id": "ev"
+      },
+      {
+       "id": "chery_qq_ev_t002_c1010392",
+       "title": {
+        "ru": "1.Relay (condensator fan/electric magnetic clutch)",
+        "en": "1.Relay (condensator fan/electric magnetic clutch)"
+       },
+       "words": 757,
+       "images": 8,
+       "section_id": "ev"
+      },
+      {
+       "id": "chery_qq_ev_t003_7a704d1a",
+       "title": {
+        "ru": "7-1 PRECAUTIONS FOR EFI SYSTEM DIAGNOSIS AND MAINTENANCE",
+        "en": "7-1 PRECAUTIONS FOR EFI SYSTEM DIAGNOSIS AND MAINTENANCE"
+       },
+       "words": 1039,
+       "images": 7,
+       "section_id": "ev"
+      },
+      {
+       "id": "chery_qq_ev_t004_c3174377",
+       "title": {
+        "ru": "Line distribution of the connector:",
+        "en": "Line distribution of the connector:"
+       },
+       "words": 628,
+       "images": 6,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "chery_qq_chassis_t000_ba197501",
+       "title": {
+        "ru": "Chapter two Tests and Adjustments of Four-Wheel Positioning",
+        "en": "Chapter two Tests and Adjustments of Four-Wheel Positioning"
+       },
+       "words": 1725,
+       "images": 12,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chery_qq_chassis_t001_ab5fc8a8",
+       "title": {
+        "ru": "IV. The toe-in and camber angle of the rear wheels cannot be adjusted.",
+        "en": "IV. The toe-in and camber angle of the rear wheels cannot be adjusted."
+       },
+       "words": 856,
+       "images": 6,
+       "section_id": "chassis"
+      },
+      {
+       "id": "chery_qq_chassis_t002_cef80355",
+       "title": {
+        "ru": "1. Loads on front and rear wheels are different",
+        "en": "1. Loads on front and rear wheels are different"
+       },
+       "words": 293,
+       "images": 5,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "chery_qq_general_t000_045043f8",
+       "title": {
+        "ru": "II, Shift and select lever shaft control system",
+        "en": "II, Shift and select lever shaft control system"
+       },
+       "words": 745,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t001_1a24879c",
+       "title": {
+        "ru": "Chapter 4 Maintenance Materials Needed",
+        "en": "Chapter 4 Maintenance Materials Needed"
+       },
+       "words": 1580,
+       "images": 34,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t002_02340600",
+       "title": {
+        "ru": ", Service hints for intermittence malfunction",
+        "en": ", Service hints for intermittence malfunction"
+       },
+       "words": 1350,
+       "images": 28,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t003_85d330f8",
+       "title": {
+        "ru": "On close and locking position, cannot pull out key",
+        "en": "On close and locking position, cannot pull out key"
+       },
+       "words": 219,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t004_96f543e1",
+       "title": {
+        "ru": "On Close and locking position, demand larger locking force",
+        "en": "On Close and locking position, demand larger locking force"
+       },
+       "words": 282,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t005_6a1a2637",
+       "title": {
+        "ru": "Pinion (plunger) return test",
+        "en": "Pinion (plunger) return test"
+       },
+       "words": 197,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t006_e42e6de6",
+       "title": {
+        "ru": "Bearing of drive shaft",
+        "en": "Bearing of drive shaft"
+       },
+       "words": 308,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t007_0b136fb5",
+       "title": {
+        "ru": "II. CD player panel (Option)(illustrated just by using VDO CD player and please ",
+        "en": "II. CD player panel (Option)(illustrated just by using VDO CD player and please "
+       },
+       "words": 963,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t008_6f4a3e6e",
+       "title": {
+        "ru": "( 4 ) Inspection of conduction of wiper switch and washer switch",
+        "en": "( 4 ) Inspection of conduction of wiper switch and washer switch"
+       },
+       "words": 442,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t009_848290a0",
+       "title": {
+        "ru": "II Trouble-shooting Chart ( electron temperature control system )",
+        "en": "II Trouble-shooting Chart ( electron temperature control system )"
+       },
+       "words": 854,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t010_204ae904",
+       "title": {
+        "ru": "8. Improper installation of expansion valve /breakdown of the thermal sensitive ",
+        "en": "8. Improper installation of expansion valve /breakdown of the thermal sensitive "
+       },
+       "words": 164,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t011_ecc3ab7b",
+       "title": {
+        "ru": "Diagnose with Diagnostic tester",
+        "en": "Diagnose with Diagnostic tester"
+       },
+       "words": 670,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t012_5d6ddbf6",
+       "title": {
+        "ru": "Remove the lock assembly(mechanical)",
+        "en": "Remove the lock assembly(mechanical)"
+       },
+       "words": 204,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t013_63394c00",
+       "title": {
+        "ru": "9. Coat a layer of base paint G on the contact surface of windshield",
+        "en": "9. Coat a layer of base paint G on the contact surface of windshield"
+       },
+       "words": 328,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t014_67eef2a5",
+       "title": {
+        "ru": "2.5.2.5 Distance dimension between two points of every part",
+        "en": "2.5.2.5 Distance dimension between two points of every part"
+       },
+       "words": 1056,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t015_230bdbcf",
+       "title": {
+        "ru": "2.5.2.8 Reference points __nonsymmetrical",
+        "en": "2.5.2.8 Reference points __nonsymmetrical"
+       },
+       "words": 532,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t016_f060ae31",
+       "title": {
+        "ru": "2 Disassemble of Crank Connecting Rod Mechanism",
+        "en": "2 Disassemble of Crank Connecting Rod Mechanism"
+       },
+       "words": 349,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t017_9d60cf22",
+       "title": {
+        "ru": "Working Principle of Proportioning Valve When the Pressure is zero",
+        "en": "Working Principle of Proportioning Valve When the Pressure is zero"
+       },
+       "words": 710,
+       "images": 27,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t018_139460cd",
+       "title": {
+        "ru": "View For Step Motor Of Idle Speed Actuator",
+        "en": "View For Step Motor Of Idle Speed Actuator"
+       },
+       "words": 329,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t019_107dcf53",
+       "title": {
+        "ru": "6-10 IT IS PERIODICALLY UNSTEADY ( NEED TO RESTUDY BY SELF AFTER ECU TURNING OFF",
+        "en": "6-10 IT IS PERIODICALLY UNSTEADY ( NEED TO RESTUDY BY SELF AFTER ECU TURNING OFF"
+       },
+       "words": 43,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t020_30defafa",
+       "title": {
+        "ru": "ELF RENAULTMATIC D3 SYN (purchase it from ELF), DEXRON II standard.",
+        "en": "ELF RENAULTMATIC D3 SYN (purchase it from ELF), DEXRON II standard."
+       },
+       "words": 402,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "chery_qq_general_t021_0543ca76",
+       "title": {
+        "ru": "CHERY AUTOMOBILE CO.,LTD.",
+        "en": "CHERY AUTOMOBILE CO.,LTD."
+       },
+       "words": 310,
+       "images": 7,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chery_qq_drivetrain_t000_792c7f19",
+       "title": {
+        "ru": "I. A gearbox technique brief introduction of section 1",
+        "en": "I. A gearbox technique brief introduction of section 1"
+       },
+       "words": 1744,
+       "images": 36,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chery_qq_drivetrain_t001_9e807f2f",
+       "title": {
+        "ru": "Section 3 disassemble and repair starter motor",
+        "en": "Section 3 disassemble and repair starter motor"
+       },
+       "words": 1619,
+       "images": 38,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chery_qq_drivetrain_t002_b7218a21",
+       "title": {
+        "ru": "BRIEF INTRODUCTION TO MECHANICAL TRANSMISSION",
+        "en": "BRIEF INTRODUCTION TO MECHANICAL TRANSMISSION"
+       },
+       "words": 855,
+       "images": 12,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chery_qq_drivetrain_t003_1c3993ea",
+       "title": {
+        "ru": "MECHANICAL TRANSMISSION – ENGAGEMENT POSITION SENSOR",
+        "en": "MECHANICAL TRANSMISSION – ENGAGEMENT POSITION SENSOR"
+       },
+       "words": 568,
+       "images": 8,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "chery_qq_drivetrain_t004_fd0a35e5",
+       "title": {
+        "ru": "CHERY AUTOMOBILE CO.,LTD.",
+        "en": "CHERY AUTOMOBILE CO.,LTD."
+       },
+       "words": 449,
+       "images": 7,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chery_qq_sensors_t000_6b779e6d",
+       "title": {
+        "ru": "Cross-Section View For Sensor Of Air Intake Pressure And Temperature",
+        "en": "Cross-Section View For Sensor Of Air Intake Pressure And Temperature"
+       },
+       "words": 1311,
+       "images": 12,
+       "section_id": "sensors"
+      },
+      {
+       "id": "chery_qq_sensors_t001_6b249671",
+       "title": {
+        "ru": "Engagement position sensor/gear position selection sensor",
+        "en": "Engagement position sensor/gear position selection sensor"
+       },
+       "words": 179,
+       "images": 12,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "chery_qq_infotainment_t000_674dc910",
+       "title": {
+        "ru": "Chapter 5 Operation and Maintenance of Audio System",
+        "en": "Chapter 5 Operation and Maintenance of Audio System"
+       },
+       "words": 718,
+       "images": 6,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

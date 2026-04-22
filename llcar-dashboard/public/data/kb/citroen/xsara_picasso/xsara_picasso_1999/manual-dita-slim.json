@@ -1,0 +1,1725 @@
+{
+ "version": "1.0",
+ "model": "xsara_picasso",
+ "manuals": [
+  {
+   "model": "xsara_picasso",
+   "label": {
+    "ru": "Citroen Xsara Picasso — Руководство по ремонту",
+    "en": "Citroen Xsara Picasso — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_engine_t000_8ab7f0c9",
+       "title": {
+        "ru": "7.14 Coolant pump retaining nut (A) and retaining bolts (B) – 1.8 litre petrol e",
+        "en": "7.14 Coolant pump retaining nut (A) and retaining bolts (B) – 1.8 litre petrol e"
+       },
+       "words": 1827,
+       "images": 2,
+       "section_id": "engine"
+      },
+      {
+       "id": "citroen_xsara_picasso_engine_t001_510a10ad",
+       "title": {
+        "ru": "Hoses",
+        "en": "Hoses"
+       },
+       "words": 517,
+       "images": 6,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_brakes_t000_e30f1725",
+       "title": {
+        "ru": "Rear underbody view (1.6 litre model – 1.8 similar)",
+        "en": "Rear underbody view (1.6 litre model – 1.8 similar)"
+       },
+       "words": 1305,
+       "images": 3,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_xsara_picasso_brakes_t001_72a67787",
+       "title": {
+        "ru": "2.10b . . . then pull the lower suspension arm downwards using a bar and chain o",
+        "en": "2.10b . . . then pull the lower suspension arm downwards using a bar and chain o"
+       },
+       "words": 2215,
+       "images": 13,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_xsara_picasso_brakes_t002_a6e7e348",
+       "title": {
+        "ru": "Excessive pitching and/or rolling around corners, or during braking",
+        "en": "Excessive pitching and/or rolling around corners, or during braking"
+       },
+       "words": 1451,
+       "images": 16,
+       "section_id": "brakes"
+      },
+      {
+       "id": "citroen_xsara_picasso_brakes_t003_a2ca7d1e",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 166,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_suspension_t000_c955c971",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 41,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_electrical_t000_63f29523",
+       "title": {
+        "ru": "Alternator",
+        "en": "Alternator"
+       },
+       "words": 7,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_hvac_t000_018fde3e",
+       "title": {
+        "ru": "32Cooling, heating and air conditioning systems",
+        "en": "32Cooling, heating and air conditioning systems"
+       },
+       "words": 5,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_body_t000_cbc21d75",
+       "title": {
+        "ru": "Removal",
+        "en": "Removal"
+       },
+       "words": 166,
+       "images": 1,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_steering_t000_02fc3c2a",
+       "title": {
+        "ru": "Section",
+        "en": "Section"
+       },
+       "words": 450,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_lighting_t000_d238e630",
+       "title": {
+        "ru": "Includes Roadside Repairs and Mot Test Checks",
+        "en": "Includes Roadside Repairs and Mot Test Checks"
+       },
+       "words": 417,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t001_4457960b",
+       "title": {
+        "ru": "Fume or gas intoxication",
+        "en": "Fume or gas intoxication"
+       },
+       "words": 1005,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t002_5936d75d",
+       "title": {
+        "ru": "Underbonnet view of a 1.6 litre engine (later model)",
+        "en": "Underbonnet view of a 1.6 litre engine (later model)"
+       },
+       "words": 1005,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t003_650989b7",
+       "title": {
+        "ru": "5.23a Auxiliary drivebelt configuration – 1.8 litre engines without air conditio",
+        "en": "5.23a Auxiliary drivebelt configuration – 1.8 litre engines without air conditio"
+       },
+       "words": 1077,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t004_a14e8424",
+       "title": {
+        "ru": "Every 37 500 miles – diesel engine models 1B•13",
+        "en": "Every 37 500 miles – diesel engine models 1B•13"
+       },
+       "words": 1570,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t005_0546a6ce",
+       "title": {
+        "ru": "11.30 Measure the length of the cylinder head bolts from the underside of the he",
+        "en": "11.30 Measure the length of the cylinder head bolts from the underside of the he"
+       },
+       "words": 922,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t006_46dcd48f",
+       "title": {
+        "ru": "19.26 Ensure that the tab (arrowed) is correctly located in the cap when fitting",
+        "en": "19.26 Ensure that the tab (arrowed) is correctly located in the cap when fitting"
+       },
+       "words": 1892,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t007_6ad0edee",
+       "title": {
+        "ru": "13.56b .. . then ease the fuel rail and injector assembly out from the inlet man",
+        "en": "13.56b .. . then ease the fuel rail and injector assembly out from the inlet man"
+       },
+       "words": 1352,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t008_88fd0491",
+       "title": {
+        "ru": "2.14a On all 1.6 litre petrol engines the lambda sensor wiring connectors are cl",
+        "en": "2.14a On all 1.6 litre petrol engines the lambda sensor wiring connectors are cl"
+       },
+       "words": 1105,
+       "images": 8,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t009_e9ffff5a",
+       "title": {
+        "ru": "8.9 Position the release fork over the ball pivot stud and push it firmly until ",
+        "en": "8.9 Position the release fork over the ball pivot stud and push it firmly until "
+       },
+       "words": 1390,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t010_f1aefe78",
+       "title": {
+        "ru": "3.22k Position the gaiter inner end at the dimension recorded during removal, sl",
+        "en": "3.22k Position the gaiter inner end at the dimension recorded during removal, sl"
+       },
+       "words": 1900,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t011_23b07fe5",
+       "title": {
+        "ru": "6.5 Undo the two bolts each side securing the upper edge of the bumper to the fr",
+        "en": "6.5 Undo the two bolts each side securing the upper edge of the bumper to the fr"
+       },
+       "words": 928,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t012_c67a36c1",
+       "title": {
+        "ru": "14.6Lift the window glass upwards at the rear and remove it from the outside of ",
+        "en": "14.6Lift the window glass upwards at the rear and remove it from the outside of "
+       },
+       "words": 653,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t013_72949720",
+       "title": {
+        "ru": "25.18 Pull the top and sides of the rear quarter trim panel from the body to rel",
+        "en": "25.18 Pull the top and sides of the rear quarter trim panel from the body to rel"
+       },
+       "words": 543,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t014_da3ceb65",
+       "title": {
+        "ru": "5.8 Twist the sidelight bulbholder anticlockwise and withdraw it from the headli",
+        "en": "5.8 Twist the sidelight bulbholder anticlockwise and withdraw it from the headli"
+       },
+       "words": 969,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t015_743946ce",
+       "title": {
+        "ru": "17.3b .. . then withdraw the speaker and disconnect the wiring plug",
+        "en": "17.3b .. . then withdraw the speaker and disconnect the wiring plug"
+       },
+       "words": 1018,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "citroen_xsara_picasso_lighting_t016_8ca893f2",
+       "title": {
+        "ru": "Windscreen/tailgate washers failed, or unsatisfactory in operation",
+        "en": "Windscreen/tailgate washers failed, or unsatisfactory in operation"
+       },
+       "words": 992,
+       "images": 6,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_interior_t000_5fe69144",
+       "title": {
+        "ru": "Diagram 3",
+        "en": "Diagram 3"
+       },
+       "words": 65,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_ev_t000_b6986ae5",
+       "title": {
+        "ru": "5.3Disconnect the battery positive cables from the terminal box studs",
+        "en": "5.3Disconnect the battery positive cables from the terminal box studs"
+       },
+       "words": 112,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_general_t000_4bfcb949",
+       "title": {
+        "ru": "Inside this Manual",
+        "en": "Inside this Manual"
+       },
+       "words": 579,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t001_7c3c98f2",
+       "title": {
+        "ru": "Your Citroën Xsara Picasso Manual",
+        "en": "Your Citroën Xsara Picasso Manual"
+       },
+       "words": 1269,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t002_9888138c",
+       "title": {
+        "ru": "Power steering fluid",
+        "en": "Power steering fluid"
+       },
+       "words": 865,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t003_aedc15d1",
+       "title": {
+        "ru": "Underinflation (wear on both sides) Overinflation",
+        "en": "Underinflation (wear on both sides) Overinflation"
+       },
+       "words": 1348,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t004_3ac9f094",
+       "title": {
+        "ru": "Cleaning the engine internally",
+        "en": "Cleaning the engine internally"
+       },
+       "words": 457,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t005_42838406",
+       "title": {
+        "ru": "Every 12 500 miles (20 000 km) or 12 months - whichever comes first",
+        "en": "Every 12 500 miles (20 000 km) or 12 months - whichever comes first"
+       },
+       "words": 1050,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t006_0f490e26",
+       "title": {
+        "ru": "Maintenance procedures – petrol engine models 1A•7",
+        "en": "Maintenance procedures – petrol engine models 1A•7"
+       },
+       "words": 2129,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t007_60278522",
+       "title": {
+        "ru": "5.3a Using a forked type tool, extract the wheelarch liner upper...",
+        "en": "5.3a Using a forked type tool, extract the wheelarch liner upper..."
+       },
+       "words": 1279,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t008_fb76109c",
+       "title": {
+        "ru": "5.22 Rotate the tensioner pulley anticlockwise using a spanner, and slip the bel",
+        "en": "5.22 Rotate the tensioner pulley anticlockwise using a spanner, and slip the bel"
+       },
+       "words": 745,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t009_94c68e01",
+       "title": {
+        "ru": "13 Hinge and lock operation and lubrication",
+        "en": "13 Hinge and lock operation and lubrication"
+       },
+       "words": 2053,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t010_cd3c104a",
+       "title": {
+        "ru": "21.3 Unclip the retaining strap (arrowed) to release the fuel filter from the fu",
+        "en": "21.3 Unclip the retaining strap (arrowed) to release the fuel filter from the fu"
+       },
+       "words": 1541,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t011_ff230f9f",
+       "title": {
+        "ru": "Every 10 years – regardless of mileage",
+        "en": "Every 10 years – regardless of mileage"
+       },
+       "words": 983,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t012_51f01f27",
+       "title": {
+        "ru": "Every 12 500 miles (20 000 km) or 12 months - whichever comes first",
+        "en": "Every 12 500 miles (20 000 km) or 12 months - whichever comes first"
+       },
+       "words": 1895,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t013_47fd864f",
+       "title": {
+        "ru": "Warning: Refer to the safety information given in 'Safety First!' and Chapter 4B",
+        "en": "Warning: Refer to the safety information given in 'Safety First!' and Chapter 4B"
+       },
+       "words": 1680,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t014_07a02abb",
+       "title": {
+        "ru": "6.7b .. . then insert a 4.0 mm locking tool through the hole and into the mounti",
+        "en": "6.7b .. . then insert a 4.0 mm locking tool through the hole and into the mounti"
+       },
+       "words": 1275,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t015_03113d0c",
+       "title": {
+        "ru": "17.9d .. . then lift out the filter element – early type filter assembly",
+        "en": "17.9d .. . then lift out the filter element – early type filter assembly"
+       },
+       "words": 1274,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t016_e0c8d6be",
+       "title": {
+        "ru": "19.6 Top-up the transmission until a trickle of new oil can be seen emerging fro",
+        "en": "19.6 Top-up the transmission until a trickle of new oil can be seen emerging fro"
+       },
+       "words": 1863,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t017_5b2ba061",
+       "title": {
+        "ru": "Repair operations possible with the engine in the vehicle",
+        "en": "Repair operations possible with the engine in the vehicle"
+       },
+       "words": 1358,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t018_06d2153d",
+       "title": {
+        "ru": "1.9 Engine code is stamped on a plate (arrowed) attached to the front of the cyl",
+        "en": "1.9 Engine code is stamped on a plate (arrowed) attached to the front of the cyl"
+       },
+       "words": 1889,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t019_17ef71ad",
+       "title": {
+        "ru": "6.16 Slacken the tensioner centre nut, then pivot the tensioner pulley anti-cloc",
+        "en": "6.16 Slacken the tensioner centre nut, then pivot the tensioner pulley anti-cloc"
+       },
+       "words": 1771,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t020_2bbadba7",
+       "title": {
+        "ru": "Valve fully open Adjust valves",
+        "en": "Valve fully open Adjust valves"
+       },
+       "words": 2068,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t021_7e36804d",
+       "title": {
+        "ru": "11.30 Refit the rocker arm assembly to the cylinder head",
+        "en": "11.30 Refit the rocker arm assembly to the cylinder head"
+       },
+       "words": 2227,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t022_7c487cbe",
+       "title": {
+        "ru": "16.3 Engine/transmission mounting components and attachment details",
+        "en": "16.3 Engine/transmission mounting components and attachment details"
+       },
+       "words": 1445,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t023_9661f9fd",
+       "title": {
+        "ru": "3.6 Camshaft sprocket locking tools inserted through the timing hole in each spr",
+        "en": "3.6 Camshaft sprocket locking tools inserted through the timing hole in each spr"
+       },
+       "words": 2055,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t024_51523ac2",
+       "title": {
+        "ru": "7.8 Using an Allen key in the hole (arrowed) on the tensioner pulley, rotate the",
+        "en": "7.8 Using an Allen key in the hole (arrowed) on the tensioner pulley, rotate the"
+       },
+       "words": 721,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t025_689f9bb5",
+       "title": {
+        "ru": "7.13 Locate the timing belt on the crankshaft sprocket, with the arrows on the b",
+        "en": "7.13 Locate the timing belt on the crankshaft sprocket, with the arrows on the b"
+       },
+       "words": 1537,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t026_6c40cdb2",
+       "title": {
+        "ru": "8.23 Ensure that the slot (arrowed) on the tensioner pulley body engages with th",
+        "en": "8.23 Ensure that the slot (arrowed) on the tensioner pulley body engages with th"
+       },
+       "words": 2260,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t027_452d492c",
+       "title": {
+        "ru": "11.32b .. . and that the camshaft oil supply non-return valve (arrowed) is in pl",
+        "en": "11.32b .. . and that the camshaft oil supply non-return valve (arrowed) is in pl"
+       },
+       "words": 2035,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t028_a26e1cca",
+       "title": {
+        "ru": "Compression pressures (engine hot, at cranking speed)",
+        "en": "Compression pressures (engine hot, at cranking speed)"
+       },
+       "words": 1398,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t029_5b49e9a2",
+       "title": {
+        "ru": "Repair operations possible with the engine in the vehicle",
+        "en": "Repair operations possible with the engine in the vehicle"
+       },
+       "words": 1903,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t030_99344c01",
+       "title": {
+        "ru": "6.6Release the two fuel hoses from the retaining clips on the timing belt upper ",
+        "en": "6.6Release the two fuel hoses from the retaining clips on the timing belt upper "
+       },
+       "words": 1218,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t031_3146b6de",
+       "title": {
+        "ru": "7.16a On engines with a two-piece camshaft sprocket, retain the timing belt on t",
+        "en": "7.16a On engines with a two-piece camshaft sprocket, retain the timing belt on t"
+       },
+       "words": 2696,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t032_7002dc60",
+       "title": {
+        "ru": "8.24a Slide the crankshaft sprocket off the end of the crankshaft ...",
+        "en": "8.24a Slide the crankshaft sprocket off the end of the crankshaft ..."
+       },
+       "words": 934,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t033_6d023b23",
+       "title": {
+        "ru": "9.25Camshaft bearing housing retaining bolt tightening sequence",
+        "en": "9.25Camshaft bearing housing retaining bolt tightening sequence"
+       },
+       "words": 2099,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t034_5f001d40",
+       "title": {
+        "ru": "10.11a Where a sump spacer plate is fitted, apply sealant to the plate upper sur",
+        "en": "10.11a Where a sump spacer plate is fitted, apply sealant to the plate upper sur"
+       },
+       "words": 887,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t035_6c26a2fc",
+       "title": {
+        "ru": "14.3 Engine/transmission mounting components and attachment details",
+        "en": "14.3 Engine/transmission mounting components and attachment details"
+       },
+       "words": 1998,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t036_51ebd5e2",
+       "title": {
+        "ru": "3Engine/transmission removalmethods and precautions",
+        "en": "3Engine/transmission removalmethods and precautions"
+       },
+       "words": 1648,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t037_3e6d1112",
+       "title": {
+        "ru": "4.9 Undo the retaining bolts (arrowed) and lift out the ECU support tray",
+        "en": "4.9 Undo the retaining bolts (arrowed) and lift out the ECU support tray"
+       },
+       "words": 2378,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t038_30fb6dd7",
+       "title": {
+        "ru": "9.3 Connecting rod and big-end bearing cap identification marks (No 3 shown)",
+        "en": "9.3 Connecting rod and big-end bearing cap identification marks (No 3 shown)"
+       },
+       "words": 2080,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t039_aae88f5d",
+       "title": {
+        "ru": "11.12 Removing the crankshaft bearing cap housing – 1.8 litre engines",
+        "en": "11.12 Removing the crankshaft bearing cap housing – 1.8 litre engines"
+       },
+       "words": 2101,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t040_58d1dfba",
+       "title": {
+        "ru": "19.16 Measure the width of the deformed Plastigauge using the scale on the card",
+        "en": "19.16 Measure the width of the deformed Plastigauge using the scale on the card"
+       },
+       "words": 2881,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t041_a4f79f3f",
+       "title": {
+        "ru": "21.6 Position a new oil pump drive collar O-ring on the end of the crankshaft – ",
+        "en": "21.6 Position a new oil pump drive collar O-ring on the end of the crankshaft – "
+       },
+       "words": 2545,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t042_15fcc08a",
+       "title": {
+        "ru": "Degrees of difficulty",
+        "en": "Degrees of difficulty"
+       },
+       "words": 699,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t043_0a5e4c4f",
+       "title": {
+        "ru": "4.6 Disconnect the EGR solenoid valve vacuum hoses and wiring connector",
+        "en": "4.6 Disconnect the EGR solenoid valve vacuum hoses and wiring connector"
+       },
+       "words": 2924,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t044_e1a9a611",
+       "title": {
+        "ru": "11.9 Remove the upper main bearing shells from the cylinder block, and store the",
+        "en": "11.9 Remove the upper main bearing shells from the cylinder block, and store the"
+       },
+       "words": 2609,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t045_fdace4c2",
+       "title": {
+        "ru": "Warning: Wear eye protection when using compressed air.",
+        "en": "Warning: Wear eye protection when using compressed air."
+       },
+       "words": 2873,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t046_43855205",
+       "title": {
+        "ru": "18.26 Apply sealant to the No 1 main bearing cap mating face on the cylinder blo",
+        "en": "18.26 Apply sealant to the No 1 main bearing cap mating face on the cylinder blo"
+       },
+       "words": 2967,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t047_5b535a26",
+       "title": {
+        "ru": "3Releasing a radiator top hose spring clip",
+        "en": "3Releasing a radiator top hose spring clip"
+       },
+       "words": 1311,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t048_53ddd592",
+       "title": {
+        "ru": "4.6b .. . then remove the thermostat sealing ring",
+        "en": "4.6b .. . then remove the thermostat sealing ring"
+       },
+       "words": 1185,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t049_5fac1825",
+       "title": {
+        "ru": "6.3 Coolant temperature warning light switch/temperature gauge sensor (A) and en",
+        "en": "6.3 Coolant temperature warning light switch/temperature gauge sensor (A) and en"
+       },
+       "words": 703,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t050_79b3afe2",
+       "title": {
+        "ru": "General information",
+        "en": "General information"
+       },
+       "words": 1466,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t051_7ad76dc6",
+       "title": {
+        "ru": "10.30 Rotate the motor clockwise and withdraw the unit from the air distribution",
+        "en": "10.30 Rotate the motor clockwise and withdraw the unit from the air distribution"
+       },
+       "words": 1345,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t052_aa66afc2",
+       "title": {
+        "ru": "2.6 Slacken the clip and disconnect the air inlet flexible duct from the throttl",
+        "en": "2.6 Slacken the clip and disconnect the air inlet flexible duct from the throttl"
+       },
+       "words": 783,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t053_ab798b8f",
+       "title": {
+        "ru": "3.2 Free the accelerator inner cable from the throttle cam, and pull the outer c",
+        "en": "3.2 Free the accelerator inner cable from the throttle cam, and pull the outer c"
+       },
+       "words": 2340,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t054_cdffedb5",
+       "title": {
+        "ru": "Fuel gauge sender unit — removal and refitting",
+        "en": "Fuel gauge sender unit — removal and refitting"
+       },
+       "words": 1652,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t055_c10efc85",
+       "title": {
+        "ru": "13.20a Drill out the pop rivets securing the metal cover over the ECU wiring con",
+        "en": "13.20a Drill out the pop rivets securing the metal cover over the ECU wiring con"
+       },
+       "words": 1335,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t056_cbb0a880",
+       "title": {
+        "ru": "13.86b ... then undo-the bolt and remove the sensor from the rear cylinder head ",
+        "en": "13.86b ... then undo-the bolt and remove the sensor from the rear cylinder head "
+       },
+       "words": 1291,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t057_16d70d83",
+       "title": {
+        "ru": "16.8 Remove the fasteners securing the exhaust front pipe to the catalytic conve",
+        "en": "16.8 Remove the fasteners securing the exhaust front pipe to the catalytic conve"
+       },
+       "words": 629,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t058_c512b523",
+       "title": {
+        "ru": "Refitting – all engines",
+        "en": "Refitting – all engines"
+       },
+       "words": 780,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t059_e66d74a3",
+       "title": {
+        "ru": "High-pressure fuel system",
+        "en": "High-pressure fuel system"
+       },
+       "words": 1556,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t060_909f1006",
+       "title": {
+        "ru": "2.7 Two crow-foot adaptors will be necessary for tightening the fuel pipe unions",
+        "en": "2.7 Two crow-foot adaptors will be necessary for tightening the fuel pipe unions"
+       },
+       "words": 1521,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t061_06e4ab10",
+       "title": {
+        "ru": "11.9a Using two spanners, unscrew the fuel pipe unions at the accumulator rail .",
+        "en": "11.9a Using two spanners, unscrew the fuel pipe unions at the accumulator rail ."
+       },
+       "words": 3008,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t062_b38fd51d",
+       "title": {
+        "ru": "13.24 Fuel temperature sensor (A) and fuel pressure sensor (B) locations on the ",
+        "en": "13.24 Fuel temperature sensor (A) and fuel pressure sensor (B) locations on the "
+       },
+       "words": 1385,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t063_9a48f563",
+       "title": {
+        "ru": "18.7 Exhaust front pipe-to-turbocharger securing nut (1), spring seat (2) and sp",
+        "en": "18.7 Exhaust front pipe-to-turbocharger securing nut (1), spring seat (2) and sp"
+       },
+       "words": 1255,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t064_7c107b34",
+       "title": {
+        "ru": "Intermediate pіpe",
+        "en": "Intermediate pіpe"
+       },
+       "words": 890,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t065_395fe972",
+       "title": {
+        "ru": "Exhaust gas recirculation system",
+        "en": "Exhaust gas recirculation system"
+       },
+       "words": 1054,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t066_a55ec27c",
+       "title": {
+        "ru": "Air pump air intake filter cleaning",
+        "en": "Air pump air intake filter cleaning"
+       },
+       "words": 1315,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t067_edef2763",
+       "title": {
+        "ru": "Caution: Do not attempt to charge, load or jump start a battery when the indicat",
+        "en": "Caution: Do not attempt to charge, load or jump start a battery when the indicat"
+       },
+       "words": 1211,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t068_d1887452",
+       "title": {
+        "ru": "10.5 Unscrew the two nuts (arrowed) and disconnect the wiring from the rear of t",
+        "en": "10.5 Unscrew the two nuts (arrowed) and disconnect the wiring from the rear of t"
+       },
+       "words": 2026,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t069_68d562c8",
+       "title": {
+        "ru": "12 Ignition switch – removal and refitting",
+        "en": "12 Ignition switch – removal and refitting"
+       },
+       "words": 1055,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t070_3ced41cb",
+       "title": {
+        "ru": "3.3 Unplug the wiring connector from the top of the ignition coil unit",
+        "en": "3.3 Unplug the wiring connector from the top of the ignition coil unit"
+       },
+       "words": 524,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t071_553b937e",
+       "title": {
+        "ru": "Torque wrench setting",
+        "en": "Torque wrench setting"
+       },
+       "words": 1305,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t072_e82c087a",
+       "title": {
+        "ru": "3Clutch master cylinder - removal and refitting",
+        "en": "3Clutch master cylinder - removal and refitting"
+       },
+       "words": 1756,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t073_94501bcf",
+       "title": {
+        "ru": "5.5 Undo the retaining bolts (arrowed) and lift out the ECU support tray",
+        "en": "5.5 Undo the retaining bolts (arrowed) and lift out the ECU support tray"
+       },
+       "words": 683,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t074_afbc31eb",
+       "title": {
+        "ru": "8.3Slide the release bearing off the guide tube and disengage the arms of the re",
+        "en": "8.3Slide the release bearing off the guide tube and disengage the arms of the re"
+       },
+       "words": 1258,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t075_81316f77",
+       "title": {
+        "ru": "2.8Refill the transmission slowly until the oil begins to trickle out of the ori",
+        "en": "2.8Refill the transmission slowly until the oil begins to trickle out of the ori"
+       },
+       "words": 1792,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t076_fc220069",
+       "title": {
+        "ru": "6.9Use a large flat-bladed screwdriver to prise the driveshaft oil seal out of p",
+        "en": "6.9Use a large flat-bladed screwdriver to prise the driveshaft oil seal out of p"
+       },
+       "words": 2254,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t077_ba26a4a7",
+       "title": {
+        "ru": "Lubrication (overhaul only – see text)",
+        "en": "Lubrication (overhaul only – see text)"
+       },
+       "words": 2148,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t078_9230124e",
+       "title": {
+        "ru": "3.22b Mount the driveshaft in a vice, engage the tripod over the splines and tap",
+        "en": "3.22b Mount the driveshaft in a vice, engage the tripod over the splines and tap"
+       },
+       "words": 2207,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t079_0d8c5bd3",
+       "title": {
+        "ru": "5.7a Depress the retainer spring cup and turn it through 90°, while holding the ",
+        "en": "5.7a Depress the retainer spring cup and turn it through 90°, while holding the "
+       },
+       "words": 3065,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t080_2dff7023",
+       "title": {
+        "ru": "9.2 To minimise fluid loss, fit a brake hose clamp to the flexible hose",
+        "en": "9.2 To minimise fluid loss, fit a brake hose clamp to the flexible hose"
+       },
+       "words": 1077,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t081_5c86550f",
+       "title": {
+        "ru": "14.2b .. . and remove the two sections of trim from the handbrake lever",
+        "en": "14.2b .. . and remove the two sections of trim from the handbrake lever"
+       },
+       "words": 1334,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t082_b7253414",
+       "title": {
+        "ru": "15.3 Lift up the carpet flaps and undo the handbrake lever retaining nuts",
+        "en": "15.3 Lift up the carpet flaps and undo the handbrake lever retaining nuts"
+       },
+       "words": 727,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t083_2f1df49a",
+       "title": {
+        "ru": "22.5 Vacuum pump O-ring locations (A) and gauze filter (B)",
+        "en": "22.5 Vacuum pump O-ring locations (A) and gauze filter (B)"
+       },
+       "words": 655,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t084_3df7d21c",
+       "title": {
+        "ru": "Degrees of difficulty",
+        "en": "Degrees of difficulty"
+       },
+       "words": 710,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t085_d92298bc",
+       "title": {
+        "ru": "6.6 .. . then remove the lower arm from the vehicle",
+        "en": "6.6 .. . then remove the lower arm from the vehicle"
+       },
+       "words": 2708,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t086_098d47fa",
+       "title": {
+        "ru": "8.2 Undo the nut and washer (arrowed) securing the left-hand connecting link to ",
+        "en": "8.2 Undo the nut and washer (arrowed) securing the left-hand connecting link to "
+       },
+       "words": 1384,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t087_1da36e7a",
+       "title": {
+        "ru": "17.4 Disconnect the wiring connector from the radio/cassette player remote contr",
+        "en": "17.4 Disconnect the wiring connector from the radio/cassette player remote contr"
+       },
+       "words": 1470,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t088_0503a34b",
+       "title": {
+        "ru": "17.7 ... and feed the wiring harness through the wheel as it is withdrawn",
+        "en": "17.7 ... and feed the wiring harness through the wheel as it is withdrawn"
+       },
+       "words": 1458,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t089_36035498",
+       "title": {
+        "ru": "21 Power steering system bleeding",
+        "en": "21 Power steering system bleeding"
+       },
+       "words": 2675,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t090_62492588",
+       "title": {
+        "ru": "Difficult, suitable for experienced DIY mechanic",
+        "en": "Difficult, suitable for experienced DIY mechanic"
+       },
+       "words": 3111,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t091_ac4b7151",
+       "title": {
+        "ru": "6Front bumper - removal and refitting",
+        "en": "6Front bumper - removal and refitting"
+       },
+       "words": 1161,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t092_fb88ed23",
+       "title": {
+        "ru": "Front door lock cylinder",
+        "en": "Front door lock cylinder"
+       },
+       "words": 906,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t093_055e61ac",
+       "title": {
+        "ru": "13.33b .. . then manipulate the lock assembly out through the door aperture",
+        "en": "13.33b .. . then manipulate the lock assembly out through the door aperture"
+       },
+       "words": 729,
+       "images": 11,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t094_e9e654f3",
+       "title": {
+        "ru": "15.6 Unscrew the two bolts (arrowed) each side securing the hinges to the tailga",
+        "en": "15.6 Unscrew the two bolts (arrowed) each side securing the hinges to the tailga"
+       },
+       "words": 1193,
+       "images": 19,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t095_64656aad",
+       "title": {
+        "ru": "Tailgate lock motor",
+        "en": "Tailgate lock motor"
+       },
+       "words": 593,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t096_f2f6dd9b",
+       "title": {
+        "ru": "19 Windscreen, tailgate and fixed side window glass - general information",
+        "en": "19 Windscreen, tailgate and fixed side window glass - general information"
+       },
+       "words": 560,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t097_79d0d738",
+       "title": {
+        "ru": "24.5 Undo the seat belt lower anchor bolt and the inertia reel anchor bolt (arro",
+        "en": "24.5 Undo the seat belt lower anchor bolt and the inertia reel anchor bolt (arro"
+       },
+       "words": 875,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t098_2770256c",
+       "title": {
+        "ru": "Refitting",
+        "en": "Refitting"
+       },
+       "words": 675,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t099_112a265f",
+       "title": {
+        "ru": "False floor front section removal",
+        "en": "False floor front section removal"
+       },
+       "words": 963,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t100_b9afcbe1",
+       "title": {
+        "ru": "Electrical fault finding - general information",
+        "en": "Electrical fault finding - general information"
+       },
+       "words": 2059,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t101_b4c37260",
+       "title": {
+        "ru": "3.6 Using the plastic tool provided in the fuse/relay box to pull a fuse from it",
+        "en": "3.6 Using the plastic tool provided in the fuse/relay box to pull a fuse from it"
+       },
+       "words": 1342,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t102_fdd5f310",
+       "title": {
+        "ru": "5.12 Remove the bayonet fit direction indicator bulb from the bulbholder",
+        "en": "5.12 Remove the bayonet fit direction indicator bulb from the bulbholder"
+       },
+       "words": 952,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t103_11acf753",
+       "title": {
+        "ru": "Refitting",
+        "en": "Refitting"
+       },
+       "words": 781,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t104_3de4d0cf",
+       "title": {
+        "ru": "18 Anti-theft system and engine immobiliser - general information",
+        "en": "18 Anti-theft system and engine immobiliser - general information"
+       },
+       "words": 662,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t105_d485f8f9",
+       "title": {
+        "ru": "20.16a Withdraw the rotary connector from the steering column . . .",
+        "en": "20.16a Withdraw the rotary connector from the steering column . . ."
+       },
+       "words": 667,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t106_3ffdd674",
+       "title": {
+        "ru": "20.16b .. . feeding the wiring harness through the stalk switch bracket",
+        "en": "20.16b .. . feeding the wiring harness through the stalk switch bracket"
+       },
+       "words": 890,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t107_1fa6ca99",
+       "title": {
+        "ru": "Wire colours Key to items",
+        "en": "Wire colours Key to items"
+       },
+       "words": 1763,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t108_6ab87e7a",
+       "title": {
+        "ru": "Dimensions and weights",
+        "en": "Dimensions and weights"
+       },
+       "words": 1152,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t109_cdb98a01",
+       "title": {
+        "ru": "Vehicle identification details",
+        "en": "Vehicle identification details"
+       },
+       "words": 1143,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t110_171f96e6",
+       "title": {
+        "ru": "Disconnecting the negative (earth) lead",
+        "en": "Disconnecting the negative (earth) lead"
+       },
+       "words": 2505,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t111_8618eda5",
+       "title": {
+        "ru": "Checks carried out FROM THE DRIVER'S SEAT",
+        "en": "Checks carried out FROM THE DRIVER'S SEAT"
+       },
+       "words": 1453,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t112_d7aaf073",
+       "title": {
+        "ru": "Checks carried out WITH THE VEHICLE RAISED AND THE WHEELS FREE TO TURN",
+        "en": "Checks carried out WITH THE VEHICLE RAISED AND THE WHEELS FREE TO TURN"
+       },
+       "words": 1197,
+       "images": 9,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t113_d75962e9",
+       "title": {
+        "ru": "Suspension and steering systems",
+        "en": "Suspension and steering systems"
+       },
+       "words": 845,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t114_cc59c2d8",
+       "title": {
+        "ru": "Engine fails to rotate when attempting to start Engine starts, but stops immedia",
+        "en": "Engine fails to rotate when attempting to start Engine starts, but stops immedia"
+       },
+       "words": 1069,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t115_b2c77ecc",
+       "title": {
+        "ru": "Pre-ignition (pinking) or knocking during acceleration or under load",
+        "en": "Pre-ignition (pinking) or knocking during acceleration or under load"
+       },
+       "words": 482,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t116_f602ab61",
+       "title": {
+        "ru": "Excessive noise or fumes from exhaust system",
+        "en": "Excessive noise or fumes from exhaust system"
+       },
+       "words": 269,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t117_a73b940a",
+       "title": {
+        "ru": "Clutch slips (engine speed rises, with no increase in vehicle speed)",
+        "en": "Clutch slips (engine speed rises, with no increase in vehicle speed)"
+       },
+       "words": 292,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t118_fbe194e3",
+       "title": {
+        "ru": "Brake pedal feels spongy when depressed Rear wheels locking under normal braking",
+        "en": "Brake pedal feels spongy when depressed Rear wheels locking under normal braking"
+       },
+       "words": 482,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t119_07c619f2",
+       "title": {
+        "ru": "Tyres worn on inside or outside edges",
+        "en": "Tyres worn on inside or outside edges"
+       },
+       "words": 346,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t120_b47c63e8",
+       "title": {
+        "ru": "Horn inoperative, or unsatisfactory in operation Horn operates all the time",
+        "en": "Horn inoperative, or unsatisfactory in operation Horn operates all the time"
+       },
+       "words": 230,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t121_e74368f6",
+       "title": {
+        "ru": "G Gap The distance the spark must travel in jumping from the centre electrode to",
+        "en": "G Gap The distance the spark must travel in jumping from the centre electrode to"
+       },
+       "words": 933,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t122_7e4b7591",
+       "title": {
+        "ru": "REF•26 Glossary of technical terms",
+        "en": "REF•26 Glossary of technical terms"
+       },
+       "words": 1441,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t123_17713f6e",
+       "title": {
+        "ru": "Refitting – left-hand drive models",
+        "en": "Refitting – left-hand drive models"
+       },
+       "words": 66,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t124_84ebfbf0",
+       "title": {
+        "ru": "Refitting",
+        "en": "Refitting"
+       },
+       "words": 208,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "citroen_xsara_picasso_general_t125_2f71e3f6",
+       "title": {
+        "ru": "Tyres worn on inside and outside edges",
+        "en": "Tyres worn on inside and outside edges"
+       },
+       "words": 212,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_sensors_t000_a3ff1ac9",
+       "title": {
+        "ru": "Coolant temperature sensor",
+        "en": "Coolant temperature sensor"
+       },
+       "words": 20,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "citroen_xsara_picasso_drivetrain_t000_48e47618",
+       "title": {
+        "ru": "5.8Remove the facia lower trim panel above the pedals on the driver's side",
+        "en": "5.8Remove the facia lower trim panel above the pedals on the driver's side"
+       },
+       "words": 6,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

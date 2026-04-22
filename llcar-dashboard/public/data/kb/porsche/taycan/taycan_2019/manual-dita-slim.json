@@ -1,0 +1,2585 @@
+{
+ "version": "1.0",
+ "model": "taycan",
+ "manuals": [
+  {
+   "model": "taycan",
+   "label": {
+    "ru": "Porsche Taycan — Руководство по ремонту",
+    "en": "Porsche Taycan — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "porsche_taycan_engine_t000_d4cb66e4",
+       "title": {
+        "ru": "Exercise extreme care when towing if the engine",
+        "en": "Exercise extreme care when towing if the engine"
+       },
+       "words": 297,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_taycan_engine_t001_c5c39996",
+       "title": {
+        "ru": "Wash the underside of the vehicle thoroughly at",
+        "en": "Wash the underside of the vehicle thoroughly at"
+       },
+       "words": 406,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_taycan_engine_t002_6a593a2c",
+       "title": {
+        "ru": "Setting and activating a personal speed limit",
+        "en": "Setting and activating a personal speed limit"
+       },
+       "words": 411,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "porsche_taycan_engine_t003_2d52ef4b",
+       "title": {
+        "ru": "The safety compliance sticker is your assurance that",
+        "en": "The safety compliance sticker is your assurance that"
+       },
+       "words": 498,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "porsche_taycan_brakes_t000_0671b7a0",
+       "title": {
+        "ru": "Check that all lights function correctly and have",
+        "en": "Check that all lights function correctly and have"
+       },
+       "words": 295,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t001_5b2fe50c",
+       "title": {
+        "ru": "Driving on racetracks puts high pressure on brake",
+        "en": "Driving on racetracks puts high pressure on brake"
+       },
+       "words": 330,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t002_59fbaef7",
+       "title": {
+        "ru": "ACC automatically maintains a set distance. Adap-",
+        "en": "ACC automatically maintains a set distance. Adap-"
+       },
+       "words": 453,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t003_5e91c148",
+       "title": {
+        "ru": "The accelerator can be inadvertently actuated or the",
+        "en": "The accelerator can be inadvertently actuated or the"
+       },
+       "words": 637,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t004_d2b7d093",
+       "title": {
+        "ru": "Both circuits function independently. One brake cir-",
+        "en": "Both circuits function independently. One brake cir-"
+       },
+       "words": 670,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t005_cb10c512",
+       "title": {
+        "ru": "Allow a greater braking distance from the vehicle",
+        "en": "Allow a greater braking distance from the vehicle"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t006_5d99fba1",
+       "title": {
+        "ru": "Cruise control accelerates or brakes the vehicle",
+        "en": "Cruise control accelerates or brakes the vehicle"
+       },
+       "words": 426,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t007_4a96b29b",
+       "title": {
+        "ru": "Unlocking hood using center console control",
+        "en": "Unlocking hood using center console control"
+       },
+       "words": 435,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t008_7e35a99f",
+       "title": {
+        "ru": "If the system-induced deceleration is insuffi-",
+        "en": "If the system-induced deceleration is insuffi-"
+       },
+       "words": 562,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t009_4ec3e132",
+       "title": {
+        "ru": "PSM is absent in critical driving situations outside",
+        "en": "PSM is absent in critical driving situations outside"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t010_3a153ba7",
+       "title": {
+        "ru": "The controlled braking process is comparable to ca-",
+        "en": "The controlled braking process is comparable to ca-"
+       },
+       "words": 361,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t011_509d88e0",
+       "title": {
+        "ru": "The parking lock and parking brake are activated",
+        "en": "The parking lock and parking brake are activated"
+       },
+       "words": 316,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t012_30e6ac1d",
+       "title": {
+        "ru": "If the high-voltage battery is defective or completely",
+        "en": "If the high-voltage battery is defective or completely"
+       },
+       "words": 303,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t013_9cbf9666",
+       "title": {
+        "ru": "Automatic braking interventions can be aborted with",
+        "en": "Automatic braking interventions can be aborted with"
+       },
+       "words": 290,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t014_d6b28f0f",
+       "title": {
+        "ru": "Properly functioning wiper blades are absolutely",
+        "en": "Properly functioning wiper blades are absolutely"
+       },
+       "words": 437,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "porsche_taycan_brakes_t015_89bc97f1",
+       "title": {
+        "ru": "For recommendations for proper recycling:",
+        "en": "For recommendations for proper recycling:"
+       },
+       "words": 1615,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "suspension",
+     "title": {
+      "ru": "Подвеска",
+      "en": "Suspension"
+     },
+     "icon": "🔩",
+     "topics": [
+      {
+       "id": "porsche_taycan_suspension_t000_457c50a1",
+       "title": {
+        "ru": "The height control system with air suspension auto-",
+        "en": "The height control system with air suspension auto-"
+       },
+       "words": 418,
+       "images": 0,
+       "section_id": "suspension"
+      },
+      {
+       "id": "porsche_taycan_suspension_t001_844704d2",
+       "title": {
+        "ru": "Touching conductive parts of the vehicle can give",
+        "en": "Touching conductive parts of the vehicle can give"
+       },
+       "words": 268,
+       "images": 0,
+       "section_id": "suspension"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "porsche_taycan_hvac_t000_f154dcbd",
+       "title": {
+        "ru": "The ventilation panel can be activated or deactivated",
+        "en": "The ventilation panel can be activated or deactivated"
+       },
+       "words": 257,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "porsche_taycan_hvac_t001_f13c46c4",
+       "title": {
+        "ru": "Seat ventilation is not available when the interior",
+        "en": "Seat ventilation is not available when the interior"
+       },
+       "words": 118,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "porsche_taycan_body_t000_8a55a48f",
+       "title": {
+        "ru": "Dirty windshields and windows as well as defective",
+        "en": "Dirty windshields and windows as well as defective"
+       },
+       "words": 427,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t001_df6a64c9",
+       "title": {
+        "ru": "This equipment complies with the specified FCC ra-",
+        "en": "This equipment complies with the specified FCC ra-"
+       },
+       "words": 442,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t002_37ebb925",
+       "title": {
+        "ru": "The precool/heat function enables climate control",
+        "en": "The precool/heat function enables climate control"
+       },
+       "words": 341,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t003_c4f7a7f6",
+       "title": {
+        "ru": "Do not spray water and interior window cleaner",
+        "en": "Do not spray water and interior window cleaner"
+       },
+       "words": 198,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t004_0500eae7",
+       "title": {
+        "ru": "The door handles retract 45 seconds after the",
+        "en": "The door handles retract 45 seconds after the"
+       },
+       "words": 399,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t005_8b9ce1a3",
+       "title": {
+        "ru": "Inform any persons remaining in the vehicle that",
+        "en": "Inform any persons remaining in the vehicle that"
+       },
+       "words": 349,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t006_5417cad7",
+       "title": {
+        "ru": "Fig. 42: Emergency unlocking/emergency locking",
+        "en": "Fig. 42: Emergency unlocking/emergency locking"
+       },
+       "words": 292,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t007_ccb45561",
+       "title": {
+        "ru": "The electric charge port door closes automatically",
+        "en": "The electric charge port door closes automatically"
+       },
+       "words": 286,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t008_10d77f73",
+       "title": {
+        "ru": "After performing an emergency release on the man-",
+        "en": "After performing an emergency release on the man-"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t009_9f7f1243",
+       "title": {
+        "ru": "Road users are approaching extremely slowly or",
+        "en": "Road users are approaching extremely slowly or"
+       },
+       "words": 402,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t010_b195c4e6",
+       "title": {
+        "ru": "Move your hand between the Porsche crest and",
+        "en": "Move your hand between the Porsche crest and"
+       },
+       "words": 199,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t011_2eef84f9",
+       "title": {
+        "ru": "Interior lighting e Enable Interior lighting when",
+        "en": "Interior lighting e Enable Interior lighting when"
+       },
+       "words": 334,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t012_aba0c09d",
+       "title": {
+        "ru": "The distance from the slow approaching vehicle is",
+        "en": "The distance from the slow approaching vehicle is"
+       },
+       "words": 569,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t013_3f9670a5",
+       "title": {
+        "ru": "C – Warning indicator flashes in warning stage",
+        "en": "C – Warning indicator flashes in warning stage"
+       },
+       "words": 609,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t014_62021067",
+       "title": {
+        "ru": "Vehicles or objects appear smaller in convex mirrors",
+        "en": "Vehicles or objects appear smaller in convex mirrors"
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t015_6b88fd1e",
+       "title": {
+        "ru": "Folding door mirrors in and out automatically",
+        "en": "Folding door mirrors in and out automatically"
+       },
+       "words": 201,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t016_63c9c1bd",
+       "title": {
+        "ru": "Making individual adjustments to the position of",
+        "en": "Making individual adjustments to the position of"
+       },
+       "words": 488,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t017_6ad95e77",
+       "title": {
+        "ru": "Canceling retrieval of the ergonomic settings",
+        "en": "Canceling retrieval of the ergonomic settings"
+       },
+       "words": 334,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t018_2cc39841",
+       "title": {
+        "ru": "Press one of the following buttons to immediately",
+        "en": "Press one of the following buttons to immediately"
+       },
+       "words": 399,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t019_ca786eaf",
+       "title": {
+        "ru": "To prevent unintentional movement of the trunk lid:",
+        "en": "To prevent unintentional movement of the trunk lid:"
+       },
+       "words": 334,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t020_93d1f4b8",
+       "title": {
+        "ru": "To prevent unintentional movement of the trunk lid:",
+        "en": "To prevent unintentional movement of the trunk lid:"
+       },
+       "words": 337,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t021_c43e1c6e",
+       "title": {
+        "ru": "Configuring vehicle settings / using vehicle func-",
+        "en": "Configuring vehicle settings / using vehicle func-"
+       },
+       "words": 426,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t022_84d6f3ac",
+       "title": {
+        "ru": "Perform the following steps for all side windows:",
+        "en": "Perform the following steps for all side windows:"
+       },
+       "words": 364,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t023_266749d0",
+       "title": {
+        "ru": "The Gross Vehicle Weight Rating is the maximum",
+        "en": "The Gross Vehicle Weight Rating is the maximum"
+       },
+       "words": 1178,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t024_2f70cd0f",
+       "title": {
+        "ru": "HomeLink® garage door opener",
+        "en": "HomeLink® garage door opener"
+       },
+       "words": 3299,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "porsche_taycan_body_t025_44066400",
+       "title": {
+        "ru": "Side windows",
+        "en": "Side windows"
+       },
+       "words": 700,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "steering",
+     "title": {
+      "ru": "Рулевое управление",
+      "en": "Steering"
+     },
+     "icon": "🎯",
+     "topics": [
+      {
+       "id": "porsche_taycan_steering_t000_b2e9a6b3",
+       "title": {
+        "ru": "If the high-voltage battery or the air-conditioning",
+        "en": "If the high-voltage battery or the air-conditioning"
+       },
+       "words": 529,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t001_32408fef",
+       "title": {
+        "ru": "Cleaners with an oxide-removing effect or incorrect",
+        "en": "Cleaners with an oxide-removing effect or incorrect"
+       },
+       "words": 473,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t002_4089bcc4",
+       "title": {
+        "ru": "Steering wheels with a microfiber cover made of",
+        "en": "Steering wheels with a microfiber cover made of"
+       },
+       "words": 333,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t003_eff87a27",
+       "title": {
+        "ru": "Configuring settings and operating the multifunction",
+        "en": "Configuring settings and operating the multifunction"
+       },
+       "words": 371,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t004_29931e90",
+       "title": {
+        "ru": "These guide lines indicate the direction the vehicle",
+        "en": "These guide lines indicate the direction the vehicle"
+       },
+       "words": 459,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t005_be870319",
+       "title": {
+        "ru": "3. Grip the upper part of the steering wheel. Set the",
+        "en": "3. Grip the upper part of the steering wheel. Set the"
+       },
+       "words": 252,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t006_076d51f2",
+       "title": {
+        "ru": "The steering wheel can move further than intended",
+        "en": "The steering wheel can move further than intended"
+       },
+       "words": 426,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t007_c8de96d4",
+       "title": {
+        "ru": "Message in the instrument cluster or central display",
+        "en": "Message in the instrument cluster or central display"
+       },
+       "words": 509,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t008_085a64fe",
+       "title": {
+        "ru": "Before fitting tires and wheels with dimensions",
+        "en": "Before fitting tires and wheels with dimensions"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t009_1a0d2cfc",
+       "title": {
+        "ru": "Please see chapter \"Jack and Lifting Platform\" on",
+        "en": "Please see chapter \"Jack and Lifting Platform\" on"
+       },
+       "words": 357,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t010_a2699bc7",
+       "title": {
+        "ru": "Tighten wheel bolts with a tightening torque of",
+        "en": "Tighten wheel bolts with a tightening torque of"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t011_c3cae7cb",
+       "title": {
+        "ru": "Configuring the capacitive button on the instrument",
+        "en": "Configuring the capacitive button on the instrument"
+       },
+       "words": 2050,
+       "images": 0,
+       "section_id": "steering"
+      },
+      {
+       "id": "porsche_taycan_steering_t012_977bdeb4",
+       "title": {
+        "ru": "Washer fluid",
+        "en": "Washer fluid"
+       },
+       "words": 914,
+       "images": 0,
+       "section_id": "steering"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "porsche_taycan_lighting_t000_21b39627",
+       "title": {
+        "ru": "Familiarize yourself with the meaning of warning",
+        "en": "Familiarize yourself with the meaning of warning"
+       },
+       "words": 277,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t001_03168ba0",
+       "title": {
+        "ru": "Depending on various factors like the vehicle interior",
+        "en": "Depending on various factors like the vehicle interior"
+       },
+       "words": 366,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t002_6ebb15a6",
+       "title": {
+        "ru": "The interior temperature can be precooled/heated",
+        "en": "The interior temperature can be precooled/heated"
+       },
+       "words": 307,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t003_cc429dcc",
+       "title": {
+        "ru": "The passenger compartment can also be precooled/",
+        "en": "The passenger compartment can also be precooled/"
+       },
+       "words": 381,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t004_4cd0b555",
+       "title": {
+        "ru": "Following conclusion of a charging contract that in-",
+        "en": "Following conclusion of a charging contract that in-"
+       },
+       "words": 427,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t005_faae46e6",
+       "title": {
+        "ru": "Have sealed tires replaced by an authorized Por-",
+        "en": "Have sealed tires replaced by an authorized Por-"
+       },
+       "words": 444,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t006_7a99fc9b",
+       "title": {
+        "ru": "The warning light lights up continuously:",
+        "en": "The warning light lights up continuously:"
+       },
+       "words": 541,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t007_55558d02",
+       "title": {
+        "ru": "The high beams are switched on and off",
+        "en": "The high beams are switched on and off"
+       },
+       "words": 185,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t008_bcdf81be",
+       "title": {
+        "ru": "Certain displays are only available when the vehicle",
+        "en": "Certain displays are only available when the vehicle"
+       },
+       "words": 286,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t009_b8ec3d17",
+       "title": {
+        "ru": "Always pay attention to the traffic situation and",
+        "en": "Always pay attention to the traffic situation and"
+       },
+       "words": 420,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t010_c09f7867",
+       "title": {
+        "ru": "PDLS Plus with LED matrix headlights also includes",
+        "en": "PDLS Plus with LED matrix headlights also includes"
+       },
+       "words": 376,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t011_047dc0e2",
+       "title": {
+        "ru": "Responsibility for braking in time and for appropriate",
+        "en": "Responsibility for braking in time and for appropriate"
+       },
+       "words": 289,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t012_7b94fee5",
+       "title": {
+        "ru": "This equipment complies with the specified FCC ra-",
+        "en": "This equipment complies with the specified FCC ra-"
+       },
+       "words": 380,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t013_b341cbca",
+       "title": {
+        "ru": "The driver acknowledges the currently de-",
+        "en": "The driver acknowledges the currently de-"
+       },
+       "words": 678,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t014_c4444ee3",
+       "title": {
+        "ru": "Important messages are stored as notifications under",
+        "en": "Important messages are stored as notifications under"
+       },
+       "words": 589,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t015_573fefee",
+       "title": {
+        "ru": "Message in the instrument cluster or central display",
+        "en": "Message in the instrument cluster or central display"
+       },
+       "words": 548,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t016_c17a6544",
+       "title": {
+        "ru": "When the windshield wipers or operational readiness",
+        "en": "When the windshield wipers or operational readiness"
+       },
+       "words": 508,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t017_b27366b8",
+       "title": {
+        "ru": "WARNING: The transmitter has been tested and",
+        "en": "WARNING: The transmitter has been tested and"
+       },
+       "words": 2034,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "porsche_taycan_lighting_t018_eec709f7",
+       "title": {
+        "ru": "Lateral acceleration forces",
+        "en": "Lateral acceleration forces"
+       },
+       "words": 3509,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "porsche_taycan_adas_t000_a534de78",
+       "title": {
+        "ru": "An unsecured or incorrectly positioned load in the",
+        "en": "An unsecured or incorrectly positioned load in the"
+       },
+       "words": 436,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "porsche_taycan_adas_t001_e3b80bce",
+       "title": {
+        "ru": "Keeping therefore does not intervene in steering in",
+        "en": "Keeping therefore does not intervene in steering in"
+       },
+       "words": 366,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "porsche_taycan_adas_t002_3d54f710",
+       "title": {
+        "ru": "Visit an authorized Porsche dealer. Porsche rec-",
+        "en": "Visit an authorized Porsche dealer. Porsche rec-"
+       },
+       "words": 430,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "porsche_taycan_adas_t003_154f8380",
+       "title": {
+        "ru": "Due to technical or organizational restrictions out-",
+        "en": "Due to technical or organizational restrictions out-"
+       },
+       "words": 443,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "porsche_taycan_adas_t004_3dd0967b",
+       "title": {
+        "ru": "Crossing objects that accelerate or change driv-",
+        "en": "Crossing objects that accelerate or change driv-"
+       },
+       "words": 400,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "porsche_taycan_adas_t005_9d06bd0e",
+       "title": {
+        "ru": "The rear turn assist is always automatically activated",
+        "en": "The rear turn assist is always automatically activated"
+       },
+       "words": 534,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "porsche_taycan_adas_t006_c1d29464",
+       "title": {
+        "ru": "Change Assist may switch to the information or",
+        "en": "Change Assist may switch to the information or"
+       },
+       "words": 476,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "porsche_taycan_adas_t007_fbf142ad",
+       "title": {
+        "ru": "Night View Assist detects persons and animals when",
+        "en": "Night View Assist detects persons and animals when"
+       },
+       "words": 343,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "porsche_taycan_adas_t008_0c5c7f43",
+       "title": {
+        "ru": "The warning and break assistant has the following",
+        "en": "The warning and break assistant has the following"
+       },
+       "words": 247,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "porsche_taycan_adas_t009_d87c0ac8",
+       "title": {
+        "ru": "System limitations",
+        "en": "System limitations"
+       },
+       "words": 2189,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "porsche_taycan_interior_t000_526e99d0",
+       "title": {
+        "ru": "The vehicle response in special driving situations",
+        "en": "The vehicle response in special driving situations"
+       },
+       "words": 493,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t001_54c65f85",
+       "title": {
+        "ru": "Do not install any wiring for electrical accessory",
+        "en": "Do not install any wiring for electrical accessory"
+       },
+       "words": 779,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t002_346dc451",
+       "title": {
+        "ru": "Your vehicle is equipped with crash-sensing diag-",
+        "en": "Your vehicle is equipped with crash-sensing diag-"
+       },
+       "words": 800,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t003_bd24719f",
+       "title": {
+        "ru": "Because modifications to your vehicle could com-",
+        "en": "Because modifications to your vehicle could com-"
+       },
+       "words": 420,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t004_2bc9b79d",
+       "title": {
+        "ru": "The airbag warning light illuminates when the elec-",
+        "en": "The airbag warning light illuminates when the elec-"
+       },
+       "words": 313,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t005_feddbd3a",
+       "title": {
+        "ru": "Use air conditioning settings for the entire vehicle",
+        "en": "Use air conditioning settings for the entire vehicle"
+       },
+       "words": 394,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t006_6cfc2715",
+       "title": {
+        "ru": "ECO PLUS mode. All other air conditioning functions",
+        "en": "ECO PLUS mode. All other air conditioning functions"
+       },
+       "words": 452,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t007_75f1284d",
+       "title": {
+        "ru": "The windshield is demisted/defrosted as quickly",
+        "en": "The windshield is demisted/defrosted as quickly"
+       },
+       "words": 312,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t008_ff7d873e",
+       "title": {
+        "ru": "R744 Design Criteria and Certification for OEM Mo-",
+        "en": "R744 Design Criteria and Certification for OEM Mo-"
+       },
+       "words": 471,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t009_4b75c6e5",
+       "title": {
+        "ru": "Depending on the electrical capacitance acting on",
+        "en": "Depending on the electrical capacitance acting on"
+       },
+       "words": 386,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t010_a3acd76b",
+       "title": {
+        "ru": "The 12-volt electrical sockets are located in the",
+        "en": "The 12-volt electrical sockets are located in the"
+       },
+       "words": 437,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t011_f89b6acf",
+       "title": {
+        "ru": "Always transport loads in the luggage compart-",
+        "en": "Always transport loads in the luggage compart-"
+       },
+       "words": 311,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t012_bd6df514",
+       "title": {
+        "ru": "All occupants must always fasten their seatbelts",
+        "en": "All occupants must always fasten their seatbelts"
+       },
+       "words": 414,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t013_9e99f37c",
+       "title": {
+        "ru": "Smoke may be released when the seat-belt preten-",
+        "en": "Smoke may be released when the seat-belt preten-"
+       },
+       "words": 264,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t014_3d8eaec5",
+       "title": {
+        "ru": "6. Ensure that the lap belt fits tautly across the lap.",
+        "en": "6. Ensure that the lap belt fits tautly across the lap."
+       },
+       "words": 333,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t015_57915876",
+       "title": {
+        "ru": "The driver and front passenger seats provide inte-",
+        "en": "The driver and front passenger seats provide inte-"
+       },
+       "words": 333,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t016_d465504a",
+       "title": {
+        "ru": "Altering the seat setting manually interrupts the",
+        "en": "Altering the seat setting manually interrupts the"
+       },
+       "words": 203,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t017_ef211fae",
+       "title": {
+        "ru": "Driving with headrests not adjusted correctly in-",
+        "en": "Driving with headrests not adjusted correctly in-"
+       },
+       "words": 391,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t018_539e2a16",
+       "title": {
+        "ru": "Storage tray with sides under the center console",
+        "en": "Storage tray with sides under the center console"
+       },
+       "words": 372,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t019_62b5d088",
+       "title": {
+        "ru": "Fig. 215: Location of the vehicle identification number",
+        "en": "Fig. 215: Location of the vehicle identification number"
+       },
+       "words": 368,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t020_e65dec8d",
+       "title": {
+        "ru": "Seat ventilation balance",
+        "en": "Seat ventilation balance"
+       },
+       "words": 3857,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "porsche_taycan_interior_t021_a6e8b215",
+       "title": {
+        "ru": "Setting automatic air-recirculation mode",
+        "en": "Setting automatic air-recirculation mode"
+       },
+       "words": 169,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "porsche_taycan_ev_t000_fcac8aae",
+       "title": {
+        "ru": "Improper handling of the high-voltage battery can result",
+        "en": "Improper handling of the high-voltage battery can result"
+       },
+       "words": 460,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t001_51aca985",
+       "title": {
+        "ru": "Porsche attaches great importance to ensuring that",
+        "en": "Porsche attaches great importance to ensuring that"
+       },
+       "words": 374,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t002_18a0ab99",
+       "title": {
+        "ru": "The use of unsuitable or damaged electrical sockets",
+        "en": "The use of unsuitable or damaged electrical sockets"
+       },
+       "words": 270,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t003_e517963e",
+       "title": {
+        "ru": "If precool/heat is switched on or preconditioning is",
+        "en": "If precool/heat is switched on or preconditioning is"
+       },
+       "words": 368,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t004_21af9c7f",
+       "title": {
+        "ru": "Adhering to the following measures can reduce the",
+        "en": "Adhering to the following measures can reduce the"
+       },
+       "words": 314,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t005_bf02df9f",
+       "title": {
+        "ru": "For further information on care of the high-voltage",
+        "en": "For further information on care of the high-voltage"
+       },
+       "words": 460,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t006_193d079a",
+       "title": {
+        "ru": "Only use vehicle charging cables that have been",
+        "en": "Only use vehicle charging cables that have been"
+       },
+       "words": 291,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t007_3cad3145",
+       "title": {
+        "ru": "If the charging timer function is activated when",
+        "en": "If the charging timer function is activated when"
+       },
+       "words": 325,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t008_3a31e330",
+       "title": {
+        "ru": "Suitable charging equipment is required to make full",
+        "en": "Suitable charging equipment is required to make full"
+       },
+       "words": 378,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t009_986459c6",
+       "title": {
+        "ru": "The profile function defines and automatically starts",
+        "en": "The profile function defines and automatically starts"
+       },
+       "words": 294,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t010_cb7090ca",
+       "title": {
+        "ru": "Charge is used before the previous charging contract",
+        "en": "Charge is used before the previous charging contract"
+       },
+       "words": 241,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t011_e9087b27",
+       "title": {
+        "ru": "Devices can be charged at the 12-volt electrical",
+        "en": "Devices can be charged at the 12-volt electrical"
+       },
+       "words": 519,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t012_5cfe5348",
+       "title": {
+        "ru": "Do not attempt to replace any electrical compo-",
+        "en": "Do not attempt to replace any electrical compo-"
+       },
+       "words": 370,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t013_dbec92a2",
+       "title": {
+        "ru": "Break-in alarm: The alarm system has been trig-",
+        "en": "Break-in alarm: The alarm system has been trig-"
+       },
+       "words": 448,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t014_3146614a",
+       "title": {
+        "ru": "The deceleration effect of overrun recuperation can",
+        "en": "The deceleration effect of overrun recuperation can"
+       },
+       "words": 217,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t015_42df616b",
+       "title": {
+        "ru": "The 12-volt lithium battery is automatically discon-",
+        "en": "The 12-volt lithium battery is automatically discon-"
+       },
+       "words": 384,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t016_a62d54dd",
+       "title": {
+        "ru": "In addition to significant malfunctions of the vehicle",
+        "en": "In addition to significant malfunctions of the vehicle"
+       },
+       "words": 425,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t017_0cf3bf06",
+       "title": {
+        "ru": "High-voltage battery charge and locking status display on",
+        "en": "High-voltage battery charge and locking status display on"
+       },
+       "words": 1130,
+       "images": 0,
+       "section_id": "ev"
+      },
+      {
+       "id": "porsche_taycan_ev_t018_324afed5",
+       "title": {
+        "ru": "Wiper blades",
+        "en": "Wiper blades"
+       },
+       "words": 112,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "porsche_taycan_general_t000_80f8d7d0",
+       "title": {
+        "ru": "Failure to observe warnings in the \"Warning\" cate-",
+        "en": "Failure to observe warnings in the \"Warning\" cate-"
+       },
+       "words": 290,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t001_87555723",
+       "title": {
+        "ru": "Warning and information messages ......................244",
+        "en": "Warning and information messages ......................244"
+       },
+       "words": 106,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t002_593f8d2f",
+       "title": {
+        "ru": "Should you have any questions regarding the opera-",
+        "en": "Should you have any questions regarding the opera-"
+       },
+       "words": 192,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t003_252faeaa",
+       "title": {
+        "ru": "The high-quality materials and excellent processing",
+        "en": "The high-quality materials and excellent processing"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t004_841dc7f4",
+       "title": {
+        "ru": "Before fitting a roof transport system or driving",
+        "en": "Before fitting a roof transport system or driving"
+       },
+       "words": 230,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t005_0793901f",
+       "title": {
+        "ru": "These include online services and applications/apps",
+        "en": "These include online services and applications/apps"
+       },
+       "words": 635,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t006_3197b59e",
+       "title": {
+        "ru": "The synthesized E-Sound is a legal requirement and",
+        "en": "The synthesized E-Sound is a legal requirement and"
+       },
+       "words": 333,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t007_0796a582",
+       "title": {
+        "ru": "The system cannot correctly interpret the envi-",
+        "en": "The system cannot correctly interpret the envi-"
+       },
+       "words": 227,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t008_3ff99416",
+       "title": {
+        "ru": "This transmitter must not be co-located or op-",
+        "en": "This transmitter must not be co-located or op-"
+       },
+       "words": 246,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t009_53cbd889",
+       "title": {
+        "ru": "Speed and distance control can be overridden tem-",
+        "en": "Speed and distance control can be overridden tem-"
+       },
+       "words": 123,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t010_373029b3",
+       "title": {
+        "ru": "Switch air-recirculation mode on and off manually",
+        "en": "Switch air-recirculation mode on and off manually"
+       },
+       "words": 148,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t011_3e677be3",
+       "title": {
+        "ru": "This function can be activated twice per stationary",
+        "en": "This function can be activated twice per stationary"
+       },
+       "words": 202,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t012_6d910b21",
+       "title": {
+        "ru": "Most chemical cleaners are concentrates which re-",
+        "en": "Most chemical cleaners are concentrates which re-"
+       },
+       "words": 255,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t013_cb4c2a72",
+       "title": {
+        "ru": "Optional add-on parts or parts that project beyond",
+        "en": "Optional add-on parts or parts that project beyond"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t014_d8dd865d",
+       "title": {
+        "ru": "Visit an authorized Porsche dealer. Porsche rec-",
+        "en": "Visit an authorized Porsche dealer. Porsche rec-"
+       },
+       "words": 288,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t015_e5106fee",
+       "title": {
+        "ru": "Placing objects on the center console control panel",
+        "en": "Placing objects on the center console control panel"
+       },
+       "words": 199,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t016_8e3e4984",
+       "title": {
+        "ru": "The Comfort Access functions are activated auto-",
+        "en": "The Comfort Access functions are activated auto-"
+       },
+       "words": 252,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t017_a28c9e7e",
+       "title": {
+        "ru": "Further information on the charger and the web",
+        "en": "Further information on the charger and the web"
+       },
+       "words": 250,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t018_8839658d",
+       "title": {
+        "ru": "The speed can be increased using the accelerator",
+        "en": "The speed can be increased using the accelerator"
+       },
+       "words": 242,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t019_79571566",
+       "title": {
+        "ru": "The function is activated automatically once opera-",
+        "en": "The function is activated automatically once opera-"
+       },
+       "words": 284,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t020_673afc7d",
+       "title": {
+        "ru": "Go to a qualified specialized repair shop. Porsche",
+        "en": "Go to a qualified specialized repair shop. Porsche"
+       },
+       "words": 201,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t021_e724b2fa",
+       "title": {
+        "ru": "Visit an authorized Porsche dealer. Porsche rec-",
+        "en": "Visit an authorized Porsche dealer. Porsche rec-"
+       },
+       "words": 186,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t022_22037357",
+       "title": {
+        "ru": "For information on the compatibility of your vehicle’s",
+        "en": "For information on the compatibility of your vehicle’s"
+       },
+       "words": 252,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t023_81efdb73",
+       "title": {
+        "ru": "Only operate these components while driving if",
+        "en": "Only operate these components while driving if"
+       },
+       "words": 277,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t024_f17888e5",
+       "title": {
+        "ru": "Always pay attention to the traffic situation and",
+        "en": "Always pay attention to the traffic situation and"
+       },
+       "words": 226,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t025_ae37ec94",
+       "title": {
+        "ru": "Fig. 100: Plastic boxes in front luggage compartment",
+        "en": "Fig. 100: Plastic boxes in front luggage compartment"
+       },
+       "words": 267,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t026_ff1c7147",
+       "title": {
+        "ru": "The animal warning is deactivated automatically in",
+        "en": "The animal warning is deactivated automatically in"
+       },
+       "words": 304,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t027_06374c8c",
+       "title": {
+        "ru": "Can be selected manually with the “Sport Plus“",
+        "en": "Can be selected manually with the “Sport Plus“"
+       },
+       "words": 241,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t028_a3de0284",
+       "title": {
+        "ru": "Please see chapter \"Jack and Lifting Platform\" on",
+        "en": "Please see chapter \"Jack and Lifting Platform\" on"
+       },
+       "words": 238,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t029_d71785e8",
+       "title": {
+        "ru": "Auto-correction and suggested results",
+        "en": "Auto-correction and suggested results"
+       },
+       "words": 125,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t030_2fb22572",
+       "title": {
+        "ru": "The freehand writing feature has handwriting rec-",
+        "en": "The freehand writing feature has handwriting rec-"
+       },
+       "words": 173,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t031_15779e1b",
+       "title": {
+        "ru": "Setting the detected speed limit as the desired",
+        "en": "Setting the detected speed limit as the desired"
+       },
+       "words": 274,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t032_f20ac534",
+       "title": {
+        "ru": "Porsche dealer that your vehicle is equipped with",
+        "en": "Porsche dealer that your vehicle is equipped with"
+       },
+       "words": 314,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t033_a0f9e6ec",
+       "title": {
+        "ru": "An unsecured or incorrectly secured roof transport",
+        "en": "An unsecured or incorrectly secured roof transport"
+       },
+       "words": 308,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t034_0dd288fe",
+       "title": {
+        "ru": "Ensure that the carriers are fitted in accord-",
+        "en": "Ensure that the carriers are fitted in accord-"
+       },
+       "words": 287,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t035_bcdd4c69",
+       "title": {
+        "ru": "Press the respective control in the direction of",
+        "en": "Press the respective control in the direction of"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t036_888f31d8",
+       "title": {
+        "ru": "If the speed limiter is deactivated automatically due",
+        "en": "If the speed limiter is deactivated automatically due"
+       },
+       "words": 254,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t037_612c7887",
+       "title": {
+        "ru": "The speed limitation can be temporarily overridden",
+        "en": "The speed limitation can be temporarily overridden"
+       },
+       "words": 302,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t038_421538ab",
+       "title": {
+        "ru": "Stresses on components increase significantly when",
+        "en": "Stresses on components increase significantly when"
+       },
+       "words": 276,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t039_74cdfaa8",
+       "title": {
+        "ru": "This function is designed to increase efficiency by",
+        "en": "This function is designed to increase efficiency by"
+       },
+       "words": 231,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t040_03b19cdc",
+       "title": {
+        "ru": "Please see chapter \"Transporting the vehicle on",
+        "en": "Please see chapter \"Transporting the vehicle on"
+       },
+       "words": 214,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t041_f4afdb76",
+       "title": {
+        "ru": "Always pay attention to the traffic situation and",
+        "en": "Always pay attention to the traffic situation and"
+       },
+       "words": 195,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t042_bb3998a3",
+       "title": {
+        "ru": "Always pay attention to the traffic situation and",
+        "en": "Always pay attention to the traffic situation and"
+       },
+       "words": 295,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t043_e9eb79e1",
+       "title": {
+        "ru": "Detection is possible within a driving speed range",
+        "en": "Detection is possible within a driving speed range"
+       },
+       "words": 152,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t044_79b396b1",
+       "title": {
+        "ru": "Cold tire inflation pressure means: all tires must",
+        "en": "Cold tire inflation pressure means: all tires must"
+       },
+       "words": 242,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t045_e2841b42",
+       "title": {
+        "ru": "Insufficient tire pressure can cause tires to overheat",
+        "en": "Insufficient tire pressure can cause tires to overheat"
+       },
+       "words": 609,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t046_7fcdb39a",
+       "title": {
+        "ru": "An identification number on radial tires providing in-",
+        "en": "An identification number on radial tires providing in-"
+       },
+       "words": 435,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t047_f9eaf9db",
+       "title": {
+        "ru": "First two-digit code indicates the manufacturer’s",
+        "en": "First two-digit code indicates the manufacturer’s"
+       },
+       "words": 204,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t048_aa9540e0",
+       "title": {
+        "ru": "If the tire was thermally or mechanically over-",
+        "en": "If the tire was thermally or mechanically over-"
+       },
+       "words": 387,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t049_dc1c4dbe",
+       "title": {
+        "ru": "Visit an authorized Porsche dealer. Porsche rec-",
+        "en": "Visit an authorized Porsche dealer. Porsche rec-"
+       },
+       "words": 363,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t050_bdb732a9",
+       "title": {
+        "ru": "If necessary visit an authorized Porsche dealer to",
+        "en": "If necessary visit an authorized Porsche dealer to"
+       },
+       "words": 281,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t051_869a518c",
+       "title": {
+        "ru": "Please see chapter \"Installing and removing the",
+        "en": "Please see chapter \"Installing and removing the"
+       },
+       "words": 178,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t052_3634ef9a",
+       "title": {
+        "ru": "The Gross Combined Weight Rating is the maximum",
+        "en": "The Gross Combined Weight Rating is the maximum"
+       },
+       "words": 365,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t053_aa974777",
+       "title": {
+        "ru": "Maximum torque with Launch Control",
+        "en": "Maximum torque with Launch Control"
+       },
+       "words": 1005,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t054_96f85f2a",
+       "title": {
+        "ru": "Radio Frequency Devices and Radio Communication",
+        "en": "Radio Frequency Devices and Radio Communication"
+       },
+       "words": 937,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t055_fe5aadf7",
+       "title": {
+        "ru": "Operation is subject to the following two conditions:",
+        "en": "Operation is subject to the following two conditions:"
+       },
+       "words": 435,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t056_a28f0ebc",
+       "title": {
+        "ru": "Instructions if leaving the vehicle parked for extended",
+        "en": "Instructions if leaving the vehicle parked for extended"
+       },
+       "words": 1431,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t057_6a1f4352",
+       "title": {
+        "ru": "Configuring the capacitive button on the instrument",
+        "en": "Configuring the capacitive button on the instrument"
+       },
+       "words": 962,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t058_4b23ebbe",
+       "title": {
+        "ru": "Storing/editing a favorite",
+        "en": "Storing/editing a favorite"
+       },
+       "words": 1550,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "porsche_taycan_general_t059_d340c894",
+       "title": {
+        "ru": "Tire Mobility System - TMS",
+        "en": "Tire Mobility System - TMS"
+       },
+       "words": 1710,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "porsche_taycan_sensors_t000_59cc0c11",
+       "title": {
+        "ru": "Always pay attention to the traffic situation and",
+        "en": "Always pay attention to the traffic situation and"
+       },
+       "words": 346,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "porsche_taycan_sensors_t001_d6e8ca18",
+       "title": {
+        "ru": "Objects that move quickly into the detection area",
+        "en": "Objects that move quickly into the detection area"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "porsche_taycan_sensors_t002_004e9f39",
+       "title": {
+        "ru": "A stationary vehicle or obstacle that suddenly ap-",
+        "en": "A stationary vehicle or obstacle that suddenly ap-"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "porsche_taycan_sensors_t003_00d60a39",
+       "title": {
+        "ru": "Use only clean water and a little dishwashing",
+        "en": "Use only clean water and a little dishwashing"
+       },
+       "words": 449,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "porsche_taycan_sensors_t004_8ffa7f08",
+       "title": {
+        "ru": "The rear view camera facilitates monitoring of the",
+        "en": "The rear view camera facilitates monitoring of the"
+       },
+       "words": 470,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "porsche_taycan_sensors_t005_731256a3",
+       "title": {
+        "ru": "A stationary vehicle or obstacle that suddenly ap-",
+        "en": "A stationary vehicle or obstacle that suddenly ap-"
+       },
+       "words": 497,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "porsche_taycan_sensors_t006_0688f38c",
+       "title": {
+        "ru": "Fig. 211: Switch for rain sensor/intermittent operation",
+        "en": "Fig. 211: Switch for rain sensor/intermittent operation"
+       },
+       "words": 234,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "porsche_taycan_sensors_t007_e86fbb76",
+       "title": {
+        "ru": "Additional information",
+        "en": "Additional information"
+       },
+       "words": 67,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "safety",
+     "title": {
+      "ru": "safety",
+      "en": "safety"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "porsche_taycan_safety_t000_51b6c900",
+       "title": {
+        "ru": "Also provide your passengers with all information",
+        "en": "Also provide your passengers with all information"
+       },
+       "words": 343,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_taycan_safety_t001_b2bc4ae5",
+       "title": {
+        "ru": "Children can accidentally trigger automatic settings",
+        "en": "Children can accidentally trigger automatic settings"
+       },
+       "words": 227,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_taycan_safety_t002_49671240",
+       "title": {
+        "ru": "Fasten the forward facing child restraint system",
+        "en": "Fasten the forward facing child restraint system"
+       },
+       "words": 295,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_taycan_safety_t003_1f0e02f6",
+       "title": {
+        "ru": "Child restraint systems that are damaged or have",
+        "en": "Child restraint systems that are damaged or have"
+       },
+       "words": 396,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_taycan_safety_t004_24ab732f",
+       "title": {
+        "ru": "If there are emergency reasons for transporting a",
+        "en": "If there are emergency reasons for transporting a"
+       },
+       "words": 208,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_taycan_safety_t005_8a7adeae",
+       "title": {
+        "ru": "L.A.T.C.H. child restraint systems are the best option",
+        "en": "L.A.T.C.H. child restraint systems are the best option"
+       },
+       "words": 440,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_taycan_safety_t006_184eb21d",
+       "title": {
+        "ru": "If queries from the emergency call center remain",
+        "en": "If queries from the emergency call center remain"
+       },
+       "words": 298,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_taycan_safety_t007_39e1a184",
+       "title": {
+        "ru": "Data and installation instructions can be found in",
+        "en": "Data and installation instructions can be found in"
+       },
+       "words": 238,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_taycan_safety_t008_1a322b7a",
+       "title": {
+        "ru": "Worn tires cannot grip the road surface properly",
+        "en": "Worn tires cannot grip the road surface properly"
+       },
+       "words": 344,
+       "images": 0,
+       "section_id": "safety"
+      },
+      {
+       "id": "porsche_taycan_safety_t009_5686c576",
+       "title": {
+        "ru": "Restraint system for children",
+        "en": "Restraint system for children"
+       },
+       "words": 1091,
+       "images": 0,
+       "section_id": "safety"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "porsche_taycan_infotainment_t000_0d03a59d",
+       "title": {
+        "ru": "This includes general vehicle information or position",
+        "en": "This includes general vehicle information or position"
+       },
+       "words": 457,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t001_9295be6c",
+       "title": {
+        "ru": "The OFF display appears on the center console",
+        "en": "The OFF display appears on the center console"
+       },
+       "words": 262,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t002_2b96a98d",
+       "title": {
+        "ru": "The selected temperature is indicated on the",
+        "en": "The selected temperature is indicated on the"
+       },
+       "words": 306,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t003_12028263",
+       "title": {
+        "ru": "Unsuitable cleaning and care agents and incorrect",
+        "en": "Unsuitable cleaning and care agents and incorrect"
+       },
+       "words": 327,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t004_bab89a9d",
+       "title": {
+        "ru": "Swipe over the handwriting panel vertically",
+        "en": "Swipe over the handwriting panel vertically"
+       },
+       "words": 227,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t005_4420025e",
+       "title": {
+        "ru": "Information about assistance systems as well as in-",
+        "en": "Information about assistance systems as well as in-"
+       },
+       "words": 218,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t006_2e441c80",
+       "title": {
+        "ru": "ParkAssist's visual parking assistance is displayed on",
+        "en": "ParkAssist's visual parking assistance is displayed on"
+       },
+       "words": 365,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t007_2a6551d1",
+       "title": {
+        "ru": "You can switch between the registered accounts at",
+        "en": "You can switch between the registered accounts at"
+       },
+       "words": 263,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t008_52dde6f5",
+       "title": {
+        "ru": "Context-specific settings for the respective display",
+        "en": "Context-specific settings for the respective display"
+       },
+       "words": 295,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t009_3b3bdaee",
+       "title": {
+        "ru": "Swipe vertically across the central display or",
+        "en": "Swipe vertically across the central display or"
+       },
+       "words": 211,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t010_e8315801",
+       "title": {
+        "ru": "Configuring settings that affect vehicle handling or",
+        "en": "Configuring settings that affect vehicle handling or"
+       },
+       "words": 234,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t011_10de6292",
+       "title": {
+        "ru": "Speed limits detected in advance are displayed on",
+        "en": "Speed limits detected in advance are displayed on"
+       },
+       "words": 183,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t012_017d8a98",
+       "title": {
+        "ru": "PID is active. The currently detected speed limit",
+        "en": "PID is active. The currently detected speed limit"
+       },
+       "words": 324,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t013_666830e8",
+       "title": {
+        "ru": "The analog pointer shows the seconds. The digital",
+        "en": "The analog pointer shows the seconds. The digital"
+       },
+       "words": 219,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t014_35b985dd",
+       "title": {
+        "ru": "Permanent monitoring of tire pressure and tire",
+        "en": "Permanent monitoring of tire pressure and tire"
+       },
+       "words": 343,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t015_739aded0",
+       "title": {
+        "ru": "Displayed are the target pressure and pressure de-",
+        "en": "Displayed are the target pressure and pressure de-"
+       },
+       "words": 257,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t016_2056df7c",
+       "title": {
+        "ru": "Technical data: Audio and video files",
+        "en": "Technical data: Audio and video files"
+       },
+       "words": 1520,
+       "images": 0,
+       "section_id": "infotainment"
+      },
+      {
+       "id": "porsche_taycan_infotainment_t017_c127c27d",
+       "title": {
+        "ru": "Map view and navigation information on the instrument",
+        "en": "Map view and navigation information on the instrument"
+       },
+       "words": 5281,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "porsche_taycan_drivetrain_t000_2a8fc03a",
+       "title": {
+        "ru": "Reacting correctly to uneven running and vibration",
+        "en": "Reacting correctly to uneven running and vibration"
+       },
+       "words": 309,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t001_4fe48cb9",
+       "title": {
+        "ru": "Adapt your driving style to the altered vehicle",
+        "en": "Adapt your driving style to the altered vehicle"
+       },
+       "words": 524,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t002_5ecdabf9",
+       "title": {
+        "ru": "The parking space search starts in the background",
+        "en": "The parking space search starts in the background"
+       },
+       "words": 299,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t003_b118b67c",
+       "title": {
+        "ru": "An activated driver assistance system will be acti-",
+        "en": "An activated driver assistance system will be acti-"
+       },
+       "words": 239,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t004_5c793d02",
+       "title": {
+        "ru": "Operational readiness can be limited while the online",
+        "en": "Operational readiness can be limited while the online"
+       },
+       "words": 319,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t005_26190a1c",
+       "title": {
+        "ru": "The system cannot prevent an accident under all",
+        "en": "The system cannot prevent an accident under all"
+       },
+       "words": 363,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t006_39601d82",
+       "title": {
+        "ru": "ParkAssist visually and audibly indicates to the driver",
+        "en": "ParkAssist visually and audibly indicates to the driver"
+       },
+       "words": 417,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t007_1aba3912",
+       "title": {
+        "ru": "Driver detection occurs automatically via the vehicle",
+        "en": "Driver detection occurs automatically via the vehicle"
+       },
+       "words": 385,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t008_19971274",
+       "title": {
+        "ru": "Porsche InnoDrive offers assisted driving. It is the",
+        "en": "Porsche InnoDrive offers assisted driving. It is the"
+       },
+       "words": 439,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t009_5c1e1d37",
+       "title": {
+        "ru": "A distinction is made between readiness for opera-",
+        "en": "A distinction is made between readiness for opera-"
+       },
+       "words": 407,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t010_4a34a694",
+       "title": {
+        "ru": "The various overrun recuperation settings are as-",
+        "en": "The various overrun recuperation settings are as-"
+       },
+       "words": 218,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t011_b212a3eb",
+       "title": {
+        "ru": "The driver is ultimately responsible for reacting ap-",
+        "en": "The driver is ultimately responsible for reacting ap-"
+       },
+       "words": 264,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "porsche_taycan_drivetrain_t012_1bebed96",
+       "title": {
+        "ru": "Have defective tires replaced immediately. Visit",
+        "en": "Have defective tires replaced immediately. Visit"
+       },
+       "words": 728,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

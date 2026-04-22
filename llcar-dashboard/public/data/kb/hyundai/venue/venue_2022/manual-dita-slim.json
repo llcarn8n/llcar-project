@@ -1,0 +1,1215 @@
+{
+ "version": "1.0",
+ "model": "venue",
+ "manuals": [
+  {
+   "model": "venue",
+   "label": {
+    "ru": "Hyundai Venue — Руководство по ремонту",
+    "en": "Hyundai Venue — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "hyundai_venue_engine_t000_54833818",
+       "title": {
+        "ru": "HYUNDAI VEHICLE OWNER PRIVACY POLICY",
+        "en": "HYUNDAI VEHICLE OWNER PRIVACY POLICY"
+       },
+       "words": 987,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t001_d2db8eac",
+       "title": {
+        "ru": "RECOMMENDED LUBRICANTS AND CAPACITIES",
+        "en": "RECOMMENDED LUBRICANTS AND CAPACITIES"
+       },
+       "words": 725,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t002_5ddb56c5",
+       "title": {
+        "ru": "4. Instrument Cluster",
+        "en": "4. Instrument Cluster"
+       },
+       "words": 906,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t003_08c6786b",
+       "title": {
+        "ru": "1. Drive carefully to the nearest safe",
+        "en": "1. Drive carefully to the nearest safe"
+       },
+       "words": 735,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t004_1493adbe",
+       "title": {
+        "ru": "1. Make sure all doors, the engine hood",
+        "en": "1. Make sure all doors, the engine hood"
+       },
+       "words": 1689,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t005_277be261",
+       "title": {
+        "ru": "4. Reinstall the rear cover of the smart",
+        "en": "4. Reinstall the rear cover of the smart"
+       },
+       "words": 823,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t006_ee6c4f9d",
+       "title": {
+        "ru": "1. Before closing the hood, check in and",
+        "en": "1. Before closing the hood, check in and"
+       },
+       "words": 813,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t007_b65f16a1",
+       "title": {
+        "ru": "1. Turn off or lower the blower, right",
+        "en": "1. Turn off or lower the blower, right"
+       },
+       "words": 1163,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t008_61a5eab2",
+       "title": {
+        "ru": "IGNITION SWITCH",
+        "en": "IGNITION SWITCH"
+       },
+       "words": 964,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t009_12a80029",
+       "title": {
+        "ru": "6HWWLQJVƟ'ULYHU$VVLVWDQFHƟ3DUNLQJ",
+        "en": "6HWWLQJVƟ'ULYHU$VVLVWDQFHƟ3DUNLQJ"
+       },
+       "words": 1751,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t010_33d4f0fb",
+       "title": {
+        "ru": "3. If engine coolant is running out under",
+        "en": "3. If engine coolant is running out under"
+       },
+       "words": 1133,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t011_8028c37a",
+       "title": {
+        "ru": "9. Engine coolant cap",
+        "en": "9. Engine coolant cap"
+       },
+       "words": 1291,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t012_55fa7d41",
+       "title": {
+        "ru": "EXPLANATION OF SCHEDULED MAINTENANCE ITEMS",
+        "en": "EXPLANATION OF SCHEDULED MAINTENANCE ITEMS"
+       },
+       "words": 668,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t013_bf8849a7",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1154,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t014_8349c971",
+       "title": {
+        "ru": "6. Check the removed fuse; replace it if",
+        "en": "6. Check the removed fuse; replace it if"
+       },
+       "words": 387,
+       "images": 0,
+       "section_id": "engine"
+      },
+      {
+       "id": "hyundai_venue_engine_t015_44ff65fd",
+       "title": {
+        "ru": "3. Exhaust Emission Control",
+        "en": "3. Exhaust Emission Control"
+       },
+       "words": 656,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "hyundai_venue_brakes_t000_6b81b2b6",
+       "title": {
+        "ru": "1. Drive carefully to the nearest safe",
+        "en": "1. Drive carefully to the nearest safe"
+       },
+       "words": 1487,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t001_262f8227",
+       "title": {
+        "ru": "1. Make sure the parking brake is",
+        "en": "1. Make sure the parking brake is"
+       },
+       "words": 972,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t002_25b32e03",
+       "title": {
+        "ru": "1. Always carry the smart key with you.",
+        "en": "1. Always carry the smart key with you."
+       },
+       "words": 1098,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t003_8b1334fc",
+       "title": {
+        "ru": "4. Insert a tool (e.g. flathead screwdriver)",
+        "en": "4. Insert a tool (e.g. flathead screwdriver)"
+       },
+       "words": 858,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t004_90e495ce",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1399,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t005_d61e06e8",
+       "title": {
+        "ru": "1. This device may not cause harmful",
+        "en": "1. This device may not cause harmful"
+       },
+       "words": 1119,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t006_02d27a33",
+       "title": {
+        "ru": "1. This device may not cause harmful",
+        "en": "1. This device may not cause harmful"
+       },
+       "words": 962,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t007_0af17001",
+       "title": {
+        "ru": "OTMA058186",
+        "en": "OTMA058186"
+       },
+       "words": 1389,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t008_629ad859",
+       "title": {
+        "ru": "1. Pull off the road and stop as soon as it",
+        "en": "1. Pull off the road and stop as soon as it"
+       },
+       "words": 1968,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t009_31000e2b",
+       "title": {
+        "ru": "1. Place the ignition switch in the ACC",
+        "en": "1. Place the ignition switch in the ACC"
+       },
+       "words": 740,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t010_e9b47b69",
+       "title": {
+        "ru": "1. Follow all of the oil manufacturer’s",
+        "en": "1. Follow all of the oil manufacturer’s"
+       },
+       "words": 876,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t011_714f4b8f",
+       "title": {
+        "ru": "BRAKE/CLUTCH FLUID",
+        "en": "BRAKE/CLUTCH FLUID"
+       },
+       "words": 840,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t012_6e210872",
+       "title": {
+        "ru": "5. Install a new bulb by inserting it into",
+        "en": "5. Install a new bulb by inserting it into"
+       },
+       "words": 353,
+       "images": 0,
+       "section_id": "brakes"
+      },
+      {
+       "id": "hyundai_venue_brakes_t013_33634f88",
+       "title": {
+        "ru": "7. Insert a new bulb by inserting it into",
+        "en": "7. Insert a new bulb by inserting it into"
+       },
+       "words": 661,
+       "images": 0,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "hvac",
+     "title": {
+      "ru": "Климат-контроль",
+      "en": "HVAC"
+     },
+     "icon": "❄️",
+     "topics": [
+      {
+       "id": "hyundai_venue_hvac_t000_f8855427",
+       "title": {
+        "ru": "2. From outside the vehicle, press the",
+        "en": "2. From outside the vehicle, press the"
+       },
+       "words": 807,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_venue_hvac_t001_ee961741",
+       "title": {
+        "ru": "3. Set the temperature control to the",
+        "en": "3. Set the temperature control to the"
+       },
+       "words": 726,
+       "images": 0,
+       "section_id": "hvac"
+      },
+      {
+       "id": "hyundai_venue_hvac_t002_1817d2ea",
+       "title": {
+        "ru": "4. Check for coolant leaking from the",
+        "en": "4. Check for coolant leaking from the"
+       },
+       "words": 367,
+       "images": 0,
+       "section_id": "hvac"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "hyundai_venue_body_t000_040a9edb",
+       "title": {
+        "ru": "1. What are HYUNDAI Genuine Parts?",
+        "en": "1. What are HYUNDAI Genuine Parts?"
+       },
+       "words": 839,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_venue_body_t001_c3f5c8f2",
+       "title": {
+        "ru": "2. Slide the key or screwdriver to the",
+        "en": "2. Slide the key or screwdriver to the"
+       },
+       "words": 988,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_venue_body_t002_8259a8a7",
+       "title": {
+        "ru": "4. Remove the nuts shown in the picture",
+        "en": "4. Remove the nuts shown in the picture"
+       },
+       "words": 690,
+       "images": 0,
+       "section_id": "body"
+      },
+      {
+       "id": "hyundai_venue_body_t003_f49832ea",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 761,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "hyundai_venue_lighting_t000_e7c75b43",
+       "title": {
+        "ru": "2. Headlamp/Daytime running lamp ......8-50",
+        "en": "2. Headlamp/Daytime running lamp ......8-50"
+       },
+       "words": 552,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_venue_lighting_t001_529cefa1",
+       "title": {
+        "ru": "5. Warning and indicator lights",
+        "en": "5. Warning and indicator lights"
+       },
+       "words": 1016,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_venue_lighting_t002_2d557f93",
+       "title": {
+        "ru": "HYUNDAI.",
+        "en": "HYUNDAI."
+       },
+       "words": 646,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_venue_lighting_t003_cede681e",
+       "title": {
+        "ru": "1. Press the Door Unlock button (2) on",
+        "en": "1. Press the Door Unlock button (2) on"
+       },
+       "words": 989,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_venue_lighting_t004_02e3362f",
+       "title": {
+        "ru": "3. Go to the front of the vehicle, raise the",
+        "en": "3. Go to the front of the vehicle, raise the"
+       },
+       "words": 495,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_venue_lighting_t005_4efdad8a",
+       "title": {
+        "ru": "3. High Beam Assist system will turn on",
+        "en": "3. High Beam Assist system will turn on"
+       },
+       "words": 745,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_venue_lighting_t006_ff9e88f7",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 950,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_venue_lighting_t007_eb094f2e",
+       "title": {
+        "ru": "1. A vehicle has been detected in the",
+        "en": "1. A vehicle has been detected in the"
+       },
+       "words": 1371,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_venue_lighting_t008_b4aedd28",
+       "title": {
+        "ru": "2. Accelerate to the desired speed,",
+        "en": "2. Accelerate to the desired speed,"
+       },
+       "words": 1546,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_venue_lighting_t009_b4fbe5bf",
+       "title": {
+        "ru": "3. Make sure the blade assembly is",
+        "en": "3. Make sure the blade assembly is"
+       },
+       "words": 1057,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_venue_lighting_t010_a14c5c78",
+       "title": {
+        "ru": "4. Remove the bulb by pulling it straight",
+        "en": "4. Remove the bulb by pulling it straight"
+       },
+       "words": 357,
+       "images": 0,
+       "section_id": "lighting"
+      },
+      {
+       "id": "hyundai_venue_lighting_t011_33580d01",
+       "title": {
+        "ru": "5. Remove the bulb by pulling it straight",
+        "en": "5. Remove the bulb by pulling it straight"
+       },
+       "words": 336,
+       "images": 0,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "adas",
+     "title": {
+      "ru": "ADAS",
+      "en": "ADAS"
+     },
+     "icon": "📡",
+     "topics": [
+      {
+       "id": "hyundai_venue_adas_t000_bb4fdb2d",
+       "title": {
+        "ru": "3. OK : SELECT/RESET button for setting or resetting the selected item",
+        "en": "3. OK : SELECT/RESET button for setting or resetting the selected item"
+       },
+       "words": 969,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "hyundai_venue_adas_t001_7b43cf5e",
+       "title": {
+        "ru": "CRUISE CONTROL",
+        "en": "CRUISE CONTROL"
+       },
+       "words": 1587,
+       "images": 0,
+       "section_id": "adas"
+      },
+      {
+       "id": "hyundai_venue_adas_t002_a0b2657a",
+       "title": {
+        "ru": "OQX069072L",
+        "en": "OQX069072L"
+       },
+       "words": 28,
+       "images": 0,
+       "section_id": "adas"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "hyundai_venue_interior_t000_79d20254",
+       "title": {
+        "ru": "6. Front windshield wiper blades ............ 8-23",
+        "en": "6. Front windshield wiper blades ............ 8-23"
+       },
+       "words": 382,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t001_1a11ecfd",
+       "title": {
+        "ru": "1. Set the front seatback to the upright",
+        "en": "1. Set the front seatback to the upright"
+       },
+       "words": 644,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t002_ff5b6cea",
+       "title": {
+        "ru": "2. Lower the head restraint to the",
+        "en": "2. Lower the head restraint to the"
+       },
+       "words": 507,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t003_d1c77439",
+       "title": {
+        "ru": "1. Put the head restraint poles into the",
+        "en": "1. Put the head restraint poles into the"
+       },
+       "words": 411,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t004_6b1b2e02",
+       "title": {
+        "ru": "SEAT BELTS",
+        "en": "SEAT BELTS"
+       },
+       "words": 1063,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t005_3854468a",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1400,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t006_dedee9cb",
+       "title": {
+        "ru": "1. Move the seat belt buckle away from",
+        "en": "1. Move the seat belt buckle away from"
+       },
+       "words": 1254,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t007_9e07f2f2",
+       "title": {
+        "ru": "3. Place the child restraint on the vehicle",
+        "en": "3. Place the child restraint on the vehicle"
+       },
+       "words": 533,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t008_38b5b4b7",
+       "title": {
+        "ru": "8. Double check that the retractor is in",
+        "en": "8. Double check that the retractor is in"
+       },
+       "words": 968,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t009_abee94aa",
+       "title": {
+        "ru": "3. Unoccupied",
+        "en": "3. Unoccupied"
+       },
+       "words": 971,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t010_b4046482",
+       "title": {
+        "ru": "6HWWLQJVƟ'RRUƟ7ZR3UHVV8QORFN",
+        "en": "6HWWLQJVƟ'RRUƟ7ZR3UHVV8QORFN"
+       },
+       "words": 573,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t011_9012e868",
+       "title": {
+        "ru": "3. Two Press Unlock Feature",
+        "en": "3. Two Press Unlock Feature"
+       },
+       "words": 1128,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t012_a2ce6f10",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 903,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t013_25e04ed8",
+       "title": {
+        "ru": "2. Use the mirror adjustment control",
+        "en": "2. Use the mirror adjustment control"
+       },
+       "words": 675,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t014_a4a0d8b9",
+       "title": {
+        "ru": "1. Place the ignition switch to the ON",
+        "en": "1. Place the ignition switch to the ON"
+       },
+       "words": 540,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t015_fbe11a4c",
+       "title": {
+        "ru": "1. To install the fuel tank cap, turn it",
+        "en": "1. To install the fuel tank cap, turn it"
+       },
+       "words": 894,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t016_5bac5aca",
+       "title": {
+        "ru": "1. Put the jack handle (1) inside of the",
+        "en": "1. Put the jack handle (1) inside of the"
+       },
+       "words": 707,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t017_5704becd",
+       "title": {
+        "ru": "3. Install the towing hook by turning it",
+        "en": "3. Install the towing hook by turning it"
+       },
+       "words": 679,
+       "images": 0,
+       "section_id": "interior"
+      },
+      {
+       "id": "hyundai_venue_interior_t018_0dd3012b",
+       "title": {
+        "ru": "CALIFORNIA PERCHLORATE NOTICE",
+        "en": "CALIFORNIA PERCHLORATE NOTICE"
+       },
+       "words": 973,
+       "images": 0,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "chassis",
+     "title": {
+      "ru": "Шасси",
+      "en": "Chassis"
+     },
+     "icon": "🏗️",
+     "topics": [
+      {
+       "id": "hyundai_venue_chassis_t000_e1944586",
+       "title": {
+        "ru": "10. Steering wheel tilt/telescopic lever .....5-18",
+        "en": "10. Steering wheel tilt/telescopic lever .....5-18"
+       },
+       "words": 881,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_venue_chassis_t001_3d0f59e2",
+       "title": {
+        "ru": "STEERING WHEEL",
+        "en": "STEERING WHEEL"
+       },
+       "words": 1252,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_venue_chassis_t002_3f749b1c",
+       "title": {
+        "ru": "BEFORE DRIVING",
+        "en": "BEFORE DRIVING"
+       },
+       "words": 632,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_venue_chassis_t003_65165090",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1284,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_venue_chassis_t004_8e0ed7a0",
+       "title": {
+        "ru": "WRWKH",
+        "en": "WRWKH"
+       },
+       "words": 912,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_venue_chassis_t005_52b25e40",
+       "title": {
+        "ru": "9. Loosen the lug nuts with the wheel",
+        "en": "9. Loosen the lug nuts with the wheel"
+       },
+       "words": 1023,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_venue_chassis_t006_988eeec7",
+       "title": {
+        "ru": "10. Install the spare tire onto the studs of",
+        "en": "10. Install the spare tire onto the studs of"
+       },
+       "words": 1374,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_venue_chassis_t007_4c7dfbfb",
+       "title": {
+        "ru": "TIRES AND WHEELS",
+        "en": "TIRES AND WHEELS"
+       },
+       "words": 1143,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_venue_chassis_t008_473a870a",
+       "title": {
+        "ru": "4. Tire Ply Composition And Material",
+        "en": "4. Tire Ply Composition And Material"
+       },
+       "words": 890,
+       "images": 0,
+       "section_id": "chassis"
+      },
+      {
+       "id": "hyundai_venue_chassis_t009_ecd730fd",
+       "title": {
+        "ru": "2. Remove the bulb by pulling it straight",
+        "en": "2. Remove the bulb by pulling it straight"
+       },
+       "words": 676,
+       "images": 0,
+       "section_id": "chassis"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "hyundai_venue_general_t000_9030b23b",
+       "title": {
+        "ru": "CAUTION: MODIFICATIONS TO YOUR HYUNDAI",
+        "en": "CAUTION: MODIFICATIONS TO YOUR HYUNDAI"
+       },
+       "words": 530,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t001_d4efb276",
+       "title": {
+        "ru": "1. Raise the head restraint as far as it can",
+        "en": "1. Raise the head restraint as far as it can"
+       },
+       "words": 603,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t002_144d047a",
+       "title": {
+        "ru": "5. Service interval",
+        "en": "5. Service interval"
+       },
+       "words": 433,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t003_52cc9e98",
+       "title": {
+        "ru": "3. Changes or modifications not expressly",
+        "en": "3. Changes or modifications not expressly"
+       },
+       "words": 434,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t004_d23aedb3",
+       "title": {
+        "ru": "1. Insert the mechanical key from the",
+        "en": "1. Insert the mechanical key from the"
+       },
+       "words": 865,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t005_1fe6483b",
+       "title": {
+        "ru": "2. Set the mode to the desired position.",
+        "en": "2. Set the mode to the desired position."
+       },
+       "words": 468,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t006_b8fa0352",
+       "title": {
+        "ru": "4. Set the fan speed control to the",
+        "en": "4. Set the fan speed control to the"
+       },
+       "words": 576,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t007_9a205c5a",
+       "title": {
+        "ru": "2. Set the temperature control to the",
+        "en": "2. Set the temperature control to the"
+       },
+       "words": 349,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t008_ee2479b7",
+       "title": {
+        "ru": "EXTERIOR FEATURES",
+        "en": "EXTERIOR FEATURES"
+       },
+       "words": 379,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t009_452eca99",
+       "title": {
+        "ru": "'ULYHU$VVLVWDQFHƟ:DUQLQJ7LPLQJŔ",
+        "en": "'ULYHU$VVLVWDQFHƟ:DUQLQJ7LPLQJŔ"
+       },
+       "words": 535,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t010_6856c973",
+       "title": {
+        "ru": "$VVLVWDQFHƟ:DUQLQJ7LPLQJƟ",
+        "en": "$VVLVWDQFHƟ:DUQLQJ7LPLQJƟ"
+       },
+       "words": 699,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t011_e94046be",
+       "title": {
+        "ru": "1. Set the ignition switch to the ON",
+        "en": "1. Set the ignition switch to the ON"
+       },
+       "words": 886,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t012_c3c75623",
+       "title": {
+        "ru": "3. Subtract the combined weight of the",
+        "en": "3. Subtract the combined weight of the"
+       },
+       "words": 431,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t013_edf32d34",
+       "title": {
+        "ru": "5. Pull the dipstick out, wipe it clean, and",
+        "en": "5. Pull the dipstick out, wipe it clean, and"
+       },
+       "words": 279,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "hyundai_venue_general_t014_4718d638",
+       "title": {
+        "ru": "4. Remove the nuts shown in the picture",
+        "en": "4. Remove the nuts shown in the picture"
+       },
+       "words": 437,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "battery",
+     "title": {
+      "ru": "battery",
+      "en": "battery"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_venue_battery_t000_b9a99b7b",
+       "title": {
+        "ru": "3. Changes or modifications not expressly",
+        "en": "3. Changes or modifications not expressly"
+       },
+       "words": 405,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_venue_battery_t001_5d76e857",
+       "title": {
+        "ru": "5. Once again push and hold the sunroof",
+        "en": "5. Once again push and hold the sunroof"
+       },
+       "words": 638,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_venue_battery_t002_41e0eafb",
+       "title": {
+        "ru": "1. Turn off the battery charger main",
+        "en": "1. Turn off the battery charger main"
+       },
+       "words": 766,
+       "images": 0,
+       "section_id": "battery"
+      },
+      {
+       "id": "hyundai_venue_battery_t003_0efde2cb",
+       "title": {
+        "ru": "OQX089037",
+        "en": "OQX089037"
+       },
+       "words": 21,
+       "images": 0,
+       "section_id": "battery"
+      }
+     ]
+    },
+    {
+     "id": "drivetrain",
+     "title": {
+      "ru": "drivetrain",
+      "en": "drivetrain"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_venue_drivetrain_t000_3a1c7eb3",
+       "title": {
+        "ru": "VOLUME AND WEIGHT",
+        "en": "VOLUME AND WEIGHT"
+       },
+       "words": 594,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_venue_drivetrain_t001_68ccd317",
+       "title": {
+        "ru": "8. Shift into Reverse gear on vehicles",
+        "en": "8. Shift into Reverse gear on vehicles"
+       },
+       "words": 1084,
+       "images": 0,
+       "section_id": "drivetrain"
+      },
+      {
+       "id": "hyundai_venue_drivetrain_t002_bbb5cfba",
+       "title": {
+        "ru": "MAINTENANCE SERVICES",
+        "en": "MAINTENANCE SERVICES"
+       },
+       "words": 637,
+       "images": 0,
+       "section_id": "drivetrain"
+      }
+     ]
+    },
+    {
+     "id": "sensors",
+     "title": {
+      "ru": "sensors",
+      "en": "sensors"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_venue_sensors_t000_77a9c504",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1182,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_venue_sensors_t001_cb9c7812",
+       "title": {
+        "ru": "NOTICE",
+        "en": "NOTICE"
+       },
+       "words": 1239,
+       "images": 0,
+       "section_id": "sensors"
+      },
+      {
+       "id": "hyundai_venue_sensors_t002_5daf2559",
+       "title": {
+        "ru": "OQX079026N",
+        "en": "OQX079026N"
+       },
+       "words": 57,
+       "images": 0,
+       "section_id": "sensors"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "hyundai_venue_infotainment_t000_3fa17704",
+       "title": {
+        "ru": "1. This device may not cause harmful",
+        "en": "1. This device may not cause harmful"
+       },
+       "words": 670,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

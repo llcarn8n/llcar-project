@@ -1,0 +1,2295 @@
+{
+ "version": "1.0",
+ "model": "boxer",
+ "manuals": [
+  {
+   "model": "boxer",
+   "label": {
+    "ru": "Peugeot Boxer — Руководство по ремонту",
+    "en": "Peugeot Boxer — Repair Manual"
+   },
+   "sections": [
+    {
+     "id": "engine",
+     "title": {
+      "ru": "Двигатель",
+      "en": "Engine"
+     },
+     "icon": "🔧",
+     "topics": [
+      {
+       "id": "peugeot_boxer_engine_t000_031d9191",
+       "title": {
+        "ru": "Function",
+        "en": "Function"
+       },
+       "words": 11,
+       "images": 0,
+       "section_id": "engine"
+      }
+     ]
+    },
+    {
+     "id": "brakes",
+     "title": {
+      "ru": "Тормозная система",
+      "en": "Brake System"
+     },
+     "icon": "🛑",
+     "topics": [
+      {
+       "id": "peugeot_boxer_brakes_t000_77af6ae9",
+       "title": {
+        "ru": "3.2. Bleed the secondary brake circuit (ABS/ESP hydraulic block)",
+        "en": "3.2. Bleed the secondary brake circuit (ABS/ESP hydraulic block)"
+       },
+       "words": 850,
+       "images": 10,
+       "section_id": "brakes"
+      },
+      {
+       "id": "peugeot_boxer_brakes_t001_a31ee8e0",
+       "title": {
+        "ru": "3.2. Bleed the secondary brake circuit (ABS/ESP hydraulic block)",
+        "en": "3.2. Bleed the secondary brake circuit (ABS/ESP hydraulic block)"
+       },
+       "words": 1267,
+       "images": 14,
+       "section_id": "brakes"
+      }
+     ]
+    },
+    {
+     "id": "electrical",
+     "title": {
+      "ru": "Электрооборудование",
+      "en": "Electrical System"
+     },
+     "icon": "⚡",
+     "topics": [
+      {
+       "id": "peugeot_boxer_electrical_t000_c3aa7511",
+       "title": {
+        "ru": "Function Diagram",
+        "en": "Function Diagram"
+       },
+       "words": 8,
+       "images": 0,
+       "section_id": "electrical"
+      }
+     ]
+    },
+    {
+     "id": "body",
+     "title": {
+      "ru": "Кузов",
+      "en": "Body"
+     },
+     "icon": "🚗",
+     "topics": [
+      {
+       "id": "peugeot_boxer_body_t000_048ef001",
+       "title": {
+        "ru": "Function",
+        "en": "Function"
+       },
+       "words": 21,
+       "images": 0,
+       "section_id": "body"
+      }
+     ]
+    },
+    {
+     "id": "lighting",
+     "title": {
+      "ru": "Освещение",
+      "en": "Lighting"
+     },
+     "icon": "💡",
+     "topics": [
+      {
+       "id": "peugeot_boxer_lighting_t000_00f05e7b",
+       "title": {
+        "ru": "5. Ancillary drive belt",
+        "en": "5. Ancillary drive belt"
+       },
+       "words": 86,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t001_68e576bf",
+       "title": {
+        "ru": "10.2. Dynamic pressure checks on PUMA euro 5",
+        "en": "10.2. Dynamic pressure checks on PUMA euro 5"
+       },
+       "words": 94,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t002_725fe385",
+       "title": {
+        "ru": "10.2. Dynamic pressure checks on PUMA euro 5",
+        "en": "10.2. Dynamic pressure checks on PUMA euro 5"
+       },
+       "words": 886,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t003_52fe74c7",
+       "title": {
+        "ru": "N.B. : From below the vehicle.",
+        "en": "N.B. : From below the vehicle."
+       },
+       "words": 780,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t004_d23ddf7c",
+       "title": {
+        "ru": "Remove :",
+        "en": "Remove :"
+       },
+       "words": 1172,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t005_cb46d86e",
+       "title": {
+        "ru": "Remove :",
+        "en": "Remove :"
+       },
+       "words": 285,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t006_28b7d46e",
+       "title": {
+        "ru": "Refit :",
+        "en": "Refit :"
+       },
+       "words": 630,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t007_5e52a5fa",
+       "title": {
+        "ru": "Release :",
+        "en": "Release :"
+       },
+       "words": 462,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t008_3b97b4d4",
+       "title": {
+        "ru": "2. Refitting",
+        "en": "2. Refitting"
+       },
+       "words": 551,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t009_532682c9",
+       "title": {
+        "ru": "2.1. Draining the fuel tank",
+        "en": "2.1. Draining the fuel tank"
+       },
+       "words": 762,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t010_22fb2b9e",
+       "title": {
+        "ru": "1. Application",
+        "en": "1. Application"
+       },
+       "words": 776,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t011_f2bed258",
+       "title": {
+        "ru": "8.1. TU/ET engines",
+        "en": "8.1. TU/ET engines"
+       },
+       "words": 149,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t012_ee4c1c26",
+       "title": {
+        "ru": "9.5. Central and South America",
+        "en": "9.5. Central and South America"
+       },
+       "words": 71,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t013_6b4bc6e4",
+       "title": {
+        "ru": "2. Bleed the secondary brake circuit",
+        "en": "2. Bleed the secondary brake circuit"
+       },
+       "words": 296,
+       "images": 9,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t014_8bbe9496",
+       "title": {
+        "ru": "6. Gyrometer/accelerometer sensor",
+        "en": "6. Gyrometer/accelerometer sensor"
+       },
+       "words": 68,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t015_c4f883f7",
+       "title": {
+        "ru": "3. Checking the thickness",
+        "en": "3. Checking the thickness"
+       },
+       "words": 1109,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t016_3e34eae4",
+       "title": {
+        "ru": "6. Rear brake drum check",
+        "en": "6. Rear brake drum check"
+       },
+       "words": 1281,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t017_04dd375f",
+       "title": {
+        "ru": "1. Recommended tools",
+        "en": "1. Recommended tools"
+       },
+       "words": 656,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t018_b875987e",
+       "title": {
+        "ru": "1.5. Engines types EC5",
+        "en": "1.5. Engines types EC5"
+       },
+       "words": 223,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t019_6b5d91c2",
+       "title": {
+        "ru": "2.2. Engines types DW10",
+        "en": "2.2. Engines types DW10"
+       },
+       "words": 13,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t020_168bcfb7",
+       "title": {
+        "ru": "3.2. TU1/TU3/TU5/ET3 engines",
+        "en": "3.2. TU1/TU3/TU5/ET3 engines"
+       },
+       "words": 296,
+       "images": 44,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t021_35ac73bb",
+       "title": {
+        "ru": "2. General engine information",
+        "en": "2. General engine information"
+       },
+       "words": 280,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t022_8aea883f",
+       "title": {
+        "ru": "4. Engine flywheel - Clutch",
+        "en": "4. Engine flywheel - Clutch"
+       },
+       "words": 100,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t023_ec534d9b",
+       "title": {
+        "ru": "3. Connecting rod half shells",
+        "en": "3. Connecting rod half shells"
+       },
+       "words": 489,
+       "images": 38,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t024_b9d0bcd0",
+       "title": {
+        "ru": "1. Recommended tools",
+        "en": "1. Recommended tools"
+       },
+       "words": 986,
+       "images": 51,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t025_5e5b3d1b",
+       "title": {
+        "ru": "N.B. : The central bearing shell is fitted with lateral blocks.",
+        "en": "N.B. : The central bearing shell is fitted with lateral blocks."
+       },
+       "words": 1934,
+       "images": 39,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t026_c6b44c9b",
+       "title": {
+        "ru": "CAUTION : Line up the centreline of the crankshaft and the centreline of the sta",
+        "en": "CAUTION : Line up the centreline of the crankshaft and the centreline of the sta"
+       },
+       "words": 856,
+       "images": 65,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t027_48a736b4",
+       "title": {
+        "ru": "N.B. : Apply a counter-torque (at \"h\").",
+        "en": "N.B. : Apply a counter-torque (at \"h\")."
+       },
+       "words": 1417,
+       "images": 36,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t028_8dd039d4",
+       "title": {
+        "ru": "1. Recommended tools",
+        "en": "1. Recommended tools"
+       },
+       "words": 533,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t029_174c87f1",
+       "title": {
+        "ru": "2. Removing",
+        "en": "2. Removing"
+       },
+       "words": 399,
+       "images": 14,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t030_7a79c4dc",
+       "title": {
+        "ru": "3. Common operations",
+        "en": "3. Common operations"
+       },
+       "words": 535,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t031_acb0ea42",
+       "title": {
+        "ru": "1. Recommended tools",
+        "en": "1. Recommended tools"
+       },
+       "words": 823,
+       "images": 29,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t032_ffc65533",
+       "title": {
+        "ru": "4. Filling or topping up with additive",
+        "en": "4. Filling or topping up with additive"
+       },
+       "words": 508,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t033_f8594f91",
+       "title": {
+        "ru": "5. Qualité des huiles moteur",
+        "en": "5. Qualité des huiles moteur"
+       },
+       "words": 193,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t034_b70e7b90",
+       "title": {
+        "ru": "9.5. Central and South America",
+        "en": "9.5. Central and South America"
+       },
+       "words": 17,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t035_8ecf010e",
+       "title": {
+        "ru": "11. Power steering fluid",
+        "en": "11. Power steering fluid"
+       },
+       "words": 431,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t036_19f8fbd1",
+       "title": {
+        "ru": "CAUTION : Ne pas souiller la garniture du disque d'embrayage ; Risque de patinag",
+        "en": "CAUTION : Ne pas souiller la garniture du disque d'embrayage ; Risque de patinag"
+       },
+       "words": 1207,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t037_2327db11",
+       "title": {
+        "ru": "5. Gear selector shafts and mechanism",
+        "en": "5. Gear selector shafts and mechanism"
+       },
+       "words": 870,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t038_d1703be2",
+       "title": {
+        "ru": "3. Upper output shaft",
+        "en": "3. Upper output shaft"
+       },
+       "words": 1251,
+       "images": 37,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t039_2439ccd4",
+       "title": {
+        "ru": "5. Refitting : Gear selection mechanism",
+        "en": "5. Refitting : Gear selection mechanism"
+       },
+       "words": 1097,
+       "images": 26,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t040_be631586",
+       "title": {
+        "ru": "3. Steering mechanism",
+        "en": "3. Steering mechanism"
+       },
+       "words": 541,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t041_8292be09",
+       "title": {
+        "ru": "1.2. Steering wheel angle sensor",
+        "en": "1.2. Steering wheel angle sensor"
+       },
+       "words": 793,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t042_b054b97e",
+       "title": {
+        "ru": "2.2. With pneumatic suspension",
+        "en": "2.2. With pneumatic suspension"
+       },
+       "words": 826,
+       "images": 50,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t043_3fea07eb",
+       "title": {
+        "ru": "2. Front and rear axle geometry",
+        "en": "2. Front and rear axle geometry"
+       },
+       "words": 196,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t044_3e88bf92",
+       "title": {
+        "ru": "4.1. Front suspension",
+        "en": "4.1. Front suspension"
+       },
+       "words": 27,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t045_1f350db9",
+       "title": {
+        "ru": "10.1. Front suspension",
+        "en": "10.1. Front suspension"
+       },
+       "words": 34,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t046_d3590404",
+       "title": {
+        "ru": "15.1. Front suspension",
+        "en": "15.1. Front suspension"
+       },
+       "words": 20,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t047_d9b0cea5",
+       "title": {
+        "ru": "19.1. Front suspension",
+        "en": "19.1. Front suspension"
+       },
+       "words": 72,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t048_cb358ac1",
+       "title": {
+        "ru": "23.2. Rear suspension",
+        "en": "23.2. Rear suspension"
+       },
+       "words": 138,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t049_020dfd17",
+       "title": {
+        "ru": "10.1. Front suspension",
+        "en": "10.1. Front suspension"
+       },
+       "words": 48,
+       "images": 15,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t050_e2186716",
+       "title": {
+        "ru": "11.1. Front suspension",
+        "en": "11.1. Front suspension"
+       },
+       "words": 20,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t051_d559471e",
+       "title": {
+        "ru": "18.1. Front suspension",
+        "en": "18.1. Front suspension"
+       },
+       "words": 76,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t052_ad845778",
+       "title": {
+        "ru": "2. Vehicle with pneumatic suspension",
+        "en": "2. Vehicle with pneumatic suspension"
+       },
+       "words": 83,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t053_45fdca5a",
+       "title": {
+        "ru": "2.2. On the right-hand side",
+        "en": "2.2. On the right-hand side"
+       },
+       "words": 450,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t054_14b07dad",
+       "title": {
+        "ru": "1.1. Suspension spring damper",
+        "en": "1.1. Suspension spring damper"
+       },
+       "words": 490,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t055_687c26a1",
+       "title": {
+        "ru": "1.2. With pneumatic suspension",
+        "en": "1.2. With pneumatic suspension"
+       },
+       "words": 1019,
+       "images": 43,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t056_0245b67e",
+       "title": {
+        "ru": "3. Tightening torques : 4 wheel drive transmission",
+        "en": "3. Tightening torques : 4 wheel drive transmission"
+       },
+       "words": 350,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t057_3b48ae94",
+       "title": {
+        "ru": "2. Tightening torques : road wheels",
+        "en": "2. Tightening torques : road wheels"
+       },
+       "words": 761,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t058_baf54a78",
+       "title": {
+        "ru": "1.2. Passenger 's side",
+        "en": "1.2. Passenger 's side"
+       },
+       "words": 415,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t059_3eb7ae34",
+       "title": {
+        "ru": "1. Additional operation",
+        "en": "1. Additional operation"
+       },
+       "words": 519,
+       "images": 28,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t060_f20d580d",
+       "title": {
+        "ru": "4. Bodywork cleaning and preparation",
+        "en": "4. Bodywork cleaning and preparation"
+       },
+       "words": 926,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t061_cb81ca28",
+       "title": {
+        "ru": "N.B. : Plan for replacement of the shims.",
+        "en": "N.B. : Plan for replacement of the shims."
+       },
+       "words": 1075,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t062_cc2cd4cd",
+       "title": {
+        "ru": "1.1. Removing the cab partition",
+        "en": "1.1. Removing the cab partition"
+       },
+       "words": 819,
+       "images": 30,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t063_e29d3892",
+       "title": {
+        "ru": "5. Bodywork cleaning and preparation",
+        "en": "5. Bodywork cleaning and preparation"
+       },
+       "words": 850,
+       "images": 30,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t064_2299ba3b",
+       "title": {
+        "ru": "3. Preparation of the replacement parts",
+        "en": "3. Preparation of the replacement parts"
+       },
+       "words": 1001,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t065_164cb828",
+       "title": {
+        "ru": "1. Recommended tools",
+        "en": "1. Recommended tools"
+       },
+       "words": 739,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t066_fa89473e",
+       "title": {
+        "ru": "N.B. : The mirror will serve as a guide throughout the repair.",
+        "en": "N.B. : The mirror will serve as a guide throughout the repair."
+       },
+       "words": 1354,
+       "images": 23,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t067_7bc5d40c",
+       "title": {
+        "ru": "ESSENTIAL : Use distilled water.",
+        "en": "ESSENTIAL : Use distilled water."
+       },
+       "words": 891,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t068_c6166b3c",
+       "title": {
+        "ru": "N.B. : Vacuum to extract the rivet waste .",
+        "en": "N.B. : Vacuum to extract the rivet waste ."
+       },
+       "words": 655,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t069_b5404410",
+       "title": {
+        "ru": "2. Bleed the secondary brake circuit",
+        "en": "2. Bleed the secondary brake circuit"
+       },
+       "words": 537,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t070_61875979",
+       "title": {
+        "ru": "7. Vaсuum pump",
+        "en": "7. Vaсuum pump"
+       },
+       "words": 2210,
+       "images": 48,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t071_6645913d",
+       "title": {
+        "ru": "1. Preliminary operation",
+        "en": "1. Preliminary operation"
+       },
+       "words": 734,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t072_7408f18a",
+       "title": {
+        "ru": "1. Recommended tools",
+        "en": "1. Recommended tools"
+       },
+       "words": 645,
+       "images": 17,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t073_0f9c18e3",
+       "title": {
+        "ru": "Vehicle",
+        "en": "Vehicle"
+       },
+       "words": 271,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t074_da767b60",
+       "title": {
+        "ru": "9C06/10/2013",
+        "en": "9C06/10/2013"
+       },
+       "words": 214,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t075_5f036acb",
+       "title": {
+        "ru": "Function",
+        "en": "Function"
+       },
+       "words": 87,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t076_34aa0c3a",
+       "title": {
+        "ru": "Vehicle",
+        "en": "Vehicle"
+       },
+       "words": 81,
+       "images": 13,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t077_cc144144",
+       "title": {
+        "ru": "9C06/10/2013",
+        "en": "9C06/10/2013"
+       },
+       "words": 70,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t078_109cce2b",
+       "title": {
+        "ru": "Function",
+        "en": "Function"
+       },
+       "words": 72,
+       "images": 11,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t079_bb32671c",
+       "title": {
+        "ru": "9C06/10/2013",
+        "en": "9C06/10/2013"
+       },
+       "words": 106,
+       "images": 12,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t080_3bf581bf",
+       "title": {
+        "ru": "D3BOLUPO INTERCONNECTIONS MANAGEMENT",
+        "en": "D3BOLUPO INTERCONNECTIONS MANAGEMENT"
+       },
+       "words": 119,
+       "images": 42,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t081_95975b8e",
+       "title": {
+        "ru": "D3BOLUPO INTERCONNECTIONS MANAGEMENT",
+        "en": "D3BOLUPO INTERCONNECTIONS MANAGEMENT"
+       },
+       "words": 140,
+       "images": 68,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t082_7164f7c5",
+       "title": {
+        "ru": "9C06/10/2013",
+        "en": "9C06/10/2013"
+       },
+       "words": 314,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t083_466a1a58",
+       "title": {
+        "ru": "9C06/10/2013",
+        "en": "9C06/10/2013"
+       },
+       "words": 78,
+       "images": 10,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t084_1d64d25f",
+       "title": {
+        "ru": "Function Diagram",
+        "en": "Function Diagram"
+       },
+       "words": 131,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t085_e7cf723e",
+       "title": {
+        "ru": "Function Diagram",
+        "en": "Function Diagram"
+       },
+       "words": 821,
+       "images": 74,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t086_4b6714d0",
+       "title": {
+        "ru": "1. Recommended tools",
+        "en": "1. Recommended tools"
+       },
+       "words": 1330,
+       "images": 31,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t087_3a0ec66b",
+       "title": {
+        "ru": "2.2. Central rail of the sliding side door",
+        "en": "2.2. Central rail of the sliding side door"
+       },
+       "words": 1250,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t088_86094bf0",
+       "title": {
+        "ru": "1. Preliminary operation",
+        "en": "1. Preliminary operation"
+       },
+       "words": 851,
+       "images": 46,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t089_17f22a44",
+       "title": {
+        "ru": "3.2. Applying the adhesive",
+        "en": "3.2. Applying the adhesive"
+       },
+       "words": 1603,
+       "images": 65,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t090_eb2537e5",
+       "title": {
+        "ru": "N.B. : Vacuum to extract the rivet waste .",
+        "en": "N.B. : Vacuum to extract the rivet waste ."
+       },
+       "words": 672,
+       "images": 24,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t091_ee4b3b99",
+       "title": {
+        "ru": "N.B. : Symmetrical operations.",
+        "en": "N.B. : Symmetrical operations."
+       },
+       "words": 605,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t092_783a2bdd",
+       "title": {
+        "ru": "2. Preliminary operations",
+        "en": "2. Preliminary operations"
+       },
+       "words": 641,
+       "images": 19,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t093_51873265",
+       "title": {
+        "ru": "1. Recommended tools",
+        "en": "1. Recommended tools"
+       },
+       "words": 1234,
+       "images": 53,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t094_dad2124d",
+       "title": {
+        "ru": "1. Recommended tools",
+        "en": "1. Recommended tools"
+       },
+       "words": 263,
+       "images": 16,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t095_2262e91a",
+       "title": {
+        "ru": "STRIPPING-ASSEMBLING : COMPONENTS INTERNAL TO THE GEARBOX (MECHANICAL) TYPE MLGU",
+        "en": "STRIPPING-ASSEMBLING : COMPONENTS INTERNAL TO THE GEARBOX (MECHANICAL) TYPE MLGU"
+       },
+       "words": 2015,
+       "images": 44,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t096_87d5101b",
+       "title": {
+        "ru": "STRIPPING-ASSEMBLING : COMPONENTS INTERNAL TO THE GEARBOX (MECHANICAL) TYPE MLGU",
+        "en": "STRIPPING-ASSEMBLING : COMPONENTS INTERNAL TO THE GEARBOX (MECHANICAL) TYPE MLGU"
+       },
+       "words": 2181,
+       "images": 52,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t097_565a8951",
+       "title": {
+        "ru": "2.2. All engines except PUMA Euro 5",
+        "en": "2.2. All engines except PUMA Euro 5"
+       },
+       "words": 899,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t098_460523bc",
+       "title": {
+        "ru": "3.1. Vehicle with air conditioning",
+        "en": "3.1. Vehicle with air conditioning"
+       },
+       "words": 985,
+       "images": 21,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t099_f9315c40",
+       "title": {
+        "ru": "3.3. Temperature of the blown air \"u\"",
+        "en": "3.3. Temperature of the blown air \"u\""
+       },
+       "words": 520,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t100_ea36f812",
+       "title": {
+        "ru": "2. Preliminary operations",
+        "en": "2. Preliminary operations"
+       },
+       "words": 672,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t101_8baab773",
+       "title": {
+        "ru": "2.2. Checking procedure",
+        "en": "2.2. Checking procedure"
+       },
+       "words": 573,
+       "images": 22,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t102_1d51df1a",
+       "title": {
+        "ru": "2.2. Renovation of the polycarbonate headlamp glass",
+        "en": "2.2. Renovation of the polycarbonate headlamp glass"
+       },
+       "words": 1213,
+       "images": 25,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t103_946650d4",
+       "title": {
+        "ru": "N.B. : The mirror will serve as a guide throughout the repair.",
+        "en": "N.B. : The mirror will serve as a guide throughout the repair."
+       },
+       "words": 998,
+       "images": 36,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t104_becbca67",
+       "title": {
+        "ru": "ESSENTIAL : Use distilled water.",
+        "en": "ESSENTIAL : Use distilled water."
+       },
+       "words": 406,
+       "images": 18,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t105_5b72896a",
+       "title": {
+        "ru": "Remove the rear seats  (row 2).",
+        "en": "Remove the rear seats  (row 2)."
+       },
+       "words": 431,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t106_8152e43b",
+       "title": {
+        "ru": "N.B. : If the hole \"a\" is deep, fill it with foam.",
+        "en": "N.B. : If the hole \"a\" is deep, fill it with foam."
+       },
+       "words": 1086,
+       "images": 30,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t107_bf6d41ff",
+       "title": {
+        "ru": "1. Recommended tools",
+        "en": "1. Recommended tools"
+       },
+       "words": 919,
+       "images": 46,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t108_d0e3efa2",
+       "title": {
+        "ru": "3.3. Tipping right-hand seat",
+        "en": "3.3. Tipping right-hand seat"
+       },
+       "words": 1592,
+       "images": 82,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t109_787cdd5c",
+       "title": {
+        "ru": "1.2. Accidental triggering without impact",
+        "en": "1.2. Accidental triggering without impact"
+       },
+       "words": 722,
+       "images": 37,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t110_acf61aef",
+       "title": {
+        "ru": "1.2. Accidental triggering without impact",
+        "en": "1.2. Accidental triggering without impact"
+       },
+       "words": 1781,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t111_8fcbf3eb",
+       "title": {
+        "ru": "3. Replacement part preparation",
+        "en": "3. Replacement part preparation"
+       },
+       "words": 1327,
+       "images": 48,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t112_20b0496d",
+       "title": {
+        "ru": "5. Bodywork cleaning and preparation",
+        "en": "5. Bodywork cleaning and preparation"
+       },
+       "words": 1147,
+       "images": 40,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t113_fd74bf11",
+       "title": {
+        "ru": "1. Additional operations",
+        "en": "1. Additional operations"
+       },
+       "words": 1091,
+       "images": 37,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t114_aa44b732",
+       "title": {
+        "ru": "4.2. Fitting new side panel fixed glass",
+        "en": "4.2. Fitting new side panel fixed glass"
+       },
+       "words": 2093,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t115_0d00f1b7",
+       "title": {
+        "ru": "1.2. Steering wheel angle sensor",
+        "en": "1.2. Steering wheel angle sensor"
+       },
+       "words": 334,
+       "images": 27,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t116_04f0c2fa",
+       "title": {
+        "ru": "2.2. With pneumatic suspension",
+        "en": "2.2. With pneumatic suspension"
+       },
+       "words": 667,
+       "images": 34,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t117_af052800",
+       "title": {
+        "ru": "1. Vehicle with metal suspension",
+        "en": "1. Vehicle with metal suspension"
+       },
+       "words": 591,
+       "images": 33,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t118_927d8bc4",
+       "title": {
+        "ru": "2.4. Pneumatic spring",
+        "en": "2.4. Pneumatic spring"
+       },
+       "words": 798,
+       "images": 40,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t119_3242a23f",
+       "title": {
+        "ru": "3. Suspension geometry",
+        "en": "3. Suspension geometry"
+       },
+       "words": 854,
+       "images": 32,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t120_9e3ab6ed",
+       "title": {
+        "ru": "1. Recommended tools",
+        "en": "1. Recommended tools"
+       },
+       "words": 963,
+       "images": 41,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t121_87fc6b44",
+       "title": {
+        "ru": "3. Tightening torques : 4 wheel drive transmission",
+        "en": "3. Tightening torques : 4 wheel drive transmission"
+       },
+       "words": 550,
+       "images": 20,
+       "section_id": "lighting"
+      },
+      {
+       "id": "peugeot_boxer_lighting_t122_ef48edc3",
+       "title": {
+        "ru": "2. Tightening torques : road wheels",
+        "en": "2. Tightening torques : road wheels"
+       },
+       "words": 463,
+       "images": 21,
+       "section_id": "lighting"
+      }
+     ]
+    },
+    {
+     "id": "interior",
+     "title": {
+      "ru": "Салон",
+      "en": "Interior"
+     },
+     "icon": "💺",
+     "topics": [
+      {
+       "id": "peugeot_boxer_interior_t000_3204240c",
+       "title": {
+        "ru": "REMOVING - REFITTING : DRIVER'S AIRBAG (RIGHT HAND DRIVE)",
+        "en": "REMOVING - REFITTING : DRIVER'S AIRBAG (RIGHT HAND DRIVE)"
+       },
+       "words": 801,
+       "images": 6,
+       "section_id": "interior"
+      },
+      {
+       "id": "peugeot_boxer_interior_t001_98fa285a",
+       "title": {
+        "ru": "Disconnect the lateral airbag acceleration sensor  .",
+        "en": "Disconnect the lateral airbag acceleration sensor  ."
+       },
+       "words": 479,
+       "images": 3,
+       "section_id": "interior"
+      }
+     ]
+    },
+    {
+     "id": "ev",
+     "title": {
+      "ru": "Электропривод",
+      "en": "EV Drivetrain"
+     },
+     "icon": "🔋",
+     "topics": [
+      {
+       "id": "peugeot_boxer_ev_t000_333c9baf",
+       "title": {
+        "ru": "Tighten the wheel bolts  .",
+        "en": "Tighten the wheel bolts  ."
+       },
+       "words": 5,
+       "images": 0,
+       "section_id": "ev"
+      }
+     ]
+    },
+    {
+     "id": "general",
+     "title": {
+      "ru": "Общая информация",
+      "en": "General"
+     },
+     "icon": "📖",
+     "topics": [
+      {
+       "id": "peugeot_boxer_general_t000_294e4052",
+       "title": {
+        "ru": "PEUGEOT BOXER WORKSHOP MANUAL 2006 - 2017",
+        "en": "PEUGEOT BOXER WORKSHOP MANUAL 2006 - 2017"
+       },
+       "words": 1330,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t001_5534f4c2",
+       "title": {
+        "ru": "3. Fuel supply system",
+        "en": "3. Fuel supply system"
+       },
+       "words": 444,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t002_375670df",
+       "title": {
+        "ru": "N.B. : 2 operators are required for this operation.",
+        "en": "N.B. : 2 operators are required for this operation."
+       },
+       "words": 1133,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t003_6ac120b3",
+       "title": {
+        "ru": "2.1. Preliminary operations",
+        "en": "2.1. Preliminary operations"
+       },
+       "words": 961,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t004_5531548b",
+       "title": {
+        "ru": "CAUTION : Adhere to the tightening torques .",
+        "en": "CAUTION : Adhere to the tightening torques ."
+       },
+       "words": 1384,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t005_b2ef7074",
+       "title": {
+        "ru": "8. Procedures for returning under warranty",
+        "en": "8. Procedures for returning under warranty"
+       },
+       "words": 1665,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t006_5aff9e3b",
+       "title": {
+        "ru": "3. Precautions to be taken before starting the vehicle",
+        "en": "3. Precautions to be taken before starting the vehicle"
+       },
+       "words": 948,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t007_55585ad5",
+       "title": {
+        "ru": "IOVING - REFITTING : PRESSURE REGULATOR ON FUEL HIGH PRESSURE PUMP",
+        "en": "IOVING - REFITTING : PRESSURE REGULATOR ON FUEL HIGH PRESSURE PUMP"
+       },
+       "words": 792,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t008_17e3d3f4",
+       "title": {
+        "ru": "REMOVING - REFITTING : FUEL PUMP AND GAUGE ASSEMBLY",
+        "en": "REMOVING - REFITTING : FUEL PUMP AND GAUGE ASSEMBLY"
+       },
+       "words": 1101,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t009_62bbcef3",
+       "title": {
+        "ru": "7. Special features of vehicles fitted with a particle filter",
+        "en": "7. Special features of vehicles fitted with a particle filter"
+       },
+       "words": 888,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t010_cc5a9dc3",
+       "title": {
+        "ru": "5. Repriming the vaporiser",
+        "en": "5. Repriming the vaporiser"
+       },
+       "words": 789,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t011_ef27a4ea",
+       "title": {
+        "ru": "REMOVING - REFITTING : EXHAUST GAS RECYCLING SOLENOID VALVE",
+        "en": "REMOVING - REFITTING : EXHAUST GAS RECYCLING SOLENOID VALVE"
+       },
+       "words": 764,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t012_a2fa0599",
+       "title": {
+        "ru": "FORCED REGENERATION : PARTICLE FILTER (TECHNICAL NOTE)",
+        "en": "FORCED REGENERATION : PARTICLE FILTER (TECHNICAL NOTE)"
+       },
+       "words": 853,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t013_ecf0b438",
+       "title": {
+        "ru": "3. General principles for charging batteries",
+        "en": "3. General principles for charging batteries"
+       },
+       "words": 695,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t014_939f8c11",
+       "title": {
+        "ru": "6. Nouvelle huile à économie de carburant et antipollution",
+        "en": "6. Nouvelle huile à économie de carburant et antipollution"
+       },
+       "words": 1386,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t015_e29e2189",
+       "title": {
+        "ru": "ESSENTIAL : Observe the safety and cleanliness recommendations",
+        "en": "ESSENTIAL : Observe the safety and cleanliness recommendations"
+       },
+       "words": 786,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t016_7f61bc6e",
+       "title": {
+        "ru": "3. Handbrake secondary cables",
+        "en": "3. Handbrake secondary cables"
+       },
+       "words": 728,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t017_9d4cc321",
+       "title": {
+        "ru": "4. Common operations",
+        "en": "4. Common operations"
+       },
+       "words": 676,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t018_8cb540be",
+       "title": {
+        "ru": "N.B. : Adjustment of the stoplamp switch (1) is automatic once it is locked",
+        "en": "N.B. : Adjustment of the stoplamp switch (1) is automatic once it is locked"
+       },
+       "words": 819,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t019_a95df284",
+       "title": {
+        "ru": "N.B. : Fit a new clic clip .",
+        "en": "N.B. : Fit a new clic clip ."
+       },
+       "words": 813,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t020_86315343",
+       "title": {
+        "ru": "2.2. Subsequent operations",
+        "en": "2.2. Subsequent operations"
+       },
+       "words": 712,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t021_3ebb49d4",
+       "title": {
+        "ru": "N.B. : Pass the screwdriver through the opening in the upper timing cover .",
+        "en": "N.B. : Pass the screwdriver through the opening in the upper timing cover ."
+       },
+       "words": 904,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t022_cec5ba3b",
+       "title": {
+        "ru": "Tightening method for the screws (3) ① :",
+        "en": "Tightening method for the screws (3) ① :"
+       },
+       "words": 1019,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t023_32b3eb08",
+       "title": {
+        "ru": "N.B. : The tools [0191-2B] must screw into the camshaft main bearing cap casing",
+        "en": "N.B. : The tools [0191-2B] must screw into the camshaft main bearing cap casing"
+       },
+       "words": 1106,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t024_8c9746aa",
+       "title": {
+        "ru": "4. Degassing and checking the cooling system",
+        "en": "4. Degassing and checking the cooling system"
+       },
+       "words": 1121,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t025_765acaca",
+       "title": {
+        "ru": "6. Procedures for returning under warranty",
+        "en": "6. Procedures for returning under warranty"
+       },
+       "words": 727,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t026_139b5ddd",
+       "title": {
+        "ru": "8. Procedures for returning under warranty",
+        "en": "8. Procedures for returning under warranty"
+       },
+       "words": 795,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t027_94c0abfd",
+       "title": {
+        "ru": "5. Priming of the EURO 5 fuel circuit",
+        "en": "5. Priming of the EURO 5 fuel circuit"
+       },
+       "words": 1015,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t028_08ec378b",
+       "title": {
+        "ru": "3. Compatibility between additives",
+        "en": "3. Compatibility between additives"
+       },
+       "words": 1048,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t029_02e52dce",
+       "title": {
+        "ru": "2. Forced regeneration of the particle emission filter",
+        "en": "2. Forced regeneration of the particle emission filter"
+       },
+       "words": 1072,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t030_474654ca",
+       "title": {
+        "ru": "6. Nouvelle huile à économie de carburant et antipollution",
+        "en": "6. Nouvelle huile à économie de carburant et antipollution"
+       },
+       "words": 993,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t031_314872e2",
+       "title": {
+        "ru": "CAUTION : Perform the operations to be carried out following reconnection of the",
+        "en": "CAUTION : Perform the operations to be carried out following reconnection of the"
+       },
+       "words": 780,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t032_a5fee3c5",
+       "title": {
+        "ru": "CAUTION : The end of the transparent pipe must be submerged into the brake fluid",
+        "en": "CAUTION : The end of the transparent pipe must be submerged into the brake fluid"
+       },
+       "words": 1407,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t033_6a7d7741",
+       "title": {
+        "ru": "2. Procedure to be followed : Greasing method",
+        "en": "2. Procedure to be followed : Greasing method"
+       },
+       "words": 838,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t034_108250c6",
+       "title": {
+        "ru": "4. Checking the power steering pump",
+        "en": "4. Checking the power steering pump"
+       },
+       "words": 1152,
+       "images": 14,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t035_8e7cffbc",
+       "title": {
+        "ru": "ADJUSTMENT : PLACING AT THE REAR AXLE TIGHTENING REFERENCE HEIGHT",
+        "en": "ADJUSTMENT : PLACING AT THE REAR AXLE TIGHTENING REFERENCE HEIGHT"
+       },
+       "words": 1335,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t036_495685a1",
+       "title": {
+        "ru": "2. Suspension geometry",
+        "en": "2. Suspension geometry"
+       },
+       "words": 994,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t037_5aebf8f8",
+       "title": {
+        "ru": "3. Suspension geometry",
+        "en": "3. Suspension geometry"
+       },
+       "words": 1524,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t038_0dc243e3",
+       "title": {
+        "ru": "N.B. : Put the tool [1] in place from the inner side.",
+        "en": "N.B. : Put the tool [1] in place from the inner side."
+       },
+       "words": 892,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t039_043ec646",
+       "title": {
+        "ru": "1. Preliminary operations",
+        "en": "1. Preliminary operations"
+       },
+       "words": 677,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t040_87b3808e",
+       "title": {
+        "ru": "1. Preliminary operations",
+        "en": "1. Preliminary operations"
+       },
+       "words": 527,
+       "images": 5,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t041_22f790e3",
+       "title": {
+        "ru": "REPLACEMENT : PARTIAL FRONT HALF-PANEL INNER PANEL",
+        "en": "REPLACEMENT : PARTIAL FRONT HALF-PANEL INNER PANEL"
+       },
+       "words": 447,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t042_834ac18f",
+       "title": {
+        "ru": "1. Additional operations",
+        "en": "1. Additional operations"
+       },
+       "words": 1178,
+       "images": 32,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t043_d480b183",
+       "title": {
+        "ru": "N.B. : Remove any scratches or slight defects.",
+        "en": "N.B. : Remove any scratches or slight defects."
+       },
+       "words": 936,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t044_8d64c622",
+       "title": {
+        "ru": "1. Additional operations",
+        "en": "1. Additional operations"
+       },
+       "words": 1000,
+       "images": 22,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t045_ed03f760",
+       "title": {
+        "ru": "1. Additional operations",
+        "en": "1. Additional operations"
+       },
+       "words": 1012,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t046_3bc6c7c6",
+       "title": {
+        "ru": "REPAIR : IMPACT ON THE LAMINATED WINDOWS PRINCIPLES OF REPAIR",
+        "en": "REPAIR : IMPACT ON THE LAMINATED WINDOWS PRINCIPLES OF REPAIR"
+       },
+       "words": 865,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t047_9061340e",
+       "title": {
+        "ru": "4. Precautions regarding use",
+        "en": "4. Precautions regarding use"
+       },
+       "words": 1297,
+       "images": 17,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t048_27ea8967",
+       "title": {
+        "ru": "LOCATION : COLD STAMPING OF THE SERIAL NUMBER (VIN)",
+        "en": "LOCATION : COLD STAMPING OF THE SERIAL NUMBER (VIN)"
+       },
+       "words": 651,
+       "images": 23,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t049_678f29c7",
+       "title": {
+        "ru": "REMOVING - REFITTING : TIPPER TRUCK HYDRAULIC RAM AND ELECTRO-HYDRAULIC SYSTEM",
+        "en": "REMOVING - REFITTING : TIPPER TRUCK HYDRAULIC RAM AND ELECTRO-HYDRAULIC SYSTEM"
+       },
+       "words": 725,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t050_26462b84",
+       "title": {
+        "ru": "ESSENTIAL : Observe the safety and cleanliness recommendations  .",
+        "en": "ESSENTIAL : Observe the safety and cleanliness recommendations  ."
+       },
+       "words": 894,
+       "images": 18,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t051_8bafe79f",
+       "title": {
+        "ru": "2.2. 2nd possibility",
+        "en": "2.2. 2nd possibility"
+       },
+       "words": 750,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t052_33591ec6",
+       "title": {
+        "ru": "2.1. 1st possibility",
+        "en": "2.1. 1st possibility"
+       },
+       "words": 638,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t053_46d7dcd5",
+       "title": {
+        "ru": "3.2. Refitting (continued)",
+        "en": "3.2. Refitting (continued)"
+       },
+       "words": 1127,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t054_9c081059",
+       "title": {
+        "ru": "3. Bleeding the brake system",
+        "en": "3. Bleeding the brake system"
+       },
+       "words": 583,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t055_3c9578d6",
+       "title": {
+        "ru": "Vehicle",
+        "en": "Vehicle"
+       },
+       "words": 450,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t056_f4be99f3",
+       "title": {
+        "ru": "Principle",
+        "en": "Principle"
+       },
+       "words": 412,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t057_f6d82256",
+       "title": {
+        "ru": "Function Diagram",
+        "en": "Function Diagram"
+       },
+       "words": 514,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t058_166d0df6",
+       "title": {
+        "ru": "Vehicle",
+        "en": "Vehicle"
+       },
+       "words": 472,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t059_850a76e2",
+       "title": {
+        "ru": "Vehicle",
+        "en": "Vehicle"
+       },
+       "words": 325,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t060_160f3b49",
+       "title": {
+        "ru": "Function",
+        "en": "Function"
+       },
+       "words": 191,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t061_b1f00db9",
+       "title": {
+        "ru": "Function Diagram",
+        "en": "Function Diagram"
+       },
+       "words": 489,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t062_03fbf0ab",
+       "title": {
+        "ru": "Vehicle",
+        "en": "Vehicle"
+       },
+       "words": 455,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t063_cb9c874c",
+       "title": {
+        "ru": "N.B. : To adjust the sliding side door vertically : Slide the sliding side door ",
+        "en": "N.B. : To adjust the sliding side door vertically : Slide the sliding side door "
+       },
+       "words": 822,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t064_20654385",
+       "title": {
+        "ru": "3.2. Preparation of the aperture",
+        "en": "3.2. Preparation of the aperture"
+       },
+       "words": 583,
+       "images": 7,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t065_bdd197f0",
+       "title": {
+        "ru": "3.2. Refiting (continued)",
+        "en": "3.2. Refiting (continued)"
+       },
+       "words": 447,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t066_bca01a49",
+       "title": {
+        "ru": "1. Recommendations prior to carrying out the operation",
+        "en": "1. Recommendations prior to carrying out the operation"
+       },
+       "words": 850,
+       "images": 3,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t067_0ff02100",
+       "title": {
+        "ru": "5.9. Simple repair (1 Heat-shrink sleeve )",
+        "en": "5.9. Simple repair (1 Heat-shrink sleeve )"
+       },
+       "words": 2026,
+       "images": 8,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t068_b881993e",
+       "title": {
+        "ru": "7.6. Wire cut at the overmoulded connector outlet",
+        "en": "7.6. Wire cut at the overmoulded connector outlet"
+       },
+       "words": 958,
+       "images": 13,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t069_a2402181",
+       "title": {
+        "ru": "Disconnect the battery 0.",
+        "en": "Disconnect the battery 0."
+       },
+       "words": 1368,
+       "images": 21,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t070_c0a34d08",
+       "title": {
+        "ru": "BLEEDING : HYDRAULIC CLUTCH CONTROL",
+        "en": "BLEEDING : HYDRAULIC CLUTCH CONTROL"
+       },
+       "words": 1769,
+       "images": 15,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t071_7214a0df",
+       "title": {
+        "ru": "1. Check: air conditioning compressor",
+        "en": "1. Check: air conditioning compressor"
+       },
+       "words": 621,
+       "images": 12,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t072_5779a478",
+       "title": {
+        "ru": "3. Interpretation of the values (reminder)",
+        "en": "3. Interpretation of the values (reminder)"
+       },
+       "words": 820,
+       "images": 4,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t073_a9c3d449",
+       "title": {
+        "ru": "REMOVING - REFITTING : AIR CONDITIONING FLUID PIPES",
+        "en": "REMOVING - REFITTING : AIR CONDITIONING FLUID PIPES"
+       },
+       "words": 501,
+       "images": 0,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t074_2e6f086f",
+       "title": {
+        "ru": "5. Bodywork cleaning and preparation",
+        "en": "5. Bodywork cleaning and preparation"
+       },
+       "words": 1602,
+       "images": 20,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t075_308c0478",
+       "title": {
+        "ru": "2. Preliminary operations",
+        "en": "2. Preliminary operations"
+       },
+       "words": 454,
+       "images": 6,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t076_450d679a",
+       "title": {
+        "ru": "N.B. : Repeat the following in two stages.",
+        "en": "N.B. : Repeat the following in two stages."
+       },
+       "words": 494,
+       "images": 2,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t077_a1a9a054",
+       "title": {
+        "ru": "REPLACEMENT : PYROTECHNIC COMPONENTS (FOLLOWING TRIGGERING OF THE AIR BAGS AND S",
+        "en": "REPLACEMENT : PYROTECHNIC COMPONENTS (FOLLOWING TRIGGERING OF THE AIR BAGS AND S"
+       },
+       "words": 542,
+       "images": 10,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t078_ed4551e4",
+       "title": {
+        "ru": "REMOVING - REFITTING : SIDE MOULDINGS (EXTERIOR PROTECTION)",
+        "en": "REMOVING - REFITTING : SIDE MOULDINGS (EXTERIOR PROTECTION)"
+       },
+       "words": 423,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t079_41bc45f3",
+       "title": {
+        "ru": "REPLACEMENT : PART CAB DOOR FRAME",
+        "en": "REPLACEMENT : PART CAB DOOR FRAME"
+       },
+       "words": 1176,
+       "images": 35,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t080_a7594647",
+       "title": {
+        "ru": "REPLACEMENT : WINDSCREEN APERTURE PILLAR STRENGTHENER",
+        "en": "REPLACEMENT : WINDSCREEN APERTURE PILLAR STRENGTHENER"
+       },
+       "words": 627,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t081_821b2461",
+       "title": {
+        "ru": "REPLACEMENT : PARTIAL REAR RH SIDE PANEL",
+        "en": "REPLACEMENT : PARTIAL REAR RH SIDE PANEL"
+       },
+       "words": 1222,
+       "images": 29,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t082_1857e9d4",
+       "title": {
+        "ru": "JUSTMENT : PLACING AT THE REAR AXLE TIGHTENING REFERENCE HEIGHT",
+        "en": "JUSTMENT : PLACING AT THE REAR AXLE TIGHTENING REFERENCE HEIGHT"
+       },
+       "words": 1184,
+       "images": 25,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t083_23918fb5",
+       "title": {
+        "ru": "Refit :",
+        "en": "Refit :"
+       },
+       "words": 1605,
+       "images": 26,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t084_19aa8f3d",
+       "title": {
+        "ru": "N.B. : Put the tool [1] in place from the inner side.",
+        "en": "N.B. : Put the tool [1] in place from the inner side."
+       },
+       "words": 1498,
+       "images": 16,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t085_a26993b3",
+       "title": {
+        "ru": "3.3. Refitting (continued)",
+        "en": "3.3. Refitting (continued)"
+       },
+       "words": 544,
+       "images": 1,
+       "section_id": "general"
+      },
+      {
+       "id": "peugeot_boxer_general_t086_b1858b55",
+       "title": {
+        "ru": "Function",
+        "en": "Function"
+       },
+       "words": 36,
+       "images": 0,
+       "section_id": "general"
+      }
+     ]
+    },
+    {
+     "id": "infotainment",
+     "title": {
+      "ru": "infotainment",
+      "en": "infotainment"
+     },
+     "icon": "📦",
+     "topics": [
+      {
+       "id": "peugeot_boxer_infotainment_t000_1b20ef86",
+       "title": {
+        "ru": "Domain",
+        "en": "Domain"
+       },
+       "words": 6,
+       "images": 0,
+       "section_id": "infotainment"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
