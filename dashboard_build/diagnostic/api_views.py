@@ -1197,7 +1197,7 @@ except ImportError:
 
 
 _KB_IMAGE_HASH = _re.compile(r"^[0-9a-f]{64}$")
-_KB_IMAGE_ROOT = _Path(os.environ.get("KB_IMAGES_ROOT", "/var/kb-images"))
+_KB_IMAGE_ROOT = _Path(os.environ.get("KB_IMAGES_ROOT", "/var/www/html/django/kb-images"))
 # Transparent 1x1 webp fallback (64 B).
 _KB_IMAGE_PLACEHOLDER = bytes.fromhex(
     "52494646260000005745425056503820190000003001009d012a0100010002003425a0028000fe8d000000"

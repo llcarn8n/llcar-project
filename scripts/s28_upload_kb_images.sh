@@ -12,7 +12,7 @@
 set -euo pipefail
 
 STAGING="${STAGING:-.omc/staging/kb-images}"
-REMOTE_ROOT="${REMOTE_ROOT:-/var/kb-images}"
+REMOTE_ROOT="${REMOTE_ROOT:-/var/www/html/django/kb-images}"
 SSH_WRAPPER="${SSH_WRAPPER:-/tmp/llcar_ssh.sh}"
 PROGRESS_LOG="${PROGRESS_LOG:-.omc/research/s28-upload-progress.log}"
 
