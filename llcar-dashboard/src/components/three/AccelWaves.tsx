@@ -151,8 +151,9 @@ const RIM_COLOR   = '#EFF2F7'    // spectral край — яркий конту�
 // Canvas-текстура с радиальным градиентом: светлее по внешнему ободу,
 // полный чёрный в центре. Это даёт зрителю ощущение глубины ямы
 // даже когда камера смотрит под небольшим углом.
+// Kept as exports — used by potential alt-pothole rendering modes.
 let _potholeFloorTexture: THREE.CanvasTexture | null = null
-function getPotholeFloorTexture(): THREE.CanvasTexture {
+export function getPotholeFloorTexture(): THREE.CanvasTexture {
   if (_potholeFloorTexture) return _potholeFloorTexture
   const size = 256
   const canvas = document.createElement('canvas')
@@ -179,7 +180,7 @@ function getPotholeFloorTexture(): THREE.CanvasTexture {
 // Градиент на стенках: у верха — светло-серый освещённый асфальт,
 // у основания — чернота. Линейная текстура (UV.v от 0 сверху до 1 снизу).
 let _potholeWallTexture: THREE.CanvasTexture | null = null
-function getPotholeWallTexture(): THREE.CanvasTexture {
+export function getPotholeWallTexture(): THREE.CanvasTexture {
   if (_potholeWallTexture) return _potholeWallTexture
   const w = 4
   const h = 128

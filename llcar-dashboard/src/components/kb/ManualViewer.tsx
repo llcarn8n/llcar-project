@@ -1,7 +1,10 @@
-import { useState, useEffect, useMemo, useCallback, type JSX } from 'react'
+import { useState, useEffect, useMemo, useCallback, useRef, type JSX } from 'react'
 import { GlassPanel } from '../shared/GlassPanel'
 import { theme } from '../../theme'
 import { extractImageSrc, resolveManualImage } from '../../utils/manualImages'
+import { getKBStats } from '../../utils/kbStats'
+
+const KB_STATS = getKBStats()
 
 // ── DITA JSON types ──────────────────────────────────────────────
 
@@ -421,11 +424,24 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
   const [mdSections, setMdSections] = useState<MdSection[]>([])
   const [expandedMdSection, setExpandedMdSection] = useState<string | null>(null)
   const [searchQuery, setSearchQuery] = useState('')
+  const [debouncedQuery, setDebouncedQuery] = useState('')
+  const [activeMatchIndex, setActiveMatchIndex] = useState(0)
+  const sectionRefs = useRef<Record<string, HTMLDivElement | null>>({})
+
+  // Manual variants state — fallback chain + optional user selection
+  const [manualVariant, setManualVariant] = useState<'main' | 'variant' | 'variant2'>('main')
+  const [availableVariants, setAvailableVariants] = useState<Array<'main' | 'variant' | 'variant2'>>([])
 
   // View mode
   const hasDita = !!(data && data.manuals && data.manuals.length > 0)
   const hasMd = mdRaw !== null
   const [viewMode, setViewMode] = useState<ViewMode>('md')
+
+  // Debounce user input for search (150ms — Fuse benchmarks, feels instant)
+  useEffect(() => {
+    const t = setTimeout(() => setDebouncedQuery(searchQuery), 150)
+    return () => clearTimeout(t)
+  }, [searchQuery])
 
   // ── Fetch DITA JSON ──────────────────────────────────────────
   useEffect(() => {
@@ -439,33 +455,86 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
   }, [brandId, modelName])
 
   // ── Fetch generation Markdown ────────────────────────────────
+  // Fallback цепочка: manual.md → manual_variant.md → manual_variant2.md
+  // Variant-файлы появляются когда при ingest было 2+ источника на одну gen-папку
+  // и фикс коллизий (S27 H3.9c) сохранил альтернативные версии.
   useEffect(() => {
     if (!kbGenPath) {
       setMdRaw(null)
       setMdSections([])
+      setAvailableVariants([])
+      setManualVariant('main')
       return
     }
     setMdLoading(true)
-    fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/manual.md`)
-      .then(r => {
-        if (!r.ok) throw new Error('not found')
-        return r.text()
-      })
-      .then(text => {
-        // Strip YAML frontmatter (--- ... ---) added by S27 normalizer
-        const body = text.startsWith('---\n')
-          ? text.replace(/^---\n[\s\S]*?\n---\n+/, '')
-          : text
-        setMdRaw(body)
-        setMdSections(parseMarkdownSections(body))
-        setMdLoading(false)
-      })
-      .catch(() => {
+    const controller = new AbortController()
+
+    const filename = manualVariant === 'main' ? 'manual.md' :
+                     manualVariant === 'variant' ? 'manual_variant.md' :
+                     'manual_variant2.md'
+
+    // Сначала probe'аем variants один раз при новом kbGenPath (только если manualVariant === 'main')
+    const probeVariants = async () => {
+      if (manualVariant !== 'main') return
+      const variants: Array<'main' | 'variant' | 'variant2'> = ['main']
+      try {
+        const r1 = await fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/manual_variant.md`, {
+          signal: controller.signal, method: 'HEAD',
+        })
+        if (r1.ok) variants.push('variant')
+      } catch { /* ignore */ }
+      try {
+        const r2 = await fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/manual_variant2.md`, {
+          signal: controller.signal, method: 'HEAD',
+        })
+        if (r2.ok) variants.push('variant2')
+      } catch { /* ignore */ }
+      if (!controller.signal.aborted) setAvailableVariants(variants)
+    }
+    probeVariants()
+
+    const fetchWithFallback = async (name: string, fallbackChain: string[]): Promise<{ body: string; via: string } | null> => {
+      try {
+        const r = await fetch(`${import.meta.env.BASE_URL}data/kb/${kbGenPath}/${name}`, { signal: controller.signal })
+        if (r.ok) {
+          const text = await r.text()
+          // Sanity check: кэш SPA возвращает HTML 3365B для несуществующих путей — отсеиваем
+          if (text.trim().startsWith('<!DOCTYPE') || text.trim().startsWith('<html')) {
+            throw new Error('HTML fallback')
+          }
+          return { body: text, via: name }
+        }
+      } catch (e) {
+        if ((e as { name?: string })?.name === 'AbortError') return null
+      }
+      if (fallbackChain.length > 0) {
+        return fetchWithFallback(fallbackChain[0], fallbackChain.slice(1))
+      }
+      return null
+    }
+
+    // При активном variant — fetch именно его, без fallback (user выбрал явно).
+    // При main — fallback на variant/variant2 если main 404.
+    const chain = manualVariant === 'main' ? ['manual_variant.md', 'manual_variant2.md'] : []
+    fetchWithFallback(filename, chain).then(result => {
+      if (controller.signal.aborted) return
+      if (!result) {
         setMdRaw(null)
         setMdSections([])
         setMdLoading(false)
-      })
-  }, [kbGenPath])
+        return
+      }
+      // Strip YAML frontmatter (--- ... ---) added by S27 normalizer
+      const body = result.body.startsWith('---\n')
+        ? result.body.replace(/^---\n[\s\S]*?\n---\n+/, '')
+        : result.body
+      setMdRaw(body)
+      setMdSections(parseMarkdownSections(body))
+      setMdLoading(false)
+    })
+
+    return () => controller.abort()
+  }, [kbGenPath, manualVariant])
 
   // Auto-select best available view
   useEffect(() => {
@@ -474,26 +543,67 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
   }, [hasMd, hasDita])
 
   // ── Search-filtered MD sections + match counts ──────────────
+  // Используем debouncedQuery чтобы не пересчитывать regex на каждую нажатую клавишу.
   const filteredMdSections = useMemo(() => {
-    if (!searchQuery.trim()) return mdSections
-    const q = searchQuery.toLowerCase()
+    if (!debouncedQuery.trim()) return mdSections
+    const q = debouncedQuery.toLowerCase()
     return mdSections.filter(
       s => s.title.toLowerCase().includes(q) || s.content.toLowerCase().includes(q)
     )
-  }, [mdSections, searchQuery])
+  }, [mdSections, debouncedQuery])
 
-  const totalMatches = useMemo(() => {
-    if (!searchQuery.trim()) return 0
-    const q = searchQuery.toLowerCase()
-    if (q.length < 2) return 0
-    let total = 0
+  // Плоский список всех совпадений (по секциям) — для prev/next navigation.
+  // matchList[i] = {sectionId, offsetInSection} — даёт возможность переключать активное совпадение.
+  const matchList = useMemo<Array<{ sectionId: string; idxInSection: number }>>(() => {
+    const q = debouncedQuery.trim().toLowerCase()
+    if (q.length < 2) return []
+    const out: Array<{ sectionId: string; idxInSection: number }> = []
+    const re = new RegExp(escapeRegExp(q), 'gi')
     for (const s of filteredMdSections) {
-      const titleMatches = (s.title.toLowerCase().match(new RegExp(escapeRegExp(q), 'g')) || []).length
-      const contentMatches = (s.content.toLowerCase().match(new RegExp(escapeRegExp(q), 'g')) || []).length
-      total += titleMatches + contentMatches
+      let localIdx = 0
+      // Title matches (если title содержит query — учитываем)
+      if (s.title.toLowerCase().includes(q)) {
+        out.push({ sectionId: s.id, idxInSection: localIdx++ })
+      }
+      // Content matches
+      const content = s.content.toLowerCase()
+      re.lastIndex = 0
+      while (re.exec(content) !== null) {
+        out.push({ sectionId: s.id, idxInSection: localIdx++ })
+        if (re.lastIndex === 0) break  // avoid infinite loop on zero-length matches
+      }
     }
-    return total
-  }, [filteredMdSections, searchQuery])
+    return out
+  }, [filteredMdSections, debouncedQuery])
+
+  const totalMatches = matchList.length
+
+  // Сбрасываем активный match при смене query
+  useEffect(() => {
+    setActiveMatchIndex(0)
+  }, [debouncedQuery])
+
+  // Scroll-into-view: при смене activeMatchIndex находим нужную секцию и скроллим к ней.
+  // block:'center' — секция оказывается по центру viewport'а.
+  useEffect(() => {
+    if (matchList.length === 0) return
+    const active = matchList[activeMatchIndex]
+    if (!active) return
+    const el = sectionRefs.current[active.sectionId]
+    if (el) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' })
+    }
+  }, [activeMatchIndex, matchList])
+
+  const goPrevMatch = useCallback(() => {
+    if (matchList.length === 0) return
+    setActiveMatchIndex(i => (i - 1 + matchList.length) % matchList.length)
+  }, [matchList.length])
+
+  const goNextMatch = useCallback(() => {
+    if (matchList.length === 0) return
+    setActiveMatchIndex(i => (i + 1) % matchList.length)
+  }, [matchList.length])
 
   const totalMdWords = useMemo(
     () => mdSections.reduce((sum, s) => sum + s.wordCount, 0),
@@ -538,7 +648,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
           }}>
             {brandId && modelName
               ? `Мануал для ${modelName} загружается — скоро будет доступен.`
-              : '333 полных мануала в базе — выберите авто.'}
+              : `${KB_STATS.generations} полных мануалов в базе — выберите авто или воспользуйтесь поиском выше.`}
           </div>
         </div>
       </GlassPanel>
@@ -683,36 +793,99 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
 
     return (
       <div style={{ display: 'flex', flexDirection: 'column', gap: 6 }}>
-        {/* Search bar */}
-        <div style={{ position: 'relative' }}>
-          <input
-            type="text"
-            value={searchQuery}
-            onChange={e => setSearchQuery(e.target.value)}
-            placeholder="Поиск по руководству..."
-            style={{
-              width: '100%',
-              padding: '8px 12px 8px 32px',
-              borderRadius: 4,
-              border: '1px solid rgba(0,229,255,0.15)',
-              background: 'rgba(0,0,0,0.2)',
-              color: theme.text.primary,
-              fontFamily: 'var(--f-body), sans-serif',
+        {/* Search bar — with variant selector + prev/next nav */}
+        <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap' }}>
+          <div style={{ position: 'relative', flex: '1 1 240px', minWidth: 200 }}>
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={e => setSearchQuery(e.target.value)}
+              onKeyDown={e => {
+                if (e.key === 'Enter') {
+                  e.preventDefault()
+                  if (e.shiftKey) goPrevMatch(); else goNextMatch()
+                } else if (e.key === 'Escape') {
+                  setSearchQuery('')
+                }
+              }}
+              placeholder="Поиск по руководству… (Enter — далее, Shift+Enter — назад)"
+              style={{
+                width: '100%',
+                padding: '8px 12px 8px 32px',
+                borderRadius: 4,
+                border: '1px solid rgba(0,229,255,0.15)',
+                background: 'rgba(0,0,0,0.2)',
+                color: theme.text.primary,
+                fontFamily: 'var(--f-body), sans-serif',
+                fontSize: 13,
+                outline: 'none',
+                transition: 'border-color 0.2s',
+              }}
+              onFocus={e => { e.target.style.borderColor = 'rgba(0,229,255,0.4)' }}
+              onBlur={e => { e.target.style.borderColor = 'rgba(0,229,255,0.15)' }}
+            />
+            <span style={{
+              position: 'absolute',
+              left: 10,
+              top: '50%',
+              transform: 'translateY(-50%)',
               fontSize: 13,
-              outline: 'none',
-              transition: 'border-color 0.2s',
-            }}
-            onFocus={e => { e.target.style.borderColor = 'rgba(0,229,255,0.4)' }}
-            onBlur={e => { e.target.style.borderColor = 'rgba(0,229,255,0.15)' }}
-          />
-          <span style={{
-            position: 'absolute',
-            left: 10,
-            top: '50%',
-            transform: 'translateY(-50%)',
-            fontSize: 13,
-            opacity: 0.4,
-          }}>&#x1F50D;</span>
+              opacity: 0.4,
+            }}>&#x1F50D;</span>
+          </div>
+
+          {/* Prev/next nav — показываем когда есть совпадения */}
+          {debouncedQuery.trim().length >= 2 && totalMatches > 0 && (
+            <div style={{ display: 'flex', alignItems: 'center', gap: 4 }}>
+              <button
+                type="button"
+                onClick={goPrevMatch}
+                title="Предыдущее совпадение (Shift+Enter)"
+                style={{
+                  width: 28, height: 28, border: '1px solid rgba(0,229,255,0.2)',
+                  background: 'rgba(0,229,255,0.04)', color: theme.accent.cyan,
+                  borderRadius: 3, cursor: 'pointer', fontSize: 12, padding: 0,
+                }}
+              >&#9650;</button>
+              <span style={{
+                fontFamily: 'var(--f-display), sans-serif', fontSize: 11,
+                color: 'var(--c-champagne)', minWidth: 56, textAlign: 'center',
+                padding: '4px 6px', border: '1px solid rgba(230,212,168,0.2)',
+                borderRadius: 3, letterSpacing: '0.05em',
+              }}>
+                {activeMatchIndex + 1}/{totalMatches}
+              </span>
+              <button
+                type="button"
+                onClick={goNextMatch}
+                title="Следующее совпадение (Enter)"
+                style={{
+                  width: 28, height: 28, border: '1px solid rgba(0,229,255,0.2)',
+                  background: 'rgba(0,229,255,0.04)', color: theme.accent.cyan,
+                  borderRadius: 3, cursor: 'pointer', fontSize: 12, padding: 0,
+                }}
+              >&#9660;</button>
+            </div>
+          )}
+
+          {/* Variant selector — только если variants > 1 */}
+          {availableVariants.length > 1 && (
+            <select
+              value={manualVariant}
+              onChange={e => setManualVariant(e.target.value as 'main' | 'variant' | 'variant2')}
+              title="Версия руководства"
+              style={{
+                padding: '6px 10px', fontFamily: 'var(--f-body)', fontSize: 12,
+                background: 'rgba(12,18,32,0.6)', color: theme.text.primary,
+                border: '1px solid rgba(0,229,255,0.2)', borderRadius: 3,
+                outline: 'none', cursor: 'pointer',
+              }}
+            >
+              {availableVariants.includes('main') && <option value="main">Основная</option>}
+              {availableVariants.includes('variant') && <option value="variant">Вариант 1</option>}
+              {availableVariants.includes('variant2') && <option value="variant2">Вариант 2</option>}
+            </select>
+          )}
         </div>
 
         {/* Stats bar */}
@@ -728,7 +901,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
             color: theme.text.muted,
           }}>
             {filteredMdSections.length} из {mdSections.length} секций
-            {searchQuery.trim().length >= 2 && totalMatches > 0 && (
+            {debouncedQuery.trim().length >= 2 && totalMatches > 0 && (
               <span style={{ marginLeft: 10, color: 'rgba(255,220,120,0.9)' }}>
                 · {totalMatches} совпадений
               </span>
@@ -746,7 +919,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
 
         {/* Sections */}
         <div style={{ maxHeight: '55vh', overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: 3 }}>
-          {filteredMdSections.length === 0 && (
+          {filteredMdSections.length === 0 && debouncedQuery.trim().length >= 2 && (
             <div style={{
               textAlign: 'center',
               padding: 20,
@@ -754,18 +927,29 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
               fontSize: 12,
               color: theme.text.muted,
             }}>
-              Ничего не найдено по запросу &laquo;{searchQuery}&raquo;
+              Ничего не найдено по запросу &laquo;{debouncedQuery}&raquo;
             </div>
           )}
 
           {filteredMdSections.map(section => {
             // During active search, keep all matched sections open so user
             // sees all occurrences at once. Otherwise use the regular toggle state.
-            const isSearching = searchQuery.trim().length >= 2
+            const isSearching = debouncedQuery.trim().length >= 2
             const isExpanded = isSearching ? true : expandedMdSection === section.id
+            const activeMatch = matchList[activeMatchIndex]
+            const isActiveSection = activeMatch?.sectionId === section.id
 
             return (
-              <div key={section.id}>
+              <div
+                key={section.id}
+                ref={el => { sectionRefs.current[section.id] = el }}
+                style={{
+                  // Подсветка активной секции оранжевой линией слева
+                  borderLeft: isActiveSection && isSearching ? '3px solid var(--c-champagne, #ffc071)' : '3px solid transparent',
+                  paddingLeft: isActiveSection && isSearching ? 4 : 0,
+                  transition: 'border-color 0.3s',
+                }}
+              >
                 <button
                   onClick={() => toggleMdSection(section.id)}
                   style={{
@@ -797,7 +981,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
                       fontWeight: section.level === 1 ? 700 : 600,
                       color: section.level === 1 ? theme.text.primary : theme.text.secondary,
                     }}>
-                      {searchQuery.trim().length >= 2 ? highlightText(section.title, searchQuery) : section.title}
+                      {isSearching ? highlightText(section.title, debouncedQuery) : section.title}
                     </div>
                   </div>
                   <span style={{
@@ -819,7 +1003,7 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
                     marginBottom: 6,
                   }}>
                     {isSearching && (() => {
-                      const q = searchQuery.trim().toLowerCase()
+                      const q = debouncedQuery.trim().toLowerCase()
                       const cl = section.content.toLowerCase()
                       const idx = cl.indexOf(q)
                       if (idx < 0) return null
@@ -833,12 +1017,12 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
                           color: theme.text.secondary,
                           padding: '6px 10px',
                           marginBottom: 8,
-                          background: 'rgba(255,220,120,0.05)',
-                          border: '1px solid rgba(255,220,120,0.15)',
+                          background: isActiveSection ? 'rgba(255,180,80,0.1)' : 'rgba(255,220,120,0.05)',
+                          border: isActiveSection ? '1px solid rgba(255,180,80,0.4)' : '1px solid rgba(255,220,120,0.15)',
                           borderRadius: 4,
                           lineHeight: 1.5,
                         }}>
-                          {highlightText(snippet, searchQuery)}
+                          {highlightText(snippet, debouncedQuery)}
                         </div>
                       )
                     })()}

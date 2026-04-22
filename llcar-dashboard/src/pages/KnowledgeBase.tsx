@@ -2,6 +2,7 @@ import { useState, useEffect, useMemo, Suspense, lazy } from 'react'
 import { SituationsList } from '../components/kb/SituationsList'
 import { DtcSearch } from '../components/kb/DtcSearch'
 import { ManualViewer } from '../components/kb/ManualViewer'
+import { KBGlobalSearch } from '../components/kb/KBGlobalSearch'
 import { GlassPanel } from '../components/shared/GlassPanel'
 import { RecallsBrowser } from '../components/panels/RecallsBrowser'
 
@@ -91,8 +92,14 @@ export function KnowledgeBase() {
     }, 180)
   }
 
-  // Derive generation name from brands data
+  // Derive generation name from brands data.
+  // Fast-path: если KBGlobalSearch уже выставил generationName (через setVehicleProfile),
+  // используем его напрямую — brands/<id>.json fetch не нужен.
   useEffect(() => {
+    if (vehicleProfile?.generationName) {
+      setGenName(vehicleProfile.generationName)
+      return
+    }
     if (!vehicleProfile?.brandId || !vehicleProfile?.generationId) {
       setGenName(null)
       return
@@ -115,13 +122,16 @@ export function KnowledgeBase() {
         setGenName(null)
       })
     return () => controller.abort()
-  }, [vehicleProfile?.brandId, vehicleProfile?.generationId, vehicleProfile?.model])
+  }, [vehicleProfile?.brandId, vehicleProfile?.generationId, vehicleProfile?.generationName, vehicleProfile?.model])
 
-  // Compute KB generation path
+  // Compute KB generation path.
+  // Fast-path: если профиль содержит kbGenPath override (выставлен KBGlobalSearch),
+  // берём его напрямую — это кратчайший путь к нужному мануалу.
   const kbGenPath = useMemo(() => {
+    if (vehicleProfile?.kbGenPath) return vehicleProfile.kbGenPath
     if (!vehicleProfile?.brandId || !genName) return null
     return deriveKBGenPath(vehicleProfile.brandId, genName)
-  }, [vehicleProfile?.brandId, genName])
+  }, [vehicleProfile?.brandId, vehicleProfile?.kbGenPath, genName])
 
   // Model-level path (same as gen path but without last segment) — для файлов которые лежат
   // один раз на модель (parts-catalog, reviews, manual_meta, images)
@@ -276,7 +286,7 @@ export function KnowledgeBase() {
                       {genName && <span style={{ color: theme.accent.teal }}> &mdash; {genName}</span>}
                       {' '}&mdash; универсальные и модельные ситуации
                     </>
-                  : '764 универсальных ситуации для всех марок и моделей'}
+                  : `${KB_STATS.generations} полных мануалов · ${KB_STATS.brands} марок · ${KB_STATS.models} моделей`}
               </div>
             </div>
             {vehicleProfile?.brand && (
@@ -307,6 +317,10 @@ export function KnowledgeBase() {
                 Отзывные кампании {vehicleProfile.brand}
               </button>
             )}
+          </div>
+          {/* Global KB search — find any manual by brand/model/generation */}
+          <div style={{ marginTop: 14 }}>
+            <KBGlobalSearch />
           </div>
         </GlassPanel>
       </div>

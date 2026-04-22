@@ -8,6 +8,13 @@ interface VehicleProfile {
   year: number
   engine: string
   generationId: string | null
+  /** Human-readable generation name — shortcut to avoid brands/<id>.json lookup
+   *  when set by global search (KBGlobalSearch). Takes precedence over
+   *  brands.json gen.id lookup in KnowledgeBase.tsx. */
+  generationName?: string
+  /** Direct kb path override: "brand/model/gen" — used by KBGlobalSearch when
+   *  we already know the exact kb folder and want to skip deriveKBGenPath. */
+  kbGenPath?: string
 }
 
 export interface HoveredPartState {
