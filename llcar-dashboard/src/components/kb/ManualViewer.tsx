@@ -83,6 +83,65 @@ function highlightText(text: string, query: string): JSX.Element | string {
 
 // ── Markdown parser ──────────────────────────────────────────────
 
+// Chunk sizes for fallback split when manual has no H2/H3 structure.
+const AUTO_CHUNK_TARGET_CHARS = 7500   // ~1200-1500 words per pseudo-section
+const AUTO_CHUNK_MIN_TOTAL = 150_000   // below this we don't bother splitting
+
+/** Derive a short descriptive title for an auto-chunked pseudo-section.
+ *  Takes first non-trivial line of the chunk (up to 60 chars). */
+function deriveChunkTitle(chunk: string, fallbackIndex: number): string {
+  const lines = chunk.split('\n')
+  for (const raw of lines) {
+    const s = raw.trim()
+    if (s.length < 4) continue
+    // Skip metadata lines inserted by S27 normalizer (pipe-separated key:val tokens)
+    if (/^[a-z0-9_]+(\s*\|\s*[a-z0-9_:]+){2,}/i.test(s)) continue
+    // Skip lone image markers
+    if (/^!\[/.test(s)) continue
+    // Strip leading markdown bold/italic markers and hashes
+    const cleaned = s.replace(/^[#*_`\s]+/, '').replace(/[*_`]+$/, '').trim()
+    if (cleaned.length < 4) continue
+    const short = cleaned.length > 60 ? cleaned.slice(0, 57) + '…' : cleaned
+    return `Часть ${fallbackIndex} — ${short}`
+  }
+  return `Часть ${fallbackIndex}`
+}
+
+/** Split large header-less content by blank-line boundaries into ~7.5 KB chunks.
+ *  Used when manual.md from PDF ingest came without ## H2 markers and would
+ *  otherwise render as one massive unscrollable section. */
+function autoChunkByParagraphs(content: string): MdSection[] {
+  // Split on runs of blank lines (paragraph boundaries)
+  const paragraphs = content.split(/\n\s*\n/).map(p => p.trim()).filter(Boolean)
+  const out: MdSection[] = []
+  let buf: string[] = []
+  let bufLen = 0
+  let idx = 0
+
+  const flushBuf = () => {
+    if (buf.length === 0) return
+    idx++
+    const body = buf.join('\n\n')
+    out.push({
+      id: `md-auto-${idx}`,
+      level: 2,
+      title: deriveChunkTitle(body, idx),
+      content: body,
+      wordCount: body.split(/\s+/).filter(Boolean).length,
+    })
+    buf = []
+    bufLen = 0
+  }
+
+  for (const para of paragraphs) {
+    buf.push(para)
+    bufLen += para.length + 2
+    if (bufLen >= AUTO_CHUNK_TARGET_CHARS) flushBuf()
+  }
+  flushBuf()
+  return out
+}
+
 function parseMarkdownSections(md: string): MdSection[] {
   const lines = md.split('\n')
   const sections: MdSection[] = []
@@ -118,7 +177,17 @@ function parseMarkdownSections(md: string): MdSection[] {
   }
   flush()
 
-  // If no headers found, treat entire content as one section
+  // Header-less fallback: if 0-1 sections AND content is sizeable — chunk by
+  // paragraphs so the manual is readable/scrollable/searchable. Otherwise
+  // parseMarkdownContent would rendering 440K words into a single DOM subtree
+  // and block the main thread for 5+ seconds.
+  if (sections.length <= 1 && md.length >= AUTO_CHUNK_MIN_TOTAL) {
+    const autoSections = autoChunkByParagraphs(md.trim())
+    if (autoSections.length > 1) {
+      return autoSections
+    }
+  }
+
   if (sections.length === 0 && md.trim().length > 0) {
     const wordCount = md.split(/\s+/).filter(Boolean).length
     sections.push({
