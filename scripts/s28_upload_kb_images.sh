@@ -41,16 +41,30 @@ echo "[info] staging: $STAGING"
 echo "[info] remote:  $REMOTE_ROOT (via $SSH_WRAPPER)"
 
 # List all shard dirs (top-level, typically 256 named 00..ff)
-shards=( $(ls "$STAGING" | sort) )
-echo "[info] shards: ${#shards[@]}"
+all_shards=( $(ls "$STAGING" | sort) )
+echo "[info] local shards: ${#all_shards[@]}"
 
-# Ensure remote root exists
+# Ensure remote root exists + list already-uploaded shards to skip
 if (( DRY_RUN == 0 )); then
   "$SSH_WRAPPER" "mkdir -p '$REMOTE_ROOT'"
+  remote_existing=$("$SSH_WRAPPER" "ls '$REMOTE_ROOT' 2>/dev/null" | tr '\n' ' ')
+  echo "[info] remote existing shards: $(echo $remote_existing | wc -w)"
+else
+  remote_existing=""
 fi
 
-# Group shards into chunks of ~20 (≈250 MB each at q55 compression)
-CHUNK_SIZE=20
+# Skip shards that fully exist on remote (simple presence check)
+shards=()
+for s in "${all_shards[@]}"; do
+  if echo "$remote_existing" | grep -qw "$s"; then
+    continue
+  fi
+  shards+=( "$s" )
+done
+echo "[info] shards to upload: ${#shards[@]}"
+
+# Group shards into small chunks of 5 (≈60 MB) to avoid SSH session abort
+CHUNK_SIZE=5
 chunk_idx=0
 total_bytes=0
 uploaded_chunks=0
@@ -77,9 +91,20 @@ for ((i=0; i<${#shards[@]}; i+=CHUNK_SIZE)); do
     echo "[chunk $chunk_idx] ok (${elapsed}s)"
     echo "$chunk_idx ${chunk_shards[0]}..${chunk_shards[-1]} ok ${elapsed}s" >> "$PROGRESS_LOG"
   else
-    echo "[chunk $chunk_idx] FAILED — retry manually"
-    echo "$chunk_idx ${chunk_shards[0]}..${chunk_shards[-1]} FAIL" >> "$PROGRESS_LOG"
+    echo "[chunk $chunk_idx] FAILED — retry in 10s..."
+    sleep 10
+    # Retry once
+    if tar cf - -C "$STAGING" "${chunk_shards[@]}" \
+       | "$SSH_WRAPPER" "tar xf - -C '$REMOTE_ROOT'"; then
+      uploaded_chunks=$((uploaded_chunks + 1))
+      echo "[chunk $chunk_idx] ok on retry"
+      echo "$chunk_idx ${chunk_shards[0]}..${chunk_shards[-1]} ok_retry" >> "$PROGRESS_LOG"
+    else
+      echo "[chunk $chunk_idx] STILL FAILED — moving on"
+      echo "$chunk_idx ${chunk_shards[0]}..${chunk_shards[-1]} FAIL" >> "$PROGRESS_LOG"
+    fi
   fi
+  sleep 2  # brief gap to let SSH server breathe
 done
 
 echo ""
