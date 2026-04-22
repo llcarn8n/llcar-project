@@ -544,13 +544,21 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
 
   // ── Search-filtered MD sections + match counts ──────────────
   // Используем debouncedQuery чтобы не пересчитывать regex на каждую нажатую клавишу.
-  const filteredMdSections = useMemo(() => {
+  // Cap на 300 чтобы не freeze'ить браузер на мануалах с 2k+ OCR-микро-секций.
+  // TODO(s29): заменить на react-window virtualization или grouping через manual-sections.json.
+  const MAX_RENDERED_SECTIONS = 300
+  const allFilteredMdSections = useMemo(() => {
     if (!debouncedQuery.trim()) return mdSections
     const q = debouncedQuery.toLowerCase()
     return mdSections.filter(
       s => s.title.toLowerCase().includes(q) || s.content.toLowerCase().includes(q)
     )
   }, [mdSections, debouncedQuery])
+  const filteredMdSections = useMemo(
+    () => allFilteredMdSections.slice(0, MAX_RENDERED_SECTIONS),
+    [allFilteredMdSections]
+  )
+  const isTruncated = allFilteredMdSections.length > MAX_RENDERED_SECTIONS
 
   // Плоский список всех совпадений (по секциям) — для prev/next navigation.
   // matchList[i] = {sectionId, offsetInSection} — даёт возможность переключать активное совпадение.
@@ -900,7 +908,10 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
             fontSize: 11,
             color: theme.text.muted,
           }}>
-            {filteredMdSections.length} из {mdSections.length} секций
+            {isTruncated
+              ? `${filteredMdSections.length} из ${allFilteredMdSections.length} секций`
+              : `${filteredMdSections.length} из ${mdSections.length} секций`
+            }
             {debouncedQuery.trim().length >= 2 && totalMatches > 0 && (
               <span style={{ marginLeft: 10, color: 'rgba(255,220,120,0.9)' }}>
                 · {totalMatches} совпадений
@@ -916,6 +927,22 @@ export function ManualViewer({ brandId, modelName, kbGenPath }: ManualViewerProp
             {totalMdWords.toLocaleString()} слов
           </span>
         </div>
+
+        {/* Truncation warning — для мануалов с 2k+ OCR-микро-секций */}
+        {isTruncated && (
+          <div style={{
+            fontSize: 11,
+            fontFamily: 'var(--f-body), sans-serif',
+            color: 'rgba(230,212,168,0.9)',
+            padding: '6px 10px',
+            background: 'rgba(230,212,168,0.06)',
+            border: '1px solid rgba(230,212,168,0.2)',
+            borderRadius: 4,
+            lineHeight: 1.4,
+          }}>
+            Показаны первые {MAX_RENDERED_SECTIONS} секций из {allFilteredMdSections.length}. Используйте поиск чтобы сузить выборку.
+          </div>
+        )}
 
         {/* Sections */}
         <div style={{ maxHeight: '55vh', overflowY: 'auto', display: 'flex', flexDirection: 'column', gap: 3 }}>
