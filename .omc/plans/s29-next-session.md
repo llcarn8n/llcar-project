@@ -4,6 +4,38 @@
 
 ---
 
+## 🚨🚨🚨 P0 BLOCKER #1 — прописать URL route `/api/kb-image/` (5 мин!)
+
+**Самое первое что делать в S29.** Всё остальное бесполезно без этого.
+
+S28 закончили с 82K webp на `/var/www/html/django/kb-images/` и backend `api_views.py::kb_image` функцией. **НО URL pattern НЕ зарегистрирован в Django `urls.py`** — curl возвращает Django 404 HTML (не webp placeholder).
+
+### Фикс
+
+1. SSH в прод, скопировать текущий `/var/www/html/django/dashboard/urls.py` в `dashboard_build/dashboard/urls.py` (файл НЕ в локальном git)
+2. Добавить в urls.py:
+   ```python
+   # В импортах:
+   from .diagnostic.api_views import (
+       diagnose_view, diagnose_latest_view, feedback_view, history_view,
+       correlations_view, shadow_metrics_view, recalls_search_view,
+       kb_image,  # ← новый
+   )
+
+   # В urlpatterns после landing/:
+   re_path(r'^api/kb-image/(?P<hash>[0-9a-f]{64})/?$', kb_image, name='kb_image'),
+   ```
+3. Commit + `bash scripts/deploy-v3.sh --skip-build`
+4. Verify: `curl -I https://llcar.ru/api/kb-image/<any_hash_from_manifest>.webp` → **200 OK**, Content-Length > 1KB
+
+**Если route уже есть после user manual edit в S28 end — skip.**
+
+### Почему это не сделали в S28
+
+Sandbox заблокировал sed in-place на прод urls.py (корректно — нужна ручная проверка). User был out of tokens → отложено в S29.
+
+---
+
 ## ⚠⚠⚠ P0 CARRYOVER из S28 — завершить images pipeline (30-60 мин)
 
 **КРИТИЧНО первым делом в S29.** S28 оставил незакрытые картинки.
