@@ -58,6 +58,7 @@ def compress_one(args: tuple) -> dict:
     hash_, src_path_str, quality, max_width = args
     src = Path(src_path_str)
     dst = STAGING / hash_[:2] / f"{hash_}.webp"
+    tmp = dst.with_suffix(".webp.tmp")
     if dst.exists():
         return {"hash": hash_, "status": "skipped_existing", "dst_kb": dst.stat().st_size // 1024}
     try:
@@ -69,7 +70,11 @@ def compress_one(args: tuple) -> dict:
             scale = max_width / w
             img = img.resize((max_width, max(1, int(round(h * scale)))), Image.LANCZOS)
         dst.parent.mkdir(parents=True, exist_ok=True)
-        img.save(dst, format="webp", quality=quality, method=6)
+        # atomic: write to .tmp, then rename to final — scp -r никогда не увидит partial webp
+        if tmp.exists():
+            tmp.unlink()
+        img.save(tmp, format="webp", quality=quality, method=6)
+        tmp.replace(dst)
         new_size = dst.stat().st_size
         return {
             "hash": hash_,
