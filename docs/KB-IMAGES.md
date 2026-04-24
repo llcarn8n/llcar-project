@@ -116,3 +116,92 @@ curl -I https://llcar.app/api/kb-image/$hash.webp
 2. **Ни один webp не попадает в git**: `.gitignore` блокирует `*.webp` в public/data/kb/.
 3. **Sharding 2-level**: первые 2 char hash = подпапка. 256 подпапок × avg ~1500 файлов = 384 тыс.
 4. **KB_IMAGES_ROOT на сервере = `/var/kb-images/`** (по умолчанию). Override env var если другой путь.
+
+---
+
+## S29 Pipeline Learnings (2026-04-24)
+
+Реальный опыт доставки 422 387 webp из `D:/manuals-export/` в `/var/www/html/django/kb-images/`. Baseline 24% → Final 100% (100/100 curl samples + 37/37 Playwright browser requests на Audi A4). Закоммичено в `785a369` + `ee3bd3f`.
+
+### 1. Atomic compress write
+
+Параллельный запуск compress + upload требует atomic rename, иначе scp захватит partial webp:
+
+```python
+# scripts/s28_compress_kb_images.py
+tmp = dst.with_suffix(".webp.tmp")
+img.save(tmp, format="webp", quality=quality, method=6)
+tmp.replace(dst)  # POSIX-atomic
+```
+
+### 2. Upload методы по скорости (628 webp/shard)
+
+| метод | время/shard | total (143 shards) | статус |
+|---|--:|--:|---|
+| `tar chunks × 5 shards` (v1 s28) | 60s но ломался | — | ❌ SSH abort |
+| `scp -r <shard>` (v2) | **220s** | **9 часов** | ❌ per-file latency |
+| `tar cf - <shard> \| ssh tar xf -` (v3) | **6-25s** | **~90 мин** | ✅ **30× быстрее** |
+
+Рабочий вариант — `scripts/s29_upload_kb_images_v3.sh`.
+
+### 3. SSH rate-limit на 185.55.57.145
+
+Симптом: `kex_exchange_identification: Software caused connection abort` при быстрой серии SSH.
+Причина: sshd `MaxStartups` режет >10 unauth connections.
+
+Решения:
+- **Single-SSH inventory** вместо 256 × `ssh ls`: один call собирает counts через server-side loop
+- **`sleep 2-3s`** между scp/tar calls
+
+### 4. Count-based skip > presence-based skip
+
+Старый скрипт проверял только `[[ -d remote/shard ]]` — неполные шарды не догружались.
+
+Правильно:
+```bash
+local_n=$(find "$STAGING/$shard" -maxdepth 1 -name "*.webp" | wc -l)
+remote_n="${REMOTE_COUNTS[$shard]:-0}"
+if (( remote_n >= local_n )); then skipped; fi
+```
+
+Безопасный re-run, всегда catch-up только delta.
+
+### 5. Параллельное compress+upload workflow
+
+```bash
+# Swap manifest v2 → current
+mv images-manifest.txt images-manifest-v1.txt
+mv images-manifest-v2.txt images-manifest.txt
+
+# Параллельно — atomic write позволяет
+python scripts/s28_compress_kb_images.py --workers 8 &   # ~90 мин
+bash scripts/s29_upload_kb_images_v3.sh &                # первый pass ~25 мин
+
+# После первого pass upload делаем re-run пока compress работает
+bash scripts/s29_upload_kb_images_v3.sh                  # ~90 мин, догоняет delta
+
+# Финальный pass
+bash scripts/s29_upload_kb_images_v3.sh                  # ~30 сек, всё skip
+
+# Verify
+N=100 bash scripts/s29_verify_kb_images.sh               # → 100/100 200 OK
+```
+
+### 6. Текущие пути прода (updated 2026-04-24)
+
+| ключ | значение |
+|---|---|
+| Remote host | `webadmin@185.55.57.145` |
+| KB_IMAGES_ROOT | **`/var/www/html/django/kb-images/`** (мигрировано с `/var/kb-images/` в `21b1170`) |
+| API route | `/api/kb-image/<hash>` (зарегистрирован в `ea1d4b0`) |
+| Test URL | `https://llcar.ru/api/kb-image/<hash>.webp` (200 OK, image/webp, Cache-Control: immutable) |
+
+### 7. Скрипты S29
+
+| файл | назначение |
+|---|---|
+| `scripts/s28_compress_kb_images.py` | resumable compress, atomic write |
+| `scripts/s29_upload_kb_images_v3.sh` | **primary** — tar-over-ssh per-shard, resumable |
+| `scripts/s29_verify_kb_images.sh` | sample N curl HEAD, % 200 OK |
+| `scripts/s29_verify_vehicles_vs_kb.py` | H3.10 baseline check |
+| `scripts/s29_full_manual_mapper.py` | fuzzy mapping vehicles ↔ kb ↔ D:/sources |
