@@ -16,6 +16,8 @@
 
 ## 📊 Фактическое состояние на старт S30
 
+### Структура KB
+
 | метрика | значение | замечание |
 |---|--:|---|
 | Brands в kb/ | 77 | |
@@ -25,8 +27,26 @@
 | Orphans (vehicles без kb/) | **199** | найдено в `.omc/research/s29-orphan-models.md` |
 | No-manual gens | 52 | kb-папка есть, но внутри пусто |
 | Strays (kb без vehicles) | 114 | kb-папка есть, но не в dropdown |
-| Webp на проде | **422 387** (100% 200 OK) | ✅ S29 closed |
-| URL route `/api/kb-image/` | ✅ commit `ea1d4b0` | |
+
+### Картинки (измерено в S29 finalize)
+
+| слой | количество |
+|---|--:|
+| Webp на проде `/var/www/html/django/kb-images/` | **422 387** (100% 200 OK) ✅ |
+| Unique hashes в v2 манифесте | 422 387 |
+| Raw `![` refs во всех manual.md | 1 608 216 (reuse ×3.8) |
+| Webp в `D:/manuals-export/` | **687 092** |
+| Jpg в `D:/manuals-export/` (не конвертированы) | **174 608** |
+| **Всего файлов в manuals-export** | **861 700** |
+| Webp в `D:/transfer4/` (большой резерв) | **1 318 356** |
+| **Gap 1:** orphaned webp в source (не в манифесте) | **~439 K** (687K - 247K ref'd) |
+| **Gap 2:** jpg не сжаты в webp | **~175 K** |
+
+### Инфра (закрыто в S29)
+
+- URL route `/api/kb-image/<hash>` — commit `ea1d4b0`
+- Prod path `/var/www/html/django/kb-images/` — commit `21b1170`
+- Pipeline: atomic compress + tar-over-ssh v3 per-shard
 
 **Verified в S29 финале:**
 - curl HEAD: 100/100 sample = 200 OK
@@ -227,6 +247,75 @@ bash scripts/deploy-v3.sh  # rsync build/ + kb/ (новые orphan мануал�
 **Verify:**
 - `curl -I https://llcar.ru/v3/kb` → 200 OK
 - Playwright 5 случайных моделей из orphan-fixed списка → видят manual + images
+
+---
+
+## 🖼️ P1 — Image gap analytics + enrichment (3-4 часа)
+
+### Реальные цифры картинок (S29 final measurement)
+
+| слой | количество |
+|---|--:|
+| `D:/manuals-export/*.webp` | **687 092** |
+| `D:/manuals-export/*.jpg` (не конвертированы) | **174 608** |
+| **Всего в manuals-export** | **861 700** |
+| `D:/transfer4/*.webp` (потенциал обогащения) | **1 318 356** |
+| Raw `![` markers во всех manual.md (non-unique) | **1 608 216** |
+| Unique hashes в текущем v2 манифесте | **422 387** |
+| Webp на проде | **422 387** (100% referenced) |
+
+### Gap analysis
+
+1. **439 313 webp "бесхозные" в manuals-export** — хэши существуют в D:/, но ни один manual.md их не референсит. Причины:
+   - Картинки были в оригинальном PDF но ingest не зацепил соответствующий параграф
+   - Manual.md нормализатор обрезал блок с картинкой (S27 этап G junk removal)
+   - Old version manual.md (до variant-split) содержал больше картинок чем текущий
+
+2. **174 608 jpg не сжаты в webp** — сырьё ждёт конвертации. Сжатие даст +300K+ webp кандидатов для ingest.
+
+3. **1 318 356 webp в transfer4** — большой резерв для обогащения. Особенно актуален для:
+   - 199 orphans (P0-1) — мануалы там
+   - 360 мануалов без картинок из S27 pending (`project_s27_images_pending.md`)
+
+4. **Reuse factor:** `1 608 216 raw ref / 422 387 unique = 3.8×` — каждая картинка в среднем используется в ~4 мануалах (через хэш content-addressable).
+
+### План S30 image-gap
+
+**Шаг 1 — полная карта** (30 мин):
+```bash
+python scripts/s30_image_gap_analysis.py --report .omc/research/s30-image-gap.md
+```
+Новый скрипт должен:
+- Пройти все 862K файлов в `D:/manuals-export/`
+- Построить reverse index: hash → brands/manuals где используется
+- Выдать buckets:
+  - **used** (в текущем v2 манифесте): ~422K
+  - **orphaned_in_source** (не используется ни одним manual.md): ~440K
+  - **jpg_pending** (не конвертированы): 175K
+  - **transfer4_delta** (есть в transfer4 но не в manuals-export): diff ~631K
+
+**Шаг 2 — определить стратегию для 440K orphaned** (обсудить в начале S30):
+- **A: Ingest больше картинок в existing manuals** — если hash физически по пути `brand/model/images/`, но не в .md — добавить ссылку (прогнать GLM через block-level text chunking и вставить `![](images/<hash>.webp)`). Риск: low-quality blind insertion.
+- **B: Skip 440K** — они либо дубликаты, либо relевантны только в local-PDF контексте где текст был отжат. Accept loss.
+- **C: Targeted** — только для 199 orphans (P0-1) и 360 мануалов без картинок (S27 pending) использовать эти bucket как источник.
+
+**Рекомендация:** **C** — точечно, без blind enrichment. Низкий риск регрессий.
+
+**Шаг 3 — конвертировать 175K jpg → webp** (отложить на S31):
+- Только те jpg которые есть в path'ах где manual.md уже ссылается на webp с аналогичным именем (match by basename stem)
+- Resumable, workers=8, тот же pipeline что S29 compress
+
+**Шаг 4 — enrichment 360 "без картинок" мануалов из S27** (S31+ если успеем):
+- Input: `.omc/research/s27-image-alternatives.json` (129 кандидатов уже найдены в S27)
+- Matching через transfer4 для остальных 231
+- Требует GLM проверки качества — отдельный 1-день трек
+
+### Acceptance S30 для image track
+
+- [ ] `s30-image-gap.md` отчёт с полным breakdown 862K файлов
+- [ ] Стратегия **C** выбрана, документирована
+- [ ] Для 199 orphans (P0-1) — каждый получил свой комплект картинок
+- [ ] jpg → webp + enrichment S27 — **отложено** в S31
 
 ---
 
