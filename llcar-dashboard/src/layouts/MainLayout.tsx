@@ -9,10 +9,10 @@ import { LogoVideoModal } from '../components/shared/LogoVideoModal'
 const B = import.meta.env.BASE_URL
 const tabs = [
   { path: '/', label: 'Диагностика', icon: `${B}images/icons/nav-diagnostics.jpg` },
+  { path: '/trips', label: 'Поездки', icon: `${B}images/icons/nav-trips.jpg` },
   { path: '/kb', label: 'База знаний', icon: `${B}images/icons/nav-kb.jpg` },
   { path: '/dtc', label: 'Ошибки', icon: `${B}images/icons/nav-errors.jpg` },
   { path: '/resources', label: 'Ресурсы', icon: `${B}images/icons/nav-resources.jpg` },
-  { path: '/pricing', label: 'Тарифы', icon: `${B}images/icons/nav-pricing.jpg` },
 ]
 
 export function MainLayout({ children }: { children: ReactNode }) {
@@ -142,6 +142,52 @@ export function MainLayout({ children }: { children: ReactNode }) {
           </div>
         </div>
       </header>
+
+      {/* Mobile-only client picker row — desktop already has select inside header */}
+      <div
+        className="md:hidden flex items-center justify-center"
+        style={{
+          padding: '6px 12px 8px',
+          borderBottom: '1px solid var(--border-frost)',
+        }}
+      >
+        <div style={{ position: 'relative', display: 'flex', alignItems: 'center', width: '100%', maxWidth: 360 }}>
+          <select
+            value={clientHash}
+            onChange={(e) => setClient(e.target.value)}
+            className="nav-btn"
+            style={{
+              background: 'transparent',
+              cursor: 'pointer',
+              outline: 'none',
+              appearance: 'none',
+              WebkitAppearance: 'none',
+              MozAppearance: 'none',
+              paddingRight: 26,
+              width: '100%',
+              textAlign: 'center',
+              fontSize: 12,
+            }}
+          >
+            <option value="">Клиент · все</option>
+            <option value="b5f2f64851802f4859a3ffe3eda4b2d5">Клиент · b5f2f6 (свежий)</option>
+            <option value="362f5a4a5f95127723509e28c392850f">Клиент · 362f5a</option>
+            <option value="1bba31ec949a958d87c46c41ef765c7e">Клиент · 1bba31</option>
+            <option value="5ce91d1aa578ca17f22c0c2afc009abc">Клиент · 5ce91d</option>
+            <option value="b79831a1b4c80fc7549998661e820bef">Клиент · b79831</option>
+          </select>
+          <span style={{
+            position: 'absolute',
+            right: 10,
+            top: '50%',
+            transform: 'translateY(-55%)',
+            fontSize: 8,
+            color: 'rgba(239,242,247,0.45)',
+            pointerEvents: 'none',
+            letterSpacing: 0,
+          }}>{'▾'}</span>
+        </div>
+      </div>
 
       {/* EKG Pulse — compact, next to header border */}
 

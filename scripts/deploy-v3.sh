@@ -38,6 +38,7 @@ error() { echo -e "${RED}[ERROR]${NC} $*"; }
 
 # --- Parse flags ---
 SKIP_BUILD=false
+SKIP_KB_DATA=false
 BACKEND_ONLY=false
 FRONTEND_ONLY=false
 
@@ -50,6 +51,7 @@ PY_COUNT=0
 for arg in "$@"; do
     case "$arg" in
         --skip-build)     SKIP_BUILD=true ;;
+        --skip-kb-data)   SKIP_KB_DATA=true ;;
         --backend-only)   BACKEND_ONLY=true ;;
         --frontend-only)  FRONTEND_ONLY=true ;;
         *)                error "Unknown flag: $arg"; exit 1 ;;
@@ -129,6 +131,18 @@ if [[ "$BACKEND_ONLY" == false ]]; then
         fi
     done
 
+    # Upload static images tree (icons, hero pictures, etc) — referenced from
+    # MainLayout/Resources via `${import.meta.env.BASE_URL}images/...`.
+    # Without this, new icons land only in dist/ but never on the server.
+    if [[ -d "$DIST_DIR/images" ]]; then
+        log "Uploading dist/images/ tree (tar-over-ssh)..."
+        $SSH "mkdir -p $REMOTE_SPA/images"
+        (cd "$DIST_DIR" && tar czf - images) \
+            | $SSH "cd $REMOTE_SPA && tar xzf -" \
+            && log "  images synced" \
+            || warn "  images sync had errors (non-fatal)"
+    fi
+
     # Upload 3D models directory if it exists
     if [[ -d "$DIST_DIR/models" ]]; then
         log "Uploading 3D models..."
@@ -144,7 +158,9 @@ if [[ "$BACKEND_ONLY" == false ]]; then
     # Prefers rsync; falls back to tar-over-ssh if rsync unavailable (Windows bash).
     # Excludes _images/ — images served by backend /api/kb-image/<hash>.webp.
     KB_SRC="$DIST_DIR/data"
-    if [[ -d "$KB_SRC" ]]; then
+    if [[ "$SKIP_KB_DATA" == true ]]; then
+        log "Skipping KB data sync (--skip-kb-data)"
+    elif [[ -d "$KB_SRC" ]]; then
         log "Uploading KB data tree..."
         $SSH "mkdir -p $REMOTE_SPA/data"
         if command -v rsync >/dev/null 2>&1; then

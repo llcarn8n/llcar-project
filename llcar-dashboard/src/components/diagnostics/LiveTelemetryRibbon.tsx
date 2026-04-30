@@ -132,16 +132,19 @@ export function LiveTelemetryRibbon({ pids }: LiveTelemetryRibbonProps) {
   const loadSeries = useMemo(() => window.map(p => p.engine_load).filter((v): v is number => typeof v === 'number'), [window])
   const ltftSeries = useMemo(() => window.map(p => p.ltft).filter((v): v is number => typeof v === 'number'), [window])
 
-  // Take latest non-null per field — последнее событие может иметь не все поля заполненными,
-  // но в окне из 60 точек чаще всего есть хотя бы одно валидное значение.
-  const latestRpm = firstDefined(window.slice().reverse().map(p => p.rpm))
-  const latestSpeed = firstDefined(window.slice().reverse().map(p => p.speed))
-  const latestCoolant = firstDefined(window.slice().reverse().map(p => p.coolant))
-  const latestVoltRaw = firstDefined(window.slice().reverse().map(p => p.voltage))
+  // Latest non-null per field — ищем по ВСЕМУ массиву pids (а не только в окне
+  // sparkline'а 60), потому что бэкенд отдаёт «частично заполненные» строки:
+  // в последних N пакетах поле может быть null, а более ранние имеют значение.
+  // api_diagnostics на бэке делает то же самое (latest non-null per field).
+  const allReversed = useMemo(() => (pids || []).slice().reverse(), [pids])
+  const latestRpm = firstDefined(allReversed.map(p => p.rpm))
+  const latestSpeed = firstDefined(allReversed.map(p => p.speed))
+  const latestCoolant = firstDefined(allReversed.map(p => p.coolant))
+  const latestVoltRaw = firstDefined(allReversed.map(p => p.voltage))
   const latestVolt = latestVoltRaw != null ? normalizeVoltage(latestVoltRaw) : null
-  const latestThrottle = firstDefined(window.slice().reverse().map(p => p.throttle))
-  const latestLoad = firstDefined(window.slice().reverse().map(p => p.engine_load))
-  const latestLtft = firstDefined(window.slice().reverse().map(p => p.ltft))
+  const latestThrottle = firstDefined(allReversed.map(p => p.throttle))
+  const latestLoad = firstDefined(allReversed.map(p => p.engine_load))
+  const latestLtft = firstDefined(allReversed.map(p => p.ltft))
 
   const cells: Cell[] = [
     { label: 'ОБОРОТЫ', value: latestRpm != null ? Math.round(latestRpm).toString() : null, series: rpmSeries },

@@ -3,6 +3,8 @@ import { MapContainer, TileLayer, Polyline, Marker, Popup, useMap } from 'react-
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import { GlassPanel } from '../components/shared/GlassPanel'
+import { DefectOverlay } from '../components/maps/DefectOverlay'
+import { testNotification } from '../hooks/useDefectNotifications'
 import { useApiData } from '../hooks/useApiData'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
@@ -112,6 +114,7 @@ export function Trips() {
   const { clientHash, timeRange } = useDashboardStore()
   const [selectedTrip, setSelectedTrip] = useState<number | null>(null)
   const [listOpen, setListOpen] = useState(true)
+  const [showDefects, setShowDefects] = useState(false)
 
   const { data } = useApiData<{ trips: Trip[] }>({
     endpoint: '/api/trips/',
@@ -129,8 +132,12 @@ export function Trips() {
 
   return (
     <div className="flex flex-col md:grid md:grid-cols-12 gap-3" style={{ height: 'calc(100vh - 80px)' }}>
-      {/* Trip list sidebar — collapsible on mobile */}
-      <div className="md:col-span-3 overflow-y-auto md:max-h-[calc(100vh-100px)]" style={{ maxHeight: listOpen ? 220 : 48 }}>
+      {/* Trip list sidebar — collapsible on mobile, full-height on desktop */}
+      <div
+        className={`md:col-span-3 overflow-y-auto md:!max-h-[calc(100vh-100px)] ${
+          listOpen ? 'max-h-[55vh]' : 'max-h-[48px]'
+        }`}
+      >
         <GlassPanel>
           <div
             className="hud-header mb-3 cursor-pointer md:cursor-default flex items-center justify-between"
@@ -180,6 +187,42 @@ export function Trips() {
             </div>
           ) : null}
 
+          {/* Toggle: «Карта неровностей» */}
+          {listOpen && (
+            <div className="mt-3 pt-3" style={{ borderTop: '1px solid rgba(0,229,255,0.15)' }}>
+              <label className="flex items-center gap-2 cursor-pointer text-[11px] font-mono"
+                     style={{ color: theme.text.secondary }}>
+                <input
+                  type="checkbox"
+                  checked={showDefects}
+                  onChange={e => setShowDefects(e.target.checked)}
+                  style={{ accentColor: '#6B5AE0' }}
+                />
+                Карта неровностей
+              </label>
+              {showDefects && (
+                <>
+                  <div className="text-[10px] mt-1" style={{ color: theme.text.muted }}>
+                    Долгое нажатие на карте — отметить дефект
+                  </div>
+                  <button
+                    onClick={testNotification}
+                    className="mt-2 px-2 py-1 text-[10px] font-mono"
+                    style={{
+                      background: 'rgba(107,90,224,0.12)',
+                      border: '1px solid rgba(107,90,224,0.4)',
+                      color: '#fff',
+                      borderRadius: 4,
+                      cursor: 'pointer',
+                    }}
+                  >
+                    Тест уведомления
+                  </button>
+                </>
+              )}
+            </div>
+          )}
+
           {/* Trip stats */}
           {active && listOpen && (
             <div className="mt-4 pt-3" style={{ borderTop: '1px solid rgba(0,229,255,0.15)' }}>
@@ -224,6 +267,7 @@ export function Trips() {
             />
 
             <MapController trips={trips} selectedTrip={selectedTrip} />
+            <DefectOverlay enabled={showDefects} clientHash={clientHash} />
 
             {/* Render all trips or just selected */}
             {(selectedTrip !== null ? [trips[selectedTrip]] : trips).map((trip, ti) => {

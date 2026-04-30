@@ -14,6 +14,7 @@ const Landing = lazyWithRetry(() => import('./pages/Landing').then(m => ({ defau
 const KnowledgeBase = lazyWithRetry(() => import('./pages/KnowledgeBase').then(m => ({ default: m.KnowledgeBase })))
 const ErrorCodes = lazyWithRetry(() => import('./pages/ErrorCodes').then(m => ({ default: m.ErrorCodes })))
 const Diagnostics = lazyWithRetry(() => import('./pages/Diagnostics').then(m => ({ default: m.Diagnostics })))
+const Trips = lazyWithRetry(() => import('./pages/Trips').then(m => ({ default: m.Trips })))
 const Resources = lazyWithRetry(() => import('./pages/Resources').then(m => ({ default: m.Resources })))
 const Pricing = lazyWithRetry(() => import('./pages/Pricing').then(m => ({ default: m.Pricing })))
 const NebulaDemo = lazyWithRetry(() => import('./pages/NebulaDemo').then(m => ({ default: m.NebulaDemo })))
@@ -106,6 +107,7 @@ function App() {
             <Routes>
               <Route path="/" element={<Diagnostics />} />
               <Route path="/diagnostics" element={<Diagnostics />} />
+              <Route path="/trips" element={<Trips />} />
               <Route path="/kb" element={<KnowledgeBase />} />
               <Route path="/dtc" element={<ErrorCodes />} />
               <Route path="/resources" element={<Resources />} />

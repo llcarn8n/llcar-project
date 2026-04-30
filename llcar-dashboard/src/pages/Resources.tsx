@@ -1,5 +1,6 @@
 import { useState, useMemo } from 'react'
 import { GlassPanel } from '../components/shared/GlassPanel'
+import { Pricing } from './Pricing'
 import { useDashboardStore } from '../stores/dashboardStore'
 import { theme } from '../theme'
 import { ICONS } from '../utils/icons'
@@ -65,6 +66,7 @@ const CATEGORY_INFO: Record<string, { label: string; icon: string; color: string
   video: { label: 'Видео', icon: '\u{1F3AC}', color: 'var(--c-champagne)' },
   tool: { label: 'Инструменты', icon: '\u{1F6E0}', color: 'var(--c-champagne)' },
   manufacturer: { label: 'Производители', icon: '\u{1F3ED}', color: 'var(--c-champagne)' },
+  pricing: { label: 'Тарифы', icon: '\u{1F4B3}', color: 'var(--c-champagne)' },
 }
 
 /* RecallsSearch удалён — отзывные кампании теперь только в /v3/kb */
@@ -160,7 +162,15 @@ export function Resources() {
         </div>
       </div>
 
-      {/* Resources list */}
+      {/* Pricing tab — rendered inline instead of resource grid */}
+      {catFilter === 'pricing' && (
+        <div className="col-span-12">
+          <Pricing />
+        </div>
+      )}
+
+      {/* Resources list (hidden when pricing tab is active) */}
+      {catFilter !== 'pricing' && (
       <div className="col-span-12">
         <div style={{
           display: 'grid',
@@ -230,6 +240,7 @@ export function Resources() {
           })}
         </div>
       </div>
+      )}
 
       {/* Recalls блок удалён — отзывные кампании живут в /v3/kb. */}
     </div>
